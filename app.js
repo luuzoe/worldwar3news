@@ -226,7 +226,7 @@
     if (heroItem) {
       hero.style.display = "";
       hero.innerHTML =
-        '<div class="hero-img">' + (heroItem.image ? '<img src="' + esc(heroItem.image) + '" alt="" loading="lazy">' : '<div class="hero-fallback">WORLD WAR 3<br>NEWS</div>') + '</div>' +
+        '<div class="hero-img">' + (heroItem.image ? '<img src="' + esc(heroItem.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()">' : '<div class="hero-fallback">WORLD WAR 3<br>NEWS</div>') + '</div>' +
         '<div class="hero-body"><span><span class="badge">' + t("featured") + " • " + esc(heroItem.category) + "</span>" + newBadge(heroItem.published) + "</span>" +
         '<h2><a href="' + esc(articleUrl(heroItem)) + '">' + esc(heroItem.title) + "</a></h2>" +
         "<p>" + esc(heroItem.summary || "") + "</p>" +
@@ -242,7 +242,7 @@
       var tags = '<span class="tag cat-' + catSlug(it.category) + '">' + esc(it.category) + "</span>" + langTag(it) +
         (it.countries || []).map(function (c) { return '<span class="tag country">' + esc(c) + "</span>"; }).join("");
       var thumb = it.image
-        ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
+        ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>'
         : "";
       var actions = '<button class="mini-btn' + (isSaved(it.link) ? " saved" : "") + '" type="button" data-save="' + esc(it.link) + '">' + (isSaved(it.link) ? t("savedLabel") : t("save")) + "</button>" +
         '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";

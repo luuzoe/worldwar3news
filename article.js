@@ -121,7 +121,7 @@
     var tags = '<span class="tag">' + esc(it.category) + "</span>" +
       (it.lang === "my" ? '<span class="tag lang-my">မြန်မာ</span>' : "") +
       (it.countries || []).map(function (c) { return '<span class="tag country">' + esc(c) + "</span>"; }).join("");
-    var img = it.image ? '<div class="article-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>' : "";
+    var img = it.image ? '<div class="article-img"><img src="' + esc(it.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>' : "";
     var body = it.body || it.summary || "";
     var paragraphs = body.split(/\n+/).filter(function (x) { return x.trim(); });
     var bodyHtml = paragraphs.length

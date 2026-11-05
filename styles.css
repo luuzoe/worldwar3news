@@ -149,6 +149,7 @@ a{color:inherit}
 
 .clear-filters{background:none;border:0;color:var(--red);font-weight:800;cursor:pointer;font-size:13px}
 .saved-actions{display:flex;gap:8px;margin:0 0 12px;flex-wrap:wrap}
+.saved-actions[hidden]{display:none}
 
 .origin-small{font-size:12px;color:var(--muted);margin-top:14px}
 .meta a{color:inherit}
