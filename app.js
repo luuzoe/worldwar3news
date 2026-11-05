@@ -3,7 +3,7 @@
 (function () {
   var savedStore = [];
   try { savedStore = JSON.parse(localStorage.getItem("ww3saved") || "[]"); } catch (e) { savedStore = []; }
-  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null, view: "all" };
+  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null, view: "all", warOnly: false };
   function isSaved(link) { return savedStore.indexOf(link) !== -1; }
   function persistSaved() { try { localStorage.setItem("ww3saved", JSON.stringify(savedStore)); } catch (e) {} }
   var CONFLICT = ["Ukraine / Russia", "Middle East", "Asia-Pacific", "Europe / NATO"];
@@ -35,6 +35,7 @@
       translate: "မြန်မာလို ဖတ်ရန်",
       today: "ဒီနေ့",
       tapHome: "ပင်မ",
+      warOnly: "⚔️ စစ်ပွဲ",
       tapLatest: "အသစ်",
       tapMy: "မြန်မာ",
       tapCountries: "နိုင်ငံ",
@@ -74,6 +75,7 @@
       translate: "Read in Burmese",
       today: "Today",
       tapHome: "Home",
+      warOnly: "⚔️ War",
       tapLatest: "Latest",
       tapMy: "Burmese",
       tapCountries: "Countries",
@@ -176,6 +178,7 @@
     var q = state.q.trim().toLowerCase();
     return state.data.items.filter(function (it) {
       if (state.view === "saved" && !isSaved(it.link)) return false;
+      if (state.warOnly && !it.is_war) return false;
       if (state.cat && it.category !== state.cat) return false;
       if (state.country && (it.countries || []).indexOf(state.country) === -1) return false;
       if (state.newsLang && (it.lang || "en") !== state.newsLang) return false;
@@ -192,7 +195,7 @@
   }
 
   function hasFilter() {
-    return !!(state.cat || state.country || state.q || state.newsLang || state.day || state.view === "saved");
+    return !!(state.cat || state.country || state.q || state.newsLang || state.day || state.view === "saved" || state.warOnly);
   }
 
   function metaLine(it) {
@@ -221,17 +224,7 @@
     } else {
       hero.style.display = "none";
     }
-    var topEl = document.getElementById("topStories");
-    if (!hasFilter() && rest.length > 1) {
-      topEl.innerHTML = rest.slice(0, 2).map(function (it) {
-        return '<article class="top-card"><div class="tag-row"><span class="tag">' + esc(it.category) + "</span>" + langTag(it) + "</div>" +
-          '<h3><a href="' + esc(articleUrl(it)) + '">' + esc(it.title) + "</a></h3>" +
-          '<div class="meta">' + metaLine(it) + "</div></article>";
-      }).join("");
-      rest = rest.slice(2);
-    } else {
-      topEl.innerHTML = "";
-    }
+    // Clean UI: no separate top-stories row in v6 - hero + grid only.
     var grid = document.getElementById("grid");
     var show = rest.slice(0, state.shown);
     grid.innerHTML = show.map(function (it) {
@@ -239,14 +232,14 @@
         (it.countries || []).map(function (c) { return '<span class="tag country">' + esc(c) + "</span>"; }).join("");
       var thumb = it.image
         ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
-        : '<div class="card-img">' + esc(it.category) + "</div>";
+        : "";
       var actions = '<button class="mini-btn' + (isSaved(it.link) ? " saved" : "") + '" type="button" data-save="' + esc(it.link) + '">' + (isSaved(it.link) ? t("savedLabel") : t("save")) + "</button>" +
         '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
       if (it.lang !== "my") {
         actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '" target="_blank" rel="noopener">' + t("translate") + "</a>";
       }
       return '<article class="card">' + thumb +
-        '<div class="card-body"><div class="tag-row">' + tags + newBadge(it.published) + "</div>" +
+        '<div class="card-body"><div class="tag-row">' + tags + "</div>" +
         '<h3><a href="' + esc(articleUrl(it)) + '">' + esc(it.title) + "</a></h3>" +
         "<p>" + esc(it.summary || "") + "</p>" +
         '<div class="meta">' + metaLine(it) + "</div>" +
@@ -258,7 +251,8 @@
       (state.country ? " • " + state.country : "") +
       (state.cat ? " • " + state.cat : "") +
       (state.newsLang === "my" ? " • " + t("burmeseNews") : state.newsLang === "en" ? " • English" : "") +
-      (state.day === "today" ? " • " + t("today") : state.day === "yesterday" ? " • " + t("yesterday") : "");
+      (state.day === "today" ? " • " + t("today") : state.day === "yesterday" ? " • " + t("yesterday") : "") +
+      (state.warOnly ? " • " + t("warOnly") : "");
     var more = document.getElementById("moreBtn");
     more.disabled = rest.length <= state.shown;
     more.style.display = rest.length > 24 ? "" : "none";
@@ -289,11 +283,16 @@
   function renderChips() {
     var data = state.data;
     var catEl = document.getElementById("catChips");
-    catEl.innerHTML = pill(t("all"), !state.cat, "cat", "") +
+    catEl.innerHTML = '<button class="chip' + (state.warOnly ? " active" : "") + '" id="warChipBtn">' + t("warOnly") + "</button>" +
+      pill(t("all"), !state.cat, "cat", "") +
       data.categories.map(function (c) { return pill(esc(c), state.cat === c, "cat", c); }).join("");
     catEl.querySelectorAll("button").forEach(function (b) {
       b.addEventListener("click", function () {
-        state.cat = b.getAttribute("data-cat");
+        if (b.id === "warChipBtn") {
+          state.warOnly = !state.warOnly;
+        } else {
+          state.cat = b.getAttribute("data-cat");
+        }
         state.shown = 24;
         renderChips();
         render();
@@ -305,19 +304,21 @@
         return '<option value="' + esc(pair[0]) + '"' + (state.country === pair[0] ? " selected" : "") + ">" + esc(pair[0]) + " (" + pair[1] + ")</option>";
       }).join("");
     var cEl = document.getElementById("countryChips");
-    cEl.innerHTML = pill(t("all"), !state.country, "country", "") +
-      data.countries.slice(0, 8).map(function (pair) {
-        return pill(esc(pair[0]) + " (" + pair[1] + ")", state.country === pair[0], "country", pair[0]);
-      }).join("");
-    cEl.querySelectorAll("button").forEach(function (b) {
-      b.addEventListener("click", function () {
-        state.country = b.getAttribute("data-country");
-        sel.value = state.country;
-        state.shown = 24;
-        renderChips();
-        render();
+    if (cEl) {
+      cEl.innerHTML = pill(t("all"), !state.country, "country", "") +
+        data.countries.slice(0, 8).map(function (pair) {
+          return pill(esc(pair[0]) + " (" + pair[1] + ")", state.country === pair[0], "country", pair[0]);
+        }).join("");
+      cEl.querySelectorAll("button").forEach(function (b) {
+        b.addEventListener("click", function () {
+          state.country = b.getAttribute("data-country");
+          sel.value = state.country;
+          state.shown = 24;
+          renderChips();
+          render();
+        });
       });
-    });
+    }
     var langEl = document.getElementById("langPills");
     langEl.innerHTML = pill(t("all"), !state.newsLang, "nlang", "") +
       pill(t("burmeseNews"), state.newsLang === "my", "nlang", "my") +
@@ -427,10 +428,10 @@
         var kind = b.getAttribute("data-tap");
         var searchEl = document.getElementById("search");
         if (kind === "home") {
-          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = ""; state.q = ""; searchEl.value = ""; state.shown = 24;
+          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = ""; state.warOnly = false; state.q = ""; searchEl.value = ""; state.shown = 24;
           renderChips(); render(); window.scrollTo({ top: 0, behavior: "smooth" });
         } else if (kind === "latest") {
-          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = "today"; state.q = ""; searchEl.value = ""; state.shown = 24;
+          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = "today"; state.warOnly = false; state.q = ""; searchEl.value = ""; state.shown = 24;
           renderChips(); render(); window.scrollTo({ top: 0, behavior: "smooth" });
         } else if (kind === "my") {
           state.view = "all"; state.newsLang = "my"; state.shown = 24;
@@ -438,7 +439,7 @@
         } else if (kind === "countries") {
           state.view = "all";
           var adv = document.querySelector(".adv-filters"); if (adv) adv.open = true;
-          document.getElementById("countryChips").scrollIntoView({ behavior: "smooth", block: "start" });
+          if (adv) adv.scrollIntoView({ behavior: "smooth", block: "start" });
           render();
         } else if (kind === "search") {
           var topSearch = document.querySelector(".top-search");
