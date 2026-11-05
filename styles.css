@@ -84,6 +84,7 @@ a{color:inherit}
 .more-btn:disabled{opacity:.4;cursor:default}
 .empty{text-align:center;color:var(--muted);padding:30px 10px}
 .toast{position:fixed;left:12px;right:12px;bottom:12px;z-index:40;background:var(--navy);color:#fff;border-radius:16px;padding:12px 14px;display:flex;gap:10px;align-items:center;justify-content:space-between;box-shadow:0 8px 24px rgba(0,0,0,.3);font-size:14px;font-weight:700;max-width:640px;margin:0 auto}
+.toast[hidden]{display:none}
 .toast button{background:var(--red);color:#fff;border:0;border-radius:20px;padding:7px 14px;font-weight:800;cursor:pointer;white-space:nowrap}
 .toast #toastClose{background:transparent;padding:7px 9px}
 .to-top{position:fixed;right:16px;bottom:18px;z-index:30;width:46px;height:46px;border-radius:50%;border:1px solid var(--line);background:#fff;font-size:20px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.15);display:none}
@@ -118,4 +119,18 @@ a{color:inherit}
   .lang-btn{padding:4px 9px}
   .stats strong{font-size:17px}
   .ticker-move{animation-duration:60s}
+}
+
+.tapbar{display:none}
+.mini-btn.saved{background:#fef2f2;color:#991b1b;border-color:#fecaca}
+@media(max-width:860px){
+  .tapbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-top:1px solid var(--line);box-shadow:0 -4px 16px rgba(0,0,0,.10);padding:6px 4px calc(6px + env(safe-area-inset-bottom))}
+  .tap-btn{flex:1;border:0;background:transparent;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:1px;padding:6px 2px;color:#6b7280;font-size:11px;font-weight:700;position:relative}
+  .tap-btn.active{color:var(--red)}
+  .tap-icon{font-size:18px;line-height:1}
+  .tap-count{position:absolute;top:2px;right:14px;background:var(--red);color:#fff;font-size:10px;font-weight:800;border-radius:10px;padding:1px 6px}
+  .tap-count[hidden]{display:none}
+  .toast{bottom:78px}
+  .to-top{bottom:80px;right:12px}
+  .footer{padding-bottom:100px}
 }

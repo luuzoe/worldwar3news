@@ -1,7 +1,11 @@
 // World War 3 News v2 - front end. Data comes only from news.json, which the
 // collector rebuilds hourly from public RSS feeds. Nothing is invented here.
 (function () {
-  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null };
+  var savedStore = [];
+  try { savedStore = JSON.parse(localStorage.getItem("ww3saved") || "[]"); } catch (e) { savedStore = []; }
+  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null, view: "all" };
+  function isSaved(link) { return savedStore.indexOf(link) !== -1; }
+  function persistSaved() { try { localStorage.setItem("ww3saved", JSON.stringify(savedStore)); } catch (e) {} }
   var CONFLICT = ["Ukraine / Russia", "Middle East", "Asia-Pacific", "Europe / NATO"];
 
   var I18N = {
@@ -30,6 +34,15 @@
       copied: "ကူးပြီးပြီ ✓",
       translate: "မြန်မာလို ဖတ်ရန်",
       today: "ဒီနေ့",
+      tapHome: "ပင်မ",
+      tapLatest: "အသစ်",
+      tapMy: "မြန်မာ",
+      tapCountries: "နိုင်ငံ",
+      tapSearch: "ရှာရန်",
+      tapSaved: "သိမ်းထား",
+      save: "★ သိမ်းရန်",
+      savedLabel: "★ သိမ်းပြီး ✓",
+      savedEmpty: "သိမ်းထားတဲ့ သတင်း မရှိသေးပါ — card မှာ ★ နှိပ်ပြီး သိမ်းပါ။",
       yesterday: "မနေ့က",
       allDays: "ရက်အားလုံး",
       burmeseNews: "မြန်မာလို",
@@ -60,6 +73,15 @@
       copied: "Copied ✓",
       translate: "Read in Burmese",
       today: "Today",
+      tapHome: "Home",
+      tapLatest: "Latest",
+      tapMy: "Burmese",
+      tapCountries: "Countries",
+      tapSearch: "Search",
+      tapSaved: "Saved",
+      save: "★ Save",
+      savedLabel: "★ Saved ✓",
+      savedEmpty: "No saved stories yet — tap ★ on a card to save one.",
       yesterday: "Yesterday",
       allDays: "All days",
       burmeseNews: "Burmese",
@@ -153,6 +175,7 @@
   function filtered() {
     var q = state.q.trim().toLowerCase();
     return state.data.items.filter(function (it) {
+      if (state.view === "saved" && !isSaved(it.link)) return false;
       if (state.cat && it.category !== state.cat) return false;
       if (state.country && (it.countries || []).indexOf(state.country) === -1) return false;
       if (state.newsLang && (it.lang || "en") !== state.newsLang) return false;
@@ -169,7 +192,7 @@
   }
 
   function hasFilter() {
-    return !!(state.cat || state.country || state.q || state.newsLang || state.day);
+    return !!(state.cat || state.country || state.q || state.newsLang || state.day || state.view === "saved");
   }
 
   function metaLine(it) {
@@ -217,7 +240,8 @@
       var thumb = it.image
         ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
         : '<div class="card-img">' + esc(it.category) + "</div>";
-      var actions = '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
+      var actions = '<button class="mini-btn' + (isSaved(it.link) ? " saved" : "") + '" type="button" data-save="' + esc(it.link) + '">' + (isSaved(it.link) ? t("savedLabel") : t("save")) + "</button>" +
+        '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
       if (it.lang !== "my") {
         actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '" target="_blank" rel="noopener">' + t("translate") + "</a>";
       }
@@ -243,6 +267,19 @@
     document.getElementById("statCountries").textContent = data.countries.length;
     document.getElementById("statUpdated").textContent = data.updated_yangon || "—";
     document.getElementById("sourceList").textContent = "Sources: " + data.sources.join(" • ");
+    var sc = document.getElementById("savedCount");
+    if (sc) { sc.hidden = savedStore.length === 0; sc.textContent = savedStore.length; }
+    if (state.view === "saved" && savedStore.length === 0) {
+      document.getElementById("empty").textContent = t("savedEmpty");
+    }
+    var tapName = "home";
+    if (state.view === "saved") tapName = "saved";
+    else if (state.country) tapName = "countries";
+    else if (state.newsLang === "my") tapName = "my";
+    else if (state.day === "today") tapName = "latest";
+    document.querySelectorAll("[data-tap]").forEach(function (b) {
+      b.classList.toggle("active", b.getAttribute("data-tap") === tapName);
+    });
   }
 
   function pill(label, active, attr, val) {
@@ -344,6 +381,15 @@
       render();
     });
     document.getElementById("grid").addEventListener("click", function (e) {
+      var saveBtn = e.target.closest("[data-save]");
+      if (saveBtn) {
+        var slink = saveBtn.getAttribute("data-save");
+        var idx = savedStore.indexOf(slink);
+        if (idx === -1) savedStore.push(slink); else savedStore.splice(idx, 1);
+        persistSaved();
+        render();
+        return;
+      }
       var btn = e.target.closest("[data-share]");
       if (!btn) return;
       var link = btn.getAttribute("data-share");
@@ -362,14 +408,46 @@
     var toastClose = document.getElementById("toastClose");
     if (toastClose) toastClose.addEventListener("click", function () { document.getElementById("toast").hidden = true; });
     document.getElementById("toastBtn").addEventListener("click", function () {
-      if (state.pending) {
-        state.data = state.pending;
+      function applyFresh(fresh) {
+        state.data = fresh;
         state.pending = null;
         document.getElementById("toast").hidden = true;
         setTicker();
         renderChips();
         render();
       }
+      if (state.pending) { applyFresh(state.pending); return; }
+      fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (fresh) {
+        if (fresh.updated !== state.data.updated) applyFresh(fresh);
+        else document.getElementById("toast").hidden = true;
+      }).catch(function () { document.getElementById("toast").hidden = true; });
+    });
+    document.querySelectorAll("[data-tap]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var kind = b.getAttribute("data-tap");
+        var searchEl = document.getElementById("search");
+        if (kind === "home") {
+          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = ""; state.q = ""; searchEl.value = ""; state.shown = 24;
+          renderChips(); render(); window.scrollTo({ top: 0, behavior: "smooth" });
+        } else if (kind === "latest") {
+          state.view = "all"; state.cat = ""; state.country = ""; state.newsLang = ""; state.day = "today"; state.q = ""; searchEl.value = ""; state.shown = 24;
+          renderChips(); render(); window.scrollTo({ top: 0, behavior: "smooth" });
+        } else if (kind === "my") {
+          state.view = "all"; state.newsLang = "my"; state.shown = 24;
+          renderChips(); render(); document.getElementById("grid").scrollIntoView({ behavior: "smooth" });
+        } else if (kind === "countries") {
+          state.view = "all";
+          var adv = document.querySelector(".adv-filters"); if (adv) adv.open = true;
+          document.getElementById("countryChips").scrollIntoView({ behavior: "smooth", block: "start" });
+          render();
+        } else if (kind === "search") {
+          document.querySelector(".sticky-filters").scrollIntoView({ behavior: "smooth" });
+          setTimeout(function () { searchEl.focus(); }, 350);
+        } else if (kind === "saved") {
+          state.view = "saved"; state.shown = 24;
+          render(); document.getElementById("grid").scrollIntoView({ behavior: "smooth" });
+        }
+      });
     });
     var toTop = document.getElementById("toTop");
     window.addEventListener("scroll", function () {

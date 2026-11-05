@@ -72,8 +72,28 @@
       img + '<div class="article-body">' + bodyHtml + "</div>" +
       '<div class="note-box">ℹ️ ဒီမှာ ပြထားတာက မူရင်းသတင်းဌာနက ထုတ်ပြန်တဲ့ အကျဉ်းချုပ် အပြည့်အစုံပါ။ ဆောင်းပါး အပြည့်အစုံကို ဒီ site ထဲ ကူးယူဖော်ပြလို့ မရလို့၊ အပြည့်အစုံ ဖတ်ချင်ရင် အောက်က ခလုတ်နဲ့ မူရင်းမှာ ဆက်ဖတ်ပါ။</div>' +
       '<a class="origin-btn" href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.source) + " မှာ အပြည့်အစုံ ဖတ်ရန် →</a>" +
-      '<div class="card-actions" style="margin-top:14px"><button class="mini-btn" type="button" id="shareBtn">↗ မျှဝေရန်</button>' +
+      '<div class="card-actions" style="margin-top:14px"><button class="mini-btn" type="button" id="saveBtn">★ သိမ်းရန်</button><button class="mini-btn" type="button" id="shareBtn">↗ မျှဝေရန်</button>' +
       (it.lang !== "my" ? '<a class="mini-btn" href="https://translate.google.com/translate?sl=en&tl=my&u=' + encodeURIComponent(it.link) + '" target="_blank" rel="noopener">မြန်မာလို ဖတ်ရန်</a>' : "") + "</div>";
+    var saveBtn = document.getElementById("saveBtn");
+    function refreshSaveBtn() {
+      if (!saveBtn) return;
+      var saved = [];
+      try { saved = JSON.parse(localStorage.getItem("ww3saved") || "[]"); } catch (e) {}
+      var on = saved.indexOf(it.link) !== -1;
+      saveBtn.textContent = on ? "★ သိမ်းပြီး ✓" : "★ သိမ်းရန်";
+      saveBtn.classList.toggle("saved", on);
+    }
+    refreshSaveBtn();
+    if (saveBtn) {
+      saveBtn.addEventListener("click", function () {
+        var saved = [];
+        try { saved = JSON.parse(localStorage.getItem("ww3saved") || "[]"); } catch (e) {}
+        var idx = saved.indexOf(it.link);
+        if (idx === -1) saved.push(it.link); else saved.splice(idx, 1);
+        try { localStorage.setItem("ww3saved", JSON.stringify(saved)); } catch (e) {}
+        refreshSaveBtn();
+      });
+    }
     var shareBtn = document.getElementById("shareBtn");
     if (shareBtn) {
       shareBtn.addEventListener("click", function () {
