@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World War 3 News — နိုင်ငံတကာသတင်း ၂၄ နာရီ အပ်ဒိတ်</title>
+<meta name="description" content="တကမ္ဘာလုံးက နိုင်ငံတကာသတင်းတွေ — Ukraine, အရှေ့အလယ်ပိုင်း၊ အာရှ-ပစိဖိတ်၊ ဥရောပ၊ အမေရိက — နာရီတိုင်း အပ်ဒိတ်။ နိုင်ငံအလိုက် ရွေးကြည့်နိုင်သည်။">
+<link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="logo" href="./">
+      <span class="logo-mark">WW3</span>
+      <span class="logo-text"><strong>World War 3 News</strong><small data-i18n="tagline">နိုင်ငံတကာသတင်း • ၂၄ နာရီ အပ်ဒိတ်</small></span>
+    </a>
+    <div class="top-right">
+      <span class="live"><span class="dot"></span>LIVE</span>
+      <span class="clock" id="clock">--:--</span>
+      <button id="langBtn" class="lang-btn" type="button">EN</button>
+    </div>
+  </div>
+  <div class="ticker" aria-label="Breaking">
+    <span class="ticker-label" data-i18n="breaking">🔴 နောက်ဆုံးရ</span>
+    <div class="ticker-track"><div class="ticker-move" id="tickerMove"></div></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="stats" aria-label="Status">
+    <div><strong id="statCount">—</strong><span data-i18n="statStories">သတင်းများ</span></div>
+    <div><strong id="statCountries">—</strong><span data-i18n="statCountries">နိုင်ငံများ</span></div>
+    <div><strong id="statSources">—</strong><span data-i18n="statSources">သတင်းဌာနများ</span></div>
+    <div><strong id="statUpdated">—</strong><span data-i18n="statUpdated">နောက်ဆုံးအပ်ဒိတ်</span></div>
+  </section>
+
+  <section id="hero" class="hero" aria-label="Featured"></section>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="သတင်းရှာပါ… ဥပမာ Ukraine, Iran, China" aria-label="Search news">
+    <label class="country-label">
+      <span data-i18n="byCountry">နိုင်ငံအလိုက်</span>
+      <select id="countrySelect" aria-label="Filter by country">
+        <option value="">🌍 နိုင်ငံအားလုံး</option>
+      </select>
+    </label>
+  </section>
+
+  <nav class="chips" id="catChips" aria-label="Categories"></nav>
+  <nav class="chips chips-country" id="countryChips" aria-label="Top countries"></nav>
+
+  <p class="result-line" id="resultLine"></p>
+  <section class="grid" id="grid" aria-live="polite"></section>
+  <div class="more-wrap"><button id="moreBtn" class="more-btn" type="button" data-i18n="loadMore">နောက်ထပ် သတင်းများ ပြပါ</button></div>
+  <p class="empty" id="empty" hidden data-i18n="empty">ဒီစစ်ထုတ်မှုနဲ့ ကိုက်ညီတဲ့ သတင်း မရှိသေးပါ။ စစ်ထုတ်မှုကို ဖြုတ်ကြည့်ပါ။</p>
+</main>
+
+<footer class="wrap footer">
+  <p data-i18n="disclaimer">⚠️ မှတ်ချက် — တတိယကမ္ဘာစစ် မစသေးပါ။ ဒီ site က ကမ္ဘာ့ တင်းမာမှုတွေ၊ စစ်ပွဲတွေနဲ့ နိုင်ငံတကာသတင်းတွေကို စုစည်းပြတာပါ။ ခေါင်းစဉ်တိုင်းက မူရင်းသတင်းဌာနက ဖြစ်ပြီး၊ အပြည့်အစုံ ဖတ်ဖို့ မူရင်းလင့်ခ်ကို နှိပ်ပါ။ သတင်းကို ကိုယ်တိုင် မဖန်တီးပါ။</p>
+  <p class="sources" id="sourceList"></p>
+  <p class="credit">World War 3 News • <span data-i18n="autoUpdate">နာရီတိုင်း အလိုအလျောက် အပ်ဒိတ်</span> • <a href="news.json">news.json</a></p>
+</footer>
+
+<script src="app.js?v=1"></script>
+</body>
+</html>
