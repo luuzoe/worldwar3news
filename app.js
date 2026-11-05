@@ -75,6 +75,10 @@
     return String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
   }
 
+  function articleUrl(it) {
+    return "article.html?link=" + encodeURIComponent(it.link) + "&t=" + encodeURIComponent(it.title);
+  }
+
   function minsAgo(iso) {
     if (!iso) return null;
     return Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
@@ -187,10 +191,10 @@
       hero.innerHTML =
         '<div class="hero-img">' + (heroItem.image ? '<img src="' + esc(heroItem.image) + '" alt="" loading="lazy">' : '<div class="hero-fallback">WORLD WAR 3<br>NEWS</div>') + '</div>' +
         '<div class="hero-body"><span><span class="badge">' + t("featured") + " • " + esc(heroItem.category) + "</span>" + newBadge(heroItem.published) + "</span>" +
-        '<h2><a href="' + esc(heroItem.link) + '" target="_blank" rel="noopener">' + esc(heroItem.title) + "</a></h2>" +
+        '<h2><a href="' + esc(articleUrl(heroItem)) + '">' + esc(heroItem.title) + "</a></h2>" +
         "<p>" + esc(heroItem.summary || "") + "</p>" +
         '<div class="meta">' + metaLine(heroItem) + "</div>" +
-        '<a class="read-btn" href="' + esc(heroItem.link) + '" target="_blank" rel="noopener">' + t("readFull") + "</a></div>";
+        '<a class="read-btn" href="' + esc(articleUrl(heroItem)) + '">' + t("readFull") + "</a></div>";
     } else {
       hero.style.display = "none";
     }
@@ -198,7 +202,7 @@
     if (!hasFilter() && rest.length > 1) {
       topEl.innerHTML = rest.slice(0, 2).map(function (it) {
         return '<article class="top-card"><div class="tag-row"><span class="tag">' + esc(it.category) + "</span>" + langTag(it) + "</div>" +
-          '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
+          '<h3><a href="' + esc(articleUrl(it)) + '">' + esc(it.title) + "</a></h3>" +
           '<div class="meta">' + metaLine(it) + "</div></article>";
       }).join("");
       rest = rest.slice(2);
@@ -213,13 +217,13 @@
       var thumb = it.image
         ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
         : '<div class="card-img">' + esc(it.category) + "</div>";
-      var actions = '<button class="mini-btn" type="button" data-share="' + esc(it.link) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
+      var actions = '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
       if (it.lang !== "my") {
         actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '" target="_blank" rel="noopener">' + t("translate") + "</a>";
       }
       return '<article class="card">' + thumb +
         '<div class="card-body"><div class="tag-row">' + tags + newBadge(it.published) + "</div>" +
-        '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
+        '<h3><a href="' + esc(articleUrl(it)) + '">' + esc(it.title) + "</a></h3>" +
         "<p>" + esc(it.summary || "") + "</p>" +
         '<div class="meta">' + metaLine(it) + "</div>" +
         '<div class="card-actions">' + actions + "</div></div></article>";
@@ -343,6 +347,7 @@
       var btn = e.target.closest("[data-share]");
       if (!btn) return;
       var link = btn.getAttribute("data-share");
+      try { link = new URL(link, location.href).href; } catch (e) {}
       var title = btn.getAttribute("data-title") || "";
       if (navigator.share) {
         navigator.share({ title: title, url: link }).catch(function () {});
@@ -354,6 +359,8 @@
         });
       }
     });
+    var toastClose = document.getElementById("toastClose");
+    if (toastClose) toastClose.addEventListener("click", function () { document.getElementById("toast").hidden = true; });
     document.getElementById("toastBtn").addEventListener("click", function () {
       if (state.pending) {
         state.data = state.pending;
