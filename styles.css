@@ -1,5 +1,9 @@
 *{box-sizing:border-box}
 :root{--navy:#0b1220;--red:#e11d48;--ink:#111827;--muted:#6b7280;--line:#e5e7eb;--bg:#f4f5f7;--card:#fff}
+[data-theme="dark"]{--ink:#e5e7eb;--muted:#9ca3af;--line:#1f2937;--bg:#0b1220;--card:#111827}
+[data-theme="dark"] .tapbar{background:rgba(17,24,39,.97)}
+[data-theme="dark"] .tap-btn.active .tap-pill{background:#3f1d2b}
+[data-theme="dark"] input,[data-theme="dark"] select{background:#1f2937;color:var(--ink);border-color:var(--line)}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans Myanmar","Myanmar Text",sans-serif;background:var(--bg);color:var(--ink);line-height:1.7;font-size:16px;overflow-x:hidden}
 a{color:inherit}
 .wrap{max-width:1080px;margin:0 auto;padding:0 14px}
@@ -21,6 +25,7 @@ a{color:inherit}
 .ticker-track{overflow:hidden;flex:1;display:flex;align-items:center}
 .ticker-move{display:inline-flex;gap:48px;white-space:nowrap;padding-left:16px;animation:scroll 90s linear infinite}
 .ticker-move span{font-size:12px}
+.ticker-move.paused{animation-play-state:paused}
 @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 .stats{display:flex;gap:18px;flex-wrap:wrap;margin:14px 0 4px;padding:0 2px}
 .stats>div{background:none;border:0;padding:0;display:flex;flex-direction:row;align-items:baseline;gap:6px}
@@ -141,3 +146,6 @@ a{color:inherit}
 
 .my-note{font-size:12px;color:var(--muted);margin:0 0 12px}
 .my-toggle{font-weight:700}
+
+.clear-filters{background:none;border:0;color:var(--red);font-weight:800;cursor:pointer;font-size:13px}
+.saved-actions{display:flex;gap:8px;margin:0 0 12px;flex-wrap:wrap}

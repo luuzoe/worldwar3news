@@ -33,6 +33,19 @@
     return { link: q.get("link") || "", title: q.get("t") || "" };
   }
 
+  // Dark mode, shared with the home page (localStorage ww3theme)
+  (function () {
+    var btn = document.getElementById("themeBtn");
+    function applyTheme(th) {
+      document.documentElement.setAttribute("data-theme", th);
+      try { localStorage.setItem("ww3theme", th); } catch (e) {}
+      if (btn) btn.textContent = th === "dark" ? "☀️" : "🌙";
+    }
+    if (btn) btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+    applyTheme(document.documentElement.getAttribute("data-theme") || "light");
+  })();
   var p = params();
   var box = document.getElementById("article");
   var relBox = document.getElementById("related");
@@ -86,11 +99,21 @@
     }, Promise.resolve()).then(function () { return out.join(" "); });
   }
 
-  fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (data) {
+  Promise.all([
+    fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }),
+    fetch("archive.json?v=" + Date.now()).then(function (r) { return r.json(); }).catch(function () { return { items: [] }; })
+  ]).then(function (results) {
+    var data = results[0];
+    var archItems = results[1].items || [];
     var it = null;
     if (p.link) {
       for (var i = 0; i < data.items.length; i++) {
         if (data.items[i].link === p.link) { it = data.items[i]; break; }
+      }
+      if (!it) {
+        for (var j = 0; j < archItems.length; j++) {
+          if (archItems[j].link === p.link) { it = archItems[j]; break; }
+        }
       }
     }
     if (!it) { notFound(); return; }

@@ -3,7 +3,7 @@
 (function () {
   var savedStore = [];
   try { savedStore = JSON.parse(localStorage.getItem("ww3saved") || "[]"); } catch (e) { savedStore = []; }
-  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null, view: "all", warOnly: false };
+  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null, view: "all", warOnly: false, archive: null, archiveOn: false };
   function isSaved(link) { return savedStore.indexOf(link) !== -1; }
   function persistSaved() { try { localStorage.setItem("ww3saved", JSON.stringify(savedStore)); } catch (e) {} }
   var CONFLICT = ["Ukraine / Russia", "Middle East", "Asia-Pacific", "Europe / NATO"];
@@ -20,7 +20,7 @@
       moreFilters: "🔽 စစ်ထုတ်မှု ပိုမို — နိုင်ငံ၊ ဘာသာ၊ ရက်စွဲ",
       loadMore: "နောက်ထပ် သတင်းများ ပြပါ",
       empty: "ဒီစစ်ထုတ်မှုနဲ့ ကိုက်ညီတဲ့ သတင်း မရှိသေးပါ။ စစ်ထုတ်မှုကို ဖြုတ်ကြည့်ပါ။",
-      disclaimer: "⚠️ မှတ်ချက် — တတိယကမ္ဘာစစ် မစသေးပါ။ ဒီ site က ကမ္ဘာ့ တင်းမာမှုတွေ၊ စစ်ပွဲတွေနဲ့ နိုင်ငံတကာသတင်းတွေကို စုစည်းပြတာပါ။ ခေါင်းစဉ်တိုင်းက မူရင်းသတင်းဌာနက ဖြစ်ပြီး၊ အပြည့်အစုံ ဖတ်ဖို့ မူရင်းလင့်ခ်ကို နှိပ်ပါ။ သတင်းကို ကိုယ်တိုင် မဖန်တီးပါ။ မြန်မာလို သတင်းတွေက BBC မြန်မာရဲ့ မူရင်းမြန်မာ သတင်းတွေပါ။",
+      disclaimer: "⚠️ မှတ်ချက် — တတိယကမ္ဘာစစ် မစသေးပါ။ ဒီ site က ကမ္ဘာ့ တင်းမာမှုတွေ၊ စစ်ပွဲတွေနဲ့ နိုင်ငံတကာသတင်းတွေကို စုစည်းပြတာပါ။ ခေါင်းစဉ်တိုင်းက မူရင်းသတင်းဌာနက ဖြစ်ပြီး၊ အပြည့်အစုံ ဖတ်ဖို့ မူရင်းလင့်ခ်ကို နှိပ်ပါ။ သတင်းကို ကိုယ်တိုင် မဖန်တီးပါ။ မြန်မာလို သတင်းတွေက BBC, RFA, Irrawaddy, Myanmar Now တို့ရဲ့ မူရင်းမြန်မာ သတင်းတွေပါ။",
       autoUpdate: "နာရီတိုင်း အလိုအလျောက် အပ်ဒိတ်",
       all: "အားလုံး",
       featured: "အထူးသတင်း",
@@ -60,7 +60,7 @@
       moreFilters: "🔽 More filters — country, language, date",
       loadMore: "Show more stories",
       empty: "No stories match these filters. Try clearing a filter.",
-      disclaimer: "⚠️ Note — World War III has not started. This site collects world tensions, conflicts and international news. Every headline comes from its original news outlet; tap it to read the full story. Nothing here is invented. Burmese stories are original BBC Burmese reporting.",
+      disclaimer: "⚠️ Note — World War III has not started. This site collects world tensions, conflicts and international news. Every headline comes from its original news outlet; tap it to read the full story. Nothing here is invented. Burmese stories are original BBC, RFA, Irrawaddy and Myanmar Now reporting.",
       autoUpdate: "Auto-updated every hour",
       all: "All",
       featured: "Featured",
@@ -177,7 +177,13 @@
 
   function filtered() {
     var q = state.q.trim().toLowerCase();
-    return state.data.items.filter(function (it) {
+    var pool = state.data.items;
+    if (state.archiveOn && state.archive && state.archive.items) {
+      var seen = {};
+      state.data.items.forEach(function (x) { seen[x.link] = true; });
+      pool = state.data.items.concat(state.archive.items.filter(function (x) { return !seen[x.link]; }));
+    }
+    return pool.filter(function (it) {
       if (state.view === "saved" && !isSaved(it.link)) return false;
       if (state.warOnly && !it.is_war) return false;
       if (state.cat && it.category !== state.cat) return false;
@@ -247,13 +253,18 @@
         '<div class="card-actions">' + actions + "</div></div></article>";
     }).join("");
     document.getElementById("empty").hidden = list.length !== 0;
-    document.getElementById("resultLine").textContent =
+    var resultText =
       list.length + " " + t("results") + " " + t("found") +
       (state.country ? " • " + state.country : "") +
       (state.cat ? " • " + state.cat : "") +
       (state.newsLang === "my" ? " • " + t("burmeseNews") : state.newsLang === "en" ? " • English" : "") +
       (state.day === "today" ? " • " + t("today") : state.day === "yesterday" ? " • " + t("yesterday") : "") +
-      (state.warOnly ? " • " + t("warOnly") : "");
+      (state.warOnly ? " • " + t("warOnly") : "") +
+      (state.archiveOn ? " • Archive" : "");
+    document.getElementById("resultLine").innerHTML = esc(resultText) +
+      (hasFilter() ? ' <button id="clearFilters" class="clear-filters" type="button">✕ Filter ရှင်း</button>' : "");
+    var sa = document.getElementById("savedActions");
+    if (sa) sa.hidden = state.view !== "saved";
     var more = document.getElementById("moreBtn");
     more.disabled = rest.length <= state.shown;
     more.style.display = rest.length > 24 ? "" : "none";
@@ -272,6 +283,81 @@
     else if (state.country) tapName = "countries";
     else if (state.newsLang === "my") tapName = "my";
     else if (state.day === "today") tapName = "latest";
+    // Dark mode (persisted, applied pre-paint by the inline head script)
+    var themeBtn = document.getElementById("themeBtn");
+    function applyTheme(th) {
+      document.documentElement.setAttribute("data-theme", th);
+      try { localStorage.setItem("ww3theme", th); } catch (e) {}
+      if (themeBtn) themeBtn.textContent = th === "dark" ? "☀️" : "🌙";
+    }
+    if (themeBtn) themeBtn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+    applyTheme(document.documentElement.getAttribute("data-theme") || "light");
+    // In-page new-story notifications (static site: works while the tab is open)
+    var notifyBtn = document.getElementById("notifyBtn");
+    function syncNotifyBtn() {
+      if (notifyBtn) notifyBtn.textContent = (typeof Notification !== "undefined" && Notification.permission === "granted") ? "🔔✓" : "🔔";
+    }
+    if (notifyBtn) notifyBtn.addEventListener("click", function () {
+      if (typeof Notification === "undefined") { alert("ဒီ browser က notification မထောက်ပံ့ပါ"); return; }
+      if (Notification.permission === "granted") { try { localStorage.setItem("ww3notify", "1"); } catch (e) {} syncNotifyBtn(); return; }
+      Notification.requestPermission().then(function (perm) {
+        if (perm === "granted") { try { localStorage.setItem("ww3notify", "1"); } catch (e) {} }
+        syncNotifyBtn();
+      });
+    });
+    syncNotifyBtn();
+    // Archive search (lazy: archive.json loads only when the box is checked)
+    var archiveCheck = document.getElementById("archiveCheck");
+    if (archiveCheck) archiveCheck.addEventListener("change", function () {
+      state.archiveOn = archiveCheck.checked;
+      if (state.archiveOn && !state.archive) {
+        fetch("archive.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
+          state.archive = d; render();
+        }).catch(function () {
+          alert("Archive ဖွင့်လို့ မရပါ"); state.archiveOn = false; archiveCheck.checked = false;
+        });
+      } else render();
+    });
+    // Saved export / import (portable across devices, no account needed)
+    var exportBtn = document.getElementById("exportSaved");
+    if (exportBtn) exportBtn.addEventListener("click", function () {
+      var blob = new Blob([JSON.stringify(savedStore)], { type: "application/json" });
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(blob); a.download = "ww3-saved.json"; a.click();
+    });
+    var importInput = document.getElementById("importSaved");
+    if (importInput) importInput.addEventListener("change", function () {
+      var file = importInput.files[0]; if (!file) return;
+      var reader = new FileReader();
+      reader.onload = function () {
+        try {
+          var arr = JSON.parse(reader.result);
+          if (!Array.isArray(arr)) throw new Error("bad");
+          savedStore = arr.filter(function (x) { return typeof x === "string"; });
+          try { localStorage.setItem("ww3saved", JSON.stringify(savedStore)); } catch (e) {}
+          render();
+        } catch (e) { alert("Import ဖိုင် မမှန်ပါ — Export လုပ်ထားတဲ့ ww3-saved.json ပဲ သုံးပါ"); }
+      };
+      reader.readAsText(file);
+    });
+    // Ticker pause on tap, scroll restore on return from an article
+    var tickerEl = document.querySelector(".ticker");
+    if (tickerEl) tickerEl.addEventListener("click", function () {
+      document.getElementById("tickerMove").classList.toggle("paused");
+    });
+    document.addEventListener("click", function (e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href^="article.html"]') : null;
+      if (a) { try { sessionStorage.setItem("ww3scroll", window.scrollY); } catch (err) {} }
+    });
+    document.addEventListener("click", function (e) {
+      if (e.target && e.target.id === "clearFilters") {
+        state.cat = ""; state.country = ""; state.newsLang = ""; state.day = ""; state.warOnly = false;
+        state.q = ""; document.getElementById("search").value = ""; state.view = "all"; state.shown = 24;
+        renderChips(); render();
+      }
+    });
     document.querySelectorAll("[data-tap]").forEach(function (b) {
       b.classList.toggle("active", b.getAttribute("data-tap") === tapName);
     });
@@ -458,6 +544,11 @@
         if (fresh.updated && state.data && fresh.updated !== state.data.updated) {
           state.pending = fresh;
           document.getElementById("toast").hidden = false;
+          try {
+            if (localStorage.getItem("ww3notify") === "1" && typeof Notification !== "undefined" && Notification.permission === "granted") {
+              new Notification("World War 3 News", { body: "သတင်းအသစ် ရောက်ပြီ" });
+            }
+          } catch (e) {}
         }
       }).catch(function () {});
     }, 600000);
@@ -469,6 +560,10 @@
     setTicker();
     renderChips();
     render();
+    try {
+      var sv = sessionStorage.getItem("ww3scroll");
+      if (sv !== null) { sessionStorage.removeItem("ww3scroll"); window.scrollTo(0, parseInt(sv, 10) || 0); }
+    } catch (e) {}
     bindOnce();
     tickClock();
     setInterval(tickClock, 30000);
