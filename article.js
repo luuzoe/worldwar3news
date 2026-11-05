@@ -131,10 +131,10 @@
       '<a class="back-btn" href="./">← သတင်းအားလုံး ပြန်ကြည့်ရန်</a>' +
       '<div class="tag-row">' + tags + "</div>" +
       '<h1 class="article-title">' + esc(it.title) + "</h1>" +
-      '<div class="meta"><b>' + esc(it.source) + "</b> • " + timeAgo(it.published) + " • " + fmtYangon(it.published) + " Yangon</div>" +
+      '<div class="meta"><b><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.source) + "</a></b> • " + timeAgo(it.published) + " • " + fmtYangon(it.published) + " Yangon</div>" +
       img + '<div class="article-body">' + bodyHtml + "</div>" +
-      '<div class="note-box">ℹ️ ဒီမှာ ပြထားတာက မူရင်းသတင်းဌာနက ထုတ်ပြန်တဲ့ အကျဉ်းချုပ် အပြည့်အစုံပါ။ ဆောင်းပါး အပြည့်အစုံကို ဒီ site ထဲ ကူးယူဖော်ပြလို့ မရလို့၊ အပြည့်အစုံ ဖတ်ချင်ရင် အောက်က ခလုတ်နဲ့ မူရင်းမှာ ဆက်ဖတ်ပါ။</div>' +
-      '<a class="origin-btn" href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.source) + " မှာ အပြည့်အစုံ ဖတ်ရန် →</a>" +
+      '<div class="note-box">ℹ️ ဒီမှာ ပြထားတာက မူရင်းဌာနက အကျဉ်းချုပ် အပြည့်အစုံပါ။ အပြည့်အစုံ ဖတ်ချင်ရင် မူရင်းလင့်ခ်ကို နှိပ်ပါ။</div>' +
+      '<p class="origin-small">ဆောင်းပါး အပြည့်အစုံ: <a href="' + esc(it.link) + '" target="_blank" rel="noopener">မူရင်း လင့်ခ် →</a></p>' +
       '<div class="card-actions" style="margin-top:14px"><button class="mini-btn" type="button" id="saveBtn">★ သိမ်းရန်</button><button class="mini-btn" type="button" id="shareBtn">↗ မျှဝေရန်</button>' +
       (it.lang !== "my" ? '<button class="mini-btn my-toggle" type="button" id="myToggleBtn">မြန်မာလို ဖတ်ရန်</button>' : "") + "</div>";
     var saveBtn = document.getElementById("saveBtn");
