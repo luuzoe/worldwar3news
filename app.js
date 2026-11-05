@@ -162,7 +162,8 @@
   }
 
   function translateUrl(link) {
-    return "https://translate.google.com/translate?sl=en&tl=my&u=" + encodeURIComponent(link);
+    // In-site Burmese reading: open the article page with ?my=1 (no external tab)
+    return "article.html?link=" + encodeURIComponent(link) + "&my=1";
   }
 
   function applyLang() {
@@ -236,7 +237,7 @@
       var actions = '<button class="mini-btn' + (isSaved(it.link) ? " saved" : "") + '" type="button" data-save="' + esc(it.link) + '">' + (isSaved(it.link) ? t("savedLabel") : t("save")) + "</button>" +
         '<button class="mini-btn" type="button" data-share="' + esc(articleUrl(it)) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
       if (it.lang !== "my") {
-        actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '" target="_blank" rel="noopener">' + t("translate") + "</a>";
+        actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '">' + t("translate") + "</a>";
       }
       return '<article class="card">' + thumb +
         '<div class="card-body"><div class="tag-row">' + tags + "</div>" +
@@ -441,10 +442,6 @@
           var adv = document.querySelector(".adv-filters"); if (adv) adv.open = true;
           if (adv) adv.scrollIntoView({ behavior: "smooth", block: "start" });
           render();
-        } else if (kind === "search") {
-          var topSearch = document.querySelector(".top-search");
-          if (topSearch) topSearch.scrollIntoView({ behavior: "smooth" }); else window.scrollTo({ top: 0, behavior: "smooth" });
-          setTimeout(function () { searchEl.focus(); }, 350);
         } else if (kind === "saved") {
           state.view = "saved"; state.shown = 24;
           render(); document.getElementById("grid").scrollIntoView({ behavior: "smooth" });

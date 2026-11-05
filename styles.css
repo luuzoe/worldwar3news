@@ -126,13 +126,18 @@ a{color:inherit}
 .tapbar{display:none}
 .mini-btn.saved{background:#fef2f2;color:#991b1b;border-color:#fecaca}
 @media(max-width:860px){
-  .tapbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-top:1px solid var(--line);box-shadow:0 -4px 16px rgba(0,0,0,.10);padding:6px 4px calc(6px + env(safe-area-inset-bottom))}
-  .tap-btn{flex:1;border:0;background:transparent;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:1px;padding:6px 2px;color:#6b7280;font-size:11px;font-weight:700;position:relative}
+  .tapbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:50;background:rgba(255,255,255,.97);backdrop-filter:blur(12px);border-top:1px solid var(--line);border-radius:18px 18px 0 0;box-shadow:0 -6px 24px rgba(0,0,0,.08);padding:8px 6px calc(8px + env(safe-area-inset-bottom))}
+  .tap-btn{flex:1;border:0;background:transparent;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:2px;padding:2px 0;color:#6b7280;font-size:11px;font-weight:700;position:relative}
+  .tap-btn .tap-pill{display:flex;align-items:center;justify-content:center;width:52px;height:30px;border-radius:20px;position:relative}
+  .tap-btn svg{width:22px;height:22px;fill:currentColor}
   .tap-btn.active{color:var(--red)}
-  .tap-icon{font-size:18px;line-height:1}
-  .tap-count{position:absolute;top:2px;right:14px;background:var(--red);color:#fff;font-size:10px;font-weight:800;border-radius:10px;padding:1px 6px}
+  .tap-btn.active .tap-pill{background:#fef2f2}
+  .tap-count{position:absolute;top:-4px;right:4px;background:var(--red);color:#fff;font-size:10px;font-weight:800;border-radius:10px;padding:1px 6px}
   .tap-count[hidden]{display:none}
   .toast{bottom:78px}
   .to-top{bottom:80px;right:12px}
   .footer{padding-bottom:100px}
 }
+
+.my-note{font-size:12px;color:var(--muted);margin:0 0 12px}
+.my-toggle{font-weight:700}

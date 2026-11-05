@@ -46,6 +46,46 @@
     document.title = "သတင်း မတွေ့ပါ — World War 3 News";
   }
 
+  // ---------- In-site Burmese translation (no external tab) ----------
+  // MyMemory first (CORS-friendly), then Google gtx, then Pollinations.
+  function translateChunk(text) {
+    var q = encodeURIComponent(text);
+    return fetch("https://api.mymemory.translated.net/get?q=" + q + "&langpair=en|my-MM")
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var out = d && d.responseData && d.responseData.translatedText;
+        if (!out || /MYMEMORY WARNING|QUERY LENGTH LIMIT/i.test(out)) throw new Error("mymemory");
+        return out;
+      })
+      .catch(function () {
+        return fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=my&dt=t&q=" + q)
+          .then(function (r) { return r.json(); })
+          .then(function (d) {
+            var out = (d[0] || []).map(function (part) { return part[0]; }).join("");
+            if (!out) throw new Error("gtx");
+            return out;
+          });
+      })
+      .catch(function () {
+        return fetch("https://text.pollinations.ai/" + encodeURIComponent("Translate the following English news text to Burmese. Output only the Burmese translation, no explanation: " + text))
+          .then(function (r) { return r.text(); })
+          .then(function (out) { if (!out) throw new Error("poll"); return out.trim(); });
+      });
+  }
+  function translateLong(text) {
+    var parts = text.match(/[^.!?]+[.!?]+\s*/g) || [text];
+    var chunks = [], cur = "";
+    parts.forEach(function (part) {
+      if ((cur + part).length > 420 && cur) { chunks.push(cur.trim()); cur = part; }
+      else cur += part;
+    });
+    if (cur.trim()) chunks.push(cur.trim());
+    var out = [];
+    return chunks.reduce(function (chain, chunk) {
+      return chain.then(function () { return translateChunk(chunk); }).then(function (t) { out.push(t); });
+    }, Promise.resolve()).then(function () { return out.join(" "); });
+  }
+
   fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (data) {
     var it = null;
     if (p.link) {
@@ -73,7 +113,7 @@
       '<div class="note-box">ℹ️ ဒီမှာ ပြထားတာက မူရင်းသတင်းဌာနက ထုတ်ပြန်တဲ့ အကျဉ်းချုပ် အပြည့်အစုံပါ။ ဆောင်းပါး အပြည့်အစုံကို ဒီ site ထဲ ကူးယူဖော်ပြလို့ မရလို့၊ အပြည့်အစုံ ဖတ်ချင်ရင် အောက်က ခလုတ်နဲ့ မူရင်းမှာ ဆက်ဖတ်ပါ။</div>' +
       '<a class="origin-btn" href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.source) + " မှာ အပြည့်အစုံ ဖတ်ရန် →</a>" +
       '<div class="card-actions" style="margin-top:14px"><button class="mini-btn" type="button" id="saveBtn">★ သိမ်းရန်</button><button class="mini-btn" type="button" id="shareBtn">↗ မျှဝေရန်</button>' +
-      (it.lang !== "my" ? '<a class="mini-btn" href="https://translate.google.com/translate?sl=en&tl=my&u=' + encodeURIComponent(it.link) + '" target="_blank" rel="noopener">မြန်မာလို ဖတ်ရန်</a>' : "") + "</div>";
+      (it.lang !== "my" ? '<button class="mini-btn my-toggle" type="button" id="myToggleBtn">မြန်မာလို ဖတ်ရန်</button>' : "") + "</div>";
     var saveBtn = document.getElementById("saveBtn");
     function refreshSaveBtn() {
       if (!saveBtn) return;
@@ -104,6 +144,42 @@
           navigator.clipboard.writeText(url).then(function () { shareBtn.textContent = "ကူးပြီးပြီ ✓"; });
         }
       });
+    }
+    // In-site Burmese toggle (works on the article already rendered above)
+    var myBtn = document.getElementById("myToggleBtn");
+    if (myBtn) {
+      var titleEl = box.querySelector(".article-title");
+      var bodyEl = box.querySelector(".article-body");
+      var origTitle = titleEl.textContent, origBodyHTML = bodyEl.innerHTML;
+      var origParas = Array.prototype.slice.call(bodyEl.querySelectorAll("p")).map(function (pp) { return pp.textContent; });
+      var myOn = false, myCache = null, myBusy = false;
+      myBtn.addEventListener("click", function () {
+        if (myBusy) return;
+        if (myOn) {
+          titleEl.textContent = origTitle; bodyEl.innerHTML = origBodyHTML;
+          myOn = false; myBtn.textContent = "မြန်မာလို ဖတ်ရန်";
+          var note = document.getElementById("myNote"); if (note) note.remove();
+          return;
+        }
+        myBusy = true; myBtn.disabled = true; myBtn.textContent = "ဘာသာပြန်နေသည်…";
+        var doTranslate = myCache ? Promise.resolve(myCache) : Promise.all([translateChunk(it.title), translateLong(origParas.join(" "))])
+          .then(function (res) { myCache = res; return res; });
+        doTranslate.then(function (res) {
+          titleEl.textContent = res[0];
+          bodyEl.innerHTML = res[1].split(/(?<=\.)\s+/).map(function (para) {
+            return "<p>" + para.replace(/</g, "&lt;") + "</p>";
+          }).join("");
+          var noteEl = document.createElement("div");
+          noteEl.id = "myNote"; noteEl.className = "my-note";
+          noteEl.textContent = "⚠️ စက်ဘာသာပြန် — အတိအကျ စကားလုံးအတွက် မူရင်း English ကို ပြန်ကြည့်ပါ";
+          bodyEl.parentNode.insertBefore(noteEl, bodyEl);
+          myOn = true; myBtn.textContent = "English ပြန်ကြည့်ရန်";
+        }).catch(function () {
+          alert("ဘာသာပြန်လို့ မရသေးပါ — ကွန်နက်ရှင် စစ်ပြီး ပြန်နှိပ်ပေးပါ");
+          myBtn.textContent = "မြန်မာလို ဖတ်ရန်";
+        }).finally(function () { myBusy = false; myBtn.disabled = false; });
+      });
+      if (new URLSearchParams(location.search).get("my") === "1") myBtn.click();
     }
     var related = data.items.filter(function (x) {
       if (x.link === it.link) return false;
