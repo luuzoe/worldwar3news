@@ -441,7 +441,8 @@
           document.getElementById("countryChips").scrollIntoView({ behavior: "smooth", block: "start" });
           render();
         } else if (kind === "search") {
-          document.querySelector(".sticky-filters").scrollIntoView({ behavior: "smooth" });
+          var topSearch = document.querySelector(".top-search");
+          if (topSearch) topSearch.scrollIntoView({ behavior: "smooth" }); else window.scrollTo({ top: 0, behavior: "smooth" });
           setTimeout(function () { searchEl.focus(); }, 350);
         } else if (kind === "saved") {
           state.view = "saved"; state.shown = 24;
