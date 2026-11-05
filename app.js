@@ -1,7 +1,7 @@
-// World War 3 News - front end. Data comes only from news.json, which the
+// World War 3 News v2 - front end. Data comes only from news.json, which the
 // collector rebuilds hourly from public RSS feeds. Nothing is invented here.
 (function () {
-  var state = { data: null, cat: "", country: "", q: "", shown: 24, lang: "my" };
+  var state = { data: null, cat: "", country: "", q: "", newsLang: "", day: "", shown: 24, lang: "my", pending: null };
   var CONFLICT = ["Ukraine / Russia", "Middle East", "Asia-Pacific", "Europe / NATO"];
 
   var I18N = {
@@ -9,39 +9,61 @@
       tagline: "နိုင်ငံတကာသတင်း • ၂၄ နာရီ အပ်ဒိတ်",
       breaking: "🔴 နောက်ဆုံးရ",
       statStories: "သတင်းများ",
+      statMy: "မြန်မာလို သတင်း",
       statCountries: "နိုင်ငံများ",
-      statSources: "သတင်းဌာနများ",
       statUpdated: "နောက်ဆုံးအပ်ဒိတ်",
       byCountry: "နိုင်ငံအလိုက်",
+      moreFilters: "🔽 စစ်ထုတ်မှု ပိုမို — နိုင်ငံ၊ ဘာသာ၊ ရက်စွဲ",
       loadMore: "နောက်ထပ် သတင်းများ ပြပါ",
       empty: "ဒီစစ်ထုတ်မှုနဲ့ ကိုက်ညီတဲ့ သတင်း မရှိသေးပါ။ စစ်ထုတ်မှုကို ဖြုတ်ကြည့်ပါ။",
-      disclaimer: "⚠️ မှတ်ချက် — တတိယကမ္ဘာစစ် မစသေးပါ။ ဒီ site က ကမ္ဘာ့ တင်းမာမှုတွေ၊ စစ်ပွဲတွေနဲ့ နိုင်ငံတကာသတင်းတွေကို စုစည်းပြတာပါ။ ခေါင်းစဉ်တိုင်းက မူရင်းသတင်းဌာနက ဖြစ်ပြီး၊ အပြည့်အစုံ ဖတ်ဖို့ မူရင်းလင့်ခ်ကို နှိပ်ပါ။ သတင်းကို ကိုယ်တိုင် မဖန်တီးပါ။",
+      disclaimer: "⚠️ မှတ်ချက် — တတိယကမ္ဘာစစ် မစသေးပါ။ ဒီ site က ကမ္ဘာ့ တင်းမာမှုတွေ၊ စစ်ပွဲတွေနဲ့ နိုင်ငံတကာသတင်းတွေကို စုစည်းပြတာပါ။ ခေါင်းစဉ်တိုင်းက မူရင်းသတင်းဌာနက ဖြစ်ပြီး၊ အပြည့်အစုံ ဖတ်ဖို့ မူရင်းလင့်ခ်ကို နှိပ်ပါ။ သတင်းကို ကိုယ်တိုင် မဖန်တီးပါ။ မြန်မာလို သတင်းတွေက BBC မြန်မာရဲ့ မူရင်းမြန်မာ သတင်းတွေပါ။",
       autoUpdate: "နာရီတိုင်း အလိုအလျောက် အပ်ဒိတ်",
       all: "အားလုံး",
       featured: "အထူးသတင်း",
       readFull: "အပြည့်အစုံ ဖတ်ရန် →",
       results: "သတင်း",
       found: "ခု တွေ့သည်",
-      searchPh: "သတင်းရှာပါ… ဥပမာ Ukraine, Iran, China"
+      searchPh: "သတင်းရှာပါ… ဥပမာ Ukraine, Iran, China",
+      newStories: "သတင်းအသစ် ရောက်ပြီ",
+      showNew: "အသစ်တွေ ပြပါ",
+      share: "မျှဝေရန်",
+      copied: "ကူးပြီးပြီ ✓",
+      translate: "မြန်မာလို ဖတ်ရန်",
+      today: "ဒီနေ့",
+      yesterday: "မနေ့က",
+      allDays: "ရက်အားလုံး",
+      burmeseNews: "မြန်မာလို",
+      englishNews: "English"
     },
     en: {
       tagline: "World news • Updated 24 hours",
       breaking: "🔴 BREAKING",
       statStories: "stories",
+      statMy: "Burmese stories",
       statCountries: "countries",
-      statSources: "sources",
       statUpdated: "last updated",
       byCountry: "By country",
+      moreFilters: "🔽 More filters — country, language, date",
       loadMore: "Show more stories",
       empty: "No stories match these filters. Try clearing a filter.",
-      disclaimer: "⚠️ Note — World War III has not started. This site collects world tensions, conflicts and international news. Every headline comes from its original news outlet; tap it to read the full story. Nothing here is invented.",
+      disclaimer: "⚠️ Note — World War III has not started. This site collects world tensions, conflicts and international news. Every headline comes from its original news outlet; tap it to read the full story. Nothing here is invented. Burmese stories are original BBC Burmese reporting.",
       autoUpdate: "Auto-updated every hour",
       all: "All",
       featured: "Featured",
       readFull: "Read full story →",
       results: "stories",
       found: "found",
-      searchPh: "Search news… e.g. Ukraine, Iran, China"
+      searchPh: "Search news… e.g. Ukraine, Iran, China",
+      newStories: "New stories arrived",
+      showNew: "Show new",
+      share: "Share",
+      copied: "Copied ✓",
+      translate: "Read in Burmese",
+      today: "Today",
+      yesterday: "Yesterday",
+      allDays: "All days",
+      burmeseNews: "Burmese",
+      englishNews: "English"
     }
   };
 
@@ -53,14 +75,40 @@
     return String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
   }
 
+  function minsAgo(iso) {
+    if (!iso) return null;
+    return Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+  }
+
   function timeAgo(iso) {
-    if (!iso) return "";
-    var d = new Date(iso);
-    var mins = Math.max(0, Math.round((Date.now() - d.getTime()) / 60000));
+    var mins = minsAgo(iso);
+    if (mins === null) return "";
+    if (state.lang === "my") {
+      if (mins < 60) return mins + " မိနစ်က";
+      if (mins < 1440) return Math.floor(mins / 60) + " နာရီက";
+      return Math.floor(mins / 1440) + " ရက်က";
+    }
     if (mins < 60) return mins + " min ago";
-    var hrs = Math.floor(mins / 60);
-    if (hrs < 24) return hrs + "h ago";
-    return Math.floor(hrs / 24) + "d ago";
+    if (mins < 1440) return Math.floor(mins / 60) + "h ago";
+    return Math.floor(mins / 1440) + "d ago";
+  }
+
+  function yangonDate(iso) {
+    try {
+      return new Date(iso).toLocaleDateString("en-CA", { timeZone: "Asia/Yangon" });
+    } catch (e) {
+      return (iso || "").slice(0, 10);
+    }
+  }
+
+  function yangonToday() {
+    var shifted = new Date(Date.now() + 6.5 * 3600 * 1000);
+    return shifted.toISOString().slice(0, 10);
+  }
+
+  function yangonYesterday() {
+    var shifted = new Date(Date.now() + 6.5 * 3600 * 1000 - 24 * 3600 * 1000);
+    return shifted.toISOString().slice(0, 10);
   }
 
   function fmtYangon(iso) {
@@ -70,6 +118,23 @@
     } catch (e) {
       return iso.slice(0, 16).replace("T", " ");
     }
+  }
+
+  function isNew(iso) {
+    var m = minsAgo(iso);
+    return m !== null && m < 120;
+  }
+
+  function newBadge(iso) {
+    return isNew(iso) ? ' <span class="badge new">' + (state.lang === "my" ? "အသစ်" : "NEW") + "</span>" : "";
+  }
+
+  function langTag(it) {
+    return it.lang === "my" ? '<span class="tag lang-my">မြန်မာ</span>' : "";
+  }
+
+  function translateUrl(link) {
+    return "https://translate.google.com/translate?sl=en&tl=my&u=" + encodeURIComponent(link);
   }
 
   function applyLang() {
@@ -86,6 +151,11 @@
     return state.data.items.filter(function (it) {
       if (state.cat && it.category !== state.cat) return false;
       if (state.country && (it.countries || []).indexOf(state.country) === -1) return false;
+      if (state.newsLang && (it.lang || "en") !== state.newsLang) return false;
+      if (state.day) {
+        var want = state.day === "today" ? yangonToday() : yangonYesterday();
+        if (yangonDate(it.published) !== want) return false;
+      }
       if (q) {
         var hay = (it.title + " " + (it.summary || "") + " " + it.source).toLowerCase();
         if (hay.indexOf(q) === -1) return false;
@@ -94,12 +164,20 @@
     });
   }
 
+  function hasFilter() {
+    return !!(state.cat || state.country || state.q || state.newsLang || state.day);
+  }
+
+  function metaLine(it) {
+    return "<b>" + esc(it.source) + "</b> • " + timeAgo(it.published) + " • " + fmtYangon(it.published) + " Yangon";
+  }
+
   function render() {
     var data = state.data;
     var list = filtered();
     var heroItem = null;
     var rest = list;
-    if (!state.cat && !state.country && !state.q) {
+    if (!hasFilter()) {
       heroItem = list.find(function (it) { return CONFLICT.indexOf(it.category) !== -1; }) || list[0];
       if (heroItem) rest = list.filter(function (it) { return it !== heroItem; });
     }
@@ -108,50 +186,70 @@
       hero.style.display = "";
       hero.innerHTML =
         '<div class="hero-img">' + (heroItem.image ? '<img src="' + esc(heroItem.image) + '" alt="" loading="lazy">' : '<div class="hero-fallback">WORLD WAR 3<br>NEWS</div>') + '</div>' +
-        '<div class="hero-body"><span class="badge">' + t("featured") + " • " + esc(heroItem.category) + "</span>" +
+        '<div class="hero-body"><span><span class="badge">' + t("featured") + " • " + esc(heroItem.category) + "</span>" + newBadge(heroItem.published) + "</span>" +
         '<h2><a href="' + esc(heroItem.link) + '" target="_blank" rel="noopener">' + esc(heroItem.title) + "</a></h2>" +
         "<p>" + esc(heroItem.summary || "") + "</p>" +
-        '<div class="meta"><b>' + esc(heroItem.source) + "</b> • " + timeAgo(heroItem.published) + " • " + fmtYangon(heroItem.published) + " Yangon</div>" +
+        '<div class="meta">' + metaLine(heroItem) + "</div>" +
         '<a class="read-btn" href="' + esc(heroItem.link) + '" target="_blank" rel="noopener">' + t("readFull") + "</a></div>";
     } else {
       hero.style.display = "none";
     }
+    var topEl = document.getElementById("topStories");
+    if (!hasFilter() && rest.length > 1) {
+      topEl.innerHTML = rest.slice(0, 2).map(function (it) {
+        return '<article class="top-card"><div class="tag-row"><span class="tag">' + esc(it.category) + "</span>" + langTag(it) + "</div>" +
+          '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
+          '<div class="meta">' + metaLine(it) + "</div></article>";
+      }).join("");
+      rest = rest.slice(2);
+    } else {
+      topEl.innerHTML = "";
+    }
     var grid = document.getElementById("grid");
     var show = rest.slice(0, state.shown);
     grid.innerHTML = show.map(function (it) {
-      var tags = '<span class="tag">' + esc(it.category) + "</span>" +
+      var tags = '<span class="tag">' + esc(it.category) + "</span>" + langTag(it) +
         (it.countries || []).map(function (c) { return '<span class="tag country">' + esc(c) + "</span>"; }).join("");
       var thumb = it.image
         ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
         : '<div class="card-img">' + esc(it.category) + "</div>";
+      var actions = '<button class="mini-btn" type="button" data-share="' + esc(it.link) + '" data-title="' + esc(it.title) + '">↗ ' + t("share") + "</button>";
+      if (it.lang !== "my") {
+        actions += '<a class="mini-btn" href="' + esc(translateUrl(it.link)) + '" target="_blank" rel="noopener">' + t("translate") + "</a>";
+      }
       return '<article class="card">' + thumb +
-        '<div class="card-body"><div class="tag-row">' + tags + "</div>" +
+        '<div class="card-body"><div class="tag-row">' + tags + newBadge(it.published) + "</div>" +
         '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
         "<p>" + esc(it.summary || "") + "</p>" +
-        '<div class="meta"><b>' + esc(it.source) + "</b> • " + timeAgo(it.published) + " • " + fmtYangon(it.published) + "</div></div></article>";
+        '<div class="meta">' + metaLine(it) + "</div>" +
+        '<div class="card-actions">' + actions + "</div></div></article>";
     }).join("");
     document.getElementById("empty").hidden = list.length !== 0;
     document.getElementById("resultLine").textContent =
       list.length + " " + t("results") + " " + t("found") +
       (state.country ? " • " + state.country : "") +
-      (state.cat ? " • " + state.cat : "");
+      (state.cat ? " • " + state.cat : "") +
+      (state.newsLang === "my" ? " • " + t("burmeseNews") : state.newsLang === "en" ? " • English" : "") +
+      (state.day === "today" ? " • " + t("today") : state.day === "yesterday" ? " • " + t("yesterday") : "");
     var more = document.getElementById("moreBtn");
     more.disabled = rest.length <= state.shown;
     more.style.display = rest.length > 24 ? "" : "none";
     document.getElementById("statCount").textContent = data.count;
+    document.getElementById("statMy").textContent = (data.languages && data.languages.my) || 0;
     document.getElementById("statCountries").textContent = data.countries.length;
-    document.getElementById("statSources").textContent = data.sources.length;
     document.getElementById("statUpdated").textContent = data.updated_yangon || "—";
     document.getElementById("sourceList").textContent = "Sources: " + data.sources.join(" • ");
+  }
+
+  function pill(label, active, attr, val) {
+    return '<button class="chip' + (active ? " active" : "") + '" data-' + attr + '="' + esc(val) + '">' + label + "</button>";
   }
 
   function renderChips() {
     var data = state.data;
     var catEl = document.getElementById("catChips");
-    var cats = [""].concat(data.categories);
-    catEl.innerHTML = cats.map(function (c) {
-      return '<button class="chip' + (state.cat === c ? " active" : "") + '" data-cat="' + esc(c) + '">' + (c || t("all")) + "</button>";
-    }).join("");
+    catEl.innerHTML = pill(t("all"), !state.cat, "cat", "") +
+      data.categories.map(function (c) { return pill(esc(c), state.cat === c, "cat", c); }).join("");
     catEl.querySelectorAll("button").forEach(function (b) {
       b.addEventListener("click", function () {
         state.cat = b.getAttribute("data-cat");
@@ -161,17 +259,14 @@
       });
     });
     var sel = document.getElementById("countrySelect");
-    var keep = sel.value;
     sel.innerHTML = '<option value="">🌍 ' + (state.lang === "my" ? "နိုင်ငံအားလုံး" : "All countries") + "</option>" +
       data.countries.map(function (pair) {
         return '<option value="' + esc(pair[0]) + '"' + (state.country === pair[0] ? " selected" : "") + ">" + esc(pair[0]) + " (" + pair[1] + ")</option>";
       }).join("");
-    if (keep && !state.country) sel.value = keep;
-    var top = data.countries.slice(0, 8);
     var cEl = document.getElementById("countryChips");
-    cEl.innerHTML = '<button class="chip' + (!state.country ? " active" : "") + '" data-country="">' + t("all") + "</button>" +
-      top.map(function (pair) {
-        return '<button class="chip' + (state.country === pair[0] ? " active" : "") + '" data-country="' + esc(pair[0]) + '">' + esc(pair[0]) + " (" + pair[1] + ")</button>";
+    cEl.innerHTML = pill(t("all"), !state.country, "country", "") +
+      data.countries.slice(0, 8).map(function (pair) {
+        return pill(esc(pair[0]) + " (" + pair[1] + ")", state.country === pair[0], "country", pair[0]);
       }).join("");
     cEl.querySelectorAll("button").forEach(function (b) {
       b.addEventListener("click", function () {
@@ -182,6 +277,35 @@
         render();
       });
     });
+    var langEl = document.getElementById("langPills");
+    langEl.innerHTML = pill(t("all"), !state.newsLang, "nlang", "") +
+      pill(t("burmeseNews"), state.newsLang === "my", "nlang", "my") +
+      pill(t("englishNews"), state.newsLang === "en", "nlang", "en");
+    langEl.querySelectorAll("button").forEach(function (b) {
+      b.addEventListener("click", function () {
+        state.newsLang = b.getAttribute("data-nlang");
+        state.shown = 24;
+        renderChips();
+        render();
+      });
+    });
+    var dayEl = document.getElementById("dayPills");
+    dayEl.innerHTML = pill(t("allDays"), !state.day, "day", "") +
+      pill(t("today"), state.day === "today", "day", "today") +
+      pill(t("yesterday"), state.day === "yesterday", "day", "yesterday");
+    dayEl.querySelectorAll("button").forEach(function (b) {
+      b.addEventListener("click", function () {
+        state.day = b.getAttribute("data-day");
+        state.shown = 24;
+        renderChips();
+        render();
+      });
+    });
+  }
+
+  function setTicker() {
+    var heads = state.data.items.slice(0, 8).map(function (it) { return "<span>• " + esc(it.title) + "</span>"; }).join("");
+    document.getElementById("tickerMove").innerHTML = heads + heads;
   }
 
   function tickClock() {
@@ -193,14 +317,7 @@
     }
   }
 
-  fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (data) {
-    state.data = data;
-    var tick = document.getElementById("tickerMove");
-    var heads = data.items.slice(0, 8).map(function (it) { return "<span>• " + esc(it.title) + "</span>"; }).join("");
-    tick.innerHTML = heads + heads;
-    applyLang();
-    renderChips();
-    render();
+  function bindOnce() {
     document.getElementById("search").addEventListener("input", function (e) {
       state.q = e.target.value;
       state.shown = 24;
@@ -222,6 +339,53 @@
       renderChips();
       render();
     });
+    document.getElementById("grid").addEventListener("click", function (e) {
+      var btn = e.target.closest("[data-share]");
+      if (!btn) return;
+      var link = btn.getAttribute("data-share");
+      var title = btn.getAttribute("data-title") || "";
+      if (navigator.share) {
+        navigator.share({ title: title, url: link }).catch(function () {});
+      } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(link).then(function () {
+          var old = btn.textContent;
+          btn.textContent = t("copied");
+          setTimeout(function () { btn.textContent = old; }, 1500);
+        });
+      }
+    });
+    document.getElementById("toastBtn").addEventListener("click", function () {
+      if (state.pending) {
+        state.data = state.pending;
+        state.pending = null;
+        document.getElementById("toast").hidden = true;
+        setTicker();
+        renderChips();
+        render();
+      }
+    });
+    var toTop = document.getElementById("toTop");
+    window.addEventListener("scroll", function () {
+      if (window.scrollY > 600) toTop.classList.add("show"); else toTop.classList.remove("show");
+    });
+    toTop.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+    setInterval(function () {
+      fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (fresh) {
+        if (fresh.updated && state.data && fresh.updated !== state.data.updated) {
+          state.pending = fresh;
+          document.getElementById("toast").hidden = false;
+        }
+      }).catch(function () {});
+    }, 600000);
+  }
+
+  fetch("news.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (data) {
+    state.data = data;
+    applyLang();
+    setTicker();
+    renderChips();
+    render();
+    bindOnce();
     tickClock();
     setInterval(tickClock, 30000);
   }).catch(function () {
