@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T12:38:50.976014+00:00",
- "updated_yangon": "2026-11-05 19:08",
+ "updated": "2026-11-05T13:38:50.533945+00:00",
+ "updated_yangon": "2026-11-05 20:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -8,6 +8,7 @@
   "BBC News",
   "CNA World",
   "DW",
+  "France 24",
   "Google News",
   "Google News · Middle East",
   "Google News · Ukraine",
@@ -22,51 +23,47 @@
  "countries": [
   [
    "United States",
-   34
+   46
   ],
   [
    "Ukraine",
-   30
+   23
   ],
   [
    "Russia",
-   24
+   19
   ],
   [
-   "Myanmar",
+   "France",
    15
   ],
   [
    "European Union",
-   11
+   12
   ],
   [
-   "France",
-   8
-  ],
-  [
-   "Palestine",
-   7
-  ],
-  [
-   "Iran",
-   7
-  ],
-  [
-   "China",
-   5
+   "Myanmar",
+   10
   ],
   [
    "Israel",
-   5
+   6
+  ],
+  [
+   "Palestine",
+   6
+  ],
+  [
+   "Iran",
+   6
+  ],
+  [
+   "China",
+   4
   ],
   [
    "Germany",
-   3
-  ],
-  [
-   "Turkey",
-   3
+   2
   ],
   [
    "United Kingdom",
@@ -81,12 +78,8 @@
    2
   ],
   [
-   "Australia",
-   2
-  ],
-  [
    "India",
-   2
+   1
   ],
   [
    "North Korea",
@@ -101,26 +94,46 @@
    1
   ],
   [
-   "South Korea",
+   "Australia",
+   1
+  ],
+  [
+   "Turkey",
    1
   ]
  ],
  "categories": [
+  "Africa",
   "Asia-Pacific",
   "Europe / NATO",
   "Global",
   "Middle East",
   "Myanmar",
-  "South Asia",
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 30,
+ "war_count": 25,
  "languages": {
-  "my": 30,
-  "en": 110
+  "my": 26,
+  "en": 114
  },
  "items": [
+  {
+   "title": "MOE Language Centres monitoring Europe protests ahead of upcoming student trips",
+   "link": "https://www.channelnewsasia.com/singapore/europe-protest-moe-language-centre-student-trip-france-germany-6527391",
+   "source": "CNA World",
+   "published": "2026-11-05T21:03:01+08:00",
+   "summary": "The trips to France and Germany will proceed depending on the latest assessments and official advice.",
+   "body": "The trips to France and Germany will proceed depending on the latest assessments and official advice.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France",
+    "Germany"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--eTMpOewe--/c_crop,h_449,w_799,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-05T104816Z_1_LYNXNPEMA40ZC_RTROPTP_3_FRANCE-PROTEST.JPG?itok=lWFyNboH",
+   "lang": "en"
+  },
   {
    "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
    "link": "https://www.channelnewsasia.com/singapore/nea-haze-mask-distribution-6526851",
@@ -226,6 +239,316 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်",
+   "link": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-05T13:39:04+00:00",
+   "summary": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdf/live/df5fd280-d8e7-11f1-8a29-751f921d505b.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "ရီပတ်ဘလီကန်လက်ထဲက ကွန်ဂရက်လွှတ်တော်ကို ဒီမိုကရက်တွေပြန်ယူ",
+   "link": "https://www.bbc.co.uk/burmese/live/cmn4enp2dpgpt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-05T13:39:04+00:00",
+   "summary": "ဒီမိုကရက်တွေက ကွန်ဂရက်လွှတ်တော်ကို ရီပတ်ဘလီကန်တွေလက်ထဲကနေ ပြန်ယူတဲ့သတင်းအပါအ၀င် အမေရိကန်မှာကျင်းပနေတဲ့ သမ္မတသက်တမ်း၀က်ရွေးကောက်ပွဲ ထူးခြားချက်တွေကို အထူးစာမျက်နှာအနေနဲ့ တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "body": "ဒီမိုကရက်တွေက ကွန်ဂရက်လွှတ်တော်ကို ရီပတ်ဘလီကန်တွေလက်ထဲကနေ ပြန်ယူတဲ့သတင်းအပါအ၀င် အမေရိကန်မှာကျင်းပနေတဲ့ သမ္မတသက်တမ်း၀က်ရွေးကောက်ပွဲ ထူးခြားချက်တွေကို အထူးစာမျက်နှာအနေနဲ့ တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9562/live/ccd23720-d82e-11f1-be97-417dbcdedd32.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရ",
+   "link": "https://www.bbc.co.uk/burmese/live/cmp3gkwdlv31t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-05T13:39:04+00:00",
+   "summary": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရတယ်လို့ ကျမ်းပြုသုတေသနတစ်ခုမှာ ဖော်ပြလာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာကထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရတယ်လို့ ကျမ်းပြုသုတေသနတစ်ခုမှာ ဖော်ပြလာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာကထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f648/live/0063fac0-d833-11f1-87c3-29e1cdce63c6.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
+   "link": "https://www.france24.com/en/tv-shows/arts24/20261105-south-african-star-zolani-mahola-from-waka-waka-with-shakira-to-people-power",
+   "source": "France 24",
+   "published": "2026-11-05T13:34:12+00:00",
+   "summary": "From the global success of \"Waka Waka\" to her forthcoming second solo album \"People Power\", South Africa's Zolani Mahola has built a career around the power of music to bring people together.",
+   "body": "From the global success of \"Waka Waka\" to her forthcoming second solo album \"People Power\", South Africa's Zolani Mahola has built a career around the power of music to bring people together.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/20ffb7de-d90e-11f1-8cbb-bf1914cabd52/w:1024/p:16x9/capture-c6f935c3.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+   "link": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-05T13:34:00+00:00",
+   "summary": "Donald Trump's electoral setback might give New Delhi and Washington space to reset relations, but there is no guarantee that the US will actually change its approach to India.",
+   "body": "Donald Trump's electoral setback might give New Delhi and Washington space to reset relations, but there is no guarantee that the US will actually change its approach to India.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "India"
+   ],
+   "image": "https://static.dw.com/image/77597202_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:28:29+00:00",
+   "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by less than 1,200 votes Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results a",
+   "body": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by less than 1,200 votes Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/5859deed0da200fb6108605c6ff37436ab09fd25/0_0_4627_3704/master/4627.jpg?width=140&quality=85&auto=format&fit=max&s=b03e8d648b9a33e81829f47138930c30",
+   "lang": "en"
+  },
+  {
+   "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+   "link": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+   "source": "NYT World",
+   "published": "2026-11-05T13:27:52+00:00",
+   "summary": "The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.",
+   "body": "The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-uk-ebola-patient-htbc/05int-uk-ebola-patient-htbc-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Six people dead and seven injured after fire at Brooklyn home",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:18:45+00:00",
+   "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene Six people died in a fire that roared through a residential home in New York City early on Thursday and seven others were injured, including three firefighters, the city’s f",
+   "body": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene Six people died in a fire that roared through a residential home in New York City early on Thursday and seven others were injured, including three firefighters, the city’s fire department said. The major fire was reported in the early hours in Brooklyn and brought more than 200 first responders rushing to attend to the blaze and those trapped by it, in the city borough’s Sunset Park neighborhood. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/689c87f0430ec4e1b0bbdb6cb2508b8103168ffa/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=191f4dd53e9b806b281337c35bcec879",
+   "lang": "en"
+  },
+  {
+   "title": "'It's fascinating to see a human becoming a person': Author Clémentine Goldszal",
+   "link": "https://www.france24.com/en/tv-shows/perspective/20261105-it-s-fascinating-to-see-a-human-becoming-a-person-author-cl%C3%A9mentine-goldszal",
+   "source": "France 24",
+   "published": "2026-11-05T13:17:45+00:00",
+   "summary": "What is life like for a newly born, premature or sick baby? These are the questions tackled by a French journalist in her first ever book. Clémentine Goldszal asks what it means to be rushed from the delivery room to the neonatal intensive care unit, and what is means to enter th",
+   "body": "What is life like for a newly born, premature or sick baby? These are the questions tackled by a French journalist in her first ever book. Clémentine Goldszal asks what it means to be rushed from the delivery room to the neonatal intensive care unit, and what is means to enter the world before you are ready. Goldszal's book is entitled \"Newborn: Inside the World of Neonatal Care\". She spoke to us in Perspective.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/f1b758a4-d919-11f1-95f7-695cb59fade5/w:1024/p:16x9/capture-be40513f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:17:25+00:00",
+   "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 15 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a ",
+   "body": "EU transport commissioner says ‘too early’ to say if bomb threats to 15 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair flight from Helsinki to Rome Fiumicino. Belgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw, which now landed at Zaventem. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Poland",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner - EA WorldView",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhQd3l2RlRjeTJNOWtvRkVRUExVWGpyM2RSVTVsZm43ekRSSHpUazRtRWZaYkxNZUJEX2ZLTUsyOWV3Y2QwQTZKZGoyOUV5VFNaRlA2Vml6dHdYb2FwR1V6M1BBeENBNDBwZmg4TnBaWVUybUg4X0pPRW4xbW50Wmk5YXkxdVNEempVVzRWMA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T13:16:05+00:00",
+   "summary": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner EA WorldView",
+   "body": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner EA WorldView",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Henry Nowak’s killer should have had longer sentence, court of appeal hears",
+   "link": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:15:05+00:00",
+   "summary": "Attorney general challenging Vickrum Digwa’s ‘unduly lenient’ sentence, which lawyer for Digwa says is ‘excessive’ Vickrum Digwa, the killer of Henry Nowak, should have received a longer sentence because of his false accusations of racism against his victim and his abuse of a rel",
+   "body": "Attorney general challenging Vickrum Digwa’s ‘unduly lenient’ sentence, which lawyer for Digwa says is ‘excessive’ Vickrum Digwa, the killer of Henry Nowak, should have received a longer sentence because of his false accusations of racism against his victim and his abuse of a religious right to carry a knife, the court of appeal has been told. Digwa, 23, was jailed in June for life with a minimum term of 21 years for murdering Nowak, 18, in an attack in Southampton in December last year. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/07990cd8bdcded76e01be6741cee75ab4e31a2be/0_195_607_486/master/607.jpg?width=140&quality=85&auto=format&fit=max&s=d9f733fd7cb06a4d5e8ff202d4e31294",
+   "lang": "en"
+  },
+  {
+   "title": "New estrogen research may change how scientists think about women’s aging brains - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T13:13:44+00:00",
+   "summary": "New estrogen research may change how scientists think about women’s aging brains The Washington Post Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life ScienceAlert Oral Contraceptive and Hormone Therapy Use Linked to Healthier Brain Marke",
+   "body": "New estrogen research may change how scientists think about women’s aging brains The Washington Post Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life ScienceAlert Oral Contraceptive and Hormone Therapy Use Linked to Healthier Brain Markers Technology Networks Research linking hormonal changes and brain health could transform women's health Delaware Public Media Study links hormonal history to brain vascular health — News-Medical UA.NEWS",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Burnham says long-awaited 10-year plan may be delayed until January – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:12:08+00:00",
+   "summary": "The document has been described as the core policy statement coming from No 10 Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have been banned under E",
+   "body": "The document has been described as the core policy statement coming from No 10 Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have been banned under EU regulations passed since the UK left. Under the deal on food exports that has been agreed (but not yet published), the UK will have to align with EU sanitary and phytosanitary rules. And any further move to bring the UK closer to the EU could result in further regulatory alignment. One of the items on the Guido Fawkes list was smoky bacon flavouring in crisps. Oh, Stig. I mean, really, we’ve had EU straight bananas, and now we’re talking about banning smoky bacon crisps. I think you should get a life. This is actually about ensuring that we can do business with our closest neighbours. The transition is a balance between getting and accessing those benefits as quickly as possible, but dealing with some of the transitional issues that you have to deal with whenever you’re moving from one system to another. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/aed2919813a17af91b19415c1b3bb956ef9ac548/200_180_3263_2610/master/3263.jpg?width=140&quality=85&auto=format&fit=max&s=67af9c30f96af2724e7f41e289e1b7d7",
+   "lang": "en"
+  },
+  {
+   "title": "Shabana Mahmood accused of hardening immigration plans for 200,000 successful asylum applicants",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:10:47+00:00",
+   "summary": "Cohort who were told they could apply for indefinite leave now face ‘distress and uncertainty’ over 30-year ‘earned settlement’ plans Shabana Mahmood has been accused of causing “distress and uncertainty” to hundreds of thousands of refugees by quietly introducing plans to force ",
+   "body": "Cohort who were told they could apply for indefinite leave now face ‘distress and uncertainty’ over 30-year ‘earned settlement’ plans Shabana Mahmood has been accused of causing “distress and uncertainty” to hundreds of thousands of refugees by quietly introducing plans to force them to wait up to 30 years before being granted the right to settle in the UK. The Refugee Council said the home secretary’s hardening of plans came despite her personal reassurances last year that only “illegal entrants who are not refugees will face a 30-year wait for settlement”. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/766598dd15fb1923afa8a58c4e17bfbc730c8ab7/617_0_4630_3704/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=becee6119a4360f78c8f9698bb24248f",
+   "lang": "en"
+  },
+  {
+   "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+   "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:10:44+00:00",
+   "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big ",
+   "body": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years. Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/60308561c80255ccbb0d5174dd7aadb14404b385/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=f7075274cd41f2a4670e899c8f07f77a",
+   "lang": "en"
+  },
+  {
+   "title": "Cut number of police forces in England to as few as nine, review recommends",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:09:45+00:00",
+   "summary": "Review by ex-Met chief, expected to be published within weeks, calls for reduction from 39 forces to between nine and 18 The number of police forces in England should be cut from 39 to as few as nine super forces, an official review ordered by the government has concluded. The re",
+   "body": "Review by ex-Met chief, expected to be published within weeks, calls for reduction from 39 forces to between nine and 18 The number of police forces in England should be cut from 39 to as few as nine super forces, an official review ordered by the government has concluded. The review, carried out by the former Met police commissioner Bernard Hogan-Howe, is yet to be published. Doubts are growing among some chief constables about the radical plans contained in Lord Hogan-Howe’s review. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/eb10e2a0a0598f3bf3e36ed8fca7857698ffdefb/210_0_3125_2500/master/3125.jpg?width=140&quality=85&auto=format&fit=max&s=5659d4ce3acd1cffafbed5bfba1db720",
+   "lang": "en"
+  },
+  {
+   "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+   "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+   "source": "NYT World",
+   "published": "2026-11-05T13:06:32+00:00",
+   "summary": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
+   "body": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Four people, including a child, killed in Israeli attacks on Gaza",
+   "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T13:04:52+00:00",
+   "summary": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
+   "body": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aec6b82b881a-1793878914.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "France holds new strikes and protests as unions demand immediate answers",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-05T13:04:04+00:00",
+   "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "body": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "category": "Europe / NATO",
+   "is_war": true,
+   "countries": [
+    "France"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+   "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+   "source": "NYT World",
+   "published": "2026-11-05T13:02:20+00:00",
+   "summary": "Israeli party leaders were holding discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.",
+   "body": "Israeli party leaders were holding discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Singapore launches SG for Humanity network in bid to strengthen Gaza humanitarian aid efforts",
    "link": "https://www.channelnewsasia.com/singapore/singapore-sg-humanity-humanitarian-aid-gaza-6523541",
    "source": "CNA World",
@@ -238,6 +561,125 @@
     "Palestine"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--D6nYi9Fp--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/05/picture1.png?itok=uVnKHLiP",
+   "lang": "en"
+  },
+  {
+   "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
+   "source": "The Guardian",
+   "published": "2026-11-05T13:00:24+00:00",
+   "summary": "The wins for Democrats come after years of cuts and upheaval to US health and science infrastructure A political organizations behind a wave of Democratic doctors and scientists winning elections up and down the ballot is calling the stunning rebuke of Trumpism the “Stem swing” a",
+   "body": "The wins for Democrats come after years of cuts and upheaval to US health and science infrastructure A political organizations behind a wave of Democratic doctors and scientists winning elections up and down the ballot is calling the stunning rebuke of Trumpism the “Stem swing” and “revenge of the nerds”. The wins come after years of cuts and upheaval to US health and science infrastructure, as Democrats spent big on health-related ads and as voters rejected the Make America Healthy Again (Maha) movement. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ecbd80f19638787d9eb8a01d8b580663d7d6d460/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=addf101a344865865ac90020bcfbb443",
+   "lang": "en"
+  },
+  {
+   "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T12:56:10+00:00",
+   "summary": "In a peculiar failed smuggling attempt, 3,000 tarantulas were seized at a Peruvian airport.",
+   "body": "In a peculiar failed smuggling attempt, 3,000 tarantulas were seized at a Peruvian airport.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793883318.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Bent on leaving his mark: Trump's proposed 'Triumphal Arch' sparks backlash",
+   "link": "https://www.france24.com/en/tv-shows/focus/20261105-bent-on-leaving-his-mark-trump-s-proposed-triumphal-arch-sparks-backlash",
+   "source": "France 24",
+   "published": "2026-11-05T12:55:53+00:00",
+   "summary": "Since his return to power, US President Donald Trump has been intent on reshaping the nation's capital Washington, seeking to leave his name and mark on it. After his involvement with the Kennedy Center, the White House ballroom and the Lincoln Memorial Reflecting Pool, Trump is ",
+   "body": "Since his return to power, US President Donald Trump has been intent on reshaping the nation's capital Washington, seeking to leave his name and mark on it. After his involvement with the Kennedy Center, the White House ballroom and the Lincoln Memorial Reflecting Pool, Trump is now particularly keen on building a 250-foot (79-metre) \"Triumphal Arch\" – a project he claims is intended to honour the 250th anniversary of the United States.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/0096512a-d86d-11f1-a062-bf1914cabd52/w:1024/p:16x9/V2-VI-FOCUS-FR-ARCHE-DE-TRUMP-FANNY.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels - Messenger-Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUU05TW1KN3pWUWdnVWd6U2N1V2szVENFaU9LX0NWX1UzemZsVnNieWs4anZuWUZaNG1GZ1dHbmxWUVhoR0s4cVhfM2tTZExOYXNVdTdFY25uX09qWXVZRW1SZG9ROERRMTR0Wlo5bGZnVE9Pbng3b0UxMWdmbjZBNkZPa2k3Tkd6T0FaTm1mR1R2S1RZbmR6ZW5SQnhDd1J5RTB0eVp1NXRxOGVseDRSbC1GWDdxSDU0UVJ3bl9va2FmcWRPb1N6eGs2Wk5SZnd6M1Y1WUhDZjgtcUVhczVTNEl6MEFtSmc5bHF6bzJBT1owVWxxSi02SXJ5cDZ5Um5NNVhkazc4UFF4R3VxczdjVHZwQXR1QmxX?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T12:55:33+00:00",
+   "summary": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels Messenger-Inquirer",
+   "body": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels Messenger-Inquirer",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What comes next for Democrats after midterm election victory?",
+   "link": "https://www.france24.com/en/video/20261105-what-comes-next-for-democrats-after-midterm-election-victory",
+   "source": "France 24",
+   "published": "2026-11-05T12:54:51+00:00",
+   "summary": "With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades – a 2028 contest ​likely to expose the party's divide over how to win back the White House. FRANCE 24's International Affairs Commen",
+   "body": "With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades – a 2028 contest ​likely to expose the party's divide over how to win back the White House. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/26e1fdac-d912-11f1-b02d-d18c5759e759/w:1024/p:16x9/capture-4f347cf9.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+   "link": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
+   "source": "France 24",
+   "published": "2026-11-05T12:52:44+00:00",
+   "summary": "Multiple flights in Europe made emergency landings on Thursday after being diverted because of bomb threats. The incidents followed hoax bomb threats earlier this week that prompted searches, diversions and in one case a military escort.",
+   "body": "Multiple flights in Europe made emergency landings on Thursday after being diverted because of bomb threats. The incidents followed hoax bomb threats earlier this week that prompted searches, diversions and in one case a military escort.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/8a87f438-d912-11f1-af4e-bf1914cabd52/w:1024/p:16x9/EN-20261105-130140-130307-CS-01.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "France: High schools blocked again as students reject government responses as 'meaningless'",
+   "link": "https://www.france24.com/en/video/20261105-france-high-schools-blocked-again-as-students-reject-government-responses-as-meaningless",
+   "source": "France 24",
+   "published": "2026-11-05T12:51:04+00:00",
+   "summary": "🇫🇷 Students are blocking their schools and universities across France again this Thursday, November 5, despite the government’s response, which they deem insufficient.",
+   "body": "🇫🇷 Students are blocking their schools and universities across France again this Thursday, November 5, despite the government’s response, which they deem insufficient.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/5d5973ca-d916-11f1-999f-a575454bc579/w:1024/p:16x9/Manif-EN.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Bomb alerts reported on European flights in second incident this week - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTkwenVQMmRxMFVvbUl5S0xMbWkwa3ptajc3NWozT0tobWRWaVI0czNZUHVlZlQzWWdvQ0pLcThhZ3pGU3NvaTRKLTJaeXc0dTlyYVp2TVhocWI0cVd3T2h6VVdqOEtCQ3pnVHZMeVF0NTNHVmtsdUdtclYyTEtvajNCQmZkT2FEbGw5RThHSWhpcTdiZmxTS0Z2WmdXd2Q5R3BaY0IxNA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T12:49:58+00:00",
+   "summary": "Bomb alerts reported on European flights in second incident this week Euronews.com Multiple planes diverted as bomb threats to commercial flights reported across Europe – live The Guardian Plane bomb threats: Multiple flights in Europe hit by 'malicious hoax threats' - UK ministe",
+   "body": "Bomb alerts reported on European flights in second incident this week Euronews.com Multiple planes diverted as bomb threats to commercial flights reported across Europe – live The Guardian Plane bomb threats: Multiple flights in Europe hit by 'malicious hoax threats' - UK minister BBC Series of bomb threats cause flight disruptions across Europe NBC News Multiple flights in Europe diverted because of bomb threats after earlier hoaxes The Boston Globe",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -267,34 +709,51 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်",
-   "link": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-05T12:39:06+00:00",
-   "summary": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "title": "After Riots and Protests, French Workers Are Going on Strike",
+   "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+   "source": "NYT World",
+   "published": "2026-11-05T12:41:39+00:00",
+   "summary": "Roughly 260 demonstrations are expected to take place across France on Thursday, escalating weeks of protests against the rising cost of living.",
+   "body": "Roughly 260 demonstrations are expected to take place across France on Thursday, escalating weeks of protests against the rising cost of living.",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "France"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdf/live/df5fd280-d8e7-11f1-8a29-751f921d505b.jpg",
-   "lang": "my"
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
+   "lang": "en"
   },
   {
-   "title": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရ",
-   "link": "https://www.bbc.co.uk/burmese/live/cmp3gkwdlv31t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-05T12:39:06+00:00",
-   "summary": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရတယ်လို့ ကျမ်းပြုသုတေသနတစ်ခုမှာ ဖော်ပြလာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာကထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ထိုင်းရောက်မြန်မာအမျိုးသမီးတွေ စိတ်ပိုင်းဆိုင်ရာအကြမ်းဖက်မှုအများဆုံးကြုံနေရတယ်လို့ ကျမ်းပြုသုတေသနတစ်ခုမှာ ဖော်ပြလာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာကထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "title": "Melania Trump to host Russia, Ukraine representatives at the White House in rare meeting",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXlZVmtDYXdpRk5xam5pbDJqRmFyb2hNV3A1VFhQbElwUVNWSWVSdnNINy1SMXo2bjM5UkZrQWNUV29zV29oSGk1OWEtbGFwUURPVFBkSDBaSWhLdWRsNExINXpQRWxlbUNCUTg4Rk5xcWthbWVrV3lhNlowQkdaYUMyZEh4NzA4NERJRmJEWUVRdTFKSVU1RGhYV1JoaW9JbU0za1RUZEJFOThpWDhjWWZCcVNBUnlvZHlj?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T12:38:23+00:00",
+   "summary": "Melania Trump to host Russia, Ukraine representatives at the White House in rare meeting NBC News",
+   "body": "Melania Trump to host Russia, Ukraine representatives at the White House in rare meeting NBC News",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "Ukraine",
+    "Russia",
+    "United States"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f648/live/0063fac0-d833-11f1-87c3-29e1cdce63c6.jpg",
-   "lang": "my"
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "New Series of Bomb Threats Disrupts Flights in Europe",
+   "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+   "source": "NYT World",
+   "published": "2026-11-05T12:37:56+00:00",
+   "summary": "The planes that were targeted, including in Italy and France, landed safely, officials said. No explosives have been found.",
+   "body": "The planes that were targeted, including in Italy and France, landed safely, officials said. No explosives have been found.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
+   "lang": "en"
   },
   {
    "title": "မင်းအောင်လှိုင်နဲ့ စစ်ဗိုလ်ချုပ် ၁၀ ဦးကို တရားစွဲဆိုရန် အယူခံလွှာ ဖိလစ်ပိုင်တရားရုံး လက်ခံ",
@@ -308,6 +767,39 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Daily-News-Nov-5.00_00_40_07.Still001-900x506.png",
    "lang": "my"
+  },
+  {
+   "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
+   "source": "The Guardian",
+   "published": "2026-11-05T12:35:11+00:00",
+   "summary": "Criticism of US-Israel war on Iran seen as huge factor in Democrats’ sweeping victory. Plus, a spiky customer steps into a North Carolina bagel store Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump has accepted the results of the US midterm el",
+   "body": "Criticism of US-Israel war on Iran seen as huge factor in Democrats’ sweeping victory. Plus, a spiky customer steps into a North Carolina bagel store Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump has accepted the results of the US midterm elections as the system held up against attempts at election interference. His administration had waged an aggressive effort to sow doubt about the results in advance, but the worst fears have not been realized. “It was essentially too big to rig,” an unnamed Trump adviser told CNN, after Democrats swept into power across the nation on a “blue wave”. Trump made a public appearance the day after the seismic results – chiefly to talk about his new White House ballroom plans . Follow our continued live coverage of the election results and find our full midterms coverage here . Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bc0c045b42ae94c29f26e88819f4272b31d26a2c/1684_863_6100_4880/master/6100.jpg?width=140&quality=85&auto=format&fit=max&s=6ba45d0e03b25a0858a0d84f1f425345",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine War: Kyiv attacks refinery 200 km north of Moscow - Plataforma Media",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tlc21QNjhEQUZ1WDRhNHlnOExFN1c2NXg1N0NWYzJwbHZqNDh3OUc4UWYxcTJUOEMxa1BKcnpWRXlPS0hUbWhTZHlERWVMMDRZSVhleGFaV3hKd3pGZTBWQUxfa19nQ3JuTjRzYktHSUJhWTAzWF8ySWViNXNycjVWLVRHN0ZIdEJoYjhaMmdyUnZhRjlJdFJwUDNGQlI0d3hmSVlUQmRGMGF1QmtmVw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T12:35:10+00:00",
+   "summary": "Ukraine War: Kyiv attacks refinery 200 km north of Moscow Plataforma Media",
+   "body": "Ukraine War: Kyiv attacks refinery 200 km north of Moscow Plataforma Media",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "How America voted in maps and charts",
@@ -325,20 +817,16 @@
    "lang": "en"
   },
   {
-   "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels - chronicleonline.com",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMG5RdFRZZzJHU2ZTRk95ZHdnSnFvMml5LTJsS0ktN3VuS0NQUEc4WEc3OWx3VzYzRG1JNnh3M3hHaDhnZzMzRmlNTGNLd3dHWW1kSXdjMFAzY05iWFNSZDFRMzh3THV3SlJIYkMyek5DVW00ZTdJRVE0dFZVNU5fN1lobmtCX2l1UTlnd2NoaUFMMkhsNHU0a0wybTFGNVRrZERFaXFoalROUmN3emZLNUxpbE1aMmw0UTJWRk5JSE10bWE5eWJtYmlKRXVuVnJiQy1PVzBEUWVnLURDN0dFaU1VUjQyQmRGQVVBSkY5SURnT3ZCYnZhcDhEYUlSTkNjUmd5dll0YVRMUlBmMkFKZ1dn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T12:31:49+00:00",
-   "summary": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels chronicleonline.com",
-   "body": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels chronicleonline.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "title": "Cristiano Ronaldo announces international retirement",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T12:32:36+00:00",
+   "summary": "Cristiano Ronaldo has announced his retirement from international football.",
+   "body": "Cristiano Ronaldo has announced his retirement from international football.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793881948.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -396,35 +884,18 @@
    "lang": "my"
   },
   {
-   "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-   "source": "The Guardian",
-   "published": "2026-11-05T12:17:33+00:00",
-   "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on it",
-   "body": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have been banned under EU regulations passed since the UK left. Under the deal on food exports that has been agreed (but not yet published), the UK will have to align with EU sanitary and phytosanitary rules. And any further move to bring the UK closer to the EU could result in further regulatory alignment. One of the items on the Guido Fawkes list was smoky bacon flavouring in crisps. Oh, Stig. I mean, really, we’ve had EU straight bananas, and now we’re talking about banning smoky bacon crisps. I think you should get a life. This is actually about ensuring that we can do business with our closest neighbours. The transition is a balance between getting and accessing those benefits as quickly as possible, but dealing with some of the transitional issues that you have to deal with whenever you’re moving from one system to another. Continue reading...",
+   "title": "Farewell Botox, heels and big hair: Is this the end of MAGA women?",
+   "link": "https://www.france24.com/en/tv-shows/press-review/20261105-farewell-botox-heels-and-big-hair-is-this-the-end-of-maga-women",
+   "source": "France 24",
+   "published": "2026-11-05T12:15:19+00:00",
+   "summary": "PRESS REVIEW – Thursday, November 5: \"Loser\" and \"Reborn in the USA\" are just some of the headlines dominating the international press after the Democrats stomped to victory in the US midterm elections. What impact will their success have on the rest of Donald Trump's presidency?",
+   "body": "PRESS REVIEW – Thursday, November 5: \"Loser\" and \"Reborn in the USA\" are just some of the headlines dominating the international press after the Democrats stomped to victory in the US midterm elections. What impact will their success have on the rest of Donald Trump's presidency? How will he govern with a Democratic-controlled Congress? These are just some of the burning questions after that vote. Also, do the midterm results signal the end of the MAGA woman and the \"Mar-a-Lago face\"?",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United Kingdom",
-    "European Union"
+    "United States"
    ],
-   "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422",
-   "lang": "en"
-  },
-  {
-   "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-   "source": "The Guardian",
-   "published": "2026-11-05T12:17:22+00:00",
-   "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results Live results | How do you feel about the results? Sign up for Breaking News US email Analysis: Is this the beginning of the end",
-   "body": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results Live results | How do you feel about the results? Sign up for Breaking News US email Analysis: Is this the beginning of the end for Trump? Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874",
+   "image": "https://s.france24.com/media/display/3ad6a6ec-d8e9-11f1-9fd5-a575454bc579/w:1024/p:16x9/Anglais-2026-11-05T06-25-45-514Z.jpg",
    "lang": "en"
   },
   {
@@ -432,8 +903,8 @@
    "link": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-05T12:04:00+00:00",
-   "summary": "This is a breaking news story.",
-   "body": "This is a breaking news story.",
+   "summary": "Assailant stabbed a corporal outside the Sri Lankan embassy in Amman, killing him and injuring another officer.",
+   "body": "Assailant stabbed a corporal outside the Sri Lankan embassy in Amman, killing him and injuring another officer.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -474,22 +945,7 @@
    "lang": "en"
   },
   {
-   "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-   "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-   "source": "The Guardian",
-   "published": "2026-11-05T12:00:31+00:00",
-   "summary": "Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs Business live – latest updates The Bank of England has raised interest rates for the first time in three years and warned of another increase to come, to combat soaring inflation unleashe",
-   "body": "Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs Business live – latest updates The Bank of England has raised interest rates for the first time in three years and warned of another increase to come, to combat soaring inflation unleashed by the Iran war. Eight members of the Bank’s monetary policy committee (MPC) voted for the move, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=140&quality=85&auto=format&fit=max&s=6b8dbc64af07e342604bb536b83ddf1b",
-   "lang": "en"
-  },
-  {
-   "title": "‘Neocolonial belch’: what can Britain learn from backlash to Dutch slavery apology?",
+   "title": "What can Britain learn from backlash to Dutch slavery apology?",
    "link": "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology",
    "source": "The Guardian",
    "published": "2026-11-05T12:00:23+00:00",
@@ -523,14 +979,31 @@
    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
    "source": "The Guardian",
    "published": "2026-11-05T11:59:22+00:00",
-   "summary": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed across country Hundreds of thousands are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend to hospita",
-   "body": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed across country Hundreds of thousands are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend to hospital workers, air traffic control, the post office, teachers and rail staff. A total of 70,000 police officers were deployed across France on Thursday morning as street demonstrations began in cities including Marseille, Grenoble and Lyon. Continue reading...",
+   "summary": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed across country Hundreds of thousands of people are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend ",
+   "body": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed across country Hundreds of thousands of people are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend to hospital workers, air traffic control, the post office, teachers and rail staff. A total of 70,000 police officers were deployed across France on Thursday morning as street demonstrations began in cities including Marseille, Grenoble and Lyon. Continue reading...",
    "category": "Europe / NATO",
    "is_war": false,
    "countries": [
     "France"
    ],
    "image": "https://i.guim.co.uk/img/media/4391f5d30cbd51cf777dcde8c11f060cf80b318e/634_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=53d8d334cdafd0f8a3c7910df0539ede",
+   "lang": "en"
+  },
+  {
+   "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T11:57:00+00:00",
+   "summary": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels AP News",
+   "body": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels AP News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -559,36 +1032,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/Untitled-Design-2-1024x563.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "New Series of Bomb Threats Disrupts Flights in Europe",
-   "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-   "source": "NYT World",
-   "published": "2026-11-05T11:54:58+00:00",
-   "summary": "The planes that were targeted, including in Italy and France, landed safely, officials said. No explosives have been found.",
-   "body": "The planes that were targeted, including in Italy and France, landed safely, officials said. No explosives have been found.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-05T11:54:32+00:00",
-   "summary": "Fifteen flights across Europe have received bomb threats so far today, with some forced to divert Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: th",
-   "body": "Fifteen flights across Europe have received bomb threats so far today, with some forced to divert Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair flight from Helsinki to Rome Fiumicino. Belgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw, which now landed at Zaventem. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Poland"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
    "lang": "en"
   },
   {
@@ -641,21 +1084,6 @@
    "lang": "en"
   },
   {
-   "title": "New estrogen research may change how scientists think about women’s aging brains - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T11:43:44+00:00",
-   "summary": "New estrogen research may change how scientists think about women’s aging brains The Washington Post Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life ScienceAlert Oral Contraceptive and Hormone Therapy Use Linked to Healthier Brain Marke",
-   "body": "New estrogen research may change how scientists think about women’s aging brains The Washington Post Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life ScienceAlert Oral Contraceptive and Hormone Therapy Use Linked to Healthier Brain Markers Technology Networks Research linking hormonal changes and brain health could transform women's health Delaware Public Media Study links hormonal history to brain vascular health — News-Medical UA.NEWS",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Why more investment is not making housing affordable in Ghana",
    "link": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana?traffic_source=rss",
    "source": "Al Jazeera",
@@ -684,15 +1112,30 @@
    "lang": "en"
   },
   {
-   "title": "Multiple European flights face bomb threats for second time this week",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY294UG1Kb1BMQ2E0NzhidUJPeGZ2MjJ4blVRM3JybldTeVBHYk5EYkhuM2FCdkYzRW1lT0ttZkgtQ0lPajZqS19lZ2hlZ1M1OG5XM2kxODdKZjA?oc=5",
+   "title": "Discord is ditching Electron and its new app uses less RAM - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVFh4UTRSR0s0c3d2N255OUtVRXFvaU9QN2VCUXRtTElTMFFGZ3g3T0NPMVo4cWNhcXF2N05Bbm1SV0hweWlERkFQX2tzMm5vTjNWSE9sYTNURHVDdEpidmNaSjBxTkxuc290dHczMy1IRzlZNjAzdGFUQQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-05T11:36:27+00:00",
-   "summary": "Multiple European flights face bomb threats for second time this week BBC Flights across Europe impacted by bomb threats for second time this week BBC Multiple planes diverted as bomb threats to commercial flights reported across Europe – live The Guardian Series of bomb threats ",
-   "body": "Multiple European flights face bomb threats for second time this week BBC Flights across Europe impacted by bomb threats for second time this week BBC Multiple planes diverted as bomb threats to commercial flights reported across Europe – live The Guardian Series of bomb threats cause flight disruptions across Europe NBC News Several flights in Europe diverted due to bomb threats WPRI.com",
+   "published": "2026-11-05T11:39:42+00:00",
+   "summary": "Discord is ditching Electron and its new app uses less RAM The Verge Discord CTO confirms the desktop and mobile apps are being rebuilt in Rust Inven Global Discord is killing its Electron app that can eat 4GB of RAM on Windows 11, and the Rust rebuild uses just 290MB Windows Lat",
+   "body": "Discord is ditching Electron and its new app uses less RAM The Verge Discord CTO confirms the desktop and mobile apps are being rebuilt in Rust Inven Global Discord is killing its Electron app that can eat 4GB of RAM on Windows 11, and the Rust rebuild uses just 290MB Windows Latest Discord Ditches Electron: Rust Cuts RAM to 290MB [2026] https://tech-insider.org/ Discord Is Rebuilding Its App in Rust, Early Build Uses Just 290MB of RAM Shane the Gamer",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T11:35:17+00:00",
+   "summary": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap Bloomberg.com Here's what the Democratic election rout could mean for the U.S. economy CNBC US Stock Futures Diverge as Chip Selloff Extends Into Second Day Bloomberg.com Stock market today: Dow rallies 1,500 points, S&P",
+   "body": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap Bloomberg.com Here's what the Democratic election rout could mean for the U.S. economy CNBC US Stock Futures Diverge as Chip Selloff Extends Into Second Day Bloomberg.com Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress Yahoo Finance Dow has best post-midterm elections day in 44 years as Democrats take control of Congress CNN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -743,21 +1186,6 @@
    "lang": "en"
   },
   {
-   "title": "Dow futures surge more than 300 points after monster postelection rally: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdjFuSm1kNThIRUluMXJ1c3ZyVS1icmJDN1pVNVVOdlVVa1JwWFE3VGw0UkRfeTJqUlg3ZUotVzZPVFdCZ0tIOERPekZYbHRXSER6ZWpka2ZYV0ZQMXNuXzZ0VnBIREVTVVZtTXdZLXM4aGJOc0c40gF8QVVfeXFMTWdkU3RqWXdESzExbWxNemxOYmJQSjh1UEV5aWxqazFGaGRxazE0RUtHc3FfejNiZVFwQWlXMWRjNzlRYkdIRnB4Vjd2S3Z3Qmpia2EzNlhQRW84Q3c1NklFNUlib19EXzJpbUNieEluVnFKNkRHVDFaaDZpVQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T11:33:38+00:00",
-   "summary": "Dow futures surge more than 300 points after monster postelection rally: Live updates CNBC Here's what the Democratic election rout could mean for the U.S. economy CNBC Forbes Daily: Stocks Rally After Democrats Sweep Midterm Elections Forbes Stocks surge, and the Dow soars 1,500",
-   "body": "Dow futures surge more than 300 points after monster postelection rally: Live updates CNBC Here's what the Democratic election rout could mean for the U.S. economy CNBC Forbes Daily: Stocks Rally After Democrats Sweep Midterm Elections Forbes Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections Dallas News Wall Street bets Democratic sweep will empower moderates in Washington Financial Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
    "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
    "source": "Al Jazeera",
@@ -772,6 +1200,64 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T210740Z_505848961_RC27HOAKD65K_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793851381.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Bomb threats cause major flight disruptions across Europe",
+   "link": "https://www.france24.com/en/video/20261105-bomb-threats-cause-major-flight-disruptions-across-europe",
+   "source": "France 24",
+   "published": "2026-11-05T11:32:13+00:00",
+   "summary": "Bomb ​threats forced airliners to make unplanned landings across Europe on Thursday morning, the latest in a series of threats targeting flights in Europe. While no country has attributed blame for the threats, they come at a time ​when European officials have been blaming both R",
+   "body": "Bomb ​threats forced airliners to make unplanned landings across Europe on Thursday morning, the latest in a series of threats targeting flights in Europe. While no country has attributed blame for the threats, they come at a time ​when European officials have been blaming both Russia and Iran for what they describe as \"hybrid attacks\" and acts of sabotage. Moscow and Tehran both deny any such campaign. FRANCE 24's International Affairs Editor Philip Turle tells us more.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "Iran"
+   ],
+   "image": "https://s.france24.com/media/display/b96c436c-d908-11f1-b45b-a575454bc579/w:1024/p:16x9/EN-20261105-110119-110548-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive? - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklMcEd1X293aVZfOHJBVHRFN3pyczRWeWw3RTd6ZXBKNTRxeUJiRGhlMmh0STBnRGZWOGFwbkRCNmNMWXFPNlQ1M1ZRanNoOGZTbDVRcFlRM1NOT1hTUnVqTkcxZDVtQUpEclpUWGZEVXp0bVpGWGtHYnV1WlVYNEUtUHkwQ0ZzRGFudzJ6WTh2QThMYXI4ZEM5aXhqcUptX0lJ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T11:30:00+00:00",
+   "summary": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive? ESPN Buyers, sellers or fence-sitters? All 32 NFL teams slotted before the trade deadline Yahoo Sports 2027 NFL Trade Deadline: What We’re Hearing on Justin Herbert and Other Big Names Sports Illust",
+   "body": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive? ESPN Buyers, sellers or fence-sitters? All 32 NFL teams slotted before the trade deadline Yahoo Sports 2027 NFL Trade Deadline: What We’re Hearing on Justin Herbert and Other Big Names Sports Illustrated NFL Trade Deadline Big Board: Predicting where the Top 15 candidates will land FanSided NFL mock trade deadline: Attempting to swing deals for top remaining players available The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US midterms: Elon Musk fails $440 million bet as Republicans lose",
+   "link": "https://www.france24.com/en/video/20261105-us-midterms-elon-musk-fails-440-million-bet-as-republicans-lose",
+   "source": "France 24",
+   "published": "2026-11-05T11:29:35+00:00",
+   "summary": "The 2026 midterm elections were the most expensive on record, with nearly 12 billion dollars spent during the campaign. Tech tycoon Elon Musk was by far the largest individual donor ever, injecting over 440 million dollars of his money to support the GOP. Tuesday's resounding Dem",
+   "body": "The 2026 midterm elections were the most expensive on record, with nearly 12 billion dollars spent during the campaign. Tech tycoon Elon Musk was by far the largest individual donor ever, injecting over 440 million dollars of his money to support the GOP. Tuesday's resounding Democratic victory showed the limits of his money, power and influence.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/bc745f1e-d907-11f1-9c91-a575454bc579/w:1024/p:16x9/capture-3b5ba1d6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Hong Kong activist jailed for 10 more years for collusion with foreign forces",
+   "link": "https://www.france24.com/en/video/20261105-hong-kong-activist-jailed-for-10-more-years-for-collusion-with-foreign-forces",
+   "source": "France 24",
+   "published": "2026-11-05T11:29:09+00:00",
+   "summary": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in jail on Thursday for colluding with foreign powers, the second time he has been penalised under the city's national security law. Hong, 30, is one of the most globally recognised faces of Hong Kong's pro-d",
+   "body": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in jail on Thursday for colluding with foreign powers, the second time he has been penalised under the city's national security law. Hong, 30, is one of the most globally recognised faces of Hong Kong's pro-democracy movement and has already spent almost six years behind bars. He is now not due for release until late 2036.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/1765b516-d909-11f1-8349-bf1914cabd52/w:1024/p:16x9/2026-11-05T035351Z-666263956-RC2FHOAZ50XS-RTRMADP-3-HONGKONG-SECURITY-JOSHUAWONG.jpg",
    "lang": "en"
   },
   {
@@ -792,12 +1278,12 @@
    "lang": "en"
   },
   {
-   "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels | World News | 2news.com - KTVN",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOXpEbnNYMk53QkVBNE1YMVlPWi1aRzJLc1ZZd3hUUEtTSktvTFBKMnh5Ml80R2xWRFE2ZnYzUmdWRlBsc2J5MTRBU0ZjeGxtc0dDVTI5MHFwbGFhWEIyY0oydk9XaktpRjI2QzNIRkFYb095cHMyR2ZhLUN6Q01zenlSbGwzN2lLdTl3b2FhVm96UlVRZEt2aHJhQVlLNWVjal9rU1dTR2dkYzI1bXJyRkNpQWhweDNnd2xOQ1ZXRVBQU3RoNjdIUlM3eUVwS1JCLVl6OEMtQmk3YjZMZF9tLUU5eUVjU0t4MFMtWlFrbGQ5MlR1cmR2RnY2SkRQVWVfMUE?oc=5",
+   "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdl9oLUtlXy1ZS2xBZ3lKUFhBZnpvb1BtdVduUFpCZzR4SVFiWmFCdWoyQWVWaGxjemlTM01QWUxFVW4yTklmR0gwQzQ0YVpuLUZvY2RfVmNXbHZRRTQ4NTh6dk8xb09GVTdqUE1KWkt5QURKNDFpN1JobEdhX0FrYmNiSnh5Z0lFaXZlbzR3SEZPWlhPX1FyOGo1QkF6eFVJNUlpTWxHUVlaWnZWVHlPa3YwdnByLXZyVzM2ejlCdTl3eEZLRE1DRXplOUpsbGU2bHp0SlVpeWNCLUdBN0pTdk1mS2RibTQ4ci1FeUd3QnNLS1pOMVF5RVFpSU1Lb2tKQ2RPZDZXMzdCUVhScTBRWHhkUnA?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-05T11:27:26+00:00",
-   "summary": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels | World News | 2news.com KTVN",
-   "body": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels | World News | 2news.com KTVN",
+   "summary": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels News-Press NOW",
+   "body": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels News-Press NOW",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -860,48 +1346,48 @@
    "lang": "en"
   },
   {
-   "title": "Police and firefighters around UK gear up for Bonfire Night disorder",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/05/police-firefighters-uk-preparing-for-bonfire-night-disorder",
-   "source": "The Guardian",
-   "published": "2026-11-05T11:24:58+00:00",
-   "summary": "Leeds and Edinburgh among areas previously hit by fireworks-related violence, as fire brigades union warns of insufficient resources Emergency services are preparing for potential disorder in parts of the UK on Bonfire Night, amid concerns over the safety of firefighters from ris",
-   "body": "Leeds and Edinburgh among areas previously hit by fireworks-related violence, as fire brigades union warns of insufficient resources Emergency services are preparing for potential disorder in parts of the UK on Bonfire Night, amid concerns over the safety of firefighters from rising attacks and shortages of resources. Some communities have already been hit by unrest and antisocial behaviour in the days leading up to 5 November, with police in several towns and cities using enhanced powers, such as dispersal orders, to tackle groups letting off fireworks in public places. Continue reading...",
-   "category": "Global",
+   "title": "Route du Rhum 2026: Sailors forced to abandon race for various reasons",
+   "link": "https://www.france24.com/en/video/20261105-route-du-rhum-2026-sailors-forced-to-abandon-race-for-various-reasons",
+   "source": "France 24",
+   "published": "2026-11-05T11:25:52+00:00",
+   "summary": "The 2026 Route du Rhum is continuing to deliver one setback after another since Sunday’s start in Saint-Malo. From boats capsizing to sailors being forced to abandon the race, the favourites are dropping out one by one. But how do so many boats suffer damage so early in the race?",
+   "body": "The 2026 Route du Rhum is continuing to deliver one setback after another since Sunday’s start in Saint-Malo. From boats capsizing to sailors being forced to abandon the race, the favourites are dropping out one by one. But how do so many boats suffer damage so early in the race?",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/8d242f5671504f387b14477210c8403389baf052/647_0_4315_3452/master/4315.jpg?width=140&quality=85&auto=format&fit=max&s=d65c36872c3cf216f5eae8e5c7a8d768",
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/4b151f82-d909-11f1-836c-695cb59fade5/w:1024/p:16x9/capture-18803d7e.jpg",
    "lang": "en"
   },
   {
-   "title": "Death toll from Russian strike on aid center in southeastern Ukraine rises to 42 - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEwzR0tzVXEySTAwNmVuYjVLUEl6ZVFuc3VzOU9wNldUbWZDQm5PWkUwZkFjcHNzekFSSmlwdUw4ajhDdUhTWW1pcUJ1allmc1E2NW12LUpXbXVZTXR2NkZvaGhWQTV3MkFSSlprTEZjc1RzbjF3OEx0RjZpMzF2VWRIZmJRWW9NNjg4SThqeVUwbElobEFXNGQ1RHBkY0xrbkZLOWFvV1JZQXRBWWRLR1phTWx0LU5VZEpaSlpWTExkMC1jOGc5bjVmb1k?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T11:19:07+00:00",
-   "summary": "Death toll from Russian strike on aid center in southeastern Ukraine rises to 42 Anadolu Ajansı",
-   "body": "Death toll from Russian strike on aid center in southeastern Ukraine rises to 42 Anadolu Ajansı",
-   "category": "Ukraine / Russia",
+   "title": "US Midterms: Democrats say ready to negotiate and promise big changes",
+   "link": "https://www.france24.com/en/video/20261105-us-midterms-democrats-say-ready-to-negotiate-and-promise-big-changes",
+   "source": "France 24",
+   "published": "2026-11-05T11:22:34+00:00",
+   "summary": "US Democrats are promising to leverage their landslide election win to bring down living costs and hold President Donald Trump's administration to account. They are set to take control of both chambers of Congress in January, but delivering on their agenda could mean striking dea",
+   "body": "US Democrats are promising to leverage their landslide election win to bring down living costs and hold President Donald Trump's administration to account. They are set to take control of both chambers of Congress in January, but delivering on their agenda could mean striking deals with the very president they have pledged to rein in.",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/f77a26aa-d909-11f1-aace-a575454bc579/w:1024/p:16x9/capture-c858d567.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Owono left out of Eq Guinea squad after death of De Miguel",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14dElDcUVCcTZhal81VWZHcmc3LVk2bUdOelRkejY2MkxvV2dQdkIxWnZ0dmZpbUxjb1FlblpDUmRiLTdQRVBlUWpiZ1ZFa1NFWFpmSVJPWUlxYWp2OHN4OVJLQjIyZ0kt?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T11:18:39+00:00",
+   "summary": "Owono left out of Eq Guinea squad after death of De Miguel BBC Jesus Owono, the goalkeeper who collided with Jesus de Miguel, leading to his death The New York Times Jesús de Miguel death: Tenerife player honoured by rival club Las Palmas ESPN Questions arise over the emergency t",
+   "body": "Owono left out of Eq Guinea squad after death of De Miguel BBC Jesus Owono, the goalkeeper who collided with Jesus de Miguel, leading to his death The New York Times Jesús de Miguel death: Tenerife player honoured by rival club Las Palmas ESPN Questions arise over the emergency treatment given to Spanish soccer player in fatal collision AP News Spanish police investigating after soccer player dies following on-field collision ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Pound hits highest level since its crash after 2016 Brexit vote",
-   "link": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
-   "source": "The Guardian",
-   "published": "2026-11-05T11:14:30+00:00",
-   "summary": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections Business live – latest updates The pound has hit its highest level since its crash in the wake of the Brexit referendum a decade ago. Data released by the Bank of ",
-   "body": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections Business live – latest updates The pound has hit its highest level since its crash in the wake of the Brexit referendum a decade ago. Data released by the Bank of England on Thursday showed that the pound reached its strongest level against a basket of other currencies since 23 June 2016 – the day of the EU vote – on Wednesday. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/2b49d8c298006708feefeb53f442887e6b7d1adf/668_0_4497_3600/master/4497.jpg?width=140&quality=85&auto=format&fit=max&s=72be4bd07bd4f0a89b2f63c30a507cd1",
    "lang": "en"
   },
   {
@@ -949,6 +1435,22 @@
    "lang": "en"
   },
   {
+   "title": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "link": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
+   "source": "France 24",
+   "published": "2026-11-05T11:07:22+00:00",
+   "summary": "A ballistic missile fired at the Saudi city of Medina, one of Islam's holiest cities, was intercepted Thursday, a spokesman for the Saudi-led coalition fighting Yemen's Houthi rebels said. The announcement came shortly after the kingdom's civil defence agency warned of potential ",
+   "body": "A ballistic missile fired at the Saudi city of Medina, one of Islam's holiest cities, was intercepted Thursday, a spokesman for the Saudi-led coalition fighting Yemen's Houthi rebels said. The announcement came shortly after the kingdom's civil defence agency warned of potential danger around the strategic port of Yanbu.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://s.france24.com/media/display/588b5fc2-d905-11f1-ae23-1beafce15fea/w:1024/p:16x9/000-C4AU2T3.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Wingman reality show winners Frayya and LA split up after dating for a few months",
    "link": "https://www.channelnewsasia.com/entertainment/wingman-winners-split-frayya-la-mediacorp-6525971",
    "source": "CNA World",
@@ -977,21 +1479,6 @@
    "lang": "en"
   },
   {
-   "title": "Rural voters were feeling left behind before the midterms, poll shows",
-   "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-   "source": "The Guardian",
-   "published": "2026-11-05T11:00:22+00:00",
-   "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeti",
-   "body": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base. Over the summer, 95% of Americans indicated they believed there was an affordability crisis , particularly because of steep gas and grocery prices. By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/6e9014aebd94357b7e541c01534d161780ae3135/570_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9b5ebd3455a9288b38f88ff80d217122",
-   "lang": "en"
-  },
-  {
    "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
    "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
    "source": "The Guardian",
@@ -1005,80 +1492,16 @@
    "lang": "en"
   },
   {
-   "title": "America got the anti-data-center wave it voted for. Here come the economic consequences",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45eE5aUXhYMVFkZ0lRNzk1UTdrUkFYYkxGdHVVMlE3dm9OaXAyQ3ZSWGl5ZmZueUd3SXgxU1BLNUE4Zm1sUy1WaGdpb05aZDZHbHhmT2EteGRpWmFZdFJCUGxWSTQxWW90VEdVZVBHZDZUYWs?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T11:00:15+00:00",
-   "summary": "America got the anti-data-center wave it voted for. Here come the economic consequences CNN US voters put data centers on notice. Australia could be next Politico The midterms could fuel the K-shaped AI trade CNBC Silicon Valley’s Very Bad Night The Atlantic The real test for the",
-   "body": "America got the anti-data-center wave it voted for. Here come the economic consequences CNN US voters put data centers on notice. Australia could be next Politico The midterms could fuel the K-shaped AI trade CNBC Silicon Valley’s Very Bad Night The Atlantic The real test for the artificial intelligence build-out is what happens in 2028, analysts say MarketWatch",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "CVS announces major breakup, pharmacy expert weighs impact on consumers - Fox Business",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0N2MXh1T2FyVklrWTZFRUtvWEJnQjRmMzdLMmZocmxtS1l2RGhTVUFidVlQVGhVV1AtMlhjMHNSLVlWeEZoeTkzeVZId0ZDNERReUJVRlN0QkhRMHBiYkVFS2RhenRKemRHWS1lMlVqTFpsVXNYSVJkdWxKQmhmYXhXUHhFRHlCT0NMUFZ0VTdFaFc3WGtZb0pSVFBBMktRSGxwSdIBqgFBVV95cUxQVzNZVGJwUGE4cGNQb1hzT2FTOUplX2c3M1ltdVctX1MzM0hQUW5iekItTXVHdm9TOUswdzJLakg5SWF1bHE1bHdRRl9PelBJaDVWbmhtNXZCc3ExX3QwWk5na0NFb3NuQ3NUZy1KQldieXJzR19pVjdONW5mZFRaSjVZbWFWQXNWb254bWZIS2NIdHctZEdhRWxfNFU2cnRJUVdKVnJTRGtkZw?oc=5",
    "source": "Google News",
    "published": "2026-11-05T11:00:00+00:00",
    "summary": "CVS announces major breakup, pharmacy expert weighs impact on consumers Fox Business Inside CVS’s Decision to Break Up a Healthcare Juggernaut WSJ CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10% CNBC CVS to split into two companies, in ma",
-   "body": "CVS announces major breakup, pharmacy expert weighs impact on consumers Fox Business Inside CVS’s Decision to Break Up a Healthcare Juggernaut WSJ CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10% CNBC CVS to split into two companies, in major breakup of its $117 billion healthcare empire CNN Novo Nordisk CEO says CVS breakup has no material impact on the weight-loss drug giant Yahoo Finance",
+   "body": "CVS announces major breakup, pharmacy expert weighs impact on consumers Fox Business Inside CVS’s Decision to Break Up a Healthcare Juggernaut WSJ CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10% CNBC CVS to split into two companies, in major breakup of its $117 billion healthcare empire CNN Aetna to remain with CVS Health under planned 2028 split; Hartford impact unclear Hartford Business Journal",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine Braces For Winter Amid Russian Attacks On Its Energy Sector - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3NMTzZzUlJBWm43dFBTUVJMd2VJTE41SUlnTVAtNXg2Y1hHd3BmSGo2UkpjTHBpWUdWZURIcWx6RzNHMUJrRWd3QXk1SEZLbVBDRmNPejFhMGlObUZoWkNtNnB0RE0tb0hBUnp4NjBYbXg5THJyUjYzbkg5MExaX1ZqckFCUGZZN2FXM3hGUUxqNTBmeVN3Wk9sOUpUaTFpRUJla0RBbno2cTlJNjRmVEg4YllMdWNmN0JIWmZn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T11:00:00+00:00",
-   "summary": "Ukraine Braces For Winter Amid Russian Attacks On Its Energy Sector Forbes",
-   "body": "Ukraine Braces For Winter Amid Russian Attacks On Its Energy Sector Forbes",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine rushes to develop defenses against Russian jet-powered drones - Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzZlYkhWZERHTnVQaTlLc3NmODA4NnV2UTE1cU9fenBuekpqanNKWnN6NS15ZWZSb3dpYkNtT1pXV1BUY3pjX1JiNkNIclJrRkVKOXhlZ3M4LWpCaTN2RlBRQm53YmpuYk5nTkw3Z3Vtay1famRPbDdQY2JFdHd5VmRiTjBBU0V1TXZxdTJoak9sMEFld1I3akdIYWhMSkZybWJlbmk3UGtfZ09VdnFXQmJkOGJ5eVFKQUE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T11:00:00+00:00",
-   "summary": "Ukraine rushes to develop defenses against Russian jet-powered drones Washington Examiner",
-   "body": "Ukraine rushes to develop defenses against Russian jet-powered drones Washington Examiner",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
-   "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
-   "source": "NYT World",
-   "published": "2026-11-05T10:56:11+00:00",
-   "summary": "Israeli party leaders are in discussions with President Isaac Herzog over who should get the first chance to form a governing coalition.",
-   "body": "Israeli party leaders are in discussions with President Isaac Herzog over who should get the first chance to form a governing coalition.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -1094,6 +1517,22 @@
     "Japan"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--VyVLY8kg--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-08-24T051401Z_2_LYNXMPEM7N0A7_RTROPTP_3_ASIA-AIRLINES-OUTLOOK.JPG?itok=6jvm5A_y",
+   "lang": "en"
+  },
+  {
+   "title": "South Africans eager to vote as local elections put failing services in focus",
+   "link": "https://www.france24.com/en/video/20261105-south-africans-eager-to-vote-as-local-elections-put-failing-services-in-focus",
+   "source": "France 24",
+   "published": "2026-11-05T10:48:38+00:00",
+   "summary": "South Africans voted on Wednesday, November 4, in local elections. Nearly 30 million people were eligible to cast their ballots, with corruption, failing infrastructure and the deterioration of essential services among the key issues shaping the vote. FRANCE 24's correspondent Eu",
+   "body": "South Africans voted on Wednesday, November 4, in local elections. Nearly 30 million people were eligible to cast their ballots, with corruption, failing infrastructure and the deterioration of essential services among the key issues shaping the vote. FRANCE 24's correspondent Eunice Masson reports from the ground.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/921c672a-d8fd-11f1-be33-1beafce15fea/w:1024/p:16x9/EN-20261104-214433-214559-CS.jpg",
    "lang": "en"
   },
   {
@@ -1126,19 +1565,18 @@
    "lang": "en"
   },
   {
-   "title": "APTOPIX Russia Ukraine War - Dayton Daily News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblRTcncxQ3d3MlhGMVNscmFKZ3c2aGxoYXZzOUttNnFzMm9nX2VwdTVSRk41VmFFTG5JX0UzRnhMRmIxY2tNUEw1S3RSMXU5anNkMldqQjhMQ3EtWHdOVVJhaS1HQ19QZTRKb2VxNUo2ZTVxQjd3ckNQcGRPTzBvc3ByZXFhbkZ0V1Z3T1BHcVJ2MUYyNXp3bjF3ektJLXBsLS1ia0hNX1k1RFQ1UGVYenhQVmZNcTgwS01F?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T10:42:43+00:00",
-   "summary": "APTOPIX Russia Ukraine War Dayton Daily News",
-   "body": "APTOPIX Russia Ukraine War Dayton Daily News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
+   "link": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory",
+   "source": "France 24",
+   "published": "2026-11-05T10:42:55+00:00",
+   "summary": "Sudan accused Ethiopia of allowing the paramilitary Rapid Support Forces (RSF) to launch drones from its territory. What does this allegation reveal about the RSF's military capabilities and foreign backing? FRANCE 24 spoke to Ali Mahmoud Ali, a Sudan researcher at ACLED, the Arm",
+   "body": "Sudan accused Ethiopia of allowing the paramilitary Rapid Support Forces (RSF) to launch drones from its territory. What does this allegation reveal about the RSF's military capabilities and foreign backing? FRANCE 24 spoke to Ali Mahmoud Ali, a Sudan researcher at ACLED, the Armed Conflict Location & Event Data Project, which monitors conflicts worldwide.",
+   "category": "Africa",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "France"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://s.france24.com/media/display/fc973e92-d900-11f1-8fa9-695cb59fade5/w:1024/p:16x9/capture-f0e4f3cb.jpg",
    "lang": "en"
   },
   {
@@ -1174,16 +1612,35 @@
    "lang": "en"
   },
   {
-   "title": "Cristiano Ronaldo retires from international duty after Portugal boss fall-out - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnB1VUVLYW9rSEhCTmc2Nk02a0RULTRUOEVxVFNIVmh5Ukp3MUhJYVVtYlFoY25xa2ZJS2ZRSHBZMlVmbTQyc0YzbWJZcDd1RXhrMHI2RlRrX2M4WHRnTmhTRUtqODNZaEx3VENwUWRBd0M5T19JdzVBRWg1Um9NbTJ0TXN1dFNLaWRZSktxa0stY1BPeGJtcUsyRVBfcXVKX2pyb1pWMXlMWE1W?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T10:35:00+00:00",
-   "summary": "Cristiano Ronaldo retires from international duty after Portugal boss fall-out ESPN Neymar sends message to Cristiano Ronaldo after international retirement confirmed Yahoo Sports Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal CNN",
-   "body": "Cristiano Ronaldo retires from international duty after Portugal boss fall-out ESPN Neymar sends message to Cristiano Ronaldo after international retirement confirmed Yahoo Sports Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal CNN Cristiano Ronaldo announces retirement from international football Al Jazeera Cristiano Ronaldo announces retirement from Portugal national team Reuters",
-   "category": "Global",
+   "title": "Ethiopian families fleeing conflict face difficulties with food access",
+   "link": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access",
+   "source": "France 24",
+   "published": "2026-11-05T10:38:41+00:00",
+   "summary": "A renewed conflict in Ethiopia has led to the displacement of thousands of civilians. But after years of war in the country and heavy budget cuts, humanitarian organisations have all but left many of the camps for internally displaced people, leaving many without food or health c",
+   "body": "A renewed conflict in Ethiopia has led to the displacement of thousands of civilians. But after years of war in the country and heavy budget cuts, humanitarian organisations have all but left many of the camps for internally displaced people, leaving many without food or health care. FRANCE 24's correspondent Tom Canetti reports.",
+   "category": "Africa",
    "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/0f0bfba2-d902-11f1-aa75-1beafce15fea/w:1024/p:16x9/capture-184d92ca.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
+   "link": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre",
+   "source": "France 24",
+   "published": "2026-11-05T10:34:55+00:00",
+   "summary": "The death toll from a Russian bombing of an aid distribution point in Ukraine's southeastern Zaporizhzhia region on Monday has risen to 42, with dozens still missing, officials said, in one of the deadliest strikes on civilians this year. The attack came a day ​after a brief ‌US-",
+   "body": "The death toll from a Russian bombing of an aid distribution point in Ukraine's southeastern Zaporizhzhia region on Monday has risen to 42, with dozens still missing, officials said, in one of the deadliest strikes on civilians this year. The attack came a day ​after a brief ‌US-brokered local ceasefire expired and less than a week before the United States is due to bring together Ukrainian and Russian delegations ⁠in Abu Dhabi for talks on ending the war, now in its fifth year.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/d4b64d1c-d902-11f1-ab39-1beafce15fea/w:1024/p:16x9/EN-20261105-102214-102402-CS.jpg",
    "lang": "en"
   },
   {
@@ -1200,12 +1657,27 @@
    "lang": "en"
   },
   {
+   "title": "The midterms could fuel the K-shaped AI trade",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85ZjJvMHpqdi03OUdNNnlyV2Y1Zk5pM1ZacjY2ZmJKSmNlTDBhSGw5TzRfZmdpTnFvWndCcFNGOTNxYmpJTHFoaVRHYk5iQkQzTWYyT2lQcmVETE5zdXZNZ21BNWMtY09NbVpEdzlxRnNGYjdxTUJmY29n?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T10:34:38+00:00",
+   "summary": "The midterms could fuel the K-shaped AI trade CNBC America got the anti-data-center wave it voted for. Here come the economic consequences CNN Data centers were on the ballot, and voters sent unmistakable message Fox Business Silicon Valley’s Very Bad Night The Atlantic The real ",
+   "body": "The midterms could fuel the K-shaped AI trade CNBC America got the anti-data-center wave it voted for. Here come the economic consequences CNN Data centers were on the ballot, and voters sent unmistakable message Fox Business Silicon Valley’s Very Bad Night The Atlantic The real test for the artificial intelligence build-out is what happens in 2028, analysts say MarketWatch",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Vance takes a step toward 2028 in MAGA power play - Axios",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JOThRLUYyYTJ3cTk0S2psTy1QekVEX0VnMkxiVjRVXzQ1eF9CbTAtV1hMX3otNEhoUFNrZURSLUhMUUk2VEZYRlM4ZHc0N3gxLTVPcFA3MmtTQWJNcGp5MzBzOWFrNnVvNXpR?oc=5",
    "source": "Google News",
    "published": "2026-11-05T10:34:19+00:00",
-   "summary": "Vance takes a step toward 2028 in MAGA power play Axios How Trump’s War in Iran and Missteps Flipped Washington Overnight WSJ Vance tosses Trump under the bus in a bid to keep 2028 hope alive CNN Romney counts reasons GOP lost: ‘Bad policy, bad character’ The Hill Opinion | Trump",
-   "body": "Vance takes a step toward 2028 in MAGA power play Axios How Trump’s War in Iran and Missteps Flipped Washington Overnight WSJ Vance tosses Trump under the bus in a bid to keep 2028 hope alive CNN Romney counts reasons GOP lost: ‘Bad policy, bad character’ The Hill Opinion | Trumpism Lite in 2028? Good luck, JD and Marco. The Washington Post",
+   "summary": "Vance takes a step toward 2028 in MAGA power play Axios The Republican missteps that laid the groundwork for a historic midterm rebuke The Washington Post Vance Breaks With Trump and Steps Into Political Abyss WSJ How Vance’s midterms aftermath post came together Politico Vance b",
+   "body": "Vance takes a step toward 2028 in MAGA power play Axios The Republican missteps that laid the groundwork for a historic midterm rebuke The Washington Post Vance Breaks With Trump and Steps Into Political Abyss WSJ How Vance’s midterms aftermath post came together Politico Vance blamed midterm losses on Iran war as IRGC says multiple tankers caught fire in Hormuz Fox News",
    "category": "Global",
    "is_war": true,
    "countries": [
@@ -1229,6 +1701,23 @@
    "lang": "en"
   },
   {
+   "title": "Zelensky in Spain for talks with world leaders as Kyiv seeks to strengthen air defences",
+   "link": "https://www.france24.com/en/video/20261105-zelensky-in-spain-for-talks-with-world-leaders-as-kyiv-seeks-to-strengthen-air-defences",
+   "source": "France 24",
+   "published": "2026-11-05T10:32:12+00:00",
+   "summary": "Ukrainian President Volodymyr Zelensky made a surprise visit to Madrid on Wednesday to drum up fresh military support against Russia during a summit of Latin American leaders in Spain. Madrid is hosting a two-day summit of the Ibero-American Community, a 22-nation group of Spanis",
+   "body": "Ukrainian President Volodymyr Zelensky made a surprise visit to Madrid on Wednesday to drum up fresh military support against Russia during a summit of Latin American leaders in Spain. Madrid is hosting a two-day summit of the Ibero-American Community, a 22-nation group of Spanish and Portuguese-speaking countries where support for Ukraine since Russia's 2022 invasion has divided opinion. FRANCE 24's Kyiv correspondent, Emmanuelle Chaze reports.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/6ed7b3e6-d902-11f1-8785-bf1914cabd52/w:1024/p:16x9/EN-20261105-102006-102123-CS.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Finland court jails captain and crew member over Baltic cable sabotage",
    "link": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1245,18 +1734,50 @@
    "lang": "en"
   },
   {
-   "title": "France gears up for strikes and protests as unions promise national mobilisation",
-   "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-05T10:26:03+00:00",
-   "summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
-   "body": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
-   "category": "Europe / NATO",
+   "title": "Israel president urges compromise after divisive election",
+   "link": "https://www.france24.com/en/video/20261105-israel-president-urges-compromise-after-divisive-election",
+   "source": "France 24",
+   "published": "2026-11-05T10:30:49+00:00",
+   "summary": "Israeli President Isaac Herzog on Wednesday accepted the certified results of last week’s parliamentary elections as legally binding and began consultations with party representatives on forming a new government. Herzog began consultations with party leaders on Wednesday night to",
+   "body": "Israeli President Isaac Herzog on Wednesday accepted the certified results of last week’s parliamentary elections as legally binding and began consultations with party representatives on forming a new government. Herzog began consultations with party leaders on Wednesday night to determine whom to designate to form a government — a process that could bring Netanyahu’s opponents to power.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://s.france24.com/media/display/87bfbf8a-d901-11f1-90b8-a575454bc579/w:1024/p:16x9/EN-20261105-101750-101932-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "After midterm stinging defeat, Trump is left to weigh his next move in Iran war",
+   "link": "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war",
+   "source": "France 24",
+   "published": "2026-11-05T10:27:32+00:00",
+   "summary": "As he takes stock of his Republican Party's midterm drubbing, US President Donald Trump now faces the difficult question of what to do about his unpopular war against Iran. Trump acknowledged the war affected the midterms, suggesting voters were frustrated by surging gas prices t",
+   "body": "As he takes stock of his Republican Party's midterm drubbing, US President Donald Trump now faces the difficult question of what to do about his unpopular war against Iran. Trump acknowledged the war affected the midterms, suggesting voters were frustrated by surging gas prices that have been a byproduct of the more than 8-month-old conflict. FRANCE 24's International Affairs Editor Philip Turle tells us more.",
+   "category": "Middle East",
    "is_war": true,
+   "countries": [
+    "United States",
+    "Iran",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/3d0870ae-d901-11f1-8965-d18c5759e759/w:1024/p:16x9/EN-20261105-100942-101620-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Cyberattack hits French blood bank site, no blood products compromised",
+   "link": "https://www.france24.com/en/video/20261105-cyberattack-hits-french-blood-bank-site-no-blood-products-compromised",
+   "source": "France 24",
+   "published": "2026-11-05T10:25:41+00:00",
+   "summary": "A cyberattack on several blood banks tried to raise temperatures to extremely high levels but was thwarted before it could do any damage to blood products or samples, French authorities said. The incident comes after supermarkets in a number of European countries reported this we",
+   "body": "A cyberattack on several blood banks tried to raise temperatures to extremely high levels but was thwarted before it could do any damage to blood products or samples, French authorities said. The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely taken over, resulting in tons of spoiled food at a total cost of millions of euros.",
+   "category": "Global",
+   "is_war": false,
    "countries": [
     "France"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg",
+   "image": "https://s.france24.com/media/display/93a44598-d8ff-11f1-b9a0-1beafce15fea/w:1024/p:16x9/EN-20261105-100753-100941-CS.jpg",
    "lang": "en"
   },
   {
@@ -1272,6 +1793,21 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/5-1793869110.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Students blockade schools, universities as France braces for mass rallies",
+   "link": "https://www.france24.com/en/video/20261105-students-blockade-schools-universities-as-france-braces-for-mass-rallies",
+   "source": "France 24",
+   "published": "2026-11-05T10:24:41+00:00",
+   "summary": "Students blockaded dozens of high schools and universities across France on Tuesday to maintain pressure on the government over education reforms, as trade unions prepared for a nationwide strike. The school protests have fuelled a broader movement against soaring prices and inad",
+   "body": "Students blockaded dozens of high schools and universities across France on Tuesday to maintain pressure on the government over education reforms, as trade unions prepared for a nationwide strike. The school protests have fuelled a broader movement against soaring prices and inadequate public services, which has drawn hundreds of thousands of people onto the streets over the past three weekends. FRANCE 24's Clovis Casali reports from a high school blockaded by students in Aubervilliers, near Paris.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/b709f6aa-d8fe-11f1-be60-d18c5759e759/w:1024/p:16x9/EN-20261105-100241-100653-CS.jpg",
    "lang": "en"
   },
   {
@@ -1369,215 +1905,6 @@
    "lang": "en"
   },
   {
-   "title": "Several European flights receive bomb threats, some divert",
-   "link": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T10:10:00+00:00",
-   "summary": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed.",
-   "body": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static.dw.com/image/79861682_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
-   "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-   "source": "NYT World",
-   "published": "2026-11-05T10:06:44+00:00",
-   "summary": "More than 220 demonstrations are expected to take place across the country on Thursday, escalating weeks of protests against the rising cost of living.",
-   "body": "More than 220 demonstrations are expected to take place across the country on Thursday, escalating weeks of protests against the rising cost of living.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-   "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-   "source": "NYT World",
-   "published": "2026-11-05T10:04:44+00:00",
-   "summary": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
-   "body": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "APTOPIX Russia Ukraine War - chronicleonline.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFRlMkJoZVRBSkRFc0ZIeW1OS1o1dmNnSUpMUTV0UHZOUjU4LVgwaXB3QXpNbndXRDNzUkFGOGF1OFAwM1c2NEw3MDFmeThEdWdYZVJQOVdGa3ZGcEwzR2lkMVNQb0ZtVUluQ2EwZnBNTkFIc29KVUpqT1hxS0p4TlNmWnJWWkN6elN5cGRqWmdYUi1SMlBXd09fQXdlb0pocW1KU3MxcFN4aTBxbkx3UHlRN3dNaEMw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T10:04:38+00:00",
-   "summary": "APTOPIX Russia Ukraine War chronicleonline.com",
-   "body": "APTOPIX Russia Ukraine War chronicleonline.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-   "link": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T10:04:26+00:00",
-   "summary": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
-   "body": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261102__D6827LT__v1__HighRes__FblEurC1BayernMunichPresser-1793870795.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "75% of Americans could have a Democratic governor - Axios",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0FvMnlGZjdET1hzRkNEQ0dKMjJ4a0FtSzVYX095aFRMS0VOTDRDQVZFaTZaanVrSmJVeWVVYTJOTmdUOVQ0TWM3Z1NwSGdRLXJjNDlqVWN4djRQMlVTWldIQ1J0X0RfTlFUZDJwTkVPVFBYSVlsdGxxa183NE1kb2VRX0puVDBQZzJlVFRn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T10:04:18+00:00",
-   "summary": "75% of Americans could have a Democratic governor Axios Democrats will control most governorships, a generational shift The Seattle Times 2026 election results: The 36 governor's races across the U.S. WCVB Democrats press to win a majority of governors’ offices in midterms after ",
-   "body": "75% of Americans could have a Democratic governor Axios Democrats will control most governorships, a generational shift The Seattle Times 2026 election results: The 36 governor's races across the U.S. WCVB Democrats press to win a majority of governors’ offices in midterms after power struggles with Trump AL.com Democrats clinch a majority of governorships for first time in 16 years Yahoo",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "How Texas Democrats Turned Decades of Defeat Into a Statewide Sweep",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55WHFpR0NrMTR0WjJfVUtJQ3VOR3VBcHhGOFhIUWcxamV3QmVBaVdvX2tJZWd2d2tUOG9oamxvdS13SFZpeUFxX3NQOHJNZzVCNmh4ODlnWlU2dzJuVlpra0xhSFVQa3ZUc0p4Y2tjRVRVRnBVWDR0VG01bmh1bU0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T10:03:33+00:00",
-   "summary": "How Texas Democrats Turned Decades of Defeat Into a Statewide Sweep The New York Times Opinion | How the Republicans Lost Texas WSJ “MAGA Needs To Be Dead”: Dade Phelan on the Republican Wipeout Texas Monthly A political revolution in Texas The Economist James Talarico says he'll",
-   "body": "How Texas Democrats Turned Decades of Defeat Into a Statewide Sweep The New York Times Opinion | How the Republicans Lost Texas WSJ “MAGA Needs To Be Dead”: Dade Phelan on the Republican Wipeout Texas Monthly A political revolution in Texas The Economist James Talarico says he'll 'work with anyone' in Texas — including Elon Musk Business Insider",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
-   "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
-   "source": "The Guardian",
-   "published": "2026-11-05T10:00:05+00:00",
-   "summary": "Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree The blue wave that swept Republicans out of power across the United States didn’t just strike Congress. In Tuesday’s midterm elections, Democrats gained hundreds of se",
-   "body": "Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree The blue wave that swept Republicans out of power across the United States didn’t just strike Congress. In Tuesday’s midterm elections, Democrats gained hundreds of seats in state legislatures across the country, under-the-radar victories that may have major implications for life in America. Though ballots are still being counted, the party’s success appear to be historic – Democrats haven’t won full control of government in Arizona in 60 years, in Pennsylvania since the 1990s, and Wisconsin since their wipeout in 2010. In Michigan and Minnesota, they regained trifectas they lost after the 2024 election, while in Texas, they will control the state house for the first time since 2002. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/48d971fb27e5fafe100c4c18a143a91677f5cef1/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c82cda6b5e481809ec4302ef8b11780",
-   "lang": "en"
-  },
-  {
-   "title": "Reproductive rights protected in several states by midterm election ballot measures",
-   "link": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
-   "source": "The Guardian",
-   "published": "2026-11-05T10:00:03+00:00",
-   "summary": "Voters in Nevada, Virginia, Missouri and Idaho passed or strengthened protections for women’s reproductive freedom Reproductive rights were on the ballot on Tuesday night as voters weighed in on several abortion -related measures, delivering a largely successful night for reprodu",
-   "body": "Voters in Nevada, Virginia, Missouri and Idaho passed or strengthened protections for women’s reproductive freedom Reproductive rights were on the ballot on Tuesday night as voters weighed in on several abortion -related measures, delivering a largely successful night for reproductive rights advocates encompassed by a historic blue wave . In Nevada , voters approved an amendment enshrining abortion rights in the state constitution, permanently protecting access to abortion through the second trimester after a second referendum on the measure. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/d6c9587ba3757451e5c08925fa9f63dd7db2f102/262_0_3023_2417/master/3023.jpg?width=140&quality=85&auto=format&fit=max&s=e58e7a38a9af9911ac4196e5bc3ed30a",
-   "lang": "en"
-  },
-  {
-   "title": "South West Water’s failure to fix leaks ‘putting customer supplies at risk’",
-   "link": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
-   "source": "The Guardian",
-   "published": "2026-11-05T10:00:02+00:00",
-   "summary": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action plan Repeated failures by South West Water to tackle leaks are putting customers at higher risks of losing water supplies as parts of the region remain in severe dr",
-   "body": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action plan Repeated failures by South West Water to tackle leaks are putting customers at higher risks of losing water supplies as parts of the region remain in severe drought, regulators have said. In a warning to the privatised company that serves 1.8 million people across the south-west of England, the regulators said it had been failing to meet targets to reduce leaks and repair burst pipes for seven years. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/0c0232e6285a1ef841d586f7f6a18d7771f70cbf/680_80_2761_2209/master/2761.jpg?width=140&quality=85&auto=format&fit=max&s=d83368b15fa6d548f85af9f0690490dc",
-   "lang": "en"
-  },
-  {
-   "title": "The blue wave swamped Trump’s redistricting wall",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2pQMVYtRm5Tb1UtUEtDR0c3a1NGcTBVWjN5UFlBbUo2TldKdFZmelV5LXZUVjRmQzFad19YSXJIZzJtcTdqOThScjF2VFRsd3RqT0FWSVVycEpCQkZVY1lzRThKbFotR2tSZHdKWTQtY2JJdWt6T2lCUnA4LTBKcGpfaTJyVkFOUkViVkR1bnRzYmI1Q0RoOGZVc2RpZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T10:00:00+00:00",
-   "summary": "The blue wave swamped Trump’s redistricting wall Politico How Republicans Lost the Gerrymandering War The Atlantic Opinion | The biggest takeaway from the GOP’s gerrymander failure MS NOW Republican redistricting efforts collapse under blue wave CNN GOP’s defense of its gerrymand",
-   "body": "The blue wave swamped Trump’s redistricting wall Politico How Republicans Lost the Gerrymandering War The Atlantic Opinion | The biggest takeaway from the GOP’s gerrymander failure MS NOW Republican redistricting efforts collapse under blue wave CNN GOP’s defense of its gerrymandering: The rout could have been even worse The Washington Post",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine's Soldiers Are Getting New Jobs in the Robot War - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2hPTEFpb3ZmYUdrWURjY0JaanQzUGVrWFlOWmZYU3VaZ0xZWkZtSDNOaVJ4X2FybWlWODk2a3RJWk5sNm1RYzZxSDRDSzJ1MjEtb1dSOXJHRXd5eU8tNmpsYjI3Rnk4U0RRbUcxYWJNTVJBSkRxQTlaWEhSblRtcw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T10:00:00+00:00",
-   "summary": "Ukraine's Soldiers Are Getting New Jobs in the Robot War Business Insider",
-   "body": "Ukraine's Soldiers Are Getting New Jobs in the Robot War Business Insider",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "A month after Yemen government offensive began, war of attrition takes hold",
-   "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:58:18+00:00",
-   "summary": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
-   "body": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308592470205-1793869495.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-   "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:57:04+00:00",
-   "summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-   "body": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "India"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab52cdea8-1790258398.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "ကောလင်းအရှေ့ခြမ်းဆေးရုံ တိုက်ခိုက်ခံရမှု ဆရာဝန်နှင့် ဆေးကျောင်းသားသေဆုံး",
    "link": "https://myanmar-now.org/mm/news/82117/",
    "source": "Myanmar Now Burmese",
@@ -1589,37 +1916,6 @@
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/2025-12-11-23.52.18-1024x768.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-   "link": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:52:02+00:00",
-   "summary": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-   "body": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/abedabu-1-1793867079.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "New bomb threats bring more disruption to flights across Europe",
-   "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:50:08+00:00",
-   "summary": "Flights make emergency landings in France, Italy and Bulgaria days after bomb threats disrupted air traffic.",
-   "body": "Flights make emergency landings in France, Italy and Bulgaria days after bomb threats disrupted air traffic.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aec4ebd43ad7-1793871549.jpg?resize=800%2C600",
-   "lang": "en"
   },
   {
    "title": "အမေရိကန် သက်တမ်းဝက်ရွေးကောက်ပွဲ ဒီမိုကရက်တို့ အောင်ပွဲခံ",
@@ -1635,99 +1931,6 @@
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/truwks5nof-900x476.jpg",
    "lang": "my"
-  },
-  {
-   "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt - Space",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemItWFFQRDR6YjVhX3ByNWpVTW5fdHVsNE10blo0MDg5SnRQak5JZDdicDZncnBndkZ4X2hYeHl4cS0yaGpoWjJVVFhqQnNnWnpfYndwcHB2eWdmaHZ4Z2N6OUp6dlVDZzIyMlNUcS1mNXJDRmNLR245S0Q0bnRFekNNMWtqSERWWEZWZmp3X1o5X0tJTDhZ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T09:46:07+00:00",
-   "summary": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt Space A 3,200-pound telescope plunged out of orbit. How it unfolded CNN NASA space telescope plunges to Earth after two decades studying cosmic explosions NBC News NASA’s Swift Observatory Re-Entered A",
-   "body": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt Space A 3,200-pound telescope plunged out of orbit. How it unfolded CNN NASA space telescope plunges to Earth after two decades studying cosmic explosions NBC News NASA’s Swift Observatory Re-Entered Atmosphere NASA Science (.gov) A NASA Telescope Has Crashed Back to Earth The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Türkiye to continue efforts to bring an end to Russia-Ukraine war: President Erdogan - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2ZXSEx4dXB1RFEtWjBIVWZCeUFndERBLTZNeHVTUUI3MEdoLXZGVTgwcUxyaDNFRzF2Y3Q5bVhBYWRJbFEtcDV2d0xwTjJxQW00QVhmVDVfLTVZa050cGx3Yjg3dmlOX2JpRHlDSUhrNTVVWEhBZm5rcEdUcUJjejZBLUlEZldwcVI2VWRWbEdDdC1BZEFJTWxJdDZFd0VsdUJyZXdHZkI4bFh2clNVOTBsOU1Kei1YN0xPQUZraw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T09:45:15+00:00",
-   "summary": "Türkiye to continue efforts to bring an end to Russia-Ukraine war: President Erdogan Anadolu Ajansı",
-   "body": "Türkiye to continue efforts to bring an end to Russia-Ukraine war: President Erdogan Anadolu Ajansı",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "Turkey"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "South Korea tests Arctic shipping route amid Russia-West row",
-   "link": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T09:45:00+00:00",
-   "summary": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
-   "body": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "South Korea"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "It’s Gaza, stupid",
-   "link": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:44:33+00:00",
-   "summary": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
-   "body": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aec4f3dce6b9-1793871677.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Melania Trump to Bring Russian and Ukrainian Officials Together on Thursday Before Abu Dhabi Peace Talks - Kyiv Post",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00MnVaMjlJV1FNRU9RczZUX0xweUJvWUE2dE9LQmdGc1BtOVRHNVc2ZU1GcmpSSmZfaW9DbGtwN1Nmck9iMndJTUtWcw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T09:42:46+00:00",
-   "summary": "Melania Trump to Bring Russian and Ukrainian Officials Together on Thursday Before Abu Dhabi Peace Talks Kyiv Post",
-   "body": "Melania Trump to Bring Russian and Ukrainian Officials Together on Thursday Before Abu Dhabi Peace Talks Kyiv Post",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Some self-defence gyms see rising demand from parents enrolling children in classes",
-   "link": "https://www.channelnewsasia.com/singapore/self-defence-gyms-rising-demand-parents-kids-enrolment-6516341",
-   "source": "CNA World",
-   "published": "2026-11-05T09:42:00+08:00",
-   "summary": "Beyond physical fitness, parents hope such lessons will help their children build confidence, discipline and resilience.",
-   "body": "Beyond physical fitness, parents hope such lessons will help their children build confidence, discipline and resilience.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--g-47qb5c--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/04/cna_kids_self_defence_kravist.png?itok=rtP67nb8",
-   "lang": "en"
   },
   {
    "title": "ငြိမ်းချမ်းရေးထက် ကိုယ်ကျိုးစီးပွားကို ဦးစားမပေးရန် အမေရိကန်အား NUG သတိပေး",
@@ -1746,38 +1949,6 @@
    "lang": "my"
   },
   {
-   "title": "Ukraine war live: Zelensky condemns Moscow’s ‘insane’ attack on school",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXlVQ0FzOW9HdGJXaVpGYUJHUF91S1pJRGNhLS1UdkIwRHpybExyUEgwc1NzNlk2LXZxQnVidGthS2szRXc3NUdZNjJsZU5XMnpwSUtVZGtlbjlvY1dYTVBvdDNuZXpqc3dlSkpUcnVIVU9RX2FrRVZ5ZHFXSW5kd1FJSURUZllhWkpqc2UwWllSU0lkWTRGUWE3MzQ4bkJoT3lIN21tNmZWOVJmMXE0ZkR4c0NveEpnV2dCdXFKanREVGhQUkE0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T09:32:51+00:00",
-   "summary": "Ukraine war live: Zelensky condemns Moscow’s ‘insane’ attack on school The Independent",
-   "body": "Ukraine war live: Zelensky condemns Moscow’s ‘insane’ attack on school The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Germany news: Deportations on the decline",
-   "link": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T09:31:00+00:00",
-   "summary": "Despite a decrease in overall deportations, more people were sent back to Turkey. Volkswagen is facing a fresh 'Dieselgate' trial. And Germany's leading DAX stock index hit a new high. DW has more.",
-   "body": "Despite a decrease in overall deportations, more people were sent back to Turkey. Volkswagen is facing a fresh 'Dieselgate' trial. And Germany's leading DAX stock index hit a new high. DW has more.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Germany",
-    "Turkey"
-   ],
-   "image": "https://static.dw.com/image/77523405_6.jpg",
-   "lang": "en"
-  },
-  {
    "title": "“ဝ”နှင့် မိုင်းလားတို့၏ နယ်မြေတောင်းဆိုမှုအရေး ထပ်မံဆွေးနွေး",
    "link": "https://myanmar-now.org/mm/news/82112/",
    "source": "Myanmar Now Burmese",
@@ -1789,82 +1960,6 @@
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/2026-11-05-19.56.19-1024x575.jpg",
    "lang": "my"
-  },
-  {
-   "title": "APTOPIX Russia Ukraine War - WV News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0xjSHJuV3FUQ0xYdEYzaE1lRzRiZ0VvblhDOFFJbjQzbThQUmFobXFPRndMd2JCVjRicXBSU21ObGpEeEhYb0JleFNTVTNidF83dnRhb2JyU1E5RjR3NE0wX2JuWHFPN2Fqc2NQbjd6SjBPd2V6c082QzNqMGF5TUFBeUlRMWZaYzUxRjY2dldlaTRNZTcweDZ5WWFOWHdLM01UN3hsbktzY0t3WU0ycDJB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T09:24:26+00:00",
-   "summary": "APTOPIX Russia Ukraine War WV News",
-   "body": "APTOPIX Russia Ukraine War WV News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner - EA WorldView",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhQd3l2RlRjeTJNOWtvRkVRUExVWGpyM2RSVTVsZm43ekRSSHpUazRtRWZaYkxNZUJEX2ZLTUsyOWV3Y2QwQTZKZGoyOUV5VFNaRlA2Vml6dHdYb2FwR1V6M1BBeENBNDBwZmg4TnBaWVUybUg4X0pPRW4xbW50Wmk5YXkxdVNEempVVzRWMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T09:23:05+00:00",
-   "summary": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner EA WorldView",
-   "body": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner EA WorldView",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "DBS names board director Anthony Lim as new chairman; Peter Seah retires after 16 years",
-   "link": "https://www.channelnewsasia.com/singapore/dbs-chairman-peter-seah-anthony-lim-6525876",
-   "source": "CNA World",
-   "published": "2026-11-05T09:23:00+08:00",
-   "summary": "Mr Lim, a DBS board member since 2020, will take over on Jan 1, 2027, as Mr Seah steps down after overseeing a period of significant growth and digital transformation at Singapore's largest bank.",
-   "body": "Mr Lim, a DBS board member since 2020, will take over on Jan 1, 2027, as Mr Seah steps down after overseeing a period of significant growth and digital transformation at Singapore's largest bank.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--AjYhBuz8--/c_crop,h_759,w_1350,x_0,y_50/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/05/anthony_lim_peter_seah_dbs_chairman.png?itok=O1-22YDJ",
-   "lang": "en"
-  },
-  {
-   "title": "France braces for fresh protests as unions strike over higher wages",
-   "link": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T09:19:00+00:00",
-   "summary": "Unions representing the education sector, rail employees, public hospitals and postal services called the strike. Authorities have deployed some 70,000 police and security officers across the country.",
-   "body": "Unions representing the education sector, rail employees, public hospitals and postal services called the strike. Authorities have deployed some 70,000 police and security officers across the country.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static.dw.com/image/79860837_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-   "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T09:13:35+00:00",
-   "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
-   "body": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aec3777-1793865591.jpg?resize=800%2C600",
-   "lang": "en"
   },
   {
    "title": "အမေရိကန်ရဲ့ မြန်မာ့မူ ဘယ်လောက်အလုပ်ဖြစ်မလဲ",
@@ -1882,34 +1977,6 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/543d/live/c9f00c70-d8f7-11f1-a701-fddedf244c16.jpg",
    "lang": "my"
-  },
-  {
-   "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-   "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-05T09:04:42+00:00",
-   "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-   "body": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
-   "link": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T08:39:40+00:00",
-   "summary": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
-   "body": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26309218044576-1793865772.jpg?resize=800%2C600",
-   "lang": "en"
   },
   {
    "title": "သက်တမ်းဝက် ရွေးကောက်ပွဲအလွန် အမေရိကန် နိုင်ငံရေးအခင်းအကျင်း",
@@ -2125,82 +2192,6 @@
    "is_war": true,
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/2026-10-30-18.15.03-1024x768.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "တော်လှန်ရေးမှာ ဟိန္ဒူတွေ ဘာကြောင့်ပါခဲ့ကြသလဲ",
-   "link": "https://burma.irrawaddy.com/video/2026/11/04/417431.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-04T07:41:30+00:00",
-   "summary": "မြန်မာ့နွေဦးတော်လှန်ရေးမှာ လူနည်းစု ဟိန္ဒူဘာသာဝင်တွေအနေနဲ့ အခြားသော တိုင်းရင်းသားပြည်သူတွေနဲ့အတူ တက်ကြွစွာ ပါဝင်နေကြတာဟာ စစ်အာဏာရှင်စနစ်အောက်က လူမျိုးရေး၊ ဘာသာရေး ခွဲခြားဆက်ဆံမှုတွေကို အဆုံးသတ်ပြီး တန်းတူညီမျှတဲ့ နိုင်ငံသားအခွင့်အရေး ရရှိဖို့အတွက် ဖြစ်တယ်လို့ Myanmar Hindu Union ",
-   "body": "မြန်မာ့နွေဦးတော်လှန်ရေးမှာ လူနည်းစု ဟိန္ဒူဘာသာဝင်တွေအနေနဲ့ အခြားသော တိုင်းရင်းသားပြည်သူတွေနဲ့အတူ တက်ကြွစွာ ပါဝင်နေကြတာဟာ စစ်အာဏာရှင်စနစ်အောက်က လူမျိုးရေး၊ ဘာသာရေး ခွဲခြားဆက်ဆံမှုတွေကို အဆုံးသတ်ပြီး တန်းတူညီမျှတဲ့ နိုင်ငံသားအခွင့်အရေး ရရှိဖို့အတွက် ဖြစ်တယ်လို့ Myanmar Hindu Union ဥက္ကဋ္ဌ ကိုမင်းဟိန်းနဲ့ အတွင်းရေးမှူး ကိုကျော်ကျော်တို့က ပြောပါတယ်။\n\nလူမျိုး၊ ဘာသာ မတူကွဲပြားပေမဲ့လည်း လွတ်လပ်ခွင့်၊ တရားမျှတမှုနဲ့ လူ့အခွင့်အရေးတွေကို တန်းတူခံစားခွင့် ရရှိရေးဆိုတဲ့ မူဝါဒအပေါ် အခိုင်အမာ ရပ်တည်ပြီး၊ စစ်အာဏာရှင်စနစ် အမြစ်ပြတ်ကျဆုံးရေးအတွက် တိုင်းရင်းသားပြည်သူ တရပ်လုံးနဲ့အတူ လက်တွဲတိုက်ပွဲဝင်နေကြတာ ဖြစ်တယ်လို့ ဆိုပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #ဟိန္ဒူ #တော်လှန်ရေး #MyanmarHinduUnion #WhatsHappensInMyanmar",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Hindu-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "နယ်စပ်က အရပ်သားတွေ လုံခြုံရေးကာကွယ်ပေးဖို့ ထိုင်းနဲ့ နိုင်ငံတကာကို KNU တိုက်တွန်း",
-   "link": "https://rfa.org/burmese/news/2026/11/04/knu-urges-thailand-and-international-community-to-protect-civilians-along-myanmar-border/",
-   "source": "RFA Burmese",
-   "published": "2026-11-04T05:46:22+00:00",
-   "summary": "ထိုင်း-မြန်မာနယ်စပ်မှာ စစ်ဘေးရှောင်နေကြသူတွေအတွက် အဓိကစိုးရိမ်ရတာက မြန်မာစစ်တပ်ရဲ့ လေကြောင်းအန္တရာယ်ဖြစ်တယ်။",
-   "body": "ထိုင်း-မြန်မာနယ်စပ်တလျှောက်က အရပ်သားပြည်သူတွေကို ကာကွယ်ဖို့နဲ့ လူသားချင်းစာနာမှု အကူအညီတွေပေးဖို့အတွက် ထိုင်းအစိုးရ၊ အာဆီယံနဲ့ နိုင်ငံတကာအသိုင်းအဝိုင်းကို ကရင်အမျိုးသားအစည်းအရုံး (KNU) က နိုဝင်ဘာ ၃ ရက်နေ့မှာ ကြေညာချက်ထုတ်ပြီး တိုက်တွန်းလိုက်ပါတယ်။\n\nမြန်မာစစ်တပ်ရဲ့ လေကြောင်းတိုက်ခိုက်မှုတွေကြောင့် အရပ်သားတွေ ထိခိုက်သေဆုံးတာတွေကို ရပ်တန့်နိုင်ဖို့ စစ်တပ်ဆီ လေယာဉ်ဆီနဲ့ လက်နက်ရရှိနေတာတွေကို ကန့်သတ်တာအပါအဝင် ထိရောက်တဲ့ ဖိအားပေးဆောင်ရွက်မှုတွေ လုပ်ဖို့ ထိုင်းအစိုးရ၊ အာဆီယံနဲ့ ကုလသမဂ္ဂအပါအဝင် နိုင်ငံတကာအသိုင်းအဝိုင်းကို KNU က တောင်းဆိုလိုက်တာဖြစ်ပါတယ်။\n\nKNU ပြောခွင့်ရသူ ပဒိုစောကလယ်စေးက ထိုင်း-မြန်မာနယ်စပ်မှာ စစ်ဘေးရှောင်နေကြတဲ့ ဒုက္ခသည်တွေအတွက် အဓိကစိုးရိမ်ရတာက မြန်မာစစ်တပ်ရဲ့ လေကြောင်းအန္တရာယ်ဖြစ်တယ်လို့ RFA ကို ပြောပါတယ်။\n\n“ထိုင်း-မြန်မာနယ်စပ်မှာရှိနေတဲ့ စစ်ဘေးရှောင်နေရတဲ့ အဓိက လုံခြုံရေးအတွက် စိုးရိမ်ရတာက စစ်အုပ်စုရဲ့ လေကြောင်းကနေ ပြည်သူတွေကို ပစ်မှတ်ထားတဲ့အခြေအနေက အရမ်းကိုစိုးရိမ်ရတယ်။ စစ်ဘေးဒုက္ခသည်တွေကို လူသားချင်းစာနာမှုအကူအညီပေးရေးအစီအစဉ်မှာ နယ်စပ်ဖြတ်ကျော် ကူညီပေးရေး၊ အဲဒီလိုကူညီပေးတဲ့နေရာမှာလည်း ပြည်တွင်းထဲမှာရှိနေတဲ့ လူမှုအဖွဲ့အစည်း NGO အဖွဲ့အစည်းတွေကတဆင့် ဒုက္ခရောက်နေတဲ့ ပြည်သူတွေကို ပေးဝေပေးဖို့အတွက် ကျွန်တော်တို့ တောင်းဆိုထားတာပါ။ အခုလက်ရှိက တစ်နိုင်ငံလုံးပဲ ဒုက္ခရောက်နေတာပါ။ လတ်တလော ထိုင်းအာဏာပိုင်တွေရဲ့ စဉ်းစားချက်၊ လုပ်ဆောင်ချက်တွေကတော့ ဒီအခြေအနေမျိုးကိုတော့ မရောက်လာသေးဘူး”\n\nဒါ့အပြင် နယ်စပ်ဖြတ်ကျော် အကူအညီပေးရေးအတွက် နိုင်ငံတကာအသိုင်းအဝိုင်း၊ အထူးသဖြင့် အာဆီယံနိုင်ငံတွေအနေနဲ့ မြေပြင်အခြေအနေတွေကို လေ့လာပြီး ထိထိရောက်ရောက် ဆောင်ရွက်ဖို့ လိုအပ်ကြောင်း၊ အဲဒီလို ဆောင်ရွက်နိုင်ခြင်းမရှိရင် ဒုက္ခရောက်နေတဲ့ ပြည်သူတွေဆီ အကူအညီတွေ ရောက်ရှိဖို့ ခက်ခဲနိုင်ကြောင်းလည်း သူက ပြောပါတယ်။\n\nမြန်မာစစ်တပ်ရဲ့ တိုက်ခိုက်မှုတွေကြောင့် နယ်စပ်နှစ်ဖက်က အရပ်သားတွေရဲ့ နေအိမ်နဲ့ အဆောက်အအုံတွေ ပျက်စီးခဲ့ရပြီး ပြည်သူတွေရဲ့ အသက်အန္တရာယ်အတွက်လည်း စိုးရိမ်နေရတယ်လို့ KNU က ဆိုပါတယ်။\n\nအထူးသဖြင့် သောင်ရင်းမြစ်ကမ်းနားမှာ ခိုလှုံနေကြတဲ့ စစ်ဘေးဒုက္ခသည်တွေဟာ မြန်မာစစ်တပ်ရဲ့ လေကြောင်းနဲ့ ဒရုန်းတိုက်ခိုက်မှုတွေကြောင့် တစ်နေ့ထက်တစ်နေ့ အသက်အန္တရာယ် ပိုစိုးရိမ်နေရတယ်လို့လည်း ကြေညာချက်မှာ ဖော်ပြထားပါတယ်။\n\nအောက်တိုဘာလ နောက်ဆုံးပတ်အတွင်း သံလွင်မြစ်ပေါ်က မြစ်ကူးဆိပ်သုံးခုဖြစ်တဲ့ မယ်နူထာ၊ ရာထာနဲ့ သော်လဲထာတို့ကို မြန်မာစစ်တပ်က လေကြောင်းကနေ ဗုံးကြဲတိုက်ခိုက်ခဲ့တာကြောင့် အဲဒီမြစ်ကူးဆိပ်တွေကို မှီခိုနေရတဲ့ နယ်စပ်နှစ်ဖက်က ကုန်သည်တွေ၊ ဒေသခံတွေနဲ့ တောင်သူတွေ ထိခိုက်ခဲ့ရတယ်လို့ KNU က ဆိုပါတယ်။\n\nသံလွင်မြစ်ကမ်းနှစ်ဖက်က အရပ်သားတွေရဲ့ ကုန်သွယ်ရေးလမ်းကြောင်းတွေကို တိုက်ခိုက်တာဟာ နှစ်နိုင်ငံလုံးက ပြည်သူတွေရဲ့ ရှင်သန်ရေးနဲ့ အသက်မွေးဝမ်းကျောင်းလုပ်ငန်းတွေကို ထိခိုက်စေတယ်လို့လည်း KNU က ဝေဖန်ထားပါတယ်။\n\nထိုင်းအစိုးရအနေနဲ့ နယ်စပ်ဖြတ်ကျော်ကုန်သွယ်ရေး ဆက်လက်လုပ်ကိုင်ခွင့်ပြုဖို့၊ တရားဝင်ကုန်သွယ်ရေး အဆင်ပြေချောမွေ့စေဖို့နဲ့ နယ်စပ်လုံခြုံရေးအတွက် ပူးပေါင်းဆောင်ရွက်မှုတွေ ပိုမိုအားကောင်းအောင် လုပ်ဆောင်ဖို့လည်း KNU က တောင်းဆိုထားပါတယ်။\n\nပြီးခဲ့တဲ့ အောက်တိုဘာလ ၂၉ ရက်နေ့ကလည်း ကရင်ပြည်နယ် မြဝတီမြို့နယ် မင်းလက်ပံရွာအနီး တိုက်ပွဲအတွင်း ပစ်ခတ်ခဲ့တဲ့ လက်နက်ကြီးကျည်တစ်လုံး ထိုင်းနိုင်ငံ မဲဆောက်မြို့နယ်ဘက်ကို ကျရောက်ခဲ့ပြီး အသက် ၅၅ နှစ်အရွယ် ထိုင်းအမျိုးသမီးတစ်ဦး ဒဏ်ရာရခဲ့ပါတယ်။\n\nဒီဖြစ်ရပ်နောက်ပိုင်း ထိုင်းအာဏာပိုင်တွေက မဲဆောက်နဲ့ ဖုတ်ဖရမြို့နယ်တွေမှာ တရားဝင်ခွင့်ပြုထားတဲ့ လမ်းကြောင်းတွေကလွဲပြီး နယ်စပ်ကုန်သွယ်ရေးလမ်းကြောင်းတချို့ကို အောက်တိုဘာလ ၃၀ ရက်ကနေ နိုဝင်ဘာလ ၅ ရက်နေ့အထိ ယာယီကန့်သတ်ထားတယ်လို့ ထိုင်းသတင်းဌာနတွေက ဖော်ပြခဲ့ကြပါတယ်။\n\nထိုင်းဝန်ကြီးချုပ် အနုတင်ကလည်း နယ်စပ်တိုက်ပွဲတွေကြောင့် ထိုင်းနိုင်ငံသားတွေရဲ့ အသက်အိုးအိမ်စည်းစိမ် မထိခိုက်စေဖို့ မြန်မာဘက်ကို သတိပေးထားပြီး ထိုင်းနိုင်ငံရဲ့ အချုပ်အခြာအာဏာကို ကာကွယ်သွားမယ်လို့ နိုဝင်ဘာလ ၂ ရက်နေ့မှာ ပြောကြားခဲ့ကြောင်း Khaosod English သတင်းဌာနက ဖော်ပြပါတယ်။\n\nတစ်ဆက်တည်းမှာပဲ နယ်စပ်ဒေသက အွန်လိုင်းငွေလိမ်လုပ်ငန်းတွေနဲ့ နိုင်ငံဖြတ်ကျော်ရာဇဝတ်မှုတွေကို တိုက်ဖျက်ရာမှာ အရပ်သားတွေရဲ့ လုံခြုံရေး၊ အသက်မွေးဝမ်းကျောင်းလုပ်ငန်းတွေနဲ့ နယ်စပ်ကုန်သွယ်ရေးအပေါ် ထိခိုက်မှုမရှိအောင် အလေးထားဆောင်ရွက်သင့်တယ်လို့လည်း KNU က ထောက်ပြထားပါတယ်။\n\nKNU အနေနဲ့ ထိုင်းနိုင်ငံရဲ့ အချုပ်အခြာအာဏာကို လေးစားပြီး နိုင်ငံတကာလူသားချင်းစာ နာထောက်ထားမှုဆိုင်ရာ ဥပဒေတွေကို လိုက်နာရေးနဲ့ နယ်စပ်ဒေသ ငြိမ်းချမ်းရေးအတွက် ထိုင်းအာဏာပိုင်တွေနဲ့ နီးနီးကပ်ကပ် ပူးပေါင်းဆောင်ရွက်သွားမယ်လို့လည်း ကြေညာချက်မှာ ဖော်ပြထားပါတယ်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://www.rfa.org/resizer/v2/Z6AKVI3F7RCAPIKGQV34W7OGHE.jpg?auth=6c2b75a002d6ea7bb93baadc76b48f0d45268f7cc2ccb651ea4490d2433803fb&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "FATF ဆုံးဖြတ်ချက်နှင့် စစ်အုပ်စု၏ ဘဏ္ဏာရေးအကြပ်အတည်း",
-   "link": "https://burma.irrawaddy.com/article/2026/11/04/417428.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-04T05:03:55+00:00",
-   "summary": "FATF ၏ အစည်းအဝေးက မြန်မာနိုင်ငံကို အမည်ပျက်စာရင်းတွင် ဆက်လက်ထည့်သွင်းရန် ဆုံးဖြတ်ခဲ့၏။",
-   "body": "နိုင်ငံတကာငွေကြေးခဝါချမှုစောင့်ကြည့်ရေးအဖွဲ့ FATF (Financial Action Task Force) ၏ စုံညီအစည်းအဝေးကို ပြင်သစ်နိုင်ငံ ပါရီမြို့တွင် ၂၀၂၆ ခုနှစ်၊ အောက်တိုဘာ ၂၈ ရက်မှ ၃၀ ရက်နေ့အထိ ကျင်းပခဲ့သည်။\n\nFATF ၏ အစည်းအဝေးက မြန်မာနိုင်ငံကို အမည်ပျက်စာရင်းတွင် ဆက်လက်ထည့်သွင်းရန် ဆုံးဖြတ်ခဲ့၏။ မြန်မာနှင့်ပတ်သက်၍ ယခင်အတိုင်း ငွေကြေးလွှဲပြောင်းမှုတိုင်းကို အထူးသတိပြုစောင့်ကြည့်စစ်ဆေးသည့် တိုးမြှင့်စိစစ်မှုအဆင့် ဆက်လက်သတ်မှတ်ခြင်းဖြစ်သည်။ ထို့ပြင် ၂၀၂၇ ခုနှစ် ဖေဖော်ဝါရီလအထိ မြန်မာနိုင်ငံဘက်က တိုးတက်မှုမရှိသေးပါက FATF က ပိုမိုပြင်းထန်သည့် အရေးယူမှုများ လုပ်ရန် စဉ်းစားသွားမည်ဟု ထုတ်ပြန်ထားသည်။\n\nFATF က အဖွဲ့ဝင်နိုင်ငံများနှင့် အခြားနိုင်ငံများအား မြန်မာနိုင်ငံနှင့်ပတ်သက်သည့် ငွေကြေးလွှဲပြောင်းမှုများ၌ ဖြစ်လာနိုင်သော အန္တရာယ်များကို ထည့်သွင်းစဉ်းစားပြီး ပိုမိုတင်းကျပ်စွာ စိစစ်ဖို့ တိုက်တွန်းထားပါသည်။ ဤသို့စိစစ်သည့်အခါ ဘဏ်နှင့်ငွေကြေးဆိုင်ရာ အဖွဲ့အစည်းများသည် မြန်မာနှင့် ငွေကြေးပတ်သက်နေသည့် လုပ်ငန်းများ၊ ငွေလွှဲပြောင်းမှုများ၊ ငွေလွှဲခြင်းများ ပုံမှန်မဟုတ်ခြင်း၊ သံသယဖြစ်စရာရှိခြင်းမျိုး ဟုတ်၊ မဟုတ်ကို စစ်ဆေးရန်လိုသည်။\n\nFATF ၏ နာမည်ပျက်စာရင်းမှ လွတ်ရန် ကြိုးပမ်းနေသည့် စစ်အုပ်စုအတွက် အထိနာသည့် ထိုးနှက်ချက်တခုဟု ဆိုရပါမည်။\n\nနိုင်ငံတကာငွေကြေးခဝါချမှုစောင့်ကြည့်ရေးအဖွဲ့ FATFFATF (Financial Action Task Force) အား ၁၉၈၉ ခုနှစ်တွင် G7 ခေါ် ကမ္ဘာ့စက်မှုဖွံ့ဖြိုးပြီး ၇ နိုင်ငံ ထိပ်သီးအစည်းအဝေးက ဦးဆောင်ဖွဲ့စည်းခဲ့ခြင်းဖြစ်၏။ ဖွဲ့စည်းရသည့် ရည်ရွယ်ချက်မှာ ကမ္ဘာတဝန်းတွင် အရှိန်အဟုန်ဖြင့် ကြီးထွားလာနေသော ငွေကြေးခဝါချမှု ပြဿနာကို စနစ်တကျ တိုက်ဖျက်ရန်၊ အစုလိုက်အပြုံလိုက် ပျက်စီးစေသော လက်နက်များ ပြန့်ပွားအောင် ငွေကြေးထောက်ပံ့မှုများကို ဟန့်တားရန်၊ နိုင်ငံတကာ ဘဏ္ဏာရေးစနစ်တစ်ခုလုံးကို ရာဇဝတ်ကောင်များ အလွဲသုံးစားမလုပ်နိုင်စေရန် ဥပဒေနှင့် စည်းမျဉ်းဆိုင်ရာ နိုင်ငံတကာစံနှုန်းများ ချမှတ်ပေးရန် ဖြစ်ပါသည်။\n\nFATF ကို G7 နိုင်ငံများအပါအဝင် ကမ္ဘာ့အင်အားကြီးနိုင်ငံများနှင့် စီးပွားရေးထိပ်သီးနိုင်ငံများ၊ အာရှ-ပစိဖိတ်ဒေသတွင်း နိုင်ငံများ၊ ဥရောပနိုင်ငံများ၊ ဥရောပကော်မရှင်နှင့် ပင်လယ်ကွေ့ ပူးပေါင်းဆောင်ရွက်ရေးကောင်စီကဲ့သို့ ဒေသဆိုင်ရာ အဖွဲ့အစည်းကြီး ၂ ခုအပါအဝင် အဖွဲ့ဝင် ၄၀ (နိုင်ငံနှင့် ဒေသဆိုင်ရာ အဖွဲ့အစည်းများ) ဖြင့် ဖွဲ့စည်းထား၏။\n\nFATF ၏ ကမ္ဘာလုံးဆိုင်ရာ အသိပညာပေးမှု အားထုတ်မှုများအောက်တွင် APG (Asia/Pacific Group on Money Laundering – အာရှ-ပစိဖိတ် ငွေကြေးခဝါချမှုတိုက်ဖျက်ရေးအဖွဲ့) ကို ၁၉၉၇ ခုနှစ်၊ ဖေဖော်ဝါရီလတွင် ဖွဲ့စည်းခဲ့ပါသည်။ ဖွဲ့စည်းသည့်ရည်ရွယ်ချက်မှာ FATF က ချမှတ်ထားသော နိုင်ငံတကာ ငွေကြေးခဝါချမှုနှင့် အကြမ်းဖက်မှု တိုက်ဖျက်ရေးဆိုင်ရာ အကြံပြုချက်စံနှုန်းများကို အာရှ-ပစိဖိတ်ဒေသတွင်း နိုင်ငံများက ပူးပေါင်းဆောင်ရွက်ရန် ဒေသဆိုင်ရာအဖွဲ့အဖြစ် ဖွဲ့စည်းခဲ့ခြင်း ဖြစ်၏။\n\nအနှစ်ချုပ်ဆိုရလျှင် FATF ကို ကမ္ဘာလုံးဆိုင်ရာ စံနှုန်းချမှတ်ရန် G7 နိုင်ငံများက ၁၉၈၉ ခုနှစ်တွင် စတင်တည်ထောင်ခဲ့ပြီး၊ APG ကိုမူ ထိုစံနှုန်းများကို အာရှ-ပစိဖိတ်ဒေသအတွင်း ပိုမိုထိရောက်စွာ လိုက်နာနိုင်စေရန် ဒေသတွင်းအစိုးရများက FATF နှင့် ပူးပေါင်းကာ ၁၉၉၇ ခုနှစ်တွင် ထပ်ဆင့်ဖွဲ့စည်းခဲ့ခြင်း ဖြစ်ပါသည်။\n\nAPG တွင် အာဆီယံနိုင်ငံများ၊ အရှေ့အာရှနှင့် တောင်အာရှနိုင်ငံများ၊ ပစိဖိတ်ဒေသနှင့် အိုရှန်းနီးယားနိုင်ငံများ၊ မြောက်အမေရိကတိုက်မှ အမေရိကန်ပြည်ထောင်စုနှင့် ကနေဒါစသည့် အာရှ၊ ပစိဖိတ်ဒေသမှ ၄၂ နိုင်ငံနှင့် ဒေသဆိုင်ရာ နယ်မြေများ ပါဝင်သည်။\n\nလက်ရှိတွင် ယူကရိန်းအား ကျူးကျော်မှုကြောင့် ရုရှားအား FATF မှ ဆိုင်းငံ့ထားပြီး APG တွင်လည်း အာဖဂန်နစ္စတန်၏ လုပ်ငန်းစဉ်များ ရပ်ဆိုင်းထားသည်။ မြန်မာသည် APG ၏ အဖွဲ့ဝင်တဦးအဖြစ် FATF တွင် ပါဝင်ခြင်းဖြစ်၏။\n\nFATF ၏ အဓိကလုပ်ငန်းစဉ်များ\n\nFATF သည် ကမ္ဘာ့ဘဏ္ဏာရေးစနစ်တခုလုံး ဘေးကင်းလုံခြုံစေရန်အတွက် အဓိကလုပ်ငန်းကြီး ၃ ခုကို လုပ်ဆောင်ပါသည်။\n\n၁။ နိုင်ငံတကာစံနှုန်းများ ချမှတ်ခြင်း – ငွေကြေးခဝါချမှုနှင့် အကြမ်းဖက်မှုကို ငွေကြေးထောက်ပံ့မှု တိုက်ဖျက်ရေးအတွက် ကမ္ဘာတဝန်းလုံး လိုက်နာရမည့် “အကြံပြုချက် ၄၀” ကို စံနှုန်းအဖြစ် ချမှတ်ပေးထားပါသည်။\n\n၂။ အကဲဖြတ်စောင့်ကြည့်ခြင်း – အဖွဲ့ဝင်နိုင်ငံများနှင့် ကမ္ဘာ့နိုင်ငံများက ၎င်းတို့ချမှတ်ထားသော စံနှုန်းများကို အမှန်တကယ် လိုက်နာကျင့်သုံးခြင်း ရှိ၊ မရှိ ပုံမှန်စစ်ဆေးအကဲဖြတ်ပါသည်။\n\n၃။ အမည်ပျက်စာရင်းများ ထုတ်ပြန်ခြင်း – စံနှုန်းများကို လိုက်နာရန် ပျက်ကွက်ပြီး ဘဏ္ဏာရေးစနစ် အားနည်းသော နိုင်ငံများကို စောင့်ကြည့်စာရင်း သို့မဟုတ် အရေးယူရမည့် စာရင်းများထဲ ထည့်သွင်းထုတ်ပြန်ပါသည်။\n\nမီးခိုးရောင်စာရင်း (Grey List) – တိုးတက်အောင် ပြုပြင်ရန် အနီးကပ်စောင့်ကြည့်ခံရသည့်အဆင့်။\n\nအမည်မည်းစာရင်း (Black List) – လုံးဝပူးပေါင်းဆောင်ရွက်မှုမရှိဘဲ အလွန်အန္တရာယ်ကြီးသည့်အဆင့်ဟု သတ်မှတ်သည်။\n\nFATF နှင့် မြန်မာ\n\nလက်ရှိတွင် FATF က မြန်မာကို နာမည်ပျက်စာရင်း (အမဲရောင်အဆင့်) အဖြစ် ၂၀၂၂ ခုနှစ် အောက်တိုဘာလကတည်းက သတ်မှတ်ထားပြီး မြန်မာနိုင်ငံအပေါ် အရေးယူထားရသည့် အကြောင်းရင်း၊ အရေးယူသည့် အခြေအနေနှင့် သက်ရောက်မှုများမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။\n\n၁။ အရေးယူရသည့် အဓိကအကြောင်းရင်းများ\n\nမြန်မာနိုင်ငံသည် FATF က ချမှတ်ထားသော နိုင်ငံတကာစံနှုန်းများကို လိုက်နာရန် ပျက်ကွက်ခဲ့ခြင်းကြောင့် ဖြစ်ပြီး အဓိကအားဖြင့် အောက်ပါအချက် ၃ ချက်ကြောင့် ဖြစ်ပါသည်။\n\nက။ တရားမဝင် ရရှိလာသော ငွေကြေးများကို တရားဝင်ဖြစ်သွားအောင် လွှဲပြောင်းခဝါချမှုများကို ထိရောက်စွာ ဟန့်တားနိုင်ခြင်း မရှိခြင်း။\n\nခ။ အကြမ်းဖက်မှုများနှင့် ဆက်နွှယ်သည့် ငွေကြေးစီးဆင်းမှုများကို မပိတ်ပင်နိုင်ခြင်း။\n\nဂ။ အထူးသဖြင့် ကာစီနိုလုပ်ငန်းများ၊ လူကုန်ကူးမှုနှင့် အွန်လိုင်းငွေလိမ်ဂိုဏ်းများကဲ့သို့ တရားမဝင်လုပ်ငန်းများမှ ထွက်ပေါ်လာသည့် ငွေကြေးများကို ထိရောက်စွာ အမြစ်ပြတ် တိုက်ဖျက်နိုင်မှု အားနည်းခြင်းတို့ကြောင့် ဖြစ်သည်။\n\n၂။ အရေးယူသည့် အခြေအနေ\n\nမြန်မာနိုင်ငံသည် လက်ရှိတွင် FATF ၏ အမည်မည်းစာရင်း သို့မဟုတ် “အလေးထားစိစစ်ရမည့် နိုင်ငံများနှင့် ဒေသများစာရင်း” တွင် ဆက်လက် ထည့်သွင်းခံထားရဆဲ ဖြစ်ပါသည်။\n\nမြန်မာနိုင်ငံသည် ၂၀၂၂ ခုနှစ် အောက်တိုဘာလတွင် ဤအမည်မည်းစာရင်းသို့ စတင်သွင်းခံခဲ့ရပြီး၊ FATF ၏ ပုံမှန်အစည်းအဝေးများအပြီး နောက်ဆုံးထုတ်ပြန်ချက်များအရလည်း တိုးတက်မှု အားနည်းနေသေးသည့်အတွက် အမည်မည်းစာရင်းတွင် ဆက်လက်ထားရှိရန် ဆုံးဖြတ်ခြင်း ခံထားရသည်။ ၎င်းအပြင် ၂၀၂၇ ခုနှစ် ဖေဖော်ဝါရီလအထိ သတ်မှတ်ထားသည့် လုပ်ငန်းစီမံချက်များကို အကောင်အထည်မဖော်နိုင်ပါက FATF က ပိုမိုပြင်းထန်သည့် အရေးယူမှုများ နောက်ထပ် တိုးမြှင့်အရေးယူမှုများ ကြုံတွေ့ရနိုင်ခြေ ရှိနေပါသည်။\n\n၃။ မြန်မာပြည်အပေါ် သက်ရောက်မှုများ\n\nFATF နာမည်ပျက်စာရင်း (အမဲရောင်စာရင်း) ဝင်ခြင်းသည် မြန်မာ့စီးပွားရေးနှင့် ပြည်သူများအပေါ် တိုက်ရိုက်နှင့် သွယ်ဝိုက်သော ဆိုးကျိုးများစွာ သက်ရောက်စေပါသည်။\n\nပြည်ပဘဏ်များနှင့် ချိတ်ဆက်ရာတွင် အထူးအလေးထားစိစစ်ခြင်း ခံရသဖြင့် ငွေလွှဲခရီးစဉ်များ ကြန့်ကြာခြင်း၊ စာရွက်စာတမ်း အထောက်အထား အလွန်အမင်း တောင်းခံခံရခြင်း သို့မဟုတ် နိုင်ငံတကာဘဏ်အချို့က မြန်မာနှင့် ဆက်ဆံရေး လုံးဝဖြတ်တောက်ခြင်းများ ကြုံရသည်။ နိုင်ငံတကာဘဏ်လုပ်ငန်းများ နှောင့်နှေးကြန့်ကြာသည်။\n\nသွင်းကုန်/ပို့ကုန် လုပ်ငန်းရှင်များ ပြည်ပသို့ ငွေပေးချေရန်နှင့် ငွေလက်ခံရန် အလွန်ခက်ခဲလာပြီး၊ ကုန်သွယ်မှုစရိတ်များ ပိုမိုမြင့်မားလာသည်။ နိုင်ငံခြားရင်းနှီးမြှုပ်နှံမှုအသစ်များ ဝင်ရောက်ရန် လုံးဝနီးပါး ခက်ခဲသွားသည်။ ကုန်သွယ်ရေးနှင့် စီးပွားရေးများ ထိခိုက်သည်။ပြည်ပရောက် မြန်မာများ၊ ပြည်ပတွင် အလုပ်လုပ်ကိုင်နေသူများ၊ ကျောင်းတက်နေသူများ ပြည်တွင်းသို့ တရားဝင်ဘဏ်စနစ်ဖြင့် ငွေလွှဲရန် အခက်အခဲဖြစ်လာပြီး၊ ကန့်သတ်ချက်များ သို့မဟုတ် ဘဏ်အကောင့် ပိတ်သိမ်းခံရမှုများနှင့် ရင်ဆိုင်ရတတ်သည်။\n\nတရားဝင်လမ်းကြောင်းများ ပိတ်ဆို့မှုကြောင့် ပြင်ပမှ ဟွန်ဒီကဲ့သို့ တရားမဝင်လမ်းကြောင်းများကို ပိုမိုအားကိုးလာရပြီး၊ မြန်မာကျပ်ငွေ တန်ဖိုးကျဆင်းခြင်းနှင့် ကုန်ဈေးနှုန်း မြင့်တက်ခြင်းကို ပိုမိုဆိုးရွားစေသည်။ ငွေကြေးဖောင်းပွမှု ဖြစ်လာသည်။\n\nရှေ့အလားအလာ\n\nမြန်မာနိုင်ငံသည် လက်ရှိတွင် နာမည်ပျက်စာရင်း၊ အမည်မဲအဆင့်ထဲတွင် ရှိနေသည့်အတွက်၊ နိုင်ငံတကာဘဏ်များနှင့် အဖွဲ့အစည်းများအနေဖြင့် မြန်မာနိုင်ငံနှင့် ပတ်သက်သည့် ငွေကြေးစီးဆင်းမှုမှန်သမျှကို “အထူးတိုးမြှင့်စိစစ်ခြင်း” ပြုလုပ်ရန် FATF က စည်းကမ်းချက် ချမှတ်ထားပါသည်။ ၎င်းအပြင် မြန်မာနိုင်ငံအနေဖြင့် ဤစာရင်းမှ လွတ်မြောက်ရန်အတွက် အောက်ပါ လုပ်ငန်းစီမံချက်များကို အမြန်ဆုံး အကောင်အထည်ဖော်ရန် FATF က တောင်းဆိုထားပါသည်။\n\nမြန်မာနိုင်ငံအတွင်း ဖြစ်ပွားနေသော ကျားဖြန့် (Cyber Scams) နှင့် အွန်လိုင်းငွေလိမ်လည်မှုများမှ ထွက်ပေါ်လာသည့် တရားမဝင်ငွေကြေးစီးဆင်းမှုများကို အရေးယူရန်၊ နယ်စပ်ဂိတ်များနှင့် လေဆိပ်များတွင် ငွေကြေးနှင့် အဖိုးတန်ပစ္စည်းများ တရားမဝင် သယ်ဆောင်မှုကို တင်းကျပ်စွာ စစ်ဆေးရန်၊ တရားမဝင် လောင်းကစားလုပ်ငန်းများနှင့် အိမ်ခြံမြေ၊ ရွှေ၊ ကျောက်မျက် ရောင်းဝယ်ရေးလုပ်ငန်းများမှတဆင့် ငွေကြေးခဝါချမှု မလုပ်နိုင်အောင် စနစ်တကျ မှတ်ပုံတင်ကြီးကြပ်ရန်၊ ငွေကြေးခဝါချမှု ကျူးလွန်သူများကို ကာကွယ်မပေးဘဲ ထိရောက်စွာ တရားစွဲဆို အပြစ်ပေးရန်နှင့် ပိုင်ဆိုင်မှုများကို သိမ်းဆည်းရန်တို့ ဖြစ်၏။\n\nအကျဉ်းချုပ်ဆိုရလျှင် မြန်မာနိုင်ငံသည် FATF ၏ သတ်မှတ်ချက်များကို အပြည့်အဝ လိုက်နာဆောင်ရွက်နိုင်ခြင်း မရှိသေးသရွေ့ နာမည်ပျက် (အမည်မဲ) စာရင်းတွင် ဆက်လက်ရှိနေဦးမည်ဖြစ်ပြီး၊ နိုင်ငံတကာ ဘဏ္ဏာရေးနှင့် ကုန်သွယ်မှုကွန်ယက်များမှ ပိုမိုအထီးကျန်လာမည့် သက်ရောက်မှုများကို ကြုံတွေ့နေရဆဲ ဖြစ်သည်။\n\nFATF က ၂၀၂၆ ခုနှစ် အောက်တိုဘာလ ထုတ်ပြန်ချက်တွင် မြန်မာနိုင်ငံအနေဖြင့် ၂၀၂၇ ခုနှစ် ဖေဖော်ဝါရီလအထိ သိသာထင်ရှားသော တိုးတက်မှုများ မပြသနိုင်ပါက “ပိုမိုပြင်းထန်သည့် အရေးယူမှုများ” လုပ်ဆောင်ရန် စဉ်းစားမည်ဟု သတိပေးထားပါသည်။ လက်ရှိ မြန်မာနိုင်ငံသည် တိုးမြှင့်စိစစ်ခြင်းအဆင့်တွင်သာ ရှိသေးသော်လည်း၊ ပိုမိုပြင်းထန်သည့် အရေးယူမှုများအဆင့်သို့ ရောက်ရှိသွားပါက အမြင့်ဆုံး ဘဏ္ဏာရေးပိတ်ဆို့မှုကို ကြုံတွေ့ရမည် ဖြစ်ပါသည်။\n\nအဆိုပါ ပြင်းထန်သည့် အရေးယူမှုပုံစံများနှင့် မြန်မာနိုင်ငံအပေါ် ကျရောက်လာမည့် သက်ရောက်မှုများမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။\n\nFATF က ၎င်း၏ အဖွဲ့ဝင်နိုင်ငံများနှင့် ကမ္ဘာတဝန်းရှိ ဘဏ်များအား မြန်မာနိုင်ငံနှင့် ပတ်သက်၍ အောက်ပါအချက်များကို တိုက်ရိုက်တောင်းဆို ပိတ်ဆို့ခိုင်းပါလိမ့်မည်။\n\nနိုင်ငံတကာဘဏ်များအနေဖြင့် မြန်မာ့ဘဏ်များနှင့် ချိတ်ဆက်ထားသော လမ်းကြောင်းများကို လုံးဝ သို့မဟုတ် လုံးဝနီးပါး ဖြတ်တောက်ရန် တောင်းဆိုခြင်း၊ မြန်မာ့ဘဏ်များက ပြည်ပတွင် ဘဏ်ခွဲ သို့မဟုတ် ကိုယ်စားလှယ်ရုံးများ ဖွင့်လှစ်ခြင်းကို ခွင့်မပြုခြင်းနှင့် ရှိပြီးသားရုံးများကို ပိတ်သိမ်းခိုင်းခြင်း၊ မြန်မာနိုင်ငံမှ လူပုဂ္ဂိုလ်များ၊ ကုမ္ပဏီများနှင့် လုပ်ဆောင်မည့် မည်သည့်ဘဏ္ဍာရေးနှင့် စီးပွားရေး လုပ်ငန်းလွှဲပြောင်းမှုများကိုမဆို ကန့်သတ်ခြင်း သို့မဟုတ် ဆိုင်းငံ့ခြင်း၊ မြန်မာနိုင်ငံနှင့် ဆက်စပ်နေသော ဘဏ္ဍာရေးအုပ်စုများ၏ ပြည်ပအခြေစိုက် လုပ်ငန်းခွဲများကို ပြင်ပစာရင်းစစ်များဖြင့် အထူးစစ်ဆေးခိုင်းခြင်းတို့ ဖြစ်၏။\n\nမြန်မာနိုင်ငံအပေါ် မည်သို့ သက်ရောက်နိုင်သနည်း\n\nအကယ်၍ ဤအဆင့်သို့ ရောက်ရှိသွားပါက မြန်မာ့စီးပွားရေးမှာ ကမ္ဘာ့ဘဏ္ဏာရေးကွန်ယက်မှ လုံးဝအဆက်အသွယ်ပြတ်တောက်လုနီးပါး ဖြစ်သွားနိုင်ပြီး အောက်ပါအတိုင်း ဆိုးရွားစွာ သက်ရောက်ပါလိမ့်မည်။\n\nနိုင်ငံတကာ ငွေလွှဲစနစ် လုံးဝရပ်ဆိုင်းလုနီးပါးဖြစ်ခြင်း – ပြည်ပရောက် မြန်မာလုပ်သားများ၏ တရားဝင်အိမ်ပြန်ငွေလွှဲခြင်း လမ်းကြောင်းများ လုံးဝပိတ်သွားနိုင်ပြီး ပြင်ပ တရားမဝင် ဟွန်ဒီလမ်းကြောင်းကိုသာ ရာနှုန်းပြည့် အားကိုးရတော့မည် ဖြစ်သည်။\n\nသွင်းကုန်/ပို့ကုန်လုပ်ငန်းများ အကျပ်အတည်းဖြစ်ခြင်း – စက်သုံးဆီ၊ ဆေးဝါးနှင့် အခြေခံစားသောက်ကုန်များ၊ စစ်လက်နက်ပစ္စည်းများ တင်သွင်းရန်အတွက် ပြည်ပသို့ ငွေပေးချေရန် လုံးဝခက်ခဲသွားမည်ဖြစ်ရာ ပြည်တွင်း၌ ကုန်ပစ္စည်းပြတ်လတ်မှုနှင့် ကုန်ဈေးနှုန်း အဆမတန် ကြီးမြင့်မှုများ ဖြစ်လာနိုင်သည်။\n\nပြည်ပ ရင်းနှီးမြှုပ်နှံမှု ငွေကြေးများ တရားဝင် ဝင်ရောက်ရန် ခက်ခဲခြင်း၊ လူသားချင်းစာနာမှုအကူအညီများ ပြတ်တောက်ခြင်း – ကုလသမဂ္ဂနှင့် အစိုးရမဟုတ်သော နိုင်ငံတကာအဖွဲ့အစည်းများအနေဖြင့် မြန်မာပြည်တွင်းသို့ ကူညီကယ်ဆယ်ရေး ရန်ပုံငွေများ လွှဲပြောင်းရန် ဘဏ်လမ်းကြောင်း မရှိတော့သဖြင့် အရပ်သားပြည်သူများအတွက် လူသားချင်းစာနာမှု အကူအညီများ ပေးရန် အလွန်ခက်ခဲသွားလိမ့်မည်။\n\nကျပ်ငွေတန်ဖိုး ထိုးကျခြင်း – နိုင်ငံတကာ ကုန်သွယ်မှုနှင့် ဘဏ္ဏာရေးပိတ်ဆို့မှု ဒဏ်ကြောင့် မြန်မာကျပ်ငွေအပေါ် ယုံကြည်မှု လုံးဝပျက်ပြားပြီး ငွေကြေးဖောင်းပွမှု အဆိုးရွားဆုံးအဆင့်သို့ ရောက်ရှိသွားနိုင်ပါသည်။\n\nအနှစ်ချုပ်ဆိုရလျှင် ၂၀၂၇ ခုနှစ် ဖေဖော်ဝါရီလအထိ မြန်မာဘက်က တိုးတက်မှုမရှိဘဲ ပိုမိုပြင်းထန်သည့် အရေးယူမှုများ ချမှတ်ခံရပါက လက်ရှိ ကြုံတွေ့နေရသော ဘဏ်ငွေလွှဲရခက်ခဲသည့် အခြေအနေထက် အဆပေါင်းများစွာ ပိုမိုဆိုးရွားသွားမည်ဖြစ်ပြီး၊ မြန်မာနိုင်ငံသည် ကမ္ဘာ့ဘဏ္ဏာရေးစနစ်မှ ဖယ်ကြဉ်ခံရသည့် အထီးကျန်နိုင်ငံ ဖြစ်သွားနိုင်သည်။\n\nနိဂုံး\n\nလာမည့်လေးလအတွင်း စစ်အုပ်စုအနေနှင့် FATF ၏ တောင်းဆိုချက်ကို ဖြည့်တင်းရန် ခက်ခဲသကဲ့သို့ စစ်အုပ်စုနှင့် အလွမ်းသင့်သည့် နိုင်ငံတနိုင်ငံ၊ နှစ်နိုင်ငံက အာမခံဖြေရှင်း၍ မရနိုင်ပေ။ နိုင်ငံတကာတွင် စစ်လက်နက်ခဲယမ်း ဝယ်ယူလိုသည့် စစ်အုပ်စုအတွက် ငွေကြေးလွှဲပြောင်းရန်အတွက် ကြီးမားသည့် ဘဏ္ဏာရေးအကြပ်အတည်းလည်း ဖြစ်၏။\n\nFATF ၏ အရေးယူမှုကြောင့် နိုင်ငံတကာ ဘဏ္ဏာရေးကွန်ယက်တွင် ကြုံတွေ့ရမည့် စစ်အုပ်စု၏ အကြပ်အတည်းကား ရှောင်လွှဲရန် ခက်ခဲပေလိမ့်မည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/mmk4nov26f-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "မြန်မာအပေါ် ရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်မှုစွဲချက် နိုဝင်ဘာ ၁၉ မှာ ICJ စီရင်ချက်ချမည်",
-   "link": "https://rfa.org/burmese/news/2026/11/04/icj-deliver-judgment-gambia-myanmar-genocide/",
-   "source": "RFA Burmese",
-   "published": "2026-11-04T04:54:18+00:00",
-   "summary": "အများပြည်သူ တက်ရောက်နားထောင်ခွင့်ရှိတဲ့ တရားခွင်အဖြစ် ကျင်းပမှာဖြစ်။",
-   "body": "ရိုဟင်ဂျာတွေကို လူမျိုးတုံးသတ်ဖြတ်မှုနဲ့ မြန်မာနိုင်ငံအပေါ် ဂမ်ဘီယာနိုင်ငံက တရားစွဲဆိုထားတဲ့ အမှုအတွက် နိုဝင်ဘာ ၁၉ ရက်နေ့မှာ စီရင်ချက်ချမှတ်မယ်လို့ အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) က နိုဝင်ဘာလ ၃ ရက်နေ့မှာ ထုတ်ပြန်ပါတယ်။\n\nနယ်သာလန်နိုင်ငံ သဟိတ်ဂ်မြို့ က Peace Palace မှာ ဒေသစံတော်ချိန် မနက် ၁၀ နာရီမှာ တရားရုံးဥက္ကဋ္ဌ တရားသူကြီး Iwasawa Yuji က စီရင်ချက်ကို ဖတ်ကြားမှာဖြစ်ပြီး အများပြည်သူ တက်ရောက်နားထောင်ခွင့်ရှိတဲ့ တရားခွင်အဖြစ် ကျင်းပမှာဖြစ်တယ်လို့ ထုတ်ပြန်ချက်မှာ ဖော်ပြထားပါတယ်။\n\nအမေရိကန်အခြေစိုက် လူ့အခွင့်အရေး စောင့်ကြည့်လေ့လာရေးအဖွဲ့ (HRW) ရဲ့ နိုင်ငံတကာတရားမျှတရေးဆိုင်ရာ အကြီးတန်းဥပဒေအကြံပေး မာရီယာ အယ်လီနာ ဗစ်ဂ်နိုလီ (Maria Elena Vignoli) က “မြန်မာနိုင်ငံနဲ့ပတ်သက်တဲ့ ICJ ရဲ့ စီရင်ချက်ဟာ ရိုဟင်ဂျာတွေအတွက် တရားမျှတမှုရရှိရေး ကြိုးပမ်းမှုမှာ အရေးပါတဲ့ အလှည့်အပြောင်းတစ်ခု ဖြစ်လာမှာပါ” လို့ နိုဝင်ဘာလ ၃ ရက်နေ့ ထုတ်ပြန်ချက်မှာ ပြောထားပါတယ်။\n\nရခိုင်ပြည်နယ်မှာ ရိုဟင်ဂျာတွေအပေါ် လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ခဲ့တယ်ဆိုတဲ့ စွပ်စွဲချက်နဲ့ ဂမ်ဘီယာနိုင်ငံက မြန်မာနိုင်ငံကို ၂၀၁၉ ခုနှစ် နိုဝင်ဘာလ ၁၁ ရက်နေ့မှာ တရားစွဲဆိုခဲ့တာဖြစ်ပါတယ်။\n\nမြန်မာနိုင်ငံဟာ လူမျိုးတုံးသတ်ဖြတ်မှု တားဆီးရေးနဲ့ ပြစ်ဒဏ်ပေးရေးဆိုင်ရာ သဘောတူညီချက်ကို ချိုးဖောက်ခဲ့ကြောင်း ဆုံးဖြတ်ပေးဖို့၊ ချိုးဖောက်မှုတွေကို ရပ်တန့်ဖို့၊ ထိခိုက်နစ်နာခဲ့ရတဲ့ ရိုဟင်ဂျာတွေအတွက် ပြန်လည်ကုစားမှုတွေပေးဖို့နဲ့ အလားတူချိုးဖောက်မှုတွေ ထပ်မဖြစ်အောင် အာမခံချက်ပေးဖို့ ဂမ်ဘီယာနိုင်ငံက တောင်းဆိုထားပါတယ်။\n\nနယ်သာလန်နိုင်ငံ သဟိတ်ဂ်မြို့ရှိ အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) တွင် ၂၀၂၆ ခုနှစ် ဇန်နဝါရီလ ၁၂ ရက်နေ့က ဂမ်ဘီယာနိုင်ငံကိုယ်စားလှယ် ဒေါဒါဂျယ်လို (Dawda Jallow) လျှောက်လဲတင်ပြနေစဉ်။ (UN Photo/ICJ-CIJ/Frank van Beek) ဒီအမှုနဲ့ပတ်သက်ပြီး ICJ က ၂၀၂၀ ပြည့်နှစ် ဇန်နဝါရီလ ၂၃ ရက်နေ့မှာ မြန်မာနိုင်ငံက လိုက်နာဆောင်ရွက်ရမဲ့ ကြားဖြတ်အမိန့်တွေ ချမှတ်ခဲ့ပါတယ်။\n\nမြန်မာနိုင်ငံဘက်ကတော့ ဂမ်ဘီယာဟာ အစ္စလာမ်မစ်နိုင်ငံများပူးပေါင်းဆောင်ရွက်ရေးအဖွဲ့ (OIC) ကိုယ်စား မြန်မာနိုင်ငံကို တရားစွဲတာဖြစ်ပြီး၊ ဒီအမှုမှာ ဂမ်ဘီယာနိုင်ငံဟာ နစ်နာတဲ့နိုင်ငံ မဟုတ်တဲ့အတွက် တရားစွဲခွင့်မရှိကြောင်း၊ ICJ တရားရုံးအနေနဲ့ ဒီလျှောက်ထားမှုကို ပလပ်သင့်ကြောင်း ကန့်ကွက်ခဲ့ပေမဲ့ ၂၀၂၂ ခုနှစ် ဇူလိုင်လ ၂၂ ရက်နေ့မှာ ICJ က အဲဒီကန့်ကွက်ချက်တွေကို ပယ်ချခဲ့ပါတယ်။\n\nနယ်သာလန်နိုင်ငံ သဟိတ်ဂ်မြို့ရှိ အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) တွင် ၂၀၂၆ ခုနှစ် ဇန်နဝါရီလ ၁၆ ရက်နေ့က မြန်မာနိုင်ငံကိုယ်စားလှယ်အဖြစ် အဲဒီအချိန်က သမ္မတရုံးဝန်ကြီး ဦးကိုကိုလှိုင် လျှောက်လဲတင်ပြနေစဉ်။ (Frank van Beek/UN Photo/ICJ-CIJ/ Frank van Beek) ဒီအမှုရဲ့ အဓိကအကြောင်းအရာတွေနဲ့ပတ်သက်တဲ့ နှစ်ဖက်လျှောက်လဲကြားနာတာတွေကို ၂၀၂၆ ခုနှစ် ဇန်နဝါရီလ ၁၂ ရက်နေ့ကနေ ၂၉ ရက်နေ့အထိ ပြုလုပ်ခဲ့ပြီး သက်သေတွေနဲ့ ကျွမ်းကျင်သူ တစ်ဦးကိုလည်း စစ်ဆေးမေးမြန်းခဲ့ပါတယ်။\n\nဂမ်ဘီယာနိုင်ငံရဲ့တရားစွဲဆိုမှမှာ ကနေဒါ၊ ဒိန်းမတ်၊ ပြင်သစ်၊ ဂျာမနီ၊ နယ်သာလန်၊ ဗြိတိန်၊ မော်လ်ဒိုက်၊ ဆလိုဗေးနီးယား၊ ကွန်ဂိုဒီမိုကရက်တစ်သမ္မတနိုင်ငံ၊ ဘယ်လ်ဂျီယံနဲ့ အိုင်ယာလန်နိုင်ငံတို့လည်း ပါဝင်ထားပါတယ်။\n\n၂၀၁၇ ခုနှစ် ဩဂုတ်လက ရခိုင်ပြည်နယ်မြောက်ပိုင်းမှာ လုံခြုံရေးတပ်ဖွဲ့ဝင်တွေရဲ့ အစုလိုက်အပြုံလိုက် သတ်ဖြတ်မှု၊ မုဒိမ်းကျင့်မှုနဲ့ မီးရှို့ဖျက်ဆီးမှုတွေကြောင့် ရိုဟင်ဂျာ ခုနစ်သိန်းကျော် အိမ်နီးချင်း ဘင်္ဂလားဒေ့ရှ်နိုင်ငံကို ထွက်ပြေးခဲ့ရတယ်လို့ လူ့အခွင့်အရေးစောင့်ကြည့်ရေးအဖွဲ့ (HRW) က နိုဝင်ဘာလ ၃ ရက်နေ့ ထုတ်ပြန်ချက်မှာ ဖော်ပြထားပါတယ်။\n\nဒီအမှုဟာ လူပုဂ္ဂိုလ်တစ်ဦးချင်းကို ရာဇဝတ်ကြောင်းအရ တရားစွဲဆိုထားတာမဟုတ်ဘဲ လူမျိုးတုံးသတ်ဖြတ်မှုအတွက် မြန်မာနိုင်ငံအနေနဲ့ နိုင်ငံတကာဥပဒေအရ တာဝန်ရှိ၊ မရှိကို ဆုံးဖြတ်ပေးဖို့ တောင်းဆိုထားတာဖြစ်ပါတယ်။\n\nနိုဝင်ဘာလ ၁၉ ရက်နေ့မှာ ချမှတ်မဲ့ စီရင်ချက်ဟာ အယူခံဝင်ခွင့်မရှိတဲ့ နောက်ဆုံးစီရင်ချက် ဖြစ်ပါတယ်။",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://www.rfa.org/resizer/v2/K5BNMT4DFZELFIJDVLEADWQOEQ.jpg?auth=5bdc2808bb1c584809bd890b3b9c6aa5d04721a709755775643649753b4a8a97&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "တိလည်း တိကျတယ်၊ မတိလည်း မတိကျဘူး",
-   "link": "https://burma.irrawaddy.com/video/2026/11/04/417425.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-04T02:08:28+00:00",
-   "summary": "တရုတ်အထူးကိုယ်စားလှယ် မစ္စတာ တိန့်ရှီကျွန်း အဆိုပြုခဲ့တဲ့ တိုင်းရင်းသားတွေအတွက် အဆင့်မြင့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ပုံစံဆိုတာ ဘယ်လိုမျိုးလဲ၊ တရုတ်မှာ တိုင်းရင်းသားတွေ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ရကြသလား၊ မြန်မာနိုင်ငံရဲ့ လက်နက်ကိုင်ပဋိပက္ခတွေက အဆင့်မြင့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ရှ",
-   "body": "တရုတ်အထူးကိုယ်စားလှယ် မစ္စတာ တိန့်ရှီကျွန်း အဆိုပြုခဲ့တဲ့ တိုင်းရင်းသားတွေအတွက် အဆင့်မြင့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ပုံစံဆိုတာ ဘယ်လိုမျိုးလဲ၊ တရုတ်မှာ တိုင်းရင်းသားတွေ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ရကြသလား၊ မြန်မာနိုင်ငံရဲ့ လက်နက်ကိုင်ပဋိပက္ခတွေက အဆင့်မြင့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် ရှိရင် ပြီးဆုံးသွားနိုင်လား စတဲ့ မေးခွန်းတွေကို စာရေးဆရာ တင်မောင်သန်း (သင့်ဘဝ) က ဒီတပတ် ဧရာဝတီရဲ့ အင်တာဗျူးကဏ္ဍမှာ ဆွေးနွေးဖြေကြားသွားပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #တရုတ် #တိန့်ရှီကျွင်း #တိုင်းရင်းသား #ကိုယ်ပိုင်အုပ်ချုပ်ခွင့် #WhatsHappeningInMyanmar",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/1103-_-UTMT-_-Th-900x506.jpg",
    "lang": "my"
   }
  ]
