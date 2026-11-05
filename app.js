@@ -157,6 +157,10 @@
     return isNew(iso) ? ' <span class="badge new">' + (state.lang === "my" ? "အသစ်" : "NEW") + "</span>" : "";
   }
 
+  function catSlug(cat) {
+    return String(cat || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  }
+
   function langTag(it) {
     return it.lang === "my" ? '<span class="tag lang-my">မြန်မာ</span>' : "";
   }
@@ -235,7 +239,7 @@
     var grid = document.getElementById("grid");
     var show = rest.slice(0, state.shown);
     grid.innerHTML = show.map(function (it) {
-      var tags = '<span class="tag">' + esc(it.category) + "</span>" + langTag(it) +
+      var tags = '<span class="tag cat-' + catSlug(it.category) + '">' + esc(it.category) + "</span>" + langTag(it) +
         (it.countries || []).map(function (c) { return '<span class="tag country">' + esc(c) + "</span>"; }).join("");
       var thumb = it.image
         ? '<div class="card-img"><img src="' + esc(it.image) + '" alt="" loading="lazy"></div>'
