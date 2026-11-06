@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T17:38:51.248649+00:00",
- "updated_yangon": "2026-11-07 00:08",
+ "updated": "2026-11-06T18:38:52.747663+00:00",
+ "updated_yangon": "2026-11-07 01:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,8 +10,10 @@
   "DW",
   "France 24",
   "Google News",
+  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,39 +23,51 @@
  "countries": [
   [
    "United States",
-   54
-  ],
-  [
-   "France",
-   12
-  ],
-  [
-   "Myanmar",
-   8
+   47
   ],
   [
    "Ukraine",
-   8
+   10
+  ],
+  [
+   "France",
+   10
+  ],
+  [
+   "Myanmar",
+   7
   ],
   [
    "China",
-   5
+   6
   ],
   [
    "Russia",
-   4
+   5
   ],
   [
    "United Kingdom",
-   4
-  ],
-  [
-   "Iran",
-   4
+   5
   ],
   [
    "Israel",
-   4
+   5
+  ],
+  [
+   "Yemen",
+   3
+  ],
+  [
+   "Iran",
+   3
+  ],
+  [
+   "NATO",
+   3
+  ],
+  [
+   "Taiwan",
+   2
   ],
   [
    "Australia",
@@ -64,7 +78,7 @@
    2
   ],
   [
-   "Yemen",
+   "Palestine",
    1
   ],
   [
@@ -72,15 +86,7 @@
    1
   ],
   [
-   "Taiwan",
-   1
-  ],
-  [
    "Poland",
-   1
-  ],
-  [
-   "NATO",
    1
   ],
   [
@@ -98,11 +104,10 @@
   "Europe / NATO",
   "Global",
   "Middle East",
-  "Myanmar",
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 13,
+ "war_count": 17,
  "languages": {
   "my": 23,
   "en": 117
@@ -177,7 +182,7 @@
    "title": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌လွှတ်တော်မှာထည့်ဆွေးနွေး",
    "link": "https://www.bbc.co.uk/burmese/live/cm3ell19z52xt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-06T17:38:50+00:00",
+   "published": "2026-11-06T18:39:02+00:00",
    "summary": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -187,6 +192,312 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/080e/live/854782c0-d9aa-11f1-88e6-7913ca4cf3b6.jpg",
    "lang": "my"
+  },
+  {
+   "title": "US midterm elections 2026 live: Democrat inches ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-06T18:30:43+00:00",
+   "summary": "Scott Colom leading Republican incumbent Cindy Hyde-Smith in razor-thin race; president’s ally Jason Reding Quiñones steps down Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has cl",
+   "body": "Scott Colom leading Republican incumbent Cindy Hyde-Smith in razor-thin race; president’s ally Jason Reding Quiñones steps down Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not open to the press we’ll let you know if that opens up. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5",
+   "lang": "en"
+  },
+  {
+   "title": "Taiwan must face consequences for using water cannon: China - dailyasianage.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0lPdHA0bDNlUzJDR3k1WVJSdDR2aDhkaEY0OUxEMFVob3FGVkNuUFhkUm1vT2haVmR2cktvVW1rWXlnVEVsWmJQQU5QeThCTEYzRXctSUlyZzNlQWkxcGNickpSRm96dG5IOVZmcWxBQ3NVZUloR0s1UmhBZkdkYVgtdndrOThkZTl4Z2NzbXI4WWVjLW1GTF9LXzU?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-06T18:26:00+00:00",
+   "summary": "Taiwan must face consequences for using water cannon: China dailyasianage.com",
+   "body": "Taiwan must face consequences for using water cannon: China dailyasianage.com",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Taiwan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says he met with Putin envoy, sees Ukraine deal soon",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdNcHVpc01COUx6aHl0VC11S0NZWF9zNDU2Um9vN19ZdE0zS1dEaTdJdmJwU2pKUEJVeGM3QW5DZUpJLTM3enRqLUlzZEVzdHZ0ODl1YTFaRDBSdVd5V2NVUXBRdU45Qk5iYXFmQTNsUzlfTUhEQkt1ZFZBZHZNZ1NjaUZxM09YMndGWjdLczZLaUJhVmNva3ZWeVJtdw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T18:25:38+00:00",
+   "summary": "Trump says he met with Putin envoy, sees Ukraine deal soon NBC News",
+   "body": "Trump says he met with Putin envoy, sees Ukraine deal soon NBC News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+   "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+   "source": "NYT World",
+   "published": "2026-11-06T18:24:47+00:00",
+   "summary": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
+   "body": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+   "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+   "source": "NYT World",
+   "published": "2026-11-06T18:23:32+00:00",
+   "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
+   "body": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Putin confirms Russia-US-Ukraine talks scheduled for next Tuesday in Abu Dhabi - Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXdNNjBNa3cwN2ctdEQyQjd3Y1hGWi1nNzQ3eWxBVklRck5obWcyOGJoZVRlMTVHcDN6SkE5U0k4eERYTEtKdU9WQkV1ZDNsbGZkOGVzR2ZGS3VtOEEyLVgxU09XaUZGRTFtN3lLYmlqSVY1cDNzTEpVQzJDZkFCZ1o2QzlRTUduVEpvTGVxQlJnYlBDMnlWelQyU1U2VzhDSzg3M2V3RUh5SWlUc1BkTUN0dFZJaldTUmZVTUJDLU0xUFlpZ2JtZGVR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T18:21:06+00:00",
+   "summary": "Putin confirms Russia-US-Ukraine talks scheduled for next Tuesday in Abu Dhabi Anadolu Ajansı",
+   "body": "Putin confirms Russia-US-Ukraine talks scheduled for next Tuesday in Abu Dhabi Anadolu Ajansı",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T18:21:05+00:00",
+   "summary": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races The New York Times Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote CNBC Democrats are pushing toward a historic majority as more House races called ",
+   "body": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races The New York Times Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote CNBC Democrats are pushing toward a historic majority as more House races called CNN ‘What I actually did was split the Republican vote’: Ty Pinkins shares why he stayed in WTVA 'The lead keeps growing': Scott Colom awaits Mississippi Senate election results against Hyde-Smith Yahoo",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T18:18:42+00:00",
+   "summary": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged The Independent",
+   "body": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Meghan's father Thomas Markle arrested - follow live",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fYThSa2lBb2EteENyb1JHcEljWXpuaEZSY191Z0JQMmNfZHNONkFRcUpxZVNnNWJLdXNYNUl2NHZjLWxsZm1nbnJ5WlRlRnlRZkxwRHdB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T18:17:46+00:00",
+   "summary": "Meghan's father Thomas Markle arrested - follow live BBC Thomas Markle, father of Meghan, arrested after feds find sexually explicit photos of him with minors, DOJ says CNN Outside Thomas Markle Sr.'s home after arrest on child pornography charges USA Today Meghan Markle's estran",
+   "body": "Meghan's father Thomas Markle arrested - follow live BBC Thomas Markle, father of Meghan, arrested after feds find sexually explicit photos of him with minors, DOJ says CNN Outside Thomas Markle Sr.'s home after arrest on child pornography charges USA Today Meghan Markle's estranged father arrested and charged with possessing child sexual abuse materials AP News Thomas Markle, father of Meghan, arrested for child pornography possession Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T18:17:39+00:00",
+   "summary": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
+   "body": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-18.12.42-1793988862.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+   "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T18:09:49+00:00",
+   "summary": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
+   "body": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Yemen"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6aee0bd4dfda-1793985492.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "ကောလင်းက NUG ဆေးရုံ ဗုံးကြဲခံရပြီး ကျန်းမာရေးဝန်ထမ်း နှစ်ဦး သေဆုံး၊ ငါးဦး ဒဏ်ရာရ",
+   "link": "https://rfa.org/burmese/news/2026/11/06/two-health-workers-killed-in-junta-airstrike-on-nug-hospital-in-kawlin/",
+   "source": "RFA Burmese",
+   "published": "2026-11-06T18:06:20+00:00",
+   "summary": "မြို့နယ် ကျန်းမာရေးတာဝန်ခံ CDM ဆရာဝန် ဒေါက်တာဇာနည်ထွန်း နဲ့ ဆေးကျောင်းသား ကျန်းမာရေးဝန်ထမ်းတစ်ဦး သေဆုံးခဲ့။",
+   "body": "စစ်ကိုင်းတိုင်း၊ ကောလင်းမြို့နယ် လျှော်ဖြူကုန်းကျေးရွာက အမျိုးသားညီညွတ်ရေးအစိုးရ (NUG) ဖွင့်လှစ်ထားတဲ့ ဆေးရုံတစ်ခုကို နိုဝင်ဘာလ ၄ ရက်နေ့ ညပိုင်းမှာ စစ်တပ်က လေကြောင်းကနေ ဗုံးကြဲတိုက်ခိုက်ခဲ့တာကြောင့် ကျန်းမာရေးဝန်ထမ်း နှစ်ဦး သေဆုံးပြီး ငါးဦး ဒဏ်ရာရခဲ့တယ်လို့ NUG ကျန်းမာရေးဝန်ကြီးဌာနက သတင်းထုတ်ပြန်ပါတယ်။\n\nသေဆုံးသူတွေဟာ ကောလင်းမြို့နယ် ကျန်းမာရေးတာဝန်ခံ CDM ဆရာဝန် ဒေါက်တာဇာနည်ထွန်း (ခ) ဆရာပွကြီးနဲ့ ဆေးတက္ကသိုလ်ဝင်ခွင့် လျှောက်ထားဆဲ ကျန်းမာရေးဝန်ထမ်း ကိုထက်သူအောင် တို့ ဖြစ်တယ်လို့ ထုတ်ပြန်ချက်မှာ ဖော်ပြထားပါတယ်။\n\nအမျိုးသားညီညွတ်ရေးအစိုးရ(NUG) ဝန်ကြီးချုပ်ရုံးပြောရေးဆိုခွင့်ရှိသူ ဦးနေဘုန်းလတ်က စစ်ရေးပစ်မှတ်မဟုတ်တဲ့ နေရာတွေကို စစ်တပ်က ပစ်မှတ်ထားတိုက်ခိုက်နေတာလို့ ပြောပါတယ်။\n\n“ကောလင်းမြို့နယ် ကျန်းမာရေးတာဝန်ခံ ဆရာဝန်ကြီးနဲ့ ဆေးကျောင်းသားတစ်ဦးကျဆုံးခဲ့ပါတယ်။ စစ်တပ်က နိုင်ငံတကာ စာချုပ်စာတမ်းတွေ ဒါတွေကိုလည်း လုံးဝ အလေးထားခြင်း မရှိဘဲနဲ့ ဒီလိုမျိုး စစ်ရေးပစ်မှတ်မဟုတ်တဲ့ ဆေးရုံ၊စာသင်ကျောင်း၊ ဘာသာရေးအဆောက်အအုံ ဒါတွေကို တောက်လျှောက် ပစ်မှတ်ထား တိုက်ခိုက်နေတာ တော်တော်များနေပြီ ဖြစ်ပါတယ်”\n\nနိုဝင်ဘာလ ၄ ရက်နေ့ ညပိုင်းမှာ တံတားဦးလေတပ်ကနေ တက်လာတဲ့ တိုက်လေယာဉ်က NUG ထိန်းချုပ်နယ်မြေထဲက ဆေးရုံကို ပေါင် ၃၀၀ ဗုံးတစ်လုံး ကြဲချတိုက်ခိုက်ခဲ့တာလို့ ဒေသခံတွေက RFA ကို ပြောပါတယ်။\n\nဒီတိုက်ခိုက်မှုကြောင့် ဆေးရုံမှာ ဆေးကုသမှုခံယူနေတဲ့ အရပ်သား ခြောက်ဦးလည်း ဒဏ်ရာရခဲ့တယ်လို့ ဒေသခံတွေက RFA ကို ပြောပါတယ်။ NUG ကျန်းမာရေးဝန်ကြီးဌာနရဲ့ ထုတ်ပြန်ချက်မှာတော့ ဒဏ်ရာရ ကျန်းမာရေးဝန်ထမ်း ငါးဦးကိုသာ ဖော်ပြထားတာကြောင့် အရပ်သားလူနာတွေ ထိခိုက်ဒဏ်ရာရတာနဲ့ စုစုပေါင်း ဒဏ်ရာရသူအရေအတွက်ကို RFA က သီးခြားအတည်မပြုနိုင်သေးပါဘူး။\n\nဒီဆေးရုံဟာ တိုက်ပွဲတွေ မကြာခဏဖြစ်ပွားနေတဲ့ ကောလင်းမြို့နယ်မှာ လမ်းပန်းဆက်သွယ်ရေးအခက်အခဲကြောင့် မြို့ပေါ်ဆေးရုံကို သွားရောက်ဖို့ ခက်ခဲနေတဲ့ ဒေသခံတွေ အဓိက အားထားနေရတဲ့ ဆေးရုံဖြစ်ပြီး ၂၀၂၃ ခုနှစ်ကတည်းက စတင်လည်ပတ်နေတာလို့ သိရပါတယ်။\n\nလေကြောင်းတိုက်ခိုက်ခံရချိန်မှာ အနီးတစ်ဝိုက် တိုက်ပွဲတွေမရှိဘဲ စစ်တပ်က ဆေးရုံကို ပစ်မှတ်ထား တိုက်ခိုက်ခဲ့တာလို့ လုံခြုံရေးအရ အမည်မဖော်လိုတဲ့ ဒေသခံတစ်ဦးက RFA ကို ပြောပါတယ်။\n\n“ကောလင်းရဲ့ကျန်းမာရေးအသက်သွေးကြောမကြီးကို အပြီးတိုင်ဆုံးရှုံးလိုက်ရတာပါ။ အစားပြန်မရနိုင်တဲ့ ဆုံးရှုံးမှုကြီးပေါ့။ လတ်တလော မြေပြင်တိုက်ပွဲတွေ မရှိဘဲနဲ့ သတင်းရလို့ လေကြောင်းကနေ ပစ်မှတ်ထား ကြဲသွားတာဗျ”\n\nဒါ့အပြင် စစ်တပ်က ကောလင်းမြို့နယ် အရှေ့ခြမ်းကို စစ်ကြောင်းနှစ်ကြောင်းနဲ့ ဝင်ရောက်ဖို့ ကြိုးပမ်းနေတာကြောင့် ကျေးရွာ ဆယ်ရွာလောက်က ဒေသခံ သုံးထောင်ကျော် နေရပ်စွန့်ခွာ ထွက်ပြေးနေရတယ်လို့လည်း ဒေသခံတွေက ပြောပါတယ်။\n\nလက်ရှိအချိန်အထိ ကောလင်းဆေးရုံ လေကြောင်းတိုက်ခိုက်မှုနဲ့ ပတ်သက်ပြီး စစ်တပ်ခန့်အစိုးရဘက်က တစ်စုံတစ်ရာ သတင်းထုတ်ပြန်ထားတာ မရှိသေးသလို စစ်ကိုင်းတိုင်းပြောခွင့်ရသူ ဦးအောင်ဇော်ဦးကို RFA က တယ်လီဖုန်းနဲ့ဆက်သွယ်ခဲ့ပေမဲ့ ဖုန်းမဖြေပါဘူး။\n\nစစ်တပ်ထောက်ခံတဲ့ တယ်လီဂရန်ချန်နယ်တွေမှာတော့ ရွှေဘို-မြစ်ကြီးနားကားလမ်းအနီး ပေပင်ချောင်နဲ့ လျှော်ဖြူကုန်းရွာကြားမှာရှိတဲ့ ဒေသအခြေစိုက် ကာကွယ်ရေးတပ်ဖွဲ့ဝင်တွေရဲ့ လူနာဆောင် သုံးခု၊ နားနေဆောင်တွေနဲ့ ဗုံးခိုကျင်းတွေရှိတဲ့ ဆေးရုံကို တိုက်လေယာဉ်နဲ့ ဗုံးကြဲတိုက်ခိုက်ခဲ့ပြီး ထိခိုက်သေဆုံးတာတွေ ရှိခဲ့တယ်လို့ ဖော်ပြထားပါတယ်။\n\nNUG ကျန်းမာရေးဝန်ကြီးဌာနကတော့ ဆေးရုံတွေနဲ့ ကျန်းမာရေးဝန်ထမ်းတွေကို စစ်တပ်က ပစ်မှတ်ထားတိုက်ခိုက်နေတာဟာ နိုင်ငံတကာဥပဒေတွေကို ချိုးဖောက်ရာရောက်တယ်လို့ နိုဝင်ဘာလ ၅ ရက်နေ့ ထုတ်ပြန်ချက်မှာ စွပ်စွဲထားပြီး နိုင်ငံတကာအသိုင်းအဝိုင်းအနေနဲ့ ဒီလိုတိုက်ခိုက်မှုတွေကို တားဆီးအရေးယူဖို့ တောင်းဆိုထားပါတယ်။\n\nNUG ကျန်းမာရေးဝန်ကြီးဌာနက Insecurity Insight အဖွဲ့ရဲ့ Global Health Map စာရင်းကို ကိုးကားဖော်ပြထားရာမှာ ၂၀၂၁ ခုနှစ် ဖေဖော်ဝါရီလ ၁ ရက်နေ့ကနေ ၂၀၂၆ ခုနှစ် စက်တင်ဘာလအထိ မြန်မာပြည်မှာ ကျန်းမာရေးကဏ္ဍအပေါ် တိုက်ခိုက်မှုပေါင်း ၁,၉၇၇ ခု ရှိခဲ့ပြီး ဆေးရုံ၊ ဆေးခန်းတွေ ထိခိုက်ပျက်စီးမှု ၅၂၁ ခု၊ ကျန်းမာရေးဝန်ထမ်း ၁၇၆ ဦးသတ်ဖြတ်ခံရသလို ဖမ်းဆီးခံရသူ ၉၉၅ ဦးအထိ ရှိခဲ့တယ်လို့ ဆိုပါတယ်။\n\nအောက်တိုဘာလ ၃၁ ရက်နေ့ကလည်း ကယားပြည်နယ်၊ လွိုင်ကော်မြို့နယ်မှာ စစ်ဘေးဒုက္ခသည် ကလေးတွေ တက်နေတဲ့ စာသင်ကျောင်းကို စစ်တပ်က တိုက်ခိုက်ခဲ့တာကြောင့် ကလေး သုံးဦး သေဆုံးပြီး ငါးဦး ဒဏ်ရာရခဲ့ပါတယ်။\n\nဒါ့အပြင် နိုဝင်ဘာလ ၁ ရက်နေ့ကတော့ ရခိုင်ပြည်နယ်၊ မြောက်ဦးမြို့က ယာယီသားဖွားဆောင် လေကြောင်းတိုက်ခိုက်ခံခဲ့တာကြောင့် မွေးကင်းစကလေးတစ်ဦးအပါအဝင် ငါးဦး သေဆုံးခဲ့ပါတယ်။\n\nကုလသမဂ္ဂ ကလေးများရန်ပုံငွေအဖွဲ့ (UNICEF) က မြန်မာနိုင်ငံမှာ ကလေးတွေဟာ လုံခြုံမှုရှိသင့်တဲ့ စာသင်ကျောင်းတွေနဲ့ ကျန်းမာရေးဌာနတွေမှာတောင် သေဆုံးဒဏ်ရာရနေကြတာကြောင့် ပဋိပက္ခမှာ ပါဝင်နေတဲ့ အဖွဲ့အားလုံးအနေနဲ့ ကလေးတွေနဲ့ အရပ်သားအခြေခံအဆောက်အအုံတွေကို အကာအကွယ်ပေးဖို့ နိုဝင်ဘာလ ၃ ရက်နေ့မှာ တိုက်တွန်းထားပါတယ်။",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://www.rfa.org/resizer/v2/CFJQSGTG2BBPNK4YZ2EBRZZAXE.jpg?auth=e8896210cde289acd0a61aeada23c13346db1f32c670267cb0b92f8e6f70be4f&smart=true&width=1500",
+   "lang": "my"
+  },
+  {
+   "title": "Russell Brand barrister reports himself to watchdog over confrontation with journalist",
+   "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+   "source": "The Guardian",
+   "published": "2026-11-06T18:04:14+00:00",
+   "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a jou",
+   "body": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a journalist shortly after the former comedian had been found guilty of rape. Ian Winter KC “confronted” the Sunday Times journalist Rosamund Urwin, whose investigation led to Brand’s victims coming forward, telling her: “I hope you are pleased with yourself.” Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/master/1807.jpg?width=140&quality=85&auto=format&fit=max&s=a8a8468f7601eb8a03986edb9cefa0ed",
+   "lang": "en"
+  },
+  {
+   "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+   "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+   "source": "NYT World",
+   "published": "2026-11-06T18:01:28+00:00",
+   "summary": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.",
+   "body": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-kenya-cult-sentence-1-qbvt/06int-kenya-cult-sentence-1-qbvt-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Prince, the pope, and autumn 2026: purple is hot this season",
+   "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
+   "source": "The Guardian",
+   "published": "2026-11-06T17:51:37+00:00",
+   "summary": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with red The colour purple has links to royalty, the Catholic church, Prince, Gordon Brown’s ties and Barney the dinosaur and it now has a new association – a",
+   "body": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with red The colour purple has links to royalty, the Catholic church, Prince, Gordon Brown’s ties and Barney the dinosaur and it now has a new association – autumn 2026. It has been deemed fashion’s favourite colour having been spotted on autumn/winter catwalks, with Balenciaga, Celine and Valentino showcasing all-purple designs. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ab04704952c0692364591dee76175204f0707b8f/0_207_3045_2434/master/3045.jpg?width=140&quality=85&auto=format&fit=max&s=4b3c762a7558f60db8adab1fd2a2e826",
+   "lang": "en"
+  },
+  {
+   "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+   "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+   "source": "NYT World",
+   "published": "2026-11-06T17:50:02+00:00",
+   "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+   "body": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
+   "lang": "en"
+  },
+  {
+   "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+   "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-06T17:47:00+00:00",
+   "summary": "Iran is stepping up attacks on shipping in the Persian Gulf and Strait of Hormuz. A Greek-owned tanker believed to have been struck with a missile, and Iran said two other vessels were on fire.",
+   "body": "Iran is stepping up attacks on shipping in the Persian Gulf and Strait of Hormuz. A Greek-owned tanker believed to have been struck with a missile, and Iran said two other vessels were on fire.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://static.dw.com/image/79862218_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
+   "link": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T17:42:22+00:00",
+   "summary": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
+   "body": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T000928Z_888549279_RC2YHOA4CKLP_RTRMADP_3_PARAGUAY-POLITICS-1793969089.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+   "source": "The Guardian",
+   "published": "2026-11-06T17:41:51+00:00",
+   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, acc",
+   "body": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into custody at a nursing home near Tampa early on Friday, and was expected to appear in court in Tampa in the early afternoon, the US justice department said in a statement. In the US, call or text the Childhelp abuse hotline on 800-422-4453 or visit their website for more resources and to report child abuse or DM for help. For adult survivors of child abuse, help is available at ascasupport.org . In the UK, the NSPCC offers support to children on 0800 1111, and adults concerned about a child on 0808 800 5000. The National Association for People Abused in Childhood ( Napac ) offers support for adult survivors on 0808 801 0331. In Australia, children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800, or Bravehearts on 1800 272 831, and adult survivors can contact Blue Knot Foundation on 1300 657 380. Other sources of help can be found at Child Helplines International Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=140&quality=85&auto=format&fit=max&s=b510b9fca776a25502f9105ee07a92c2",
+   "lang": "en"
+  },
+  {
+   "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+   "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
+   "source": "The Guardian",
+   "published": "2026-11-06T17:40:23+00:00",
+   "summary": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policies Donald Trump will be blocked from putting a “rightwinger” on the US supreme court, according to Chuck Schumer, the soon-to-be Senate majority leader,",
+   "body": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policies Donald Trump will be blocked from putting a “rightwinger” on the US supreme court, according to Chuck Schumer, the soon-to-be Senate majority leader, in remarks that were a preview of how Democrats intend to wield their power come January. In an interview with the Associated Press, Schumer said Democrats would not confirm “any crappy nominees” to the supreme court, lower courts or Trump’s cabinet. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/6a62cdd442159f6f28687357b2680cefc72af9b3/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=bb42266942291b03e50d2e72e57b4a62",
+   "lang": "en"
+  },
+  {
+   "title": "US city votes to divest from Israel",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T17:40:13+00:00",
+   "summary": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+   "body": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/FULL-THUMBNAIL-Templates-copy3_2-Website-1793986855.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
   },
   {
    "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
@@ -219,12 +530,28 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
    "source": "Google News",
    "published": "2026-11-06T17:32:27+00:00",
-   "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times What to know about Pope Leo XIV’s trip to Uruguay, Argentina and Peru AP News Pop",
-   "body": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times What to know about Pope Leo XIV’s trip to Uruguay, Argentina and Peru AP News Pope Leo departs for Apostolic Journey to Latin America Vatican News The Pope Confronts One of His Toughest Political Challenges The Atlantic",
+   "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour NBC News Can the pope’s tour of Latin America win back disenchanted youth? The Economist Th",
+   "body": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour NBC News Can the pope’s tour of Latin America win back disenchanted youth? The Economist The Pope Confronts One of His Toughest Political Challenges The Atlantic Pope Leo heads to Uruguay for first papal visit in 38 years Yahoo",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "NATO's secretary general does not think war in Ukraine will end with victory for either side - Українська правда",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQdVQ2WEFLZVZlQTl6NFVUWlRZVVhabWZhSnZNRlNDNzU1Q1RLYUZKQUsyb3c2R0YwLThLYTYyNjZVLTBENVJyMExRdzBsUG1KZFRRNG1MVUtiTkt0cWlwdlZSbXnSAXBBVV95cUxQelc2OGpnMExLX0toYWlHS1I2MzI0Z21RZlFvY0JLb3ZuQWVrWFZHWkt2NlM0MmFubFNpaTB5UU9qT2lNZmdHLXhXUWJiSUN1REszaGJxLWtZdlBZSWRKY3BINzZucVpYRU5JSmZHZ1ZN?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T17:32:00+00:00",
+   "summary": "NATO's secretary general does not think war in Ukraine will end with victory for either side Українська правда",
+   "body": "NATO's secretary general does not think war in Ukraine will end with victory for either side Українська правда",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -243,18 +570,16 @@
    "lang": "en"
   },
   {
-   "title": "Trump says he met with Putin envoy, sees Ukraine deal soon",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdNcHVpc01COUx6aHl0VC11S0NZWF9zNDU2Um9vN19ZdE0zS1dEaTdJdmJwU2pKUEJVeGM3QW5DZUpJLTM3enRqLUlzZEVzdHZ0ODl1YTFaRDBSdVd5V2NVUXBRdU45Qk5iYXFmQTNsUzlfTUhEQkt1ZFZBZHZNZ1NjaUZxM09YMndGWjdLczZLaUJhVmNva3ZWeVJtdw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T17:29:40+00:00",
-   "summary": "Trump says he met with Putin envoy, sees Ukraine deal soon NBC News",
-   "body": "Trump says he met with Putin envoy, sees Ukraine deal soon NBC News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
+   "title": "UPDATE: Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say - The Tribune-Democrat",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOW4wb3VnajVDcjBQckVHcGxkSTBENDd2N2l3NFUySUxuYUFrX0x6elc1SjI1Sk5STWRIVDY3UDF0UU9pTWtzODhEUjl5bFBYVDE3TmR0N3duWTVqMzBFRnVHMERIODl2SW1IUk1aR3R2X3BtcGQyenRacE1xUU5VMVBPNVZNdjA2WF9oeC00Si1iVmExaWdYODZiMEVvVGV0cmg3bDJnbmkxT1l1WG02cGVMOG1kLTREQlBhbHpoRHAtYVlaM1pRY0UyUnpJMlhvRDl6MS1ZN3ZwUEZVY2F5ZVV0RVRrT25wbXJyck03M3g?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-06T17:30:00+00:00",
+   "summary": "UPDATE: Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say The Tribune-Democrat",
+   "body": "UPDATE: Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say The Tribune-Democrat",
+   "category": "Middle East",
+   "is_war": true,
    "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
+    "Yemen"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -273,22 +598,6 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/329cac82-da02-11f1-8c02-1beafce15fea/w:1024/p:16x9/photo-john-bolton.png",
-   "lang": "en"
-  },
-  {
-   "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-   "source": "The Guardian",
-   "published": "2026-11-06T17:20:25+00:00",
-   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, acc",
-   "body": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to federal law enforcement. Markle, 82, was taken into custody at a nursing home near Tampa early on Friday, and was expected to appear in court in Tampa in the early afternoon, the US justice department said in a statement. In the US, call or text the Childhelp abuse hotline on 800-422-4453 or visit their website for more resources and to report child abuse or DM for help. For adult survivors of child abuse, help is available at ascasupport.org . In the UK, the NSPCC offers support to children on 0800 1111, and adults concerned about a child on 0808 800 5000. The National Association for People Abused in Childhood ( Napac ) offers support for adult survivors on 0808 801 0331. In Australia, children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800, or Bravehearts on 1800 272 831, and adult survivors can contact Blue Knot Foundation on 1300 657 380. Other sources of help can be found at Child Helplines International Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/221_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=9078b8bb775528d5f74814b45223d30d",
    "lang": "en"
   },
   {
@@ -335,6 +644,36 @@
    "lang": "en"
   },
   {
+   "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3BET3ZQajVOVnRXaEdyMTZydUZQYTNWN2Z5TG5GczZ2SzdPYkRTcDFPWURnN3RfM21KZGNlMl9odXVBNlVGamxianpvTGZXa25jZ05uc3M0bTR3VkJBbFp0c1ZQUEY5b2l2MHFFV3hsSXRkb3dNQ1Q3WEEyMVRadnBR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T17:13:45+00:00",
+   "summary": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab The New York Times Tesla to pull the plug on Cybertruck after years of poor sales Reuters Elon Musk says production will soon end on controversial, often recalled Tesla vehicle AL.com No more Cybertrucks;",
+   "body": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab The New York Times Tesla to pull the plug on Cybertruck after years of poor sales Reuters Elon Musk says production will soon end on controversial, often recalled Tesla vehicle AL.com No more Cybertrucks; Musk moves on from the angular metallic flop Ars Technica RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd WIRED",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s latest Ukraine offer may only tempt Putin to step up his war",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T17:11:51+00:00",
+   "summary": "Trump’s latest Ukraine offer may only tempt Putin to step up his war CNN",
+   "body": "Trump’s latest Ukraine offer may only tempt Putin to step up his war CNN",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
    "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
    "source": "NYT World",
@@ -361,47 +700,15 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T17:09:20+00:00",
-   "summary": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged The Independent",
-   "body": "Ukraine war live: Zelensky says ‘every Ukrainian power plant’ damaged The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-06T17:07:58+00:00",
-   "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seats Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington ",
-   "body": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seats Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not open to the press we’ll let you know if that opens up. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5",
-   "lang": "en"
-  },
-  {
-   "title": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
+   "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T17:04:43+00:00",
-   "summary": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races The New York Times What can Democrats accomplish with control of Congress? WBUR Five Midterm Takeaways from The Cook Political Report Team Cook Political Report The dawn of the post-Trump era ",
-   "body": "2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races The New York Times What can Democrats accomplish with control of Congress? WBUR Five Midterm Takeaways from The Cook Political Report Team Cook Political Report The dawn of the post-Trump era Engelsberg Ideas Democrats flip 40 House seats as Senate races hang in the balance, Wall Street plunges Yahoo",
-   "category": "USA / Americas",
+   "published": "2026-11-06T17:05:57+00:00",
+   "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult Leader in Kenya Sentenced to 200 Years in Prison for Mass Murder The New York Times Doomsday cult leader sentenced to 200 years in prison for murders of 190 children, 1 adult ",
+   "body": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult Leader in Kenya Sentenced to 200 Years in Prison for Mass Murder The New York Times Doomsday cult leader sentenced to 200 years in prison for murders of 190 children, 1 adult in Kenya CBS News Kenyan doomsday sect leader jailed for 200 years for murder of 190 children The Guardian Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children CNN",
+   "category": "Africa",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -451,19 +758,6 @@
    "lang": "en"
   },
   {
-   "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-   "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-   "source": "NYT World",
-   "published": "2026-11-06T16:59:43+00:00",
-   "summary": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
-   "body": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Europe: What we know about the hoax bomb threats disrupting flights",
    "link": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
    "source": "France 24",
@@ -502,6 +796,22 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/5100981af09f16b0a461e529898a8fe68a030874/396_0_3959_3167/master/3959.jpg?width=140&quality=85&auto=format&fit=max&s=b618988ae9f5725a90a5c100f82907b7",
+   "lang": "en"
+  },
+  {
+   "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T16:52:50+00:00",
+   "summary": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 Reuters John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89 The New York Times Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies ",
+   "body": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 Reuters John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89 The New York Times Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89 10TV Former US senator and West Virginia governor Jay Rockefeller dies at 89 Fox News Governor Morrisey orders flags flown at half-staff to honor Jay Rockefeller Yahoo",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -590,12 +900,12 @@
    "lang": "en"
   },
   {
-   "title": "Putin says it has no details of Trump's \"beautiful\" deal on Ukraine war - Newsweek",
+   "title": "Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlQzZ2lUX180eGE1Y1ZFanFVeDkzUGF1RUQ0NGV6TWhiWW9ndUVwU3ZoSUNlVFI4WHVUSkdzaXFpXzllUFR5eGo0N1VVUGRZeEdRemJsUWJHWjlqSE9rdzlPQjI5Q29qRnNGR2UwTEd2N25ndDJHSjMtMC1RSTJ5TGgxQUZublU4TzRvekk0S2xHeWZoWkhoTHk5Y2lKQ1dfNG1zTg?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-06T16:41:00+00:00",
-   "summary": "Putin says it has no details of Trump's \"beautiful\" deal on Ukraine war Newsweek",
-   "body": "Putin says it has no details of Trump's \"beautiful\" deal on Ukraine war Newsweek",
+   "summary": "Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War Newsweek",
+   "body": "Putin Says He Has No Details of Trump’s ‘Beautiful’ Deal on Ukraine War Newsweek",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -636,19 +946,6 @@
    "lang": "en"
   },
   {
-   "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T16:33:55+00:00",
-   "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult leader sentenced to 200 years in prison for the starvation deaths of 190 children in Kenya AL.com Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder The New Yor",
-   "body": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult leader sentenced to 200 years in prison for the starvation deaths of 190 children in Kenya AL.com Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder The New York Times Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children CNN Leader of Kenyan doomsday cult sentenced to 200 years in prison ABC News - Breaking News, Latest News and Videos",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
    "link": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
    "source": "France 24",
@@ -664,21 +961,6 @@
    "lang": "en"
   },
   {
-   "title": "UK dairy farmers face further pressure as milk processor cuts prices",
-   "link": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
-   "source": "The Guardian",
-   "published": "2026-11-06T16:27:32+00:00",
-   "summary": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is ‘at rock bottom’ “Milk is leaving the farm at a loss,” says dairy farmer Ian Harvey, as he warns confidence in the sector is “at rock bottom”. Most of the UK’s dairy producers w",
-   "body": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is ‘at rock bottom’ “Milk is leaving the farm at a loss,” says dairy farmer Ian Harvey, as he warns confidence in the sector is “at rock bottom”. Most of the UK’s dairy producers were already being paid less for their milk than it costs to produce it after a year of volatile farmgate milk prices, combined with the impact of the summer’s drought and soaring costs of vital fuel and fertiliser triggered by the conflict in Iran. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://i.guim.co.uk/img/media/023ddc9c0a6ea277ce369177da0ca489c5581b34/227_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=5f2f605c056016892400595753b054ae",
-   "lang": "en"
-  },
-  {
    "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
    "source": "The Guardian",
@@ -689,21 +971,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/af13db51b17a65dbfc940a3980063bfbda88b6e9/253_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e1c3d8cd16983990d912eb500ae31508",
-   "lang": "en"
-  },
-  {
-   "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T16:22:49+00:00",
-   "summary": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC CNBC Open AI makes pledges on data center operation after midterm backlash The Washington Post Setting a new standard for responsible AI infrastructure OpenAI OpenAI kicks off charm offensive t",
-   "body": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC CNBC Open AI makes pledges on data center operation after midterm backlash The Washington Post Setting a new standard for responsible AI infrastructure OpenAI OpenAI kicks off charm offensive to change voters' view of data centers Reuters OpenAI says AI data centers will 'pay our own way' in a new post-election pledge Yahoo Finance",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -752,12 +1019,12 @@
    "lang": "en"
   },
   {
-   "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTluWF8wRU5Hb3d5U0hEc001RWhXMWQzVk1kQjFkZlg2VEttbFhNT3FwenZVbnJGVHJXZElZa3NWaGJCemV6cnlVVi16WTdQQjJ0NnBfNzY2TjhWYlNydXp5c1A1cmw0Ty1PaVltRzNxQWgyckN1TFlnUGNwQmwzOVI5X3o0dVVXT0hQR2VCOFpvMUtiTEw0Ujg5TnlhMXY4cktxZlBUclhsNlA4bm00Yy1FQ2tWR243LXJSaDJ4cjh6ODQ?oc=5",
+   "title": "US job growth beats expectations in October; unemployment rate falls to 4.1%",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T16:14:00+00:00",
-   "summary": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval NBC News Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved The New York Times Trump Launches Triumphal Arch Website Right As Judge Blocks Construction Rolling Stone Judge halts ",
-   "body": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval NBC News Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved The New York Times Trump Launches Triumphal Arch Website Right As Judge Blocks Construction Rolling Stone Judge halts construction of Trump's arch. And, Labor Department to release jobs report NPR Trump arch project near Arlington Cemetery expected to be approved amid court battles NBC4 Washington",
+   "published": "2026-11-06T16:16:27+00:00",
+   "summary": "US job growth beats expectations in October; unemployment rate falls to 4.1% Reuters US Employment Report: Labor market firing on all cylinders RBC U.S. economy adds 165,000 jobs in October; jobless rate dips to 4.1% The Globe and Mail Jobs blowout shows strength of Trump economy",
+   "body": "US job growth beats expectations in October; unemployment rate falls to 4.1% Reuters US Employment Report: Labor market firing on all cylinders RBC U.S. economy adds 165,000 jobs in October; jobless rate dips to 4.1% The Globe and Mail Jobs blowout shows strength of Trump economy, but wages trail inflation Politico Blockbuster October jobs report keeps Fed rate hike in play for December Yahoo! Finance Canada",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -767,18 +1034,49 @@
    "lang": "en"
   },
   {
-   "title": "French lawyers to sue interior minister over protester 'mutilations'",
-   "link": "https://www.france24.com/en/live-news/20261106-french-lawyers-to-sue-interior-minister-over-protester-mutilations",
+   "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTluWF8wRU5Hb3d5U0hEc001RWhXMWQzVk1kQjFkZlg2VEttbFhNT3FwenZVbnJGVHJXZElZa3NWaGJCemV6cnlVVi16WTdQQjJ0NnBfNzY2TjhWYlNydXp5c1A1cmw0Ty1PaVltRzNxQWgyckN1TFlnUGNwQmwzOVI5X3o0dVVXT0hQR2VCOFpvMUtiTEw0Ujg5TnlhMXY4cktxZlBUclhsNlA4bm00Yy1FQ2tWR243LXJSaDJ4cjh6ODQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T16:14:00+00:00",
+   "summary": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval NBC News Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved The New York Times Trump Launches Triumphal Arch Website Right As Judge Blocks Construction Rolling Stone Judge blocks",
+   "body": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval NBC News Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved The New York Times Trump Launches Triumphal Arch Website Right As Judge Blocks Construction Rolling Stone Judge blocks construction of Trump's massive arch after federal agency approval BBC A judge blocked construction of Trump's arch at the 11th hour. What's next? NPR",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Wounded French protesters to sue interior minister over police brutality",
+   "link": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality",
    "source": "France 24",
    "published": "2026-11-06T16:13:55+00:00",
-   "summary": "Lawyers representing people wounded during protests in France said on Friday they would sue the interior minister over alleged police brutality.",
-   "body": "Lawyers representing people wounded during protests in France said on Friday they would sue the interior minister over alleged police brutality.",
+   "summary": "Around ten demonstrators wounded at recent protests in France on Friday said they will sue Interior Minister Laurent Nuñez over police brutality. Student and cost-of-living protests in recent weeks have been marred by violence, including reports of police inflicting serious and l",
+   "body": "Around ten demonstrators wounded at recent protests in France on Friday said they will sue Interior Minister Laurent Nuñez over police brutality. Student and cost-of-living protests in recent weeks have been marred by violence, including reports of police inflicting serious and lifechanging injuries on protesters – many of whom are minors.",
    "category": "Global",
    "is_war": false,
    "countries": [
+    "United States",
     "France"
    ],
    "image": "https://s.france24.com/media/display/1048d660-d9fd-11f1-b727-d18c5759e759/w:1024/p:16x9/a4006db62a56c37deb8c8a26aeee10ea06d43a11.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Four midterms takeaways for 2028 White House race",
+   "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T16:12:22+00:00",
+   "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+   "body": "The buzz about the presidential election is already under way - here's what we learned this week.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
    "lang": "en"
   },
   {
@@ -814,8 +1112,8 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTl5WTBBQ1lQVUpmaUg1WlZ2ekdQd0ZVSHVuWTh3R0locVZRNktYX1BIdmRxVkFlekVzVFZtNi1xRG5xd25EUnRPbDBmRmhxdU1pbUVaNTV2SEhHVV9XcmM0dUFKVmY3UDBtMG9XNGpxa0g4eXMyUjdLelZ3SmN4OGFaUWFtenA0dmJGbTc0ak9aS2NGM05HZlZnTW8?oc=5",
    "source": "Google News",
    "published": "2026-11-06T16:08:00+00:00",
-   "summary": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight The Guardian How Islamophobia backfired and helped elect the first Muslim senator The Washington Post How Abdul El-Sayed actually did with Jewish voters Politico The Real",
-   "body": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight The Guardian How Islamophobia backfired and helped elect the first Muslim senator The Washington Post How Abdul El-Sayed actually did with Jewish voters Politico The Real Challenge El-Sayed Poses for Jews Is Populism, Not Antisemitism Haaretz National Bobblehead Hall of Fame and Museum unveils Abdul El-Sayed bobblehead CBS News",
+   "summary": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight The Guardian How Islamophobia backfired and helped elect the first Muslim senator The Washington Post How Abdul El-Sayed actually did with Jewish voters Politico National",
+   "body": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight The Guardian How Islamophobia backfired and helped elect the first Muslim senator The Washington Post How Abdul El-Sayed actually did with Jewish voters Politico National Bobblehead Hall of Fame and Museum unveils Abdul El-Sayed bobblehead CBS News ‘Of course not': Abdul El-Sayed says ‘Life of a Showgirl' isn't Taylor Swift's best album NBC 5 Chicago",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -858,12 +1156,12 @@
    "lang": "en"
   },
   {
-   "title": "Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlFBM1YwMkYzVEdTaHN2QTZTVHg3OUpJdUZBZDBxbHVQaXJ1dHRxUW1nT1JuNmdCaElCS20tZDBicDQ5VGIyVk9mTkZ0SE5GQUN0ME8wU1B4UXctbEZGcW1xbjNKR1FNMWRrQmRqZzVjZVpVNE1EZVlEUVJ6aGNqZm1GOEl0ckp1R1NPZ1o4eEppRnM5XzZ1aFpDSFlfbzlKRzh3MnFoQnJ5TjhvaUYtUUFJNzFxYWtRclYzOHhtQmhtOWtGWGRv?oc=5",
+   "title": "Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm1JSUk5cmhlSjRCR1VtSGVDRUtndU14TUN0Mnc0YWVaZ0Z4TWpncWRWNTZ6MC0tT3dSY2ZobmZhMEwyM0lnSGw1VzNETlRWTFhvMFluUUYyOW5YeW1NbHY4eVVscHdibU5ZZ1RmWFFpUGNoSGQxM2YxdThoN2txRUlYWUlzeEhBTTlKdFNaVkdUaUZ5N1JmVGZIZHlBMm91N3lJb1MyRVZseGJ6MjByMlNieXBuM0hlTkM3aUN2eGU2VmdZUEE?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T15:59:00+00:00",
-   "summary": "Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns NBC News U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns The New York Times Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since",
-   "body": "Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns NBC News U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns The New York Times Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses CNN DOJ shake-up continues with head of national security division, US attorney in Miami resigning Fox News 2 top DOJ officials resign, including assistant attorney general for national security Politico",
+   "published": "2026-11-06T15:52:11+00:00",
+   "summary": "Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post Gina Hinojosa Will Be Texas’s First Democratic Governor in Decades. Republicans Won’t Make It Easy. The New York Times Gov.-elect Gina Hinojosa outlines education priorities, vow",
+   "body": "Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post Gina Hinojosa Will Be Texas’s First Democratic Governor in Decades. Republicans Won’t Make It Easy. The New York Times Gov.-elect Gina Hinojosa outlines education priorities, vows to review school voucher program KSAT Gina Hinojosa names governor transition team, including anti-voucher Republican Houston Chronicle 'A bipartisan government': Gov.-elect Gina Hinojosa announces next steps for political transition Community Impact",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -877,8 +1175,8 @@
    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
    "source": "The Guardian",
    "published": "2026-11-06T15:48:36+00:00",
-   "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come Business live – latest updates European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stoc",
-   "body": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come Business live – latest updates European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...",
+   "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on",
+   "body": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -915,6 +1213,19 @@
    "lang": "en"
   },
   {
+   "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkV4WTlpM3hKLUxlRXdrV1JBb3B0Q0VxYVc5bHdDZEh5bG14V2h1eVFXeE5IZllWbEU4TFE3X2k0MnpWVUhrT05BWnkxa2I2NDhPTEJlY1R0d1Y4Q0NmZ0FNQlJsVmMyWjV4VjBCSWxnQTdLamFyMnVqRWQ4bzhKRWQ5VTBsOWdqTURz0gGQAUFVX3lxTE1PZFZSN3pSZmFYLWRXV3FWSUtBWl85aUJlV1REX1N5SzVScE5xQ1lvcnl3Zll5a2hlUXlnUWpHLXFfY3cyeGNyOGRySnNwbklJd2tBbXQ2Q2dnSkd0OFJlR0h0SXl2OGpBcTd6SjVQdnpRQUZTRVRlNjZxQjJBcWl3blY1dGdieXN3ektwY1FobA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T15:42:41+00:00",
+   "summary": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off CNBC Market turmoil saps enthusiasm for the buzziest IPO of the year CNN Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation WSJ Anthropic IPO Valuation Expec",
+   "body": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off CNBC Market turmoil saps enthusiasm for the buzziest IPO of the year CNN Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation WSJ Anthropic IPO Valuation Expectations Pressured After AI Rout Bloomberg.com EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say Reuters",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Republicans redrew this Texas district to win – it narrowly worked",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/republicans-redrew-this-texas-district-to-win-it-narrowly-worked?traffic_source=rss",
    "source": "Al Jazeera",
@@ -925,21 +1236,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793979706.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Police chief condemns ‘terrifying’ Bonfire Night violence across Scotland",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-   "source": "The Guardian",
-   "published": "2026-11-06T15:38:33+00:00",
-   "summary": "Multiple arrests, emergency services targeted and police van set alight while disorder also erupts in north-east England A police chief has condemned the “unacceptable and terrifying” Bonfire Night disorder that resulted in seven arrests, a police van being torched and an officer",
-   "body": "Multiple arrests, emergency services targeted and police van set alight while disorder also erupts in north-east England A police chief has condemned the “unacceptable and terrifying” Bonfire Night disorder that resulted in seven arrests, a police van being torched and an officer and a paramedic being injured in Scotland. Ch Supt David Robertson of Police Scotland said there had been significant reduction in problems overall, compared with 2025, after the force deployed its largest number of officers since Donald Trump’s visit last year. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9bfef3a2b2445c85d1a812e11259a5e7bfa27a53/490_0_4897_3917/master/4897.jpg?width=140&quality=85&auto=format&fit=max&s=f2e17368b39296ce0fe9f9a3b2fd086c",
    "lang": "en"
   },
   {
@@ -955,6 +1251,21 @@
     "Turkey"
    ],
    "image": "https://s.france24.com/media/display/79a8343e-d9f3-11f1-ba9d-a575454bc579/w:1024/p:16x9/000-D6HQ8CQ.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "2 top DOJ officials resign, including assistant attorney general for national security",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHpULXhWaS1zVXhLYVBDN0RCd2huaE9zSlRqZFZ3MDR1Tnp4enpSN2o5bF9PVzNQdmFiRzV4RDhPa1RvRHFYZWd3M1ptYzh2RUJUZkIxMVNFYk5uYnBHbnMySzdjZ2xsX2RDeHFnVGlVQXdtbGl4RHZjclJzWnBTa180VEhhTGc4czk0?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T15:36:00+00:00",
+   "summary": "2 top DOJ officials resign, including assistant attorney general for national security Politico U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns The New York Times Justice Department officials who led controversial voter roll and 'grand conspiracy' cases ",
+   "body": "2 top DOJ officials resign, including assistant attorney general for national security Politico U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns The New York Times Justice Department officials who led controversial voter roll and 'grand conspiracy' cases depart | CBC News CBC Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses CNN Top DOJ official resigns amid questions surrounding \"grand conspiracy\" probe CBS News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -989,16 +1300,18 @@
    "lang": "en"
   },
   {
-   "title": "Meghan's father Thomas Markle arrested over allegations he possessed child sex abuse material",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fYThSa2lBb2EteENyb1JHcEljWXpuaEZSY191Z0JQMmNfZHNONkFRcUpxZVNnNWJLdXNYNUl2NHZjLWxsZm1nbnJ5WlRlRnlRZkxwRHdB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T15:29:08+00:00",
-   "summary": "Meghan's father Thomas Markle arrested over allegations he possessed child sex abuse material BBC Meghan Markle’s father arrested in Florida over alleged child sexual abuse material NBC News Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges The New York Times",
-   "body": "Meghan's father Thomas Markle arrested over allegations he possessed child sex abuse material BBC Meghan Markle’s father arrested in Florida over alleged child sexual abuse material NBC News Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges The New York Times Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida ABC News - Breaking News, Latest News and Videos Thomas Markle Accused of Possessing ‘Photographs Depicting Himself with Minor Girls,’ Federal Prosecutor Says People.com",
-   "category": "Global",
+   "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+   "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T15:30:42+00:00",
+   "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+   "body": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
    "lang": "en"
   },
   {
@@ -1006,8 +1319,8 @@
    "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-06T15:29:00+00:00",
-   "summary": "In the wake of the new US attack on Iran, social media is awash with dramatic images and claims about the fighting. DW Fact Check found AI-generated and recycled videos, as well as misleading posts from dubious accounts.",
-   "body": "In the wake of the new US attack on Iran, social media is awash with dramatic images and claims about the fighting. DW Fact Check found AI-generated and recycled videos, as well as misleading posts from dubious accounts.",
+   "summary": "After Monday's US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts.",
+   "body": "After Monday's US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts.",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -1063,13 +1376,12 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam04U195WmFPM0xEajVHdWRqVkMxclhhN3NRcjdxdm9iNWhiVFlYeHU4YzJiazFONE5TcE9hbzJXZjlucjJSazRkeG5YbnRFRHhfSFNIZE1XeXYwUlVXTVJhNmFfS1JHakszV250ZWN4YlZlQS1wMTJZeGpnR29naHJPMWNjNDJrRV9Hb056RUhHdlJsWF80bFVKelNwT2Y40gGmAUFVX3lxTE9ILTMybEowTF8wSGFSLVg0cmcwLUFrWUtGcnlMVWdNQVhxUjVzU0YyVWI2azZkSmJJTXFfVHVYc2Y0VGpxMGlDNXlMNDZodTdTc1NXcjQ2UjViUmQ2WEZhVnFKUGNSQ2dhcmRhWGc3ZkU2MDdLYlRYVzVFb3NMQ0l3U240dHRaaU5ZaGZGUWVvQ0F2RjVVYkppUlBneXlfOUpoYldtc0E?oc=5",
    "source": "Google News",
    "published": "2026-11-06T15:18:57+00:00",
-   "summary": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos US measles cases surpass 5,000 with infections confirmed in 45 states, CDC data shows Yahoo US reports highest number of measles cases in 35 years Th",
-   "body": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos US measles cases surpass 5,000 with infections confirmed in 45 states, CDC data shows Yahoo US reports highest number of measles cases in 35 years The Times of Israel US Measles Cases Top 5,000 for the First Time Since the 1990s Bloomberg.com US Measles Cases Rise to 5,182, CDC Says U.S. News & World Report",
+   "summary": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos US measles cases surpass 5,000 with infections confirmed in 45 states, CDC data shows Yahoo Measles Cases Top 5,000—A 35-Year High—As Illness Spreads",
+   "body": "Measles cases surpass 5,000 in the US with infections confirmed in 45 states: CDC ABC News - Breaking News, Latest News and Videos US measles cases surpass 5,000 with infections confirmed in 45 states, CDC data shows Yahoo Measles Cases Top 5,000—A 35-Year High—As Illness Spreads In These States Forbes RFK Jr.’s Measles Nightmare Spirals to Shocking Milestone The Daily Beast US Measles Cases Top 5,000 for the First Time Since the 1990s Bloomberg.com",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "United States",
-    "Israel"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1090,12 +1402,12 @@
    "lang": "en"
   },
   {
-   "title": "Katherine Ryan Feeling ‘Grief and Relief’ Over Russell Brand Conviction After Reportedly Calling Out His Behavior on Comedy Central - Variety",
+   "title": "Katherine Ryan Reacts to Russell Brand Rape Conviction With 'Relief' - Variety",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGFKNDUwWVFUbExja0s3aXBEOVpyVmxXUzhPSW5oT2RkWFRkd0VheFV6SVQ0eHdnTlNCT3dkaEdGLVZfdEdfZ0gxdnN0aHB5UjBsUFIydnFkTWZUUXhYckg2N3RHLWQyV2owdFIyRzRKVllpczk4NjZnbVBVQ1BEWjlqNHdnNkk1SDFfQUZ3NHJsNW50SlRkUlBFbF80a2xsM25wSm1n?oc=5",
    "source": "Google News",
    "published": "2026-11-06T15:16:00+00:00",
-   "summary": "Katherine Ryan Feeling ‘Grief and Relief’ Over Russell Brand Conviction After Reportedly Calling Out His Behavior on Comedy Central Variety Russell Brand faces 'significant' prison sentence after rape and sexual assault conviction Yahoo Why Russell Brand's lawyers wanted his Katy",
-   "body": "Katherine Ryan Feeling ‘Grief and Relief’ Over Russell Brand Conviction After Reportedly Calling Out His Behavior on Comedy Central Variety Russell Brand faces 'significant' prison sentence after rape and sexual assault conviction Yahoo Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial USA Today Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction BBC Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief Reuters",
+   "summary": "Katherine Ryan Reacts to Russell Brand Rape Conviction With 'Relief' Variety Russell Brand faces 'significant' prison sentence after rape and sexual assault conviction Yahoo The Guardian view on Russell Brand: his conviction sends a powerful message The Guardian Katherine Ryan sa",
+   "body": "Katherine Ryan Reacts to Russell Brand Rape Conviction With 'Relief' Variety Russell Brand faces 'significant' prison sentence after rape and sexual assault conviction Yahoo The Guardian view on Russell Brand: his conviction sends a powerful message The Guardian Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction BBC Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief Reuters",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1236,6 +1548,19 @@
    "lang": "en"
   },
   {
+   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T14:58:00+00:00",
+   "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits The Hacker News GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents OpenAI OpenAI's new cyber model found ways to attack nearly 1000 Linux flaws Axios OpenAI Bolsters Cyber Defens",
+   "body": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits The Hacker News GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents OpenAI OpenAI's new cyber model found ways to attack nearly 1000 Linux flaws Axios OpenAI Bolsters Cyber Defenses WSJ AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research SecurityWeek",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1288,6 +1613,19 @@
    "lang": "en"
   },
   {
+   "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T14:38:28+00:00",
+   "summary": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. WSJ",
+   "body": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. WSJ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Protests and reforms: France's rising debt costs threaten stability",
    "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1318,17 +1656,15 @@
    "lang": "en"
   },
   {
-   "title": "The GOP needs to move on from Trump. That’s easier said than done. - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUI0d3pkQkFsLW1jNUp4cTVvN0ZsRE1nR3RYTHF5ZWZnQlJLalA1XzQ1d2ktdlAwNV9pdnRDZ2NCelY3d1FwdjdpMGdFYVFUbDRkUEVyUkp0WGJiaE9XVEF3eFFwQmlOSmFpTE5HQi1kMHNZdWZTcE9DQmwya2FFNndQNFBBV2VSTHZjdGpyVHN0cGxMSUpYb2NBclhpY3JtRGc?oc=5",
+   "title": "F1 Brazil Grand Prix LIVE: Friday practice updates from Sao Paulo - Crash.net",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnlVZ1pyQVNGX2JNTUhGN0VzZUNjRXBoUW5QRU5DZ2hkeWgzVEMxb0M2a2JPdG83b1drUlBkZm83M1o0dm1ZY1hkQm54aldlV0w2MzBqOFgwVU9Qci1XdzI5OVQ5OVV4Skl0S1JXZXEwY1JmMEU0S2dxYjdKUXd4Zk0yQmFSRHpnN1V6Q09EWnI1aXhuZ0pHckZZSXR3dw?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T14:32:42+00:00",
-   "summary": "The GOP needs to move on from Trump. That’s easier said than done. The Washington Post 'This is a disaster': Angry Republicans blame Trump for midterms defeat BBC After Midterm Drubbing, Trump and Republicans Start Pointing Fingers The New York Times Opinion | Republicans lost bi",
-   "body": "The GOP needs to move on from Trump. That’s easier said than done. The Washington Post 'This is a disaster': Angry Republicans blame Trump for midterms defeat BBC After Midterm Drubbing, Trump and Republicans Start Pointing Fingers The New York Times Opinion | Republicans lost big. Now they have a once-in-a-lifetime opportunity. MS NOW Republicans call for Trump to change course after midterm drubbing Yahoo",
+   "published": "2026-11-06T14:33:07+00:00",
+   "summary": "F1 Brazil Grand Prix LIVE: Friday practice updates from Sao Paulo Crash.net F1 São Paulo GP 2026 – Practice 1 Yahoo Sports LIVE: F1 Brazilian GP updates - Norris tops first practice from new champion Antonelli | Live text Autosport What time is the 2026 Sao Paulo GP and how can I",
+   "body": "F1 Brazil Grand Prix LIVE: Friday practice updates from Sao Paulo Crash.net F1 São Paulo GP 2026 – Practice 1 Yahoo Sports LIVE: F1 Brazilian GP updates - Norris tops first practice from new champion Antonelli | Live text Autosport What time is the 2026 Sao Paulo GP and how can I watch it? Formula 1 F1 Sao Paulo GP LIVE: Friday Practice updates, results, stream, highlights from Brazil Formula 1 race weekend at Interlagos Sky Sports",
    "category": "USA / Americas",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1350,28 +1686,11 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEVEMW1xdkJ0RkN1eTl1UGNpdjlLeHhocUxaMG4tMDFKY0VoZ3RNOGhyZktYU1FfM08yTWI2VlVmek5OS1NnZDlZVktfdDdTMmh2LXg5NU02T1RIMExHcG9LVDRTVkkyY0diQzZSV3JxX0V4MnIxUXhlWXA5dkdkZnFTX1h5a2VWaF9QQ04tNzdrNnB4azdyRjljV0lfbERyM3JMWWd6ZEVGYVJ1c2xiNTZSVdIBuAFBVV95cUxNWGt5OFBCdjRBNzBiU0JMbGhMUzlSQV9zRWdIbXBjdU5sWmxkc01iLTd2Y3pqZmNkWXdBZ05uYWw4cVdreGdLbkp3WGhYLTBybU9zMkY2ZXFsNTdpcnBDbGgwU2xQOERScUwxTzBhMlY1QWJmb3BJZUxCdkdPNVhxdnhvRHV5OVNfRUNZdXBWOUhzRXkyVUtCV3VtRDZmcFNKbFg3NE9rUmVGM2dxZG9VanVuNjhNWUZh?oc=5",
    "source": "Google News",
    "published": "2026-11-06T14:26:37+00:00",
-   "summary": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms CBC Newsroom ",
-   "body": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms CBC Newsroom bomb threats follow escalating European flight hoaxes Reuters Spate of bomb threats poses serious challenge to airline industry BBC",
+   "summary": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times Wave of hoax bomb threats against European flights continues Yahoo Newsroom bomb threats follow escalating ",
+   "body": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times Wave of hoax bomb threats against European flights continues Yahoo Newsroom bomb threats follow escalating European flight hoaxes Reuters New Wave of Bomb Threats Impacts Dozens of Flights, Forcing Emergency Landings and Evacuations People.com",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump on stock market losses: ‘You only have yourselves to blame’",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnZkUzk0cTJ4RU9QamVXUG5KaFV2MnJkWnBwcWRiNkFSWXdGRW1fMzlaU25iVGw2WmFlWDFkbURjUFhuVUhuMTFxSTZvWHVhMTJLNkJYT2w0Q2dfc1ZLRXVhLVBMc0dvUkhvUjRoak9tZkdKazk3LWxMd3p5MFUyNTN2a0I2OTdsaFUtT2Q2blMwbXNIMlNJYlo4Y3UzYU1pSk5KdklZM1FqR2_SAbABQVVfeXFMTkU3ck9XWDRoZ29iUlRWVkJRbmR1aERvT01XbWg0ZVVERlFCLVZDbTRWbGNQc2dBdDZ4VkliaEhUbHlLVGh4dlpnVEQ3Vm4yUUFYRktGRUxuNDRJRlhFZllSZFBvV0k3NEszQ3FneXAwZm1mTXhlUzZmUFFLajlMakNVS2ZfRU41QU5ucTVQZDVVYW93R21xeGc0ZGpxR3pOMTYyOTlKS25kX1Jsdzl4cUI?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T14:21:00+00:00",
-   "summary": "Trump on stock market losses: ‘You only have yourselves to blame’ The Hill Trump doubles down on data centers as he absorbs the market turmoil Yahoo Finance Stocks tumble as midterms fuel AI fears and judge halts Trump’s D.C. arch: Morning Rundown NBC News Trump blames Democrats ",
-   "body": "Trump on stock market losses: ‘You only have yourselves to blame’ The Hill Trump doubles down on data centers as he absorbs the market turmoil Yahoo Finance Stocks tumble as midterms fuel AI fears and judge halts Trump’s D.C. arch: Morning Rundown NBC News Trump blames Democrats for stock market plunge after sweeping midterm victories Fox Business ‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears Politico",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1391,40 +1710,12 @@
    "lang": "en"
   },
   {
-   "title": "Federal judge temporarily halts building work on Trump’s triumphal arch",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
-   "source": "The Guardian",
-   "published": "2026-11-06T14:04:35+00:00",
-   "summary": "US judge issues 14-day block on construction on DC monument after it was approved by planning commission A federal judge in the early hours of Friday blocked any construction work from beginning on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the",
-   "body": "US judge issues 14-day block on construction on DC monument after it was approved by planning commission A federal judge in the early hours of Friday blocked any construction work from beginning on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the president’s most prominent projects in his vision to remake the nation’s capital. The temporary restraining order was issued by US district judge Tanya Chutkan in a Washington DC court that has regularly proved to be a thorn in the US president’s side, such as in previous cases involving election subversion and the January 6 insurrection by Trump supporters. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg?width=140&quality=85&auto=format&fit=max&s=b431b56d08712b5a12d892968bed48ce",
-   "lang": "en"
-  },
-  {
-   "title": "Mormon Wives Star Jen Affleck Has Filed for Divorce - The Cut",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWp1VGI0NU85aVdvS3BUN0F5YTdxUUp6STc1ZmxHZWFNRnZ2WUM2X3puMVV1NFQ5cllCUHlWdGNNR2ZLcllGTVdBSG9DSHVjWXEtVDU1ZElpLTBpcG1RdXNpV2dRMXNIYlRuM3UwM2xBMzRLeV9Ec2tYSTJoWGdYTC1PR1RkRjBoUFdlbnpzTWEyVWd4Ri02YQ?oc=5",
+   "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself - PCWorld",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlZrclNXN1FJd1B1ZG8yVnZDcklTZVVLTVdKYlpRMF83bnA0RjhKWkt3bnNsVlpIdHViclJWOVB0QWFPWEY4VHlYekVkdGdrR0FkbEJQZmhtWUcxMVNoSmJ6YUtOaEVyN2lsbUxiajdyNWVSaHBKLVFNdWR6U3ViZ0s5MVBGQndYSC0xVlhvbXhvV1ZzZ3FkYnlfRHNnV0tfRU9YRWVFUTBwTTkzZF90dHRn?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T14:02:00+00:00",
-   "summary": "Mormon Wives Star Jen Affleck Has Filed for Divorce The Cut Jen Affleck Posts Videos of Husband Zac Criticizing Her Body, Housework Days After Divorce Filing People.com Jen Affleck Files for Divorce Amid 4th Pregnancy Yahoo ‘Mormon Wives’ star Jen Affleck files for divorce Clevel",
-   "body": "Mormon Wives Star Jen Affleck Has Filed for Divorce The Cut Jen Affleck Posts Videos of Husband Zac Criticizing Her Body, Housework Days After Divorce Filing People.com Jen Affleck Files for Divorce Amid 4th Pregnancy Yahoo ‘Mormon Wives’ star Jen Affleck files for divorce Cleveland.com Mormon Wives ' Zac Affleck Admits to \"Mistakes\" in Jen Affleck Marriage E! News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T14:01:14+00:00",
-   "summary": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. WSJ",
-   "body": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue. WSJ",
+   "published": "2026-11-06T14:02:41+00:00",
+   "summary": "Valve escaped Windows. Now Steam is breaking free from the PC itself PCWorld",
+   "body": "Valve escaped Windows. Now Steam is breaking free from the PC itself PCWorld",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1466,8 +1757,8 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDdOU1ZfZHJJejNnS2RmcWVtTUpJRGlXNjBnQ0dPTmQ0d0JsVUY0TEhKSDFkZkZvam9zVmxlQmRZaFEwR2pqemJ5NC1aeVZzVnZYMmxlNGtkaWpTdXRZSmwxbDdIVVo5VDRVdURhV0pMdkpIRHpsLW1meXcwM0ZxMW5zZUYzWlNRU3dvS1Z2cU1FcFQ0QVVGcFRZc25ENFlCM0E?oc=5",
    "source": "Google News",
    "published": "2026-11-06T14:00:00+00:00",
-   "summary": "'Stranger Things' Live-Action Prequel 'Other Worlds' A Go At Netflix Deadline Other Worlds: A Stranger Things Adventure Is Coming Netflix ‘Stranger Things’ Prequel ‘Other Worlds’ Goes Back to the ’50s in Its First Official Teaser ELLE ‘Stranger Things’ Prequel Spinoff ‘Other Worl",
-   "body": "'Stranger Things' Live-Action Prequel 'Other Worlds' A Go At Netflix Deadline Other Worlds: A Stranger Things Adventure Is Coming Netflix ‘Stranger Things’ Prequel ‘Other Worlds’ Goes Back to the ’50s in Its First Official Teaser ELLE ‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix Variety ‘Stranger Things’ Prequel Series ‘Other Worlds’ to Premiere on Netflix in 2028 TheWrap",
+   "summary": "'Stranger Things' Live-Action Prequel 'Other Worlds' A Go At Netflix Deadline Other Worlds: A Stranger Things Adventure Is Coming Netflix Netflix announces 'Stranger Things' prequel set in Nevada KSNV ‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix V",
+   "body": "'Stranger Things' Live-Action Prequel 'Other Worlds' A Go At Netflix Deadline Other Worlds: A Stranger Things Adventure Is Coming Netflix Netflix announces 'Stranger Things' prequel set in Nevada KSNV ‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix Variety 'Other Worlds: A Stranger Things Adventure' Trailer Reveals Setting Gizmodo",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1505,40 +1796,12 @@
    "lang": "en"
   },
   {
-   "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-   "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-   "source": "NYT World",
-   "published": "2026-11-06T13:53:33+00:00",
-   "summary": "Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.",
-   "body": "Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-kenya-cult-sentence-1-qbvt/06int-kenya-cult-sentence-1-qbvt-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Jonathan Taylor trade rumors: Giants, everyone else, waiting on Colts - Big Blue View",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1pXTGpZQzdiZUFwQjBtLTJGYlE2TXpaSWRYTEFtcG45U2NmUE8yMUljcS1GcEMxdFYzMXV5c0N1Y1NjRjB3UGdkeVNMd1JkOXJyaF9Yd3lMZS13UWJBUjBPUmtWRy16bmdiTWZjMkk2NGNUSllKWUhZMFJLQ0ZDT0hZeTJQNmtvTlNwWkxuWUxUanRIbDFRVkVxNVdPbmhDNURhS19lS2pWdW5zdk81dEtGc2RlU29aM2J5TVRueFJHU0JINXFGMzR4QUtwemdwelVTLUpEMWh6WTBuMENj?oc=5",
    "source": "Google News",
    "published": "2026-11-06T13:52:04+00:00",
-   "summary": "Jonathan Taylor trade rumors: Giants, everyone else, waiting on Colts Big Blue View Jonathan Taylor landing spots: Ranking top 7 trade fits for Colts Pro Bowl running back NFL.com Jonathan Taylor trade rumor puts Giants ahead of Vikings, Broncos in pursuit of Colts RB Yahoo Sport",
-   "body": "Jonathan Taylor trade rumors: Giants, everyone else, waiting on Colts Big Blue View Jonathan Taylor landing spots: Ranking top 7 trade fits for Colts Pro Bowl running back NFL.com Jonathan Taylor trade rumor puts Giants ahead of Vikings, Broncos in pursuit of Colts RB Yahoo Sports 2027 NFL Trade Deadline: What We're Hearing on Jonathan Taylor, Other Moves Sports Illustrated Chris Simms hearing speculation about 49ers being Jonathan Taylor trade suitor NBC Sports Bay Area & California",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "No more Cybertrucks; Musk moves on from the angular metallic flop - Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0xncmpQRnRNV3labGNBOE15RFpFWlYzclM1VmVEX3BQQm10c3dJTFJqQm5vbkdXMHZoUGRaY241M0Nvam14Rm5wTDAwSzRxdHdrTnFEd3hyeXcwMUR6bjA3eHJLVTF5c2NYT1BaTFdaLWRYMDVVaC1jZkhFcjJEaW5HQ3U3cnhRdnV2QzhVd1NYWENVOFN6T3MtMkdQQlE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T13:50:20+00:00",
-   "summary": "No more Cybertrucks; Musk moves on from the angular metallic flop Ars Technica Tesla to pull the plug on Cybertruck after years of poor sales Reuters Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab The New York Times Musk bids farewell to Cybertruck as",
-   "body": "No more Cybertrucks; Musk moves on from the angular metallic flop Ars Technica Tesla to pull the plug on Cybertruck after years of poor sales Reuters Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab The New York Times Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving Yahoo Finance Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales WSJ",
+   "summary": "Jonathan Taylor trade rumors: Giants, everyone else, waiting on Colts Big Blue View Jonathan Taylor 'can't avoid' trade speculation as Colts go through talks ESPN If acquired, Jonathan Taylor would have limited immediate impact with Giants Yahoo Sports 2027 NFL Trade Deadline: Wh",
+   "body": "Jonathan Taylor trade rumors: Giants, everyone else, waiting on Colts Big Blue View Jonathan Taylor 'can't avoid' trade speculation as Colts go through talks ESPN If acquired, Jonathan Taylor would have limited immediate impact with Giants Yahoo Sports 2027 NFL Trade Deadline: What We're Hearing on Jonathan Taylor, Other Moves Sports Illustrated Chris Simms hearing speculation about 49ers being Jonathan Taylor trade suitor NBC Sports Bay Area & California",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1579,236 +1842,6 @@
    "lang": "en"
   },
   {
-   "title": "Paraguay's Peña offers resignation amid banking scandal, protests",
-   "link": "https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests",
-   "source": "France 24",
-   "published": "2026-11-06T13:45:58+00:00",
-   "summary": "Paraguayan President Santiago Peña submitted his resignation on Thursday, but Congress put it on hold as impeachment proceedings against him move forward. Peña is facing impeachment over a banking scandal that has affected millions of people and sparked protests, with thousands t",
-   "body": "Paraguayan President Santiago Peña submitted his resignation on Thursday, but Congress put it on hold as impeachment proceedings against him move forward. Peña is facing impeachment over a banking scandal that has affected millions of people and sparked protests, with thousands taking to the streets in recent days.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/41af145a-d9e7-11f1-9a4d-bf1914cabd52/w:1024/p:16x9/EN-20261106-141452-141644-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Who is Kenya’s starvation cult leader?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T13:43:41+00:00",
-   "summary": "Who is Kenya’s starvation cult leader?",
-   "body": "Who is Kenya’s starvation cult leader?",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Kenya-cult-leader-Horizontal-thumb-1793972517.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "US job growth exceeds expectations in October despite economic uncertainty",
-   "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-   "source": "The Guardian",
-   "published": "2026-11-06T13:42:26+00:00",
-   "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to n",
-   "body": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The unemployment rate went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=140&quality=85&auto=format&fit=max&s=f2a97354698dfd0d291e56355350bdd2",
-   "lang": "en"
-  },
-  {
-   "title": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-   "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us",
-   "source": "France 24",
-   "published": "2026-11-06T13:38:36+00:00",
-   "summary": "The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end of an agreement announced with great fan",
-   "body": "The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end of an agreement announced with great fanfare before the midterms.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore Airlines unveils S$2 billion cabin upgrade with new First Class double beds, Business Class seats with privacy doors",
-   "link": "https://www.channelnewsasia.com/travel/singapore-airlines-sia-new-cabin-products-first-class-business-class-2027-6526061",
-   "source": "CNA World",
-   "published": "2026-11-06T13:31:00+08:00",
-   "summary": "The next-generation seats will be rolled out progressively from the second half of 2027, with more privacy, improved comfort and personalised features across all four cabin classes.",
-   "body": "The next-generation seats will be rolled out progressively from the second half of 2027, with more privacy, improved comfort and personalised features across all four cabin classes.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--WtDzUa3n--/c_crop,h_1080,w_1920,x_0,y_0/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/first_class_double_bed.png?itok=joZBgxnk",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-   "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T13:30:18+00:00",
-   "summary": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
-   "body": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T212847Z_1214409262_RC2QFOATU4MH_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION-1793667591.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "‘This is a hate-hate relationship’: Why Miami-Notre Dame still burns after all these years",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvbUh6YjA1M2h1aXVobmJtSER3ZEZVVWpjTXNLSTFydXByb3QyVThBREJxLWd2WHVBSHNMa0V2SWlLMUNnc2tydS1YV3VxLWVWemxlLVo4NzFHaUdPNHJ3NUpxd012MGQzLVMzMFJ3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T13:30:15+00:00",
-   "summary": "‘This is a hate-hate relationship’: Why Miami-Notre Dame still burns after all these years CNN Top 25 betting lines: No. 4 Notre Dame favored over No. 1 Miami ESPN Staff Picks: No. 11 Notre Dame vs. No. 1 Miami 247Sports Week 10 College Football Playoff impact games: Miami-Notre ",
-   "body": "‘This is a hate-hate relationship’: Why Miami-Notre Dame still burns after all these years CNN Top 25 betting lines: No. 4 Notre Dame favored over No. 1 Miami ESPN Staff Picks: No. 11 Notre Dame vs. No. 1 Miami 247Sports Week 10 College Football Playoff impact games: Miami-Notre Dame, BYU-Utah lead massive slate CBS Sports Is Notre Dame out of the playoffs with a loss? 😳 Yahoo Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
-   "link": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836",
-   "source": "CNA World",
-   "published": "2026-11-06T13:30:00+08:00",
-   "summary": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" said the authorities.",
-   "body": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" said the authorities.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--nXmkZtcW--/c_crop,h_449,w_799,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-16T163749Z_3_LYNXMPEM9F187_RTROPTP_3_INDIA-AI-CYBERSECURITY.JPG?itok=HOhOfq0p",
-   "lang": "en"
-  },
-  {
-   "title": "Zambia's civil service overhaul raises questions",
-   "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-06T13:28:00+00:00",
-   "summary": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
-   "body": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79875456_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?",
-   "link": "https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu",
-   "source": "France 24",
-   "published": "2026-11-06T13:25:57+00:00",
-   "summary": "In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister Benjamin Netanyahu's coalition – decline",
-   "body": "In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister Benjamin Netanyahu's coalition – declined to recommend any candidate for the task. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky reports.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/ebb71fde-d9cd-11f1-a086-a575454bc579/w:1024/p:16x9/capture-04af7880.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad",
-   "link": "https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T13:23:52+00:00",
-   "summary": "Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.",
-   "body": "Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aedd154cff7-1793970516.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
-   "link": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-06T13:23:00+00:00",
-   "summary": "Climate scientists say the world is set to breach the critical 1.5-degree Celsius threshold in 2026. This year is also on track to become the second-warmest on record.",
-   "body": "Climate scientists say the world is set to breach the critical 1.5-degree Celsius threshold in 2026. This year is also on track to become the second-warmest on record.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/74760758_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-   "link": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback",
-   "source": "France 24",
-   "published": "2026-11-06T13:15:54+00:00",
-   "summary": "US Defence Secretary Pete Hegseth's future is in question after Tuesday's, November 3, midterms setback. On Thursday, November 5, he issued a video message vowing to fight efforts in Congress to impeach him and defending the ‌Iran war as “courageous and historic”. FRANCE 24's Int",
-   "body": "US Defence Secretary Pete Hegseth's future is in question after Tuesday's, November 3, midterms setback. On Thursday, November 5, he issued a video message vowing to fight efforts in Congress to impeach him and defending the ‌Iran war as “courageous and historic”. FRANCE 24's International Affairs Editor Philip Turle has more.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/786ab9d8-d9d6-11f1-88c5-a575454bc579/w:1024/p:16x9/capture-bcc8d7a2.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Tech giants lose $1 trillion in one day after Democrats victory in midterms",
-   "link": "https://www.france24.com/en/video/20261106-tech-giants-lose-1-trillion-in-one-day-after-democrats-victory-in-midterms",
-   "source": "France 24",
-   "published": "2026-11-06T13:15:27+00:00",
-   "summary": "Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expresse",
-   "body": "Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Canada PM Mark Carney unveils budget to strengthen economy",
-   "link": "https://www.france24.com/en/video/20261106-canada-pm-mark-carney-unveils-budget-to-strengthen-economy",
-   "source": "France 24",
-   "published": "2026-11-06T13:10:49+00:00",
-   "summary": "Canada's Prime Minister Mark Carney unveiled his first ever budget on November 5, which set out strong ambitions for greater economic independence from the US. The \"Masters of our Destiny\" budget also announced generous measures for parts of the economy affected by tariffs, setti",
-   "body": "Canada's Prime Minister Mark Carney unveiled his first ever budget on November 5, which set out strong ambitions for greater economic independence from the US. The \"Masters of our Destiny\" budget also announced generous measures for parts of the economy affected by tariffs, setting aside 44 billion Canadian dollars for impacted businesses and workers.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Will Democratic Party introduce a new 'New Deal'? Key narrative must be 'focused on economic issues'",
-   "link": "https://www.france24.com/en/will-democratic-party-introduce-a-new-new-deal-key-narrative-must-be-focused-on-economic-issues",
-   "source": "France 24",
-   "published": "2026-11-06T13:07:30+00:00",
-   "summary": "With Democrats poised to control both chambers of Congress, the party faces a defining challenge: how to constrain Donald Trump's presidency while carving out a path to the White House in 2028. For Ian Reifowitz, Distinguished Professor of History at SUNY Empire State University,",
-   "body": "With Democrats poised to control both chambers of Congress, the party faces a defining challenge: how to constrain Donald Trump's presidency while carving out a path to the White House in 2028. For Ian Reifowitz, Distinguished Professor of History at SUNY Empire State University, the answer lies in drawing on the historical legacy of Franklin D. Roosevelt's New Deal coalition. Republicans, he argues, have progressively shifted electoral competition towards questions of identity, immigration and cultural conflict. Democrats, by contrast, must recover their traditional strength on economic security, affordability and everyday living standards. \"These Democrats across the country ran on affordability.\" And that's how they must govern, explains Reifowitz.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/d72ef50a-d9dc-11f1-96ab-d18c5759e759/w:1024/p:16x9/EN-20261105-223101-224205-CS.jpg",
-   "lang": "en"
-  },
-  {
    "title": "အထက်တန်း ကျောင်းသင်ရိုးညွှန်းတမ်းတွင်ပါ စစ်တပ်၏ ဝါဒဖြန့်ခြိမ်းခြောက်မှုများ ရှိနေ",
    "link": "https://myanmar-now.org/mm/news/82138/",
    "source": "Myanmar Now Burmese",
@@ -1820,21 +1853,6 @@
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/TNW_4719-1024x683.webp",
    "lang": "my"
-  },
-  {
-   "title": "Texas Led the Conservative Overhaul of Education. What Now?",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWRXV2FvX1JPckVteHR6enBtRi1qNlNlemxRR1VKSHdMNV9Ra1dKN2RPV0ZidGlGb3B0U1NELXVVNG5lMGlVT2hOVk84cDl3elZBaWlCXzRlbllIOGk0WDVXSTFlNUR1UW9oLTF4aDhaM3VYenhqQkZKTlBydkFHbWtJU2dhNkVadjZxWXhyRUE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T13:06:20+00:00",
-   "summary": "Texas Led the Conservative Overhaul of Education. What Now? The New York Times Gov.-elect Gina Hinojosa outlines education priorities, vows to review school voucher program KSAT Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post ",
-   "body": "Texas Led the Conservative Overhaul of Education. What Now? The New York Times Gov.-elect Gina Hinojosa outlines education priorities, vows to review school voucher program KSAT Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post Gina Hinojosa names governor transition team, including anti-voucher Republican Houston Chronicle Gina Hinojosa’s Surprise Victory Over Greg Abbott Changes Everything in Texas Texas Monthly",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "ဒေါ်အောင်ဆန်းစုကြည် ဖုန်းပြောခွင့်ရတဲ့အပေါ် ကြံ့ခိုင်ရေးအမတ် မေးခွန်းထုတ်",
@@ -2104,21 +2122,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/E322KLJ3JZGDRIIEEZM5GQ4BRY.jpg?auth=8739e783d2a708de02718d90483ad46337aa3dc353d1fc13c0891864f7614e52&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "အာဆီယံထိပ်သီးအစည်းအဝေးမတိုင်ခင် ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးမြန်မာပြည်လာမည်",
-   "link": "https://rfa.org/burmese/news/2026/11/04/myanmar-thailand-asean-violence-civilians-border/",
-   "source": "RFA Burmese",
-   "published": "2026-11-04T20:43:37+00:00",
-   "summary": "အာဆီယံအပြည့်အဝမပါဝင်ခင် ပြည်တွင်းအကြမ်းဖက်တိုက်ခိုက်မှုတွေ အရင်လျှော့ချဖို့ စစ်တပ်ခန့်အစိုးရကို တိုက်တွန်းခဲ့။",
-   "body": "ဖိလစ်ပိုင်နိုင်ငံ၊ မနီလာမြို့မှာ နိုဝင်ဘာလ ၁၆ ရက်ကနေ ၁၈ ရက်အထိ ကျင်းပမယ့် အရှေ့တောင်အာရှနိုင်ငံများအဖွဲ့ (ASEAN) ရဲ့ ထိပ်သီးအစည်းအဝေး မတိုင်မီ၊ ထိုင်းနိုင်ငံခြားရေးဝန်ကြီး နဲ့ ဒုတိယဝန်ကြီးချုပ်ဖြစ်သူ ဆီဟာဆတ် ဖုန်ကတ်တီရော (Sihasak Phuangketkeow) မြန်မာနိုင်ငံကို နိုဝင်ဘာ ၁၂ ရက်မှာ လာရောက်မယ်လို့ အစိုးရက နိုဝင်ဘာ ၄ ရက်နေ့က ထုတ်ဖော်ပြောကြားလိုက်ပါတယ်။\n\nမစ္စတာဆီဟာဆတ်ဟာ နိုဝင်ဘာလ ၃ ရက်နေ့က မြန်မာစစ်အစိုးရ၏ နိုင်ငံခြားရေးဝန်ကြီး ဦးတင်မောင်ဆွေနဲ့ တယ်လီဖုန်းကတစ်ဆင့် ဆယ်မိနစ်ကြာ စကားပြောဆွေးနွေးခဲ့တယ်လို့ ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးက သတင်းထောက်တွေကို ပြောပါတယ်။\n\nဒီလိုပြောကြားရာမှာ မိုင် ၁,၅၀၀ ကျော်ရှည်တဲ့ ထိုင်းမြန်မာနယ်စပ်တစ်လျောက် မြန်မာစစ်တပ်ရဲ့ ထိုးစစ်တွေကြောင့် ထိုင်းနိုင်ငံရဲ့ အချုပ်အခြာအာဏာ ထိပါးမှု မရှိစေရေး ထိုင်းအစိုးရဘက်က လိုလားချက်တွေကို ထည့်သွင်းပြောကြားခဲ့တယ်လို့ သူကပြောပါတယ်။ ထိုင်းအာဏာပိုင်တွေအနေနဲ့ မြန်မာဘက်က ထိုင်းဘက်ကို လက်နက်ကြီးကျည် ကျရောက် ထိမှန်တာတွေအပေါ် စိုးရိမ်ပူပန်ကြောင်းလည်း ပြောကြားတယ်လို့ သိရပါတယ်။\n\nဒါ့အပြင် မြန်မာစစ်တပ်ခန့် အစိုးရအနေနဲ့ အာဆီယံအဖွဲ့ကြီးထဲသို့ အပြည့်အဝ ပြန်လည် ပါဝင်နိုင်ရေး အတွက် ပြည်တွင်း အကြမ်းဖက်တိုက်ခိုက်နေတာတွေကို လျှော့ချဖို့လိုတယ်လို့လည်း ဦးတင်‌‌‌မာင်ဆွေကို ပြောကြား ခဲ့တယ်လို့လည်း သိရပါတယ်။\n\nထိုင်းနိုင်ငံဟာ အာဆီယံမှာ မြန်မာနိုင်ငံ အပြည့်အဝ ပြန်ပါဝင်လာနိုင်ရေး ဦးဆောင်ကြိုးပမ်းနေတဲ့ နိုင်ငံ ဖြစ်ပြီး အာဆီယံအထူးကိုယ်စားလှယ် ဖိလစ်ပိုင်နိုင်ငံခြားရေးဝန်ကြီး မြန်မာခရီးစဥ်မှာ နေအိမ်မှာ အကျဥ်းချခံထားရတဲ့ ဒေါ်အောင်ဆန်းစုကြည်နဲ့ တွေ့ဆုံခွင့်ရလိမ့်မယ်လို့ မျှော်လင့်ကြောင်း တရားဝင်ထုတ်ဖော်ပြောကြားခဲ့ပါတယ်။\n\nဒါပေမယ့် စစ်တပ်ခန့်အစိုးရဟာ အာဆီယံအထူးကိုယ်စားလှယ်ကို ဒေါ်အောင်ဆန်းစုကြည်နဲ့ တွေ့ခွင့် မပေးတဲ့အပြင် သမ္မတအာဏာရယူထားတဲ့ အာဏာသိမ်းခေါင်းဆောင် ဦးမင်းအောင်လှိုင်ကပါ လက်ခံ တွေ့ဆုံခြင်း မရှိခဲ့ပါဘူး။\n\n၁၁ နိုင်ငံပါဝင်တဲ့ အာဆီယံနိုင်ငံများအဖွဲ့ဟာ မြန်မာနိုင်ငံမှာ ၂၀၂၁ စစ်အာဏာသိမ်းပြီးနောက်ပိုင်း စစ်အာဏာသိမ်းခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီးမင်းအောင်လှိုင်ကို မြန်မာနိုင်ငံ ကိုယ်စားပြု တက်ရောက်ခွင့်ကို ပိတ်ပင်ခဲ့ပြီး အာဆီယံထိပ်သီးညီလာခံတွေမှာလည်း အဆင့်မြင့်ခေါင်းဆောင်တက်ရောက်ခွင့်ကို ကန့်သတ်ထားခဲ့ပါတယ်။\n\n၂၀၂၁ စစ်အာဏာသိမ်းအပြီး ပထမဆုံးကျင်းပတဲ့ ထိပ်သီးဆွေးနွေးပွဲမှာ အာဏာသိမ်းစစ်ခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီး မင်းအောင်လှိုင်တက်ရောက်ခဲ့ခွင့်ရတဲ့ ဆွေးနွေးပွဲမှာ အာဆီယံက ဘုံသဘောတူညီချက် ၅ ရပ် ကို တစ်ညီတစ်ညွတ်ထဲ ချမှတ်ခဲ့ပါတယ်။ ဒါပေမယ့် အာဏာသိမ်းစစ်ခေါင်းဆောင်ဟာ ဒီအချက်တွေကို တစ်ချက်မှ အကောင်အထည်ဖော်ခြင်းမရှိခဲ့တဲ့အတွက် အာဆီယံကလည်း အကောင်အထည်ဖော်ဖို့ မပြတ်တိုက်တွန်းနေခဲ့ပြီး သံတမန်ရေးအရ တစ်ဆင့်နှိမ့်ဆက်ဆံလာတာ အခုအချိန်အထိ ဖြစ်ပါတယ်။",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://www.rfa.org/resizer/v2/WCVGJJU7KJAMPAK5LUOYBI2KME.jpg?auth=720a20ecaff2d2066f44ad5f6812ef711e9e68daf4e0239395410dd2c696ccea&smart=true&width=1500",
    "lang": "my"
   }
  ]
