@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T10:38:52.843164+00:00",
- "updated_yangon": "2026-11-06 17:08",
+ "updated": "2026-11-06T11:38:51.382868+00:00",
+ "updated_yangon": "2026-11-06 18:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,7 +10,9 @@
   "DW",
   "France 24",
   "Google News",
+  "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now",
   "Myanmar Now Burmese",
@@ -21,23 +23,27 @@
  "countries": [
   [
    "United States",
-   60
+   49
   ],
   [
    "Myanmar",
-   15
+   16
   ],
   [
    "Ukraine",
-   14
+   16
+  ],
+  [
+   "Russia",
+   13
   ],
   [
    "France",
    10
   ],
   [
-   "Russia",
-   10
+   "Israel",
+   6
   ],
   [
    "United Kingdom",
@@ -48,39 +54,31 @@
    5
   ],
   [
-   "Israel",
-   5
+   "Iran",
+   4
   ],
   [
    "India",
    4
   ],
   [
-   "Iran",
-   3
+   "NATO",
+   2
   ],
   [
    "Yemen",
    2
   ],
   [
-   "Palestine",
-   2
-  ],
-  [
-   "Pakistan",
-   1
-  ],
-  [
    "Saudi Arabia",
    1
   ],
   [
-   "Japan",
+   "Turkey",
    1
   ],
   [
-   "NATO",
+   "Pakistan",
    1
   ],
   [
@@ -89,6 +87,14 @@
   ],
   [
    "Lebanon",
+   1
+  ],
+  [
+   "Palestine",
+   1
+  ],
+  [
+   "Japan",
    1
   ]
  ],
@@ -103,12 +109,64 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 18,
+ "war_count": 23,
  "languages": {
-  "my": 26,
-  "en": 114
+  "my": 25,
+  "en": 115
  },
  "items": [
+  {
+   "title": "SAF's Digital and Intelligence Service launches new training command to keep pace with evolving threats",
+   "link": "https://www.channelnewsasia.com/singapore/saf-training-command-digital-intelligence-service-cyber-threats-6530311",
+   "source": "CNA World",
+   "published": "2026-11-06T19:30:00+08:00",
+   "summary": "Threats today may differ significantly from those in the past, making it necessary to continually adapt training methods, said the head of the command's development office.",
+   "body": "Threats today may differ significantly from those in the past, making it necessary to continually adapt training methods, said the head of the command's development office.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--1Hp--7z9--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/photo_3_dtcom.jpg?itok=AALB8V3b",
+   "lang": "en"
+  },
+  {
+   "title": "Doctor Anywhere hit by data breach, clinical records 'not affected'",
+   "link": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871",
+   "source": "CNA World",
+   "published": "2026-11-06T19:18:34+08:00",
+   "summary": "The healthcare provider said the affected users are in the process of being notified.",
+   "body": "The healthcare provider said the affected users are in the process of being notified.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--BgGIHaAq--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/12/13/doctor_anywhere.jpg?itok=67AdnNg9",
+   "lang": "en"
+  },
+  {
+   "title": "AI sell-off hits Singapore tech stocks, but analysts see correction rather than end of boom",
+   "link": "https://www.channelnewsasia.com/singapore/tech-ai-stocks-global-sell-analysts-6530376",
+   "source": "CNA World",
+   "published": "2026-11-06T19:14:45+08:00",
+   "summary": "Singapore’s technology sector has “significant but concentrated” exposure to the global AI investment cycle, primarily through the semiconductor and electronics supply chain, analysts noted.",
+   "body": "Singapore’s technology sector has “significant but concentrated” exposure to the global AI investment cycle, primarily through the semiconductor and electronics supply chain, analysts noted.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--HW0DW__v--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-05T235147Z_1_LYNXNPEMA42H4_RTROPTP_3_USA-STOCKS.JPG?itok=XH-JFQIZ",
+   "lang": "en"
+  },
+  {
+   "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
+   "link": "https://www.channelnewsasia.com/singapore/cybersecurity-agency-cyberattack-refrigeration-hack-6530431",
+   "source": "CNA World",
+   "published": "2026-11-06T18:57:40+08:00",
+   "summary": "No similar attacks have been reported in Singapore, but firms are urged to keep remote management interfaces off the public internet and strengthen access controls.",
+   "body": "No similar attacks have been reported in Singapore, but firms are urged to keep remote management interfaces off the public internet and strengthen access controls.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--dezS_DB---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/000_d3247kh.jpg?itok=xO4lSeUs",
+   "lang": "en"
+  },
   {
    "title": "Singaporean Ashley Tan dropped from CEO role by US-based non-profit FHI 360",
    "link": "https://www.channelnewsasia.com/singapore/singaporean-ceo-fhi-360-development-organisation-6510761",
@@ -218,6 +276,140 @@
    "lang": "en"
   },
   {
+   "title": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌လွှတ်တော်မှာထည့်ဆွေးနွေး",
+   "link": "https://www.bbc.co.uk/burmese/live/cm3ell19z52xt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-06T11:38:49+00:00",
+   "summary": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/080e/live/854782c0-d9aa-11f1-88e6-7913ca4cf3b6.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်",
+   "link": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-06T11:38:49+00:00",
+   "summary": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdf/live/df5fd280-d8e7-11f1-8a29-751f921d505b.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+   "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T11:36:14+00:00",
+   "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+   "body": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bed/live/8fde0dd0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "For Myanmar’s Buddhists, the pursuit of inner peace turns deadly as military targets monasteries",
+   "link": "https://myanmar-now.org/en/news/for-myanmars-buddhists-the-pursuit-of-inner-peace-turns-deadly-as-military-targets-monasteries/",
+   "source": "Myanmar Now",
+   "published": "2026-11-06T11:31:02+00:00",
+   "summary": "Monasteries, central to the spiritual life of Buddhist communities, have not been spared the regime’s brutal assault on civilians",
+   "body": "Monasteries, central to the spiritual life of Buddhist communities, have not been spared the regime’s brutal assault on civilians",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/Screenshot-2026-10-22-at-1.48.11-PM-2048x1158-1-1024x579.webp",
+   "lang": "en"
+  },
+  {
+   "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+   "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T11:28:38+00:00",
+   "summary": "Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin.",
+   "body": "Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T170531Z_1281862151_RC2SBOAW6FCR_RTRMADP_3_RUSSIA-ENERGY-SUMMIT-BILATS-IRAN-1793959522.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+   "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+   "source": "NYT World",
+   "published": "2026-11-06T11:28:37+00:00",
+   "summary": "More threats were reported Friday after dozens of planes were targeted earlier this week. Officials have not reported finding any explosives, but the hoaxes have added to airspace anxiety.",
+   "body": "More threats were reported Friday after dozens of planes were targeted earlier this week. Officials have not reported finding any explosives, but the hoaxes have added to airspace anxiety.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "UK-based consumer goods giant Unilever confirms departure from Myanmar",
+   "link": "https://myanmar-now.org/en/news/uk-based-consumer-goods-giant-unilever-confirms-departure-from-myanmar/",
+   "source": "Myanmar Now",
+   "published": "2026-11-06T11:23:14+00:00",
+   "summary": "While no reason was given for the departure, some believe the company struggled to obtain import licenses as the regime continues tightening restrictions",
+   "body": "While no reason was given for the departure, some believe the company struggled to obtain import licenses as the regime continues tightening restrictions",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/256c5602f1181b893d065899d51f6737-1587471846.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGY4MzgwajJadTZ5WG95VHYtM3VydEF2UUtBUUhhblAzVjI1MUN5TmNiaDlIUGRVTUNZM25lTDQ3TGxjdjMzaHliNlhHbUFrWDl1R3hqMjljSVM4ZU13UXdmaTZEZllhWlBqcGg1aXRnRmRTSzZyNG9IYkNvX2dSal9tTHZwY2hNUkZ6bUdJcnlTMkRNYm02NF9tazY4QUpxYWF3MmlvU0hqVjZzZm1hc9IBtgFBVV95cUxNd2hkQVkxSWpXaFhic0NqdGh3UEltWk5JWkhZRVB4b01hc1EtVjVQZWRJcnJmYmxVanJOXzE3dlhJNG5fYTVkakt4STk3SnhGTEdXUDJQdlp2R1phSUVrSXo0d21FRHV3R0d5cGxQczhFalFvRE9kSXJwVHA0RGRjbmZkbkp4OWJGemFaUUR2Wk5TSGowSGFmQl9DM0ZaVXViMXlTNERhZ2pPOFpQNG1QT080THZMUQ?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-06T11:21:35+00:00",
+   "summary": "The blame game: How the US midterm shock is shaping Israel’s race for PM Al Jazeera",
+   "body": "The blame game: How the US midterm shock is shaping Israel’s race for PM Al Jazeera",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Two dead after bus crashes in France, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T11:21:20+00:00",
+   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16",
    "link": "https://www.channelnewsasia.com/singapore/cross-border-taxi-quota-increase-singapore-malaysia-6529936",
    "source": "CNA World",
@@ -228,6 +420,105 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--6LHwBt3t--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/04/img_1434.jpg?itok=N42wgmst",
+   "lang": "en"
+  },
+  {
+   "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+   "source": "The Guardian",
+   "published": "2026-11-06T11:20:08+00:00",
+   "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted A Romanian airline Tarom flight from Prague to Bucharest is the latest believed to be affected by today’s bomb threats. The aircraft, operating flight number ROT226M, sent a sq",
+   "body": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted A Romanian airline Tarom flight from Prague to Bucharest is the latest believed to be affected by today’s bomb threats. The aircraft, operating flight number ROT226M, sent a squawk code of 7700 – general emergency – before landing safely in Bucharest. The threat was later confirmed to be unproven. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133",
+   "lang": "en"
+  },
+  {
+   "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
+   "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T11:18:02+00:00",
+   "summary": "Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
+   "body": "Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed9cbda045-1793957053.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+   "source": "The Guardian",
+   "published": "2026-11-06T11:12:58+00:00",
+   "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week Tube train drivers in the RMT union have called eight 24-hour strikes running over 16 days – including six in the lead-up to Christmas – that threaten to bring transport chaos to ",
+   "body": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week Tube train drivers in the RMT union have called eight 24-hour strikes running over 16 days – including six in the lead-up to Christmas – that threaten to bring transport chaos to the capital. The drivers will start another series of 24-hour strikes in late November in opposition to plans for a four-day week – a proposal that has been warmly welcomed by the majority of London Underground drivers represented by the Aslef union. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/4fd5ccf8189e0411e8bf838c51e40432d08d8a6e/606_141_5710_4571/master/5710.jpg?width=140&quality=85&auto=format&fit=max&s=d1dbfa68a05b70a637053c38ab85fb9b",
+   "lang": "en"
+  },
+  {
+   "title": "Exercise and cancer: What \"living longer\" really means",
+   "link": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-06T11:11:00+00:00",
+   "summary": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+   "body": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/79197567_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T11:09:14+00:00",
+   "summary": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20 The Independent",
+   "body": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20 The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
+   "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T11:09:04+00:00",
+   "summary": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
+   "body": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aecb10d54-1793896717.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
+   "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T11:08:02+00:00",
+   "summary": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
+   "body": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed9a99112c-1793956505.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -244,6 +535,66 @@
    "lang": "en"
   },
   {
+   "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-06T11:01:33+00:00",
+   "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Following a difficult",
+   "body": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Following a difficult set of midterm results for the Republican party, Donald Trump has spent much of this week talking up his renovation projects in Washington. Thursday brought the first official action of his post-midterms presidency – a proclamation designating the gold-adorned Oval Office and Cabinet Room as a national monument. Here’s the signing: Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/80593e5f930bee0b3bf71bfafafbf9005a0d7d9d/1012_143_5043_4036/master/5043.jpg?width=140&quality=85&auto=format&fit=max&s=a806581d4faeba767cfcdd1e9b51006d",
+   "lang": "en"
+  },
+  {
+   "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
+   "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+   "source": "The Guardian",
+   "published": "2026-11-06T11:00:51+00:00",
+   "summary": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts Trees are experiencing an “early spring” because of mild UK temperatures this autumn, with experts warning this could cause long-term harm to pollinators. Last month was warmer ",
+   "body": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts Trees are experiencing an “early spring” because of mild UK temperatures this autumn, with experts warning this could cause long-term harm to pollinators. Last month was warmer than average across all parts of the UK, with October marking the ninth consecutive month with above-average mean temperatures. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "NATO"
+   ],
+   "image": "https://i.guim.co.uk/img/media/1a5cfd7b6922453267b672c77068483e24c0c6ad/0_769_3072_2457/master/3072.jpg?width=140&quality=85&auto=format&fit=max&s=ee38be244adb7ca35d09c809276a59b6",
+   "lang": "en"
+  },
+  {
+   "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees - WFTV",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVc2U0dISmZPR2haRTRGbnZVcVAtZXNLVzJkS3ZzSzZ5dUtoV3paU0lYNjk5Tkp4MzdjNXBxOV9YeGlqVEtrNWQ1RlJRSU1WeWJkSS1hVldydW4yNVV4QzN3RnVvYU51eGpwY0k0RTlxb041SzAyb3N5dlpWenFXQUNvbzBQQdIBmgFBVV95cUxPLU5HNkhBNnQ4R09BUWhteXU2aFgwTGstQ0Z3bkxpbDVmbkJKcFBFNzJDdnVUb2ZrWEhFSlhHRS1RZ0hEeDVMTjNJZS02aUVMWGQzUHFYWW5hZDVwQWpNQURycUNWOXB2M0tubDBzWnIwUnFhdFo1NkEwWUVHeXU4NHc0STVpVHpDX1dOZFo4VzMwMTFRQncwX0ZR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T10:58:30+00:00",
+   "summary": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees WFTV",
+   "body": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees WFTV",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees - The Killeen Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdHBERkpHaHZjNTlDeDI1QTR4b3huOE1iX3hCaV9vV2JwQnFTSWJOM01FOENDeUJOal9veERMNXRjY2NBYXlVUFhmVnJvMWhoQzRxS0JMSk05SkVIZWZKRU5VVS00cmZZdjRQdlhJXzhvSGVxRW9JUWtQRVFRQ254dS1oZ0JfZDltYmVndzNqM2ZEcmhFTl9nR3BlNDNrQ2piN0JFMk13VnZPNEl3TlJCS0hXZW5zUnVTMl9jc25vQUY2RHVCSzlFWWt6VlhPZE1Qdm92V2lhVUJyaG1pMG9pZDh3dzFXTG9vUlAyOEIxaTVDRUwySmhBZjlxbEdwRHE2?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T10:58:30+00:00",
+   "summary": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees The Killeen Daily Herald",
+   "body": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees The Killeen Daily Herald",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
    "link": "https://www.channelnewsasia.com/entertainment/trevor-noah-pickleball-singapore-jaime-teo-6529806",
    "source": "CNA World",
@@ -254,6 +605,36 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--WydemrGP--/c_crop,h_1125,w_2000,x_0,y_123/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/trevor_noah_pickleball_singapore.png?itok=oymSK6y2",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+   "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+   "source": "NYT World",
+   "published": "2026-11-06T10:54:43+00:00",
+   "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+   "body": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
+   "lang": "en"
+  },
+  {
+   "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+   "source": "The Guardian",
+   "published": "2026-11-06T10:52:41+00:00",
+   "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women, a minister ha",
+   "body": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women, a minister has said. Speaking in the House of Commons, the safeguarding minister, Satvir Kaur, hinted at a ban on selling the technology “to certain users”. The benefits of smart glasses must be weighed against the harms they can cause. The government is already looking into options to restrict smart glasses in certain settings and restricting the sale to certain users. Other settings, such as healthcare and education, have existing safeguarding or professional policies that are relevant to smart glasses and any kind of digital recording. NHS England and the Department for Education are currently looking into wearable technology in certain settings as well. Women are reporting waking up after nights out to find videos of themselves have gone viral online, filmed without their knowledge or consent by men wearing smart glasses. To me, these devices not only have the potential to erode safety and privacy in public spaces, but raise really important questions about consent. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/de19c5a12fb95a448dbdf1c446002dc4212640ca/374_42_4374_3501/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=54a2d8d30e0ab79988bbedeb122197c0",
    "lang": "en"
   },
   {
@@ -270,34 +651,49 @@
    "lang": "en"
   },
   {
-   "title": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌လွှတ်တော်မှာထည့်ဆွေးနွေး",
-   "link": "https://www.bbc.co.uk/burmese/live/cm3ell19z52xt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-06T10:38:44+00:00",
-   "summary": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ဒေါ်အောင်ဆန်းစုကြည် သားဖြစ်သူနဲ့ဖုန်းပြောခဲ့တာကို‌ လွှတ်တော်မှာထည့်ဆွေးနွေးတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "title": "Midterms over, Democrats eye wide-open 2028 White House race",
+   "link": "https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race",
+   "source": "France 24",
+   "published": "2026-11-06T10:42:13+00:00",
+   "summary": "With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 contest ​likely to expose the party's divide over how to win back the White House. Despite their resounding victories on Tue",
+   "body": "With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 contest ​likely to expose the party's divide over how to win back the White House. Despite their resounding victories on Tuesday, Democrats enter the 2028 campaign still divided over whether to tack to the center or move further left on issues ranging from healthcare and taxes to policing and foreign policy.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/9833ed10-d9cd-11f1-9d98-1beafce15fea/w:1024/p:16x9/EN-20261106-111023-111206-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Israel president to announce Sunday who will form new government",
+   "link": "https://www.france24.com/en/video/20261106-israel-president-to-announce-sunday-who-will-form-new-government",
+   "source": "France 24",
+   "published": "2026-11-06T10:39:11+00:00",
+   "summary": "Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, following post-election talks with all party leaders. 46 parliament members recommended Prime Minister Benjamin Netanyahu, while 67 backed his oppon",
+   "body": "Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, following post-election talks with all party leaders. 46 parliament members recommended Prime Minister Benjamin Netanyahu, while 67 backed his opponent Gadi Eisenkot. Seven lawmakers abstained.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://s.france24.com/media/display/ead5c768-d9c9-11f1-b93b-bf1914cabd52/w:1024/p:16x9/capture-19a34eeb.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
+   "link": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-06T10:38:00+00:00",
+   "summary": "Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan's party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.",
+   "body": "Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan's party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "Turkey"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/080e/live/854782c0-d9aa-11f1-88e6-7913ca4cf3b6.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်",
-   "link": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-06T10:38:44+00:00",
-   "summary": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdf/live/df5fd280-d8e7-11f1-8a29-751f921d505b.jpg",
-   "lang": "my"
+   "image": "https://static.dw.com/image/79865496_6.jpg",
+   "lang": "en"
   },
   {
    "title": "US Republicans face reckoning after major midterm election defeat",
@@ -331,37 +727,6 @@
    "lang": "en"
   },
   {
-   "title": "Tanzanian opposition leader found guilty of incitement",
-   "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-06T10:37:12+00:00",
-   "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
-   "body": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c804/live/6a70d320-d8e7-11f1-8a29-751f921d505b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Two dead after bus crashes in France, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-06T10:36:31+00:00",
-   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi",
    "link": "https://www.france24.com/en/tv-shows/focus/20261106-pollution-shortages-crime-daily-life-in-pakistan-s-megacity-karachi",
    "source": "France 24",
@@ -387,36 +752,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--X7JjaIy8--/c_crop,h_1125,w_2000,x_0,y_104/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/image_1.jpg?itok=IM4rsnL3",
-   "lang": "en"
-  },
-  {
-   "title": "European skies on high alert after hoax bomb threats this week – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-   "source": "The Guardian",
-   "published": "2026-11-06T10:22:40+00:00",
-   "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted in Dublin Bomb threats against Irish media organisations have disrupted broadcasts and prompted staff evacuations and police searches on Friday morning. Continue reading...",
-   "body": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted in Dublin Bomb threats against Irish media organisations have disrupted broadcasts and prompted staff evacuations and police searches on Friday morning. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133",
-   "lang": "en"
-  },
-  {
-   "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-   "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-   "source": "NYT World",
-   "published": "2026-11-06T10:22:32+00:00",
-   "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
-   "body": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
    "lang": "en"
   },
   {
@@ -541,21 +876,6 @@
    "lang": "en"
   },
   {
-   "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-   "source": "The Guardian",
-   "published": "2026-11-06T10:03:12+00:00",
-   "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs Shabana Mahmood has signalled she is considering a change to knife laws, following the murder of Henry Nowak. The Home Secretary said she had not “taken an",
-   "body": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs Shabana Mahmood has signalled she is considering a change to knife laws, following the murder of Henry Nowak. The Home Secretary said she had not “taken any options off the table”, after Nowak’s father, Mark Nowak, called for a clearer definition in law of what a Sikh kirpan looks like. I haven’t taken any options off the table. I’m also not going in with a fixed mind about what the right clarifications of the law might be. It’s important to get the right balance between religious expression in this country, which is something that many of us of a faith, including myself, hold very dearly, but do so in a way that is within what we expect of our citizens for the purposes of the criminal law. Whether you’re a young person starting out or a parent trying to support your family, you should know what a job pays before spending your time and effort applying for it. That’s why we will make it a legal requirement for all employers to say what you pay. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/7d21f801a9b99774274ae32975f25f5875148bb3/828_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ec40a5e115b642ffc9596dffc934f49d",
-   "lang": "en"
-  },
-  {
    "title": "Netanyahu rival Eisenkot secures broad backing in bid to form government",
    "link": "https://www.france24.com/en/video/20261106-netanyahu-rival-eisenkot-secures-broad-backing-in-bid-to-form-government",
    "source": "France 24",
@@ -573,9 +893,9 @@
   },
   {
    "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-   "link": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
+   "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
    "source": "NYT World",
-   "published": "2026-11-06T10:00:57+00:00",
+   "published": "2026-11-06T10:00:58+00:00",
    "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
    "body": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
    "category": "Global",
@@ -633,7 +953,7 @@
    "source": "The Guardian",
    "published": "2026-11-06T10:00:23+00:00",
    "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist The head of Scotland Yard has called for anyone with fresh allegations against the convicted rapist Russell Brand to come forward. Mark Rowley, the Metropolitan police",
-   "body": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist The head of Scotland Yard has called for anyone with fresh allegations against the convicted rapist Russell Brand to come forward. Mark Rowley, the Metropolitan police commissioner, said he would not be surprised if “many more” alleged victims of Brand emerged after the former comedian turned online influencer was on Thursday convicted of rape and sexual assault . Continue reading...",
+   "body": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist The head of Scotland Yard has called for anyone with fresh allegations against the convicted rapist Russell Brand to come forward. Mark Rowley, the Metropolitan police commissioner, said he would not be surprised if “many more” alleged victims emerged after the former comedian turned online influencer was on Thursday convicted of rape and sexual assault . Continue reading...",
    "category": "Global",
    "is_war": true,
    "countries": [],
@@ -670,21 +990,6 @@
     "India"
    ],
    "image": "https://s.france24.com/media/display/59d93666-d9c7-11f1-a2c0-1beafce15fea/w:1024/p:16x9/capture-4f45486c.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-06T09:58:52+00:00",
-   "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Welcome to our live c",
-   "body": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Welcome to our live coverage of the US midterm elections – here are some of the latest key developments. A number of closely watched contests in the midterms are still to be called, including the final two US Senate races – in Mississippi and Alaska. The Democratic candidates are hoping to oust Republican incumbents to bolster their new majority in Congress. Right now, Democrats have a 106-seat majority as we await final results. Democrats flipped another eight House seats , strengthening their majority in the lower chamber. Democrats are now leading Republicans 253 to 157, with 25 races left to call, as a number of GOP representatives felt the weight of the blue wave that has swept their party out of power. Republicans held on to two House seats in the west as congressman Mike Kennedy won re-election in Utah and Amanda McKinney won in Washington. Democratic socialist Nithya Raman was elected to serve as the mayor of Los Angeles , eking out a narrow win over incumbent Karen Bass, in a major shake-up in local politics that reflects the growing dissatisfaction with the direction of the city. The progressive urban planner had served on LA’s city council since 2020. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/80593e5f930bee0b3bf71bfafafbf9005a0d7d9d/1012_143_5043_4036/master/5043.jpg?width=140&quality=85&auto=format&fit=max&s=a806581d4faeba767cfcdd1e9b51006d",
    "lang": "en"
   },
   {
@@ -750,6 +1055,21 @@
    "lang": "en"
   },
   {
+   "title": "Russian Airstrike on Komyshuvakha Kills 53, Around 50 Still Missing - Oj - Odessa Journal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0xFTzFLYUdFc3FwVUxXUzhWVmpvS0tVVU10eW9BUnpkZW1SaHJWbEROeGNtZGh0S0U4c3pxLVRaeER5WS03VGlYX3VJa0NNLWhaWHZuRm9JRjFXUzg0QURVa2lEZERvLWx2SXpYRTZkZWZQNTlKXzM1QW5RNzRyMUFOMFFaaWVOYkJJUFY1QmtDTURGeWFjOU9tdHlNckU1UmhwU1ZzZnFWQQ?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-06T09:42:36+00:00",
+   "summary": "Russian Airstrike on Komyshuvakha Kills 53, Around 50 Still Missing - Oj Odessa Journal",
+   "body": "Russian Airstrike on Komyshuvakha Kills 53, Around 50 Still Missing - Oj Odessa Journal",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Live: European stocks plunge after US midterm election results shock markets",
    "link": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
    "source": "France 24",
@@ -795,23 +1115,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T09:18:42+00:00",
-   "summary": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20 The Independent",
-   "body": "Ukraine-Russia war live: Trump claims ‘big, beautiful’ deal in the works as UK refuses to invite Putin to G20 The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
    "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
    "source": "NYT World",
@@ -822,6 +1125,22 @@
    "is_war": false,
    "countries": [],
    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine’s HUR Took the Forest, Broke the Offensive, and Fooled Russia for Two Weeks - UNITED24 Media",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmdwNGJYWW5rQnpLOE9qTkRzbm9sNWpXNVpnQTUtQ3R3VWRLUWR2Q2xac01ENWt5MlVVVG9TazEwYXR4ckp4Q0tGOWxxMnVVN251WjJvVUNJLTJ3QjBlUGxyWjVnczJVSE9qaDJzekxPUWxWYVBYclR4RVpQUEVadHpreThFZWRPeGZrcmt4Rmd5VmJRYUF5R09Lc1pSb0xocnBpdDNxbmd6cnFkQWNHdTJuUE1NdGptMHdOaDlNbnRlejhkdUE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T09:12:02+00:00",
+   "summary": "Ukraine’s HUR Took the Forest, Broke the Offensive, and Fooled Russia for Two Weeks UNITED24 Media",
+   "body": "Ukraine’s HUR Took the Forest, Broke the Offensive, and Fooled Russia for Two Weeks UNITED24 Media",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -860,8 +1179,8 @@
    "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-06T09:01:40+00:00",
-   "summary": "Court had approved his transfer after the Former Prime Minister's party paid $12m fine via crowdfunding.",
-   "body": "Court had approved his transfer after the Former Prime Minister's party paid $12m fine via crowdfunding.",
+   "summary": "Court had approved his transfer after the former prime minister's party paid $12m fine via crowdfunding.",
+   "body": "Court had approved his transfer after the former prime minister's party paid $12m fine via crowdfunding.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -873,8 +1192,8 @@
    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
    "source": "The Guardian",
    "published": "2026-11-06T08:58:22+00:00",
-   "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in t",
-   "body": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor sentiment then reached London, with the FTSE 100 index, which tracks blue-chip shares listed in London, down 1.5%, or 166 points, at the start of trading to 10,615. Continue reading...",
+   "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in t",
+   "body": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor sentiment then reached London, where the market is poised for its worst day since March. Continue reading...",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -882,19 +1201,6 @@
     "United Kingdom"
    ],
    "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126",
-   "lang": "en"
-  },
-  {
-   "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
-   "link": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-   "source": "The Guardian",
-   "published": "2026-11-06T08:54:40+00:00",
-   "summary": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay UK politics live – latest updates Employers will be forced to publish salaries on job adverts, Andy Burnham has announced, in an effort to empower both employees and jobs",
-   "body": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay UK politics live – latest updates Employers will be forced to publish salaries on job adverts, Andy Burnham has announced, in an effort to empower both employees and jobseekers. The prime minister said his government would bring in a legal requirement for companies to say what they pay when listing new jobs, which campaigners say will help young people and women in particular achieve more equal pay. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/7be38b4c9d96e2e92e9362d0d1df716fa0472332/634_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=05d8e92e573867f037d96116a46e368e",
    "lang": "en"
   },
   {
@@ -987,27 +1293,12 @@
    "lang": "en"
   },
   {
-   "title": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnpPZ2l0SS1MRTJJQk1ZRWFuWGpBNG1tdGd5amlEaEN4TFR3VmNvSlBOVXA3OTJBMzE0azNrR1o3QkhVZ0lpcXhJejJGMEM5VTJEVnVsckZ0WWcyQ3doVVJGOFZQNTlYSGhIdTlZOHJTLS1wQzRYemVKRzBXSlhuUjIyQzg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T08:32:04+00:00",
-   "summary": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos Financial Times Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live The Guardian Stock Market Today: Asian Stocks Swoon as Selloff Spreads WSJ Paraguay President Peñ",
-   "body": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos Financial Times Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live The Guardian Stock Market Today: Asian Stocks Swoon as Selloff Spreads WSJ Paraguay President Peña under investigation, faces removal from office over bank collapse AP News Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble CNBC",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Japan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
    "source": "Google News",
    "published": "2026-11-06T08:30:00+00:00",
-   "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times U.S. House Election Results The New York Times US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows The Guardian Midterms 20",
-   "body": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times U.S. House Election Results The New York Times US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows The Guardian Midterms 2026 election results and latest updates: Mississippi votes still being counted in Senate nail-biter after Democrats take control of Congress Yahoo The dawn of the post-Trump era Engelsberg Ideas",
+   "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times U.S. House Elections 2026 Live Results: Democrats Win Control NBC News Midterms Analysis: A Blue Wave Just Crashed on Trump The New Yorker After sweeping midterm wins, here'",
+   "body": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times U.S. House Elections 2026 Live Results: Democrats Win Control NBC News Midterms Analysis: A Blue Wave Just Crashed on Trump The New Yorker After sweeping midterm wins, here's what Democrats hope to get done in the majority NPR Democrats secure resounding US midterms victory as voters deliver rebuke to Trump - as it happened Reuters",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1103,21 +1394,6 @@
    "lang": "en"
   },
   {
-   "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-   "source": "The Guardian",
-   "published": "2026-11-06T08:11:24+00:00",
-   "summary": "Emergency services targeted with fireworks and police vehicle set alight in Glasgow Seven people were arrested in Glasgow after violence on Bonfire Night in parts of Scotland during which fireworks were launched at emergency services and a police vehicle was set alight. In what i",
-   "body": "Emergency services targeted with fireworks and police vehicle set alight in Glasgow Seven people were arrested in Glasgow after violence on Bonfire Night in parts of Scotland during which fireworks were launched at emergency services and a police vehicle was set alight. In what it called Operation Amberlight, Police Scotland deployed the largest number of officers to deal with disorder since the visit by the US president, Donald Trump, last year. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9bfef3a2b2445c85d1a812e11259a5e7bfa27a53/490_0_4897_3917/master/4897.jpg?width=140&quality=85&auto=format&fit=max&s=f2e17368b39296ce0fe9f9a3b2fd086c",
-   "lang": "en"
-  },
-  {
    "title": "OCBC third-quarter net profit up 3% on-year, above forecasts",
    "link": "https://www.channelnewsasia.com/singapore/ocbc-earnings-q3-2026-net-profit-6529241",
    "source": "CNA World",
@@ -1128,21 +1404,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--sm5-dbht--/c_crop,h_449,w_799,x_1,y_51/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-05T231829Z_1_LYNXNPEMA42FP_RTROPTP_3_OCBC-RESULTS.JPG?itok=BguX05KG",
-   "lang": "en"
-  },
-  {
-   "title": "Judge halts Trump’s arch after federal panel approves it - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjBRT0VzU19iY2dJQ1d3NGFOaWlpTVhBOVZzWDBzc3Q4bW04RDFBMXhoZTR0N3dPaU9sbm1QSkpTRDRnRmpYd2c1Z0NMdWRZN0RoQnlPUkF3U3JJZVA2YU4tcFpPODQ4Tmc3eXNIVFhDQmZ5RzdUOTlFbVpGV0JxSURNR0hQVzQ2QW0xQzlDaXhIcDF3UVFVZU1nYmdPdVlxMU1BMXFvVVAwMHZ1V3dSX2FVanB0VTVP?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T08:09:20+00:00",
-   "summary": "Judge halts Trump’s arch after federal panel approves it The Washington Post Judge blocks construction of Trump’s arch within an hour of its final approval CNN Judge blocks Trump's 250-foot triumphal arch hours after final planning approval WJLA Trump arch project near Arlington ",
-   "body": "Judge halts Trump’s arch after federal panel approves it The Washington Post Judge blocks construction of Trump’s arch within an hour of its final approval CNN Judge blocks Trump's 250-foot triumphal arch hours after final planning approval WJLA Trump arch project near Arlington Cemetery expected to be approved amid court battles NBC4 Washington Judge blocks construction of Trump's massive arch after federal agency approval BBC",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1158,32 +1419,6 @@
     "Myanmar"
    ],
    "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/871735857_1556249039868152_847928866674385038_n-1024x683.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "UK house prices fall at steepest rate in more than three years",
-   "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
-   "source": "The Guardian",
-   "published": "2026-11-06T08:05:48+00:00",
-   "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market Business live – latest updates UK house prices fell at the steepest rate in more than three years in October, marking the fourth consecutive monthly decline, as high ",
-   "body": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market Business live – latest updates UK house prices fell at the steepest rate in more than three years in October, marking the fourth consecutive monthly decline, as high mortgage rates hit the housing market. The average price of a typical UK property stood at £296,285 last month as prices unexpectedly fell 0.6% compared with September, the steepest fall since the lender Lloyds recorded a 1.6% drop in August 2023. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/2ebb696b77a37ed8196d914f97c1d230ff695a79/388_4_4206_3367/master/4206.jpg?width=140&quality=85&auto=format&fit=max&s=09baa073558cd8686a39336df9725357",
-   "lang": "en"
-  },
-  {
-   "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-   "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-   "source": "NYT World",
-   "published": "2026-11-06T08:00:04+00:00",
-   "summary": "More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
-   "body": "More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -1279,21 +1514,6 @@
    "lang": "en"
   },
   {
-   "title": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him? - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T07:31:12+00:00",
-   "summary": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him? WSJ",
-   "body": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him? WSJ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
    "link": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1370,6 +1590,22 @@
    "lang": "en"
   },
   {
+   "title": "1717 Days of russia-Ukraine War – russian Casualties in Ukraine - Defense Express",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVpELTRGR2VWUXRpc2pnY2tnVmxUazcydmNkOTR2Rl9sMVZBUGhuODRPdDdaTEJPeWtSLWRzR0oyTE43MU1GT0ZsTnRaV3lEelVVczZiMDQyZE9jcWxrYW81QUh3bW9EWkpfRFQzM0FneXRfak1SdXZ5OXBrb21jYmNtbW1uXzhna2liVll5aFRMMkcxWDlnRENZaWF0SE96amswc3RB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T07:21:19+00:00",
+   "summary": "1717 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
+   "body": "1717 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "South Africa's ANC party on track to face 'nightmare' losses in municipal elections",
    "link": "https://www.france24.com/en/africa/20261106-south-africa-anc-party-on-track-to-face-nightmare-losses-in-municipal-elections",
    "source": "France 24",
@@ -1394,6 +1630,21 @@
    "countries": [
     "Ukraine",
     "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Japan’s Nikkei Breaks Below Key 60,000 Level on AI Selloff - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5hQzNwU0VSZVBHUnhVeTZ3RjVZUk1Xd0JsUnN2aG5FVlY3UkZ0emEtT0p5dkVYUXlmUmpOYXZ5YkRpdGhfdGJ0MjVNdmVYYUx4S3JPQ0tIUU1WUjlmdUNFVTdBVXMzT0R5ekY4TlRCdDFKZkpXS2lvYXozZ0lKeEZMMnVoU0dMTEZkN1VqLUhLYWtLeGJNeDJmZkl3ZFQxVm04MllrMW5UbENIMkE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T07:11:05+00:00",
+   "summary": "Japan’s Nikkei Breaks Below Key 60,000 Level on AI Selloff Bloomberg.com See more headlines & perspectives on Google News",
+   "body": "Japan’s Nikkei Breaks Below Key 60,000 Level on AI Selloff Bloomberg.com See more headlines & perspectives on Google News",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Japan"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1439,22 +1690,6 @@
    "is_war": true,
    "countries": [
     "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nikkei Falls 6.0%, Posts Biggest Loss in 1.5 Years - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXo4QW9qZVVXdU5oMzRhVlRKSElBYzd3eElBdWdrQjQ1M1Z5eEtfS3ROd1ZicTF3azg4ZWNuQXdTMktrUklIUTB3WTFSWVJyeTBmOC1pbW5GSDF1amJZQWRaWXBYUXFSMGoxSjlYQWpyOGFvZ003ckdVME1lWl85SzRRMUVtbUtyZ0hJ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T06:55:00+00:00",
-   "summary": "Nikkei Falls 6.0%, Posts Biggest Loss in 1.5 Years WSJ Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap Bloomberg.com Tech selloff, defence weakness weigh on European shares Reuters Europe Stocks Dip, Swiss Franc Rises as Investors Seek Havens WSJ Live: European st",
-   "body": "Nikkei Falls 6.0%, Posts Biggest Loss in 1.5 Years WSJ Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap Bloomberg.com Tech selloff, defence weakness weigh on European shares Reuters Europe Stocks Dip, Swiss Franc Rises as Investors Seek Havens WSJ Live: European stocks plunge after US midterm election results shock markets France 24",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1628,7 +1863,7 @@
    "lang": "en"
   },
   {
-   "title": "Did a data centre revolt affect the US mid-term election results?",
+   "title": "Did a data centre revolt affect the US midterm election results?",
    "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-06T06:01:13+00:00",
@@ -1640,139 +1875,6 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/909d6da0-d90b-11f1-b72c-d16cdc75f35f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "The Dark Side of K-Pop",
-   "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
-   "source": "NYT World",
-   "published": "2026-11-06T06:00:53+00:00",
-   "summary": "As the popularity of the genre has surged, a dispute between a band and its label has put a spotlight on restrictive artist contracts.",
-   "body": "As the popularity of the genre has surged, a dispute between a band and its label has put a spotlight on restrictive artist contracts.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-theworld-kpop-contracts-01-zwmq-promo/06int-theworld-kpop-contracts-01-zwmq-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-06T06:00:46+00:00",
-   "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-   "body": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/101312f0-d9cb-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "'I look at the sea and talk to them': Why some families prefer scattering loved ones’ ashes at sea",
-   "link": "https://www.channelnewsasia.com/singapore/ash-scattering-sea-inland-ferry-options-cost-6526686",
-   "source": "CNA World",
-   "published": "2026-11-06T06:00:00+08:00",
-   "summary": "Funeral providers expect private arrangements for sea scattering to still appeal to families, even as a government-led ferry service begins next year.",
-   "body": "Funeral providers expect private arrangements for sea scattering to still appeal to families, even as a government-led ferry service begins next year.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--xwqjzAsl--/c_crop,h_815,w_1449,x_1,y_145/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/05/copy_of_54_hero_image_composites_33.png?itok=mKxYcxzO",
-   "lang": "en"
-  },
-  {
-   "title": "Commentary: Singapore’s haze law gets sharper teeth. Will it finally bite?",
-   "link": "https://www.channelnewsasia.com/commentary/singapore-haze-law-indonesia-fire-companies-pay-6527156",
-   "source": "CNA World",
-   "published": "2026-11-06T06:00:00+08:00",
-   "summary": "Previously, Singapore could act only after its skyline had faded. Now it has the power to do more before the haze arrives, says NUS law researcher Sean D Tseng.",
-   "body": "Previously, Singapore could act only after its skyline had faded. Now it has the power to do more before the haze arrives, says NUS law researcher Sean D Tseng.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--wd62MGgB--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/16/mar_4927_copy.jpg?itok=V77zUiYO",
-   "lang": "en"
-  },
-  {
-   "title": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkFtYUt5VTVfY0Jwd0loblV6czFQc1hyc3Y3TkJpYUYyVEhEbGR6RkI4ZDR4RlcyNHpTdEI0X0g4akRTYlpfWWJLQzRsNE0zMEtNa3owSkk0NENUQmY2SlZRcHhLdlB3ejIxS2VOVmtNZVVsQ3JxLWdqcVpoMjRNUlo4MHpHelRxMy14dU5Yb213Zk14WDNHNnk1R2lwc3dYN3lIOHREY0VUT3NrRDlUYzN6cnVNR0ZnSTdn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T06:00:00+00:00",
-   "summary": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back Reuters",
-   "body": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T05:59:54+00:00",
-   "summary": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-   "body": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793944630.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "US Justice Department sues Penn State over undocumented students’ tuition",
-   "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T05:57:27+00:00",
-   "summary": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
-   "body": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26309760114942-1793941113.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-   "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-   "source": "NYT World",
-   "published": "2026-11-06T05:49:51+00:00",
-   "summary": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
-   "body": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUEyZjB3N1NrbGkwT0J1WlIwalNhc2l1TlZBbHRnTTUyc2FxS0lEb2hwN0UtcGlUYWhsRWhQRzdIME1CVEJHcjBsRFI4d29yMlhKRmlfTUt4RjhIQU9BV0ZLWVNxYnZ1NGl0SndWQjJHRGZ5Snl0NGlla25tRFROTnFvYU5FUHZjTERoR2g3TDd2VWhkRDdxSlI1eVNGaU1rSjhEamM0RkVzQmZHLU5lcWU3WGJHeENlWW5vTFEwSE1DX2M?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T05:33:04+00:00",
-   "summary": "Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division The Washington Post Harmeet Dhillon, controversial head of Justice Department's Civil Rights Division, resigns CBS News DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait unti",
-   "body": "Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division The Washington Post Harmeet Dhillon, controversial head of Justice Department's Civil Rights Division, resigns CBS News DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms Fox News The DOJ Official Who Spent 19 Months Terrorizing Colleges Is Resigning Mother Jones Harmeet Dhillon, architect of Trump's failed voter roll crusade, resigns from Justice Department Democracy Docket",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1790,90 +1892,6 @@
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/725097196_1452832160215289_2787976803609637261_n-1024x724.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Paraguay Congress rejects President Pena’s resignation after bank collapse",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVm55WG55elNnbTlZX2lRaTZXaTFtWTZ2V2dadllWUElfaDNqbGgwaTQySUpDeFpYWTFuUDZCYXNVWmlkbjlDaDc0Y0xzUDNDSW1uTkJnbmNTcmxwaU1FR2FsN3o0SmtoTnJDVzFIZ19fTnZ6UDM0dmRVT3ZFLXc5UGlZa3A3bVYwTEpkaE5PLWdWd1FCbFdkYlB2TUFqbG9iZ2fSAacBQVVfeXFMUFdwRkZkQ2c2TDhZZjd2OHlIak5neHlnZ2dteFlKUVZfdWE1TTRyU0RZU0ZNNFFVM0hESkhiYkh0clVwYzcyeGhVLUNhT0dQd1VHTGVhamFiekVKel8temIxaW1USkpZMTNQN1MtaFJ4bFVXcFExeHhOVjVjdlRObUlQQXI4Q05JeHQ4NG5VWlBiOHRWRnpRQmJqT3lxLVFkaG8wWW1TTms?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T05:19:59+00:00",
-   "summary": "Paraguay Congress rejects President Pena’s resignation after bank collapse Al Jazeera What is ueno bank and how did it trigger Paraguay's political crisis? Reuters President of Paraguay faces criminal investigation and impeachment after bank collapse CNN Paraguay’s president out ",
-   "body": "Paraguay Congress rejects President Pena’s resignation after bank collapse Al Jazeera What is ueno bank and how did it trigger Paraguay's political crisis? Reuters President of Paraguay faces criminal investigation and impeachment after bank collapse CNN Paraguay’s president out after bank implosion freezes millions of accounts The Washington Post Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal The New York Times",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-06T05:17:05+00:00",
-   "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision to",
-   "body": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision to shoot Jesse Baird but did not intend to kill him, the New South Wales supreme court has heard. The former police officer is accused of fatally shooting Baird and his partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/336_411_2586_2069/master/2586.jpg?width=140&quality=85&auto=format&fit=max&s=9a5f3abc3983e279aa19d1b12155d691",
-   "lang": "en"
-  },
-  {
-   "title": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3NGMHFJQlQwNk4yNzFPblZsOHRFS0FBcmc0b3JxbGRoSnUzUC00WGctejhmNllYa094VGFmMHJrSWYyaUhBRlFERkdKbktXSmRkcWhhc21JVUp5Z29kbFVtTE11YjZnc3ZkZU5jM3BvbmRqUVVyUDBveF9OTmJXd1poLVI1LVhlRUVfUjhzczh2b2t3cnZuTUc4UDExWXFmVWlQZ2R4MHVQaGllbnljdlR2UQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T05:08:00+00:00",
-   "summary": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants AP News America got the anti-data-center wave it voted for. Here come the economic consequences CNN Top Democrats call to rein in AI buildout after midterms sweep: 'National data center",
-   "body": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants AP News America got the anti-data-center wave it voted for. Here come the economic consequences CNN Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now' CNBC Silicon Valley’s Very Bad Night The Atlantic Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny. The New York Times",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Republicans rammed through Supreme Court nominees. Now Democrats will have the votes to stop them - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE9EY1RuekxrZG90a2VFVHJZY2kxS21qa21NcVBXX0wzdEZrVzRBOFZUaS1qclpMRUZKRXlRRXZkcDRDYWJUTUw2ZUxGRTJ2bERkZEJKbllFbU8xTjFJMlNBTGZ4cjFqWTB0djhfUUtuQk5uVWU2bXJpX0RmbDB2QzM2eEZVOW5WX2tiTHhrMGpoWmRxcW5HU2JFWDFNa1hnQW1sNTdETTltV1k?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T05:06:00+00:00",
-   "summary": "Republicans rammed through Supreme Court nominees. Now Democrats will have the votes to stop them AP News Chuck Schumer just won a huge majority. He’s already thinking about making it bigger. Politico Chuck Schumer’s Revenge The Atlantic Schumer has votes for majority leader desp",
-   "body": "Republicans rammed through Supreme Court nominees. Now Democrats will have the votes to stop them AP News Chuck Schumer just won a huge majority. He’s already thinking about making it bigger. Politico Chuck Schumer’s Revenge The Atlantic Schumer has votes for majority leader despite some Democratic dissent The Hill Chuck Schumer Was Democrats’ Punching Bag. Now He’s Riding High. WSJ",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
-   "link": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T05:03:57+00:00",
-   "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
-   "body": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26307738679739-1793905417.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
-   "link": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
-   "source": "France 24",
-   "published": "2026-11-06T05:02:06+00:00",
-   "summary": "Asian tech stocks fell sharply on Friday, driven by fears of tighter AI regulation following Democrats’ US midterm election victory. US voters widely oppose Data centres, and many winning candidates pledged to curb their development.",
-   "body": "Asian tech stocks fell sharply on Friday, driven by fears of tighter AI regulation following Democrats’ US midterm election victory. US voters widely oppose Data centres, and many winning candidates pledged to curb their development.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg",
-   "lang": "en"
   },
   {
    "title": "ရီပတ်ဘလီကန်ရွေးကောက်ပွဲရှုံးလို့ ဟက်ဂ်ဆက်သ်နဲ့ ရူဘီယို ရာထူးကနုတ်ထွက်ဖို့မရှိ",
@@ -2149,22 +2167,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/mwdshp4nof-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "အမေရိကန် ရွေးကောက်ပွဲရလဒ် မြန်မာအပေါ် ဘယ်လိုသက်ရောက်မလဲ",
-   "link": "https://burma.irrawaddy.com/video/2026/11/04/417445.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-04T13:28:56+00:00",
-   "summary": "အမေရိကန် Midterm Elections ကို နိုဝင်ဘာ ၃ ရက်နေ့က ကျင်းပခဲ့ရာ ကနဦးမဲရလဒ်တွေအရ ဒီမိုကရက်တစ် ပါတီဟာ အထက်လွှတ်တော်နဲ့ အောက်လွှတ်တော် နှစ်ရပ်လုံးမှာ နေရာ အများစု အနိုင်ရရှိထားပြီဖြစ်ပါတယ်။",
-   "body": "အမေရိကန် Midterm Elections ကို နိုဝင်ဘာ ၃ ရက်နေ့က ကျင်းပခဲ့ရာ ကနဦးမဲရလဒ်တွေအရ ဒီမိုကရက်တစ် ပါတီဟာ အထက်လွှတ်တော်နဲ့ အောက်လွှတ်တော် နှစ်ရပ်လုံးမှာ နေရာ အများစု အနိုင်ရရှိထားပြီဖြစ်ပါတယ်။\n\nလက်ရှိ လွှတ်တော် အာဏာချိန်ခွင်လျှာ အပြောင်းအလဲဟာ သမ္မတ ဒေါ်နယ်ထရမ့်ရဲ့ အစိုးရအဖွဲ့ လုပ်ဆောင်ချက်တွေကို အတိုက်အခံ ဒီမိုကရက်တစ် ပါတီ ဘက်က ပိုမိုစောင့်ကြည့်ထိန်းကျောင်းနိုင်တဲ့ အခြေအနေ ဖြစ်လာတယ်လို့ ဆိုကြပါတယ်။\n\nဒါ့အပြင် လက်ရှိ ရွေးကောက်ပွဲရလဒ်ဟာ မြန်မာ့အရေး အပေါ်လည်း အကျိုးသက်ရောက်မှု ရှိကြောင်း အမေရိကန် အစိုးရအသိုင်းအဝိုင်းကြား မြန်မာ့ဒီမိုကရေစီအရေး စည်းရုံးလှုံ့ဆော်မှု လုပ်ဆောင်နေသူတွေက ပြောပါတယ်။\n\nတဖက်မှာလည်း ရွေးကောက်ပွဲရလဒ်နဲ့ပတ်သက်လို့ သမ္မတဒေါ်နယ်ထရမ့် က ဒီမိုကရက်တစ်ပါတီရဲ့ အနိုင်ရမှုကို ဂုဏ်ပြုကြောင်းနဲ့ တိုင်းပြည်အကျိုး အတွက် ပူးပေါင်းလုပ်ဆောင်သွားလိုကြောင်း ပြောဆိုထားပါတယ်။\n\nဒါပေမဲ့ ဒီမိုကရက်တွေ တင်သွင်းလာမယ့် ဥပဒေကြမ်းတွေကို လိုအပ်ရင် ဗီတိုအာဏာသုံးပြီး ပယ်ချနိုင်တယ်လို့လည်း CBS သတင်းဌာနနဲ့ တွေ့ဆုံမေးမြန်းခန်းမှာ ပြောဆိုထားပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #အမေရိကန် #ရွေးကောက်ပွဲ #MidtermElections",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/US1-900x506.jpg",
    "lang": "my"
   }
  ]
