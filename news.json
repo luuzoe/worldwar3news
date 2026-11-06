@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T02:38:53.503812+00:00",
- "updated_yangon": "2026-11-06 09:08",
+ "updated": "2026-11-06T03:38:52.066673+00:00",
+ "updated_yangon": "2026-11-06 10:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -8,6 +8,7 @@
   "BBC News",
   "CNA World",
   "DW",
+  "France 24",
   "Google News",
   "Google News · Middle East",
   "Google News · Ukraine",
@@ -20,15 +21,15 @@
  "countries": [
   [
    "United States",
-   65
-  ],
-  [
-   "Ukraine",
-   24
+   60
   ],
   [
    "Russia",
-   22
+   20
+  ],
+  [
+   "Ukraine",
+   19
   ],
   [
    "Myanmar",
@@ -40,11 +41,15 @@
   ],
   [
    "France",
-   6
+   5
   ],
   [
    "Iran",
-   5
+   4
+  ],
+  [
+   "Japan",
+   3
   ],
   [
    "Palestine",
@@ -55,7 +60,7 @@
    3
   ],
   [
-   "India",
+   "Turkey",
    3
   ],
   [
@@ -67,7 +72,7 @@
    2
   ],
   [
-   "Turkey",
+   "India",
    2
   ],
   [
@@ -79,19 +84,11 @@
    2
   ],
   [
-   "Japan",
-   1
-  ],
-  [
-   "Belarus",
+   "South Korea",
    1
   ],
   [
    "Yemen",
-   1
-  ],
-  [
-   "NATO",
    1
   ]
  ],
@@ -106,15 +103,67 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 20,
+ "war_count": 17,
  "languages": {
   "my": 25,
   "en": 115
  },
  "items": [
   {
+   "title": "Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16",
+   "link": "https://www.channelnewsasia.com/singapore/cross-border-taxi-quota-increase-singapore-malaysia-6529936",
+   "source": "CNA World",
+   "published": "2026-11-06T11:21:00+08:00",
+   "summary": "CDG Zig and Kumpool will join Grab as licensed operators under the Cross-Border Taxi Scheme from Nov 16.",
+   "body": "CDG Zig and Kumpool will join Grab as licensed operators under the Cross-Border Taxi Scheme from Nov 16.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--6LHwBt3t--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/04/img_1434.jpg?itok=N42wgmst",
+   "lang": "en"
+  },
+  {
+   "title": "SingPost's first-half net profit rises 183.7% to S$55.9 million on HDB shophouse sale and leaseback",
+   "link": "https://www.channelnewsasia.com/singapore/singpost-results-net-profit-h1-fy2026-2027-6529541",
+   "source": "CNA World",
+   "published": "2026-11-06T11:03:00+08:00",
+   "summary": "Excluding one-off gains, SingPost's underlying net profit more than doubled to S$11.5 million, despite a decline in revenue.",
+   "body": "Excluding one-off gains, SingPost's underlying net profit more than doubled to S$11.5 million, despite a decline in revenue.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--dlWauS2n--/c_crop,h_900,w_1600,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/06/04/singpost_automated_parcel_sortation_facility_22.jpg?itok=hwpL3Yig",
+   "lang": "en"
+  },
+  {
+   "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
+   "link": "https://www.channelnewsasia.com/entertainment/trevor-noah-pickleball-singapore-jaime-teo-6529806",
+   "source": "CNA World",
+   "published": "2026-11-06T10:57:00+08:00",
+   "summary": "The South African comedian, who was in Singapore for three comedy shows from Nov 3 to 5, played pickleball with local enthusiasts and actress Jaime Teo, and even gave some of his fellow players complimentary tickets to his performances.",
+   "body": "The South African comedian, who was in Singapore for three comedy shows from Nov 3 to 5, played pickleball with local enthusiasts and actress Jaime Teo, and even gave some of his fellow players complimentary tickets to his performances.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--WydemrGP--/c_crop,h_1125,w_2000,x_0,y_123/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/06/trevor_noah_pickleball_singapore.png?itok=oymSK6y2",
+   "lang": "en"
+  },
+  {
+   "title": "CTC Travel warns of impersonation scams offering discounted holiday packages to seniors",
+   "link": "https://www.channelnewsasia.com/singapore/ctc-travel-impersonation-scam-seniors-6529801",
+   "source": "CNA World",
+   "published": "2026-11-06T10:51:22+08:00",
+   "summary": "CTC Travel says it received reports of scammers using its name and images to advertise 20 all-inclusive travel packages for seniors.",
+   "body": "CTC Travel says it received reports of scammers using its name and images to advertise 20 all-inclusive travel packages for seniors.",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--PGTv9nyR--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/08/19/istock-1352603244.jpg?itok=_h2TAHgs",
+   "lang": "en"
+  },
+  {
    "title": "Woman linked to Cambodia-based syndicate Prince Holding Group charged",
-   "link": "https://www.channelnewsasia.com/singapore/woman-linked-cambodia-based-syndicate-prince-holding-group-charged-6529261",
+   "link": "https://www.channelnewsasia.com/singapore/prince-holding-group-woman-charged-6529261",
    "source": "CNA World",
    "published": "2026-11-06T10:25:00+08:00",
    "summary": "Chen Xiu Ling, also known as Karen Chen, was handed one charge each for instigating another person to falsify accounts and for attempted cheating.",
@@ -167,10 +216,10 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တာမရှိဘူးလို့ ဂျပန်ပြော",
+   "title": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တာမရှိဘူးလို့ ဂျပန်တုံ့ပြန်",
    "link": "https://www.bbc.co.uk/burmese/live/cm3ell19z52xt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-06T02:39:10+00:00",
+   "published": "2026-11-06T03:38:52+00:00",
    "summary": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တယ်ဆိုတဲ့သတင်းတွေကို ဂျပန်အစိုးရက ငြင်းဆိုတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တယ်ဆိုတဲ့သတင်းတွေကို ဂျပန်အစိုးရက ငြင်းဆိုတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Asia-Pacific",
@@ -186,7 +235,7 @@
    "title": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်",
    "link": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-06T02:39:10+00:00",
+   "published": "2026-11-06T03:38:52+00:00",
    "summary": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "မြန်မာ့သနပ်ခါး UNESCO စာရင်းဝင်သင့်ကြောင်း ကနဦးသတ်မှတ်ချက်ထွက်ပေါ်လာတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Myanmar",
@@ -198,42 +247,10 @@
    "lang": "my"
   },
   {
-   "title": "ရီပတ်ဘလီကန်လက်ထဲက ကွန်ဂရက်လွှတ်တော်ကို ဒီမိုကရက်တွေပြန်ယူ",
-   "link": "https://www.bbc.co.uk/burmese/live/cmn4enp2dpgpt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-06T02:39:10+00:00",
-   "summary": "ဒီမိုကရက်တွေက ကွန်ဂရက်လွှတ်တော်ကို ရီပတ်ဘလီကန်တွေလက်ထဲကနေ ပြန်ယူတဲ့သတင်းအပါအ၀င် အမေရိကန်မှာကျင်းပနေတဲ့ သမ္မတသက်တမ်း၀က်ရွေးကောက်ပွဲ ထူးခြားချက်တွေကို အထူးစာမျက်နှာအနေနဲ့ တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "body": "ဒီမိုကရက်တွေက ကွန်ဂရက်လွှတ်တော်ကို ရီပတ်ဘလီကန်တွေလက်ထဲကနေ ပြန်ယူတဲ့သတင်းအပါအ၀င် အမေရိကန်မှာကျင်းပနေတဲ့ သမ္မတသက်တမ်း၀က်ရွေးကောက်ပွဲ ထူးခြားချက်တွေကို အထူးစာမျက်နှာအနေနဲ့ တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9562/live/ccd23720-d82e-11f1-be97-417dbcdedd32.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "Israel faces new era of sinking US support after election",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1ViSV9YS2pObTFBcjR2aFdXUE5fSVprU0FIMnM4MkJvckdaQmlyc0Y4TF9jSmR3ZEJ4NUFENE5fcVZHbWFTb0ZUNVdmUjJ4OWppbU9RekxzRGJYQlBFLXZ2aTVxVjZqNWtHcGdzendhM0ptLXlVRVRSOU9DZ2R6SE1fMmkzZGVXOVpDTDdDNi1rV2lWeGxQMnJibHRaZ0VhQWF3cTk1Zw?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-06T02:33:55+00:00",
-   "summary": "Israel faces new era of sinking US support after election France 24",
-   "body": "Israel faces new era of sinking US support after election France 24",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Israel",
-    "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
    "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
    "source": "NYT World",
-   "published": "2026-11-06T02:30:48+00:00",
+   "published": "2026-11-06T03:34:12+00:00",
    "summary": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
    "body": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
    "category": "Global",
@@ -245,16 +262,228 @@
    "lang": "en"
   },
   {
-   "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
+   "title": "Trump signs order preventing future presidents from changing Oval Office",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T03:33:25+00:00",
+   "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+   "body": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbF9lT19xQTNjOFpGV3BaQzBrU19rUGpQTkNnTS0wRmRnUkp2b3JqVHJGOUN0bVRJeG42ZUhWeUVyaEFoWU5MWnliX1p2SlVpN3BmeDFhNWt0dUZrczJnTC15NmxJaGFucjdUbWZyNElJZXB3VGxRQjM1RTctT0lVX0k4YTBEWGw1cks3clh3aTBJd0ZEQ3g0b0k0Z20yOThPR0pydkN4emVOSzRfdnhCeEg3WlQxc0kxMFBjb1p3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T03:33:13+00:00",
+   "summary": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns The Washington Post Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find The New York Times More parents are declining vitamin K shots for newborns, putting more babies at risk of b",
+   "body": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns The Washington Post Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find The New York Times More parents are declining vitamin K shots for newborns, putting more babies at risk of bleeding: Study ABC News - Breaking News, Latest News and Videos US infant bleeding episodes jump as vitamin K refusals rise, two studies find Reuters More Babies in US Are Dying After Parents Refuse Vitamin K Shots Bloomberg.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israel faces new era of sinking US support after election - Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVc5NV9tR2VVNnRjcEUxVXZUaXdsdHJXYmdaVlhYR3Z2WksxQjFfRlB5aEkzWHdHdTdnblVQRDhLeW9oMVVaRWRweGljZm85WUVWZ3ROTTk5ak1aNUd3dVRaY1pLbThudVo4OFN0Y3padF84M2VpTHgybHRmbU40MVJfSU45cTI5anpMSGl3TUZKQlVPQjc3dTA5ZTU?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-06T03:25:25+00:00",
+   "summary": "Israel faces new era of sinking US support after election Daily Sun",
+   "body": "Israel faces new era of sinking US support after election Daily Sun",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Woman, 90, shot during Bondi beach massacre dies in hospital year after antisemitic attack",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-06T03:14:09+00:00",
+   "summary": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacr",
+   "body": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacre. The 90-year-old woman had been in and out of hospital this year for treatment of injuries sustained during the attack on 14 December, a senior Jewish community source said on Friday. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/72259763e62364f247e27c55fd8470a097d78fcb/117_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3139c875b5f912c45fb980a8414a9b0d",
+   "lang": "en"
+  },
+  {
+   "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "source": "The Guardian",
+   "published": "2026-11-06T03:00:46+00:00",
+   "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brough",
+   "body": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
+   "lang": "en"
+  },
+  {
+   "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T03:00:46+00:00",
+   "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times Democrats have ousted at least 30 Republican incumbents, from swing districts to GOP strongholds CNN The Evening: The Blue Wave Swells The New York Times Five reasons why Re",
+   "body": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times Democrats have ousted at least 30 Republican incumbents, from swing districts to GOP strongholds CNN The Evening: The Blue Wave Swells The New York Times Five reasons why Republicans lost so badly BBC Voters reject Trump’s GOP as Democrats rack up wins NBC News",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-06T02:57:24+00:00",
+   "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+   "body": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T02:53:00+00:00",
+   "summary": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap Bloomberg.com Japan’s stock benchmark Nikkei tumbles more than 6% after trading opens AP News Asia stocks to drop after AI rout rocks US markets Yahoo Finance Japan’s Nikkei Breaks Below Key 60,000 Level on AI Sellof",
+   "body": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap Bloomberg.com Japan’s stock benchmark Nikkei tumbles more than 6% after trading opens AP News Asia stocks to drop after AI rout rocks US markets Yahoo Finance Japan’s Nikkei Breaks Below Key 60,000 Level on AI Selloff Bloomberg.com Shares plunge in Tokyo and Seoul after US tech rout CNA",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "South Korea",
+    "Japan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "ရီပတ်ဘလီကန်ရွေးကောက်ပွဲရှုံးလို့ ဟက်ဂ်ဆက်သ်နဲ့ ရူဘီယို ရာထူးကနုတ်ထွက်ဖို့မရှိ",
+   "link": "https://www.bbc.com/burmese/articles/cm0j00gnx452o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-06T02:51:07+00:00",
+   "summary": "ရီပတ်ဘလီကန်ပါတီ ရွေးကောက်ပွဲမှာ အကြီးအကျယ် ရှုံးနိမ့်ခဲ့ပြီးနောက် ဟက်ဂ်ဆက်သ်နဲ့ ရူဘီယို နှစ်ဦး ရာထူးကနေ ထွက်ခွာရနိုင်တယ်ဆိုတဲ့ သတင်းတွေကို ထရမ့်အစိုးရအဖွဲ့က အရေးမကြီးသလို သဘောထားပြီး တုံ့ပြန်ထားပါတယ်။",
+   "body": "ရီပတ်ဘလီကန်ပါတီ ရွေးကောက်ပွဲမှာ အကြီးအကျယ် ရှုံးနိမ့်ခဲ့ပြီးနောက် ဟက်ဂ်ဆက်သ်နဲ့ ရူဘီယို နှစ်ဦး ရာထူးကနေ ထွက်ခွာရနိုင်တယ်ဆိုတဲ့ သတင်းတွေကို ထရမ့်အစိုးရအဖွဲ့က အရေးမကြီးသလို သဘောထားပြီး တုံ့ပြန်ထားပါတယ်။",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+   "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-06T02:48:19+00:00",
+   "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+   "body": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed15d3ae53-1793922515_78291e-1793931257.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Asian stocks slump after US tech rout amid AI jitters",
+   "link": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-06T02:41:00+00:00",
+   "summary": "Concerns that Democrats in the US will push back against data center projects are weighing on an AI trade that is already on shaky footing amid growing doubts about profitability.",
+   "body": "Concerns that Democrats in the US will push back against data center projects are weighing on an AI trade that is already on shaky footing amid growing doubts about profitability.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79871539_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
    "source": "The Guardian",
-   "published": "2026-11-06T02:13:20+00:00",
-   "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free",
-   "body": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon ‘had an idea’ to dress up as an UberEats rider Lamarre-Condon tells the court he had seen what he assumed to be someone’s delivery motorcycle: As soon as I saw that I had an idea … I saw a hi-vis hooded jacket, waterproof long pants and gloves. This moment here … I wish that I didn’t do this … But I had the thought process that if I was to put on this helmet and outfit I could knock on Jesse’s door I would look like an UberEats driver without any verbal interaction with Jesse. At the very least I would have had an AVO out against me … police don’t hesitate to put another police on an AVO … I was worried if I knocked on the door it would be perceived as harassment. Continue reading...",
+   "published": "2026-11-06T02:30:00+00:00",
+   "summary": "This blog has now closed Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon tells the court he had seen what he assumed to be someone’s delivery",
+   "body": "This blog has now closed Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon tells the court he had seen what he assumed to be someone’s delivery motorcycle: As soon as I saw that I had an idea … I saw a hi-vis hooded jacket, waterproof long pants and gloves. This moment here … I wish that I didn’t do this … But I had the thought process that if I was to put on this helmet and outfit I could knock on Jesse’s door I would look like an UberEats driver without any verbal interaction with Jesse. At the very least I would have had an AVO out against me … police don’t hesitate to put another police on an AVO … I was worried if I knocked on the door it would be perceived as harassment. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/482_143_2922_2337/master/2922.jpg?width=140&quality=85&auto=format&fit=max&s=46ef6642807aa142505cd61ffe7241d7",
+   "lang": "en"
+  },
+  {
+   "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
+   "source": "The Guardian",
+   "published": "2026-11-06T02:28:02+00:00",
+   "summary": "Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the campaign trail has hit",
+   "body": "Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the campaign trail has hit a snag, after its campaign bus reversed into the awning of a shopfront. The “Jess Express”, a large blue bus emblazoned with an image of the opposition leader, Jess Wilson, was unveiled on Friday, 12 days after Labor launched its own red equivalent. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/fc341bfdee8ecbb0db7ebd74914b764abfa779a1/515_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=13780e9d776baf5ee1bc1b3e3264f044",
+   "lang": "en"
+  },
+  {
+   "title": "Russia and Ukraine exchange airstrikes as U.S. envoy describes renewed security talks as productive",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDM3ZmJoLVEtcU9wWThfV3VhaXlPT0pTMEUtOGlEdkdvLWJ1VG43UDVxUWhkVTB0VHpTT0hlR2M1di1QZG9lZS1YZTFCWGNGWF9YclIwMDNPaG1kaGFsNTI1cm56eXp0RWNSZ2FyNUFvaUhOUDZ0RkVhcHhxNXpybUJVUUktQ0hNQmVvbjdZWmlPekhhdm1jdHVXd0FPNUFid0owcVNqTzBuaENOX0ZUaWhmYVpoRks3TDJr?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T02:27:00+00:00",
+   "summary": "Russia and Ukraine exchange airstrikes as U.S. envoy describes renewed security talks as productive NBC News",
+   "body": "Russia and Ukraine exchange airstrikes as U.S. envoy describes renewed security talks as productive NBC News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post - Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ydy11YjdmNERzVDdGeTV5X21CbDR1TjE3bFFqRHk2OU1EM2J3UDJHaHpibG9ubFhFWWF0WWc0SW1GNVJkWklLanlDTjJ0QQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T02:17:37+00:00",
+   "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post Kyiv Post",
+   "body": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post Kyiv Post",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -275,27 +504,12 @@
    "lang": "en"
   },
   {
-   "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-   "source": "The Guardian",
-   "published": "2026-11-06T02:09:49+00:00",
-   "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brough",
-   "body": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
-   "lang": "en"
-  },
-  {
    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-06T02:08:57+00:00",
-   "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
-   "body": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+   "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+   "body": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -320,21 +534,6 @@
    "lang": "en"
   },
   {
-   "title": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbF9lT19xQTNjOFpGV3BaQzBrU19rUGpQTkNnTS0wRmRnUkp2b3JqVHJGOUN0bVRJeG42ZUhWeUVyaEFoWU5MWnliX1p2SlVpN3BmeDFhNWt0dUZrczJnTC15NmxJaGFucjdUbWZyNElJZXB3VGxRQjM1RTctT0lVX0k4YTBEWGw1cks3clh3aTBJd0ZEQ3g0b0k0Z20yOThPR0pydkN4emVOSzRfdnhCeEg3WlQxc0kxMFBjb1p3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T02:03:13+00:00",
-   "summary": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns The Washington Post Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find The New York Times More parents are declining vitamin K shots for newborns, putting more babies at risk of b",
-   "body": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns The Washington Post Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find The New York Times More parents are declining vitamin K shots for newborns, putting more babies at risk of bleeding: Study ABC News - Breaking News, Latest News and Videos US infant bleeding episodes jump as vitamin K refusals rise, two studies find Reuters More Babies in US Are Dying After Parents Refuse Vitamin K Shots Bloomberg.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine-Russia war latest: UK refuses to invite Putin to G20 summit as Trump claims of ‘big agreement’",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3E5STRfUWpVNjVOVXYzQmg5aExyWGpyQnB0S0RCRk9haksxaWZFSXIyV0FuOGdYYzFQamdEaldFVXJwNmVYYXNNQTlWalpiaDdCelhFckN5c2k5NUczdGFCTTFWOHgxY251U0psS2JKU0RxTGtsaC1jZkdJdDN1Uk1WN2J5R2ZMYXJsTHk3a2lxS0diMzVKTWpqRUxoTVU?oc=5",
    "source": "Google News · Ukraine",
@@ -352,30 +551,13 @@
    "lang": "en"
   },
   {
-   "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZTAzc09IaFlUQWNrbmRIZFBWWFRFaHU0N2FaUGZCdnlnSTUzU016X0xyVkxRREFhTTdXd09vQzNFTUVwcDlCZklYaGpzbm1PTzZhRXpyRV9ZWi1mNTgtNlRZd09zd25DRlpIVUhJbHdTVTFTNDJOeU9pblp2anRhVXdDbDhIdEJXcUJnLTRnTktWQ2JYRXBKenVQTnlObHJEU2M1aG9jM3dPLVY2RHRkSklrY2dtYm9LdFhoZkRmdlcxbTBnNVI4Vzh4eGhWN3MwczkwX29qTk8xN3k0NEJKbUNFcWZzN2s?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-06T01:50:25+00:00",
-   "summary": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war The Washington Post",
-   "body": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war The Washington Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States",
-    "Belarus"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "How the Texas blue wave came crashing down on Republicans - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5",
+   "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEdYY1M2QU5OdnpSQU1ZcmUtNGozMDZYZGE1b202TVM1QjhpNy1INHRLZlZ2RmRORC1iY3dBRUR5OWhoYm1wR1NIbklRcTVLcTR4bEFmUzhQRXRnYTkxaTlnS0p4UHRBVmstRllPZlh3RXczTnhpM0p6WUxEbEZLbWtXUnVuUQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T01:45:58+00:00",
-   "summary": "How the Texas blue wave came crashing down on Republicans The Washington Post Election Day was extra credit: Talarico’s early votes alone topped Paxton’s entire haul Dallas News ‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texa",
-   "body": "How the Texas blue wave came crashing down on Republicans The Washington Post Election Day was extra credit: Talarico’s early votes alone topped Paxton’s entire haul Dallas News ‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texas NBC News The Night That Texas’s Seemingly Unchangeable Republican Identity Vanished The New Yorker Texas went so blue Talarico got more early votes than Paxton got in total Yahoo",
-   "category": "USA / Americas",
+   "published": "2026-11-06T01:54:18+00:00",
+   "summary": "OpenAI Pledges to Give Locals More Say in Data Center Projects The New York Times Setting a new standard for responsible AI infrastructure OpenAI Open AI makes pledges on data center operation after midterm backlash The Washington Post OpenAI kicks off charm offensive to change v",
+   "body": "OpenAI Pledges to Give Locals More Say in Data Center Projects The New York Times Setting a new standard for responsible AI infrastructure OpenAI Open AI makes pledges on data center operation after midterm backlash The Washington Post OpenAI kicks off charm offensive to change voters' view of data centers Reuters OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke CNBC",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
@@ -402,17 +584,18 @@
   },
   {
    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+   "source": "Google News",
    "published": "2026-11-06T01:44:03+00:00",
-   "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-   "body": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+   "summary": "Major tech stocks plunge as US midterms add to fears of AI slowdown BBC Massive tech sell-off wipes $2.5 trillion from the stock market CNN Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates CNBC Fears of an AI crackdown after midterms",
+   "body": "Major tech stocks plunge as US midterms add to fears of AI slowdown BBC Massive tech sell-off wipes $2.5 trillion from the stock market CNN Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates CNBC Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks NPR The Nasdaq Plunges 5%. What the Data Center Crash Means for Investors The Motley Fool",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "United States"
+    "United States",
+    "Japan"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -509,28 +692,28 @@
    "lang": "en"
   },
   {
-   "title": "Trump signs order preventing future presidents from changing Oval Office",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
+   "title": "Trump signs order to prevent future presidents from changing Oval Office",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMUZ5akFDc1lMeThXeEt4TjdYRTR4UjhyMl9Qbi13VjNxRjY2Q3h6Q1UtYmxiYjRvd3k2TDNjd21DckNiZWR5cTM2eWM5Yll4b0h5MzVMMW4zVTQ?oc=5",
+   "source": "Google News",
    "published": "2026-11-06T01:20:01+00:00",
-   "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
-   "body": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
+   "summary": "Trump signs order to prevent future presidents from changing Oval Office BBC Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News Trump signs proclamation to try to prevent changes to gold-covered Oval Office The Guardian Trump says ",
+   "body": "Trump signs order to prevent future presidents from changing Oval Office BBC Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News Trump signs proclamation to try to prevent changes to gold-covered Oval Office The Guardian Trump says he’s declaring Oval Office and Cabinet Room national landmarks to prevent future changes CNN Trump signs proclamation to prevent changes to Oval Office, other White House rooms Fox News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Trump signs order to prevent future presidents from changing Oval Office",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMUZ5akFDc1lMeThXeEt4TjdYRTR4UjhyMl9Qbi13VjNxRjY2Q3h6Q1UtYmxiYjRvd3k2TDNjd21DckNiZWR5cTM2eWM5Yll4b0h5MzVMMW4zVTQ?oc=5",
+   "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech - PBS",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTcyZFU0cm1FeXJWRnRZbnl6MzJ1dEVVaEpySnlsTmVNREVEeHhoM1VxV0hFRHhYdTVSbDJ6NWcxYVQ0dFJ5RzRFZkE3YUNnb05qNlphSjJscVVmcXhmMGlxN0RIMG1JeWlUZlM4WEhrQXA1NFk0RjZoQmJzSTU5VnZYakE5RFNSOWtTM3lvZHNaVHc0aFRSaE96SmFjTi11WDRqbW5ndlBJSjBwM3pUUEJ6MVBxdUVGZzRTMDZHc9IBxAFBVV95cUxNTWVZTmxXbXR5b1Z1YU5hc2RNcUZaVUpLVlJ1cEVGQVA1WUxrUVR4TVk5N0lyaWdMd3Y4MnVwT1NnT1BzaGtGQ3hpQTItRXpZN0JFbFowNDNHdUdXOVdwSzY0YnRqcWNHa0g1VWd1QVAyaVQ0dm9Dc3RrQmVFOEhuUzhvRkZjTUZMNzBuX0ZuQlF0cGhxWU9IMEFyeUdWOVNaSnlMQy1jenYzN21aYVBvclc4ODZhVG00TDQxXzRVM01KeFRr?oc=5",
    "source": "Google News",
-   "published": "2026-11-06T01:20:01+00:00",
-   "summary": "Trump signs order to prevent future presidents from changing Oval Office BBC Trump focuses on White House decor for second straight day in post-midterm remarks NBC4 Washington Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News Trum",
-   "body": "Trump signs order to prevent future presidents from changing Oval Office BBC Trump focuses on White House decor for second straight day in post-midterm remarks NBC4 Washington Trump makes the Oval Office a national monument. But future presidents can still redecorate AP News Trump signs proclamation to try to prevent changes to gold-covered Oval Office The Guardian Trump signs proclamation to prevent changes to Oval Office, other White House rooms Fox News",
-   "category": "USA / Americas",
+   "published": "2026-11-06T00:42:09+00:00",
+   "summary": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech PBS How Abdul El-Sayed actually did with Jewish voters Politico ‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech The Hill Abdul El-Sayed’s Senate Win",
+   "body": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech PBS How Abdul El-Sayed actually did with Jewish voters Politico ‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech The Hill Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith The New York Times Oil prices hit two-month low following decisive midterm election results The Washington Post",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
@@ -569,12 +752,59 @@
    "lang": "en"
   },
   {
+   "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T00:26:37+00:00",
+   "summary": "Bird Flu Death in Washington State Renews Concern Over the Virus The New York Times Bird flu didn’t turn into a pandemic, but it never went away, either NBC News What to know after Washington state resident dies of bird flu ABC News - Breaking News, Latest News and Videos Yakima ",
+   "body": "Bird Flu Death in Washington State Renews Concern Over the Virus The New York Times Bird flu didn’t turn into a pandemic, but it never went away, either NBC News What to know after Washington state resident dies of bird flu ABC News - Breaking News, Latest News and Videos Yakima County, Washington, reports 2 more avian flu cases, 1 death CIDRAP Bird Flu Could Become a Terrible Feature of Fall The Atlantic",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUU9NLS1KWVJlck9EWlJpOXZfOXlhTDlLTjVQWW5HdGlhQXpxRzd3WkF3VXVyRlF2MlpSQ0s3eFdZVG51MWZBRVROOUQ3bWtYTXhpbUV5SWJTbnhoZ1RuOUdXeGkzX2xZWVIzZm8wWmNTNU1EY3pScUpfa3oyajQ4TFZJV3lXcVk5dkZkaWx1MURHU0dsZmfSAZYBQVVfeXFMTUN3RVdOVEpyblZuY0ZxOEQzY0tPaDNseGZzcHN2V1BXMUt3dHhqdWxudld0dTh3cVBqYWR3ZVItNDZURTlQYlZ1VGhhbHk1N3dGVlRuY1c2TGw4WXYyaU04ODU2MVdvaWNYR0J6dXh4N0cwcThabVYydTFhMFFJRkNrX1ZRS0lyMkF1OFJ0RjJXYUpoNzFR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-06T00:26:17+00:00",
+   "summary": "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy DW.com",
+   "body": "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
+   "link": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
+   "source": "France 24",
+   "published": "2026-11-06T00:24:59+00:00",
+   "summary": "US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential presidential candidate",
+   "body": "US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential presidential candidate in 2028, declined to discuss his plans.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg",
+   "lang": "en"
+  },
+  {
    "title": "What Trump's final 2 years in office will look like with Democrats in charge",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QVENRMkVtTjNwTVR3RVJBTWRDdlRTb0dyUHRjdEJqc2x4cXFFaXpwVjQ2LVU3dks4dmlxU3o2X3kwUEVoZXdUZm93Z09xYXdxMXctSnVtaENTZGs2alU5eS0yOFNFSnpRRTF3Q253cmI3TUpPZHNxYg?oc=5",
    "source": "Google News",
    "published": "2026-11-06T00:23:37+00:00",
-   "summary": "What Trump's final 2 years in office will look like with Democrats in charge CBS News Donald Trump’s humiliation offers America an opportunity The Economist Opinion | These Midterms Show That Trump Blew It The New York Times How Trump is expected to handle being a lame-duck presi",
-   "body": "What Trump's final 2 years in office will look like with Democrats in charge CBS News Donald Trump’s humiliation offers America an opportunity The Economist Opinion | These Midterms Show That Trump Blew It The New York Times How Trump is expected to handle being a lame-duck president CNN Trump Now Has to Govern Through a Midterm Meltdown of His Own Making Bloomberg.com",
+   "summary": "What Trump's final 2 years in office will look like with Democrats in charge CBS News Donald Trump’s humiliation offers America an opportunity The Economist Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight The New York Times How Trump is expected to handl",
+   "body": "What Trump's final 2 years in office will look like with Democrats in charge CBS News Donald Trump’s humiliation offers America an opportunity The Economist Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight The New York Times How Trump is expected to handle being a lame-duck president CNN Trump Now Has to Govern Through a Midterm Meltdown of His Own Making Bloomberg.com",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -604,11 +834,26 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHFDcGRENGE0NG1MQVY0ZjFYTEtnMGgwYVpIV0hGZjZKSk9CbVJIRm1RYk0tVXJBRU9MakJHZkhKNDllSXNVSGo4RHIzbHhabWYtZ1hNLXhaaGZpa3Q2U042dHRxcDBFTjRzS0dGd0xBZHVGaG8yZGs5TDF5eWNBR2hkRS1RRDRSb2dKUEhwVzJzcS1sS0N3NVdBbkVnZ1lycEZuYlF0RUJPUXpqdEZKYjNfZDc?oc=5",
    "source": "Google News",
    "published": "2026-11-06T00:17:06+00:00",
-   "summary": "Blue Origin announces rocket upgrades aimed at lower costs, more performance Ars Technica Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine Space Introducing Northstar: A New Booster Engine with More Thrust and Less Mass Blue Origin Blue Origin ",
-   "body": "Blue Origin announces rocket upgrades aimed at lower costs, more performance Ars Technica Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine Space Introducing Northstar: A New Booster Engine with More Thrust and Less Mass Blue Origin Blue Origin reveals new kick stage, engines for its New Glenn rockets Spaceflight Now Blue Origin to develop New Glenn third stage, new booster engine SpaceNews",
+   "summary": "Blue Origin announces rocket upgrades aimed at lower costs, more performance Ars Technica Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine Space Blue Origin reveals new kick stage, engines for its New Glenn rockets Spaceflight Now Blue Origin t",
+   "body": "Blue Origin announces rocket upgrades aimed at lower costs, more performance Ars Technica Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine Space Blue Origin reveals new kick stage, engines for its New Glenn rockets Spaceflight Now Blue Origin to develop New Glenn third stage, new booster engine SpaceNews Blue Origin unveils Northstar booster engine, with Huntsville in manufacturing plans rocketcitynow.com",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "How the Texas blue wave came crashing down on Republicans - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5",
+   "source": "Google News",
+   "published": "2026-11-06T00:15:58+00:00",
+   "summary": "How the Texas blue wave came crashing down on Republicans The Washington Post MAGA Faces Brutal New Humiliation in Deep Red State The Daily Beast ‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texas NBC News The Night That Texas’",
+   "body": "How the Texas blue wave came crashing down on Republicans The Washington Post MAGA Faces Brutal New Humiliation in Deep Red State The Daily Beast ‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texas NBC News The Night That Texas’s Seemingly Unchangeable Republican Identity Vanished The New Yorker Texas went so blue Talarico got more early votes than Paxton got in total Yahoo",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -630,12 +875,12 @@
    "lang": "en"
   },
   {
-   "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+   "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
    "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-06T00:06:31+00:00",
-   "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
-   "body": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+   "summary": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
+   "body": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -659,19 +904,6 @@
     "United Kingdom"
    ],
    "image": "https://i.guim.co.uk/img/media/eb10e2a0a0598f3bf3e36ed8fca7857698ffdefb/210_0_3125_2500/master/3125.jpg?width=140&quality=85&auto=format&fit=max&s=5659d4ce3acd1cffafbed5bfba1db720",
-   "lang": "en"
-  },
-  {
-   "title": "These are the races in the House and Senate that haven't been called yet",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3aWNXZThqQ3RhT3VwWGxOYXBsNWR2STNVNm9DTU1UaEUzN29vVzYyaW1HZEtOV3Fyb1lWS2xCb0VaRUlXYTFpSWN1c0FydEwwTWk4Z0h5NkRyWVVKODdWeWJQM09VenRNSjlkLWlrVWFzZnZXYmhOVE1R?oc=5",
-   "source": "Google News",
-   "published": "2026-11-06T00:03:45+00:00",
-   "summary": "These are the races in the House and Senate that haven't been called yet NPR Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep NBC News What races the AP has not yet called in contests for Senate and governor AP News",
-   "body": "These are the races in the House and Senate that haven't been called yet NPR Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep NBC News What races the AP has not yet called in contests for Senate and governor AP News Boebert, billionaires' tax and other midterms races still to watch BBC The races we're still waiting on ... Politico",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -738,46 +970,15 @@
    "lang": "en"
   },
   {
-   "title": "Trump predicts swift Ukraine war end, touts Europe-wide deal, rattling Europe - Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG9sNFlCbXFuQUpiRTdJdkw2ZTJtSlBQbjluN1Z2TGlHNTl5b0xycldUNDFSLWtxVldONUVMU0FFZkZqSHRpYUtSdzFBZnA2SHBmUTlHdFk4YkVrWkpEYUtPbEtUT1pCejdLa25wbmN0czZzSF9FRWpmMEZLZUNsd1F3Y0gzVHhG0gGcAUFVX3lxTFBraXRPaTl1WG9neS1GcmV0aF80dnVtUmN0Zy1ZSW5sc1pSREFVY3dFZlp0bzFMYUtHZmk3UjZfelpZZTgxWlM2WHVWTVRwZ0NGR3ZyYkI3ZlNMTU5ORUpkdTZ3bXFPbi11cnlYWW5hRUVEUTMwRTdESFlYZGo1bHhZRXlOcVZOQmdfcm90VXBmUk9Wa1FFcHdSZkJIOA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T23:45:00+00:00",
-   "summary": "Trump predicts swift Ukraine war end, touts Europe-wide deal, rattling Europe Chosunbiz",
-   "body": "Trump predicts swift Ukraine war end, touts Europe-wide deal, rattling Europe Chosunbiz",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "California Gov. Gavin Newsom plans to commute all death sentences",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWluenAydTFLNngyN09DTl9aejVhazZsek5lUG1hYTRVUV9qekliZXF0Ry1nQXNYRl9odVJuZ3ZjZFZfSmZDSHpzQ1hxZXVhN1lUTkNLcHcwUmpXNXBleWkzQm5Ya1FUZmpUWEZ0WG40b3dMNF91TkFjRm1oLUF4US16Y2RqWi1EaUNyTndVbzZGSDZhblB5MkhwSEcyVjJEMlE?oc=5",
    "source": "Google News",
    "published": "2026-11-05T23:44:41+00:00",
-   "summary": "California Gov. Gavin Newsom plans to commute all death sentences NBC News Newsom Commutes the Sentences of California’s 548 Death Row Inmates The New York Times California governor commutes sentences of more than 500 people on death row Al Jazeera Gavin Newsom commutes more than",
-   "body": "California Gov. Gavin Newsom plans to commute all death sentences NBC News Newsom Commutes the Sentences of California’s 548 Death Row Inmates The New York Times California governor commutes sentences of more than 500 people on death row Al Jazeera Gavin Newsom commutes more than 500 death sentences in California The Guardian Newsom commutes sentences of all California death row prisoners CNN",
+   "summary": "California Gov. Gavin Newsom plans to commute all death sentences NBC News Newsom Commutes the Sentences of California’s 548 Death Row Inmates The New York Times California governor commutes sentences for state's 548 death row inmates BBC Gavin Newsom commutes more than 500 death",
+   "body": "California Gov. Gavin Newsom plans to commute all death sentences NBC News Newsom Commutes the Sentences of California’s 548 Death Row Inmates The New York Times California governor commutes sentences for state's 548 death row inmates BBC Gavin Newsom commutes more than 500 death sentences in California The Guardian Newsom commutes sentences of all California death row prisoners CNN",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Markets realise they hate America’s blue wave - The Economist",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODVqQ2FhbW1EcUJEQjhfQlJnTV9tTEYtd2FXOHBoeE5LZGF1UmR1QzJ4TjBRVXNvU25SczJqT3pjOTl2UUhGZ0J5YjlDNG1aRzFVM25PZEpSeFh3M0o4czNTYWREa2hScHJsMU9VcTNRMWtRQ3JjaGloLU5EdkNCenltQXlubzFVU2lLR1Nxb244Q3VpenlFU1ZqWTUybGNINnVZTjB3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T23:41:07+00:00",
-   "summary": "Markets realise they hate America’s blue wave The Economist Analysts and investors react to AI market rout Yahoo Finance AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates WSJ Why the midterm blue wave just triggered a red Wall Street USA Today Markets are a sea of red ",
-   "body": "Markets realise they hate America’s blue wave The Economist Analysts and investors react to AI market rout Yahoo Finance AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates WSJ Why the midterm blue wave just triggered a red Wall Street USA Today Markets are a sea of red – and one frightening pocket of green AFR",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -799,12 +1000,27 @@
    "lang": "en"
   },
   {
+   "title": "Three in four displaced people live in climate danger zones, UN says",
+   "link": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+   "source": "France 24",
+   "published": "2026-11-05T23:34:08+00:00",
+   "summary": "Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN refugee agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods and extreme heat were",
+   "body": "Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN refugee agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods and extreme heat were making lasting solutions harder to find.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Turkey"
+   ],
+   "image": "https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1024/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
    "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-05T23:32:00+00:00",
-   "summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\"",
-   "body": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\"",
+   "summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" Trump has previously made several similar promises, with no resolution to the conflict in sight.",
+   "body": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" Trump has previously made several similar promises, with no resolution to the conflict in sight.",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -829,6 +1045,19 @@
     "Russia",
     "United States"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Dolly Parton's estate moves to dismiss lawsuit against nephew",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUdkN19jZ2k5WUdZNE1LMmFuWFYydHR3RmJfVklHSlVXeW91QU1VOEdmZHNHalBiS2pIMWhVcHJhYUx4eVFsRGwtNm42UGNzWGRaSXNZN1FkVFpqQ1hWYlU5blVWOWpUTDdGQ0t0YThMbnoxNWxURDIySkxOUGpseU5OXzZTeEQ0WjlGSENFcWM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T23:19:00+00:00",
+   "summary": "Dolly Parton's estate moves to dismiss lawsuit against nephew CBS News See more headlines & perspectives on Google News",
+   "body": "Dolly Parton's estate moves to dismiss lawsuit against nephew CBS News See more headlines & perspectives on Google News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -860,21 +1089,6 @@
     "India"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "How Abdul El-Sayed actually did with Jewish voters",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeENMUzY4Z3lOTjcwUUV2VnF0TDdpblF1ZFlyOHJSdW40cVJHQW5qZzY1SmEzRFotYXZ5ZFB1TjV2Vk1HY0E5U3V6NkR0S0hSVVozc2ZaZXZiMDBtVXlROW9MUDJLRG1sQmgwS0FjVnE2UFNxSHJZVTBiTk5NN1dqMUM3UlFXb2dnMlNZa2haYnNZdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T23:12:00+00:00",
-   "summary": "How Abdul El-Sayed actually did with Jewish voters Politico ‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech The Hill Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith The New York Times Oil prices hit two-mo",
-   "body": "How Abdul El-Sayed actually did with Jewish voters Politico ‘JD, habibi.’ Arabs celebrate El-Sayed’s use of a term of affection in his victory speech The Hill Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith The New York Times Oil prices hit two-month low following decisive midterm election results The Washington Post Hero or liability? The debate over Abdul El-Sayed The Economist",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -936,19 +1150,6 @@
    "lang": "en"
   },
   {
-   "title": "Brooklyn fire kills 6 people, injures 9 others in Sunset Park, officials said - Gothamist",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmNkZzhRTEpGMDZxTV9iTVg0MGtTekRDb3dmQThwSlNTQm1FR2pvTHBVcVpHT2h2RGZrbWowaV9YZmNzcVRqX2JMazI3eDIyblZkV2tfMmFDTTRIbE11UlN5RlNZbUZmVUxvZnpFX0NzMDBObjhlbFl6eTRUdTdBa0d4ak56UlBNVmxzZ0h6Nl8?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T22:59:00+00:00",
-   "summary": "Brooklyn fire kills 6 people, injures 9 others in Sunset Park, officials said Gothamist Sunset Park, Brooklyn fire leaves 6 dead after flames tear through home ABC7 New York 6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year The New York Times Sunset Park Blaze Kills 6",
-   "body": "Brooklyn fire kills 6 people, injures 9 others in Sunset Park, officials said Gothamist Sunset Park, Brooklyn fire leaves 6 dead after flames tear through home ABC7 New York 6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year The New York Times Sunset Park Blaze Kills 6 As Lithium-ion Battery Fire Crisis Rages On Streetsblog New York City Six dead and others injured in fire at Brooklyn building BBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Three Key Areas of Concern Emerge for an Increasingly Isolated Israel - Middle East Forum",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnFKMWxJYzRiSVI1WF9pX21oMERHbk9RMGtiTEtYSTcycUM4YmZiblZVcnotb1FqUDEtejRwSDBVYWVzcEFJNjJtYzZYdnBYTjFxTWZNdTRMM0F0VXFyaXdXVWRVT0Q3dVRoRzJOWEdWb3dtN3hiaHZBdlpvRjUyNTdMU1NQdEd1czlveEUyZDFmNmVfRG1kd09RWlBCd2lkNFZUdklqWQ?oc=5",
    "source": "Google News · Middle East",
@@ -980,13 +1181,42 @@
    "lang": "my"
   },
   {
-   "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5",
+   "title": "Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWwtUUo1T29Uc3VtdDF4RUhOVGNselBhVkZHcDVoQVptSjFKa2xsaDNiWnVTTW9XcGtZU1E3cW9EUWdTMDdWTEp0YmlsRGZDZVR1STEySjNPR2Z5Uzc0R2E2WGZZYVF0U2hFYjZwNERoMFNxVi1tUkVfMWt4YWoyck1ZdGRJaUd5OWg1MXV4UzBCSUY2bktLZVE5cTU2Tk1Iai16dXVqUHNoeUVIMEVhbGUyajFXQ29jekEzVS1qSzQwMjJ4dVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T22:36:00+00:00",
+   "summary": "Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials New York Post",
+   "body": "Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials New York Post",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdS1aaF84VUI4YWlDSU9mYW1NS25EajdIM1hZOHc4dVZVdmcxY2ZJMVVFM3BPVHZwaUJKd29ZN0s4MHNUcEx1YlE4YXJPcW5HUGpYX0hDQVZCYm1fLUp4d1ZBRXY5MWxxS25QbUJ0SjhVZW1PbXY4bUVrcW56MDFzSWpLemxrSmRUQW11Qi1ERWhTdmxteUhMdmJvRW12VkxaM2d4c3Foa0xtWWdUXzQzVUh2SUg5X19nbnpxMXhwcktXZldpNmVnUmZqMUhTUVZnV3hGZS0xelgya3JZTnJ6NmNHMjV6MUZSY1hMV1hPT1lZbXds?oc=5",
    "source": "Google News",
-   "published": "2026-11-05T22:20:19+00:00",
-   "summary": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith CNBC Mississippi U.S. Senate Election Live Results 2026 AP News In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized The New York Times Lafayette County's Affidavit Ballots B",
-   "body": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith CNBC Mississippi U.S. Senate Election Live Results 2026 AP News In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized The New York Times Lafayette County's Affidavit Ballots Break for Scott Colom 69%-29%, Far Exceeding His Overall Margin Mississippi Free Press What's next as Mississippi, Alaska Senate races still too close to call Yahoo",
-   "category": "USA / Americas",
+   "published": "2026-11-05T22:33:05+00:00",
+   "summary": "Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations Yahoo Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters BBC says 'no place for abuse of power' after Brand guilty verdicts Yahoo Russell B",
+   "body": "Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations Yahoo Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters BBC says 'no place for abuse of power' after Brand guilty verdicts Yahoo Russell Brand is convicted of rape, and judge says he'll get a prison term NPR Russell Brand found guilty in UK rape, sexual assault trial ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "8th measles-related death reported in Wisconsin: Health officials - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUZxaEluSWxiM1lTRV8wVTk1akc4bDR6aGZSb19hYWRpdERydUVvWTRxZUFBMS12Y25aY01zZklILVhNcGVjMEt2ejVOQTIxRGc3XzdVSDhQMEo3c1g2YmRQZlQ4QUhEMW1oVDk3RVBOZlJRTGxCNklvTnhxX1hCeHU3YmdKcVNBTEdXVVppbm5FUXNSTzFZ0gGcAUFVX3lxTE9Ca3FuVThidnVVa2NmNDJqVV9NRlY3RWVPcUJxLTdUZjJEVkgtWFRBTUx6VjlKSnQxQUF6NEpiVjFiRFJnOVZpUVd1RXZjSnYzbnBsOV9tbm1qVDFFUHJLRWVEdGJjeENOdHlTUmdTcldVUi1nOXRwX3RHUTBLTjVWcWtqekVxdXdiTFBTcGh1TEJDUUdVUzZwMTBGdA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T22:22:03+00:00",
+   "summary": "8th measles-related death reported in Wisconsin: Health officials ABC News - Breaking News, Latest News and Videos Wisconsin infant is US’ third measles-related death this week CNN A baby in Wisconsin has died from measles, the 3rd such US death this week CIDRAP Infant dies in Wi",
+   "body": "8th measles-related death reported in Wisconsin: Health officials ABC News - Breaking News, Latest News and Videos Wisconsin infant is US’ third measles-related death this week CNN A baby in Wisconsin has died from measles, the 3rd such US death this week CIDRAP Infant dies in Wisconsin measles outbreak, first such death since 1990 WBAY In Wisconsin's Amish country, health care workers confront a measles surge Milwaukee Journal Sentinel",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
@@ -1012,21 +1242,6 @@
    "lang": "en"
   },
   {
-   "title": "Travis Kelce Shares New Marriage Update After Report of Taylor Swift’s Wedding ‘Betrayal’ - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHYzWHRleTNBR0dONV9USWM1dnlVVmZsNnA3SlV2U0hPMnFXakw3aGNwbTM4THdGWGxEUGFYakc0MS0xQm1GYThOYUVUQWt1ZG1MRE9ScVA1WVZqb2RfTko5RVNpeFNZVm1nN19FWlVQc0kzdjZ5ejlody1aYmFnZUQ2N0JRMGlfNzJIOW4tdFE3UklpTzNLN3JMejI4WmotZ21PMDZaZlc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T22:10:23+00:00",
-   "summary": "Travis Kelce Shares New Marriage Update After Report of Taylor Swift’s Wedding ‘Betrayal’ Yahoo Travis Kelce Details Perfect Christmas Day W/ Taylor Swift Yahoo Travis Kelce ‘excited’ to welcome the holiday season with Taylor Swift; says 'Love the old traditions, can’t wait to st",
-   "body": "Travis Kelce Shares New Marriage Update After Report of Taylor Swift’s Wedding ‘Betrayal’ Yahoo Travis Kelce Details Perfect Christmas Day W/ Taylor Swift Yahoo Travis Kelce ‘excited’ to welcome the holiday season with Taylor Swift; says 'Love the old traditions, can’t wait to start new ones' The Times of India",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "‘Why did this happen?’: Parents of man jailed for murdering sister speak of the brother he once was",
    "link": "https://www.channelnewsasia.com/singapore/parents-man-brother-murder-sister-family-lost-regret-6527466",
    "source": "CNA World",
@@ -1037,6 +1252,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--5V1tVWZn--/c_crop,h_1125,w_2000,x_0,y_54/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/05/brother_murder_sister.jpg?itok=i5G4RniM",
+   "lang": "en"
+  },
+  {
+   "title": "Row house fire in Brooklyn kills 6 people and injures 9 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkhXUmt2UmJyOG5WV2lhMl9GNTV4NzBwWHF3ajBBOHZFcUZQdVlmQnh0WTYzaHN1SEJIZ0ZERkItYldBQUdaXzlRMmc0d09xUzNLb1NMTWxMVjJnZF9RbE5BVC1RaThKUWtnVUphLWtuNmtlMUdjZDZjaTNGRlRySVl1UU40Q1h4V2VPXzVrcDM5QQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T22:06:00+00:00",
+   "summary": "Row house fire in Brooklyn kills 6 people and injures 9 AP News Sunset Park, Brooklyn fire leaves 6 dead after flames tear through home ABC7 New York 6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year The New York Times Six dead and others injured in fire at Brooklyn b",
+   "body": "Row house fire in Brooklyn kills 6 people and injures 9 AP News Sunset Park, Brooklyn fire leaves 6 dead after flames tear through home ABC7 New York 6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year The New York Times Six dead and others injured in fire at Brooklyn building BBC ‘Fire on every floor': 6 dead, 9 hurt as flames tear through Brooklyn home NBC New York",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1141,21 +1369,6 @@
    "lang": "en"
   },
   {
-   "title": "Investors have dumped Tesla and SpaceX stock since the blue wave election - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTi15NUt3OWJlcTlscTNDcUd0RnpGMXpIVDh3bVNWcHFWVDdjVFcxNEJuMlZvMTd3WjR3V1VIVVhvaVQ4c21ubEZtWDVnVk41OGtLYi1IUkRSb0t0cWFONk5mdmNmV2lldXhHZzR2LV8zb19tdGNCazBqMnNDYXNraGxjT3BzNVNoa0hLNTlTUjFZQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T21:32:00+00:00",
-   "summary": "Investors have dumped Tesla and SpaceX stock since the blue wave election Business Insider Opinion | Elon Musk’s Very Bad Night The New York Times Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms CNBC Musk bet big on keeping Texas red. Wha",
-   "body": "Investors have dumped Tesla and SpaceX stock since the blue wave election Business Insider Opinion | Elon Musk’s Very Bad Night The New York Times Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms CNBC Musk bet big on keeping Texas red. What happens to his business empire now? CNN Musk has little to show for his record spending on Republican campaigns in US midterms Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
    "link": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
    "source": "NYT World",
@@ -1201,14 +1414,27 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
    "source": "Google News",
    "published": "2026-11-05T21:24:00+00:00",
-   "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN France Protests Draw More Than 250,000 Amid Budget Impasse Bloomberg.com After Barricades, Riots and Prot",
-   "body": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN France Protests Draw More Than 250,000 Amid Budget Impasse Bloomberg.com After Barricades, Riots and Protests, French Workers Go on Strike The New York Times Hundreds of thousands protest across France over high cost of living Al Jazeera",
+   "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN Mass protests sweep France as workers and students demand higher pay and funding RFI After Barricades, Ri",
+   "body": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN Mass protests sweep France as workers and students demand higher pay and funding RFI After Barricades, Riots and Protests, French Workers Go on Strike The New York Times France Protests Draw More Than 250,000 Amid Budget Impasse Bloomberg.com",
    "category": "Europe / NATO",
    "is_war": true,
    "countries": [
     "France"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Nigeria court bars opposition candidate two months before election",
+   "link": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+   "source": "France 24",
+   "published": "2026-11-05T21:22:18+00:00",
+   "summary": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes in southern Ethiopia ",
+   "body": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes in southern Ethiopia intensify. And having fled conflict and violence, members of the first Refugee Youth Olympic Team are chasing Olympic dreams at Dakar 2026.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/a47ac0fe-d95e-11f1-b71a-695cb59fade5/w:1024/p:16x9/DN00001654-VOD-00013405.jpg",
    "lang": "en"
   },
   {
@@ -1239,21 +1465,6 @@
     "Germany"
    ],
    "image": "https://static01.nyt.com/images/2026/11/05/obituaries/05kuhne_bw/05kuhne_bw-mediumSquareAt3X.png",
-   "lang": "en"
-  },
-  {
-   "title": "Infant's death from measles is first in Wisconsin since 1990 - Milwaukee Journal Sentinel",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdi1VVDhyUkhvZm9IcTNZQ1V3MFFxbEJRVDczTXZXa0NoMjBjSDdvaTR6YzJacWkyZXZaRXR6b0t4NUV6NFdTbGVkRlN3QjRBZ0pfa1VTLUkydnhvRTBZX2VVb3NzbnFFcU5BN182alpQN1czR3R5TnZvR1RmczdRbzdQNjJONTBMR3k4bEZGQVRWLTdRYThIYWtLWmFFdGFvakJENXJiQmlkRUE5LTBpejNDQ3poNlE1b1h5VmdzM0Y3VGZURmlndmk4MnBaZk0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T21:09:00+00:00",
-   "summary": "Infant's death from measles is first in Wisconsin since 1990 Milwaukee Journal Sentinel Wisconsin infant is US’ third measles-related death this week CNN 8th measles-related death reported in Wisconsin: Health officials ABC News - Breaking News, Latest News and Videos A baby in W",
-   "body": "Infant's death from measles is first in Wisconsin since 1990 Milwaukee Journal Sentinel Wisconsin infant is US’ third measles-related death this week CNN 8th measles-related death reported in Wisconsin: Health officials ABC News - Breaking News, Latest News and Videos A baby in Wisconsin has died from measles, the 3rd such US death this week CIDRAP Infant dies in Wisconsin measles outbreak, first such death since 1990 WBAY",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1291,9 +1502,9 @@
   },
   {
    "title": "Russia Ukraine War - Post Register",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0tINFFwWUt6V3E4d0JjbTlKV2lKMHZqM0szQTZFemhtWTN4T21yX0ROVTJvNFJ1Qnd6YllCS1hSMm1UVjV4SzFjUUc1ZmJRdUdjc3dXT3psazE2U0R5bTdTaEROWVF2dDBPVlNFWWNBVFNLMnRKTW9pbmEybEZhRXFfdE53SWVsaktrandkLUlXQThUQmZLR1BqVFNnTjdIUlJOTk1Odi1idw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVY0RlpoLXhMc3FJQ0dTMEtEYk9XM3RtSkR3T25Ubms1YlNUTHZmTkRVMmZITkhZRlMzVDk1TFl4Nl84cEh5RTBFVlNSaUpOZzJ2U1daQXhzVW5KYmlnbkxHZlROXzBiWUlCX0lTVV9Fd2ZoR1BTN0I4OHQzSjNxcjRzSWdFeHhkU05DakF3T05zaVcxUTJhc3R0bGJzeVJPVTlKZ3Rmbm91QQ?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-05T20:54:56+00:00",
+   "published": "2026-11-05T20:53:02+00:00",
    "summary": "Russia Ukraine War Post Register",
    "body": "Russia Ukraine War Post Register",
    "category": "Ukraine / Russia",
@@ -1360,6 +1571,21 @@
    "lang": "en"
   },
   {
+   "title": "The business of war: Inside Russia’s multimillion prosthetics boom - TVP World",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmdyR0FMVUJaTnA1eEZsSFZKUm5jVmxfZi12NnZ0dVBlcE1IYmd5LWNRV0lTLUY4U2h4dkk1ZzFOWWJDaDRjZG5FOGpSeEJrS1B4RS1DcTBobThHMWJfSkU4QUk1emJXYzh0ZlRRLXBLV0oyMWRqLW9CNmlicjB5VGEybnhnNVlVV1lNNWpVRGd2c1F1Ym50RGRFX2xiOE1iVnBhc2VOSGM?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-05T20:44:00+00:00",
+   "summary": "The business of war: Inside Russia’s multimillion prosthetics boom TVP World",
+   "body": "The business of war: Inside Russia’s multimillion prosthetics boom TVP World",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1374,6 +1600,21 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-20.37.21-1793911153.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+   "link": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+   "source": "France 24",
+   "published": "2026-11-05T20:39:49+00:00",
+   "summary": "“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the French government: how can political authority be restored wh",
+   "body": "“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the French government: how can political authority be restored when the social and economic grievances driving public anger remain unresolved? Bogain and French politics editor Marc Perelman join Delano D'Souza to examine a protest movement that has evolved beyond its initial demands over purchasing power, fuel prices and education into a broader challenge to the French government. Perelman identifies a striking political paradox: Marine Le Pen and Jean-Luc Mélenchon, despite occupying opposing ideological positions, are “objective allies” in their shared electoral interest in weakening the political centre.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/f0afb24c-d952-11f1-a604-695cb59fade5/w:1024/p:16x9/EN-20261105-130308-131637-CS.jpg",
    "lang": "en"
   },
   {
@@ -1457,21 +1698,6 @@
    "lang": "en"
   },
   {
-   "title": "The Met Costume Institute Has a New Gala Theme, ‘extraOrdinary,’ After Calling Off Galliano Show",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IelNvWnhUbUc1UnRteGNQZnNNY1B6aXVzaUlCMzAyZDF1a0FiZDVlb2xWWmNndmRnN0NTV3Q5emVGMEZSVTBSNnRoSlVKVU4teEdrZkJfN3p5SVAzSGFQbDdVNzQyLV84bnRUUExRam93TkJsQUk2ZDNENWVUVms?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T20:20:58+00:00",
-   "summary": "The Met Costume Institute Has a New Gala Theme, ‘extraOrdinary,’ After Calling Off Galliano Show The New York Times The Met Gala plays it safe with new exhibition theme CNN extraORDINARY: Fashion and the Poetics of the Everyday The Metropolitan Museum of Art The Met Gala announce",
-   "body": "The Met Costume Institute Has a New Gala Theme, ‘extraOrdinary,’ After Calling Off Galliano Show The New York Times The Met Gala plays it safe with new exhibition theme CNN extraORDINARY: Fashion and the Poetics of the Everyday The Metropolitan Museum of Art The Met Gala announces a new, much more normie theme The Washington Post The Met’s Costume Institute reveals new exhibit after axing controversial Galliano show NBC News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Mass protests in France driven by nationwide strike action",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1513,6 +1739,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/72849977_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
+   "link": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
+   "source": "France 24",
+   "published": "2026-11-05T19:59:48+00:00",
+   "summary": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.",
+   "body": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/dd2a0d00-d950-11f1-ad62-d18c5759e759/w:1024/p:16x9/063-2302639014.jpg",
    "lang": "en"
   },
   {
@@ -1588,17 +1827,15 @@
    "lang": "en"
   },
   {
-   "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0Q3V1pxcmVwbjlabDVGNEE3T2JLeUMwcUhYTEpLaWhmYnpFbEdrLXBiMy1WRm02VmN3TndPUjZYeEpIWDJUbHVrVnZSZHdGQmk0MWxmY3hnVkxmajVNM1U5WExIb3dxbzVqQnM3eVZ3aFVJYWhGcnpPTllsbTVTWGxFdTFfYUl0dFE4Zk9fWUtBOXVCN1JQbHJR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T19:46:00+00:00",
-   "summary": "White House event reveals Ukraine and Russia share one goal: flattering Melania The Guardian",
-   "body": "White House event reveals Ukraine and Russia share one goal: flattering Melania The Guardian",
-   "category": "Ukraine / Russia",
+   "title": "Gov.-elect Gina Hinojosa announces bipartisan transition team - The Texas Tribune",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0VaY3Q2aFBMZDBjWFpsV3l6OXhNVE95RXpGWWtzdV8yMFA1bVdLRmJJWWg5T1NnLW1IX2w2VlBYY0NkajhWeG9UVlpXdUdGeWZ0YVpWTFdEVXZLUVZVY2dKdWxSckZ0bW1aeDFETkd0MzZISTZYc1dwYVdLcnJONHhzVQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-05T19:43:10+00:00",
+   "summary": "Gov.-elect Gina Hinojosa announces bipartisan transition team The Texas Tribune Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post How Texas K-12 education policy could change under Democrats The Texas Tribune Gina Hinojosa’s Sur",
+   "body": "Gov.-elect Gina Hinojosa announces bipartisan transition team The Texas Tribune Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive The Washington Post How Texas K-12 education policy could change under Democrats The Texas Tribune Gina Hinojosa’s Surprise Victory Over Greg Abbott Changes Everything in Texas Texas Monthly Gov.-elect Gina Hinojosa vows to undo Texas school vouchers and takeovers Dallas News",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1650,263 +1887,6 @@
    "lang": "en"
   },
   {
-   "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-   "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T19:31:28+00:00",
-   "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-   "body": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aecc0d7ccac-1793900759.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "IRS announces new federal income tax brackets for 2027",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtVGZQZjR3Y2ctSkNxZmd0cjIwVUNKc2tKWnRjUi14NFBIZmZia2hmVjkxeVF5cDhiRExnd05Ma24wTXpsdTdocTNrZlpTUU1NYWxlbm9TVHlfdnl2Q25HbzRQVGpyaC0yRndmb2M3WdIBdEFVX3lxTE5ZTV9HQzJNNTN3VjdYcjF3ZE1aWng4M2V1Zm1lMGIxODdsalJqQXY3UmhSVkFVaDFfazJ6YUFJREpIUXc1Mk5nNkVfLWtQN2tyTlk2UkxjY0gxY2R4a3VWVGNRak1jSmJBUV9wMGlRZHVBV0NO?oc=5",
-   "source": "Google News",
-   "published": "2026-11-05T19:23:32+00:00",
-   "summary": "IRS announces new federal income tax brackets for 2027 CNBC U.S. taxpayers can shield an extra $500 from taxation next year The Washington Post IRS adjusts 2027 tax brackets. How your paycheck changes USA Today The 2027 Standard Deduction Is Here Kiplinger 2027 income tax bracket",
-   "body": "IRS announces new federal income tax brackets for 2027 CNBC U.S. taxpayers can shield an extra $500 from taxation next year The Washington Post IRS adjusts 2027 tax brackets. How your paycheck changes USA Today The 2027 Standard Deduction Is Here Kiplinger 2027 income tax brackets are out: What to expect for taxes next year AL.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
-   "link": "https://www.channelnewsasia.com/singapore/nea-haze-mask-distribution-6526851",
-   "source": "CNA World",
-   "published": "2026-11-05T19:22:00+08:00",
-   "summary": "The Ministry of Health will deactivate both the Public Health Preparedness Clinic Scheme and the Haze Subsidy Scheme from Nov 12.",
-   "body": "The Ministry of Health will deactivate both the Public Health Preparedness Clinic Scheme and the Haze Subsidy Scheme from Nov 12.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--tu3GYXRk--/c_crop,h_1125,w_2000,x_0,y_175/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/15/n95_mask_collection_2.jpg?itok=2GctXe_h",
-   "lang": "en"
-  },
-  {
-   "title": "GovTech must keep renewing capabilities, will continue to support retrenched officers: PM Wong",
-   "link": "https://www.channelnewsasia.com/singapore/govtech-renew-capabilities-support-retrenched-workers-pm-wong-6526726",
-   "source": "CNA World",
-   "published": "2026-11-05T19:19:44+08:00",
-   "summary": "Speaking at GovTech's 10th anniversary dinner, Prime Minister Lawrence Wong said that policymakers and technologists need to work together much earlier and more closely.",
-   "body": "Speaking at GovTech's 10th anniversary dinner, Prime Minister Lawrence Wong said that policymakers and technologists need to work together much earlier and more closely.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--24i-2JGK--/c_crop,h_911,w_1620,x_0,y_99/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/05/128813.jpg?itok=izty5NXq",
-   "lang": "en"
-  },
-  {
-   "title": "Police investigating two further rape allegations against Russell Brand",
-   "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
-   "source": "The Guardian",
-   "published": "2026-11-05T19:17:40+00:00",
-   "summary": "Detective urges other potential victims to come forward and says: ‘Our work’s not done’ The lead detective in the case against Russell Brand has urged other potential victims of the comedian to come forward after it emerged he is under investigation for two further rape allegatio",
-   "body": "Detective urges other potential victims to come forward and says: ‘Our work’s not done’ The lead detective in the case against Russell Brand has urged other potential victims of the comedian to come forward after it emerged he is under investigation for two further rape allegations and faces a civil claim in the UK. Det Supt Andy Furphy, the Metropolitan police’s strategic lead in the investigation, described Brand, 51, as “a predator” whose behaviour escalated as his fame grew. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/36422e6cb7622434e81b87b745cce88b0a5ebaed/225_0_2253_1803/master/2253.jpg?width=140&quality=85&auto=format&fit=max&s=43ac5e83734f97400556ed963aca32d1",
-   "lang": "en"
-  },
-  {
-   "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-   "link": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T19:12:00+00:00",
-   "summary": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-   "body": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static.dw.com/image/79863662_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-   "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-05T19:08:48+00:00",
-   "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-   "body": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2811/live/420fe4c0-d8c9-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-05T19:08:08+00:00",
-   "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-   "body": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
-   "link": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T19:08:00+00:00",
-   "summary": "Iran war hawk Pete Hegseth is facing the fallout from Republicans' midterms losses as high energy prices turned voters toward Democrats. US President Trump continues to support his embattled defense chief — for now.",
-   "body": "Iran war hawk Pete Hegseth is facing the fallout from Republicans' midterms losses as high energy prices turned voters toward Democrats. US President Trump continues to support his embattled defense chief — for now.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static.dw.com/image/79870352_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3hoQWI4Z0JrR0tGNE9QQVVoaHNxZWItSzdQU08zTW9KVkh6MkZXV3hjZjhYMXF2SlJpbmZncVdzTjh3Tzc1bm1uZENlaWhNTHB1d2Jhalk5bk5hS1dPSGJoRTZwaWN3OURXem8zVWJqc1BwQWlNakczdldjazJRak5QcXE3VmN0RUhzMFNCTQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T19:07:39+00:00",
-   "summary": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks Yahoo",
-   "body": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTdnSWRLTzB4MENkUDdOaEhoMlk1ZDVmWkJUZXdwVlNFMXFOZkVxZlotOFdEMDhLQUhDRmNOOXlxdjlobTUyY2hsZi15UW81RFlyRGpWOVl4TG84ZWtzUWkwbnVFeU1pMHZZWWc2enBjcVp0OGxlQnh3c2REUzJNVzc5ejJKS0VZV0c1aFVYdFprVGwyRjBhNlp2dDM2QmdkYndPNkQ1R0VXdEtmRzhUOHI3d1V5NlhDUzctc0NLQ2Y?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T19:07:39+00:00",
-   "summary": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks The Kyiv Independent",
-   "body": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
-   "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-   "source": "NYT World",
-   "published": "2026-11-05T19:03:51+00:00",
-   "summary": "Hundreds of demonstrations took place across France on Thursday, escalating weeks of protests against the rising cost of living.",
-   "body": "Hundreds of demonstrations took place across France on Thursday, escalating weeks of protests against the rising cost of living.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQl83T3FPTmhHb3J4cU9EUG9uTndUY0w2dkVldEhMRFVyUVJMaGJoR0JIQXI4R0ctZGlHckNZbUY4UlllUTJsSU1kTmFfcnBrSGd5LW5HQ2hMbXJ6U1Bvbm9feEtKTHktODlObmx3cU5Ga0NWRGFseUhINGU3OGdhSlNxYVFERzRMQVQtYlZaMmhnaE0w?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-05T18:56:59+00:00",
-   "summary": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband CNN",
-   "body": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband CNN",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
-   "link": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-05T18:55:00+00:00",
-   "summary": "Hundreds of civilians were evacuated from the city of Oleshky after Russia and Ukraine agreed to a US-brokered ceasefire. Some observers have expressed optimism that more such humanitarian missions might follow.",
-   "body": "Hundreds of civilians were evacuated from the city of Oleshky after Russia and Ukraine agreed to a US-brokered ceasefire. Some observers have expressed optimism that more such humanitarian missions might follow.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://static.dw.com/image/79817132_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Division among US Democrats over Schumer’s leadership role",
-   "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-05T18:53:04+00:00",
-   "summary": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
-   "body": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aec908ea9d3-1793888398_9027af-1793890537.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
-   "link": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
-   "source": "The Guardian",
-   "published": "2026-11-05T18:49:25+00:00",
-   "summary": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts say Cancer diagnoses in England have hit record highs, with more than 1,000 people a day diagnosed, NHS figures show. But experts warned that although the health servi",
-   "body": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts say Cancer diagnoses in England have hit record highs, with more than 1,000 people a day diagnosed, NHS figures show. But experts warned that although the health service was identifying more cases, it was still failing to meet timescale targets on diagnosis and treatment. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/35fda37d88f97320d4f215c7d6d925bde94ad822/0_42_4290_3434/master/4290.jpg?width=140&quality=85&auto=format&fit=max&s=2f5890add823d4936348130315b53a5a",
-   "lang": "en"
-  },
-  {
-   "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-   "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-   "source": "The Guardian",
-   "published": "2026-11-05T18:48:07+00:00",
-   "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in r",
-   "body": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
-   "lang": "en"
-  },
-  {
    "title": "မင်းအောင်လှိုင်နဲ့ စစ်ဗိုလ်ချုပ် ၁၀ ဦးကို တရားစွဲဆိုရန် အယူခံလွှာ ဖိလစ်ပိုင်တရားရုံး လက်ခံ",
    "link": "https://burma.irrawaddy.com/video/2026/11/05/417471.html",
    "source": "Irrawaddy Burmese",
@@ -1920,7 +1900,7 @@
    "lang": "my"
   },
   {
-   "title": "လွတ်တော်ကိုပြန်ထိန်းချုပ်တဲ့ဒီမိုကရက်တွေ ဘာတွေလုပ်နိုင်မှာလဲ",
+   "title": "လွှတ်တော်ကိုပြန်ထိန်းချုပ်တဲ့ဒီမိုကရက်တွေ ဘာတွေလုပ်နိုင်မှာလဲ",
    "link": "https://www.bbc.com/burmese/articles/cm3vq421e69eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
    "published": "2026-11-05T12:20:19+00:00",
