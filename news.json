@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T01:39:06.317055+00:00",
- "updated_yangon": "2026-11-09 08:09",
+ "updated": "2026-11-09T02:38:52.435692+00:00",
+ "updated_yangon": "2026-11-09 09:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -12,6 +12,7 @@
   "Google News",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,19 +22,23 @@
  "countries": [
   [
    "United States",
-   39
+   40
   ],
   [
    "Ukraine",
-   23
+   24
   ],
   [
    "Russia",
-   14
+   12
+  ],
+  [
+   "Iran",
+   9
   ],
   [
    "Israel",
-   11
+   8
   ],
   [
    "Myanmar",
@@ -44,16 +49,16 @@
    7
   ],
   [
-   "Iran",
-   6
-  ],
-  [
    "India",
    5
   ],
   [
    "France",
    5
+  ],
+  [
+   "NATO",
+   4
   ],
   [
    "Germany",
@@ -64,28 +69,24 @@
    4
   ],
   [
-   "NATO",
+   "Iraq",
    3
+  ],
+  [
+   "Yemen",
+   3
+  ],
+  [
+   "Saudi Arabia",
+   3
+  ],
+  [
+   "Japan",
+   2
   ],
   [
    "Poland",
    2
-  ],
-  [
-   "Yemen",
-   2
-  ],
-  [
-   "Saudi Arabia",
-   2
-  ],
-  [
-   "Japan",
-   1
-  ],
-  [
-   "Iraq",
-   1
   ],
   [
    "Australia",
@@ -105,7 +106,6 @@
   ]
  ],
  "categories": [
-  "Africa",
   "Asia-Pacific",
   "Europe / NATO",
   "Global",
@@ -115,10 +115,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 29,
+ "war_count": 31,
  "languages": {
-  "my": 25,
-  "en": 115
+  "my": 24,
+  "en": 116
  },
  "items": [
   {
@@ -168,7 +168,7 @@
    "title": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့တက်မယ်",
    "link": "https://www.bbc.co.uk/burmese/live/cmd931vy8ye8t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-09T01:39:07+00:00",
+   "published": "2026-11-09T02:38:57+00:00",
    "summary": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့ တက်ရောက်မယ့်သတင်းအပါအဝင် နိုဝင်ဘာ ၉ ရက် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့ တက်ရောက်မယ့်သတင်းအပါအဝင် နိုဝင်ဘာ ၉ ရက် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Europe / NATO",
@@ -179,6 +179,225 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0e4/live/47d4c4b0-db7c-11f1-ab1c-6b6075dcdfe1.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T02:23:11+00:00",
+   "summary": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+   "body": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iraq"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794190902.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T02:22:54+00:00",
+   "summary": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict The Independent",
+   "body": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+   "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+   "source": "The Guardian",
+   "published": "2026-11-09T02:11:25+00:00",
+   "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with raptu",
+   "body": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3k3U25UbEN5bDBpODExQVZEUTVUWFRwWlZwSGF3SW1xaU5kVERpZ0ZpeE03NUZjbTlLVUFrQkEzbTZtY0RKS2N4NVUzdWt4N1NHb3VfcFlUekdQS1ZPRnlVcHZ2aGFGeTVENEZuai1fbjhCTjJSdUlNdzJ1Y3pvUTdzb2lJRlM3Q1E?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T02:11:24+00:00",
+   "summary": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort CBS News Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns CNN Nvidia Faces Governance Overhang: Jensen Huang’s Affair Admission Sparks Board Pr",
+   "body": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort CBS News Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns CNN Nvidia Faces Governance Overhang: Jensen Huang’s Affair Admission Sparks Board Probe, Analysts Warn Of Leadership Risks Yahoo Finance Read Huang's email to his staff and statement from Nvidia's board of directors CNBC Statement from NVIDIA Board of Directors NVIDIA Newsroom",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "G7 Ministers meet on efforts to end Ukraine conflict, halt new Iran war - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObURiU3JKSjFLNFhUOHlvZi1sWW1YbnhiV1J6TUoyTmNjSUljTGZ5eHFjU2dROEhSYWxUMEUxTVduNUtMcG1BRGpHYlhNSHpaNUpvREx2T09XbHFLNE8wdEhqQ0VvazI1d01nR1R2VWFFUTJLN1dhRHpycVYxdGl1Y3c2anRzMnBQTlNnNS1ZdGlaVkJiV3FGYm9rQTlYejY5SkZJVm9kQWp4MUh3OW5oeW9FMzd4MXRlX19MUGw3QTZYQ3p1R2RlQkV1QnZZWVhJMmUtUW5GeE4wN3PSAeIBQVVfeXFMT1FsS0tRZkpKV3NzeWF0dmJzaGlsWVd6VE5VekFVUU93UUdzbUd0RVB5NUp6Xzl2cjVodDhQZmlIVFNjTXpXQkk1eG9aMmk5TjNZWDJwQ3BubVVoTDZrV2pHb1Y5eXltYXpWV0pINjFmaXd3bkNFbE9EaWNVX3BMeHFqaTZZRGEyeGVfNno5eGdHUTkzZlJUTjJ5Ynh0N0hkMlFxRUN6R1NtcW9tdU96bkQxeWxUeGJVNVVfbXJTWnUyenNPUVNTa0RFLXY1U1BKUjRfOFdZbXJhMVpLSWNQVWxxUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T02:05:44+00:00",
+   "summary": "G7 Ministers meet on efforts to end Ukraine conflict, halt new Iran war The Hindu",
+   "body": "G7 Ministers meet on efforts to end Ukraine conflict, halt new Iran war The Hindu",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUtkODBnQ3Z2TnlSMjlHd3BpZnlEZXRyREVmU3l3RWhLY2ZteGs2cl9UZl9QV3h0eENENVMtRWFoYkFEYmM2V0JPeS00aUh0SWhSaUxPQ2tqSXNfTlhteHhpUjNTRGZzTUdIdWFyU3Ftby1JY1haa3BVNVNrLVRIaWVHenhtdzFJMjNSV05qVnJmQXNDeXc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T02:05:00+00:00",
+   "summary": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks France 24",
+   "body": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks France 24",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "United States",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+   "link": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+   "source": "France 24",
+   "published": "2026-11-09T02:05:00+00:00",
+   "summary": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one i",
+   "body": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one in March.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUDBWSjVWNkpQamlxV21lOXlCRG9MLTY3bEYwaFR4MFFaTmFoZWUxQVVwc2pNckJjX1hjOEV6eXNVT2oyX05scTBLTU9ZWHNzaGNFNnMxemlESjFRNE1LSl9uSFNFMTIxUllmMFBNcTNFclh6WUROWEhUSm9ZYTlfN2RjcldFYVFCd1ZjOTlxNVRJRnBVc1dCblo3TDYyQ1hpMjhnaG5oaE5ncVpxTTJHYzliV29hSGc0TW0yYTJaN0ZWdzlNUlZoQWxOVkptdlpzdk4wVWJlNG9KZUdfdWYwTnNLVkgxdUJBZVVFY1EwTGl6R2lSaU9vTHY4REHSAYICQVVfeXFMUDBhbUF0Q3cwR0ZJTjloRDJLWHZkREpKNlROWkRlME05bGVXOVpnR09yYVlBeU1mZkxNSU0zU1YxVzZ6dGZPNjh2QVlCaVIxaEFYMWUxSHAxXzFDUk43d2FvSG1DSXdJOHk0aUgzbHVULW5menZNVXo4TjJfc2dkOVJHbEc1VU9BZUxqbW1LeE43bTlaVmVtQjhsZXdaRGFGNVI1NnJNdm85MW9MR1MxTWpuWFBIbWZqRXJ4OHVMRGdYbmFHS0NiQjlqdVA3ei1PZTZYWkJPNkhMUEFFdkhqVFFBU25QWjRVcHQxdF9YR2Q0bUtIcW9NQ0lRbGFRZHFySkln?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T02:01:33+00:00",
+   "summary": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest The Economic Times",
+   "body": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest The Economic Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged - WXII",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpXWUtMQWF0dzdxa2tTeWVfNFNGTWdIa19yMXB5am1hbWNGZUpkMnRoTWd6VmVvdUoyRDJ1UzNVd3EtcGdubEpBZjZlU0E4ME1vMjVPMkx4OUl0OHNZNXF4YTFmTkF5LUg3VXRpbEJMQXR1d09MTGZaNURDVkxJNmdvZG5JN1JYZUxGb1NxSmFxbXVHYnFrU2NHNGNHd0s1Q1U4M1V6YzA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T01:58:00+00:00",
+   "summary": "19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged WXII Breaking News: Real-time updates: Winston-Salem State University shootings, what we know here WXII Police make arrest in a deadly shooting at Winston-Salem State during h",
+   "body": "19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged WXII Breaking News: Real-time updates: Winston-Salem State University shootings, what we know here WXII Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend CNN 'Hearts are heavy' | WSSU cancels Sunday Homecoming activities after campus shootings wfmynews2.com Man arrested after shootings kill 1 and injure 3 others on Winston-Salem State University campus NBC News",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Hacked records show 400,000 Russians killed in war on Ukraine - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXJYb3A2Qm9PSklKUklGUVVIR2FrUzdhbkVUODRrblhTa1BORlhlT2ItUjZoa2J5VGVUbnlsdXdhRWlmUEZmcEQyRDJPRVZibzZYNGljc1lfUjJpRlYyX1RRN2Vrd1JTcEpOMC1rTFVLSy1RVWFNLWtsTVEzLUdXVEJ6UXFsSHl3YnRvSG5ZblJmMlFtOVRPQnhldFhuT1FndlhiOFdLY2hvV05tcC1wUjJ2RnQ1WGVPWkE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T01:48:19+00:00",
+   "summary": "Hacked records show 400,000 Russians killed in war on Ukraine SMH.com.au",
+   "body": "Hacked records show 400,000 Russians killed in war on Ukraine SMH.com.au",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-09T01:44:14+00:00",
+   "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute”",
+   "body": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird nor realise there was a “massive” gunshot wound to the 26-year-old’s face. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnYxU1hlQ2Vib01aVVJuZzdydnd1d2ozanJlbklReFpISkNJeG1zZFRSMkN4d3dwcU5EMktnLVdzOENRaDRHUjFwWm5vYS1pWWQ5OTF1NDZMM3gydm9YMVJ4Y2dxYUxoU0N0S2ZTZmw4eG5aSFR1TDdzSHhtSEJhT0FCelc0OFc4YnBmbEVhSmVRRVU5WjMzc25HX0VZaWRwWUx5WExHTW84VXNNYWpZcXdFSWVSY0VxYmdUZEl0aW1lRkhiZmRubUdvM2hJdHphdmttcWgwN0FZbFVWbmZF?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T01:44:00+00:00",
+   "summary": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio The Guardian",
+   "body": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Over 70 Dead in a Single Day as Yemen Civil War Intensifies into Iran-Saudi Proxy Conflict - news.sbs.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWUhfXzNfTENmR2lkYkROOE14aDNmMlg4akFpWVhvMGJGenpISFFNSjl5Tm5QSWItajUyYlo2amc3V2RUaFFvUV9mcDU4VVZMalRlNWxXLXRHU0MxdTV3Ykw2TzhXdGJWOEoyMndB?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-09T01:43:03+00:00",
+   "summary": "Over 70 Dead in a Single Day as Yemen Civil War Intensifies into Iran-Saudi Proxy Conflict news.sbs.co.kr",
+   "body": "Over 70 Dead in a Single Day as Yemen Civil War Intensifies into Iran-Saudi Proxy Conflict news.sbs.co.kr",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+   "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+   "source": "NYT World",
+   "published": "2026-11-09T01:38:47+00:00",
+   "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+   "body": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://static01.nyt.com/images/2026/12/08/multimedia/08int-india-diwali-pollution-khqw/08int-india-diwali-pollution-khqw-mediumSquareAt3X.jpg",
+   "lang": "en"
   },
   {
    "title": "Pope Leo urges Argentina's Milei to put people before the economy",
@@ -194,16 +413,28 @@
    "lang": "en"
   },
   {
+   "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-09T01:30:36+00:00",
+   "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New Sout",
+   "body": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime. Emergency services were called to a Wagga Wagga home on the morning of 19 September where they found Danielle Madgwick suffering multiple stab wounds to her upper body. She died at the scene. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d",
+   "lang": "en"
+  },
+  {
    "title": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker - CBS Sports",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RMHBKdDFCYmFBVGZadTNMaUJXTFRpdTJLZDJDeUNqUkZNUzlraWt1alJPWVR3dmh6a0pONlBMUGliUTBzOXVncDVJazFnZjVLZHZ4UFk5TWR1dGpWOXEtVWUtdlNJNHk4YjBnbjM2bTlPYXgyVXdXcQ?oc=5",
    "source": "Google News",
    "published": "2026-11-09T01:27:19+00:00",
-   "summary": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Cowboys 27-23 Colts (Nov 8, 2026) Game Recap ESPN Let us know: How would you grade Cowboys' Week 9 win over the Colts? Dallas News Caleb Downs all smiles after sealing victory for",
-   "body": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Cowboys 27-23 Colts (Nov 8, 2026) Game Recap ESPN Let us know: How would you grade Cowboys' Week 9 win over the Colts? Dallas News Caleb Downs all smiles after sealing victory for Cowboys, besting big brother in Indy Dallas Cowboys | Official Site of the Dallas Cowboys NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid The Guardian",
+   "summary": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Matchups that cost Colts in wild loss to Cowboys, including Sauce Gardner and Jonathan Taylor IndyStar NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid",
+   "body": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Matchups that cost Colts in wild loss to Cowboys, including Sauce Gardner and Jonathan Taylor IndyStar NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid The Guardian Caleb Downs all smiles after sealing victory for Cowboys, besting big brother in Indy Dallas Cowboys | Official Site of the Dallas Cowboys Cowboys escape with win; now get to see how they stack up against a Super Bowl contender The New York Times",
    "category": "South Asia",
    "is_war": false,
    "countries": [
-    "United States",
     "India"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -214,8 +445,8 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTNiUl8xU2lhaDVvMVhMV1JVbmJweEtIR1VGX0JnamVoNHpVYlN5S1ZZdzNPU09rTEtRYVlhcmpVOTNOS0FrX3N1dEtmTE9wemxsc3F2ZUdRb2NJLWo2WVNnNm9CTlozWC1SV2xlRDFsT01PTXdySmhiMURrM2Z0dVhtQTVRWXEzWmUwOFAzVC1FbGxFRUd0NVIyV2VwZS1samYwT0l6OXBONEU?oc=5",
    "source": "Google News",
    "published": "2026-11-09T01:22:00+00:00",
-   "summary": "Trump says he was ‘only kidding’ about making UFC head Dana White his press secretary NBC News Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary The New York Times Trump says White House press secretary offer to UFC's White was a joke ESPN UFC CEO Dana White",
-   "body": "Trump says he was ‘only kidding’ about making UFC head Dana White his press secretary NBC News Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary The New York Times Trump says White House press secretary offer to UFC's White was a joke ESPN UFC CEO Dana White declines Trump’s offer to become press secretary, source says CNN Trump shares cartoon of UFC fighters beating reporters after offering Dana White press job The Washington Post",
+   "summary": "Trump says he was ‘only kidding’ about making UFC head Dana White his press secretary NBC News Trump says White House press secretary offer to UFC's White was a joke ESPN Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary The New York Times UFC CEO Dana White",
+   "body": "Trump says he was ‘only kidding’ about making UFC head Dana White his press secretary NBC News Trump says White House press secretary offer to UFC's White was a joke ESPN Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary The New York Times UFC CEO Dana White declines Trump’s offer to become press secretary, source says CNN Trump shares cartoon of UFC fighters beating reporters after offering Dana White press job The Washington Post",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -241,18 +472,18 @@
    "lang": "en"
   },
   {
-   "title": "NASA opens recruitment for its next generation of astronauts - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFZIWXB1NWtXLVY1eV9CTXQySDBoMzdxUlB0QWNXVjhLNVNOWHBrMTFCeU5jVGxfdjRWVWFnRlk0RDRjS0FOd2xrakFfLWNMclk0SlBxV2R1SXlCWjNzRGZsS0c5dFdBQ09KYTJDRmdaRVFiVDBVdXVMNTRwUTZKTG0zNzUwYkRFN0FETmVSNTRWMnpXMHpESGMwU1RYTGZWaVo5eEhB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T01:17:35+00:00",
-   "summary": "NASA opens recruitment for its next generation of astronauts The Washington Post NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA is looking for astronauts to live and work on the Moon NPR Want to fly to the moon? NASA is looking for new astronauts",
-   "body": "NASA opens recruitment for its next generation of astronauts The Washington Post NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA is looking for astronauts to live and work on the Moon NPR Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News NASA Is Selecting Future Astronauts. Here’s How to Apply. The New York Times",
-   "category": "Global",
+   "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+   "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T01:19:09+00:00",
+   "summary": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+   "body": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+   "category": "Middle East",
    "is_war": false,
    "countries": [
-    "United States"
+    "Iraq"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af0eefb-1794174715.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -286,19 +517,6 @@
    "lang": "en"
   },
   {
-   "title": "NFL Week 9: Saints prevail in OT, Packers dominate Patriots, Chargers finally score TD but remain winless - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3h3ZnQwQTVUdUVyQXJ2WU9YOXBNT0xId3c4SHBfWWtVU1cySmo5QXVhYXhmV3NfbFAxZFZHa2pOaG9hbWo4NTZEWW5ZeWwtTkF2Z0NSN1ZvVUVEdHF0cXRwMjlSQS1xNXFVVVJ6ZjEycVhTYzlYeUVEeUR4djZNUzE0MC1YQ0w1SnJFSTVlVnF3QV9BYktKdXBkNXFOODVMZ044TGc3MmU5Yy1BOG5LT1BoX0llVnp5aTR0YlpHM0VMRU44Ml9xZnczczAxbWsw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T00:52:00+00:00",
-   "summary": "NFL Week 9: Saints prevail in OT, Packers dominate Patriots, Chargers finally score TD but remain winless Yahoo Sports Browns vs. Saints: How to Watch, Listen & Live Stream Cleveland Browns Game balls from the Saints' exhilarating overtime win over Browns Yahoo Sports Todd Monken",
-   "body": "NFL Week 9: Saints prevail in OT, Packers dominate Patriots, Chargers finally score TD but remain winless Yahoo Sports Browns vs. Saints: How to Watch, Listen & Live Stream Cleveland Browns Game balls from the Saints' exhilarating overtime win over Browns Yahoo Sports Todd Monken's gutsy OT call failed, but Browns coach sent the right message | Opinion USA Today Browns lose to Saints in overtime FOX 8 News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "🇺🇸🇺🇦 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. “They're going to end up with a little bit different shape Ukraine.” He's openly suggesting a peace deal could involve territorial changes. The big question is - X",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SW0xekg2aUhyenJfaGFYRTZxTWZrUEp2UDRoQThzUHlLRGdWc3p5Mld5ODcyODZ0T2VsbzYtOXo1akRpZkpPdXBIc2w0bXdXUE1qWWx5SGV0NjgyV0ZIMlQyVFRWdERXNDVDZQ?oc=5",
    "source": "Google News · Ukraine",
@@ -319,8 +537,8 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjlnZWdqU2ZNTW05T2hFRmoyR2hKMVYyUmtNcDZLR3JxZ1piTFI4ckN2MWRXdXZHTXdjQmdBRFZBY1hSY1pHbERnX2dqZk1sX2stMHEzX1RFUnd3ODI0bVJnd2liVDdLU3NGWHNqd19pZ2NDTWNaNUdjQ1BOX0JhOGd0d0tVcGNnRGdIVV9TZUZicnowamRIdG82UllhVktIdkRXTmpaVjAtbDVKaG1r?oc=5",
    "source": "Google News",
    "published": "2026-11-09T00:45:00+00:00",
-   "summary": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline ESPN NFL Week 9 live updates and reaction: Latest results, news, highlights and analysis from today's games The New York Times NFL Week 9 grades for every team: Cowboys barely pass in win, Bengals ea",
-   "body": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline ESPN NFL Week 9 live updates and reaction: Latest results, news, highlights and analysis from today's games The New York Times NFL Week 9 grades for every team: Cowboys barely pass in win, Bengals earn 'A' in Spain CBS Sports NFL week nine: Chiefs thrash Jets, Rams beat Commanders and Broncos survive wild finish – as it happened The Guardian 2026 NFL season, Week 9: What We Learned from Sunday's games NFL.com",
+   "summary": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline ESPN NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games ESPN NFL Week 9 grades for every team: Patriots among two teams with failing grades, Cowboys barely pass CBS Sports NFL ",
+   "body": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline ESPN NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games ESPN NFL Week 9 grades for every team: Patriots among two teams with failing grades, Cowboys barely pass CBS Sports NFL Week 9 live updates and reaction: Latest results, news, highlights and analysis from today’s games The New York Times NFL Week 9 Live Updates, Score: 49ers, Seahawks Get Big Wins FOX Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -371,37 +589,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXAyRTlGZTZ5bm83bldXOERpMzRFTXFpTkMxaXhDZGJSY01YTTFHNGREN0pVUFJzX3ZhMWoyMmFrX181SnVSLUMwYTkxR0FCOUNVR3JnY1lqS3VmM0NjaEoteUo1N3lRQld3V3Y3RmRWaDZvZm9mWTdteDRYejV4dkFSaUZGYXQ1OGltdTZSeVBocl8yczVZY2Vab01LZVR5QWhXczhRRHB1VXNXcHFVZVcxYVhGWHlKOE9ZQnBn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-09T00:37:27+00:00",
-   "summary": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict The Independent",
-   "body": "Ukraine-Russia war live: Data leak shows ‘at least 390k Russians killed’ in conflict The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T00:33:59+00:00",
-   "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy The New York Times Nvidia’s Board Just Opened an Investigation Into Jensen Huang. Here’s What History Says Com",
-   "body": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy The New York Times Nvidia’s Board Just Opened an Investigation Into Jensen Huang. Here’s What History Says Comes Next for the Stock Yahoo Finance Read Huang's email to his staff and statement from Nvidia's board of directors CNBC Statement from NVIDIA Board of Directors NVIDIA Newsroom",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
    "source": "The Guardian",
@@ -430,21 +617,6 @@
     "India"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794183835.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMF9zWG9Bd3dIY3FRUl90dE5TNFI0bE9fZjl4VERCazM1TkhHTFNJN0tSRGx0c1ptdUV4RG0zN2NSSjk2RGJZN1d6R1dJV2VkZHJQdXpRTnltZzVfM091Q3ppUEJtVGhjQ0ItZFZWeXdycXo3eExqYXpaV3hjVVMtVXJ4U1ozdS1KS09Ra2VSM1dFYjU2Z1F2eE5aUkY4UVdLcnBoLXdQUFJzWWJZVUVR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T00:17:00+00:00",
-   "summary": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope Urges Latin American Unity After Milei Ignores Lula’s Win Bloomberg Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope Leo shares advice for Catholic p",
-   "body": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope Urges Latin American Unity After Milei Ignores Lula’s Win Bloomberg Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope Leo shares advice for Catholic parents whose children left the faith at Uruguay’s national shrine OSV News Pope tells Javier Milei to acknowledge 'limits' of power in Argentina USA Today",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -521,19 +693,6 @@
    "lang": "en"
   },
   {
-   "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-08T23:50:17+00:00",
-   "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting out his movements",
-   "body": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting out his movements in the witness box in Sydney. The former police officer is accused of fatally shooting Baird and his partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
-   "lang": "en"
-  },
-  {
    "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1VnaWFTRENkVThTNzhzdnFaVWV3ZnZMSDhPbzBwdTlvamZKTXJLdFhRS3g0UUpzSHE1ZExZU3RTd0I2SmpaTW1yN0JHTGtPUnBtWFUwbmIweHpqdzczbzhZN1dfRzJ4UmNVZFo4M3piMnVOUXM0ekl2UEpoaHVGSnZQbk9hRU5SbXB1c0s0WVpXYjhTUzRpOUFoQTk2djZFNDV1Mk02UTZtMndtREZUQWsxeHRHOXpIWWlRbUh0TmlUeGNIX1pv0gHMAUFVX3lxTE5GUHBjYXlZLWtJYzgyVUlmdDIyVk1KRWdQX1hmazVoNXJvMHg3Q21lZXlXVExtNUZDeUMyV0liMXN5TGxFa3Zka0ZneHdhRS1hdlJKUTNocWs3ZnV2bW94aHl1cDNLMDVjQnhIWVJneFM3akRlMU1RQ08wZkdnTG5ZSDNQLTFOSzMzNWpfRUk4c1lxdGRhLVhSVFNSVDNrZHhwbTIzMTZTb2UtQllhUEdNcDRVVXlUTElqcXhrOE1FVkpldmpxM2xGbzNNTA?oc=5",
    "source": "Google News · Ukraine",
@@ -551,34 +710,6 @@
    "lang": "en"
   },
   {
-   "title": "Taylor Swift and Travis Kelce ride off in style in vintage Cadillac after Chiefs game - Page Six",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNzdSeGZGM0pwTzBKMFhvWHVuOVZZU2dKTFR0dlU1SHlzQXp4ME1jcDNLdF9YYjJDY3l0WGxTa2ZGazJvRmU2eFE4Ym1iamR0Qk1BR2lyVlVxeGhpVkZLbEdHQ3MzajBsV1o3UFlQS1NMQ213Rjd5bjgwcmZBQ1c0OWExcmlfLTF3WDU1YkJNbDNZcjhJb3Y1RzIzY0hJRGJlX0JqZ2paLVU0SVk3RUtfMjE2UmxmWDlETU9Rb29xYnBoanNXT0syaUp1RQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T23:48:00+00:00",
-   "summary": "Taylor Swift and Travis Kelce ride off in style in vintage Cadillac after Chiefs game Page Six Why Taylor Swift, Karlie Kloss' Chiefs game outing sent shockwaves USA Today Lakers owner Josh Kushner’s wife Karlie Kloss offers telling clue about Taylor Swift feud rumors Yahoo Taylo",
-   "body": "Taylor Swift and Travis Kelce ride off in style in vintage Cadillac after Chiefs game Page Six Why Taylor Swift, Karlie Kloss' Chiefs game outing sent shockwaves USA Today Lakers owner Josh Kushner’s wife Karlie Kloss offers telling clue about Taylor Swift feud rumors Yahoo Taylor Swift Wears a Fall-Coded Top and a Surprising Shade of Lipstick to Cheer on Travis Kelce InStyle Taylor Swift watches Travis Kelce’s Chiefs take on Jets with her parents New York Post",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQURwRlVlSU93ZzM5R0I4cXQzZzhuMjNJWjkwaEEwaHFzaXdpcEk2bWNXUU9zQUxOR1J2NjJkZ0ZkR0ZmZGlBTVZUMWdKS3Z3bVkzNkJRSXBnTWVDbXNXc3AtQmVWT3Z2QXEyNzUxT3NJMHpZQTFvSXV2MFI1bWpUc1p3UHpBYnBuWFVJTHNXc2Y2TWEyOXNMdlNNM21SWGpLZzNzcFZR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T23:47:37+00:00",
-   "summary": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC News Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia CNN Tensions flare as demonstrators target Jewish restaurants, drawing massive cou",
-   "body": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC News Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia CNN Tensions flare as demonstrators target Jewish restaurants, drawing massive counterprotest Fox News Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest 6abc Philadelphia 'Bike boycott' targeting Jewish businesses meets massive counter-protests in Rittenhouse Square FOX 29 Philadelphia",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
    "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
    "source": "Al Jazeera",
@@ -591,6 +722,21 @@
     "Germany"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0f25e5b86-1794175582.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "NASA is looking for astronauts to live and work on the Moon",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3RMeEg2eW1DTmRRN0otSEU1Z1gwMkhySWxIdlE5ZmpOOWRBbV9tZ3A2aHN1LWpKX1BMYTdTd2tMaHEzcmZuaEdjY05zRXZmdTRORUJueHk5OWtOT0doTjM4YWl4V1JGZW1VNnBTT2xRODZLdzRPb0dLeFBJTjRCem5OckVsOFgtcVZ3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T23:36:47+00:00",
+   "summary": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA opens recruitment for its next generation of astronauts The Washington Post Want to fly to the moon? NASA is looking for new astronauts",
+   "body": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA opens recruitment for its next generation of astronauts The Washington Post Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News NASA Is Selecting Future Astronauts. Here’s How to Apply. The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -622,16 +768,47 @@
    "lang": "en"
   },
   {
-   "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
+   "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens - Axios",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOG5WNHJkUy1Ndk5LbVpUZ3BKZkFWYzhYd2hJQUxXMUI4OUVYZl9QWGtjRkdBbFpTcEtaRHVGTkZpRVFOQjcyVHVwVGlENzRiQjJtbGpkOFZDWi12UWtZLXB4Zk05dWQ3Zmg0bEl4cHhGSHJNcU5uaW9POTM1UkFLRTMzSFpubEVJN1dST01EREQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-08T23:25:57+00:00",
-   "summary": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability The New York Times House poised to impeach Pete Hegseth after GOP midterm defeat Axios Top House Democrat 'a hard yes' ",
-   "body": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability The New York Times House poised to impeach Pete Hegseth after GOP midterm defeat Axios Top House Democrat 'a hard yes' on impeaching Hegseth BBC 'I'm a hard yes': Hakeem Jeffries announces support for Hegseth impeachment ABC News - Breaking News, Latest News and Videos",
-   "category": "USA / Americas",
+   "published": "2026-11-08T23:28:08+00:00",
+   "summary": "Blanche dismisses Means allegations as GOP's MAHA feud deepens Axios Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies CBS News Republican Sen. Ron Johnson accuses Trump administration of corruption The Washington Post Trump C",
+   "body": "Blanche dismisses Means allegations as GOP's MAHA feud deepens Axios Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies CBS News Republican Sen. Ron Johnson accuses Trump administration of corruption The Washington Post Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Donations The New York Times Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout WSJ",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office - Variety",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDJCQmNUNUVTUUZ2MDIwNFFyTjNyLU9EekdVQ0JkV3BCQjZoSFo2R1ZpYms2RldBUXlkRDBZWk1aOXpLRW0yaHRVbGU3ZTJIeTYzNjVFcExxUE5zOFdVRW53SnczZUpoVzE5bHM3akdXOEQyX1lVVUo5VGFlT3o0bzR2bUZDRUFSOHV2WDMwMXVxQlAxV0xWZldiVW5sc3haaVlLYmR1TnM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T23:22:00+00:00",
+   "summary": "‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety 'Godzilla Minus Zero' stomps to a record-setting $31.6 debut, clobbering 'The Cat in the Hat' ABC News - Breaking News, Latest News and Videos Film Critic Review: ‘Godzilla Minus Zero’",
+   "body": "‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety 'Godzilla Minus Zero' stomps to a record-setting $31.6 debut, clobbering 'The Cat in the Hat' ABC News - Breaking News, Latest News and Videos Film Critic Review: ‘Godzilla Minus Zero’ Forbes Box Office Global: 'Godzilla Minus Zero' Beats 'Ramayana' $63M to $55M WW Deadline ‘Godzilla Minus Zero’ Tops Box Office in Win for Japanese Film Bloomberg",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Japan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Rubio says progress made on 'security infrastructure' after Ukraine war - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzRHenFfcEdCMU8yalRSX1R6ZTNRUEllbUdBb1hoVGRwMXlqOEVINzJhRHF6TzBub2Z2M1Vibml3ZjRIUWhjRVNadm9GVnBYVmdXUE53S3RJZTN1U25Ub3hMTnVzcWI2a1daRGRBU3VyNGZrdnhtUlFJSDdjSnhYTzJLTjBEc2V4T24zUVVlM2puU2lPb1lCR0JSWGNqVEhxb21BQmRZMkZKM3pFVnRUdXBib2Znd9IByAFBVV95cUxOZGh3TlNTbVNxaG1yUUNIUUxQLXptRkNqYXk4RFNoRk1NaVhFaWV1SzVlcHl2VzdtMExxSlNtU1hGc1pKQ1RpQmFKSEZnMEI1ZFYwekZjaE5HR0pMZEZQNFB6Tl9jV0FEQlJNMHduMmpkYm4zTTJsQVdUUEtqbmNrNlByNm5DbFk5V0QwNmZqVHlvOTlOWWJ2cjVhOENqaWxQcm5TQTROYkRFazI5Uk9sQzBJSE4zS1ZaMHhEWVBWLVdwTUtTOVlxYQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-08T23:15:45+00:00",
+   "summary": "Rubio says progress made on 'security infrastructure' after Ukraine war Gulf News",
+   "body": "Rubio says progress made on 'security infrastructure' after Ukraine war Gulf News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -703,8 +880,8 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
    "source": "Google News",
    "published": "2026-11-08T22:50:16+00:00",
-   "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections NPR Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous Politico Russian diplomat",
-   "body": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections NPR Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous Politico Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says Reuters Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot Euronews.com",
+   "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections NPR Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio Th",
+   "body": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections NPR Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio The Guardian Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous Politico Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says Reuters",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -712,6 +889,19 @@
     "Russia",
     "United States"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQmRlVU1CeEg3c09yaDNzWC1JbVJ6bTFzUnhNcE5nTjd4bmQ2V09VNWJUT3hoZ3lsWG5teVBpeDRndk03VGFSZjFXaDl5VFkwRk5PdEp2Z3AtY00?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T22:49:53+00:00",
+   "summary": "Top House Democrat 'a hard yes' on impeaching Hegseth BBC Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability The New York Times House poised to impeach Pete Hegseth after GOP midterm defeat Axios 'I'm a hard yes': Hakeem Jeffries announces support for Hegseth ",
+   "body": "Top House Democrat 'a hard yes' on impeaching Hegseth BBC Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability The New York Times House poised to impeach Pete Hegseth after GOP midterm defeat Axios 'I'm a hard yes': Hakeem Jeffries announces support for Hegseth impeachment ABC News - Breaking News, Latest News and Videos Hegseth Mounts Aggressive Campaign to Fight Pending Impeachment WSJ",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -726,6 +916,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Taylor Swift and Karlie Kloss reunite at Kansas City Chiefs game",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWp5cVVhVlFNQ1M1MmlfTU5lSDZ2LVItdEdqSnJCWUdaY0x2SjVTNW5fUHFTU1lJc1hxWmN6dEVsZDdiZ3I3aGRWUGVITXEzYnJKbGEzZ2J3RVZ2b1JTc3NMUV92UjFWWHpsRGlXOGVYVDVRdGZPVHpUYnQ1RzZjZFRzYmR3SnNzdklGbk9rMHRNQ19iVjNudFdfM0pBSlBNNlFlQW0ybVpaWjdMU2pQemtlbDhVVnhSb1FZSg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T22:48:00+00:00",
+   "summary": "Taylor Swift and Karlie Kloss reunite at Kansas City Chiefs game USA Today Taylor Swift Stands and Cheers After Travis Kelce Scores Touchdown Against Jets People.com Taylor Swift attends Chiefs game with Karlie Kloss by her side USA Today Taylor Swift Wears a Fall-Coded Top and a",
+   "body": "Taylor Swift and Karlie Kloss reunite at Kansas City Chiefs game USA Today Taylor Swift Stands and Cheers After Travis Kelce Scores Touchdown Against Jets People.com Taylor Swift attends Chiefs game with Karlie Kloss by her side USA Today Taylor Swift Wears a Fall-Coded Top and a Surprising Shade of Lipstick to Cheer on Travis Kelce InStyle Taylor Swift, Travis Kelce wear Hilfiger for Chiefs-Jets game. Her polo sells out Yahoo",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -772,6 +975,21 @@
    "lang": "en"
   },
   {
+   "title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T22:28:00+00:00",
+   "summary": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first AP News A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit The Guardian Pope Leo ur",
+   "body": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first AP News A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit The Guardian Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope Leo shares advice for Catholic parents whose children left the faith at Uruguay’s national shrine OSV News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
    "link": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
    "source": "France 24",
@@ -789,8 +1007,8 @@
    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-08T22:16:50+00:00",
-   "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
-   "body": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+   "summary": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
+   "body": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -811,6 +1029,21 @@
     "China"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e4194b-1794171929.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVdjRGprbk1rODBENUVGUWlQVUhWQjFMVzdWOFpaZUdpYW9zU3lXNVhqX3BNTUpVQnZUNWd2WFVWUElOcHRtdmNsVmRlUnBWQVd1cW1qelRXRzNEOVFMTUd3SFQ2LW8zZlZQck9MODN1d21wcHJtX3B1Q2RkemdFLWl0bnpRQkxZdUh3NTR5TWF0dndXRzRQa1lxdzd1M19YeVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-08T22:15:09+00:00",
+   "summary": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe Bioengineer.org",
+   "body": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe Bioengineer.org",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -852,21 +1085,6 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0a1f62b4c-1794154998.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University - WXII",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVowZ1g3UUpIakstZDlGU3Y0dTdWQXZJeldUTU9PMVA3NVlYTkczY3lnY3Z6TkpsT0RoS01tVkhmbnhXekkxbVpjQUNWdzk4bEpOQlh2b0xUc2hnc0NPU1NldDhlbUhheHJFeU91SHlaWDR1OUxrUHdaYm1TMF9maWVCd0xNZU9pc3RBeUtsb00?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T22:01:00+00:00",
-   "summary": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University WXII Man arrested after shootings kill 1 and injure 3 others on Winston-Salem State University campus NBC News Real-time updates: Winston-Salem State University shootings, what we know her",
-   "body": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University WXII Man arrested after shootings kill 1 and injure 3 others on Winston-Salem State University campus NBC News Real-time updates: Winston-Salem State University shootings, what we know here WXII One dead, three injured after separate shootings during WSSU homecoming weekend | 2 arrested wfmynews2.com 2 charged in deadly shooting at Winston-Salem State during homecoming weekend WCVB",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -937,8 +1155,8 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWpJcHZFeUJUSUc1WkZkRGktMG15eXl3czh6U0Y1Rk5hVjRwZGhvSmRKQllrdVVWdnMxY0ZTQzJ1d2w2WjU2aW5ERVdjclFEZ0hNODYxUUxYZjhRbks0Zm1ZcWxZcnJ4Y1J3R0hpdVFLMFdvWFkzS011bi05T1V5dVBKWGV3cnJfVXMtMw?oc=5",
    "source": "Google News",
    "published": "2026-11-08T21:33:15+00:00",
-   "summary": "Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Jamie Foxx’s Halloween bash turns bloody after guest stabbed in neck: report Page Six Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault Wit",
-   "body": "Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Jamie Foxx’s Halloween bash turns bloody after guest stabbed in neck: report Page Six Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault With a Deadly Weapon TMZ Stabbing Incident at Jamie Foxx's Home.. Male Party Guest Stabbed in the Neck, Shocking News [World Star Issue] 스타뉴스 Jamie Foxx's Halloween Party Gets Chaotic After Reported Stabbing & Arrest HotNewHipHop",
+   "summary": "Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Police Called to Jamie Foxx’s Home After Reported Stabbing During His Annual Halloween Festival People.com Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arr",
+   "body": "Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Police Called to Jamie Foxx’s Home After Reported Stabbing During His Annual Halloween Festival People.com Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault With a Deadly Weapon TMZ Jamie Foxx’s Halloween bash turns bloody after guest stabbed in neck: report Page Six Stabbing at Jamie Foxx's Halloween Party in California 조선일보",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -965,8 +1183,8 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnplckJRT0M5dDZrdlpfSU1fR2piR0hlZERDamJTWGRyMjdaSk8wR290Y0l2YnpFaTVycXlsWWtPNkZ1dmtmcHhNb29PSmdxQjRMc2kwY2FzSXRIUTN0bE14UHJ2RmpUWkRjczVmT2JqNmNwQTBDbkE2bXZ2dmtMTlZ2ZUNSaTZmLWFnOUxkNXNtaDduSFlIY0c4ODFOMFZuSE5qX3MzSU5vZ29NdjFpcDBzOTc?oc=5",
    "source": "Google News",
    "published": "2026-11-08T21:19:00+00:00",
-   "summary": "Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ Variety Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short o",
-   "body": "Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ Variety Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala The Hollywood Reporter What Will James Bond’s New Era Actually Look Like? Esquire Villeneuve Cuts Off Bond Casting Reveal Mid-Sentence at LACMA Gala Northeast Times",
+   "summary": "Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala The Hollywood Reporter Denis Villeneuve Teases James Bond Progr",
+   "body": "Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala The Hollywood Reporter Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ Variety What Will James Bond’s New Era Actually Look Like? Esquire Villeneuve Cuts Off Bond Casting Reveal Mid-Sentence at LACMA Gala Northeast Times",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1145,16 +1363,16 @@
    "lang": "en"
   },
   {
-   "title": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelB1UE9iOEY3T3lJMUxacURjYWptSmNrX196eThwcDdLaFBGX0ctMG1oUXhiaC05QXd2Wl9qeS05djBFRUttNGtkakRiRDlic1I5MDRuSGM0QzgwcDQ3TmFJck5tRXRnTmhmSlpxM2VlLWtlTEJGRmgzZUVvMGlVZ24zdkFDNkVUUEZTdVo1VFI1b1gtNVNYd0dpWjhGLUJPX1l0Wk51eFJqTjlwRXYxd21MVUwxLVlrSVRJ0gHAAUFVX3lxTE1jRFdIVHNfenBrTnltQWM2R1NyMThRa0EycEUxWHFfQ2pFdlZiWE4tV3NUY0s2ZnV2bFpndEN4THhuM19uZ1ZCOXVlblZkWkdTa2MwLTZpQWZPVlBXMkNLX1h6amlRcktRaHo2V1NGQkZ2SEpxQVFTU0puRzJtcF8wbURIQXhPYXhrcEFuVTVqRmcwb0VHY1EyXzNvZ3RmcmJ5QUJDUmxhNGViOXA0SWQ2cTgyOUxhQVRrRDVSTVVUWQ?oc=5",
+   "title": "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest - 6abc Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3FnVXp6aUdnT2dUOXZOczdNMjBiTmR5SFpHS0Q3X1RVckVFMmdvWVJzUjhHYUk0Z255Sk4xbW02TUw2Zk94eWNNeG96UE1oN2QwUFhpSFhQbHJoaDZ6MUFvQ2d1SjNSemVYNzBVNHRRdkhUYzdnV01pZE5oZjhhZUhWMDh5emJSSHhPUS1ENkJGSERCWFJLWndydHZicUtlakFYaWhYWFhwWndmcHFZcWI1VndQcW5xLVMtMll1YWFDZDjSAcgBQVVfeXFMUGw2Zm9sTFZHWWVqazdqdzhlU1J3YXZ1bkZwVHVVNmZoT1FMbFpRaE1scWNweUplVmY1dDhwSTVQWFZXaXd2M1NzTTY1UEZ0T3otODJRN2dNU1VjT0otUElURldxMkFVdnRCMS1RdTJuSUlQRFp2SGMxTWFuU1V6UFFMTmJTUTFiR3VHdk8yUTRHcHZhYnRWM2hFSHoxcG9tNzQ0WXNXeHd1M2tBX3lYRXlkTGhqeS05S0xBX2dhN3Q3T2tJUEVVekk?oc=5",
    "source": "Google News",
-   "published": "2026-11-08T20:43:44+00:00",
-   "summary": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover Fox News For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown The New York Times Sanders ‘not worried’ about Stephen Miller becoming White House chief of",
-   "body": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover Fox News For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown The New York Times Sanders ‘not worried’ about Stephen Miller becoming White House chief of staff The Hill In rare GOP rebuke, congressman says Trump must ‘fire people’ — including Miller The Washington Post Live updates: Trump offers press secretary job to UFC CEO Dana White NBC News",
-   "category": "USA / Americas",
+   "published": "2026-11-08T20:42:46+00:00",
+   "summary": "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest 6abc Philadelphia Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC10 Philadelphia Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be",
+   "body": "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest 6abc Philadelphia Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC10 Philadelphia Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia CNN Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s' Fox News Mac Mart Wasn’t Even Supposed to Be Open During the Philly Boycott Ride. Here’s Why It Was Philadelphia Magazine",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "United States"
+    "Israel"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1172,6 +1390,22 @@
     "United States"
    ],
    "image": "https://s.france24.com/media/display/8db004c0-db6f-11f1-9c7c-a575454bc579/w:1024/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T20:37:00+00:00",
+   "summary": "Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News Trains Collide Near Cairo, Killing 4 The New York Times Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say CNN Passenger trains crash in Egypt, killing 7 and injuri",
+   "body": "Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News Trains Collide Near Cairo, Killing 4 The New York Times Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say CNN Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post Collision between 2 trains in Egypt kills 7 and injures 112 others NBC News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Egypt"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1215,22 +1449,6 @@
     "India"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794169506.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T20:14:00+00:00",
-   "summary": "Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News Trains Collide Near Cairo, Killing 4 The New York Times Egypt train collision kills 7, injures 112 – health ministry Inquirer.net Two trains collide in Egypt, killing 7 people and injuring more than 100,",
-   "body": "Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News Trains Collide Near Cairo, Killing 4 The New York Times Egypt train collision kills 7, injures 112 – health ministry Inquirer.net Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say CNN Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Egypt"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1308,8 +1526,8 @@
    "lang": "en"
   },
   {
-   "title": "Germany news: Merz to nominate Aigner for president",
-   "link": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-xml-mrss",
+   "title": "Germany: Chancellor Merz to nominate Aigner for president",
+   "link": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-08T19:43:00+00:00",
    "summary": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
@@ -1319,7 +1537,7 @@
    "countries": [
     "Germany"
    ],
-   "image": "https://static.dw.com/image/79883761_6.jpg",
+   "image": "https://static.dw.com/image/79894165_6.jpg",
    "lang": "en"
   },
   {
@@ -1327,13 +1545,11 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHd5aFFhR2syRGNZT3h3MjNmc3hleFpwTGdMRFZaQmRDQ0NEeEQwQnA4d1ZVeUVFMEV4LUgzdkhvSzBmWm1qbDNHLVhIeENYd3MxQnJ4TDZjTXNtYnNiUm5RbzAtRkc5bVVDbk1PdmlxLXQwb0wzMzR3ZnFkRVQ3dFA3dGxsQXR2YlhfV1FhckJIQUUtZm1zcHh5LU9Dd2tMRU5ta0M3T1NIT1VvNTA0UlJLbTNMT25w?oc=5",
    "source": "Google News",
    "published": "2026-11-08T19:39:51+00:00",
-   "summary": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong Motorsport.com Norris wins Sao Paulo GP thriller as Mercedes claim title Formula 1 Lando Norris Celebrates São Paulo Grand Prix Win with Hilarious Champagne Mishap Yahoo Sports Brazilian Grand Prix briefing:",
-   "body": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong Motorsport.com Norris wins Sao Paulo GP thriller as Mercedes claim title Formula 1 Lando Norris Celebrates São Paulo Grand Prix Win with Hilarious Champagne Mishap Yahoo Sports Brazilian Grand Prix briefing: Lando Norris wins rainy thriller, Mercedes seals teams’ title - The Athletic The New York Times Lando Norris holds off Max Verstappen to win São Paulo Grand Prix ESPN",
+   "summary": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong Motorsport.com Norris wins Sao Paulo GP thriller as Mercedes claim title Formula 1 Wet weather mastery of Norris, Verstappen make Brazil F1's must-see race ESPN Brazilian Grand Prix briefing: Lando Norris wi",
+   "body": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong Motorsport.com Norris wins Sao Paulo GP thriller as Mercedes claim title Formula 1 Wet weather mastery of Norris, Verstappen make Brazil F1's must-see race ESPN Brazilian Grand Prix briefing: Lando Norris wins rainy thriller, Mercedes seals teams’ title - The Athletic The New York Times Sao Paulo Grand Prix: Lando Norris sparkles in race that challenged drivers to their very limits BBC",
    "category": "USA / Americas",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1380,6 +1596,21 @@
    "lang": "en"
   },
   {
+   "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTJVakl0bUl6LVRBOGxjSzVqb3h4QkllNjBzZHFoS01Saklib3haaFp4bFlvYzU3aHhPRjlCV29iMW9yaGJ6NllYM1JENGZBTlRKTFZqaUYxNi1VeXI4SVFnWm1ZTThGUDM2dW9PUHE0TlBMSEJMYjItOGt4UWdnaXAweFl5aGxFNHNNZHY3Z2l6QjhqZHZRRTR3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T19:27:07+00:00",
+   "summary": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026 CBS News Face the Nation: Means, Lacore Yahoo Face the Nation to feature Rep.-elect Nancy Lacore as midterm results trickle in, CBS News says Tippah News \"Face the Nation with Margaret Brennan\" guests for No",
+   "body": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026 CBS News Face the Nation: Means, Lacore Yahoo Face the Nation to feature Rep.-elect Nancy Lacore as midterm results trickle in, CBS News says Tippah News \"Face the Nation with Margaret Brennan\" guests for Nov. 8, 2026 AOL.com Transcript: Rep. French Hill on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026 CBS News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
    "source": "Google News · Ukraine",
@@ -1393,6 +1624,19 @@
     "Russia",
     "United States"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What I’m hearing about Derrick Henry, Jonathan Taylor, Garrett Wilson rumors at the NFL trade deadline - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnNyVEdNcUJIVk1DVEVna3VEUkhVR0czVjh6WHpXVVkxbzc3YWRFRkQ5V2V4ZnFVMXNkbFk5aks4UFFYZ3d2THdYclBPbFFSYjVNRTdxQmt5MzRKRk50SVI2MVpBRFpsdkJQRVVIUkhSTjdVTXExNlhzLTNTX21jVG9vdjZqbHVlbWRUOXV4a3NYY0ZXOElGQlR4UkQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T19:20:00+00:00",
+   "summary": "What I’m hearing about Derrick Henry, Jonathan Taylor, Garrett Wilson rumors at the NFL trade deadline - The Athletic The New York Times 2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others ESPN 10 NFL trades that need to happen: Derrick Henry to Patriots",
+   "body": "What I’m hearing about Derrick Henry, Jonathan Taylor, Garrett Wilson rumors at the NFL trade deadline - The Athletic The New York Times 2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others ESPN 10 NFL trades that need to happen: Derrick Henry to Patriots, Budda Baker to Bills among options CBS Sports Buyers, sellers or fence-sitters? All 32 NFL teams slotted before the trade deadline Yahoo Sports NFL trade deadline 2026: Ranking 20 players who could have the biggest impact if dealt CBS Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1446,21 +1690,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-10T231726Z_1818510678_RC2K0OAWKORS_RTRMADP_3_USA-TRUMP-1794152143.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "'Godzilla Minus Zero' smashes a major box office record",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUd5cUJsblJPenF4RTNBZmpMcnV6bzlCZE5ZRFNkVzVBRHRZNFozcnBVdVk4Y1JnT1AwNVZTNVE4aUd1eXlJbGhObkhkOGxfeHpkdDBxWlBBdzdQMlVFbDRmRTAyS0paVjlnWjlLZ294YVFBR2FsWkQzSEpMU21DbGhLbnlDMkU3UWxpc3NHSlBTUnBzTGVnR01UaThCU1JNby1xMUxwMEV2bWE3aUdGNWdBaw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T19:05:56+00:00",
-   "summary": "'Godzilla Minus Zero' smashes a major box office record USA Today 'Godzilla Minus Zero' stomps to a record-setting $31.6 debut, clobbering 'The Cat in the Hat' ABC News - Breaking News, Latest News and Videos Column | A 14-movie guide to the best of modern Godzilla The Washington",
-   "body": "'Godzilla Minus Zero' smashes a major box office record USA Today 'Godzilla Minus Zero' stomps to a record-setting $31.6 debut, clobbering 'The Cat in the Hat' ABC News - Breaking News, Latest News and Videos Column | A 14-movie guide to the best of modern Godzilla The Washington Post Film Critic Review: ‘Godzilla Minus Zero’ Forbes Box Office Global: 'Godzilla Minus Zero' Beats 'Ramayana' $63M to $55M WW Deadline",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1583,29 +1812,17 @@
    "lang": "en"
   },
   {
-   "title": "NYPD arrests and charges city schools employee in murder of Brooklyn jogger - Gothamist",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1A0S0xFbEJia0oyMEktejgybFFSVFJydGNlVUh1UmZQOUZzMmNZalVOVVJhcHZDZWs0aFBWU01HSFQteEtRQTA1a1o0UnFLY2tMdHlJdGpHYkxKZnpOY0FPdlRwNTZTNlhVaWY2ak9qcmVGOG1TMVA1eU11QU1UVEwteXM1dnhaMzBGRU93cU5QTXlEZjhfeXB3LXBuSTVidHpONnJuRy1GUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T18:03:00+00:00",
-   "summary": "NYPD arrests and charges city schools employee in murder of Brooklyn jogger Gothamist 'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect speaks out for the first time ABC7 New York Court documents shed more light on arrest in deadly stabbing of Katie Suarez on Brooklyn ",
-   "body": "NYPD arrests and charges city schools employee in murder of Brooklyn jogger Gothamist 'I'm In Deep Pain': Mother of Brooklyn jogger murder suspect speaks out for the first time ABC7 New York Court documents shed more light on arrest in deadly stabbing of Katie Suarez on Brooklyn bike path CBS News Teacher's aide arrested in connection with NYC jogger's murder: Police ABC News - Breaking News, Latest News and Videos Mom defends suspect in murder of Brooklyn jogger Katie Suarez despite his rambling statement to NYPD New York Daily News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "How a Mississippi election came down to the clerk’s office - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2VSeEJuZUZtTThnRjdWREI1VXZFV3AtenhQR2taM2FrMXFaN2xRbDhaVVdCdTlsSnZfYTdPMWZUMFZYejRnX3ZEZTN2TUJKRU4yMTdhblZlVDdLbFBvbWJaQ2lEUzFRTllDcWNMOXJJVUhsXzl4RnpUYkg2T18yV0xCOFA3b0xrLUpqT040R0tMMU5EQUY2cEpxNVE3UQ?oc=5",
    "source": "Google News",
    "published": "2026-11-08T18:00:00+00:00",
-   "summary": "How a Mississippi election came down to the clerk’s office The Washington Post See more headlines & perspectives on Google News",
-   "body": "How a Mississippi election came down to the clerk’s office The Washington Post See more headlines & perspectives on Google News",
+   "summary": "How a Mississippi election came down to the clerk’s office The Washington Post Mississippi U.S. Senate Midterm Election 2026: Live Results NBC News Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on CNBC How Mississippi Reached the",
+   "body": "How a Mississippi election came down to the clerk’s office The Washington Post Mississippi U.S. Senate Midterm Election 2026: Live Results NBC News Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on CNBC How Mississippi Reached the Verge of Electing a Black Senator The New York Times Democrat Scott Colom’s lead widens in Mississippi Senate race MS NOW",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United States"
+    "United States",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1689,128 +1906,6 @@
    "lang": "en"
   },
   {
-   "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-   "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T17:44:51+00:00",
-   "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-   "body": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af091b0b343-1794150832.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "South Africa elections: ANC marks its worst-ever performance",
-   "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-08T17:35:00+00:00",
-   "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
-   "body": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79887773_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-   "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-   "source": "NYT World",
-   "published": "2026-11-08T17:31:14+00:00",
-   "summary": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
-   "body": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
-   "lang": "en"
-  },
-  {
-   "title": "\"We'll sit on a Swiss mountain and get sloshed\": Rutte reveals how he and Zelenskyy plan to celebrate end of war - Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDbjlJZmVlQUt1cUZibU9wTFo0M2FMaE9ZWEdZbEEyLUo0dzUzLTdqbm9jZ3B1UGRYS2Q2WjgtYU1HQ1pwU1lQU2M4VmEzb2tncnlXaUViLUZhZnZTWVpjbHp0VU_SAXBBVV95cUxNbFBpUXZDdkkwNEJzYXAxT3FIOFUtcFRVN1VOZlM2dk5GUjhVRmhlell2eW9HQV9uZjU0elhhak14X0R6Q2tTVnBHbkZiNVlaV0NCZmd5R21KMGNjYW9heE5pLW9FQjJ2cGhaWmtnS09y?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:26:00+00:00",
-   "summary": "\"We'll sit on a Swiss mountain and get sloshed\": Rutte reveals how he and Zelenskyy plan to celebrate end of war Українська правда",
-   "body": "\"We'll sit on a Swiss mountain and get sloshed\": Rutte reveals how he and Zelenskyy plan to celebrate end of war Українська правда",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - GazetteXtra",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamM2Z3RPcWNjUGQtYTk1WFZHNGNlZUc2M1ZMRk1wTURKTE0zMnZVU09aV0tlMy1BanFvY0pTTVZVRkdvRVppTW84X0dQQUZUbEpVUWFlVHVfOVNjMGtJN0tRQlVHQ2FyWkczdXZIRG1wbkl1R0g5RHQzNldEeUE0MVJxT2RWdEdEcUU5TGdVYU5Vc0hIbS1hWFRIWmdSUTVQOEx0dWFfZ01IZmw5LW1ITkJR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:25:23+00:00",
-   "summary": "Russia Ukraine War GazetteXtra",
-   "body": "Russia Ukraine War GazetteXtra",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - Goshen News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVE5OYnM3ZGRnVkJhRFZjMkdwOFdSbXFqYWxQUl9aV3pyZ09qaHA2TkZLUS1XTzlvRFd4cElFNWtkUjVELXRWbGMtSV81b2JKTk14eFhjQ01LNnp1LVNOa2ZHeFUxY2REdG5KUkF5S005Q0hfakJzRFJ4Q1hwUkswandsamcyX0pYeTFfQ1FsX214UldXeUVHT0JaYkg3cEd3eFZoWjBzUEg5bmI0dFEzdFpn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:25:23+00:00",
-   "summary": "Russia Ukraine War Goshen News",
-   "body": "Russia Ukraine War Goshen News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "France Says Europe Will Be Represented at US-Brokered Ukraine Talks in Abu Dhabi: 11 outlets compared - NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFRQX3g5cXBZbGtWaGJkZWdicmp2TkU5eEFFTkRkSVp6Uk01ejh1SjBQMFVaVFlBZWkwWUV2eUJLSkJ5MGg3dlB5WWlGUmVNNlZxZm40bW5NaUNDYlpUbFdrZzdOckhhMko5RWR0YTNIWlRVdXRJeFhtMThYcWtybGVQRTNIcWg3ajRROW5ZbEpnaHQ2YkpzUWx3UzNjVkNySzU4VzVYdE9ibXN0TXVzZlozTkQ0dnNrT3ZCWXlhUWtuSXBqd3FUMDNNdTJ5Z2doaTZhQmlVU1dyRXBualItNnNjeUhLOXJyUFE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:22:44+00:00",
-   "summary": "France Says Europe Will Be Represented at US-Brokered Ukraine Talks in Abu Dhabi: 11 outlets compared NewsCord",
-   "body": "France Says Europe Will Be Represented at US-Brokered Ukraine Talks in Abu Dhabi: 11 outlets compared NewsCord",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - WV News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUpNNmdBeDVBWEZTUnlDMzQzNkFTd1ZsWHJ6cnZSQjVkZEZvZWxEWXpJcWFYbFRQU01GZFhaQm9NbFA5UnZubFpISW8zZ19TcTJrN0R1bHB6SmZFY1o4VlJ5NGl0RThwT3lYcU5qb0RGMGFwTkVJYUdwbWJWUFhKc3F1RGZXeXphc05ncnVHekt1WDlxdWZOUGUySUZRRUVudjBTWmFabw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:21:18+00:00",
-   "summary": "Russia Ukraine War WV News",
-   "body": "Russia Ukraine War WV News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "အုန်းသီးဈေးကျလို့ အုန်းခြံလုပ်ငန်းကိုအမှီပြုနေသူတွေ အခက်ကြုံ",
    "link": "https://rfa.org/burmese/news/2026/11/08/coconut-farms-get-hardship-due-to-civil-war-effect/",
    "source": "RFA Burmese",
@@ -1824,81 +1919,6 @@
    ],
    "image": "https://www.rfa.org/resizer/v2/2LELMGMBIJHZNMA5N7A5FT7X4Q.jpg?auth=3e9d32d231d7b0b44c2aa9f6ed647decdac1f9eded7020962b1d54e23d846be6&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T17:11:52+00:00",
-   "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
-   "body": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794157835.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "How Hinojosa’s win in Texas could bite Beshear",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1VCTzFTcVc0RW1FSlJERDNtUHpqZmJyZl93a3dCRXNtY0hiZjVhVG1wSXo1NkJsbl9XUHRxbnlILWdSWGdUeGx4V0E0TThPb0lyZTY5bS0zY3YwVWVKUk9GZjJicmhSd2tzMzEwdkhqaGdDc3dRR2ozSGhPa3VlS3JsUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T17:05:00+00:00",
-   "summary": "How Hinojosa’s win in Texas could bite Beshear Politico Gina Hinojosa Takes on the Texas Government Republicans Built The New York Times ‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory Click2Houston Why Gina Hinojosa wants",
-   "body": "How Hinojosa’s win in Texas could bite Beshear Politico Gina Hinojosa Takes on the Texas Government Republicans Built The New York Times ‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory Click2Houston Why Gina Hinojosa wants to fire Texas Education Commissioner Mike Morath Texas Public Radio | TPR Hinojosa vowed to end Fort Worth, Lake Worth ISD takeovers. The question now is, how soon? Fort Worth Report",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZaVm41dTBkUFJ6TWN6X1g5ZWl3bXduODlLc2tNSXhVUQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:04:07+00:00",
-   "summary": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war Euronews.com",
-   "body": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war Euronews.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Photos: Diwali celebrations light up India and its global diaspora",
-   "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T17:03:14+00:00",
-   "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
-   "body": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26312535181142-1794151577.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea - The Moscow Times",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEUxVTdMN3NIX0NsMU1RSGFDYkp4TnVWdnJlckFobzh1dENSbzhzSFpod3hoN3NkYkROUnNab1MxM2dyR204Uks2cmcxLUI1ajdQZWdIdERqbXVMS2RJenJWSS1QZUd6ZEd2bkc1d201Tks5VkhRTXlBQTFURU52WHg1Ym14QnlYMkItMHpMSUVkM3NleEhFaTNZcC1FQ0pIeTJGR0hKTXUtSktrWFhWSkRFcC1aWlBxU0E?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T17:03:11+00:00",
-   "summary": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea The Moscow Times",
-   "body": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea The Moscow Times",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "သမ္မတ ဦးဝင်းမြင့် အမှန်တကယ် လွတ်မြောက်ခွင့်မရသေးကြောင်း ဂျာမနီသံရုံးပြော",
@@ -2159,19 +2179,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/DailyNews6Nov26cv-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ထိုင်းပရဟိတမင်းသမီး အလှူငွေအလွဲသုံးမှုနဲ့ ဖမ်းဆီးခံရ",
-   "link": "https://burma.irrawaddy.com/video/2026/11/06/417484.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-06T12:12:54+00:00",
-   "summary": "ထိုင်းနိုင်ငံမှာ ဆယ်စုနှစ်ကြာ ပရဟိတလုပ်နေတဲ့ မင်းသမီး ဘွမ် ပနတ်ဒါ ဟာ သူဦးဆောင်တဲ့ Good Deeds Foundation ရဲ့ အလှူငွေတွေသုံးစွဲမှုနဲ့ပတ်သက်ပြီး လိမ်လည်မှု၊ ငွေကြေးခဝါချမှုနဲ့ ကွန်ပျူတာမှုခင်းဆိုင်ရာ ပြစ်မှုတွေ ကျူးလွန်ခဲ့တယ်ဆိုတဲ့ စွပ်စွဲချက်နဲ့ နိုဝင်ဘာ ၆ ရက်မှာ ဖမ်းဆီးခံလိုက်ရပါတ",
-   "body": "ထိုင်းနိုင်ငံမှာ ဆယ်စုနှစ်ကြာ ပရဟိတလုပ်နေတဲ့ မင်းသမီး ဘွမ် ပနတ်ဒါ ဟာ သူဦးဆောင်တဲ့ Good Deeds Foundation ရဲ့ အလှူငွေတွေသုံးစွဲမှုနဲ့ပတ်သက်ပြီး လိမ်လည်မှု၊ ငွေကြေးခဝါချမှုနဲ့ ကွန်ပျူတာမှုခင်းဆိုင်ရာ ပြစ်မှုတွေ ကျူးလွန်ခဲ့တယ်ဆိုတဲ့ စွပ်စွဲချက်နဲ့ နိုဝင်ဘာ ၆ ရက်မှာ ဖမ်းဆီးခံလိုက်ရပါတယ်။\n\nအလှူရှင်ဟောင်းတဦးလည်းဖြစ်သလို Influencer တဦးလည်းဖြစ်တဲ့ အွိုင်စရီ ဆိုသူက အောက်တိုဘာ ၃၀ ရက်နေ့မှာ Good Deeds Foundation ရဲ့ အလှူငွေသုံးစွဲမှုနဲ့ပတ်သက်ပြီး ပြည်သူကို လိမ်လည်မှုရှိတယ်ဆိုတဲ့ သံသယနဲ့ ရဲတပ်ဖွဲ့ဆီတိုင်ကြားခဲ့ပြီးနောက် စုံစမ်းစစ်ဆေးမှုတွေစတင်ခဲ့တာဖြစ်ပါတယ်။\n\nစီးပွားရေးမှုခင်း စုံစမ်းစစ်ဆေးရေးအရာရှိတွေရဲ့ စုံစမ်းချက်အရ ဖောင်ဒေးရှင်းအတွက် လှူဒါန်းခဲ့တဲ့ ဘတ်သန်း ၉၀၀ ထဲမှာ ၂၀ ရာခိုင်နှုန်းလောက်ပဲ အမှန်တကယ်ရောက်ရှိခဲ့တယ်လို့ The Nation သတင်းက ဖော်ပြပါတယ်။\n\nအဲ့ဒီနောက် နိုဝင်ဘာ ၆ ရက်နေ့ မနက် ပိုင်းမှာ မင်းသမီး နဲ့အတူ ခင်ပွန်းဖြစ်သူ အဖိပ် အနန်တဝမ် တို့ကို ဘန်ကောက်က နေအိမ်မှာ ရဲတပ်ဖွဲ့က ဝင်ရောက် ဖမ်းဆီးခဲ့ပါတယ်။\n\nအသက် ၅၀ အရွယ် ရှိပြီဖြစ်တဲ့ ဘွမ် ပနတ်ဒါဟာ အလှမယ်ဘဝကနေ သရုပ်ဆောင်နဲ့ ပရဟိတလုပ်ကိုင်သူအဖြစ် ဆယ်စုနှစ်ကျော်ကြာ လူထုကြားမှာ နာမည်ရရှိခဲ့သူဖြစ်ပြီး ခုအမှုကတော့ သူဦးဆောင်တဲ့ ပရဟိတအဖွဲ့အစည်းရဲ့ ငွေကြေးပွင့်လင်းမြင်သာမှုအပေါ် မေးခွန်းထုတ်စရာ ဖြစ်လာခဲ့ပါတယ်။\n\nဧရာဝတီရဲ့ YouTube membership ကို Support လုပ်ချင်တဲ့ပရိတ်သတ်တွေအနေနဲ့ ဒီ https://www.youtube.com/@irrawaddynews1993 Link လေးမှ join button ကို နှိပ်ပြီးတော့ ပါဝင်နိုင်ပါပြီ။\n\nစာဖတ်သူများ၏ ပံ့ပိုးမှုက ပြည်သူများ လိုအပ်နေသည့် အကောင်းဆုံး နှင့် အရည်အသွေးမီ သတင်းများကို ဖော်ပြစေနိုင်မည်။\n\nSupport The Irrawaddy: https://www.irrawaddy.com/donation",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Boom-Pannadda-Nov-6-Cover-2-900x506.jpg",
    "lang": "my"
   }
  ]
