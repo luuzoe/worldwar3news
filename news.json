@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T06:38:59.374273+00:00",
- "updated_yangon": "2026-11-09 13:08",
+ "updated": "2026-11-09T07:38:52.037350+00:00",
+ "updated_yangon": "2026-11-09 14:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -15,6 +15,7 @@
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
+  "Myanmar Now",
   "NYT World",
   "RFA Burmese",
   "The Guardian"
@@ -22,27 +23,27 @@
  "countries": [
   [
    "United States",
-   56
+   51
   ],
   [
    "Ukraine",
-   30
+   31
   ],
   [
    "Russia",
-   18
+   20
   ],
   [
    "Iran",
-   12
-  ],
-  [
-   "China",
-   10
+   14
   ],
   [
    "Myanmar",
-   8
+   9
+  ],
+  [
+   "China",
+   9
   ],
   [
    "France",
@@ -50,22 +51,26 @@
   ],
   [
    "India",
-   6
+   7
   ],
   [
    "Israel",
-   3
+   5
+  ],
+  [
+   "Palestine",
+   4
   ],
   [
    "Germany",
-   3
+   4
   ],
   [
    "Poland",
    3
   ],
   [
-   "Egypt",
+   "Taiwan",
    2
   ],
   [
@@ -73,11 +78,7 @@
    2
   ],
   [
-   "Palestine",
-   2
-  ],
-  [
-   "Taiwan",
+   "Egypt",
    2
   ],
   [
@@ -85,11 +86,11 @@
    2
   ],
   [
-   "Turkey",
+   "Japan",
    1
   ],
   [
-   "Japan",
+   "Turkey",
    1
   ],
   [
@@ -107,10 +108,6 @@
   [
    "Saudi Arabia",
    1
-  ],
-  [
-   "NATO",
-   1
   ]
  ],
  "categories": [
@@ -124,7 +121,7 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 29,
+ "war_count": 34,
  "languages": {
   "my": 24,
   "en": 116
@@ -147,7 +144,7 @@
    "title": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့တက်မယ်",
    "link": "https://www.bbc.co.uk/burmese/live/cmd931vy8ye8t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-09T06:38:56+00:00",
+   "published": "2026-11-09T07:39:07+00:00",
    "summary": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့ တက်ရောက်မယ့်သတင်းအပါအဝင် နိုဝင်ဘာ ၉ ရက် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့ တက်ရောက်မယ့်သတင်းအပါအဝင် နိုဝင်ဘာ ၉ ရက် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Europe / NATO",
@@ -158,6 +155,312 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0e4/live/47d4c4b0-db7c-11f1-ab1c-6b6075dcdfe1.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Myanmar military airstrike in Mrauk-U kills pregnant woman",
+   "link": "https://myanmar-now.org/en/news/myanmar-military-airstrike-in-mrauk-u-kills-pregnant-woman/",
+   "source": "Myanmar Now",
+   "published": "2026-11-09T07:33:22+00:00",
+   "summary": "The midnight airstrike killed the young woman and injured 11 others in the AA-controlled Rakhine township",
+   "body": "The midnight airstrike killed the young woman and injured 11 others in the AA-controlled Rakhine township",
+   "category": "Myanmar",
+   "is_war": true,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/2026-11-06-18.09.14-1024x692.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Krakow shooting suspect has died in hospital, police say",
+   "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-09T07:26:09+00:00",
+   "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+   "body": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "1720 Days of russia-Ukraine War – russian Casualties in Ukraine - Defense Express",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTVtbVJRQW53OTVIVXJldnByaEpJRElsdlpvZE5aTXQ2b3dBck1JNVB4anFBeWFlTVk1R1dUZGFJMUVqWW0tb2IxNkpvczNldERaMkhsNllybWs2d21UOW9ITlJvWjhMU0xFYl8yNmZGdml5RUMzMUE0YWV3UzUtOVpfVVNLVFVEZEprOThhS0pqZzRIcThMYXdnalRxcjFCeDQwTWNB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T07:23:38+00:00",
+   "summary": "1720 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
+   "body": "1720 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "ကမ္ဘာကျော် AI ချစ်ပ်သူဌေး ဂျန်ဆန်ဟွမ်နဲ့ အချစ်ရေးခြေရှုပ်သူက တရုတ်သူလျှိုလား",
+   "link": "https://www.bbc.com/burmese/articles/cm17k7ly4x49o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-09T07:22:06+00:00",
+   "summary": "တစ်ချိန်က “နည်းပညာလောကရဲ့ တေလာဆွစ်ဖ်” လို့တောင် တင်စားချီးကျူးခံခဲ့ရတဲ့ ဟွမ်ဟာ တရုတ်သူလျှိုလို့ သံသယရှိခံထားရတဲ့အမျိုးသမီးတစ်ဦးနဲ့ အိမ်ထောင်ရေးဖောက်ပြန်ခဲ့မှုကြောင့် အခုတော့ အရှုပ်တော်ပုံနဲ့ ရင်ဆိုင်နေရပါတယ်။",
+   "body": "တစ်ချိန်က “နည်းပညာလောကရဲ့ တေလာဆွစ်ဖ်” လို့တောင် တင်စားချီးကျူးခံခဲ့ရတဲ့ ဟွမ်ဟာ တရုတ်သူလျှိုလို့ သံသယရှိခံထားရတဲ့အမျိုးသမီးတစ်ဦးနဲ့ အိမ်ထောင်ရေးဖောက်ပြန်ခဲ့မှုကြောင့် အခုတော့ အရှုပ်တော်ပုံနဲ့ ရင်ဆိုင်နေရပါတယ်။",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Which countries and industries emit the most greenhouse gases?",
+   "link": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T07:21:37+00:00",
+   "summary": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+   "body": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-COP-INDUSTRY-NOV9-2026-1794202492.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T07:17:00+00:00",
+   "summary": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates CNBC Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Yahoo Finance Opinion | Tech Stocks Had a Terrible Day. What’s Coming Could Be W",
+   "body": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates CNBC Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Yahoo Finance Opinion | Tech Stocks Had a Terrible Day. What’s Coming Could Be Worse. The New York Times US SECTORS CALL: Information Technology, Industrials & Utilities Yardeni QuickTakes Market Vulnerability Has Been Exposed for Good Bloomberg.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+   "link": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T07:12:09+00:00",
+   "summary": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+   "body": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AFP__20251117__849B2CQ__v1__HighRes__FilesBangladeshPoliticsTrial-1763916972.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "India news: Delhi air quality level 'severe' after Diwali",
+   "link": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-09T07:12:00+00:00",
+   "summary": "Illegal fireworks during Diwali celebrations have impacted New Delhi's air quality level. DW has the latest.",
+   "body": "Illegal fireworks during Diwali celebrations have impacted New Delhi's air quality level. DW has the latest.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://static.dw.com/image/79889031_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+   "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T07:07:26+00:00",
+   "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+   "body": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260907__C7JU7ZQ__v1__HighRes__IranUsIsraelWar-1794137200.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Hamas says Israel 'fully responsible' for Gaza landslide deaths - Yeni Şafak English",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGs0Wlg2bnZyZGRWbWRmR0lkNjlNcndhcTVydHp2Y0tSY3N4VUxLWnB0TXZsUHJTbXN2Q2t2ZWppVE5DVVQ5aE5Ra293akc3Xzgyc3pOUWhTdGVreG5FZExNWVhQZFl5YjZjbDFuQ2hnSUNRcW40LTQ3Ym9VT0NGdUhTWGJXaVNnOVVqaUxqaWZtQlVSTG5GbU1HblZiQURYNmc?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-09T07:03:37+00:00",
+   "summary": "Hamas says Israel 'fully responsible' for Gaza landslide deaths Yeni Şafak English",
+   "body": "Hamas says Israel 'fully responsible' for Gaza landslide deaths Yeni Şafak English",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Poland mass shooting assailant dies in hospital, police say",
+   "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T07:03:24+00:00",
+   "summary": "The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.",
+   "body": "The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Poland"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af16c867f-1794206854.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine War, Day 1,719: Kyiv Attacks Russia’s 2nd-Largest Refinery - EA WorldView",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFRUXF6MDg2d214dURFYU1CU2YyT2JlY0M0Y2xweVVLQnNob0NOLUpUTHE5ZlQ2dVRSQWZOVmR3NWpBYVN2MTFlaF91ZVZVQkRUQXZqX3o2YVpYQXJTN19IQUQxbW4tbV84ZUlGZmJpbXh6eFpPRUJNVzduVmY1Y1lWMko4TmlhcVhuRXhR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T07:00:40+00:00",
+   "summary": "Ukraine War, Day 1,719: Kyiv Attacks Russia’s 2nd-Largest Refinery EA WorldView",
+   "body": "Ukraine War, Day 1,719: Kyiv Attacks Russia’s 2nd-Largest Refinery EA WorldView",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "‘It’s a feeling of being screwed over’: once-quiet village despairs over ‘monster’ warehouse",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
+   "source": "The Guardian",
+   "published": "2026-11-09T07:00:03+00:00",
+   "summary": "Residents of Astley in Greater Manchester will tell public inquiry next week of ‘cacophony’ of noise causing sleep deprivation and depression When Stephen Retford retired from the police in 2006, he looked forward to a quiet life after nearly three decades catching villains. But ",
+   "body": "Residents of Astley in Greater Manchester will tell public inquiry next week of ‘cacophony’ of noise causing sleep deprivation and depression When Stephen Retford retired from the police in 2006, he looked forward to a quiet life after nearly three decades catching villains. But now the former detective has landed another big case – one that is extremely close to home. “It’s the total injustice of it,” the 70-year-old seethed, staring up at the 18-metre-high mega-warehouse that looms over the quiet village of Astley in Greater Manchester. Residents are up in arms about the “monster” construction, likening it to having a “cruise ship in our back garden”. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/8ad529e476ab9f8aaa4b519c77862c07cc74a4d3/584_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6649e00763035cd3304c1a0e12dfc6a9",
+   "lang": "en"
+  },
+  {
+   "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+   "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+   "source": "The Guardian",
+   "published": "2026-11-09T06:58:03+00:00",
+   "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in a popular market square in Kraków has died in hospital, Polish police said early on Monday. The suspect, a 24-year-old named in local m",
+   "body": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in a popular market square in Kraków has died in hospital, Polish police said early on Monday. The suspect, a 24-year-old named in local media as Michal O who authorities say was probably inspired by far-right ideologies, had been wounded in a shootout with police and had been in critical condition in hospital. Continue reading...",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Poland"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e6df24358fac6a2a36dc949a42d57487dba7a831/625_142_4761_3809/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=7b8822fce95230606ec2627044c663a6",
+   "lang": "en"
+  },
+  {
+   "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T06:56:00+00:00",
+   "summary": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Reuters Paraguay President Peña under investigation, faces removal from office over bank collapse AP News Asian stocks rebound ",
+   "body": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Reuters Paraguay President Peña under investigation, faces removal from office over bank collapse AP News Asian stocks rebound after AI rout Financial Times Korea, Taiwan and Japan take first jolt from Democratic AI shock Asia Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Taiwan",
+    "Japan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says Ukraine will emerge with 'different shape' after Russia war - A News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPam15UGlSaThmRVVYc3JqMWFsZDhRQlFqd1RBR1VGclMtQmxscHdTbzF3cXJWcF9GcE9CZmVreHc4VE9yZnNHYXJkS21rUHE3R1c5cVo0NU42RnFxLVBZdW15RHNpT09OWlp5UmNueFk5MEZodHFFV3dxOHJOZWFXcVpsTFVIRkszWGlabUxLd0dxT1FWVllrLXRlaDhMRTBCTDE4OHdYV0Q1cHlqUWNxc3hxNNIBuAFBVV95cUxNZ2pPRk51VVdsS3E0R2VBZGpZeVNvcGlvX1BKYzYxRlFLeFZCNy1Wa0p3aHNVX2dBZHlBYkluRGwzblh6aUFKYUw4bm1INXloRWtKZnFQSjdWT0JsY3prWlF4cTZhV3RaY29reEFhNnJZbXlvQlJYSXVvTGR0ZWIzMERkMW1tRVRVZlhWQmlCZ1RpYnpRa2hpc3NOTmMzMS0wbWw3MlNldmo0WmRmUl9PczNJZ1RvZHRv?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T06:54:50+00:00",
+   "summary": "Trump says Ukraine will emerge with 'different shape' after Russia war A News",
+   "body": "Trump says Ukraine will emerge with 'different shape' after Russia war A News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022 - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3ZOUERoZkIyRVExZlJrOXFZNHphNW52WnFRX0JBcWJRLXp6WTE5SzFIUjhYRGRJTlhTUU9QSFZGQmJRT2lVd3hTRFBvV01IYlFrWnRZbTBSN1h5aENLaXl6cUlXNDkyZTFhcHl4N01mTkRTb3Z1MWptQ1ZPQnVnX29mNGxWRnlaUzA4X2lITHpUTjlaZWNRQzlvYThrdGxST25ndi16Yw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T06:54:42+00:00",
+   "summary": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022 The Kyiv Independent",
+   "body": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022 The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+   "link": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-09T06:53:00+00:00",
+   "summary": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+   "body": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Poland"
+   ],
+   "image": "https://static.dw.com/image/79895656_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Why we disrupted Annalena Baerbock’s award speech",
+   "link": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T06:49:55+00:00",
+   "summary": "The former German foreign minister is no proponent of peace and justice. No award can wipe out her disastrous record.",
+   "body": "The former German foreign minister is no proponent of peace and justice. No award can wipe out her disastrous record.",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Germany"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af16cb568e8a-1794206901.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "What is next for Israel?",
+   "link": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T06:42:03+00:00",
+   "summary": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.",
+   "body": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af16b08e6c1-1794206472.jpg?resize=800%2C600",
+   "lang": "en"
   },
   {
    "title": "She came to Singapore as a dialysis nurse for two years but stayed for 30 – now 70, she has no plans to retire",
@@ -175,32 +478,34 @@
    "lang": "en"
   },
   {
-   "title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T06:32:31+00:00",
-   "summary": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post Seven dead and more than 100 injured after trains collide in Egypt BBC Trains Collide Near Cairo, Killing 4 The New York Times Collision between 2 trains in Egypt kills 7 and injures ",
-   "body": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post Seven dead and more than 100 injured after trains collide in Egypt BBC Trains Collide Near Cairo, Killing 4 The New York Times Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say CNN",
+   "title": "How Israel’s separation wall compares with the Berlin Wall",
+   "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-09T06:32:18+00:00",
+   "summary": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
+   "body": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
    "category": "Middle East",
    "is_war": false,
    "countries": [
-    "United States",
-    "Egypt"
+    "Israel",
+    "Palestine",
+    "Germany"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Interactive-Berlin-Israel-separation-wall-1794201380.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
-   "title": "Trump suggested that Ukraine might end up with a \"different shape\" after the war - Українські Національні Новини (УНН)",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3B1V2xyZG1GUXJFZEhBSUxzSG9adUU2VkdraXUyMkJhNjhJNHlHOGhuckpyQmpvTkZxNmNuUml0TkF6OUstSWc1b1FTWTdTUXRRZWJidkRmMEduSU9EZF9McFdJX0pHcGVGcnBNSjJRS0F0M0ZoaHJNOGhBTUFISVRBUUY1LVl6eVctWmN5Uk1vTkx5cHdwZtIBlwFBVV95cUxOVWNpaHVVd3JMVEFKSlc2NVZmWFpfY3k5aWhDU2ViSndfWEcyT010cWRDUU1LTDg2QUR6bG1CbWdWUEJ3eGZkVzdTZ2Z0WGM2QXotVEl6SVJwX2RQTjJ6RGhUbWtGYXpaSE04dUNYelBZdVJBQ3ZvbnZPbDBNNUJ2elc4cDNCNHdmOUZ2TktzaXFQNzZjUWww?oc=5",
+   "title": "'I inherited that war': Trump blames 'hatred' between Putin, Zelenskyy for Russia-Ukraine conflict - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUmNxcXYxSWJuVUQ1UHdPOVJPMzJicFc0a1pBaFVhQkVOUFdfbm5rNTZRcXpiWGV1aGVORkUyLThseW5XWE1uTzZoU3RBZVExUmQxNlFFR2VleV8xejhSQUN5aGVZVzdTOTF3WTRXNmNROUpURUxrVlZrTDVjeWdFWTViZEFFZWE5ZTU3U3B6aWl5WXF4b0llMS13QmpkMl9mRzJvVHJwb2ZHZmNBeEZDRWY5V3NzRWR6bHpWd2p4UkhIRk1uUjd1ancxckhRdkZsanI0akJtYkxsc0NjbWJRMW9TQndOeUh6Vmww?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-09T06:28:06+00:00",
-   "summary": "Trump suggested that Ukraine might end up with a \"different shape\" after the war Українські Національні Новини (УНН)",
-   "body": "Trump suggested that Ukraine might end up with a \"different shape\" after the war Українські Національні Новини (УНН)",
+   "published": "2026-11-09T06:21:26+00:00",
+   "summary": "'I inherited that war': Trump blames 'hatred' between Putin, Zelenskyy for Russia-Ukraine conflict Hindustan Times",
+   "body": "'I inherited that war': Trump blames 'hatred' between Putin, Zelenskyy for Russia-Ukraine conflict Hindustan Times",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
+    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -220,16 +525,17 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war live: Trump says Ukraine will ‘​end up with a different shape’ after deal",
+   "title": "Ukraine-Russia war latest: Trump suggests Ukraine will end up with a ‘different shape’ after peace deal",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzM1TGJuNnFxUDNaVmc1dWFmekVTNEdPRjUwV0s2T3NqdFctNUt3ZE9OWUhpMWRZS3VFTVBQRnYyVm8zM0FCZEdBbDByeGw1RjNwRFQ0YXBfQ2xXbER3cUZmU1N4N0NIZUVkMlBWeDljdzM2V29maExuYVl4RDhnXzZtOFh5UU5EV3lzdWF4UlhoM2l4TXlMdTQybmFLZWw0OEk3c3Jzd0J0QTBZTHBENmxCdHd3ZW1oT0F2TU9R?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-09T06:19:23+00:00",
-   "summary": "Ukraine war live: Trump says Ukraine will ‘​end up with a different shape’ after deal The Independent",
-   "body": "Ukraine war live: Trump says Ukraine will ‘​end up with a different shape’ after deal The Independent",
+   "summary": "Ukraine-Russia war latest: Trump suggests Ukraine will end up with a ‘different shape’ after peace deal The Independent",
+   "body": "Ukraine-Russia war latest: Trump suggests Ukraine will end up with a ‘different shape’ after peace deal The Independent",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
+    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -293,7 +599,7 @@
    "lang": "en"
   },
   {
-   "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+   "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-09T06:01:52+00:00",
@@ -351,21 +657,6 @@
     "India"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--npMraPxo--/c_crop,h_1125,w_2000,x_0,y_58/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/02/jem_0067.jpg?itok=ZdtmSgTJ",
-   "lang": "en"
-  },
-  {
-   "title": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker - CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RMHBKdDFCYmFBVGZadTNMaUJXTFRpdTJLZDJDeUNqUkZNUzlraWt1alJPWVR3dmh6a0pONlBMUGliUTBzOXVncDVJazFnZjVLZHZ4UFk5TWR1dGpWOXEtVWUtdlNJNHk4YjBnbjM2bTlPYXgyVXdXcQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T05:57:22+00:00",
-   "summary": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Cowboys 27-23 Colts (Nov 8, 2026) Game Recap ESPN NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid The Guardian Thoughts on Colts' wild loss to Cowboys",
-   "body": "Dallas Cowboys vs. Indianapolis Colts Live Score and Stats - November 8, 2026 Gametracker CBS Sports Cowboys 27-23 Colts (Nov 8, 2026) Game Recap ESPN NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid The Guardian Thoughts on Colts' wild loss to Cowboys, including Daniel Jones, Josh Downs and Jonathan Taylor IndyStar Gut Feeling: Staff predictions for Cowboys-Colts Dallas Cowboys | Official Site of the Dallas Cowboys",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -430,22 +721,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump Backs Jensen Huang After Nvidia CEO Confirmed His Affair - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW1qeVhkYmM3aDRUeTNrYURGdmxLUTlrQy1ZZGRvRlRKTjB6OTNuTjVaMFE4SThDLTRXLUp3Z1E5SWh5U2xvTi1mUi1uLXNPdGlaTjNRc1BvNHh4V1ZzUk1BU3BERGJMdS1FTlpDSXhpR0liXy1OR0F3c1dKYlZYb3k3enhWTXlhb1ZWck5jS3Uyc2tLYWhzTHA4UDNfUTA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T05:33:00+00:00",
-   "summary": "Trump Backs Jensen Huang After Nvidia CEO Confirmed His Affair Business Insider Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Jensen Huang: Silicon Valley superstar engulfed by personal scandal BBC Statement From NVIDIA Board of D",
-   "body": "Trump Backs Jensen Huang After Nvidia CEO Confirmed His Affair Business Insider Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Jensen Huang: Silicon Valley superstar engulfed by personal scandal BBC Statement From NVIDIA Board of Directors NVIDIA Newsroom Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff. WSJ",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Pope delivers veiled rebuke of Milei's austerity measures",
    "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -458,6 +733,22 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T05:29:25+00:00",
+   "summary": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post Seven dead and more than 100 injured after trains collide in Egypt BBC Train collision in Egypt kills at least 7, injures dozens, health ministry says Reuters Trains Collide Near Cair",
+   "body": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say The Washington Post Seven dead and more than 100 injured after trains collide in Egypt BBC Train collision in Egypt kills at least 7, injures dozens, health ministry says Reuters Trains Collide Near Cairo, Killing 4 The New York Times Collision between 2 trains in Egypt kills 7 and injures more than 100 ABC News - Breaking News, Latest News and Videos",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Egypt"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -477,16 +768,31 @@
    "lang": "en"
   },
   {
-   "title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWd5X1BpVzdkRlNLcm5qQi1YMEpGT2JhWTgtX0pidHEwZE90ODI2UU5iSlVsZ0VEWXd5b3M5NXJ1LW55MFcxZVJoQWxUcHRQaTVNSl9DM3Y4SkR1UDd4MlNCXzF2NS04bmo1V0hkRjFJZk1MZldhUG5qZnhVaVFFRDBaSzYzWXFpemk0M0NOb2ppbTJxenBxQkZHWnUtcEZsZzBFT09kdVhxUHFQd3RjRjg1VFEzcVNETTZKdw?oc=5",
    "source": "Google News",
-   "published": "2026-11-09T05:21:00+00:00",
-   "summary": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates CNBC Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Yahoo Finance Opinion | Tech Stocks Had a Terrible Day. What’s Coming Could Be W",
-   "body": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates CNBC Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Yahoo Finance Opinion | Tech Stocks Had a Terrible Day. What’s Coming Could Be Worse. The New York Times Wall Street Strategists Call Stock Rout a Fresh Reason to Buy Bloomberg.com Stock Futures Are Drifting Higher on Sunday Barron's",
+   "published": "2026-11-09T05:26:29+00:00",
+   "summary": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” TechCrunch Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Nvidia ‘honeytrap’ scandal rocks AI industry as tech stocks recover from slump – ",
+   "body": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” TechCrunch Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy The New York Times Nvidia ‘honeytrap’ scandal rocks AI industry as tech stocks recover from slump – business live The Guardian Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff. WSJ Statement From NVIDIA Board of Directors NVIDIA Newsroom",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United States"
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russian Offensive Campaign Assessment, November 8, 2026 - Institute for the Study of War",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVBUVk02YjRiWkdxNU5hTUdsNUdPY3ZvNHdFczJtd1hjbk1ZZy01bGZqNnp2X1hsbUMtd0M0N0NldU5ial84dWVuaFRwMjlaUUhya3ktY1RPR1l4WmRWNUl3aUVjMmRDYy1qY3h0MXJ1LTlLZk1wanNaSGJBVkxYV05NYXVTeGRmTXVmYjgwTzVxeERjaTlPZ29OZXE0OHNzcVhrQnM4SkZDU0U?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T05:26:26+00:00",
+   "summary": "Russian Offensive Campaign Assessment, November 8, 2026 Institute for the Study of War",
+   "body": "Russian Offensive Campaign Assessment, November 8, 2026 Institute for the Study of War",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -748,17 +1054,16 @@
    "lang": "my"
   },
   {
-   "title": "Asian stocks rebound after AI rout - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
+   "title": "Bears 27-24 Buccaneers (Nov 8, 2026) Game Recap - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13M1ZPREp3V3BRZUhKUXhYUmozOEpBWVEtSWhQUFpjNERrVkV3SGhHVVZzdXpwSU5iYnpJN2tWcjNQY1V5SWVNdjFrcGVDLU40VEJBdUYzQjlJMjQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-09T04:55:33+00:00",
-   "summary": "Asian stocks rebound after AI rout Financial Times Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Reuters Paraguay President Peña under investigation, faces removal from office over bank collapse AP News Korea, Taiwan and Japan take first jolt from Dem",
-   "body": "Asian stocks rebound after AI rout Financial Times Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Reuters Paraguay President Peña under investigation, faces removal from office over bank collapse AP News Korea, Taiwan and Japan take first jolt from Democratic AI shock Asia Times Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo Finance",
+   "published": "2026-11-09T04:56:31+00:00",
+   "summary": "Bears 27-24 Buccaneers (Nov 8, 2026) Game Recap ESPN How to bet Buccaneers-Bears: Tips, analysis and our top prop plays ESPN The good, the bad and the ugly from the Bucs' Week 9 loss to the Bears Yahoo Sports Bears survive Buccaneers in chaotic primetime finish after Caleb Willia",
+   "body": "Bears 27-24 Buccaneers (Nov 8, 2026) Game Recap ESPN How to bet Buccaneers-Bears: Tips, analysis and our top prop plays ESPN The good, the bad and the ugly from the Bucs' Week 9 loss to the Bears Yahoo Sports Bears survive Buccaneers in chaotic primetime finish after Caleb Williams throws four interceptions Fox News Bears' Cairo Santos 'had to have my teammates’ backs' with game-winner Chicago Sun-Times",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "Taiwan",
-    "Japan"
+    "Egypt"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -822,27 +1127,12 @@
    "lang": "en"
   },
   {
-   "title": "Russian Offensive Campaign Assessment, November 8, 2026 - Institute for the Study of War",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVBUVk02YjRiWkdxNU5hTUdsNUdPY3ZvNHdFczJtd1hjbk1ZZy01bGZqNnp2X1hsbUMtd0M0N0NldU5ial84dWVuaFRwMjlaUUhya3ktY1RPR1l4WmRWNUl3aUVjMmRDYy1qY3h0MXJ1LTlLZk1wanNaSGJBVkxYV05NYXVTeGRmTXVmYjgwTzVxeERjaTlPZ29OZXE0OHNzcVhrQnM4SkZDU0U?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-09T04:30:00+00:00",
-   "summary": "Russian Offensive Campaign Assessment, November 8, 2026 Institute for the Study of War",
-   "body": "Russian Offensive Campaign Assessment, November 8, 2026 Institute for the Study of War",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Godzilla Minus Zero takes US box office by storm in opening weekend",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc19PQlI0VGJhblhwX3lBTEhTNHVlZGItRk5OVVdscmhRUVdrMU1Dd29jMVdXN1FYTTVmTkd3S3BieXJVUkJPT1JwSUM3OElPa2pQd1JBQzZRY1ZvRC1rZWtpREtwYlNhUVJwSy1EaEJ6MW0wUUhHOHJob3dHMkhoR2ZiXzZBZ2sxVTM0clhOUjhhRjBDeU5VTjVlck0tSGdKZkVRQzJ5WC1La0pOTERHMlNTcw?oc=5",
    "source": "Google News",
    "published": "2026-11-09T04:26:00+00:00",
-   "summary": "Godzilla Minus Zero takes US box office by storm in opening weekend The Guardian Film Critic Review: ‘Godzilla Minus Zero’ Forbes ‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety Box Office Global: 'Godzilla Minus Zero' Beats 'Ramaya",
-   "body": "Godzilla Minus Zero takes US box office by storm in opening weekend The Guardian Film Critic Review: ‘Godzilla Minus Zero’ Forbes ‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety Box Office Global: 'Godzilla Minus Zero' Beats 'Ramayana' $63M to $55M WW Deadline The ‘Godzilla Minus Zero’ Team on Crafting the Sequel’s Human Drama Gizmodo",
+   "summary": "Godzilla Minus Zero takes US box office by storm in opening weekend The Guardian Film Critic Review: ‘Godzilla Minus Zero’ Forbes ‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety The ‘Godzilla Minus Zero’ Team on Crafting the Sequel’",
+   "body": "Godzilla Minus Zero takes US box office by storm in opening weekend The Guardian Film Critic Review: ‘Godzilla Minus Zero’ Forbes ‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office Variety The ‘Godzilla Minus Zero’ Team on Crafting the Sequel’s Human Drama Gizmodo Box Office Global: 'Godzilla Minus Zero' Beats 'Ramayana' $63M to $55M WW Deadline",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -901,6 +1191,21 @@
   },
   {
    "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUEwX0dLYVM0YWRDdkQtM05Iam00dklQbWFzTEhfLWFRS0ZiRkNHNUd6REVBdW93NlprWlFQMXVaRDM2cmk1WjhWbVl0c21vZk5pcG0zVFJfSDVydWMxVVJtQzlTQVBMNEhrU3h2bHZQUGdZcngxanpHTjMyRGhfLUxrXzRfelBndDN0bDc4aEd1WGs2QVdBeWVLMWRJZjlFUVM3TWxoeHF2d2RkbzlleWluUnJ1Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T04:01:00+00:00",
+   "summary": "Trump tells 60 Minutes that deportation policy was ‘too tough’ The Guardian 10 takeaways from Trump's 60 Minutes interview: Why GOP lost the midterms, what went wrong on immigration and more CBS News Trump says immigration crackdown was 'too tough' and played part in midterms def",
+   "body": "Trump tells 60 Minutes that deportation policy was ‘too tough’ The Guardian 10 takeaways from Trump's 60 Minutes interview: Why GOP lost the midterms, what went wrong on immigration and more CBS News Trump says immigration crackdown was 'too tough' and played part in midterms defeat BBC Trump defends Hegseth ahead of expected impeachment vote CNN Trump says deportation policy was 'too tough' for voters DW.com",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
    "source": "The Guardian",
    "published": "2026-11-09T03:59:31+00:00",
@@ -927,6 +1232,50 @@
     "United States",
     "China",
     "Taiwan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T03:59:00+00:00",
+   "summary": "China Producer Inflation Accelerates to Over Four-Year High WSJ China wholesale inflation hits highest in more than four years as consumer measure slows CNBC China’s producer prices hit four-year high Financial Times Chinese Producer Inflation Hits 5.7% for Post-Covid Era High Bl",
+   "body": "China Producer Inflation Accelerates to Over Four-Year High WSJ China wholesale inflation hits highest in more than four years as consumer measure slows CNBC China’s producer prices hit four-year high Financial Times Chinese Producer Inflation Hits 5.7% for Post-Covid Era High Bloomberg.com China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates Reuters",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards - The Hollywood Reporter",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZE52M25kV3I0YlRYMnZGa3NqalZWV184Wi04LXRjSlNPMnl2OGllZ3A4V2tScTJWbGsyWG1McThlOFhlOUtMc1ZRa0dMaXZHWjBmbU1VdXNhYU1iMnp3cEFiX0swQmVLaDl6VFdYZWJiVHlXMlhVcUNMd2gxV1RhSkVhclg2SzlzUWFLV3BGTjZLWHJxSXo0OElMRnNxcE9VUEFSRFBQSHNaWWIxbDRoQ0hDVVM0QQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T03:58:10+00:00",
+   "summary": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards The Hollywood Reporter See more headlines & perspectives on Google News",
+   "body": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards The Hollywood Reporter See more headlines & perspectives on Google News",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says Ukraine will have a \"little bit different shape\" after war ends - Українська правда",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xTEx4SHlFak9KNUlXY1ZFSGxnQ0sxRUlmNTFUaFlVb1Fqby0yUHlBY1AycWowamJOOXdpYVp2MTZUNjI4b0VrRVFHWklEVjZXSUw1M3lrRlJGSlI2OGlKVk5NRULSAXBBVV95cUxQVXBoOHJSVXBjV1ljRXppcThRejA4WlJ0d2JnZExjRFVMakxMcnVpSnl3U2VIMy1oZlRkend1amduT3ZpSkRacVpJN3RZWDN6eTJYMG85Y1V4MVpsNENpUFhkTy1RdTBCV3dKalRTVlpq?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T03:50:00+00:00",
+   "summary": "Trump says Ukraine will have a \"little bit different shape\" after war ends Українська правда",
+   "body": "Trump says Ukraine will have a \"little bit different shape\" after war ends Українська правда",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -994,6 +1343,21 @@
    "lang": "en"
   },
   {
+   "title": "Two Washington deputies killed trying to rescue possible hostages after woman shot",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczRaMnBtODVnOFpnekMwelZyZ2hiWWRycDFuT0JhcUI1aVRsZ0t5ZXYyUkMzY0NMOWtBWlE1akdnampoeHJDRVdUbVpSQ0d5aGVGamRBOGJaSTJNSThPQi1sTnFVNVBRQjBTcXZ2VXlabW9kUk5JRHZXWktZOEdsNjZtQjlsWXBYZ3llTWVCOU9fanVPRTc1SEw5ZnFScVhkLU5Rd2RYcy1pZ9IBrwFBVV95cUxPdVg3d1J0ODBucjQ1T1htUnVweWpkdEJDbjhYUUkzdmpjREVYdm9rUjM0Tl9fd1c5Z2hZSXc3bkxMTm5KUUpqbzZVZlVTcEJxS3daT2FKd2tZdWk2Y3phRXBEV3pzcGNSdTR1eFZDdTZ4Znh5Y3dQZ09SbEtBb3VFTVVCUHpaUmh4SnAxVXp0OE5EWXZZd0ljV0NqN2lWTVpDVGU5c3NhNVdUdVAxMVo4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T03:27:55+00:00",
+   "summary": "Two Washington deputies killed trying to rescue possible hostages after woman shot Fox News Oakesdale mourns deputy Parker Perry KXLY.com Spokane County Sheriff's Office identifies deputies killed, critically injured in Spangle shooting NonStop Local KHQ Deputy Sheriff Parker Per",
+   "body": "Two Washington deputies killed trying to rescue possible hostages after woman shot Fox News Oakesdale mourns deputy Parker Perry KXLY.com Spokane County Sheriff's Office identifies deputies killed, critically injured in Spangle shooting NonStop Local KHQ Deputy Sheriff Parker Perry, Spokane County Sheriff's Office, Washington Officer Down Memorial Page Spokane County deputy dies and another not expected to survive after shooting in Spangle KREM",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1010,23 +1374,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump says Ukraine will emerge with 'different shape' after Russia war - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-09T03:17:10+00:00",
-   "summary": "Trump says Ukraine will emerge with 'different shape' after Russia war Anadolu Ajansı",
-   "body": "Trump says Ukraine will emerge with 'different shape' after Russia war Anadolu Ajansı",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "South Africa’s ANC suffers worst-ever local elections result",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1037,21 +1384,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794193777.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3VlRVJYTUh0V1BJejhUVWhlNmlEZ1lUS0RmQ3FRMm5OTGlpNGFTWmlfWEZiQXhCR0duQks1M242UEpaZEVLb01tMS1nYl9nVmxySUczbDhEOGRua3Z4MXV3aU1aYWRqdUZRMkFwQTBGYzRLMHdFVW51VEw4N19Kb2hkS0oydk9FUTl0N2xjdHF1UFZpTTFN?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T03:08:08+00:00",
-   "summary": "Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call The New York Times Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest 6abc Philadelphia Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC10 Philadelphia",
-   "body": "Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call The New York Times Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest 6abc Philadelphia Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC10 Philadelphia Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia CNN Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s' Fox News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1082,7 +1414,7 @@
    "countries": [
     "United States"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg",
    "lang": "en"
   },
   {
@@ -1138,12 +1470,10 @@
    "source": "Google News",
    "published": "2026-11-09T02:22:00+00:00",
    "summary": "'Love Is Blind' Season 11 reunion bombshells – Cheating, shock engagement USA Today When Is the Love Is Blind Season 11 Reunion? Find Out How to Watch Tonight Netflix ‘Love Is Blind’ Star John Shannon Admits He Cheated on Wife Sarah Williams with ‘Graphic’ Texts to Stripper Peopl",
-   "body": "'Love Is Blind' Season 11 reunion bombshells – Cheating, shock engagement USA Today When Is the Love Is Blind Season 11 Reunion? Find Out How to Watch Tonight Netflix ‘Love Is Blind’ Star John Shannon Admits He Cheated on Wife Sarah Williams with ‘Graphic’ Texts to Stripper People.com 'Love Is Blind' Stars John Shannon and Sarah Williams Divorce TMZ Love Is Blind’s Sarah and John Address Divorce, Other Biggest Bombshells From Season 11 Reunion Us Weekly",
+   "body": "'Love Is Blind' Season 11 reunion bombshells – Cheating, shock engagement USA Today When Is the Love Is Blind Season 11 Reunion? Find Out How to Watch Tonight Netflix ‘Love Is Blind’ Star John Shannon Admits He Cheated on Wife Sarah Williams with ‘Graphic’ Texts to Stripper People.com 'Love Is Blind' Stars John Shannon and Sarah Williams Divorce TMZ What Happened with Sarah and John on ‘Love Is Blind’? Vulture",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1167,8 +1497,8 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
    "source": "Google News",
    "published": "2026-11-09T02:08:37+00:00",
-   "summary": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Top House Democrat 'a hard yes' on impeaching Hegseth BBC House poised to impeach Pete Hegseth after GOP midterm defeat Axios Talk of Hegseth Impeachment Grows After Democratic Midterm Sweep",
-   "body": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Top House Democrat 'a hard yes' on impeaching Hegseth BBC House poised to impeach Pete Hegseth after GOP midterm defeat Axios Talk of Hegseth Impeachment Grows After Democratic Midterm Sweep The New York Times Is Hegseth the New Rumsfeld? Foreign Policy",
+   "summary": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’ The Guardian John Oliver Unleashes Withering Critique Of Pete Hegseth On ‘Last Week Tonight’ Deadline Top House Democ",
+   "body": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment The Washington Post Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’ The Guardian John Oliver Unleashes Withering Critique Of Pete Hegseth On ‘Last Week Tonight’ Deadline Top House Democrat 'a hard yes' on impeaching Hegseth BBC House poised to impeach Pete Hegseth after GOP midterm defeat Axios",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1211,22 +1541,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUDBWSjVWNkpQamlxV21lOXlCRG9MLTY3bEYwaFR4MFFaTmFoZWUxQVVwc2pNckJjX1hjOEV6eXNVT2oyX05scTBLTU9ZWHNzaGNFNnMxemlESjFRNE1LSl9uSFNFMTIxUllmMFBNcTNFclh6WUROWEhUSm9ZYTlfN2RjcldFYVFCd1ZjOTlxNVRJRnBVc1dCblo3TDYyQ1hpMjhnaG5oaE5ncVpxTTJHYzliV29hSGc0TW0yYTJaN0ZWdzlNUlZoQWxOVkptdlpzdk4wVWJlNG9KZUdfdWYwTnNLVkgxdUJBZVVFY1EwTGl6R2lSaU9vTHY4REHSAYICQVVfeXFMUDBhbUF0Q3cwR0ZJTjloRDJLWHZkREpKNlROWkRlME05bGVXOVpnR09yYVlBeU1mZkxNSU0zU1YxVzZ6dGZPNjh2QVlCaVIxaEFYMWUxSHAxXzFDUk43d2FvSG1DSXdJOHk0aUgzbHVULW5menZNVXo4TjJfc2dkOVJHbEc1VU9BZUxqbW1LeE43bTlaVmVtQjhsZXdaRGFGNVI1NnJNdm85MW9MR1MxTWpuWFBIbWZqRXJ4OHVMRGdYbmFHS0NiQjlqdVA3ei1PZTZYWkJPNkhMUEFFdkhqVFFBU25QWjRVcHQxdF9YR2Q0bUtIcW9NQ0lRbGFRZHFySkln?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-09T02:01:33+00:00",
-   "summary": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest The Economic Times",
-   "body": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest The Economic Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnYxU1hlQ2Vib01aVVJuZzdydnd1d2ozanJlbklReFpISkNJeG1zZFRSMkN4d3dwcU5EMktnLVdzOENRaDRHUjFwWm5vYS1pWWQ5OTF1NDZMM3gydm9YMVJ4Y2dxYUxoU0N0S2ZTZmw4eG5aSFR1TDdzSHhtSEJhT0FCelc0OFc4YnBmbEVhSmVRRVU5WjMzc25HX0VZaWRwWUx5WExHTW84VXNNYWpZcXdFSWVSY0VxYmdUZEl0aW1lRkhiZmRubUdvM2hJdHphdmttcWgwN0FZbFVWbmZF?oc=5",
    "source": "Google News · Ukraine",
@@ -1259,12 +1573,12 @@
    "lang": "en"
   },
   {
-   "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+   "title": "‘Homicidal, not suicidal’: Beau Lamarre-Condon allegedly claimed workplace bullying for sympathy, court hears",
    "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
    "source": "The Guardian",
    "published": "2026-11-09T01:44:14+00:00",
-   "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied he was “homicidal”, not “suicidal",
-   "body": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied he was “homicidal”, not “suicidal”, as prosecutors in his double murder trial alleged he used claims of workplace bullying for sympathy. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+   "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon was “homicidal, not suicidal”, a court",
+   "body": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon was “homicidal, not suicidal”, a court has heard, as prosecutors in his double murder trial alleged he used claims of workplace bullying for sympathy. The former police officer is accused of fatally shooting Jesse Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1304,12 +1618,12 @@
    "lang": "en"
   },
   {
-   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat - AP News",
+   "title": "Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says - AP News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
    "source": "Google News",
    "published": "2026-11-09T01:38:00+00:00",
-   "summary": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat AP News Rubio Sees No Iran Breakthrough as Trump Downplays Strikes Bloomberg.com Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic Iran International Rubi",
-   "body": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat AP News Rubio Sees No Iran Breakthrough as Trump Downplays Strikes Bloomberg.com Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic Iran International Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat Al Jazeera 'Iranian demands are outrageous,' Rubio says as talks fail to make progress The Jerusalem Post",
+   "summary": "Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says AP News Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic Iran International Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes Bloomberg.com",
+   "body": "Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says AP News Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic Iran International Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes Bloomberg.com Trump ‘holds all the cards’ in war against Iran’s regime, White House says Fox News Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat Al Jazeera",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -1410,19 +1724,6 @@
    "lang": "en"
   },
   {
-   "title": "Improve Your Mac Mini's Performance With These Simple Changes - BGR",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fSnNaNFUzSkl1aDBXWGFaRTdHSVBQdFJQYUh0Sk10TEJLeWFIZ1R3Q1hrZWt1NlZzU1ZldDFCRWZrRk0taldrR3R1T2NmWmRaQWx0TDFzdFpFOTA0TGNoSDBOSEt6SGJiUXd6LVF3aW9EaFU1NFJqZDFIRWo?oc=5",
-   "source": "Google News",
-   "published": "2026-11-09T00:47:00+00:00",
-   "summary": "Improve Your Mac Mini's Performance With These Simple Changes BGR 5 Cheaper Alternatives To The M6 Mac Mini SlashGear Mac mini and Mac Studio Hit All-Time Lows, Up to $200 Off [Deal] iClarified Apple Mac mini M6 deal: The latest version of our 5-star mini PC price-drops ahead of ",
-   "body": "Improve Your Mac Mini's Performance With These Simple Changes BGR 5 Cheaper Alternatives To The M6 Mac Mini SlashGear Mac mini and Mac Studio Hit All-Time Lows, Up to $200 Off [Deal] iClarified Apple Mac mini M6 deal: The latest version of our 5-star mini PC price-drops ahead of Black Friday TechRadar Mac mini Black Friday 2026: Buy Now or Wait as Memory Costs Rise? zeera wireless",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Maya Jama steps down as Love Island host after nine seasons",
    "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
    "source": "The Guardian",
@@ -1456,7 +1757,7 @@
    "source": "Google News",
    "published": "2026-11-09T00:39:39+00:00",
    "summary": "1 person stabbed in neck during Halloween party at Jamie Foxx’s mansion: TMZ KTLA Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault With a Deadly Weapon TMZ Police Called to Jamie Foxx’s Home After Reported Stabbing During His Annual Halloween Festival Pe",
-   "body": "1 person stabbed in neck during Halloween party at Jamie Foxx’s mansion: TMZ KTLA Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault With a Deadly Weapon TMZ Police Called to Jamie Foxx’s Home After Reported Stabbing During His Annual Halloween Festival People.com Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Jamie Foxx’s Halloween bash turns bloody after guest stabbed in neck: report Page Six",
+   "body": "1 person stabbed in neck during Halloween party at Jamie Foxx’s mansion: TMZ KTLA Jamie Foxx Halloween Party: 1 Person Stabbed, Suspect Arrested for Assault With a Deadly Weapon TMZ Police Called to Jamie Foxx’s Home After Reported Stabbing During His Annual Halloween Festival People.com Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon Yahoo Jamie Foxx’s Halloween Party Ends in Chaos After Attendee Was Reportedly Stabbed in Neck Complex",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1495,17 +1796,15 @@
    "lang": "en"
   },
   {
-   "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmZSMGRvWVljbG14SGpMOGtMNGRvT1ZYUTR1MDM3TFpNbFNjRFlzNDlrOTgxZ1FSUmNYcHhYdVdGd0xWMUpvdnFvR0lBM1BKRDBCUlJuWmxrN0d0aHpMS2RGRWVreEU5YldVaVYteVhqaGtQNllfLW9na3lrYjhqTklKMUdBTzBPekZqVXdod1BjeTVONGx0dVdCeWxxVlA5Wm5V?oc=5",
+   "title": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3E5dzFJdFlNZFFGZDNhNU0tTW9SUUZVYWhMQkRJR1Q4aDdpWlBLN0hIV1JEWmx3Tzl1RlJnNGNmTjlLWFdCWUtNbk1LQl9Rd1pUaXozczhrdWNDQWlNT1FjQ1p6SHNUVWpIODN2dXl4RWpHenBaVXhZREdhVmdxazF0aldjcVJERE14cDJZMGxIQW14aU9SRExnUWhLazBoODl5cF9vNnA4Q29zOU5kVUIwcTg?oc=5",
    "source": "Google News",
-   "published": "2026-11-09T00:19:58+00:00",
-   "summary": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver AP News The economy propelled Democrats to victory. What can they actually do about it? NPR What the election results could mean for gas prices, groceries, and health insurance Yahoo Finance",
-   "body": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver AP News The economy propelled Democrats to victory. What can they actually do about it? NPR What the election results could mean for gas prices, groceries, and health insurance Yahoo Finance The affordability election that teaches Democrats nothing Politico How Will Democrats Tackle Affordability? What To Know After Election Sweep Forbes",
-   "category": "USA / Americas",
+   "published": "2026-11-09T00:15:00+00:00",
+   "summary": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old NBC News 'He’s a danger to all children': Eastern Oregon man accused of abusing six-year-old now faces federal charge in Utah KTVB Disturbing new details revealed in case of missing Utah teen",
+   "body": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old NBC News 'He’s a danger to all children': Eastern Oregon man accused of abusing six-year-old now faces federal charge in Utah KTVB Disturbing new details revealed in case of missing Utah teen found in Oregon KATU Man arrested as girl, 17, found in Oregon after disappearing from Utah last year The Guardian Utah girl missing for 17 months found at home of Oregon man who faces federal charge AP News",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1525,16 +1824,16 @@
    "lang": "en"
   },
   {
-   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-   "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-   "source": "The Guardian",
-   "published": "2026-11-09T00:01:05+00:00",
-   "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is ",
-   "body": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing disengagement from education. Lucy Powell wants schools to end the widespread practice of teaching GCSE topics to pupils in year 9 or earlier, before they officially start in year 10, and says she plans to reduce the amount of GCSE content to make it easier to fit into the official timetable. Continue reading...",
+   "title": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation - TechPowerUp",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzROUElnYzl2Mi1PcXhDZVdhTFEzQWtES01MSXhFT01BSEo1WFV3NzZkM3lzNms2eWhMR0FFS1NwTmRpQkV5S1ozeGd3UXpFcjNINHZKcWREb091d3B4b1ZUNV93R1pZZHd3VHByQlJ4NnFGU0xZb0FyUzZxRGk0M0JGclZSN1pYRDVOTWRlaHZhSXBEemdNSG5yYWZwT3RyMnQ3T0p5dEJHVW9sU2lYaFpRUWTSAboBQVVfeXFMUDFtZk5kSFI1cVVyNmJqSThNOG51NkdPalFRUzdUNVJFemhLTWVWVGlxYTd0LVNOeDZoZzhCTGJVYTFxSWhNRXNYTWpldTJhRE1NbUxhSDUwWm81UmgtTzJTSDhMRHFZUGluQmcwLUNfU0ZHN09xTEJDMm9HcUYtM3FtY3VkM0ptemk1b29ZSVVmZ1hXNnZfbUszSFRoZUFRQWFTVjZhNU5WMzg5N3JIQkRCTlFqRk5oSkxn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-09T00:06:10+00:00",
+   "summary": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation TechPowerUp A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In The New York Times Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Part 1 Nintendo Review: The Lege",
+   "body": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation TechPowerUp A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In The New York Times Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Part 1 Nintendo Review: The Legend Of Zelda: Ocarina Of Time (Switch 2) - A Stunning Remake, But Not Quite Definitive Nintendo Life Costco members can get $5 off the reimagined Ocarina of Time The Verge",
    "category": "Global",
-   "is_war": true,
+   "is_war": false,
    "countries": [],
-   "image": "https://i.guim.co.uk/img/media/29cf0e38613d5172328a5e922b8a72c9980a3b77/517_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=6ae6737332d56f99bafc50538b6adb85",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1568,18 +1867,19 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T23:58:53+00:00",
-   "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-   "body": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-   "category": "Global",
-   "is_war": false,
+   "title": "Watch Hacked Records Put Russian War Deaths at 400,000 in Ukraine War - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnZvVXUtRmZDdEpCOENXNGhkczRYVzRzZnUzcmptSDkwQnVVbVBZTGVKVS0yVk1ScTNIRTJqWFF5dXJXdmNjZVJTeUxoYTNUcVZCV0FEb2hZenRGSG9la2dBQ1FMQ0FxekQyMDQ0LVVsS0p2MXNqd202cElabWZzM09jaVFSNV9iU1hPckV2RjBnTjB0ZVlmaUVYM0ZWSnpVRWJHdGxB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Watch Hacked Records Put Russian War Deaths at 400,000 in Ukraine War Bloomberg.com",
+   "body": "Watch Hacked Records Put Russian War Deaths at 400,000 in Ukraine War Bloomberg.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "China"
+    "Ukraine",
+    "Russia"
    ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794182270.jpg?resize=800%2C600&quality=80",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1600,61 +1900,32 @@
    "lang": "en"
   },
   {
-   "title": "Mexican mayor found alive after hours-long abduction",
-   "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T23:55:37+00:00",
-   "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-   "body": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/839960357_1761056249362883_3060267845179277510_n-1794178426.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ - Variety",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmFCZUd4eXFLRmFHSFVMdm9oam5LZi1Pc2t3R0NlVGJZUGhTMnRFMVlwWjZvMmU1RFV4R09GMDRLNXpDNVRYZlFKNDY2cThlc2JEWjhacnQySlRTdG0tYTdQTW1Dd0dKR3huNWhEM3NXMWU2SVd5Y3BlUl9pNzBFT3lB?oc=5",
+   "title": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-08T23:54:00+00:00",
-   "summary": "Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ Variety Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times New James Bond Director Denis Villeneuve Jokes About Revealing Who Will Pla",
-   "body": "Denis Villeneuve Teases James Bond Progress at LACMA Art + Film Gala: ‘I’m Having a Great Time’ Variety Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala Los Angeles Times New James Bond Director Denis Villeneuve Jokes About Revealing Who Will Play 007, Shares Casting Update IMDb Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala The Hollywood Reporter Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond IGN",
+   "published": "2026-11-08T23:50:00+00:00",
+   "summary": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist Reuters See more headlines & perspectives on Google News",
+   "body": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist Reuters See more headlines & perspectives on Google News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQURwRlVlSU93ZzM5R0I4cXQzZzhuMjNJWjkwaEEwaHFzaXdpcEk2bWNXUU9zQUxOR1J2NjJkZ0ZkR0ZmZGlBTVZUMWdKS3Z3bVkzNkJRSXBnTWVDbXNXc3AtQmVWT3Z2QXEyNzUxT3NJMHpZQTFvSXV2MFI1bWpUc1p3UHpBYnBuWFVJTHNXc2Y2TWEyOXNMdlNNM21SWGpLZzNzcFZR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-08T23:47:37+00:00",
+   "summary": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC News See more headlines & perspectives on Google News",
+   "body": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants NBC News See more headlines & perspectives on Google News",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1VnaWFTRENkVThTNzhzdnFaVWV3ZnZMSDhPbzBwdTlvamZKTXJLdFhRS3g0UUpzSHE1ZExZU3RTd0I2SmpaTW1yN0JHTGtPUnBtWFUwbmIweHpqdzczbzhZN1dfRzJ4UmNVZFo4M3piMnVOUXM0ekl2UEpoaHVGSnZQbk9hRU5SbXB1c0s0WVpXYjhTUzRpOUFoQTk2djZFNDV1Mk02UTZtMndtREZUQWsxeHRHOXpIWWlRbUh0TmlUeGNIX1pv0gHMAUFVX3lxTE5GUHBjYXlZLWtJYzgyVUlmdDIyVk1KRWdQX1hmazVoNXJvMHg3Q21lZXlXVExtNUZDeUMyV0liMXN5TGxFa3Zka0ZneHdhRS1hdlJKUTNocWs3ZnV2bW94aHl1cDNLMDVjQnhIWVJneFM3akRlMU1RQ08wZkdnTG5ZSDNQLTFOSzMzNWpfRUk4c1lxdGRhLVhSVFNSVDNrZHhwbTIzMTZTb2UtQllhUEdNcDRVVXlUTElqcXhrOE1FVkpldmpxM2xGbzNNTA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T23:48:13+00:00",
-   "summary": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe Fox News",
-   "body": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe Fox News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-   "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T23:39:47+00:00",
-   "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-   "body": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0f25e5b86-1794175582.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1662,8 +1933,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3RMeEg2eW1DTmRRN0otSEU1Z1gwMkhySWxIdlE5ZmpOOWRBbV9tZ3A2aHN1LWpKX1BMYTdTd2tMaHEzcmZuaEdjY05zRXZmdTRORUJueHk5OWtOT0doTjM4YWl4V1JGZW1VNnBTT2xRODZLdzRPb0dLeFBJTjRCem5OckVsOFgtcVZ3?oc=5",
    "source": "Google News",
    "published": "2026-11-08T23:36:47+00:00",
-   "summary": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA Is Selecting Future Astronauts. Here’s How to Apply. The New York Times Want to fly to the moon? NASA is looking for new astronauts to ",
-   "body": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) NASA Is Selecting Future Astronauts. Here’s How to Apply. The New York Times Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News NASA opens recruitment for its next generation of astronauts The Washington Post",
+   "summary": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News NASA opens recruitment for its next ge",
+   "body": "NASA is looking for astronauts to live and work on the Moon NPR NASA Seeks Next Generation of Explorers to Join Astronaut Corps NASA (.gov) Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News NASA opens recruitment for its next generation of astronauts The Washington Post NASA Is Selecting Future Astronauts. Here’s How to Apply. The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1686,185 +1957,6 @@
    "lang": "en"
   },
   {
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-08T23:34:18+00:00",
-   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "body": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Poland"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ORWRkWFplTjh3SW8wZzZYVVZaSHVZZVMtUC1mYkxVZkgwMDE3OGE1aGtmdWRhSjlXREU4N0NHdEhTRWE2QTlxLUx4Rkw2WndaMUlBeEdtMDdmUU0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T23:34:18+00:00",
-   "summary": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC Gunman who killed 6 in Kraków mass shooting has died in hospital CNN Parents, sister of far-right Kraków shooter found dead in family home NBC News Poles mourn rare mass killing as autho",
-   "body": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC Gunman who killed 6 in Kraków mass shooting has died in hospital CNN Parents, sister of far-right Kraków shooter found dead in family home NBC News Poles mourn rare mass killing as authorities say attacker had far-right views AP News Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect The New York Times",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Poland"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-   "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-08T23:07:00+00:00",
-   "summary": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
-   "body": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://static.dw.com/image/79708779_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Trains Collide Near Cairo, Killing 4",
-   "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-   "source": "NYT World",
-   "published": "2026-11-08T23:03:01+00:00",
-   "summary": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
-   "body": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Egypt"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
-   "link": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
-   "source": "France 24",
-   "published": "2026-11-08T23:02:54+00:00",
-   "summary": "Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO ",
-   "body": "Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO during the inquiry and has pledged cooperation.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://s.france24.com/media/display/de28787e-ce09-11f1-932f-8d87bc3aeb3a/w:1024/p:16x9/4be63ee4f4f77ef4291d72acfad4aed31a19b368.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-   "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-   "source": "NYT World",
-   "published": "2026-11-08T22:48:25+00:00",
-   "summary": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
-   "body": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-   "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T22:42:12+00:00",
-   "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
-   "body": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-08T204848Z_1693770583_UP1EMB81LTCDZ_RTRMADP_3_SOCCER-SPAIN-ATM-BAR-1794171000.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUxIWEJndWwxMnBKclZqYl9iRzdUc18yQXlDR0p6WFUzX3VFQnV3UVRuZ2FJV3QtV2pMcU8tZDhsdUdYY0ZJVU5rSjN0V3M0UjJYOEZuSFczOUp6c0FDMDFPNlRsUk5tSXB5ZDEzSTRLQmJRVXZuYXl0U0Z1cTVOVk1wRDNKMmQ0aHczOWM1WWpaVHNiZ0gxc3JQcHRHZU00?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T22:38:00+00:00",
-   "summary": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine AP News",
-   "body": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine AP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
-   "link": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
-   "source": "France 24",
-   "published": "2026-11-08T22:23:19+00:00",
-   "summary": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his Latin America tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’s homeland",
-   "body": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his Latin America tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’s homeland in nearly four decades.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1024/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
-   "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T22:16:50+00:00",
-   "summary": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
-   "body": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0d9bf4c16-1794169279.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-   "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T22:16:10+00:00",
-   "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
-   "body": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e4194b-1794171929.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe - Bioengineer.org",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVdjRGprbk1rODBENUVGUWlQVUhWQjFMVzdWOFpaZUdpYW9zU3lXNVhqX3BNTUpVQnZUNWd2WFVWUElOcHRtdmNsVmRlUnBWQVd1cW1qelRXRzNEOVFMTUd3SFQ2LW8zZlZQck9MODN1d21wcHJtX3B1Q2RkemdFLWl0bnpRQkxZdUh3NTR5TWF0dndXRzRQa1lxdzd1M19YeVE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T22:15:09+00:00",
-   "summary": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe Bioengineer.org",
-   "body": "Ukraine’s War Intensifies Carbapenem-Resistant Bacteria Threat Across Europe Bioengineer.org",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ဧရာဝတီတိုင်းက အုန်းခြံတွေအကြောင်းနဲ့ နိုဝင်ဘာ ၉ RFA အထူးအစီအစဥ်",
    "link": "https://rfa.org/burmese/news/2026/11/08/myanmar-burmese-radio-show-november-09-2026/",
    "source": "RFA Burmese",
@@ -1876,82 +1968,6 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/AW3V4DZMKVAT7IXIBDSO7DDKYA.jpg?auth=a0b37f1ce8dcefa99c1033fbc812ce35cad28e316731d5a8e36363d5c1c6d907&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-   "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-08T22:05:12+00:00",
-   "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-   "body": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Poland"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "APTOPIX Russia Ukraine War - www.thegazette.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWtfMzlraW41WnI0LVVCeHp2dnZNN1VMZTRpX09vX2NYOG1kaV9UamNqYW1WYVhaQjNjMFBmMUNRZC1GVUJUZHlXMVczQ21GcVhaUmNVdjNndGdpcnBrNU9obEY5VFZTTi02VWJtbDNxXzFXREk0WGhyNU1MSk1rQVZyV1o5Wk1pSlQtWlRVQ2xmRG96cnZPNC12RURzUDlDMy1Z?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-08T22:04:47+00:00",
-   "summary": "APTOPIX Russia Ukraine War www.thegazette.com",
-   "body": "APTOPIX Russia Ukraine War www.thegazette.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Why Trump joked about having Dana White as his White House press secretary",
-   "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T22:03:54+00:00",
-   "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
-   "body": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0a1f62b4c-1794154998.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-   "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-   "source": "NYT World",
-   "published": "2026-11-08T21:48:22+00:00",
-   "summary": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
-   "body": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFg1bXdpci03eldOQ21waU42a3hTNjhsWktIM2xSeTF2RmFlWFFIYjEwNXEwZG1ONnRHd3NHWnZWUW4za1ZiT3oyX292RDZmNjNlS1BBWnRSeGFMa2VpQlJRMXczQmF1di1UUkgzd0tJMFJXZHNYc3doU2k5R1FMQV8xSkxzZldoWnY5S0wyS0Y?oc=5",
-   "source": "Google News",
-   "published": "2026-11-08T21:46:00+00:00",
-   "summary": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies CBS News Republican Sen. Ron Johnson accuses Trump administration of corruption The Washington Post Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Do",
-   "body": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies CBS News Republican Sen. Ron Johnson accuses Trump administration of corruption The Washington Post Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Donations The New York Times Blanche dismisses Means allegations as GOP's MAHA feud deepens Axios Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout WSJ",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "တိုက်ပွဲပြင်းထန်နေတဲ့ စစ်တွေမှာ တစ်ပတ်အတွင်း အရပ်သား ၁၂ ဦးထက်မနည်း ဖမ်းဆီးခံရ",
@@ -2214,19 +2230,6 @@
    "is_war": true,
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/CFJQSGTG2BBPNK4YZ2EBRZZAXE.jpg?auth=e8896210cde289acd0a61aeada23c13346db1f32c670267cb0b92f8e6f70be4f&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "ကြားဖြတ်ရွေးကောက်ပွဲ လာမည့်နှစ် မြို့နယ် ၅၀တွင် ကျင်းပမည်",
-   "link": "https://burma.irrawaddy.com/news/2026/11/06/417487.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-06T14:27:50+00:00",
-   "summary": "ယခုကြားဖြတ်ရွေး ကောက်ပွဲတွင် ထည့်သွင်းလာခြင်းဖြစ်သော်လည်း စစ်တပ်က မြို့ပေါ်သာထိန်းနိုင်ပြီး ကျေးလက်ကို တော်လှန်ရေးတပ်များက စိုးမိုးထားရာ ကြားဖြတ်ရွေးကောက်ပွဲကို မြို့ပေါ် ရပ်ကွက်များသာ အဓိကလုပ်နိုင်မည်ဖြစ်၍ အပြည့်အဝကျင်းပနိုင်ခြင်းတော့ မဟုတ်ပါ။",
-   "body": "အာဏာသိမ်းအစိုးရက လွှတ်တော်သုံးရပ်အတွက် ကြားဖြတ်ရွေးကောက်ပွဲကို လစ်လပ်မဲဆန္ဒနယ် ၅၅ ခုတွင် လာမည့်နှစ် ဧပြီ ၄ရက်၌ ကျင်းပရန်ထုတ်ပြန်ရာ ယခင်နယ်မြေမစိုးမိုးနိုင်၍ ချန်ထားသော မြို့နယ်များထဲမှ တွန်းဇံ၊ ဖလမ်း၊ နွားထိုးကြီး၊ စဉ့်ကူး၊ မိုးမိတ်၊ ထီးချိုင့်၊ အင်းတော်၊ ပုလဲ၊ ယင်းမာပင်၊ တန့်ဆည်၊ ကောလင်း၊ ဗန်းမောက်၁၂ မြို့နယ် ပါဝင်သည်။\n\nထို ၁၂ မြို့နယ်မှာ ယခင်တော်လှန်ရေးတပ်များ သိမ်းထားခြင်း၊ တိုက်ပွဲများဖြစ်ပွားနေခြင်းတို့ကြောင့် စစ်တပ်က ၃ ပိုင်းခွဲ ကျင်းပသည့် ၂၀၂၅-၂၆ ရွေးကောက်ပွဲ၌ မပါဝင်ပေ။ ယခုကြားဖြတ်ရွေး ကောက်ပွဲတွင် ထည့်သွင်းလာခြင်းဖြစ်သော်လည်း စစ်တပ်က မြို့ပေါ်သာထိန်းနိုင်ပြီး ကျေးလက်ကို တော်လှန်ရေးတပ်များက စိုးမိုးထားရာ ကြားဖြတ်ရွေးကောက်ပွဲကို မြို့ပေါ် ရပ်ကွက်များသာ အဓိကလုပ်နိုင်မည်ဖြစ်၍ အပြည့်အဝကျင်းပနိုင်ခြင်းတော့ မဟုတ်ပါ။\n\nပြည်ထောင်စုရွေးကောက်ပွဲကော်မရှင် (UEC) ထုတ်ပြန်ချက်အရ ကြားဖြတ်ရွေးကောက်ပွဲအား ပြည်သူ့လွှတ်တော် မဲဆန္ဒနယ် ၃၄ ခု၊ အမျိုးသားလွှတ်တော်မဲဆန္ဒနယ် ၅ ခု၊ တိုင်းနှင့်ပြည်နယ်လွှတ်တော်မဲ ဆန္ဒနယ် ၁၆ ခု၌ ကျင်းပ မည်ဖြစ်ပြီး စုစုပေါင်း မြို့နယ် ၅၀ မှ ပြည်သူများ ပါဝင်မဲပေးကြရမည်ဖြစ်သည်။\n\nကြားဖြတ်ရေးကောက်ပွဲ မြို့နယ် ၅၀မှာ တွန်းဇံ၊ ဖလမ်း၊ ထီးချိုင့်၊ ဗန်းမောက်၊ အင်းတော်၊ ကောလင်း၊ ပုလဲ၊ ယင်းမာပင် ၊ တန့်ဆည်၊ မြိတ်၊ ညောင်လေးပင်၊ ပေါက်ခေါင်း၊ ပန်းတောင်၊ ချောက်၊ မင်းဘူး၊ ပြင်ဦးလွင်၊ မိတ္ထီလာ၊ နွားထိုးကြီး၊ စဉ့်ကူး၊ မိုးကုတ်၊ ကျိုက်မရော၊ မရမ်းကုန်း၊ ရွှေပြည်သာ၊ လှည်းကူး၊ တာမွေ၊ ကိုကိုးကျွန်း၊ လှိုင်သာယာ(အနောက်ပိုင်း)၊ ကျောက်မဲ၊ မိုင်းဖြတ်၊ မိုင်းပန်၊ မအူပင်၊ ဇဗ္ဗူသီရိ၊ ဒက္ခိဏသီရိ၊ ဥတ္တရသီရိ၊ ဝိုင်းမော်၊ ကဝ၊ ပဲခူး၊ သနပ်ပင်၊ ဝေါ၊ ပြည်၊ ရွှေတောင်၊ ရွှေဘို၊ သဲကုန်း၊ ဇီးကုန်း၊ ရေကြည်၊ တပ်ကုန်း၊ ဇေယျာသီရိ၊ ပုဗ္ဗသီရိ၊ လယ်ဝေးနှင့် ပျဉ်းမနားတို့ဖြစ်သည်။\n\nရွေးကောက်ပွဲကော်မရှင်၏ ကြေညာချက်အရမူ ၁၃မြို့နယ်သာ တောရောမြို့ပါ အပြည့်အဝကျင်းပ နိုင်မည်ဖြစ်ပြီး ကျန်မြို့နယ်များ၌ ကျေးရွာအုပ်စုများချန်လှပ်၍ တစိတ်တပိုင်းသာ ကျင်းပမည်ဟု ဆိုထားသည်။\n\n၂၀၂၅- ၂၆ ကချင်ပြည်နယ် ဝိုင်းမော်မြို့နယ်တွင် ပြုလုပ်သည့် ရွေးကောက်ပွဲ ပြီးခဲ့သည့် ၂၀၂၅- ၂၆ စစ်တပ်ရွေးကောက်ပွဲတွင် မြို့နယ်ပေါင်း ၃၃၀ အနက် ၂၆၃ မြို့နယ်၌ လုပ်ခဲ့ရာ အချို့ မြို့နယ်များမှာ မဲရုံအနည်းငယ်ဖြင့် မြို့ပေါ်ရပ်ကွက်နှင့် ကျေးရွာအုပ်စု တခုနှစ်ခုသာ ကျင်းပခဲ့သလို ပြိုင်ဘက်မရှိသဖြင့် စစ်တပ်ပါတီ ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့် ဖွံ့ဖြိုးရေးပါတီ ကိုယ်စားလှယ်လောင်းက အလိုအလျောက် အနိုင်ရခဲ့သည့်မြို့နယ်များ ရှိခဲ့သည်။\n\nကြားဖြတ်ရွေးကောက်ပွဲ ကျင်းပနိုင်ရေး ဆွေးနွေးနေသော အမျိုးသားဒီမိုကရက်တစ် မဟာမိတ်အဖွဲ့ (NDAA) အုပ်ချုပ်ရာ ရှမ်းပြည်နယ် အရှေ့ပိုင်း ကျိုင်းတုံမြို့ အရှေ့မြောက်ဘက်ရှိ အထူးဒေသ ၄ မှာမူ ကြားဖြတ်ရွေးကောက်ပွဲ ကျင်းပမည့်စာရင်း တွင် ပါဝင်သည်ကို မတွေ့ရသေးပေ။\n\nအာဏာသိမ်းအစိုးရ၏ ရွေးကောက်ပွဲကော်မရှင်အနေဖြင့် ယခင်ကလည်း ရွေးကောက်ပွဲကျင်းပမည့်မြို့နယ်များစာရင်းအား အကြိမ်ကြိမ် ပြင်ဆင်ထုတ်ပြန်မှုများပြုလုပ်ခဲ့ရာ လက်ရှိထုတ်ပြန်ထားသည့် ကြားဖြတ်ရွေးကောက်ပွဲကျင်းပမည့် မြို့နယ် စာရင်းမှာလည်း အပြောင်းအလဲဖြစ်လာနိုင်သေးသည်ဟု ယူဆရသည်။\n\nရခိုင်ပြည်နယ်မှ ၁၄ မြို့နယ်၊ ကချင်ပြည်နယ်မှ ၆ မြို့နယ်၊ ကယားပြည်နယ်မှ ၃ မြို့နယ်၊ ချင်းပြည်နယ်မှ ၅ မြို့နယ်၊ စစ်ကိုင်းတိုင်းမှ ၅ မြို့နယ်၊ မကွေးတိုင်းမှ ၅ မြို့နယ်၊ ရှမ်းပြည်နယ် ၁၇ မြို့နယ် စုစုပေါင်း ၅၅ မြို့နယ်ကိုမူ ကြားဖြတ် ရွေးကောက်ပွဲကျင်းပမည့်စာရင်းတွင် ဆက်လက်ချန်လှပ်ထားဆဲဖြစ်သည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Burmidtermele6Nov26feat-900x476.jpg",
    "lang": "my"
   }
  ]
