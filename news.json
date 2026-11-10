@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T14:39:10.991111+00:00",
- "updated_yangon": "2026-11-10 21:09",
+ "updated": "2026-11-10T15:39:00.535835+00:00",
+ "updated_yangon": "2026-11-10 22:09",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -11,10 +11,10 @@
   "France 24",
   "Google News",
   "Google News · China Taiwan",
+  "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
-  "Myanmar Now",
   "Myanmar Now Burmese",
   "NYT World",
   "RFA Burmese",
@@ -23,50 +23,50 @@
  "countries": [
   [
    "United States",
-   54
+   48
   ],
   [
    "Ukraine",
-   28
+   23
   ],
   [
    "Russia",
-   27
+   21
   ],
   [
    "Iran",
-   14
+   13
   ],
   [
    "Myanmar",
    9
   ],
   [
+   "China",
+   8
+  ],
+  [
    "Israel",
    8
   ],
   [
-   "China",
-   7
-  ],
-  [
-   "France",
+   "United Kingdom",
    6
   ],
   [
    "India",
-   4
+   5
   ],
   [
-   "United Kingdom",
-   4
-  ],
-  [
-   "Yemen",
-   3
+   "France",
+   5
   ],
   [
    "Germany",
+   4
+  ],
+  [
+   "Palestine",
    3
   ],
   [
@@ -74,27 +74,36 @@
    2
   ],
   [
-   "Saudi Arabia",
-   2
-  ],
-  [
-   "Palestine",
-   2
-  ],
-  [
-   "NATO",
+   "Yemen",
    2
   ],
   [
    "Japan",
+   2
+  ],
+  [
+   "Saudi Arabia",
+   2
+  ],
+  [
+   "European Union",
    1
   ],
   [
    "Poland",
    1
+  ],
+  [
+   "North Korea",
+   1
+  ],
+  [
+   "Taiwan",
+   1
   ]
  ],
  "categories": [
+  "Africa",
   "Asia-Pacific",
   "Europe / NATO",
   "Global",
@@ -104,7 +113,7 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 37,
+ "war_count": 35,
  "languages": {
   "my": 25,
   "en": 115
@@ -246,6 +255,263 @@
    "lang": "en"
   },
   {
+   "title": "ကာကွယ်ရေးအသုံးစရိတ် ကျပ် ဘီလျံ တစ်သောင်းကျော်နဲ့အမြင့်ဆုံးရောက်",
+   "link": "https://www.bbc.co.uk/burmese/live/crz65681pzp0t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-10T15:38:55+00:00",
+   "summary": "မြန်မာစစ်တပ်ရဲ့ကာကွယ်ရေး ဘတ်ဂျက် ကျပ် ဘီလျံ တစ်သောင်းကျော်ရှိလာတဲ့သတင်းအပါအဝင် မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မြန်မာစစ်တပ်ရဲ့ကာကွယ်ရေး ဘတ်ဂျက် ကျပ် ဘီလျံ တစ်သောင်းကျော်ရှိလာတဲ့သတင်းအပါအဝင် မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6f/live/7ce42650-dcee-11f1-9ef0-4b5930e2f80e.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
+   "link": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+   "source": "NYT World",
+   "published": "2026-11-10T15:36:55+00:00",
+   "summary": "The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.",
+   "body": "The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+   "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+   "source": "NYT World",
+   "published": "2026-11-10T15:30:06+00:00",
+   "summary": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
+   "body": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
+   "link": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-10T15:30:00+00:00",
+   "summary": "The 24-year old suspect was found to have read a significant amount of material about Breivik and other far-right figures. Speculation over his motives have prompted a bitter political feud in Warsaw.",
+   "body": "The 24-year old suspect was found to have read a significant amount of material about Breivik and other far-right figures. Speculation over his motives have prompted a bitter political feud in Warsaw.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Poland"
+   ],
+   "image": "https://static.dw.com/image/79898094_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T15:21:29+00:00",
+   "summary": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy The Washington Post Nvidia’s Board Has a History of Letting Jensen Huang Get His Way The New York Times Nvidia shaken by scandal amid wider political new order for big tech The Guardian Big Tech ha",
+   "body": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy The Washington Post Nvidia’s Board Has a History of Letting Jensen Huang Get His Way The New York Times Nvidia shaken by scandal amid wider political new order for big tech The Guardian Big Tech has a spy problem CNN Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem CNBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:19:01+00:00",
+   "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the U",
+   "body": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e",
+   "lang": "en"
+  },
+  {
+   "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T15:18:53+00:00",
+   "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters Anthropic to Seek $1.3 Trillion Valuation in IPO WSJ Anthropic to raise $64bn in major stock market listing BBC Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon Bloombe",
+   "body": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters Anthropic to Seek $1.3 Trillion Valuation in IPO WSJ Anthropic to raise $64bn in major stock market listing BBC Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon Bloomberg.com Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say CNBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Cop31 live: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:15:07+00:00",
+   "summary": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and clima",
+   "body": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition issue alive, and the room has erupted in cheers. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Turkey"
+   ],
+   "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299",
+   "lang": "en"
+  },
+  {
+   "title": "Neuer injury gives Urbig chance to shape Bayern and Germany future",
+   "link": "https://www.dw.com/en/neuer-injury-gives-urbig-chance-to-shape-bayern-and-germany-future/a-79910042?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-10T15:13:00+00:00",
+   "summary": "Manuel Neuer's latest injury gives Jonas Urbig a run of games in Bayern's goal. Marc-André ter Stegen remains Germany’s No. 1, but Urbig now has a chance to strengthen his case for the future.",
+   "body": "Manuel Neuer's latest injury gives Jonas Urbig a run of games in Bayern's goal. Marc-André ter Stegen remains Germany’s No. 1, but Urbig now has a chance to strengthen his case for the future.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/79902443_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:12:28+00:00",
+   "summary": "New statue titled The Foot Soldier was installed on the National Mall just two days before Veterans Day A new statue mocking Donald Trump was installed on Washington’s National Mall on Monday, this time poking fun at bone spurs that the US president was diagnosed with, which allo",
+   "body": "New statue titled The Foot Soldier was installed on the National Mall just two days before Veterans Day A new statue mocking Donald Trump was installed on Washington’s National Mall on Monday, this time poking fun at bone spurs that the US president was diagnosed with, which allowed him to defer the Vietnam war draft. Just two days before Veterans Day, the gilded statue – titled The Foot Soldier – appeared near the National Gallery of Art’s Sculpture Garden. Created by the Secret Handshake, a group of anonymous artists , the statue depicts Trump sitting down while rubbing his bare foot. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/44fbe3c570c39a96d9626e9c93f1784458730f5f/430_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=24759642c506f5dda8819501175540ca",
+   "lang": "en"
+  },
+  {
+   "title": "‘Friends with both’: Can India broker a Black Sea breakthrough?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVRVVzhFY2dQeml0ZnhlMGhaQjI1ZXBQcXE2NDZZcHQxV3pkSU91TEQ3Zkp6V0FLMUVvOG1vSWNGTHd5VkRwMHV3YWNQVnJwYXFzbWo0b2ZKVXBhenA5RWlJVFdHdEw5MGN6YVBhLWpSN2NHenlaVzVIb3lJdW11cWlaV3hxUDNxV2VrSG1TMzdMZkNfamhMM1dFNXdhYzEzTlVvaTFJeHduaHh0ci1WSVNB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-10T15:05:06+00:00",
+   "summary": "‘Friends with both’: Can India broker a Black Sea breakthrough? Al Jazeera",
+   "body": "‘Friends with both’: Can India broker a Black Sea breakthrough? Al Jazeera",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+   "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T15:04:30+00:00",
+   "summary": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
+   "body": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-16T183411Z_1675517228_RC26VLA4BGT7_RTRMADP_3_G7-SUMMIT-1794318849.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Russia-Ukraine War: US, Russia & Ukraine Hold First Trump-Brokered Talks Since February | - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2N1NHN1STVaNlM3WGxMalRkNnhUQURuU2p1dkVxTmxjSU93R3JCRHExbE1rdkZxXzd4RkpkdzAybnp6OW1yamR5ckxzbUZ1N1RyMlBGXzJpRWxLVUt3azdZNjBkWXc5UUlfbWlzN0pRQTFwcDJvWDk2OENUNl9sUXpYOGV0a3VqRVBUc2NOT3JMdk8teTNuTld6bExSR1hQRk1UM19ZeXdSWW1HRHZDeTk1Y2swWUpteXdB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-10T15:02:19+00:00",
+   "summary": "Russia-Ukraine War: US, Russia & Ukraine Hold First Trump-Brokered Talks Since February | NDTV",
+   "body": "Russia-Ukraine War: US, Russia & Ukraine Hold First Trump-Brokered Talks Since February | NDTV",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Jimmy Carter’s Georgia farm to open to the public: ‘This land shaped him and his legacy’",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:01:41+00:00",
+   "summary": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the late former president’s conservation eth",
+   "body": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the late former president’s conservation ethic took hold, officials announced on Monday. A statement from the Conservation Fund said it plans to open Carter’s family farm – on about 2,458 acres (995 hectares) outside his home town of Plains, Georgia – to the public for hunting, fishing and other outdoor recreation as soon as 2027, with the group set to transfer the land to the state’s natural resources department in 2028. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/762b13dac327d0f01abeafa064a27be2bce4d372/0_42_3409_2728/master/3409.jpg?width=140&quality=85&auto=format&fit=max&s=738f9f0aab79c2fcdc79e558be0858da",
+   "lang": "en"
+  },
+  {
+   "title": "The allegations against David Walliams - podcast",
+   "link": "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:00:47+00:00",
+   "summary": "Multiple women allege David Walliams abused his power and position as a celebrity to prey on them for sexual purposes when they were young women, an investigation by the Guardian and ITV News has found. He denies the allegations. Maeve McClenaghan reports David Walliams, the come",
+   "body": "Multiple women allege David Walliams abused his power and position as a celebrity to prey on them for sexual purposes when they were young women, an investigation by the Guardian and ITV News has found. He denies the allegations. Maeve McClenaghan reports David Walliams, the comedian and former Britain’s Got Talent judge, is alleged to have groomed fans he met when they were as young as 15 . Walliams denies any wrongdoing. In this episode, investigations correspondent Maeve McClenaghan tells Nosheen Iqbal about the investigation by the Guardian and ITV News. You can watch this podcast on YouTube . The ITV News documentary David Walliams: Power and Silence is available to watch on YouTube and ITVX. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/8eec922fcf836acdb088ec6553756f4110662b6c/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=d6435754dbeecaf3cdb5d0b2b89ba52b",
+   "lang": "en"
+  },
+  {
+   "title": "The vaccine limbo in the US is worsening the measles outbreak",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:00:46+00:00",
+   "summary": "Earlier doses for children, a focus on unvaccinated adults, a risk strategy based on geography – here’s how a functioning ACIP would address the measles outbreak The US has announced three deaths associated with measles last week, among them a seven-month-old baby in New York and",
+   "body": "Earlier doses for children, a focus on unvaccinated adults, a risk strategy based on geography – here’s how a functioning ACIP would address the measles outbreak The US has announced three deaths associated with measles last week, among them a seven-month-old baby in New York and a postpartum woman in Pennsylvania , underscoring the need for a more aggressive vaccination approach – but US recommendations haven’t changed. Dismantling the Advisory Committee on Immunization Practices (ACIP) made it harder for the US to respond to the measles outbreak, with vaccine recommendations staying the same during a historic rise in cases and deaths, four former advisers say. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/8e4499b00d19392b06c73a7b2c9ca49d7e8f9e68/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a823b5d44b74a5b72ab38565c15b627",
+   "lang": "en"
+  },
+  {
+   "title": "Israel’s New Parliament Gathers With No Government in Sight",
+   "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+   "source": "NYT World",
+   "published": "2026-11-10T14:59:10+00:00",
+   "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
+   "body": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
    "title": "987 DJ Germaine Tan marries Zouk CEO Andrew Li in Chiang Mai, rain forces wedding reception indoors",
    "link": "https://www.channelnewsasia.com/entertainment/987-germaine-tan-zouk-ceo-andrew-li-wedding-chiang-mai-6538211",
    "source": "CNA World",
@@ -256,6 +522,160 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--aqKbYwrC--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/10/germaine_tan_andrew_li_wedding.png?itok=zmrH9VK8",
+   "lang": "en"
+  },
+  {
+   "title": "Police receive further criminal allegations against Russell Brand",
+   "link": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:57:34+00:00",
+   "summary": "Met says several people have been in contact since start of disgraced comedian’s rape and sexual assault trial Brand sentenced to more than 10 years in prison for rape and sexual assault Police have received further criminal allegations against Russell Brand since the start of hi",
+   "body": "Met says several people have been in contact since start of disgraced comedian’s rape and sexual assault trial Brand sentenced to more than 10 years in prison for rape and sexual assault Police have received further criminal allegations against Russell Brand since the start of his trial. The Metropolitan police said several people had been in contact during and since the conclusion of the 51-year-old’s rape and sexual assault case. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/e02756f107057775fc60b4f5ef7e84861735745f/822_450_4021_3217/master/4021.jpg?width=140&quality=85&auto=format&fit=max&s=063e27c8fe6b66a34c486cd1a2b20c7e",
+   "lang": "en"
+  },
+  {
+   "title": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:52:13+00:00",
+   "summary": "Russia, Ukraine and US officials hold talks in Abu Dhabi Al Jazeera Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe See",
+   "body": "Russia, Ukraine and US officials hold talks in Abu Dhabi Al Jazeera Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role Radio Free Europe/Radio Liberty U.S. Overture to Russia on European Security Sparks Alarm WSJ Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:49:42+00:00",
+   "summary": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeach",
+   "body": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran",
+    "Yemen"
+   ],
+   "image": "https://i.guim.co.uk/img/media/cfacb3a0788280a626230564a0712ec43525aabe/125_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=a6ae2819abc9fc3420e67ed2eddb24e8",
+   "lang": "en"
+  },
+  {
+   "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+   "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:49:32+00:00",
+   "summary": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute Argentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At ",
+   "body": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute Argentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argentinian legal team argued that the oil project must be suspended. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
+   "lang": "en"
+  },
+  {
+   "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:47:07+00:00",
+   "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussed US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united respons",
+   "body": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussed US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage. Speaking to journalists on Monday, French foreign minister Jean-Noël Barrot said “ Europe-wide sanctions ” would be imposed against those responsible as he announced France believed that Iran’s Revolutionary Guards were “responsible for this attack” . We acknowledge that France has attributed these (cyber-attacks) to Iran. Pending discussions with member states, we as (the) European Union, we stand ready to come with a swift and united response . We as the EU, we have consistently called on all states to refrain from malicious behaviour in the cyberspace . And we will continue to address such malicious behavior, making use of all the tools that we have also under the EU cyber diplomacy toolbox, including sanctions. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6",
+   "lang": "en"
+  },
+  {
+   "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T14:46:50+00:00",
+   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+   "body": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+   "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T14:45:22+00:00",
+   "summary": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+   "body": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-28T060119Z_128960789_RC25COAFE793_RTRMADP_3_ASEAN-PHILIPPINES-DEFENCE-1794315810.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Global Markets: Talks begin to end Russia-Ukraine war - Grainews",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDJBZDVjbE1TN1ROS1FKdVc4d1NuUFJ2OHM5Ynh5VEloMG0xbDROQU93MFMzTllrNFl6TzRRd2FkQnk0MU80d1phZUV6bEFLWXBFR1lTY0c1ZWhFblJqQzg0TlVpNUdWeEkwUERYejBDaVB5OXNXMmFJRlcta3VaYUV2azNOSjJ4Y3N3MjdvSWdBYVE0VEE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-10T14:40:46+00:00",
+   "summary": "Global Markets: Talks begin to end Russia-Ukraine war Grainews",
+   "body": "Global Markets: Talks begin to end Russia-Ukraine war Grainews",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Live: New Israeli parliament sworn in as Eisenkot aims to form government",
+   "link": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset",
+   "source": "France 24",
+   "published": "2026-11-10T14:40:16+00:00",
+   "summary": "Israel's new parliament is set to be sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. It follows an election two weeks ago in which Prime Minister Benjamin Netanyahu's bloc lost ground. Follow our li",
+   "body": "Israel's new parliament is set to be sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. It follows an election two weeks ago in which Prime Minister Benjamin Netanyahu's bloc lost ground. Follow our live coverage for the latest updates.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://s.france24.com/media/display/1c592fa0-dd12-11f1-928c-f71d22e7fea9/w:1024/p:16x9/2026-11-10T141850Z-1559279949-RC22LOAXQNAM-RTRMADP-3-ISRAEL-POLITICS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
+   "link": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T14:40:00+00:00",
+   "summary": "Two young horse herders revive Mongolia’s most dangerous winter ritual to save their community's ancient way of life.",
+   "body": "Two young horse herders revive Mongolia’s most dangerous winter ritual to save their community's ancient way of life.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/YT-Thumbnail-1794290607.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -274,19 +694,17 @@
    "lang": "en"
   },
   {
-   "title": "ကာကွယ်ရေးအသုံးစရိတ် ကျပ် ဘီလျံ တစ်သောင်းကျော်နဲ့အမြင့်ဆုံးရောက်",
-   "link": "https://www.bbc.co.uk/burmese/live/crz65681pzp0t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-10T14:39:18+00:00",
-   "summary": "မြန်မာစစ်တပ်ရဲ့ကာကွယ်ရေး ဘတ်ဂျက် ကျပ် ဘီလျံ တစ်သောင်းကျော်ရှိလာတဲ့သတင်းအပါအဝင် မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "မြန်မာစစ်တပ်ရဲ့ကာကွယ်ရေး ဘတ်ဂျက် ကျပ် ဘီလျံ တစ်သောင်းကျော်ရှိလာတဲ့သတင်းအပါအဝင် မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Yy1hamRqX0RoRXRGeWNVcVYtN2ZfX3RFUUVtNGs1WmR5MG5yYXl5TlhVRHBKVXFCLUtyYjRfbTZHQlN3NEpoYmRBXzVFaFlJanloTF9XV3pjTWtLUk1zelRiZkVUTnVLcHZ6dFpsUjB4WU9wRnhhWnJ3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:37:09+00:00",
+   "summary": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles The Verge GTA 6 PS5 Pro Upgrades Finally Revealed: Frame-Rate, Upscaling, Ray Tracing Confirmed Digital Foundry Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI L",
+   "body": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles The Verge GTA 6 PS5 Pro Upgrades Finally Revealed: Frame-Rate, Upscaling, Ray Tracing Confirmed Digital Foundry Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch Comcast Corporation Grand Theft Auto VI pre-downloads begin ahead of much-anticipated launch CBS News GTA 6 Is Now Available For Preload If You Have A Spare 212GB Engadget",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6f/live/7ce42650-dcee-11f1-9ef0-4b5930e2f80e.jpg",
-   "lang": "my"
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "First day of Ukraine peace talks 'very productive', US says",
@@ -303,6 +721,19 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3c/live/e82766a0-dd04-11f1-93e1-3b657b665bcf.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Did humanity learn the right lessons from WWII?",
+   "link": "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T14:36:03+00:00",
+   "summary": "Did humanity learn the right lessons from WWII?",
+   "body": "Did humanity learn the right lessons from WWII?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794316481.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -337,16 +768,65 @@
    "lang": "en"
   },
   {
-   "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-10T14:24:51+00:00",
-   "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the U",
-   "body": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
-   "category": "Global",
+   "title": "Israeli strikes, gunfire in Gaza kill 4 people, and other Mideast news - The Tribune-Democrat",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTzNULWFERnVWb0xNdGFGMW5hTDVUVkVCT180N0NINngwTVNZN3Riclo4OXBsQVhaRVlJNWRvb3hwSGRjVkNjNUpxOW5Dcms3VU5tVm9VbTFqNnljd083b0tBYklXNzBNZ0tadDV0b1hHMDVEME1MWGZrR2x2dHZDZ2I0bVNiWjkwaUcyRWFfZlFOdjRjWGJfTXQybVB6TXNVSkh6amtkc2VZbFhSZ3U4eFZOSzMxTlM1aUY1VnNqcG1SeE00NFM4RnpZMGpWQkkyZzZEUHVTSENrZVZYVTlKNTRHVnNjcG04akVseFJ4aW8?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-10T14:29:00+00:00",
+   "summary": "Israeli strikes, gunfire in Gaza kill 4 people, and other Mideast news The Tribune-Democrat",
+   "body": "Israeli strikes, gunfire in Gaza kill 4 people, and other Mideast news The Tribune-Democrat",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "How a Nigerian street food vendor built a life for herself and her family",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/how-a-nigerian-vendor-survives-on-selling-local-street-delicacy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T14:28:17+00:00",
+   "summary": "Okpa is a beloved Nigerian street food that Victoria has been selling for over 20 years.",
+   "body": "Okpa is a beloved Nigerian street food that Victoria has been selling for over 20 years.",
+   "category": "Africa",
    "is_war": false,
    "countries": [],
-   "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794320875.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\"",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:28:00+00:00",
+   "summary": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" CBS News Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over' Yahoo Trump says he will hold off on fresh Iran strikes for n",
+   "body": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" CBS News Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over' Yahoo Trump says he will hold off on fresh Iran strikes for now The Detroit News Iran war updates: Trump says US-Israel war on Iran ‘effectively over’ Al Jazeera Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed Reuters",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+   "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T14:27:45+00:00",
+   "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+   "body": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af3151e-1794315550.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -395,19 +875,15 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3RWYmlmaHpPQzVwMzF4WnFBRjEwYzlaWnV2aHhESWlTZmROQjhjLWRfdlpwY1ZhRGtjbjVZbmN4X1Q4aGN0U3pROHhXcEhQYzVEQ2dmeDBwX1hRUko2Rk8xQjZTMEZTVVNLUzUzS2YzVnZwcl9CX1NnSjNyR2hzTmJzT0ROMXVoMk1DUkRTV2E4SXJIaGFfU2hNMlRxUjlfWlhmNFVLSlZ5UmNyRFFacmRhQUFJa1hibUhxRQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T14:20:47+00:00",
-   "summary": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing UNITED24 Media",
-   "body": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing UNITED24 Media",
-   "category": "Ukraine / Russia",
+   "title": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:16:58+00:00",
+   "summary": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse WRAL How space trash could affect weather, ozone and your forecast AOL.com Our increasingly cluttered skies Astronomy.com Competitive Analysis of the Space Debris Monitoring and Removal Marke",
+   "body": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse WRAL How space trash could affect weather, ozone and your forecast AOL.com Our increasingly cluttered skies Astronomy.com Competitive Analysis of the Space Debris Monitoring and Removal Market Among Top Global Companies openPR.com The cost of operating amid debris SpaceNews",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -429,18 +905,18 @@
    "lang": "en"
   },
   {
-   "title": "Israel’s New Parliament Gathers With No Government in Sight",
-   "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-   "source": "NYT World",
-   "published": "2026-11-10T14:16:38+00:00",
-   "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
-   "body": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
-   "category": "Middle East",
+   "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFdxNDJ2b09ramZlTm9ldWtYN0doMWhveVEwRlN6a19KcnpHRU9PY2ZkWkFESXpRUk5kTnoydHNDODVJSE5OUkt1LTQ0VVVDR1A1VFdDZTlYQ0xyOEZXQ3lYeFA5QUcyMUFJWXo0UGNmU20zcC1SZF9BeDlIS2FLUnZPU194eUtiSXJBVWhMR0w3V2VtUlZwV1VrVFQ2SjE1X0lIR0NJeUlWMllUY1hqVExqQ1RVbTF0U1NqWDFKSDR5bTlQZTVNZ0p2ckNEM3h4RWpmdA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:16:53+00:00",
+   "summary": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent NPR See more headlines & perspectives on Google News",
+   "body": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent NPR See more headlines & perspectives on Google News",
+   "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
-    "Israel"
+    "North Korea"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -459,36 +935,47 @@
    "lang": "en"
   },
   {
-   "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-10T14:13:42+00:00",
-   "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-atta",
-   "body": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage. Speaking to journalists on Monday, French foreign minister Jean-Noël Barrot said “ Europe-wide sanctions ” would be imposed against those responsible as he announced France believed that Iran’s Revolutionary Guards were “responsible for this attack” . We acknowledge that France has attributed these (cyber-attacks) to Iran. Pending discussions with member states, we as (the) European Union, we stand ready to come with a swift and united response . We as the EU, we have consistently called on all states to refrain from malicious behaviour in the cyberspace . And we will continue to address such malicious behavior, making use of all the tools that we have also under the EU cyber diplomacy toolbox, including sanctions. Continue reading...",
-   "category": "Ukraine / Russia",
+   "title": "NFL trade deadline day open thread - Buffalo Rumblings",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEVmSURMOTZUV3c1aWZzNjE3NzhzLVVsNG53QjVabnBmV0dCd0JHblpXSzBNaGhVbUoyRnR5ZHltbDNNaE9ZTERVMmtEc2piZVF3eWNtd20zNFl4R0IxRlBDX3JfNVM4QUloRVh2T0I3TE5pTm5EQ2lOTEhQTHhBQkVuVDlDaHBfc0FXM01jb29uRHdlbVdQTHNVak5HeW82?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T14:13:46+00:00",
+   "summary": "NFL trade deadline day open thread Buffalo Rumblings NFL trade deadline 2026 live updates: Latest news, analysis and reaction to every deal The New York Times 15 players to watch amid NFL trade deadline buzz Yahoo Sports NFL Trade Deadline Intel: Jay Glazer Dishes On Which Teams ",
+   "body": "NFL trade deadline day open thread Buffalo Rumblings NFL trade deadline 2026 live updates: Latest news, analysis and reaction to every deal The New York Times 15 players to watch amid NFL trade deadline buzz Yahoo Sports NFL Trade Deadline Intel: Jay Glazer Dishes On Which Teams Will Be Busy FOX Sports 2026 NFL Trade Deadline Live Rumors, Updates and Analysis for November 10 Bleacher Report",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6",
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Cop31 live: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
-   "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-10T14:11:08+00:00",
-   "summary": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and clima",
-   "body": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition issue alive, and the room has erupted in cheers. Continue reading...",
+   "title": "'Clean beauty': How to navigate the latest cosmetic and skincare trends",
+   "link": "https://www.france24.com/en/tv-shows/entre-nous/20261110-clean-beauty-how-to-navigate-the-latest-cosmetic-and-skincare-trends",
+   "source": "France 24",
+   "published": "2026-11-10T14:11:51+00:00",
+   "summary": "It's hard to believe, but Christmas is just six weeks away. That means the battle of the Advent calendars is now well and truly underway. So if you love beauty products but are wanting to buy with safety and a healthy approach in mind, what do you do? Joining us from Atlanta is L",
+   "body": "It's hard to believe, but Christmas is just six weeks away. That means the battle of the Advent calendars is now well and truly underway. So if you love beauty products but are wanting to buy with safety and a healthy approach in mind, what do you do? Joining us from Atlanta is Lisa Fennessy, the founder and CEO of The New Knew, which reviews \"clean beauty\" products. She tells us what to look out for to take better care of our skin.",
    "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/0cc6e0e6-dd08-11f1-87ae-3f371022a770/w:1024/p:16x9/capture-80ef1744.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli strikes and gunfire in Gaza kill 4 people, and other Mideast news - Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjdfM2FhUjI0NkxndlQtWEJPNzE1RzFEMVJsZl9DdkhQTV9PdE43ZmdsOGpDYjRoRWNDc0xIdnlWaWhxdk5QWWVQWjg4WEI0VGFzS1lYdlNSY3N1YUdhX1RmTTN2UlZHaGgyRUo5NXBhYm95aHVRVjM3eG45dG01Z3F6cw?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-10T14:11:17+00:00",
+   "summary": "Israeli strikes and gunfire in Gaza kill 4 people, and other Mideast news Boston Herald",
+   "body": "Israeli strikes and gunfire in Gaza kill 4 people, and other Mideast news Boston Herald",
+   "category": "Middle East",
    "is_war": true,
    "countries": [
-    "United States",
-    "Turkey"
+    "Israel",
+    "Palestine"
    ],
-   "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -509,23 +996,6 @@
    "lang": "en"
   },
   {
-   "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-10T14:06:06+00:00",
-   "summary": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeach",
-   "body": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "Yemen"
-   ],
-   "image": "https://i.guim.co.uk/img/media/cfacb3a0788280a626230564a0712ec43525aabe/125_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=a6ae2819abc9fc3420e67ed2eddb24e8",
-   "lang": "en"
-  },
-  {
    "title": "Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef",
    "link": "https://www.theguardian.com/us-news/2026/nov/10/ocean-liner-ship-sunk-artificial-reef",
    "source": "The Guardian",
@@ -541,34 +1011,6 @@
    "lang": "en"
   },
   {
-   "title": "Stock Market Today: Dow Falls On Surprise Inflation Data; AI Giant Anthropic Sets IPO Range (Live Coverage) - Investor's Business Daily",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2RaejE5V2Q0THo0YjhnUW84VFVkenl4aFZpZ2h1S3FJb2o3czNaSEF1LWNCYXdMY1N3Z1ZOYU81S29oUzJ4a2NMdXJrN1NxMzVvOXFEWXc5eTc4aEhPQlVIUVAwTVJ3enlGNEFBRlNmRDRDWDNQUmg5eVpPck1GRnhzR25XSi1rQkJYTjRsQ3FDVWdST2FkcUVzMlNBaUtqRGlsWVRtbl9GU3hFbWs3Tms4dDNDbEk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T14:05:00+00:00",
-   "summary": "Stock Market Today: Dow Falls On Surprise Inflation Data; AI Giant Anthropic Sets IPO Range (Live Coverage) Investor's Business Daily Stocks fall after higher-than-expected CPI report, tech comes under pressure again: Live updates CNBC Fed Rate-Hike Odds Jump On Waller Speech Ahe",
-   "body": "Stock Market Today: Dow Falls On Surprise Inflation Data; AI Giant Anthropic Sets IPO Range (Live Coverage) Investor's Business Daily Stocks fall after higher-than-expected CPI report, tech comes under pressure again: Live updates CNBC Fed Rate-Hike Odds Jump On Waller Speech Ahead Of CPI Inflation (Live Coverage) Investor's Business Daily Stock market today: S&P 500 and Nasdaq futures sink, Dow wavers after CPI data, new Anthropic IPO filing Yahoo Finance World stocks bounce as oil slides heading into US CPI print Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-10T14:04:22+00:00",
-   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "body": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine talks begin, India pushes for safe Black Sea, quick end to war - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWdrclJpWk9aWXRoNl9UdmVHUWNCNjVILTJwOEpZdlhzNmJ3bGlNeGQ5RFREZ1RlZkFIdmRNckJVTU5HekVFQ3AzSUlhSjl3ZmkxdDB4T2luMmpuNXp0Z0NEcnViblkzRXU5am5KU05DRzg0QTNqZzBMek4zVWdLMm5qYlc2SXcyOFRtMEpUN1pGYzYtbnlYMml0b21OVlZMdUNFVDZkSlgxOUtsRFdfZHZDenZxdmJTNG9RRkhJaXUyTW5tWG1tS9IBzwFBVV95cUxPSzVST3FpWk0yUnJlMGp6dDlNeGlEbXVtN3NiOVhOOHRTM0txWDE0ZFNYUk92ZjVyR1Yya01PQXJNSWQ3NnoxNXdtaE13RENkdFRHUDRZcW5NTVYtVDNmcnR1dmlfczNRYUR6U2tOMHN0aFRENk9wZk1FTHV5RmVuWngwZVZoSDVCb211TzNzSFowdldxWDh5RzgwRmxMRlBWVUV3WWxEQmFzNzRXOHJEMTV4cTlUXzN5WmtSVElFYkxGTXBlU0ZSMkx0dDZSbnc?oc=5",
    "source": "Google News · Ukraine",
@@ -580,6 +1022,23 @@
    "countries": [
     "Ukraine",
     "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months - Al-Monitor",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUY4Z3VJWTJ6OFdBTmI0a2NiYjljcjVFdTBwUzlWdDdnVFJvalpFUHRvM0pBNEZtUnp1c3FBN0FBei1CcXlqeFpZVzlzUEVUc3RSV2hxRDZ2Szc5YThUUlBYdW5pMmRGX2NkRTVRSkVHMnpGMTRqUHBXaE5SOV81YndlTVExelMwdlRhS1o1UUNUN2xzblVVdGt5bjVKVU5uTEZwaXZGQVI0cVY2LVNr?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-10T14:03:08+00:00",
+   "summary": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months Al-Monitor",
+   "body": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months Al-Monitor",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -630,6 +1089,22 @@
    "lang": "en"
   },
   {
+   "title": "Pokemon's 30-year anniversary: Japanese cards sell like wildfire",
+   "link": "https://www.france24.com/en/video/20261110-pokemon-s-30-year-anniversary-japanese-cards-sell-like-wildfire",
+   "source": "France 24",
+   "published": "2026-11-10T13:58:55+00:00",
+   "summary": "Pokemon, the famous Japanese little monsters, are turning 30, and their trading cards are selling like wildfire, often being flipped for small fortunes. People prepared to camp outside specialised shops in a bid to buy some of these cards.",
+   "body": "Pokemon, the famous Japanese little monsters, are turning 30, and their trading cards are selling like wildfire, often being flipped for small fortunes. People prepared to camp outside specialised shops in a bid to buy some of these cards.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Japan"
+   ],
+   "image": "https://s.france24.com/media/display/9dc1aa64-dd0c-11f1-9fa8-29048b396e03/w:1024/p:16x9/capture-984bb117.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Meta’s AI age-check goes global: Can it protect teens?",
    "link": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
    "source": "Al Jazeera",
@@ -675,31 +1150,16 @@
    "lang": "en"
   },
   {
-   "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
+   "title": "First snow, coldest air in months headed for eastern US in wake of storm",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2hBMlVQRDRFcktOVThJRlZUalN3S3JPRDBEVG1TLXMxMWFOOFd0dnlvNnpKV2tPTUlGQldVa1NyUWRScDN5eTFydFpPd194UlZMMjdQdkxPaU5sOGdLQm1lNUhBSHZUcUlKM3RjMGI2bEhydlZhN2dUeEYtek4yVDZkODUyaWc?oc=5",
    "source": "Google News",
-   "published": "2026-11-10T13:52:38+00:00",
-   "summary": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom Yahoo Finance Anthropic to Seek $1.3 Trillion Valuation in IPO WSJ Anthropic eyes $1 trillion US valuation in hotly anticipated IPO that's a key test for AI market CBC Anthropic Plans IPO Live Stream W",
-   "body": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom Yahoo Finance Anthropic to Seek $1.3 Trillion Valuation in IPO WSJ Anthropic eyes $1 trillion US valuation in hotly anticipated IPO that's a key test for AI market CBC Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon Bloomberg.com EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted Reuters",
-   "category": "Global",
+   "published": "2026-11-10T13:54:31+00:00",
+   "summary": "First snow, coldest air in months headed for eastern US in wake of storm CNN What we know about the potential nor'easter that could bring the season's first snowfall this weekend Business Insider First snow of the season? Potential nor'easter impacts for Philly, NYC and DC region",
+   "body": "First snow, coldest air in months headed for eastern US in wake of storm CNN What we know about the potential nor'easter that could bring the season's first snowfall this weekend Business Insider First snow of the season? Potential nor'easter impacts for Philly, NYC and DC region FOX 5 New York Potential for nor'easter increasing, could bring first snow to millions as cold air sweeps across the East FOX Weather Northeast on alert for freezing cold, first major snow storm New Hampshire Union Leader",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Overnight strikes in Yemen kill at least 1 person and injure 9, and other Mideast news - Boston Herald",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjdfM2FhUjI0NkxndlQtWEJPNzE1RzFEMVJsZl9DdkhQTV9PdE43ZmdsOGpDYjRoRWNDc0xIdnlWaWhxdk5QWWVQWjg4WEI0VGFzS1lYdlNSY3N1YUdhX1RmTTN2UlZHaGgyRUo5NXBhYm95aHVRVjM3eG45dG01Z3F6cw?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-10T13:47:53+00:00",
-   "summary": "Overnight strikes in Yemen kill at least 1 person and injure 9, and other Mideast news Boston Herald",
-   "body": "Overnight strikes in Yemen kill at least 1 person and injure 9, and other Mideast news Boston Herald",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Yemen"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -751,6 +1211,21 @@
    "lang": "en"
   },
   {
+   "title": "David Walliams Dropped By Independent Talent Group After Sexual Misconduct Allegations - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW9pZlk1SHpvdXl4eVlRb2pmTi1nNHBqbW05OUhRZFFZbEpzdlAzLUg0NXA1MUJaSnlIV2R0LUM4aWFCellMczItd3dJVjBtYmgxM002V0ZFOG5ERnhnTUl0WS00M25aU29EVmk2RGNoVFIySDg2Vm9DcmVSN1VXSlc5TmRoaU1uVFVfcmdtdTc1TkpmMkk0ZzhQTEdCNXBHbGc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T13:41:00+00:00",
+   "summary": "David Walliams Dropped By Independent Talent Group After Sexual Misconduct Allegations Deadline ‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex The Guardian British comedian and children’s author David Wallia",
+   "body": "David Walliams Dropped By Independent Talent Group After Sexual Misconduct Allegations Deadline ‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex The Guardian British comedian and children’s author David Walliams accused of sexual misconduct The Seattle Times David Walliams named as celebrity who tried to block publication of sexual misconduct allegations BBC BBC Removes ‘Little Britain’ From iPlayer While It Reviews David Walliams Content Deadline",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
    "source": "Al Jazeera",
@@ -768,37 +1243,6 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T13:37:09+00:00",
-   "summary": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy The Washington Post How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ Nvidia’s Game of Thrones The New York Times Who is Alice Huang, the Chinese businesswoman tied to Nvidi",
-   "body": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy The Washington Post How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ Nvidia’s Game of Thrones The New York Times Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO? Reuters Big Tech has a spy problem CNN",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-   "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-   "source": "The Guardian",
-   "published": "2026-11-10T13:36:16+00:00",
-   "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices US inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as the cost of gas dipped during the month. ",
-   "body": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices US inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as the cost of gas dipped during the month. The Bureau of Labor Statistics did not release the usual year-over-year inflation figure as part of the consumer price index (CPI), which measures the price of a basket of goods and services, as data was not collected in October 2025 during the government shutdown. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=cac89d31c265c953fdbc67d1636f3e40",
-   "lang": "en"
-  },
-  {
    "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
    "source": "Al Jazeera",
@@ -812,21 +1256,6 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8519ae-1787107758.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Eagles News: ESPN says Jordan Davis trade is a disaster for the Jaguars - Bleeding Green Nation",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZU05M3hFUVJiOHlCMGM0SnhkTTBSem1ZM3paZ3NYbFJEOEtnRlVQb2p2Ym1Db2lYbnRqS3lRZzNBUWIyQ0dXRkFpSXB0YmI5b2NJM3M0QmVhUkpiLUdpWmVsdnE0c3l3R0JXWnpPQXpOSHhvN1o1QjU1dFV0U3BabVA0RGttTEF4N2FGQnZFcV9oMUFTcXR0MXp1TzRHQUxhREdxamNsVWltZGFMcEdSWEVKaTk0VU5LclE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T13:34:20+00:00",
-   "summary": "Eagles News: ESPN says Jordan Davis trade is a disaster for the Jaguars Bleeding Green Nation Jaguars acquire Eagles DT Jordan Davis in blockbuster trade ESPN Eagles news: ESPN calls Jordan Davis trade 'a disaster' for Jags; what's next for the Birds ahead of deadline? Inquirer.c",
-   "body": "Eagles News: ESPN says Jordan Davis trade is a disaster for the Jaguars Bleeding Green Nation Jaguars acquire Eagles DT Jordan Davis in blockbuster trade ESPN Eagles news: ESPN calls Jordan Davis trade 'a disaster' for Jags; what's next for the Birds ahead of deadline? Inquirer.com First Call: A Steelers AFC rival makes big trades; a Jack Ham update; 2 Flyers have heated exchange on bench TribLIVE.com The Jags get aggressive, plus new CFP details - The Athletic The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -859,71 +1288,10 @@
    "lang": "en"
   },
   {
-   "title": "Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump",
-   "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
-   "source": "The Guardian",
-   "published": "2026-11-10T13:32:07+00:00",
-   "summary": "Thomas Massie has accused US defense secretary of illegally waging war without congressional authorization and abusing his powers Pete Hegseth has dismissed a bid to impeach him as a “political spectacle”, accusing the Republican lawmaker who moved to force a vote of trying to st",
-   "body": "Thomas Massie has accused US defense secretary of illegally waging war without congressional authorization and abusing his powers Pete Hegseth has dismissed a bid to impeach him as a “political spectacle”, accusing the Republican lawmaker who moved to force a vote of trying to stage a “show trial”. At a press conference on Tuesday, the US defense secretary – accused of illegally waging war without congressional authorization, and abusing his powers – claimed he was simply being pursued by political opponents of Donald Trump. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/875317cca38273693e9230e55603e33984b1212f/589_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c85cca60bb5f8bbf08e84a5cf87b7b8",
-   "lang": "en"
-  },
-  {
-   "title": "Consumer prices rose 0.4% in October, more than expected",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T13:31:08+00:00",
-   "summary": "Consumer prices rose 0.4% in October, more than expected CNBC CPI Live Updates: Inflation Persists in U.S. Economy The New York Times Inflation ran hotter than expected last month, underscoring affordability challenges TribLIVE.com October inflation data comes in hotter than expe",
-   "body": "Consumer prices rose 0.4% in October, more than expected CNBC CPI Live Updates: Inflation Persists in U.S. Economy The New York Times Inflation ran hotter than expected last month, underscoring affordability challenges TribLIVE.com October inflation data comes in hotter than expected, even as energy inflation fades Yahoo Finance US consumer prices expected to have risen at slower pace in October Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ron Johnson threatens walkout of Senate GOP leadership election",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHdJTWxiYlVGVV82NHNzWC14UmYtQzhWM1ZaZ0lGeFdFVVhkRmgweVNRRURVbUZYdUI1MHh1NEtxM0ExYWEyZ0ZUNENkWDZrZ2xHc3laaFA2UEhKdEFjRUxydWtTOEpZQ1hNc2lkSENSbFNGQkgyTDdRR0xxTHRyc1FLLU9RWmpNTFd3eHdxMS15LVpUWUVIaG1iUmk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T13:31:00+00:00",
-   "summary": "Ron Johnson threatens walkout of Senate GOP leadership election The Hill GOP senator withholds support for Thune as leadership showdown looms Fox News Congress live updates as House and Senate Republicans hold leadership elections after midterms losses CBS News Thune and Schumer ",
-   "body": "Ron Johnson threatens walkout of Senate GOP leadership election The Hill GOP senator withholds support for Thune as leadership showdown looms Fox News Congress live updates as House and Senate Republicans hold leadership elections after midterms losses CBS News Thune and Schumer face questions about Senate leadership in aftermath of elections AP News RNC members call for delay in congressional leadership elections after midterm losses Politico",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Japan watches for signs of change in Trump's foreign policy priorities",
-   "link": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-10T13:31:00+00:00",
-   "summary": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm elections may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
-   "body": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm elections may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Japan"
-   ],
-   "image": "https://static.dw.com/image/76443046_6.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Russia-Ukraine war latest: Moscow, Kyiv, Washington resume talks in Abu Dhabi - Latest news from Azerbaijan",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWthV2h1ZTk0Y0VycHFXcHloNUxoNW1ZVEVMckR4TEF6SnNuV3JfZXcxTUxyMkZ1NkJWNFpxRXZGdWh5ZDBHSWhycEFvX05SdTZ6QnhMNU9VMWdPS1NDMmUxY0VlS2NjYUxwQ05zeTZyb0Roa1ZNYzQyaVNhcUtsLVlNTE9Bb3dDaWJteFNOaVl2RkxUY09sbFV5SQ?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-10T13:30:00+00:00",
+   "published": "2026-11-10T13:31:34+00:00",
    "summary": "Russia-Ukraine war latest: Moscow, Kyiv, Washington resume talks in Abu Dhabi Latest news from Azerbaijan",
    "body": "Russia-Ukraine war latest: Moscow, Kyiv, Washington resume talks in Abu Dhabi Latest news from Azerbaijan",
    "category": "Ukraine / Russia",
@@ -934,6 +1302,37 @@
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T13:31:08+00:00",
+   "summary": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight CNBC CPI Live Updates: Inflation Persists in U.S. Economy The New York Times 10-year Treasury yield jumps after hot CPI, Waller half-point hike comment CNBC 'Not great': October CPI infla",
+   "body": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight CNBC CPI Live Updates: Inflation Persists in U.S. Economy The New York Times 10-year Treasury yield jumps after hot CPI, Waller half-point hike comment CNBC 'Not great': October CPI inflation data comes in hotter than expected as food and rent costs spike Yahoo Finance Consumer inflation rises faster than expected in October, CPI report shows Fox Business",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Japan watches for signs of change in Trump's foreign policy priorities",
+   "link": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-10T13:31:00+00:00",
+   "summary": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm election may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
+   "body": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm election may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Japan"
+   ],
+   "image": "https://static.dw.com/image/76443046_6.jpg",
    "lang": "en"
   },
   {
@@ -951,23 +1350,6 @@
     "United States"
    ],
    "image": "https://s.france24.com/media/display/121a87b4-dd03-11f1-aa06-5f54d898a954/w:1024/p:16x9/capture-46a35800.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US national Van Dyke links NIA arrest to Russia-Ukraine war, vows to reveal 'shocking details' - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc1FOWkpJWkxIM3RVLUFSUGV0MFR5S2xRZEhSbXpPeURra2xlclRONEI2OEE5UVJobTVhTFhSS3BDSllrLXlDNFhmWC03WW8wZmhOdG1sY2g2ZHhyNV90UnVlMUpJTVJDYy1UQ0p0VjA5Znp0eTh6YnRNNndYNDBRNlRWa2VqTnIzRmktdnN4Z2RrWFZCalFlRGpPNnF1OWpRWUNiMnc0ZjNrVF9YR2FjbWpiNUlUSmhHNmt1ckI3VE9DdXpOaEdBWEExUE82Y0dxeThIV1U3d3FzM1hkNU0xbTJ5SlF2b0M5WlR2Mi1jQdIB9AFBVV95cUxOZExMc01YTXFET0dURDF0Y29QMDIwVGFMZG5KOWw2NktJbENhRFRfMDRBUTlQdVpEVjdoU3M1VFc2UW1uV1dYNjRYaHNKT0N5b0ZXa3VzMWhTVkJMcTY0Z3JQUjZ2OThXTTRfOXpjUEV2U0ExTXk3OURmRldYOEdBaFBTLXYwWTNBSHE0ZnpSenEwUjhndk04b2wzODhfYkw4aVItaGhnNDdIRVRuN0piRTBuaWFZUkZ1cG5WWUloclpuOHJmNWRHa3BwTklucm9SNkEtUG1TV3JPOVlURmRXcDBtTnRHa3hWbmRwQzQ5WThlSXV6?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T13:29:23+00:00",
-   "summary": "US national Van Dyke links NIA arrest to Russia-Ukraine war, vows to reveal 'shocking details' The Economic Times",
-   "body": "US national Van Dyke links NIA arrest to Russia-Ukraine war, vows to reveal 'shocking details' The Economic Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1002,7 +1384,7 @@
    "lang": "en"
   },
   {
-   "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
+   "title": "Pentagon chief Hegseth calls US House impeachment effort a ‘farce’",
    "link": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-10T13:23:41+00:00",
@@ -1030,28 +1412,12 @@
    "lang": "en"
   },
   {
-   "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook",
-   "link": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
-   "source": "The Guardian",
-   "published": "2026-11-10T13:19:35+00:00",
-   "summary": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms In the hours after polls closed on election day, tech industry players began praising Sergey Brin, the co-founder of Google, on social media. “H",
-   "body": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms In the hours after polls closed on election day, tech industry players began praising Sergey Brin, the co-founder of Google, on social media. “Huge thanks to Sergey Brin here,” wrote Garry Tan, the CEO of Y Combinator. Venture capitalist Ilya Sukhar posted : “God bless Sergey Brin.” And David Marcus, a crypto entrepreneur, simply wrote : “Hero.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://i.guim.co.uk/img/media/fd8dfac0aab8a5e85c8766c2eace30a1b0749a21/490_0_4876_3903/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=4b0d39dbbed023c8c471c72c2927ba5e",
-   "lang": "en"
-  },
-  {
    "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5",
    "source": "Google News",
    "published": "2026-11-10T13:14:18+00:00",
-   "summary": "Pete Hegseth decries impeachment push, defends Iran war handling CNBC Hegseth ties impeachment defense to troops — and Trump Politico Hegseth says impeachment effort is a ‘political spectacle’ driven by ‘policy disagreements’ CNN Pete Hegseth to address reporters after Republican",
-   "body": "Pete Hegseth decries impeachment push, defends Iran war handling CNBC Hegseth ties impeachment defense to troops — and Trump Politico Hegseth says impeachment effort is a ‘political spectacle’ driven by ‘policy disagreements’ CNN Pete Hegseth to address reporters after Republican begins impeachment effort - follow live BBC Hegseth calls impeachment effort ‘political spectacle,’ defends military actions Baltimore Sun",
+   "summary": "Pete Hegseth decries impeachment push, defends Iran war handling CNBC Defense secretary calls impeachment effort 'a political spectacle' WBAL-TV Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump The Guardian The Impeachment Charges Against Defense Secret",
+   "body": "Pete Hegseth decries impeachment push, defends Iran war handling CNBC Defense secretary calls impeachment effort 'a political spectacle' WBAL-TV Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump The Guardian The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained The New York Times Hegseth defends his record, Iran war as impeachment vote looms The Washington Post",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -1085,22 +1451,6 @@
    "is_war": true,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-HASINA-1794316104.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T13:08:00+00:00",
-   "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi AP News",
-   "body": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi AP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1167,23 +1517,6 @@
    "lang": "en"
   },
   {
-   "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T13:01:14+00:00",
-   "summary": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine CBS News Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos U.S. Overture to Russia on European Security Sparks Alarm WS",
-   "body": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine CBS News Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos U.S. Overture to Russia on European Security Sparks Alarm WSJ Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says The Guardian US asks Russia to agree to NATO-like backing for Ukraine Politico",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
    "link": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
    "source": "The Guardian",
@@ -1212,23 +1545,6 @@
     "Germany"
    ],
    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US evacuates aircraft from RAF Mildenhall over reported Iran threat",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-   "source": "The Guardian",
-   "published": "2026-11-10T12:57:02+00:00",
-   "summary": "Move comes weeks after Washington withdrew bombers from RAF Fairford after a suspected security incident Several US military aircraft were evacuated from RAF Mildenhall in Suffolk on Monday, after the US Air Force concluded they could be at risk from a possible Iranian threat if ",
-   "body": "Move comes weeks after Washington withdrew bombers from RAF Fairford after a suspected security incident Several US military aircraft were evacuated from RAF Mildenhall in Suffolk on Monday, after the US Air Force concluded they could be at risk from a possible Iranian threat if they remained at the British base. Ten air tankers were relocated to bases in Germany, Spain and Scotland, while Osprey transport aircraft were sent to nearby RAF Lakenheath. It is the second time the US has undertaken a hasty redeployment in the UK with some of its bombers pulled from RAF Fairford in October. Continue reading...",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a48447961740c82e260b214b855d98e438d69b94/515_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f7e6685bf09ebda5373585c812909ea7",
    "lang": "en"
   },
   {
@@ -1305,6 +1621,19 @@
    "lang": "en"
   },
   {
+   "title": "Congo sentences 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjVOS0xsWkJOSG44NjhUVnlmVjBuTXRUb05wOEtGZ2w5Tnh4VXhaV3MtYURnVnlHaFpQSVZIeVB4ZDdPcllnTW52VXFabkRFaVFveF9YbkhhT1huUi13SUtCV0VNcVQzd0gyWmtqa0x1N1RaWENoOUpFZUlHRm1ZTjgzZklNbV9hYjk0?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T12:50:20+00:00",
+   "summary": "Congo sentences 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels CBS News DR Congo conflict: At least 66 Congolese soldiers sentenced to death for cowardice BBC Congolese soldiers sentenced to death for being ‘cowards’ The Telegraph DR ",
+   "body": "Congo sentences 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels CBS News DR Congo conflict: At least 66 Congolese soldiers sentenced to death for cowardice BBC Congolese soldiers sentenced to death for being ‘cowards’ The Telegraph DR Congo sentences 66 soldiers to death for fleeing rebel fighting Africanews DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels Deutsche Welle",
+   "category": "Africa",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
    "source": "The Guardian",
@@ -1319,6 +1648,22 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+   "lang": "en"
+  },
+  {
+   "title": "Taiwan says China is running 'area denial' drills in the Western Pacific with the Liaoning carrier - MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXV6cW93dHRSbG9UbVJ3RmtFaVdpY1V4ZnVSMWVHRkh1dnNrdnJxdnhNWW50Nzd5ajVETGliTnlvaUpOMTl4ZnZvUWxmX2VZQXVaNzlUN01hdlZTQkxIdnlPZ3E5bE96elhRUjNpaHVRNzNqbS13U09vekFuNmRYM20zTWJCV2tIcDZlejVwZjdQeXJFVFJFdFp4N0EyUUx1X2tqNzg5cjFlUEVxMVI0TndJR1ZZaGxY?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-10T12:44:22+00:00",
+   "summary": "Taiwan says China is running 'area denial' drills in the Western Pacific with the Liaoning carrier MLQ.ai",
+   "body": "Taiwan says China is running 'area denial' drills in the Western Pacific with the Liaoning carrier MLQ.ai",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Taiwan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1395,28 +1740,12 @@
    "lang": "my"
   },
   {
-   "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi - malverngazette.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWRDbzdtdzVkbnZGTllXR2h0RVFHMnVSNVRnMzFmaV84X0pNRnk5UTU0UWgxTDJNejFhbkpYRVlCc1lxNXdZUF9ER0RWd0VJS2hJbnl6VGZOTXhQWGczQ3pHUWg0bmVPX3FFNEZyMElmV0pzSzJjZjBzZDVCNHRDQkV2THJ1UU4wQ05VVnNZdnJwc2NsQlRzWktyZmhXQ2liUS1UeEFJN2NpNFZKYnJSdzAxYXRkb3c?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T12:32:18+00:00",
-   "summary": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi malverngazette.co.uk",
-   "body": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi malverngazette.co.uk",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "U.S. moves military aircraft from British base amid Iran threats",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZoUVZOTktwMUlwOHVDUGMxM2NHQkwwWGNEMk5nQnpfWjZSQQ?oc=5",
    "source": "Google News",
    "published": "2026-11-10T12:28:32+00:00",
-   "summary": "U.S. moves military aircraft from British base amid Iran threats NBC News U.S. aircraft abruptly depart a second U.K. base The Washington Post Britain says its bases are safe after US refueling planes evacuated USA Today US military aircraft leave second UK base BBC US Air Force ",
-   "body": "U.S. moves military aircraft from British base amid Iran threats NBC News U.S. aircraft abruptly depart a second U.K. base The Washington Post Britain says its bases are safe after US refueling planes evacuated USA Today US military aircraft leave second UK base BBC US Air Force evacuates tankers from base in England due to Iran threat, Wall Street Journal reports AP News",
+   "summary": "U.S. moves military aircraft from British base amid Iran threats NBC News U.S. aircraft abruptly depart a second U.K. base The Washington Post US Air Force evacuates aircraft from a base in England because of a threat, US official says The Boston Globe Exclusive | U.S. Aircraft E",
+   "body": "U.S. moves military aircraft from British base amid Iran threats NBC News U.S. aircraft abruptly depart a second U.K. base The Washington Post US Air Force evacuates aircraft from a base in England because of a threat, US official says The Boston Globe Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat WSJ US military aircraft leave second UK base BBC",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -1456,6 +1785,21 @@
     "Israel"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Police assess new reports against Russell Brand after his rape conviction",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUJyMU0zT3kzM0pyaG5oZ1E0cG50YXdqc2dzeXdjbkV6R1hEdWhyWFAwR2RZdnhCdFBzTnRQNk1qREswVDZnY2o2RW9LLXBkMC0tZFZGQzMzdXRPZW1DQ08wUUtLRUlLaHQ1TGhtWnBzcmZfNldMWnV2RWJYNkZwM3N3UlFtbDh0YlBjRHBMbThwcWVxRkw2X25nbzAyOC1GckFXSmctcmxMa2NRdXZhZ1FPYmJtcXhVN01z?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T12:21:31+00:00",
+   "summary": "Police assess new reports against Russell Brand after his rape conviction NBC News British comedian Russell Brand sentenced to over 10 years for rape and sexual assault NPR Russell Brand Found Guilty of Rape, Sexual Assault in London Court Yahoo Producer Jemima Goldsmith Accuses ",
+   "body": "Police assess new reports against Russell Brand after his rape conviction NBC News British comedian Russell Brand sentenced to over 10 years for rape and sexual assault NPR Russell Brand Found Guilty of Rape, Sexual Assault in London Court Yahoo Producer Jemima Goldsmith Accuses Russell Brand Of “Violence, Coercive Control & Abuse” Deadline Megyn Kelly expresses ‘outrage’ over convicted rapist Russell Brand’s ‘insane’ 10-year prison sentence Page Six",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1536,8 +1880,8 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-10T12:00:59+00:00",
-   "summary": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin The Guardian Ukraine peace talks restart after 9 months. What makes them ",
-   "body": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin The Guardian Ukraine peace talks restart after 9 months. What makes them different this time? CNN U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine CBS News U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi NPR Russia, Ukraine and US officials hold talks in Abu Dhabi Al Jazeera Ukraine Peace Talks Resume This Week in Abu Dhabi The New York Times Live: US envoy urges new security framework to secure peace in Ukraine amid trilateral talks France 24 US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi Yahoo",
+   "summary": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin The Guardian Ukraine, Russia Negotiators Conclude First Day Of US-Led Pea",
+   "body": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' ABC News - Breaking News, Latest News and Videos US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin The Guardian Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role Radio Free Europe/Radio Liberty",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -1549,18 +1893,16 @@
    "lang": "en"
   },
   {
-   "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-   "link": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
-   "source": "The Guardian",
-   "published": "2026-11-10T12:00:52+00:00",
-   "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations Continue reading...",
-   "body": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations Continue reading...",
+   "title": "Review: Apple’s M6 MacBook Pro is good, but it’s missing all the exciting stuff - Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm1FX2VpZVpoS2VtNGxOemZYV0RYOXVieVNkWVhYUVdGYkpqdm9aRW16d2EydmJHZXEwY3l4MjNST05WaXNVM1dqMzlJS3Yxc085VVpzWjU0UzIzWDdBNmRwdTJmX0VlSG5jQ1pSRXBSOVBPa2ZvQ3d5QjZBSEhCcXJDQVpWTGpTX3NaSEQ5NUhUT1pHdHhxY0tkbXVJcDFVM0E?oc=5",
+   "source": "Google News",
+   "published": "2026-11-10T12:00:21+00:00",
+   "summary": "Review: Apple’s M6 MacBook Pro is good, but it’s missing all the exciting stuff Ars Technica Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen The Guardian The touchscreen MacBook Pro is a winner The Verge Can the Touchscreen MacBook Pro Replace an iPad P",
+   "body": "Review: Apple’s M6 MacBook Pro is good, but it’s missing all the exciting stuff Ars Technica Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen The Guardian The touchscreen MacBook Pro is a winner The Verge Can the Touchscreen MacBook Pro Replace an iPad Pro M5? What You Give Up TechRepublic Apple's first deliveries offer a closer look at new iPad mini, MacBook Pros, and iMac AppleInsider",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/47f95b5dffd6d6d6b219fefc9fd8ffab4e88020d/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=ce808f2ce695d9c2395ee4ac200d4545",
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1576,353 +1918,6 @@
     "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
-   "link": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-10T11:57:00+00:00",
-   "summary": "At least 12 people were killed and dozens injured in a series of crashes caused by thick fog in Bulgaria. Police, firefighters and paramedics were dispatched to the scene for the rescue operation.",
-   "body": "At least 12 people were killed and dozens injured in a series of crashes caused by thick fog in Bulgaria. Police, firefighters and paramedics were dispatched to the scene for the rescue operation.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79906975_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\"",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T11:56:00+00:00",
-   "summary": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" CBS News Trump says Israel, Middle East protected from Iranian threats Fox News Iran war updates: Trump says US-Israel war on Iran ‘effectively over’ Al Jazeera Iran liv",
-   "body": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" CBS News Trump says Israel, Middle East protected from Iranian threats Fox News Iran war updates: Trump says US-Israel war on Iran ‘effectively over’ Al Jazeera Iran live updates: Hegseth says Trump 'kicked their teeth in' ABC News - Breaking News, Latest News and Videos Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes CNBC",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Israel",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-   "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T11:52:34+00:00",
-   "summary": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-   "body": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Israel",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af2ed0732a1-1794305287.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
-   "link": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
-   "source": "The Guardian",
-   "published": "2026-11-10T11:50:28+00:00",
-   "summary": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule Hungarian authorities have detained a brother of Viktor Orbán as part of an investigation into people-smuggling, the prime minister, Péter Magyar , has said. The Hungarian anti",
-   "body": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule Hungarian authorities have detained a brother of Viktor Orbán as part of an investigation into people-smuggling, the prime minister, Péter Magyar , has said. The Hungarian anti-graft body, the national asset protection and recovery office, said in ⁠a statement that a joint operation with police had led to the arrests of four people and searches of homes in Budapest and Pest county. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/604e93edac296e07e502466ba760aa86b3b2e3b2/363_0_661_529/master/661.jpg?width=140&quality=85&auto=format&fit=max&s=64644d1e13002b88988b90a7fae6311d",
-   "lang": "en"
-  },
-  {
-   "title": "Russia-Ukraine war: where things stand as peace talks begin - thenationalnews.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0dkbEdxZG9YcVluMlhSODhfY3NvUkR6QVUzT012M1ZfMlp3bjNjVFBzb3Z6UFRvU0lNVTl3ZHI4TFRDNEpiVTFCbE5JWExzYjVsX2NRelZwSUdYSFgwbTFWX2F4b1psY1B0OXVrM2RpWVBVRURDNFl6T3J1WUhDU2c1YWo2Y0lTOEQxaUtxR0pLb0JCbHNnd25SNGU4MXg2M251ZEJ2aHBDdw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T11:47:48+00:00",
-   "summary": "Russia-Ukraine war: where things stand as peace talks begin thenationalnews.com",
-   "body": "Russia-Ukraine war: where things stand as peace talks begin thenationalnews.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "India: Sonia Gandhi's memoir 'Belonging: A Journey of Love' released",
-   "link": "https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-10T11:46:00+00:00",
-   "summary": "The book goes through the Italian-born matriarch's journey with one of India's most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\"",
-   "body": "The book goes through the Italian-born matriarch's journey with one of India's most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\"",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://static.dw.com/image/76517475_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-   "link": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-   "source": "France 24",
-   "published": "2026-11-10T11:45:29+00:00",
-   "summary": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago. As these two days of talks in Abu Dhabi get underway,",
-   "body": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago. As these two days of talks in Abu Dhabi get underway, the negotiators that each country has chosen to send tell us most of what we need to know about what will be discussed, as FRANCE 24's International Affairs Commentator Douglas Herbert explains.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/ebe437c2-dcfb-11f1-bf82-695cb59fade5/w:1024/p:16x9/EN-20261110-120140-120634-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Fighting intensifies near Sagaing-Kachin border as resistance forces capture three military outposts",
-   "link": "https://myanmar-now.org/en/news/fighting-intensifies-near-sagaing-kachin-border-as-resistance-forces-capture-three-military-outposts/",
-   "source": "Myanmar Now",
-   "published": "2026-11-10T11:45:02+00:00",
-   "summary": "Civilian casualties have also been reported amid fierce clashes and airstrikes on villages south of the town of Maw Luu",
-   "body": "Civilian casualties have also been reported amid fierce clashes and airstrikes on villages south of the town of Maw Luu",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/att.jodGFF4YL9ibAledsGt9vaNGrp0q2_Q1valhP_JfqIc.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZF9fbEtpZWVReFgySDk0T0VNT20tZDIwVHNZWmVTYW1Fc2tESVlwVXFfMUpRNzdQdmtmdkp5OWM1WHMyV2ZqdXo0WHFlY2VlRHhvdF9IN1dOMlJfM2pXZkdGdWhGbVc0SjNEaDRWYlFzV0ljbWtmOENkdS11MHcyeEtWUGh6RkFIUzk4MGJ0Q2R4dHdraUNiNFlQR05ySmYxd3ExWGgxWDhPRnlmbEdudVhmY1NRbW1YUFdvWTVtYW0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T11:43:00+00:00",
-   "summary": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi AP News",
-   "body": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi AP News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Dana White: UFC chief declines Trump’s White House job offer",
-   "link": "https://www.france24.com/en/video/20261110-dana-white-ufc-chief-declines-trump-s-white-house-job-offer",
-   "source": "France 24",
-   "published": "2026-11-10T11:39:53+00:00",
-   "summary": "Ultimate Fighting Championship (UFC) chief Dana White made a surprise appearance at the White House on Monday to turn down Donald Trump’s offer of a job as the White House press secretary, saying he has “zero political aspirations”. Trump stunned the world on November 7 when he s",
-   "body": "Ultimate Fighting Championship (UFC) chief Dana White made a surprise appearance at the White House on Monday to turn down Donald Trump’s offer of a job as the White House press secretary, saying he has “zero political aspirations”. Trump stunned the world on November 7 when he said on social media that he had offered White the job, only to claim a day later that he was \"only kidding”.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/b7fd633a-dcfa-11f1-a0c4-3f371022a770/w:1024/p:16x9/Dana-White-thumbnail.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship - MacRumors",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQTNrWkhzc3VweTNrUkREQzRKclJFajVDSnJVellvaklWeU9kcXIydXRKbEhPZFYzSkNmOElmNm1LSG55aVp0S1h2elNoWW5jRzVxWXVWamcydVJKcWhqdTVpQjI1TE1KWFVMNzFfZG1BbXBuLTB0UFFHNmo2Ulk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T11:39:01+00:00",
-   "summary": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship MacRumors Apple might get rid of longtime iPhone feature AL.com Next year’s iPhone Pro redesign will drop an important button, per leak 9to5Mac The iPhone 20 Pro will reportedly skip the all-glass design after al",
-   "body": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship MacRumors Apple might get rid of longtime iPhone feature AL.com Next year’s iPhone Pro redesign will drop an important button, per leak 9to5Mac The iPhone 20 Pro will reportedly skip the all-glass design after all PhoneArena Apple’s iPhone 20 Pro Models Rumoured to Retain Dynamic Island Deccan Chronicle",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "U.S. seeks ‘final end’ to Russia-Ukraine war at Abu Dhabi talks — The Guardian - The New Voice of Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDhMaEZQUXZqVXNESE85eDg0b0J2VnM0Z3YzMVROM3VoNEpGMFJlNmg3VjJUQ3lQZ25nNEdXelB3T0prTDAybjB0Ml80T3NrTThFaTNkUXpUQ1pyZDZTYmZvSFN4NDY1Q0JZMEdDZUlRQ0Q2UzE3TXhSV2htaEZBRnhIaF9jekt4ZmdxY3h5OUh2TGtlOE81WE15NFZqM3FIdm9aTGl0R2RaYW5iZGk2dWdMYk9jWGhwcURXUjdKSDhuQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T11:34:00+00:00",
-   "summary": "U.S. seeks ‘final end’ to Russia-Ukraine war at Abu Dhabi talks — The Guardian The New Voice of Ukraine",
-   "body": "U.S. seeks ‘final end’ to Russia-Ukraine war at Abu Dhabi talks — The Guardian The New Voice of Ukraine",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "GTA 6 Preloading Is Live. Here's How to Install the Game on PlayStation and Xbox - PCMag",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHA2cUpjOWdlNHJqSUJPS3VDeFVvTGpFUWd3S3E2bGNnNHJWYmNmZVVjSXl6Ri1Rc2xEWDhmZlpPZXlqdldFZDJDcE9fcF9WWU8wdzhDZjZhd21UMUhtN2l6Z3lvMDBvUzFWQ1BqTmdQdFJPdF92QlVfeVpBTkwzOFdKcWZMczJwa1A1akVyejVjV0JYVG1jQkZRZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-10T11:33:01+00:00",
-   "summary": "GTA 6 Preloading Is Live. Here's How to Install the Game on PlayStation and Xbox PCMag Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch Comcast Corporation Download Grand Theft Auto VI Faster and Get to Leonida Sooner With ",
-   "body": "GTA 6 Preloading Is Live. Here's How to Install the Game on PlayStation and Xbox PCMag Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch Comcast Corporation Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig Charter Communications ‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend Forbes GTA 6's PlayStation Store Data Hints at Multiplayer Support TechPowerUp",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
-   "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-   "source": "NYT World",
-   "published": "2026-11-10T11:29:10+00:00",
-   "summary": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
-   "body": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Poland"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-new2-pqvj/09int-poland-new2-pqvj-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US, Russia and Ukraine start talks in Abu Dhabi - Deutsche Welle",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNlBMV3g5end3aF9namhLRUF1YzRGNUM5VWJvN0REaVJ2NWtFN0Utc0oyRHFYb3lOMmU3eWFrcmEtT2xsTGdna1FYNHVSWGF1V0RZbkdVdV83TlRYZVZvSHE4RmVETDJqUFVJeVBXdV9SOEhKdEY0VjNldV9FYzJNNUwxUHFQcUo0WGc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-10T11:27:58+00:00",
-   "summary": "US, Russia and Ukraine start talks in Abu Dhabi Deutsche Welle",
-   "body": "US, Russia and Ukraine start talks in Abu Dhabi Deutsche Welle",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-   "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-10T11:25:46+00:00",
-   "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-   "body": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/a358da40-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-10T11:23:18+00:00",
-   "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-   "body": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd6/live/72504f00-dcf5-11f1-93e1-3b657b665bcf.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
-   "link": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
-   "source": "France 24",
-   "published": "2026-11-10T11:22:39+00:00",
-   "summary": "Israel's new parliament will be sworn on Tuesday, November 10, with Prime Minister Benjamin Netanyahu set to lose his majority as rival Gadi Eisenkot works to form a new government. The opposition hopes to use its newfound legislative power to move quickly on key priorities, incl",
-   "body": "Israel's new parliament will be sworn on Tuesday, November 10, with Prime Minister Benjamin Netanyahu set to lose his majority as rival Gadi Eisenkot works to form a new government. The opposition hopes to use its newfound legislative power to move quickly on key priorities, including a commission to investigate security failures under Netanyahu that allowed the October 7, 2023 attack by Hamas. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/ca01015e-dcf5-11f1-bb13-29048b396e03/w:1024/p:16x9/capture-a1c9673b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "California voters reject measure to tax the wealth of billionaires",
-   "link": "https://www.france24.com/en/video/20261110-california-voters-reject-measure-to-tax-the-wealth-of-billionaires",
-   "source": "France 24",
-   "published": "2026-11-10T11:20:09+00:00",
-   "summary": "California voters have rejected a first-in-the-nation tax on the net worth of billionaires following a contentious ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up. The measure would have imposed a one-time 5% tax on",
-   "body": "California voters have rejected a first-in-the-nation tax on the net worth of billionaires following a contentious ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up. The measure would have imposed a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion. FRANCE 24's correspondent in Los Angeles Loic Pialat has more.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/73384700-dcf6-11f1-ad84-5f54d898a954/w:1024/p:16x9/capture-9ee8e9dd.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
-   "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T11:17:36+00:00",
-   "summary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
-   "body": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2e8796627-1794304121.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Who moves first in Iran-US diplomacy?",
-   "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T11:14:16+00:00",
-   "summary": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-   "body": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abd16170fc61-1790776855.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Borussia Dortmund's Felix Nmecha and the question of religion",
-   "link": "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-10T11:12:00+00:00",
-   "summary": "Felix Nmecha's \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football.",
-   "body": "Felix Nmecha's \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/79897252_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Mediacorp appoints Charles Ng and Eugene Ho to its board of directors",
-   "link": "https://www.channelnewsasia.com/singapore/mediacorp-directors-board-6537936",
-   "source": "CNA World",
-   "published": "2026-11-10T11:06:57+08:00",
-   "summary": "Their complementary perspectives will help us pursue growth securely and responsibly, and sustain the trust that is essential to fulfilling our public service mission as Singapore’s national media network,” said Mediacorp chairman Niam Chiang Meng.",
-   "body": "Their complementary perspectives will help us pursue growth securely and responsibly, and sustain the trust that is essential to fulfilling our public service mission as Singapore’s national media network,” said Mediacorp chairman Niam Chiang Meng.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--t-BJcUDC--/c_crop,h_759,w_1350,x_0,y_40/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/10/2_panel_composite_28.png?itok=WdprXUgY",
    "lang": "en"
   },
   {
