@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T16:38:58.527790+00:00",
- "updated_yangon": "2026-11-12 23:08",
+ "updated": "2026-11-12T17:38:58.654446+00:00",
+ "updated_yangon": "2026-11-13 00:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,9 +10,9 @@
   "DW",
   "France 24",
   "Google News",
-  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -22,35 +22,35 @@
  "countries": [
   [
    "United States",
-   41
+   51
   ],
   [
    "Ukraine",
-   24
+   26
   ],
   [
    "Russia",
-   18
-  ],
-  [
-   "China",
-   11
-  ],
-  [
-   "Palestine",
-   10
-  ],
-  [
-   "France",
-   10
+   24
   ],
   [
    "Israel",
-   9
+   14
+  ],
+  [
+   "Palestine",
+   13
+  ],
+  [
+   "France",
+   12
+  ],
+  [
+   "China",
+   8
   ],
   [
    "Myanmar",
-   7
+   6
   ],
   [
    "Iran",
@@ -58,30 +58,34 @@
   ],
   [
    "NATO",
-   3
+   4
   ],
   [
    "United Kingdom",
-   3
+   2
   ],
   [
-   "Australia",
-   3
-  ],
-  [
-   "Taiwan",
-   3
+   "European Union",
+   2
   ],
   [
    "Germany",
    2
   ],
   [
+   "Turkey",
+   1
+  ],
+  [
+   "Yemen",
+   1
+  ],
+  [
    "Syria",
    1
   ],
   [
-   "Lebanon",
+   "Australia",
    1
   ]
  ],
@@ -94,10 +98,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 24,
+ "war_count": 31,
  "languages": {
-  "my": 24,
-  "en": 116
+  "my": 22,
+  "en": 118
  },
  "items": [
   {
@@ -195,7 +199,7 @@
    "title": "ရေနံမှော်တွေရှိတဲ့မြိုင်နဲ့ ပေါက်မှာ KTV မဖွင့်ဖို့ PDF သတိပေး",
    "link": "https://www.bbc.co.uk/burmese/live/cmy5x42knzz6t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-12T16:39:15+00:00",
+   "published": "2026-11-12T17:39:19+00:00",
    "summary": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -205,6 +209,513 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb3c/live/914f96a0-de9d-11f1-9afe-1f03bfe02283.jpg",
    "lang": "my"
+  },
+  {
+   "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+   "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
+   "source": "France 24",
+   "published": "2026-11-12T17:32:06+00:00",
+   "summary": "The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of power with potentially dangerous repercu",
+   "body": "The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of power with potentially dangerous repercussions for individual liberties and the right to protest.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/fd886f68-d484-11f1-9138-695cb59fade5/w:1024/p:16x9/000-D4BK2ND.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Scout Is Finally Building Real Vehicles At Its $2-Billion Factory - Motor1.com",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzg2YXo2cnlNRlBVTWIzb0IyRVVZamp1VTZLOElNZ3A5b0pTdFpBVWY0QmMtSnU4UUgzRlJHSTZkSUZManBzYWpoLWl5dFU2WXNQM1VsTlRILWhvQS1uZlJ3VzM2TXRDUG4zMzRNTDNzQ0hmQ2l5cmZucUdZZVN2dUVkaE5mM2czWGc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T17:31:57+00:00",
+   "summary": "Scout Is Finally Building Real Vehicles At Its $2-Billion Factory Motor1.com Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion CNBC Scout Motors: We Aren’t Delayed or in Trouble. Stop Saying So. MotorTrend Scout Is Now Building Its ",
+   "body": "Scout Is Finally Building Real Vehicles At Its $2-Billion Factory Motor1.com Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion CNBC Scout Motors: We Aren’t Delayed or in Trouble. Stop Saying So. MotorTrend Scout Is Now Building Its Traveler SUV and Terra Truck in South Carolina The Drive Scout SUVs And Pickups Begin Rolling Off The Assembly Line In South Carolina AutoSpies",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Putin says Russia will target foreign troops deployed to Ukraine",
+   "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:26:51+00:00",
+   "summary": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk’s Starlink satellite service Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced ",
+   "body": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk’s Starlink satellite service Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service. During the talks at the Kremlin with US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territorial demands, insisting on full control over four Ukrainian regions that Moscow claims to have annexed. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70",
+   "lang": "en"
+  },
+  {
+   "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:26:24+00:00",
+   "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn pro",
+   "body": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn proposals. She said she was concerned by the idea that the cuts would apply to people already getting sickness and disability benefits, and she said it appeared to be a breach of a promise given last year that people already getting Pip (the personal independence payment) would not lose it. She said: I just don’t think that you get a disabled young person into work by taking away the money that helps them to get into work. The cuts seem to land on young disabled people, and many of them are in college already or already in work. So I don’t see how you fix the first by punishing the second. Milburn said he concluded fundamental change was needed. He said: The whole system needs to be changed, because the system is geared to keeping people inactive when, for young people in particular, it’s all about how can you make them active, get them earning, learning, so that they can rely on a wage rather than on a benefit. So, this is not about cutting one benefit, it’s about rebuilding the system from scratch. He said that he decided existing claimants should be covered by the changes, not just new changes. It’s a big rewriting of the welfare system. And obviously one of the conundrums was, ‘Should this apply to only new claimants?’ I came to the conclusion that wouldn’t be right, not least because you’ve got hundreds of thousands of young people stuck in a benefit system that is trapping them in poverty, giving them no prospect of prosperity or a job. Milburn admitted this meant the plans would not be “pain-free”. I’m not saying that any of this will be easy or that it will be pain-free because it won’t. You know, candidly, it could mean that some people will get less financial support at the beginning of their benefit claim than under the current system. He said he wanted the system to prioritise improving people’s life chances in the long term over easing their financial hardship in the short term. Actually for young people there’s a different debate that we’ve got to resolve, which is whether the priority is their longer-term life chances or just their immediate shorter-term finances. I think what the current system does, it prioritises the latter over the former. I believe that’s the wrong choice and it needs to be the other way around. He said, alongside the cuts to benefits he is proposing (see 11.56am ), he wanted to improve employment support for young people. We need to make sure people have the opportunities to get an apprenticeship, a job, a work placement, a pre-apprenticeship, a college place. The menu of opportunities has got to increase. They’ll have a personal adviser, they’ll be coached all the way through. The adviser will stick with them until they have found a job or an apprenticeship or college place. He also confirmed he wants to let young people do some work before they start losing benefits. They will get immediate access to support if that’s what they need, if that’s the thing that is holding them back from being in education or training. He admitted that offering better employment support and mental health support would mean his plans would initially cost money. According to the Times, he did not did not deny claims the whole package could cost £6bn. But, in the long run, there would be savings, he said. Obviously this costs money. And frankly it’s a better use of money, both from the point of view of the young person and the taxpayer, to spend that money getting them into work rather than spending that money keeping them on benefits. This is the sort of fatuous thing about this debate. You’ve got to invest upfront in order to get savings out of the back end. Cost-free is fatuous. So we’ve got to be candid about that. It will need significant investment. To get a return on investment will take time … the only way of cutting the benefits bill sustainably is by getting young people into work, paying their taxes and being less reliant on benefits. Unless you are prepared to put the investment upfront it will never be possible. He said he was “confident” that Andy Burnham was full-square behind the changes that are needed.” Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
+   "lang": "en"
+  },
+  {
+   "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+   "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:26:07+00:00",
+   "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data relea",
+   "body": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T17:25:58+00:00",
+   "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
+   "body": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thumb-1794504336.png?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Finland bars Russian athletes from entering country over Ukraine war",
+   "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:23:51+00:00",
+   "summary": "Russians ‘have no business’ in country, says minister Skating and cross-country skiing first to be affected Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a b",
+   "body": "Russians ‘have no business’ in country, says minister Skating and cross-country skiing first to be affected Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a backlash in Finland to Russia being reinstated for the ice hockey world championships. “As long as Russia’s war of aggression continues, Russian athletes have no business in Finland,” said Elina Valtonen, the Minister for Foreign Affairs. “Their entry into the country would be a threat to Finland’s international relations. The same is true of other short-term work under visas that is not essential to Finland’s national interests.” Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/9a8435863086321dd69a7b563f7fbd1db3560fbb/407_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=8e74da99d9686e4e07e045c6a2df9595",
+   "lang": "en"
+  },
+  {
+   "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:21:09+00:00",
+   "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcem",
+   "body": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following ouster",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T17:19:00+00:00",
+   "summary": "Nvidia live updates: Jensen Huang agrees to testify before Congress following ouster CNBC Jensen Huang Has Been Ousted as Nvidia CEO WSJ Nvidia Ousts Jensen Huang With AI Trade in the Balance Bloomberg.com NVIDIA Announces CEO Transition NVIDIA Newsroom Jensen Huang Said to Have ",
+   "body": "Nvidia live updates: Jensen Huang agrees to testify before Congress following ouster CNBC Jensen Huang Has Been Ousted as Nvidia CEO WSJ Nvidia Ousts Jensen Huang With AI Trade in the Balance Bloomberg.com NVIDIA Announces CEO Transition NVIDIA Newsroom Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him The New York Times",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Can the EU make it harder to trick consumers online?",
+   "link": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-12T17:19:00+00:00",
+   "summary": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
+   "body": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://static.dw.com/image/68243087_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+   "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T17:18:13+00:00",
+   "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+   "body": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A3697-copy-1794496426.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:17:55+00:00",
+   "summary": "This blog is now closed Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 m",
+   "body": "This blog is now closed Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
+   "lang": "en"
+  },
+  {
+   "title": "Brooklyn building collapse in Flatbush live updates: 8 dead, 18 hurt as search goes on - ABC7 New York",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T17:16:00+00:00",
+   "summary": "Brooklyn building collapse in Flatbush live updates: 8 dead, 18 hurt as search goes on ABC7 New York Brooklyn Building Collapse Live Updates: At Least 8 Dead as Crews Search for Survivors The New York Times Brooklyn building collapse: 2 children, 6 men killed in Flatbush ABC7 New",
+   "body": "Brooklyn building collapse in Flatbush live updates: 8 dead, 18 hurt as search goes on ABC7 New York Brooklyn Building Collapse Live Updates: At Least 8 Dead as Crews Search for Survivors The New York Times Brooklyn building collapse: 2 children, 6 men killed in Flatbush ABC7 New York At least 3 dead, multiple injured after building collapses in Brooklyn, New York 6abc Philadelphia Developer at Brooklyn collapse site had record of flouting orders from city agency Gothamist",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Local fund to replace Pip for most young disabled people under Milburn plans",
+   "link": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:14:34+00:00",
+   "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments UK politics live – latest updates Young people with disabilities will lose their personal independence payments and will have to apply instead to ",
+   "body": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments UK politics live – latest updates Young people with disabilities will lose their personal independence payments and will have to apply instead to a local fund for short-term expenses and equipment, Alan Milburn’s review will recommend. Under-25s will be barred from claiming Pip and the health element of universal credit and instead will get a new youth allowance paid at the standard rate of universal credit. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/1f6cd51ec43ba33aea80c41db7676cc70dc1e2e0/2727_1200_2422_1938/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=8ae78cbc79b8b0fac6ca2ee8f0ef73af",
+   "lang": "en"
+  },
+  {
+   "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:12:31+00:00",
+   "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s fi",
+   "body": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
+   "lang": "en"
+  },
+  {
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-12T17:11:48+00:00",
+   "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+   "body": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83b/live/928866f0-deac-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
+   "link": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:05:55+00:00",
+   "summary": "And a politics editor, freshly returned to work after parental leave, can relate This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox Most of us probably remember that feeling we had as kids when we would shar",
+   "body": "And a politics editor, freshly returned to work after parental leave, can relate This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox Most of us probably remember that feeling we had as kids when we would sharpen our pencils and stack fresh notebooks into our backpacks, pick out our favorite outfits, and head back to school in the fall with the energy and exuberance that can only come after a few months away from a classroom. This Monday, I had the rare adult version of that sensation when I packed my bag for my first day of work after parental leave. And, coincidentally, more than 100 new members of Congress also experienced the first-day jitters as they descended on Washington for new member orientation. For Democrats, who exceeded everyone’s expectations in the midterms – flipping more than 40 House seats, and gaining at least six new Senate seats (the race in Alaska still hasn’t been called , but it, too, appears to be favoring Democrats) – it was a more triumphant beginning than most of us had walking into high school for the first time. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b1a9c4c1236cbdbc1817c29a6b8f74d88d6aef96/499_0_6501_5201/master/6501.jpg?width=140&quality=85&auto=format&fit=max&s=8459222fb7eb972a337e9b9a3892da70",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+   "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+   "source": "The Guardian",
+   "published": "2026-11-12T17:05:17+00:00",
+   "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for t",
+   "body": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+   "lang": "en"
+  },
+  {
+   "title": "Mercedes-Benz halts all further investment at German facilities",
+   "link": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-12T16:59:00+00:00",
+   "summary": "The announcement comes as the luxury German automaker faces increasing pressure from the works council and trade unions.",
+   "body": "The announcement comes as the luxury German automaker faces increasing pressure from the works council and trade unions.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/79669256_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russia’s Leaders: Children of a Dead Age - Center for European Policy Analysis (CEPA)",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQXhHc2tSSUVvSGdyc1hHbk1GT1V5N0Nzc3VFbnMtVFE2cklqejdsZUp5M2YyWWM0d3dISXdPMlhjdGUwYnJhVldwOHN0WURYQUZVa0dTcl9wNWxCdUdYeUlTRENTNDFUUjZOSzdWWEg4QQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T16:58:00+00:00",
+   "summary": "Russia’s Leaders: Children of a Dead Age Center for European Policy Analysis (CEPA)",
+   "body": "Russia’s Leaders: Children of a Dead Age Center for European Policy Analysis (CEPA)",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine says Musk's Starshield defense limited again, enabling Russian strikes as U.S. envoys push for a deal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcC1fRVdBQUZHelNpV2ZuUG5uQjM4cUgyNnU1ZDdMM1RlSUhyQVc3RkVoRWw1YTAzQk5ZVlZoYmNBYlF2ZEZyYkd5THIwX2dJNDJkX2NBN3pOUmFXX2p3OXhNN0dsTXZMSkhLTEdPSVQ3X3pGRVdDSUhrQkVBdldpTWhjYjhLMnBQeFpGZ3otUVU0Vlp0cDBzcV8xZnB5a3NzY0s1aVhudS02UQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T16:56:29+00:00",
+   "summary": "Ukraine says Musk's Starshield defense limited again, enabling Russian strikes as U.S. envoys push for a deal CBS News",
+   "body": "Ukraine says Musk's Starshield defense limited again, enabling Russian strikes as U.S. envoys push for a deal CBS News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T16:55:10+00:00",
+   "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+   "body": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-Thumbnail-1794502473.png?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+   "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+   "source": "NYT World",
+   "published": "2026-11-12T16:54:22+00:00",
+   "summary": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
+   "body": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-12T16:54:12+00:00",
+   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "body": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-12T16:52:53+00:00",
+   "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+   "body": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
+   "link": "https://www.france24.com/en/video/20261112-concentration-of-power-wealth-do-tech-ceos-have-more-authority-influence-than-elected-officials",
+   "source": "France 24",
+   "published": "2026-11-12T16:49:25+00:00",
+   "summary": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique position in a booming AI industruy marked by intensifying compet",
+   "body": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique position in a booming AI industruy marked by intensifying competition between the United States and China. Its leadership upheaval raises immediate questions about corporate succession. But it is also fueling a broader debate about economic resilience, national security and the political influence of big tech titans. For Gavin Bade, trade and economic policy reporter at The Wall Street Journal, the controversy illustrates the extraordinary concentration of economic power in a handful of corporations and the individuals who lead them. “Do these CEOs actually have more authority and more influence than our elected officials?”",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://s.france24.com/media/display/647eefce-deb4-11f1-b21c-5f54d898a954/w:1024/p:16x9/EN-20261112-160417-161419-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkxWdzRaWWZjX1dBSm1fRzl3dXNsbFExTHRra1haVS1OWUl2T0JrMUhQbGJiNHpSMUlXd0JKanV1cjgxclBWSXRYRm1lTTVjMWdnZ3VtRVpzNUJmNW9uZ1dpN2RYS3BaamEwYVowcTB4MjQwcUJodFVudWttRjFmZ0p2Um5abjI4dTk4THV0T3h3U1RXSXFjSU1NWC1wbE9l?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T16:48:09+00:00",
+   "summary": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks Time Magazine",
+   "body": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks Time Magazine",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
+   "link": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
+   "source": "France 24",
+   "published": "2026-11-12T16:46:14+00:00",
+   "summary": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with US envoys. FRANCE 24's International Aff",
+   "body": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with US envoys. FRANCE 24's International Affairs Editor Philip Turle has more.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/1e9642f2-deb7-11f1-b9bd-f71d22e7fea9/w:1024/p:16x9/capture-38e7cc3a.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Prominent Israeli settler denied entry into France",
+   "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T16:44:49+00:00",
+   "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
+   "body": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af5da9062-1794497168.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+   "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-12T16:44:00+00:00",
+   "summary": "The first trilateral talks between Ukraine, the US and Russia in nine months have ended with an agreement on exchanging prisoners. Does this mark a genuine breakthrough and a step toward peace?",
+   "body": "The first trilateral talks between Ukraine, the US and Russia in nine months have ended with an agreement on exchanging prisoners. Does this mark a genuine breakthrough and a step toward peace?",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79918396_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Farage was guest on Brand podcast after sexual assault investigation began",
+   "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
+   "source": "The Guardian",
+   "published": "2026-11-12T16:43:33+00:00",
+   "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian UK politics live – latest updates Nigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual as",
+   "body": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian UK politics live – latest updates Nigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual assault, the Guardian has learned. The Reform UK leader has criticised Labour for “cosying up to” and “promoting” Brand a decade ago, after the comedian was sentenced this week to more than 10 years in prison for rape and sexual assault. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/40558422c7bc4a345d47ed741577d0799be3ec8d/493_319_3988_3191/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=7c03989a49339809d21dd7b6e7bcbd1e",
+   "lang": "en"
+  },
+  {
+   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mVkpXXzRYS0JkNlBqRk9RaTRVSDRlT2F4Qi1UQkJGSXBvcFdXRHA4b2hMUFRsZ2xLNWdKZy1VcU5tQkoteEs0VVpCZ1Ffc3pPR3JHOUozby1qbW9YYWN6TFduS1VfRWt0cDZ5YzlWck4?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T16:42:25+00:00",
+   "summary": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine Boston Herald",
+   "body": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine Boston Herald",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+   "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+   "source": "The Guardian",
+   "published": "2026-11-12T16:39:47+00:00",
+   "summary": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her f",
+   "body": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her first appearance at the annual UN climate talks in five years. Thunberg , 23, the Swedish activist who became famous for heading the school climate strike movement, delivered her stark message to those gathered at the Cop31 summit in Antalya, Turkey, amid the ongoing failure by countries to adequately address the climate crisis. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Turkey"
+   ],
+   "image": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
+   "lang": "en"
   },
   {
    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
@@ -224,6 +735,21 @@
    "lang": "en"
   },
   {
+   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+   "link": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
+   "source": "The Guardian",
+   "published": "2026-11-12T16:30:27+00:00",
+   "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached Business live – latest updates The UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, after an initial Euro",
+   "body": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached Business live – latest updates The UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, after an initial European proposal suggested a shorter delay. Tariffs are due to kick in on 1 January for the majority of electric cars traded between the EU and UK unless the two sides can come to an agreement to delay for a second time the implementation of “rules of origin” on batteries. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/8ab0cdf0d430e3257ca969f133bc738343df5ddc/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=60b7ca334ee9b1452093c1e6f53cfc2d",
+   "lang": "en"
+  },
+  {
    "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter - Boston Herald",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZzVhV1puT0l2VW1FQ3NOZkU5b1o4MVZHZ0p6M3F5U0hXSERWV1hic0R1SG1xZGZxOHV6UnJMMDB0TWNTQ1NVSlNYTmxicFMwclhJTnUxMWtUZGtDMUY3QmNkUVEtcFJtVmxBWjhzYTdRQTM3a1lmZC1PbVNqUQ?oc=5",
    "source": "Google News · Ukraine",
@@ -235,66 +761,6 @@
    "countries": [
     "Ukraine"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:28:18+00:00",
-   "summary": "US envoy Steve Witkoff’s announcement come after his talks with Putin in Moscow Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face dom",
-   "body": "US envoy Steve Witkoff’s announcement come after his talks with Putin in Moscow Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
-   "lang": "en"
-  },
-  {
-   "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:27:30+00:00",
-   "summary": "Police say suspect is contained after suffering a gunshot wound. The suspect’s status has not been confirmed Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a fe",
-   "body": "Police say suspect is contained after suffering a gunshot wound. The suspect’s status has not been confirmed Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
-   "lang": "en"
-  },
-  {
-   "title": "One dead and four injured in Washington DC shooting, with suspect reportedly dead",
-   "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:26:48+00:00",
-   "summary": "Authorities identify suspect as ‘white male’ who was a member at VIDA Fitness, the gym where people were shot Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said. In ",
-   "body": "Authorities identify suspect as ‘white male’ who was a member at VIDA Fitness, the gym where people were shot Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said. In a Thursday morning press conference, authorities identified the suspect as a “white male” who had been “contained”. Shortly after the press conference, the Associated Press and NBC News both reported that the suspect was dead, citing law enforcement officials. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
-   "lang": "en"
-  },
-  {
-   "title": "Brooklyn building collapse in Flatbush live updates: 8 dead, 17 hurt as search goes on - ABC7 New York",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T16:26:00+00:00",
-   "summary": "Brooklyn building collapse in Flatbush live updates: 8 dead, 17 hurt as search goes on ABC7 New York Brooklyn Building Collapse Live Updates: At Least 8 Dead as Crews Search for Survivors The New York Times Immigrant construction worker with pregnant wife among 8 dead in Brooklyn",
-   "body": "Brooklyn building collapse in Flatbush live updates: 8 dead, 17 hurt as search goes on ABC7 New York Brooklyn Building Collapse Live Updates: At Least 8 Dead as Crews Search for Survivors The New York Times Immigrant construction worker with pregnant wife among 8 dead in Brooklyn building collapse New York Daily News Live updates: Crews search rubble of deadly NY building collapse as rain threatens to complicate rescues CNN Brooklyn building collapse: Pregnant woman rescued from rubble ABC7 New York",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -315,47 +781,63 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-   "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:25:29+00:00",
-   "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for t",
-   "body": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-   "lang": "en"
-  },
-  {
-   "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:25:13+00:00",
-   "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s fi",
-   "body": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
-   "lang": "en"
-  },
-  {
-   "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter - The Mercury News",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11R3FuMTdBTkNyOUc2TmZWZDJBTml2WFk1eVNUT0lVNmFndDFSNmJiQ1hOT0tMRV9OM1JsdVNDVGVaMFJ4MXl4YVJkMkFQOVZuQ0x2b1dDOUFVWlE2N1VJNDliazVNZDdudlFFUk8wMG9UVFEtWVZVV0N4elI?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-12T16:24:23+00:00",
-   "summary": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter The Mercury News",
-   "body": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter The Mercury News",
-   "category": "Global",
+   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-12T16:24:07+00:00",
+   "summary": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says ABC News - Breaking News, Latest News and Videos",
+   "body": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says ABC News - Breaking News, Latest News and Videos",
+   "category": "Middle East",
    "is_war": true,
    "countries": [
-    "Ukraine"
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T16:23:30+00:00",
+   "summary": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian De",
+   "body": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Debris From Two Houthi Missiles Falls Near Mecca After Interception | LIVE BLOG i24NEWS Board of Peace says Israeli strike on Gaza hospital ‘underscores’ need for peace plan The Times of Israel",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Yemen"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+   "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T16:23:29+00:00",
+   "summary": "Officials say a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+   "body": "Officials say a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af5dd6366-1794497891.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns - Drop Site News",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BMXE5UUFSb1FnVjd5SDNPUElfZWZ0ZWdWSUFYSUpyYlFBdGRDWXFJR2h6aUVaS1NrVEdKSUt6eGNWT1ZCa2phd3did2NReWtEUkJ0R0w5ZS1EXzRXS2QzWHdKVHZpN1pxcW5UbXNyV1dHRkk?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-12T16:18:32+00:00",
+   "summary": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns Drop Site News",
+   "body": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns Drop Site News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -377,22 +859,6 @@
    "lang": "en"
   },
   {
-   "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-12T16:16:54+00:00",
-   "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn pro",
-   "body": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn proposals. She said she was concerned by the idea that the cuts would apply to people already getting sickness and disability benefits, and she said it appeared to be a breach of a promise given last year that people already getting Pip (the personal independence payment) would not lose it. She said: I just don’t think that you get a disabled young person into work by taking away the money that helps them to get into work. The cuts seem to land on young disabled people, and many of them are in college already or already in work. So I don’t see how you fix the first by punishing the second. Milburn said he concluded fundamental change was needed. He said: The whole system needs to be changed, because the system is geared to keeping people inactive when, for young people in particular, it’s all about how can you make them active, get them earning, learning, so that they can rely on a wage rather than on a benefit. So, this is not about cutting one benefit, it’s about rebuilding the system from scratch. He said that he decided existing claimants should be covered by the changes, not just new changes. It’s a big rewriting of the welfare system. And obviously one of the conundrums was, ‘Should this apply to only new claimants?’ I came to the conclusion that wouldn’t be right, not least because you’ve got hundreds of thousands of young people stuck in a benefit system that is trapping them in poverty, giving them no prospect of prosperity or a job. Milburn admitted this meant the plans would not be “pain-free”. I’m not saying that any of this will be easy or that it will be pain-free because it won’t. You know, candidly, it could mean that some people will get less financial support at the beginning of their benefit claim than under the current system. He said he wanted the system to prioritise improving people’s life chances in the long term over easing their financial hardship in the short term. Actually for young people there’s a different debate that we’ve got to resolve, which is whether the priority is their longer-term life chances or just their immediate shorter-term finances. I think what the current system does, it prioritises the latter over the former. I believe that’s the wrong choice and it needs to be the other way around. He said, alongside the cuts to benefits he is proposing (see 11.56am ), he wanted to improve employment support for young people. We need to make sure people have the opportunities to get an apprenticeship, a job, a work placement, a pre-apprenticeship, a college place. The menu of opportunities has got to increase. They’ll have a personal adviser, they’ll be coached all the way through. The adviser will stick with them until they have found a job or an apprenticeship or college place. He also confirmed he wants to let young people do some work before they start losing benefits. They will get immediate access to support if that’s what they need, if that’s the thing that is holding them back from being in education or training. He admitted that offering better employment support and mental health support would mean his plans would initially cost money. According to the Times, he did not did not deny claims the whole package could cost £6bn. But, in the long run, there would be savings, he said. Obviously this costs money. And frankly it’s a better use of money, both from the point of view of the young person and the taxpayer, to spend that money getting them into work rather than spending that money keeping them on benefits. This is the sort of fatuous thing about this debate. You’ve got to invest upfront in order to get savings out of the back end. Cost-free is fatuous. So we’ve got to be candid about that. It will need significant investment. To get a return on investment will take time … the only way of cutting the benefits bill sustainably is by getting young people into work, paying their taxes and being less reliant on benefits. Unless you are prepared to put the investment upfront it will never be possible. He said he was “confident” that Andy Burnham was full-square behind the changes that are needed.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
-   "lang": "en"
-  },
-  {
    "title": "Hungary eases abortion rules",
    "link": "https://www.dw.com/en/hungary-eases-abortion-rules/a-79931614?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -403,6 +869,21 @@
    "is_war": false,
    "countries": [],
    "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Man Utd's Mauricio Pochettino pursuit and Michael Carrick decisions",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaUFNY0pfYVNpQVVfXzR0RGNaNHlZYVBJNzV6aFBteDVFTjQ3ZG05LTRfWjBqZW00cEtaUGVyYUhXUGFSSngxY2NVdGZDMTBzMlF4ZXVIMWJwTkgyQ3dEWE90MjlDZ0NT?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T16:12:39+00:00",
+   "summary": "Man Utd's Mauricio Pochettino pursuit and Michael Carrick decisions BBC Manchester United is nearing a deal to hire US men’s coach Mauricio Pochettino, source tells AP AP News Mauricio Pochettino new favourite to replace Michael Carrick at Manchester United - Paper Talk Sky Sport",
+   "body": "Man Utd's Mauricio Pochettino pursuit and Michael Carrick decisions BBC Manchester United is nearing a deal to hire US men’s coach Mauricio Pochettino, source tells AP AP News Mauricio Pochettino new favourite to replace Michael Carrick at Manchester United - Paper Talk Sky Sports Man Utd 4-4 Aston Villa: Bizarre and thrilling theatre as Carrick's future still in limbo BBC Man United hope to seal Mauricio Pochettino deal on Thursday - sources ESPN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -545,19 +1026,6 @@
    "lang": "en"
   },
   {
-   "title": "Florida St Patrick’s Day parade cancelled over Republican anti-DEI law, causing outrage",
-   "link": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
-   "source": "The Guardian",
-   "published": "2026-11-12T15:51:29+00:00",
-   "summary": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebration A Florida mayor is working to salvage his city’s St Patrick’s Day parade after it was canceled to comply with a new Republican law banning municipalities from hos",
-   "body": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebration A Florida mayor is working to salvage his city’s St Patrick’s Day parade after it was canceled to comply with a new Republican law banning municipalities from hosting events deemed to promote diversity, equity and inclusion (DEI). The state’s hard right governor Ron DeSantis signed the law in April that takes effect on 1 January, prompting the city of Delray Beach, near Fort Lauderdale, to announce it was scrapping next year’s popular Irish celebration that regularly attracts tens of thousands of visitors, and also its Pride event. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/434830d18838eec0b1c561c5605e013201a360ba/0_0_2190_1753/master/2190.jpg?width=140&quality=85&auto=format&fit=max&s=e1c0043d6d02cabbc778723b569897f7",
-   "lang": "en"
-  },
-  {
    "title": "‘We need to be exposed’: Gavin Lee's Lions welcome Brazil, Paraguay challenge",
    "link": "https://www.channelnewsasia.com/sport/singapore-lions-brazil-paraguay-football-matches-6545346",
    "source": "CNA World",
@@ -605,8 +1073,8 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
    "source": "Google News",
    "published": "2026-11-12T15:45:21+00:00",
-   "summary": "One person reported dead, multiple wounded in active shooting in Washington, DC Reuters One dead, at least 4 injured during active shooting near Logan Circle NBC4 Washington DC shooting leaves 1 person killed, 4 injured. Gunman dead NPR 4 shot near Logan Circle, active shooter in",
-   "body": "One person reported dead, multiple wounded in active shooting in Washington, DC Reuters One dead, at least 4 injured during active shooting near Logan Circle NBC4 Washington DC shooting leaves 1 person killed, 4 injured. Gunman dead NPR 4 shot near Logan Circle, active shooter investigation underway WUSA9 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself AP News",
+   "summary": "One person reported dead, multiple wounded in active shooting in Washington, DC Reuters One dead, at least 4 injured during active shooting near Logan Circle NBC4 Washington 1 dead, 4 injured in Washington, D.C. shooting; suspect contained: Police 6abc Philadelphia 5 people are s",
+   "body": "One person reported dead, multiple wounded in active shooting in Washington, DC Reuters One dead, at least 4 injured during active shooting near Logan Circle NBC4 Washington 1 dead, 4 injured in Washington, D.C. shooting; suspect contained: Police 6abc Philadelphia 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself AP News At least five people shot, one killed, in central Washington, DC Al Jazeera",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -661,6 +1129,21 @@
    "lang": "en"
   },
   {
+   "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcThNWG5RakRQNHBpaHhnSTNPLTkyZFotVy1jMkJhNDM4NVdmYVMtMm44U1RrbTBiRkk0RWhOdVNhdnd6em1BS201YXJvbmxZTVNBTlkteWRrR1BWSUZqTjdIcndWX1BpNWNsRzhjVHczeDl5RFZCTXYyYWdQVGYtT0tVYS13MThfMENIODF1QjVUODY2aEQ3QUNUdmVIZDRmY3cwaGx30gGrAUFVX3lxTE9Nb2Q2SjdCOUJnVmpoeGQ2S3NWakp3b0J6VmxzMGVDay1mOVJTSnRCSDNnQjBUX0V3eUZyakZwalQ5Mmp2QWpSTnFOT0FIMU9ZbDNPOWtaWGZwcGxPMkt4Mk9fLTJna2M4Rm9HVEdyY1pkYkhlX1c1RTJ3MmZXZnY4QmllWFN2TmVqQmVsOHVmS3RxeDIweDUxM3lOWlBTTTFiMVozVWtXblM1Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T15:38:00+00:00",
+   "summary": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ The Hill Trump reverts to an old theme, warns of immigrant caravans The Washington Post Trump threatens double tariffs on Mexico if it does not halt migrants The Detroit News Trump threatens to double tariffs on ",
+   "body": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ The Hill Trump reverts to an old theme, warns of immigrant caravans The Washington Post Trump threatens double tariffs on Mexico if it does not halt migrants The Detroit News Trump threatens to double tariffs on Mexico over illegal immigration Financial Times Trump threatens to double tariffs on Mexico if migrant caravans not stopped Fox News",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nvidia စီအီးအို ဂျန်ဆန်ဟွမ် နုတ်ထွက်၊ ရှယ်ယာဈေးတွေ ထိုးကျ",
    "link": "https://www.bbc.com/burmese/articles/ckr5g4n5rq01o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
@@ -692,23 +1175,6 @@
    "lang": "en"
   },
   {
-   "title": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy - KTVN",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOXM5SEhNdEpYbHk5UzJ5Y0pQMWVmU3p0N1pLUUVET2tBV2pCTHV6WnFfYWpvbnRiS3VfakphdEUxSWt3SEtKVjdlYjRNcVVhZzh4YV9sQW5uSDFWVWczVXBiMDNyVmtzRnlEdWo2TjczSTN1NTBmcUlTSVhBOHI1YTlzMDEycHVDbEVTTi1USWpBOHdrMkh4dXoxMVFhOHE5dlZHVDFOLWppY2ZMeGx4eVVUdXBLX3N2Nlh1OXprVWVRMU1Vb0FXYVhHQ1Y0a09qb2JFT29lOXBQaHNoNWdacWZzV3A3VHlqWEJRNTZB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-12T15:27:32+00:00",
-   "summary": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy KTVN",
-   "body": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy KTVN",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2VSWUphOTlfbGlEUW1pbk55c2FaU3FFN2lYNWx2RllwVlUzTm51TFBSQ1FpaHpBaGx6WDB1cEtxRlBtTC0xWVJrcmhBZ0NWc2o3VUZrdHNCUlBvQ2p1XzA4aWhqdV9KVS1rWjZUQl9zdWNrVWhOQ3N5Vi13c3RobU9sTHFKWG10WVZpX0pBcVQ5aXBO?oc=5",
    "source": "Google News · Ukraine",
@@ -721,6 +1187,23 @@
     "Ukraine",
     "Russia",
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T15:23:06+00:00",
+   "summary": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign The New York Times Trump pulls Vance from Iran talks to address alleged corruption The Detroit News Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran Axios Treasury Selloff Accelerat",
+   "body": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign The New York Times Trump pulls Vance from Iran talks to address alleged corruption The Detroit News Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran Axios Treasury Selloff Accelerates, European Bonds Follow Suit WSJ Trump tells Vance to shift his focus as US doesn’t ‘need a deal with Iran’ The Times of Israel",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel",
+    "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -742,6 +1225,23 @@
    "lang": "en"
   },
   {
+   "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T15:22:44+00:00",
+   "summary": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war Al Jazeera",
+   "body": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war Al Jazeera",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Manchester United sacked manager Michael Carrick",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
    "source": "Al Jazeera",
@@ -752,19 +1252,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794496859.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang resigns, Colette Kress named interim chief: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T15:20:00+00:00",
-   "summary": "Nvidia CEO Jensen Huang resigns, Colette Kress named interim chief: Live updates CNBC Jensen Huang Has Been Ousted as Nvidia CEO WSJ Jensen Huang’s Ouster From Nvidia Could Complicate Billions in Philanthropic Giving The New York Times NVIDIA Announces CEO Transition NVIDIA Newsr",
-   "body": "Nvidia CEO Jensen Huang resigns, Colette Kress named interim chief: Live updates CNBC Jensen Huang Has Been Ousted as Nvidia CEO WSJ Jensen Huang’s Ouster From Nvidia Could Complicate Billions in Philanthropic Giving The New York Times NVIDIA Announces CEO Transition NVIDIA Newsroom Allegations Of Second Jensen Huang Affair Ramp Up Divorce Speculation—Billionaire’s Wife Could Get Half His $140 BillIon Fortune Forbes",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -780,6 +1267,21 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZHZGWnNNZUdtLXNjT2FXZEFQcXNiWkxsdzN1bHhXLXNBcFg5MlI1dzBuaXhYanp1N3JtSkNKMUY0VS1QRjNTcm9ES3pqNGhjNDIxNG9DSUJLajA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T15:18:20+00:00",
+   "summary": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns BBC Ebola tops 11,000 cases in Congo's deadliest outbreak NPR Congo Ebola outbreak still out of control after six months, MSF says Reuters Ebola cases in DR Congo pass 11,000, with 5,387 deaths Al Ja",
+   "body": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns BBC Ebola tops 11,000 cases in Congo's deadliest outbreak NPR Congo Ebola outbreak still out of control after six months, MSF says Reuters Ebola cases in DR Congo pass 11,000, with 5,387 deaths Al Jazeera Monongahela’s Chess Park renamed to honor veterans Mon Valley Independent",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -860,16 +1362,19 @@
    "lang": "en"
   },
   {
-   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-12T15:10:32+00:00",
-   "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-   "body": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T15:11:00+00:00",
+   "summary": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine AP News",
+   "body": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine AP News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -885,21 +1390,6 @@
     "Israel",
     "Palestine",
     "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Aevex Stock Is About More Than Ukraine. The Drone Maker Is at the ‘Center of Modern Warfare.’ - Barron's",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUk9DQ3pZeEYyV213QWZlclYtLXB2YlBFSVJEYzdRMXZxYVh3ZmhYQmJUVFRuOE0yMXhMZVlDbGZnaUFJSTFrMENueUUxSXRXa1NOMHVwMTZFRDUycUVFbDlMbzJJSUc4aVRncU1oUU13b1lNbXpn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-12T15:09:00+00:00",
-   "summary": "Aevex Stock Is About More Than Ukraine. The Drone Maker Is at the ‘Center of Modern Warfare.’ Barron's",
-   "body": "Aevex Stock Is About More Than Ukraine. The Drone Maker Is at the ‘Center of Modern Warfare.’ Barron's",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -924,11 +1414,28 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVFaR1Z5MnhyTlR1dnZoRFhLNnVHTXBaZlhQNi04MUpTSDVjNG04ZExUNVhmR1VfazJEVjRtcWtLQU9sbnJKYXFOTzB6aEJVbURUdURxOXRpUXd4clJZX1ZISXJ6QklybUlhelpsWFZHeklON1ZHdXZRbDZzVmZRa25rZ010THc?oc=5",
    "source": "Google News",
    "published": "2026-11-12T15:04:01+00:00",
-   "summary": "What to Know About New Prostate Cancer Screening Recommendations The New York Times New screening guidelines issued for prostate cancer, including regular testing for older men 10TV A ‘clear recommendation’ for men: Get screened for prostate cancer CNN Cancer society issues most ",
-   "body": "What to Know About New Prostate Cancer Screening Recommendations The New York Times New screening guidelines issued for prostate cancer, including regular testing for older men 10TV A ‘clear recommendation’ for men: Get screened for prostate cancer CNN Cancer society issues most specific prostate cancer screening guidelines yet ABC News - Breaking News, Latest News and Videos New prostate cancer screening guidelines include regular testing for most older men NBC News",
+   "summary": "What to Know About New Prostate Cancer Screening Recommendations The New York Times Amid New Prostate Cancer Screening Guidelines, Doctor Reveals Top 4 symptoms He Looks For TODAY.com A ‘clear recommendation’ for men: Get screened for prostate cancer CNN What new prostate cancer ",
+   "body": "What to Know About New Prostate Cancer Screening Recommendations The New York Times Amid New Prostate Cancer Screening Guidelines, Doctor Reveals Top 4 symptoms He Looks For TODAY.com A ‘clear recommendation’ for men: Get screened for prostate cancer CNN What new prostate cancer recommendations say about who should get blood tests The Washington Post New prostate cancer screening guidelines include regular testing for most older men NBC News",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US existing home sales slump to more than 16-year low in October - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1dTNHdOd2NXZnJoSVBJLTdCNk9PZlktMURfU1MwYWRvZl9kSjlZMkhDVjNUQzdpdFJyWHZHdnBnWWxxRnUybEJ5RmlzbzdESUptclZWWHFOaGVmZllLU2pHZGRfT25xbWVpVDJLRE9FR3VqaGVoM3hrSGIxbUlwd05HbEMxeDIxekZiM3RXbGNzdU5m?oc=5",
+   "source": "Google News",
+   "published": "2026-11-12T15:02:46+00:00",
+   "summary": "US existing home sales slump to more than 16-year low in October Yahoo Finance Home Sales in October Plummet to 16-Year Low WSJ 'A tough market': Home sales fall to lowest level since 2010 as high mortgage rates paralyze activity Yahoo Finance Sales of Existing US Homes Tumble to",
+   "body": "US existing home sales slump to more than 16-year low in October Yahoo Finance Home Sales in October Plummet to 16-Year Low WSJ 'A tough market': Home sales fall to lowest level since 2010 as high mortgage rates paralyze activity Yahoo Finance Sales of Existing US Homes Tumble to Lowest Level Since 2010 Bloomberg.com Home listings pile up in October, but sellers won't slash prices CNBC",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -983,14 +1490,29 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVV3X1BzOWx3UU9VR014QVVGbW5JY0g5amxBWTZ3M1pOM25yT0RONVl4ZlJObzhFT0UwSk9MRzkwMkhVVFl1dm1LZURjaXZCcGxHSEJnWFFUd0J6WXBjX21oNUlEcEQwYWRQWmI3eDE5aUw5VjE5aU0tT1FSZTg5NWVKNUxBWVNGSmh4UWx4Szk3V19SWDQxX296em4?oc=5",
    "source": "Google News",
    "published": "2026-11-12T14:57:08+00:00",
-   "summary": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin NBC News Zelensky says Musk-owned satellite system throttled again Axios US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live The G",
-   "body": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin NBC News Zelensky says Musk-owned satellite system throttled again Axios US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live The Guardian Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow BBC Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin CNBC",
+   "summary": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin NBC News New talks with Russia, Ukraine and European countries agreed, US says - Europe live The Guardian Ukraine says Musk's Starshield defense limited again, enabling Russian st",
+   "body": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin NBC News New talks with Russia, Ukraine and European countries agreed, US says - Europe live The Guardian Ukraine says Musk's Starshield defense limited again, enabling Russian strikes as U.S. envoys push for a deal CBS News Zelensky says Musk-owned satellite system throttled again Axios Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow BBC",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
     "Ukraine",
     "Russia",
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-12T14:56:15+00:00",
+   "summary": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine BBC",
+   "body": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine BBC",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1015,8 +1537,8 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1pzQ0xHSkEtOE1rc19BaTVmR3RUSkJuWXBwV1p2bkxxbXA2czRCMHpYampxaHdGZlRrZmNKZTVZdjBMUHIyQWhaRklFbnpnNlpjV1dBaHU0TmZnWG13al8zLWUxN0RZMGlPaFVfci1zSjhsYzdzUTZndTBTdUNWRlFqa3VLcTJtM3dsSV9GeVY4T0NzQ25nZTV5OUNVNm1kbVVhX1BUZVB5RnZHXzFOcHh2UE1EaVNHSHNIRQ?oc=5",
    "source": "Google News",
    "published": "2026-11-12T14:50:17+00:00",
-   "summary": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 Ars Technica Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it CNN Google and Samsung to Release AI Smart Glasses in December Bloomberg.com See our intelligent eyew",
-   "body": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 Ars Technica Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it CNN Google and Samsung to Release AI Smart Glasses in December Bloomberg.com See our intelligent eyewear lineup and pre-order your pair blog.google Google and Samsung’s Android XR Smart Glasses Are Finally Here WIRED",
+   "summary": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 Ars Technica Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it CNN Google and Samsung to Release AI Smart Glasses in December Bloomberg.com Google and Samsung’s And",
+   "body": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 Ars Technica Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it CNN Google and Samsung to Release AI Smart Glasses in December Bloomberg.com Google and Samsung’s Android XR Smart Glasses Are Finally Here WIRED Warby Parker bets on Google AI glasses for growth, but privacy fears still loom Reuters",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1067,21 +1589,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316465276155-1794494928.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "'Reunification will be achieved': Xi issues fresh warning over Taiwan - Rediff",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmVtelFTQWRIbFY3MGRHd2lUYW9LZWZLWkJVNGNFSG9sNnJGZ0h3QVd5U0FhUC1mMm16ZGRSXzhRa3NmNHhLT3MxMk1SV2lXdE9rZGpRWXFUcEJNamh5bW9PX2p4SndYUVV0MWNNa002X3lpQ2lwVWFMX3lwMnJ2QWFIMmY1VVd6Tm9UZTRmSU5wb0d3SUJSZEI0aXZoQ0t2Q2ZidGJuWWZDY1J2a3laMmQyLWfSAbcBQVVfeXFMUEtiNExqVlBKNE0yV2pLS0xKMVl3aG45aVlyRG5OWlhEZmhrc29wbTBZTmRueGZKYXZNM2YydWNFNXVNOXREMWhROEEtUldBTE1Tb0tYWHpKNlpWc3hrc2pYSnhpNEV5d1pJQzY2MFk2eko1bFZqUGk2T3czNWdnQXYxLVl6di05bG5UenlQbzFFck80bURhbzV5YmlEeVNBVXd1NG9kM09rVDZkbmljMjR5WFdxY3NZ?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-12T14:44:51+00:00",
-   "summary": "'Reunification will be achieved': Xi issues fresh warning over Taiwan Rediff",
-   "body": "'Reunification will be achieved': Xi issues fresh warning over Taiwan Rediff",
-   "category": "Asia-Pacific",
-   "is_war": true,
-   "countries": [
-    "Taiwan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1160,22 +1667,6 @@
    "lang": "en"
   },
   {
-   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-12T14:37:00+00:00",
-   "summary": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine AP News",
-   "body": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine AP News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War",
    "link": "https://www.france24.com/en/tv-shows/spotlight/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
    "source": "France 24",
@@ -1186,21 +1677,6 @@
    "is_war": true,
    "countries": [],
    "image": "https://s.france24.com/media/display/e0f479bc-dea4-11f1-ada1-5f54d898a954/w:1024/p:16x9/capture-5c7c0175.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Farage was guest on Brand podcast after sexual assault investigation began",
-   "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-   "source": "The Guardian",
-   "published": "2026-11-12T14:30:17+00:00",
-   "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian UK politics live – latest updates Nigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual as",
-   "body": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian UK politics live – latest updates Nigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual assault, the Guardian has learned. The Reform UK leader has criticised Labour for “cosying up to” and “promoting” Brand a decade ago, after the comedian was sentenced this week to more than 10 years in prison for rape and sexual assault. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/40558422c7bc4a345d47ed741577d0799be3ec8d/493_319_3988_3191/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=7c03989a49339809d21dd7b6e7bcbd1e",
    "lang": "en"
   },
   {
@@ -1232,22 +1708,6 @@
     "Iran"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260820__C66784N__v1__HighRes__IraqIranPoliticsDiplomacyReligionIslamShia-1787255506-1794488319.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-12T14:27:30+00:00",
-   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-   "body": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
    "lang": "en"
   },
   {
@@ -1328,23 +1788,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks - Time Magazine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkxWdzRaWWZjX1dBSm1fRzl3dXNsbFExTHRra1haVS1OWUl2T0JrMUhQbGJiNHpSMUlXd0JKanV1cjgxclBWSXRYRm1lTTVjMWdnZ3VtRVpzNUJmNW9uZ1dpN2RYS3BaamEwYVowcTB4MjQwcUJodFVudWttRjFmZ0p2Um5abjI4dTk4THV0T3h3U1RXSXFjSU1NWC1wbE9l?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-12T14:22:12+00:00",
-   "summary": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks Time Magazine",
-   "body": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks Time Magazine",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "France: Five men on trial for murder of anti-drug activist Amine Kessaci's brother",
    "link": "https://www.france24.com/en/video/20261112-france-five-men-on-trial-for-murder-of-anti-drug-activist-amine-kessaci-s-brother",
    "source": "France 24",
@@ -1421,7 +1864,7 @@
    "lang": "en"
   },
   {
-   "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+   "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-12T14:12:55+00:00",
@@ -1437,18 +1880,17 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine peace talks: Jared Kushner and Steve Witkoff conclude talks with Putin - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZNQXFjXzc5bXVzVzdFRG1LMHlRSW1ncmhpSGFSRExjZTlqZENUOXNILUxOM1lLV1RKYUFoRklTU09BamRoNno1YThCbUU3ejJOTmpKcEFTalBjWjJQM1lfN1ZvNjVNTVktNE9jTTU2N0V5a3hVZ2pKOTZ6OS1fdDZnM3Ywb05zTnF4ZzZ6UDA3dlhLV2JJ?oc=5",
+   "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43akR4UEZSc2l5WmVBVE45VmVIbG1ESWJwUk8zb19HOUk5Sy1uaUtnZVZaQ2U3SEM2R0EwOGZxSHVHTVRLTnprWEJKRGhVc0dGOUoxd1U3UG9jZmM?oc=5",
    "source": "Google News",
-   "published": "2026-11-12T14:12:33+00:00",
-   "summary": "Ukraine peace talks: Jared Kushner and Steve Witkoff conclude talks with Putin DW.com U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi NPR Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters Witkoff and Kushner ",
-   "body": "Ukraine peace talks: Jared Kushner and Steve Witkoff conclude talks with Putin DW.com U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi NPR Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks ABC News - Breaking News, Latest News and Videos US envoys Witkoff and Kushner meet Putin in Moscow Politico",
-   "category": "Ukraine / Russia",
+   "published": "2026-11-12T14:12:55+00:00",
+   "summary": "Before Scott Colom, these two men were the last black US senators in Mississippi BBC Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ Scott Colom Is Mississippi’s First Black Senator in 150 Years The Atlantic The Man at the Center of Scott Colom’s Protein Ad The N",
+   "body": "Before Scott Colom, these two men were the last black US senators in Mississippi BBC Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ Scott Colom Is Mississippi’s First Black Senator in 150 Years The Atlantic The Man at the Center of Scott Colom’s Protein Ad The New York Times How Scott Colom won deep-red Mississippi with little help from Democrats The Guardian",
+   "category": "Europe / NATO",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
+    "United States",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1469,249 +1911,16 @@
    "lang": "en"
   },
   {
-   "title": "🔴 Nvidia CEO Jensen Huang to step down after affair",
-   "link": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
-   "source": "France 24",
-   "published": "2026-11-12T14:07:56+00:00",
-   "summary": "",
-   "body": "",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-   "source": "The Guardian",
-   "published": "2026-11-12T14:07:42+00:00",
-   "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intell",
-   "body": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services. Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK. Continue reading...",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://i.guim.co.uk/img/media/3de1032b43ea112cddfd255faa0e038c469f9729/537_0_3947_3160/master/3947.jpg?width=140&quality=85&auto=format&fit=max&s=c99f7bf49b1c360d215904daa6c93878",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
-   "link": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
-   "source": "France 24",
-   "published": "2026-11-12T14:06:37+00:00",
-   "summary": "Nvidia announced on Thursday that CEO Jensen Huang was stepping down following revelations that he had an affair with a woman accused of spying for China. The company's chief financial officer Colette Kress will serve as interim CEO while the board searches for Huang's successor.",
-   "body": "Nvidia announced on Thursday that CEO Jensen Huang was stepping down following revelations that he had an affair with a woman accused of spying for China. The company's chief financial officer Colette Kress will serve as interim CEO while the board searches for Huang's successor.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://s.france24.com/media/display/f7e5a9ba-dea0-11f1-b255-29048b396e03/w:1024/p:16x9/2026-11-12T115845Z-1141769569-RC2I6KAPBYZ3-RTRMADP-3-NVIDIA-CEO.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "What’s behind Australia’s surge in teen extremism?",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-12T14:00:45+00:00",
-   "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week ",
-   "body": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
-   "lang": "en"
-  },
-  {
-   "title": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-12T14:00:44+00:00",
-   "summary": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign",
-   "body": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to discredit the building commissioner. Convincing the Liberal party to unseat councillors in the Hills district who were blocking a developer. The New South Wales corruption watchdog’s recent inquiry, Rosny, revealed the ease with which the key protagonists – a group of rightwing Liberal operatives known as the Reformers, all of whom were former staffers – could move along the corridors of NSW parliament. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=140&quality=85&auto=format&fit=max&s=7b7dafb167d3a2278aefabf59d31e573",
-   "lang": "en"
-  },
-  {
-   "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party",
-   "source": "The Guardian",
-   "published": "2026-11-12T14:00:42+00:00",
-   "summary": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources Get our daily political email , free app or daily news podcast “Breaking,” a reel from the Instagram account nswnewsroom reads. “Anot",
-   "body": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources Get our daily political email , free app or daily news podcast “Breaking,” a reel from the Instagram account nswnewsroom reads. “Another Liberal MP quits, almost a third now gone.” The post looks like it could have been made by a media outlet. It cites the source as the Daily Telegraph and Jordan Lane, a New South Wales MP, who is the sixth sitting Liberal member to announce they won’t re-contest their seat at the March 2027 election . Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ce452a6a1cca19fc2f3d127d3f9a6b0d9cc0b712/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d5b617804005c142e701a205d408ebae",
-   "lang": "en"
-  },
-  {
-   "title": "PUB trials remote-controlled pump vehicle, road sensors to tackle flooding",
-   "link": "https://www.channelnewsasia.com/singapore/pump-vehicle-road-sensors-pub-trials-6544941",
-   "source": "CNA World",
-   "published": "2026-11-12T14:00:27+08:00",
-   "summary": "The pump vehicle can be remotely manoeuvred into flooded areas, navigating uneven terrain and staircases.",
-   "body": "The pump vehicle can be remotely manoeuvred into flooded areas, navigating uneven terrain and staircases.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--qKyTKsu5--/c_crop,h_1125,w_2000,x_0,y_135/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/12/dsc_3983.jpg?itok=hbvOrlQu",
-   "lang": "en"
-  },
-  {
-   "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
+   "title": "I reviewed the Apple HomeView, ask me anything - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLTBtbnJjY0NFNWNvMERyQTBPb1hCTTQ4OThLV0k3TnBETFVDTzFjVTRWQnA1MTZnb0xpUUxocXpaMTdyU1ViempSVHNZOC1DbTdYdXF4OTlhM0dPN2ZFWU5ZWWRYUzdCWGN4SUN3RGZGTGN6el9hX2NXQlhleFREZkxhZ3NyWndoMlFR?oc=5",
    "source": "Google News",
-   "published": "2026-11-12T14:00:00+00:00",
-   "summary": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub Engadget I made Apple’s HomeView display the center of my home for a week. Is it worth $299? CNN Apple’s HomeView is my new favorite smart display — but not my daughter’s The Verge Apple’s HomeView Tries F",
-   "body": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub Engadget I made Apple’s HomeView display the center of my home for a week. Is it worth $299? CNN Apple’s HomeView is my new favorite smart display — but not my daughter’s The Verge Apple’s HomeView Tries Face Authentication Without FaceID WIRED Apple’s HomeView Makes Up for Late Arrival with Ecosystem Perks: Review Bloomberg.com",
+   "published": "2026-11-12T14:10:00+00:00",
+   "summary": "I reviewed the Apple HomeView, ask me anything The Verge I made Apple’s HomeView display the center of my home for a week. Is it worth $299? CNN Apple’s HomeView is my new favorite smart display — but not my daughter’s The Verge Apple’s HomeView Tries Face Authentication Without ",
+   "body": "I reviewed the Apple HomeView, ask me anything The Verge I made Apple’s HomeView display the center of my home for a week. Is it worth $299? CNN Apple’s HomeView is my new favorite smart display — but not my daughter’s The Verge Apple’s HomeView Tries Face Authentication Without FaceID WIRED HomeView review: A late arrival, still showing some seams Six Colors",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Can the fight against climate change be good for business?",
-   "link": "https://www.france24.com/en/tv-shows/people-profit/20261112-can-the-fight-against-climate-change-be-good-for-business",
-   "source": "France 24",
-   "published": "2026-11-12T13:59:03+00:00",
-   "summary": "Industries across the globe are seeking to reduce their carbon footprint and become more sustainable. To do so, many are turning to employees with specific credentials. According to LinkedIn's Global Green Skills Report 2026, workers with green skills are being hired at more than",
-   "body": "Industries across the globe are seeking to reduce their carbon footprint and become more sustainable. To do so, many are turning to employees with specific credentials. According to LinkedIn's Global Green Skills Report 2026, workers with green skills are being hired at more than 1.5 times the rate of the wider workforce.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/9ba23e7c-de80-11f1-a496-5f54d898a954/w:1024/p:16x9/PnP-SUE-DUKE-GREEN-ECONOMY.png",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss",
-   "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T13:55:07+00:00",
-   "summary": "Tech giant's market value drops below $4 trillion after Huang steps down following espionage and affair allegations.",
-   "body": "Tech giant's market value drops below $4 trillion after Huang steps down following espionage and affair allegations.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5c64b-1794491979.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "US jobless claims tick up to 200,000 but remain low by historic standards - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzVlRWt2dWFoa2V6ZFg1YXcxY0lzTGd0WDZJWkNsVHdQVzIwR04zajRiZnZaVW05M1Z6dVBDTVZEZEpxVjZaREx0UGtmSkhDblh1a3RyejZQNmpYU2I3R19rcmRuWmhrQVNGYllZa3p3S1VXMF9WZGc0dmhEVE9haDdlR0VYeGQzQnctc1A0SHFwczBDdk000gGcAUFVX3lxTFBWbnJjTXJuNG1GQWI2OS1vNExxRE5uS1JHTXQ5RE9tX0dpNjZUay1IenUwUmtxWUxiRFB4OF9mRGRxRWdaenVYelBKYUdnZWJuemRPRDZ6bDM0UlIxOHJXb1djczFZLW9vcWlzVS1IempfVHFYNWFLV1FaNzdJV2FIaWtrQ1lKVTV1MWdoNU01WE1xRlNBNUFhaUhuag?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T13:54:13+00:00",
-   "summary": "US jobless claims tick up to 200,000 but remain low by historic standards ABC News - Breaking News, Latest News and Videos Gold price tests $3,900/oz after U.S. weekly jobless claims rise to 200k Kitco US weekly initial jobless claims 200K vs 195K expected investingLive U.S. Jobl",
-   "body": "US jobless claims tick up to 200,000 but remain low by historic standards ABC News - Breaking News, Latest News and Videos Gold price tests $3,900/oz after U.S. weekly jobless claims rise to 200k Kitco US weekly initial jobless claims 200K vs 195K expected investingLive U.S. Jobless Claims Rise More Than Expected in the Week WSJ Do low jobless claims tell an accurate story anymore? Marketplace.org",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Travellers can now use DBS PayLah! at over 100 million merchants across China",
-   "link": "https://www.channelnewsasia.com/singapore/dbs-paylah-china-100-million-merchants-payment-6545051",
-   "source": "CNA World",
-   "published": "2026-11-12T13:48:18+08:00",
-   "summary": "Users can pay by scanning a merchant's QR code or presenting their own for merchants to scan, without additional transaction fees.",
-   "body": "Users can pay by scanning a merchant's QR code or presenting their own for merchants to scan, without additional transaction fees.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--waMc5qto--/c_crop,h_253,w_450,x_0,y_256/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/12/dbs_paylah_user_making_qr_payment_at_a_street_stall_image_4.jpg?itok=lOdcDpCN",
-   "lang": "en"
-  },
-  {
-   "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
-   "link": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
-   "source": "The Guardian",
-   "published": "2026-11-12T13:46:34+00:00",
-   "summary": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds Business live – latest updates Poundland’s owner has said it is “taking due care” to consider if one of three bidders had enough funds to ensure its survival after the tro",
-   "body": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds Business live – latest updates Poundland’s owner has said it is “taking due care” to consider if one of three bidders had enough funds to ensure its survival after the troubled budget retail chain secured two more weeks to find a deal. The management of Poundland , which employs approximately 12,000 people and operates 600 stores in the UK and Ireland, won approval from the high court for an extension of legal protection from creditors on Thursday morning. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/5912a89d0665235ae256c69b013fe2d6cb9ed7a3/236_0_6252_5000/master/6252.jpg?width=140&quality=85&auto=format&fit=max&s=ca99accbb398e0c2d65b2f00c0bc9b97",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore Art Week 2027 will take place in January with over 100 events and spotlight on Southeast Asian artists",
-   "link": "https://www.channelnewsasia.com/living/singapore-art-week-2027-southeast-asian-art-exhibitions-highlights-6544976",
-   "source": "CNA World",
-   "published": "2026-11-12T13:44:49+08:00",
-   "summary": "Running from Jan 21 to 31, 2027, the 15th edition of Singapore Art Week will feature various artworks, from a giant melting sun and immersive exhibitions to art displays in a former air raid shelter, MRT stations and hotel suites.",
-   "body": "Running from Jan 21 to 31, 2027, the 15th edition of Singapore Art Week will feature various artworks, from a giant melting sun and immersive exhibitions to art displays in a former air raid shelter, MRT stations and hotel suites.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--S_7ikhi4--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/12/image_courtesy_of_post_museum.jpg?itok=pLFpASDX",
-   "lang": "en"
-  },
-  {
-   "title": "Midterms: Democrat Colom claims historic win in Mississippi",
-   "link": "https://www.france24.com/en/video/20261112-midterms-democrat-colom-claims-historic-win-in-mississippi",
-   "source": "France 24",
-   "published": "2026-11-12T13:37:11+00:00",
-   "summary": "Scott Colom has become the first Black person to win a Senate race in Mississippi since 1874 and the first Democrat to do so since 1982 after being declared the victor in a razor-edge election on Wednesday. The win is a stunning upset in one of the country’s most reliably red sta",
-   "body": "Scott Colom has become the first Black person to win a Senate race in Mississippi since 1874 and the first Democrat to do so since 1982 after being declared the victor in a razor-edge election on Wednesday. The win is a stunning upset in one of the country’s most reliably red states, adding to what were already sweeping gains by the Democrats at the midterms.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/3ade5db6-de9c-11f1-a25d-29048b396e03/w:1024/p:16x9/Colom-midterms-vignette.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T13:36:58+00:00",
-   "summary": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli strike on Gaza hospital kills at least six, including doctor and child, Palestinian official",
-   "body": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli strike on Gaza hospital kills at least six, including doctor and child, Palestinian officials say CNN Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Israel hits Gaza with deadly hospital strike, says senior Hamas figure inside DW.com",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "War photographer Patrick Chauvel: 'People have lost faith in the press'",
-   "link": "https://www.france24.com/en/tv-shows/perspective/20261112-war-photographer-patrick-chauvel-people-have-lost-faith-in-the-press",
-   "source": "France 24",
-   "published": "2026-11-12T13:33:46+00:00",
-   "summary": "One of France's top war photographers, who has a 50-year CV of taking pictures in and around conflicts across the planet, has spoken to FRANCE 24 about his concerns that people have lost faith in the press. He notes that journalists are only looking for the truth. Patrick Chauvel",
-   "body": "One of France's top war photographers, who has a 50-year CV of taking pictures in and around conflicts across the planet, has spoken to FRANCE 24 about his concerns that people have lost faith in the press. He notes that journalists are only looking for the truth. Patrick Chauvel has produced nearly 380,000 photographs, from Vietnam to Cambodia, from Afghanistan to Palestine, from Lebanon to Ukraine. He says he wants to take people by the hand to show them how the press works and why.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Palestine",
-    "Lebanon"
-   ],
-   "image": "https://s.france24.com/media/display/100c1ede-de9c-11f1-82c5-695cb59fade5/w:1024/p:16x9/capture-0fb797a8.jpg",
    "lang": "en"
   },
   {
@@ -1728,76 +1937,6 @@
    "lang": "my"
   },
   {
-   "title": "Family of killed teen Javits Frimpong calls for justice",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T13:27:32+00:00",
-   "summary": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
-   "body": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-JAVITS-MOTHER-1794490028.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-   "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-12T13:26:00+00:00",
-   "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-   "body": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Taiwan"
-   ],
-   "image": "https://static.dw.com/image/77996961_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Pizza Hut Singapore introduces Christmas menu with star-shaped pizzas and sharing bundles",
-   "link": "https://www.channelnewsasia.com/dining/pizza-hut-singapore-christmas-2026-star-pizza-cheese-dip-6544491",
-   "source": "CNA World",
-   "published": "2026-11-12T13:22:13+08:00",
-   "summary": "The limited-time Christmas menu runs from Nov 12 to Jan 3, featuring chicken chorizo, Hawaiian and beef pepperoni star-shaped pizzas, along with new sliders and sharing bundles.",
-   "body": "The limited-time Christmas menu runs from Nov 12 to Jan 3, featuring chicken chorizo, Hawaiian and beef pepperoni star-shaped pizzas, along with new sliders and sharing bundles.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--xwfH0ENT--/c_crop,h_900,w_1600,x_0,y_190/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/12/pizza_hut_christmas_special_2_0.jpg?itok=pl-cnT0q",
-   "lang": "en"
-  },
-  {
-   "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
-   "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T13:20:20+00:00",
-   "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
-   "body": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af5b2778a7eb-1794486903.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-   "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-   "source": "The Guardian",
-   "published": "2026-11-12T13:14:38+00:00",
-   "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Ca",
-   "body": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=e825c93b0c4e49e69e380953e02995c6",
-   "lang": "en"
-  },
-  {
    "title": "နိုင်ငံခြားငွေလည်ပတ်မှု ချောမွေ့စေရန် ပို့ကုန်ရငွေထားခွင့် ဗဟိုဘဏ် အနည်းငယ်လျှော့ပေး",
    "link": "https://burma.irrawaddy.com/news/2026/11/12/417600.html",
    "source": "Irrawaddy Burmese",
@@ -1809,81 +1948,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2024/03/rice3mar24feat.jpeg",
    "lang": "my"
-  },
-  {
-   "title": "Peltola holds lead after latest Alaska Senate vote drop",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmttTGMxN3FxMS1NaXR6OEY3eDFrOEY2YnozWWs4NzMxRDBwU2JoeTJrMi14dXI0OFFQbzZuVXVaUzNQLW9ZMUdRTFRXUm55aGtRWElmWC1tc2hzV3ZkSUtiNHdxd1FzM1BDY0xQcTFsNGxuREpMRi1LZjd1WTdRYTFraERJdWpmemxTbzdzSmkyZzJHMUl0TFk3Q1BWRFnSAaQBQVVfeXFMUFJKQ1JpZTk4bEk2Tm5wUWlqTTliYm43SUZ3S0JlRGxlTzRKMWt1Zm5ZbERGcG5DcVV2b0dMRnNDZGdYOUdKNXh5TGhTRlF5b2p4T1Zjb2t2eFNIQXo2SDJkNElTQU5adENjMkZ4emxpMUcwYTlxaTBTanJFZk1IcmF6cVFfeGJoLTdBaVZJcnZFUzFfY3hzYnpYMXc0ZTBOM3pXazY?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T13:11:00+00:00",
-   "summary": "Peltola holds lead after latest Alaska Senate vote drop The Hill Alaska’s U.S. Senate, governor’s races tighten with new ballot count Alaska Public Media Alaska Senate race tipping toward Peltola ICT News Trump Claims Uncalled Alaska Senate Race Is ‘Rigged’ as Mary Peltola Leads ",
-   "body": "Peltola holds lead after latest Alaska Senate vote drop The Hill Alaska’s U.S. Senate, governor’s races tighten with new ballot count Alaska Public Media Alaska Senate race tipping toward Peltola ICT News Trump Claims Uncalled Alaska Senate Race Is ‘Rigged’ as Mary Peltola Leads Dan Sullivan Forbes With 25,000 more votes counted, Peltola, JKT and Begich near victory in Alaska election Alaska Beacon",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-   "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-   "source": "The Guardian",
-   "published": "2026-11-12T13:08:12+00:00",
-   "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t",
-   "body": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle. Four months into the job, the economy is continuing to defy expectations after growing by 0.7% in the third quarter – the fastest expansion in two and a half years. It puts the UK on course to be the second-fastest growing G7 economy this year. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=140&quality=85&auto=format&fit=max&s=7f6da137da3ee2aac8277aa8d883eebd",
-   "lang": "en"
-  },
-  {
-   "title": "China's Xi renews calls for 'reunification' with Taiwan - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XWk5JckJKM3JEOGxEcUk3TDRjVGNuZDl0NGE2aTh1Q0xRYmpoLUdTaUV5eVJXSmM4TTJ4NVhqRXpaM2tVM04wTG01QzZTTzk4VWpXV1YxR2xxS3RHd0RzdWs0UEltN3lHZmZGRWt5bkFOalFHcmk4VG1R0gF6QVVfeXFMUG5aLWhMZ0RKN0VpU1ZlSHl6bF8tWS1WR1ZTMFR3ZWlqN3lQR1FRWXcyeXhSZ3JQbk40Y0ZyX0F0SllLMTdna29VS1N5eGFDQ2haREtRTmY1c3EyZDVnZ2g4LVM4bmgzS1pRUXJTYm9kR3NBTFZxaVJ6T2c?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-12T13:05:44+00:00",
-   "summary": "China's Xi renews calls for 'reunification' with Taiwan DW.com",
-   "body": "China's Xi renews calls for 'reunification' with Taiwan DW.com",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Taiwan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Post 2026 NFL Trade Deadline Mock Draft: Jeremiah Smith, Drew Mestemaker near the top - NBC Sports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ycnYydUR5azg2dERRcHlsYWlBUTFLUG1GLUlBRW82QVVFS3ZCVXNlNU5waTktcGdicV9XVXZwRFJyT08zYThZSEhGX3BBNk9ubC1fVWMtc214cXFlSWN5RWxrZlVfSmQwZDRocGp4OUt3MWlZemZ1ajVyUlBDaFU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-12T13:03:32+00:00",
-   "summary": "Post 2026 NFL Trade Deadline Mock Draft: Jeremiah Smith, Drew Mestemaker near the top NBC Sports Renner's post-deadline 2027 NFL mock draft: How the trade deadline affected the first three rounds CBS Sports B/R NFL Scouting Dept's 2027 NFL Updated Mock Draft After 2026 Trade Dead",
-   "body": "Post 2026 NFL Trade Deadline Mock Draft: Jeremiah Smith, Drew Mestemaker near the top NBC Sports Renner's post-deadline 2027 NFL mock draft: How the trade deadline affected the first three rounds CBS Sports B/R NFL Scouting Dept's 2027 NFL Updated Mock Draft After 2026 Trade Deadline Bleacher Report 2027 NFL Mock Draft: Chargers land Jeremiah Smith, Dolphins find their quarterback in Drew Mestermaker PFF NY Jets post-trade deadline mock draft: Trading up Jets X-Factor",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-12T13:02:46+00:00",
-   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "body": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
-   "lang": "en"
   },
   {
    "title": "နောင်အနှစ် ၂၀ ထိ လျှပ်စစ်မီး ပုံမှန်ရဖို့ မသေချာဘူးလို့ စစ်အစိုးရပြော",
@@ -2132,35 +2196,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/AFP__20260508__B28P9KT__v1__MidRes__PhilippinesAseanDiplomacy-1024x684.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "မြန်မာပြည်သူတွေရဲ့ အသံကို ကမ္ဘာသိအောင်ပြောတဲ့ ဂျာမနီသံရုံးအကြီးအကဲ",
-   "link": "https://burma.irrawaddy.com/video/2026/11/11/417567.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-11T11:08:30+00:00",
-   "summary": "ကုလသမဂ္ဂက တရားဝင် နိုင်ငံတော်သမ္မတအဖြစ် အသိအမှတ်ပြုထားဆဲဖြစ်တဲ့ ဦးဝင်းမြင့်ရဲ့ အသက် ၇၅ နှစ်ပြည့် မွေးနေ့မှာ ဦးဝင်းမြင့်အနေနဲ့ အမှန်တကယ် လွတ်မြောက်ခြင်း မရှိသေးဘူးဆိုတဲ့ ဂျာမနီသံရုံး ယာယီတာဝန်ခံရဲ့ ထုတ်ဖော်ပြောဆိုချက်အပေါ် မြန်မာပြည်သူတွေကြား ကျယ်ကျယ်ပြန့်ပြန့် ထောက်ခံကြိုဆိုနေကြပ",
-   "body": "ကုလသမဂ္ဂက တရားဝင် နိုင်ငံတော်သမ္မတအဖြစ် အသိအမှတ်ပြုထားဆဲဖြစ်တဲ့ ဦးဝင်းမြင့်ရဲ့ အသက် ၇၅ နှစ်ပြည့် မွေးနေ့မှာ ဦးဝင်းမြင့်အနေနဲ့ အမှန်တကယ် လွတ်မြောက်ခြင်း မရှိသေးဘူးဆိုတဲ့ ဂျာမနီသံရုံး ယာယီတာဝန်ခံရဲ့ ထုတ်ဖော်ပြောဆိုချက်အပေါ် မြန်မာပြည်သူတွေကြား ကျယ်ကျယ်ပြန့်ပြန့် ထောက်ခံကြိုဆိုနေကြပါတယ်။\n\nဂျာမနီသံရုံး ယာယီတာဝန်ခံ မစ္စတာ မာသီရက်စ် လေရှောစ်ဟာ ရန်ကုန်မြို့က သမ္မတဦးဝင်းမြင့်ရဲ့ နေအိမ်ရှေ့အထိ ကိုယ်တိုင်သွားရောက်ပြီး ဦးဝင်းမြင့်အနေနဲ့ လွတ်လပ်စွာ ဆက်သွယ်ပြောဆိုခွင့်နဲ့ တွေ့ဆုံခွင့်တွေ ကန့်သတ် ခံထားရဆဲဖြစ်တဲ့ အခြေအနေမှန်ကို နိုင်ငံတကာသိအောင် ထုတ်ဖော်တင်ပြခဲ့တာဖြစ်ပါတယ်။\n\nဒါဟာ စစ်အာဏာရှင်လက်အောက် ဖိနှိပ်ခံပြည်သူတွေရဲ့ အသံကို သံတမန်တဦးက ကိုယ်စားပြု ဖော်ထုတ်ပေးလိုက်တာ ဖြစ်တယ်လို့ သုံးသပ်နေကြတာဖြစ်ပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #ဂျာမနီသံရုံး #ဦးဝင်းမြင့် #WhatsHappensInMyanmar",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Myanmar",
-    "Germany"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/German-Nov-11-Cover-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "နှိမ်နင်းခံရသဖြင့် အိမ်တွင်းအောင်းပြီး သားကောင်ရှာလာသည့် ငွေလိမ်လုပ်ငန်းများ",
-   "link": "https://myanmar-now.org/mm/news/82188/",
-   "source": "Myanmar Now Burmese",
-   "published": "2026-11-11T11:03:02+00:00",
-   "summary": "စီးနင်းခြိမ်းခြောက်ခံလိုက်ရသည့် ကျားဖြန့်လုပ်ငန်းများသည် ထိုင်းနယ်စပ်မှလှမ်းမြင်ရသောနေရာကို စွန့်ခွာလိုက်ရုံသာမက လုပ်ငန်းပုံစံကိုပါ အပြောင်းအလဲလုပ်လာကြောင်း တွေ့ရသည်။",
-   "body": "စီးနင်းခြိမ်းခြောက်ခံလိုက်ရသည့် ကျားဖြန့်လုပ်ငန်းများသည် ထိုင်းနယ်စပ်မှလှမ်းမြင်ရသောနေရာကို စွန့်ခွာလိုက်ရုံသာမက လုပ်ငန်းပုံစံကိုပါ အပြောင်းအလဲလုပ်လာကြောင်း တွေ့ရသည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/Scam-in-Myawaddy-photo-by-KNU-1024x698.jpg",
    "lang": "my"
   }
  ]
