@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T17:38:57.219423+00:00",
- "updated_yangon": "2026-11-14 00:08",
+ "updated": "2026-11-13T18:38:59.753877+00:00",
+ "updated_yangon": "2026-11-14 01:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -13,6 +13,7 @@
   "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -22,23 +23,23 @@
  "countries": [
   [
    "United States",
-   48
+   41
   ],
   [
    "Russia",
-   26
+   21
   ],
   [
    "Ukraine",
-   25
+   20
   ],
   [
    "China",
-   16
+   13
   ],
   [
    "France",
-   14
+   13
   ],
   [
    "Myanmar",
@@ -46,18 +47,18 @@
   ],
   [
    "Israel",
-   6
-  ],
-  [
-   "European Union",
-   6
+   7
   ],
   [
    "Palestine",
-   5
+   7
   ],
   [
    "Iran",
+   7
+  ],
+  [
+   "European Union",
    5
   ],
   [
@@ -65,20 +66,16 @@
    4
   ],
   [
-   "India",
+   "Taiwan",
    3
   ],
   [
-   "NATO",
+   "India",
    2
   ],
   [
-   "United Kingdom",
-   2
-  ],
-  [
-   "Taiwan",
-   2
+   "Iraq",
+   1
   ],
   [
    "Turkey",
@@ -89,11 +86,11 @@
    1
   ],
   [
-   "Syria",
+   "NATO",
    1
   ],
   [
-   "Pakistan",
+   "Syria",
    1
   ]
  ],
@@ -107,10 +104,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 27,
+ "war_count": 25,
  "languages": {
-  "my": 24,
-  "en": 116
+  "my": 23,
+  "en": 117
  },
  "items": [
   {
@@ -179,23 +176,10 @@
    "lang": "en"
   },
   {
-   "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
-   "link": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
-   "source": "CNA World",
-   "published": "2026-11-13T17:45:00+08:00",
-   "summary": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
-   "body": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--zPf_Qhhx--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-10T180232Z_2_LYNXNPEMA91R5_RTROPTP_3_CYBER-ATTACK.JPG?itok=XTCq5SEX",
-   "lang": "en"
-  },
-  {
    "title": "KNU၊ KNPP နဲ့ နေပြည်တော်ကြား ဆွေးနွေးပွဲဖြစ်လာရေး ထိုင်း ကူညီမယ်",
    "link": "https://www.bbc.co.uk/burmese/live/c6zjr9ne0jget?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-13T17:39:15+00:00",
+   "published": "2026-11-13T18:39:16+00:00",
    "summary": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -210,7 +194,7 @@
    "title": "ရေနံမှော်တွေရှိတဲ့မြိုင်နဲ့ ပေါက်မှာ KTV မဖွင့်ဖို့ PDF သတိပေး",
    "link": "https://www.bbc.co.uk/burmese/live/cmy5x42knzz6t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-13T17:39:15+00:00",
+   "published": "2026-11-13T18:39:16+00:00",
    "summary": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -222,33 +206,277 @@
    "lang": "my"
   },
   {
-   "title": "Ukraine war live: Russian warship struck off Nato coastline",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanJCbm5BaWV5b25qaVZFZ2NGYTNBaWxjMFlIRW1Lbk94OVFqdUxXZ0Y1VldVVU11SEI0WjYyMnZVSDlvUXRmSUhTd015enJWV2Z1WlJPbGRaZU4xRjJTcE96WjVOaHZSZTh5dk1ILTJ1ck1RQWVhWVEzTWpHbl85V0Vqa2xSNWI3Q1U2bWtaZ0FNLXU0RHZoQXIzeDJ5dDhEdGF2aktFdkhDdFloTDcteUtB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T17:35:29+00:00",
-   "summary": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
-   "body": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-13T18:36:57+00:00",
+   "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "body": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+   "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+   "source": "NYT World",
+   "published": "2026-11-13T18:26:47+00:00",
+   "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
+   "body": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
+   "category": "Global",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
-    "NATO"
+    "Israel"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice - PBS",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS19NTU1LMXdqSWtwVV9zYm9xZmVhS25USU5VZ0NxcVM2cG9vbkV6SDFhVTlZRXBmMjNveTRjRXc2OTNPbXRDOVc2a0N4RFNYWFJ0b19QR3ZoS0NlS2dBTHBQbnJYRV9JWlZzdjlLa04yaDl0c056YXY2MDhha2VZZXQ1azlLOV9wY200dDFlcnRNZWdQZG1RVzV1YjVkWlJsbG85Zzg3QVNGSHQ3WV9N?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T18:22:39+00:00",
+   "summary": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice PBS",
+   "body": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice PBS",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Before he was Pope Leo, he was their bishop. Now he’s back home. - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdS0xRjZnbnZvRWxVaGV5U3pBWkpyTm9tVFh5VkxMQjdTX0Nrb2dDanhTUmg0OV9XaDRBekVRMzZuR1NzNVRfOTBjcEtQVThEMjBYb29tRDFxUV8tTl92UE1NOVVMc08xX3RhS3J1Mzktei05ODlCaklsM0M4RExBSjIzNDJlendaQVhkV3NxSldKQlhrZmJrYWlGczFkTEUyaThvWEoyQU1RUEVJUFZDcg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T17:32:25+00:00",
-   "summary": "Before he was Pope Leo, he was their bishop. Now he’s back home. The Washington Post Pope: Jesus 'knows your story and continues to invite you to walk with Him' Vatican News Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo XIV denounces 'mach",
-   "body": "Before he was Pope Leo, he was their bishop. Now he’s back home. The Washington Post Pope: Jesus 'knows your story and continues to invite you to walk with Him' Vatican News Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru AP News Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN",
+   "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
+   "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
+   "source": "The Guardian",
+   "published": "2026-11-13T18:20:01+00:00",
+   "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election amid concern inside government that they must take the prospect ",
+   "body": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election amid concern inside government that they must take the prospect of a Kemi Badenoch-led recovery seriously. Downing Street sources said the prime minister wanted Labour headquarters to refocus on the Tories as an electoral threat after more than two years of prioritising Nigel Farage’s Reform and – on their left flank – the Greens. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2322c0060f6422b953c5d72ba7a10ff917647ec6/2454_639_1669_1336/master/1669.jpg?width=140&quality=85&auto=format&fit=max&s=8d4232673449b2a0eaea08e7d7849b9c",
+   "lang": "en"
+  },
+  {
+   "title": "What we know about China's military exercises around Taiwan",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVh5VFVIQ3JkQ3FDR0Y5OFdieHZCY3BpbnhQd2dzWjhNLVJiTHhqSnp0Um1LdGlQeWlQMWZSYzNrMVZUZEdjcWRleWd4a3hsMUdXaU1FU1pNU1VXUE5UMF83RnhESkQ4d0wtdTFVLTB2ZjlYT3B3WTV4VzFfSWV4S2x2cmVuMG5LUEVyRFFySWRjQQ?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-13T18:19:19+00:00",
+   "summary": "What we know about China's military exercises around Taiwan France 24",
+   "body": "What we know about China's military exercises around Taiwan France 24",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Taiwan",
+    "France"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Labour chief whip takes tough approach in Vogue interview to keeping MPs in line",
+   "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
+   "source": "The Guardian",
+   "published": "2026-11-13T18:16:15+00:00",
+   "summary": "Anneliese Midgley surprises colleagues after Burnham said whips office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip. “I’m not going to take any shit and I",
+   "body": "Anneliese Midgley surprises colleagues after Burnham said whips office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip. “I’m not going to take any shit and I don’t fuck about,” said Anneliese Midgley, the Labour government’s newest head of party discipline, shedding some light on her direct approach to keeping MPs in line. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/4c1be2018c85b1bd8f3b44061ee196854105b58f/0_0_3590_2874/master/3590.jpg?width=140&quality=85&auto=format&fit=max&s=8747823bb9347de7d7a997354c336057",
+   "lang": "en"
+  },
+  {
+   "title": "Met police launch investigation into David Walliams allegations",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+   "source": "The Guardian",
+   "published": "2026-11-13T18:14:37+00:00",
+   "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged “serious sexual offences”. Walliams, 55, was accused in rep",
+   "body": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged “serious sexual offences”. Walliams, 55, was accused in reports by ITV and the Guardian this week of using his power and celebrity status to prey on young women and teenagers for sex. He has denied any wrongdoing, being a sexual predator or breaking the law. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+   "source": "The Guardian",
+   "published": "2026-11-13T18:10:05+00:00",
+   "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper records and fuelled conc",
+   "body": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper records and fuelled concerns about an over-reliance on a small number of tech companies. A day of widespread disruption sent some sectors back to the 1990s, with court staff looking for fax machines and rail travellers being warned they might not be able to rely on digital tickets. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/2c228d770bc36da0b6ae784dc3d2be62613a6e18/210_0_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=564f6d76df4b85262cfd0c08d36d32eb",
+   "lang": "en"
+  },
+  {
+   "title": "Are Gaza and Iran upending the political balance in America? - Middle East Monitor",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVI5Y3E4WHotMzNpVElWZC1LOFdKclRvU3BSaFVvUU5yRlQ1YWhXMmdJN1R3b0ExOHlKSXlTSGNKYS1nM3FadDFSMjExYzZYbGJtT3EzNTF6Q3lJdmtQVWJrbDZMXzVVcm1LR3BJTzFueWlkX2J3RnhncTQwMEJGUXRxbm1ya0Y0bUNmVVVMVWg5X0FnWk9rR3VjaThtSWpuOTExeXRn0gGrAUFVX3lxTE5zRG9aV2R6cE9ucmQ1NGNocFd5dmRIT2ZKaGtHYl93dXdBejhLZDktd0xIYXM2V3JzWU5JVVFlLW53dlBoU0xucUhLWVRzUWx2RHdzWjVYcUkyVzg2VFo2a1JiZzhwdVBDMUd5MUtHcWdMdG9tRGxKYU9wR3E2RFlZYkl4TzNxOVFWald1dE12M0tjNzlXYS12TEJMVGJDbXhIaGNSRi1uTGxwRQ?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-13T18:10:00+00:00",
+   "summary": "Are Gaza and Iran upending the political balance in America? Middle East Monitor",
+   "body": "Are Gaza and Iran upending the political balance in America? Middle East Monitor",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T18:09:05+00:00",
+   "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+   "body": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Iran",
+    "Iraq"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794593305.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+   "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T18:04:22+00:00",
+   "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+   "body": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "source": "The Guardian",
+   "published": "2026-11-13T18:02:24+00:00",
+   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Micros",
+   "body": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066",
+   "lang": "en"
+  },
+  {
+   "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+   "link": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+   "source": "NYT World",
+   "published": "2026-11-13T17:59:45+00:00",
+   "summary": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.",
+   "body": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "No emails, no problem? Workers joke about Microsoft outage",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T17:55:05+00:00",
+   "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+   "body": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794592461.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft’s Global Outage and Fixes: What We Know",
+   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+   "source": "NYT World",
+   "published": "2026-11-13T17:52:16+00:00",
+   "summary": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+   "body": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
+   "link": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
+   "source": "CNA World",
+   "published": "2026-11-13T17:45:00+08:00",
+   "summary": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
+   "body": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--zPf_Qhhx--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-10T180232Z_2_LYNXNPEMA91R5_RTROPTP_3_CYBER-ATTACK.JPG?itok=XTCq5SEX",
+   "lang": "en"
+  },
+  {
+   "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+   "link": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+   "source": "The Guardian",
+   "published": "2026-11-13T17:43:26+00:00",
+   "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits with work and training for people under-25 should be expanded to older age groups, the Gu",
+   "body": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits with work and training for people under-25 should be expanded to older age groups, the Guardian has learned, in a move that risks reigniting Labour tensions over welfare changes. Andy Burnham and other cabinet ministers are looking at applying the idea of “participation first” to all people of working age, meaning spending billions more on support to enter the workplace while cutting or removing some disability benefits. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/c2b0279682d508425e716930b12babc769cd705c/1106_585_4650_3723/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=ae911deb0c8a1cca78223aca44e0a48b",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "source": "The Guardian",
+   "published": "2026-11-13T17:41:15+00:00",
+   "summary": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a w",
+   "body": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. The company said the outage was a “technical issue” not related to cyber-attacks or AI agents, and that it continued to gradually restore services. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+   "lang": "en"
+  },
+  {
+   "title": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say - The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNOd293aEcwZy16alMzNy1xTmNzZ19oa3JPNU5jREhhaDBMOUV5VFpKZUNpdW54S21MaGtJLVEyYzdCVFQwVThaaUNpeUFXT0M4cUZNeU1qZThSa0NJZE1pU2lfeEtTR3ZBWnZPRzRvOWw3NEZZTkpSb3Yyenp1S2xTai11X3RmblE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T17:37:44+00:00",
+   "summary": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say The Jerusalem Post",
+   "body": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say The Jerusalem Post",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -269,20 +497,18 @@
    "lang": "en"
   },
   {
-   "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-   "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
-   "source": "France 24",
-   "published": "2026-11-13T17:28:54+00:00",
-   "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global. On AI, Pothier points to Europe's limited computing capacity, estimating that it barely represents ",
-   "body": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global. On AI, Pothier points to Europe's limited computing capacity, estimating that it barely represents \"5% of what's available out there.\" Despite the EU's wealth of researchers and expertise, he warns that Europe is struggling to turn these resources into \"real technological and industrial scale.\" Now, turning to the war in Ukraine, Pothier argues that European governments should focus less on \"whether they have a place at the table\" and more on \"making Ukraine's hands stronger,\" particularly by providing additional air defence interceptors.",
-   "category": "Ukraine / Russia",
+   "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+   "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+   "source": "The Guardian",
+   "published": "2026-11-13T17:20:32+00:00",
+   "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on ",
+   "body": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady. Continue reading...",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
-   "image": "https://s.france24.com/media/display/025bc748-df83-11f1-9f2b-f71d22e7fea9/w:1024/p:16x9/EN-20261113-130829-131531-CS.jpg",
+   "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
    "lang": "en"
   },
   {
@@ -296,22 +522,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--ubAiIMOM--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/tdy-migration/glenn-carstens-peters-npxxwgq33zq-unsplash_720.jpg?itok=Pxg9AyKq",
-   "lang": "en"
-  },
-  {
-   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "source": "The Guardian",
-   "published": "2026-11-13T17:17:45+00:00",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Micros",
-   "body": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189",
    "lang": "en"
   },
   {
@@ -334,8 +544,8 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
    "source": "The Guardian",
    "published": "2026-11-13T17:14:56+00:00",
-   "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the plot can now be reported",
-   "body": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the plot can now be reported after Mohammed Alfatih, also known as Mohammed Naim, was found guilty on Friday of a knife attack on a bailiff outside his home in Birmingham. Continue reading...",
+   "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the alleged plot can now be ",
+   "body": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the alleged plot can now be reported after Mohammed Alfatih, also known as Mohammed Naim, was found guilty on Friday of a knife attack on a bailiff outside his home in Birmingham. Continue reading...",
    "category": "Europe / NATO",
    "is_war": false,
    "countries": [
@@ -346,16 +556,16 @@
    "lang": "en"
   },
   {
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-13T17:12:46+00:00",
-   "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "body": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "title": "SpaceX's giant rocket may leave NASA in the dust",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS29lRWxDTEFxWU55UU1fMlhIcXNJamF3bFRkX01nWEhnRjI1QjNnZHppcERYSFJPTzVJVHlvc0pVVkh6WENxSTJQTkVlODhuaGY4b1dzWUhTcjVJZ0w0NGhNWmtsQ0JkNzRlX2trUS1KVkozZFJFOGFWeXRCQVZtUHV1YllJalFsT3Qxd2tObFBKdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T17:14:56+00:00",
+   "summary": "SpaceX's giant rocket may leave NASA in the dust NPR SpaceX’s Future Hinges on Starship. Can It Deliver? Bloomberg.com I booked the first used Falcon 9 booster. Where will satellite operators go when SpaceX retires it? Fortune SpaceX's Starship Push Could Leave NASA Without a Rid",
+   "body": "SpaceX's giant rocket may leave NASA in the dust NPR SpaceX’s Future Hinges on Starship. Can It Deliver? Bloomberg.com I booked the first used Falcon 9 booster. Where will satellite operators go when SpaceX retires it? Fortune SpaceX's Starship Push Could Leave NASA Without a Ride to the ISS Around Prague Is SpaceX Winding Down Falcon 9 Really “A Gift to Rocket Lab”? TIKR.com",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -422,6 +632,21 @@
    "lang": "en"
   },
   {
+   "title": "Europe and US On Collision Course Over Starshield - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOU9lbl9UWEgzdlVOMlAwNFluWXJScXpQbFBpZXdoTjN3dGlJejhNc0R2MmpTVUp1R1k4RmpSTHhkRkh1SkRKYjJoYzhjY055OVBESndJYkRnbVMtc1BteHV6QUI3aGFGYks2WmxqbnE5M1ZicVhZY082cHZRVXJOZWI5OERiY3o2MGJr?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:53:00+00:00",
+   "summary": "Europe and US On Collision Course Over Starshield Newsweek",
+   "body": "Europe and US On Collision Course Over Starshield Newsweek",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnhISG1CdGRualRiNS1jeDA2NTZUeE95VndJWkxHdDZhQVJLc1Q5YnIxSmN0OFF6eDBXZ1ZNNzJnUVdrdE11enA0TkpMQXdadW9HR0dJSGk1TDBzbUpXWUl3emt5bk0teUJndXVxaWNMX1RNR1NhOUl4UUtxZGtnRW9xNExUMkZ2bTRkRnpsV3FEVXpSVF9xQTMtTHYwUUVEUk8tZmJIS2ctb0kzQ05R?oc=5",
    "source": "Google News · Ukraine",
@@ -434,6 +659,21 @@
     "Ukraine",
     "Russia",
     "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe pushes for a seat at Ukraine peace talks​‌ but lacks a unified voice - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2NoaUhnWjZpUXBoVWJSa0VvcUx6LVg1dHhQWEpHRzJGdmlsdzJ5YXJPZGNIQXVUNXd1Ty02RnNvUzlmamI5bnRLc2RET2R5Nnk3T2JlTm8weWhHWUlacC14M0ZlcmtOTm1tZ3ZuS3V4MXNDV3A3ZENhWGVZTlZFTElIeHlScDlmUXdWNXNRWk4tZ1NMZmhvbzFwbHFhMVBMdVRXcWZJZDY?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:49:18+00:00",
+   "summary": "Europe pushes for a seat at Ukraine peace talks​‌ but lacks a unified voice WRAL",
+   "body": "Europe pushes for a seat at Ukraine peace talks​‌ but lacks a unified voice WRAL",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -467,6 +707,19 @@
    "lang": "en"
   },
   {
+   "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkdmbHFDTlhNWTE4YlJsdHg2NkF2OG9UNmllbGIyNGl0bFJjNHlWWldaeWl5SDRydUJ4QW9DbzlLMnVlZkV2dDJqNTZ1VGpZNDJZTVhGU2hVUHY1aW50cEFOVkxZU0o3OTBtSzJMX1FLVEQ5QmRtMkVJZm9kczZmaUktWk1NVkxEbjBr?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T16:46:17+00:00",
+   "summary": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price. The New York Times",
+   "body": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price. The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
    "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
    "source": "Al Jazeera",
@@ -480,6 +733,19 @@
     "Russia"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7294c1cfc-1794582860.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Self-learning AI releases NFL picks, score predictions for every Week 10 game - CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMllkYTJrNnhJZHdpSWhWQzlHMkhWU2JfSXptYjZVeE1hQzlsMmJndk84WDJmTUFqeFFuMUhvM1pJR25qZkVyMDhKU2VpOWtGbHVoalo4RnI3cmxTM2tycVFNMVc2VmlUYzdFN2h3aWh2ajU0RV9qeE8tcUdXRk93UU5YdGtQUFZqVjJDS2tWWUFnSVNaY2syYzY4cHB3QQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T16:42:49+00:00",
+   "summary": "Self-learning AI releases NFL picks, score predictions for every Week 10 game CBS Sports NFL Week 10 upset alert: Why the red-hot Bengals are in danger on 'Sunday Night Football' CBS Sports NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn fir",
+   "body": "Self-learning AI releases NFL picks, score predictions for every Week 10 game CBS Sports NFL Week 10 upset alert: Why the red-hot Bengals are in danger on 'Sunday Night Football' CBS Sports NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn first win! NFL.com NFL Week 10 picks: Packers prevail over Vikings; Steelers beat Bengals Los Angeles Times NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -573,21 +839,6 @@
    "lang": "en"
   },
   {
-   "title": "Met police launch investigation into David Walliams allegations",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-   "source": "The Guardian",
-   "published": "2026-11-13T16:36:21+00:00",
-   "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have announced a criminal investigation into David Walliams over alleged sexual misconduct. In reports by the Guardian and ITV News",
-   "body": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have announced a criminal investigation into David Walliams over alleged sexual misconduct. In reports by the Guardian and ITV News, Walliams, 55, has been accused by multiple women of using his power and celebrity status to prey on young women and teenagers for sex. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2",
-   "lang": "en"
-  },
-  {
    "title": "El Niño fuels climate disasters: The high price of inaction",
    "link": "https://www.france24.com/en/tv-shows/access-asia/20261113-el-ni%C3%B1o-fuels-climate-disasters-the-high-price-of-inaction",
    "source": "France 24",
@@ -601,6 +852,21 @@
     "Turkey"
    ],
    "image": "https://s.france24.com/media/display/ec03b09c-df77-11f1-b188-695cb59fade5/w:1024/p:16x9/EN-NW-PKG-ASIA-S-YEAR-OF-NATURAL-DISASTERS-BOYLE-Emily.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Hospital airstrike shows war’s toll on Gaza health system - Magzter",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTFHX2p2LTNYYURobWd5NXQ5WjFKUEFMQXZjdXMzdFZjWFk2WkZrZkRmUWc5bUp6cU1yVTNJdVJrSl9SZzkzRVUyQVl5dWRPa2d0Nl9VUEtSeEJIT05QT0xLaC15ZFJaMHd1c2V1VHltWGhfbVo0T0VoQWhQNEhlVllZa2t4d3IzZXVFaGczTDlWVTdaWlBKUzd3SS1lb0ItaEtURkhvd19ReFQ2WXdGeTJJblZseTQ?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-13T16:35:18+00:00",
+   "summary": "Hospital airstrike shows war’s toll on Gaza health system Magzter",
+   "body": "Hospital airstrike shows war’s toll on Gaza health system Magzter",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -619,18 +885,15 @@
    "lang": "en"
   },
   {
-   "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+   "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlBrdjRTd1hzdUVoVk5qRGEwY0hjenIxSGFLUnRCdUhrdkZJNlVJUkpFanRQR3R0ajJXeGFFWE5UcWtEYkpkRHQxTXhCY3BZMDZUbnF3OUd6WDdtN015NHV6NWpJZExzZnZsV0F0ZTRGSDJOYU12d2RuZWtDWG13dHN3?oc=5",
    "source": "Google News",
-   "published": "2026-11-13T16:35:00+00:00",
-   "summary": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates CNBC Nvidia’s stock extends selloff after Jensen Huang’s resignation MarketWatch EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reut",
-   "body": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates CNBC Nvidia’s stock extends selloff after Jensen Huang’s resignation MarketWatch EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates WSJ Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains Bloomberg.com",
+   "published": "2026-11-13T16:34:51+00:00",
+   "summary": "Despite Nvidia’s Drop, Stocks Push Ahead The New York Times Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis Morningstar Nvidia’s stock is on a losing streak not seen in 14 years. What comes next? MarketWatch Nvidia’s Meteoric Rise, in One Chart WSJ Nvidia’s Retail I",
+   "body": "Despite Nvidia’s Drop, Stocks Push Ahead The New York Times Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis Morningstar Nvidia’s stock is on a losing streak not seen in 14 years. What comes next? MarketWatch Nvidia’s Meteoric Rise, in One Chart WSJ Nvidia’s Retail Investors Say They’re Not Rattled by CEO Scandal Bloomberg.com",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -677,23 +940,6 @@
    "lang": "en"
   },
   {
-   "title": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say - The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNOd293aEcwZy16alMzNy1xTmNzZ19oa3JPNU5jREhhaDBMOUV5VFpKZUNpdW54S21MaGtJLVEyYzdCVFQwVThaaUNpeUFXT0M4cUZNeU1qZThSa0NJZE1pU2lfeEtTR3ZBWnZPRzRvOWw3NEZZTkpSb3Yyenp1S2xTai11X3RmblE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T16:33:17+00:00",
-   "summary": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say The Jerusalem Post",
-   "body": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say The Jerusalem Post",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "487 Belarusians died in Ukraine war, investigators find - Belsat",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZDc1loS181Z2J3YTF1d1NmWnJRQm14eVRaakVWallKM0dZUTRkSFBFVXZNNkVoTk1iZFVPZE9MaWF4VVg5MXVNRTRJLUZBeVc0RUtodkNmd3RZeVB5NEZWVURRdmZxU1F5UmRKN3BJaXR3VEc4OVpZelZtN2xreFFHM1NCcjN0a1ZhOA?oc=5",
    "source": "Google News · Ukraine",
@@ -723,23 +969,6 @@
    "lang": "en"
   },
   {
-   "title": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks - The Moscow Times",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0lxLVd0VXZLOTVIZ01lQjVuZHM1LTk1NHUtaV9LTXN4ZFB1MFhwV0tfUnVmWjF3V3V3MzV2dDlYWXUzR1Jfa2NEa0hDUVRlTTFCZDJKVnpwbFNBcGtIWGxQeVBZQUdTSy1Ba2J2LW5VOHVFeE5XRjJoTzRHZE9LamVtUTQ3SG5sazRhYzF1bzV6dzc5Q2REUW8tUjNoMTRvV1BGeEVEWVk5YV9TekRFemlkQmhlelFBd1owcnhyUzRQZ1BNQ0E?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T16:24:50+00:00",
-   "summary": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks The Moscow Times",
-   "body": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks The Moscow Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ဖားကန့်မှာ ဆယ်ရက်အတွင်း လူ ၃၀ နီးပါး ဖမ်းဆီးခံရ",
    "link": "https://rfa.org/burmese/news/2026/11/13/nearly-thirty-detained-for-forced-military-recruitment-in-hpakant-in-ten-days/",
    "source": "RFA Burmese",
@@ -751,6 +980,23 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/L6BQC4MNCRDARHNGJNMWDRS4HY.gif?auth=5f8af53e933883c568636366e371e953b62c6a95e459d192c0437ea63c5a2077&smart=true&width=1500",
    "lang": "my"
+  },
+  {
+   "title": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks - The Moscow Times",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0lxLVd0VXZLOTVIZ01lQjVuZHM1LTk1NHUtaV9LTXN4ZFB1MFhwV0tfUnVmWjF3V3V3MzV2dDlYWXUzR1Jfa2NEa0hDUVRlTTFCZDJKVnpwbFNBcGtIWGxQeVBZQUdTSy1Ba2J2LW5VOHVFeE5XRjJoTzRHZE9LamVtUTQ3SG5sazRhYzF1bzV6dzc5Q2REUW8tUjNoMTRvV1BGeEVEWVk5YV9TekRFemlkQmhlelFBd1owcnhyUzRQZ1BNQ0E?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:24:00+00:00",
+   "summary": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks The Moscow Times",
+   "body": "Here's Why Russia Keeps Outplaying the U.S. and Europe in Ukraine War Peace Talks The Moscow Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
@@ -769,40 +1015,6 @@
    "lang": "en"
   },
   {
-   "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
-   "link": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
-   "source": "The Guardian",
-   "published": "2026-11-13T16:22:16+00:00",
-   "summary": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,000 jobs, while its chief executive has called for the EU and Britain to work toge",
-   "body": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,000 jobs, while its chief executive has called for the EU and Britain to work together in the face of competition from China. Britain’s largest automotive employer reported revenues rising to £5.9bn between July and September, but it recorded £530m in costs from the job cuts announced near the end of that period amid tough trading conditions. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China",
-    "United Kingdom",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/405_0_3858_3086/master/3858.jpg?width=140&quality=85&auto=format&fit=max&s=040b7cd16d653ef4ff426c858d83e2ca",
-   "lang": "en"
-  },
-  {
-   "title": "Kushner: Russia has agreed to include Europe in Ukraine war talks",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhxaDNwRGpLNUlfN3ZacEZSSEZQcVh0WDhxVjRxY1YydUlFZGpsU1ZiVDdlQ2JaYUF4MEdfZHJXclZIU2dlb3Z1TldUcTJ1dFplaU1yT1JLWktVaEN3MmZUS04xckVnMUFSZ1dpVzhCWHplRWVjbU5VMVROTVVtVV9wM096dFZUOU9lUtIBkgFBVV95cUxPeWVGS3lTVFpxb21FaXRJa0xXak1wX2VKU0tNLTVUM25zZzlDOGhiY1BzOWJURFdEbUhoZG1Zdzg4VzU2N0JScGhqcTA0NW1DYXNQYVFRdU9HZ0Rad3phZTljNGhLa2pnYzRVbVVhaU1vN015YUE4allCNmVjNTZld2hyUEZXbmVRVGVJZXJoX0EyQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T16:19:00+00:00",
-   "summary": "Kushner: Russia has agreed to include Europe in Ukraine war talks The Hill US cannot reach a deal to end Ukraine war without Europe, says Kushner Financial Times Putin takes hard line in US talks as Ukraine says Starlink disrupted again The Guardian",
-   "body": "Kushner: Russia has agreed to include Europe in Ukraine war talks The Hill US cannot reach a deal to end Ukraine war without Europe, says Kushner Financial Times Putin takes hard line in US talks as Ukraine says Starlink disrupted again The Guardian",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Today’s Headlines: Three Killed in Gaza | Iran Strikes US Radar| US Taxpayers against Genocide - Palestine Chronicle",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1FZUG9EUXRLLXljaTEwS3FSWVdLbFctejd2ZzJkY1UwbXY5UHh1dVlubFVKQUdWM0RTR055WUJmZWRiSHBlVWVuWHp5Zkw2QUI2dEs2d1pRWHNneFBualA1aURLWmlBMmFwM0tEXzBQOUU1ZUd1TW9aTC1NaGd4aVlEcUQ1TjEyR0VpbUYwR3VjcXJaOHI0VmJBOGlPSTUyRVltSkV1NmFadHZXVGtmd2tNOGNkU3BjY3lNcFk5SldfNlU?oc=5",
    "source": "Google News · Middle East",
@@ -815,22 +1027,6 @@
     "United States",
     "Palestine",
     "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Police investigating David Walliams over alleged serious sexual offences",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTNjZCNF8xRnZMd2JDUGdVb0N4YmFEcFpXaEJONDN5T2drZU5KMlJyNWV0OGdzSTdxcjRmZkthZzYyOTVodHdoM2RpYVZ2WDhfX1B5R3dweHRqWUU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T16:16:22+00:00",
-   "summary": "Police investigating David Walliams over alleged serious sexual offences BBC U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens WSJ David Walliams to be investigated over alleged 'serious' sexual offences Sky News Walliams and Brand were leading UK comics",
-   "body": "Police investigating David Walliams over alleged serious sexual offences BBC U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens WSJ David Walliams to be investigated over alleged 'serious' sexual offences Sky News Walliams and Brand were leading UK comics. Now they are part of a reckoning over sexual misconduct AP News South East libraries to continue stocking David Walliams books BBC",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -853,28 +1049,49 @@
    "lang": "en"
   },
   {
-   "title": "Sheds, cakes and photos of me – Prince William’s Country Life, digested by John Crace",
-   "link": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace",
-   "source": "The Guardian",
-   "published": "2026-11-13T16:12:29+00:00",
-   "summary": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country Country Life: Guest Edited by HRH the Prince of Wales Front Cover: Photo of me outdoors. I love the country, me. Continue reading...",
-   "body": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country Country Life: Guest Edited by HRH the Prince of Wales Front Cover: Photo of me outdoors. I love the country, me. Continue reading...",
-   "category": "Global",
+   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security - Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2t6aGo1WjB6NjZVS0NUeFJfSUM0bXU5QmN4SVA3OGxMR2I5anBUQXFIVlNCdnFNdFB0b2ExSVhVUWhMQ0RoODdKaWtlRmtUaTJzc3Y0VVBxc1RoR2dMb1dRUnZXUzBYZW04dDlmQ2xDNzVUdXU4TmhoTFdXRWtKSWZkanAzOFYzWEI5Y2RR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:13:55+00:00",
+   "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security Boston Herald",
+   "body": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security Boston Herald",
+   "category": "Ukraine / Russia",
    "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/acb5994d9b120f7e107495bc17f32809a3d10801/416_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=d802d84dc0a2fdad6e9e13f07a9ac889",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Cam Skattebo stayed in his stance instead of pushing Jameis Winston’s tush on key play - NBC Sports",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmR4WEk3cGw5WGhOUml5NHhfcm16U2hFLTZNVUJVT2czRDk2Y0lJWnhHRTBWT20xV2FGbmk1YVpVcUN3MXVFV0FRa29tMXFTTnFmR0NFU0tXNWYtOWtCajJ1dHpjN3h6MjI1UXBGQ1dnVzhNVlJrdkstQ0JfNDRESmxid0RodmVVMGlCODZ6dVpNZDNUcFB3NUhYVUZvelFTalE0OW1VQ3prbXdUYVhOckRXdDljZkxiVVpFTndKLTZhMlM1ejBpVXRoWjNONFJFaS1OemVQT241Q2VaVENudw?oc=5",
+   "title": "D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFk3YjF3a3pUaGttVHBHa3hEaEcyRF9sRUpnS1A5UFBPSkJpQXpBUzF2UmJ2dDBJN3dvd3E4RFQwOENJV3E3cHY3Z0xNZ09KeWl3QzJNYkJxT0hmOXlRWnJQUm15andsbEVnb0U2TURWNlNfNFBQWUowVy1UaERibWtXTndHZFFMdlM3VlloRzV0YkNhbnZQaFFHVXlQN1pUY2I4RHotbTZTOW9pN2RLc056SlVNZ2NjM01Ob0VYN2hEb2xaMXVhTnlfdGo?oc=5",
    "source": "Google News",
-   "published": "2026-11-13T16:09:42+00:00",
-   "summary": "Cam Skattebo stayed in his stance instead of pushing Jameis Winston’s tush on key play NBC Sports Cam Skattebo froze on key 4th quarter play during Commanders loss Yahoo Sports Giants' Cam Skattebo arrives in 'Iron Man' helmet, pukes from pretzel dog, scores 2 TDs USA Today Watch",
-   "body": "Cam Skattebo stayed in his stance instead of pushing Jameis Winston’s tush on key play NBC Sports Cam Skattebo froze on key 4th quarter play during Commanders loss Yahoo Sports Giants' Cam Skattebo arrives in 'Iron Man' helmet, pukes from pretzel dog, scores 2 TDs USA Today Watch Cam Skattebo Arrive Wearing 'Iron Man' Helmet for Giants vs. Commanders in Trending Video Bleacher Report Cam Skattebo filled MetLife with hope — and the Giants let the air out New York Post",
+   "published": "2026-11-13T16:12:33+00:00",
+   "summary": "D.C. gunman attributed attack to frustrations with building maintenance The Washington Post Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting CNN Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions The ",
+   "body": "D.C. gunman attributed attack to frustrations with building maintenance The Washington Post Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting CNN Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions The Guardian Calm followed by chaos as doctor shoots during rampage in Logan Circle The Washington Post RECAP: Man killed in DC shooting was building manager who knew gunman, police say NBC4 Washington",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Report: Russia's Ukraine War Death Toll Tops 450K - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGUwVGFBN2VWQldJQzhtQ0tnT2xROFVoeTdxWWN2ZUNTZlZNV3l3OC1wWTFnblNtdlk5Y0huc3lwREFsbFlUUDVpam5FWXJfTWoyT3FUTDVPMGFYSWthZ3RsLTFXUXFlLVlldnVwS1FfOGFXQ1RFcmIxYTB3Z0RHdzlwNU9Hb3p0bTZHWWxyZ25YRjA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:09:10+00:00",
+   "summary": "Report: Russia's Ukraine War Death Toll Tops 450K Yahoo",
+   "body": "Report: Russia's Ukraine War Death Toll Tops 450K Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -891,6 +1108,22 @@
     "United States",
     "China",
     "Taiwan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security - Pioneer Press",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmd5RzcyU3JUbWRnM0Q0UlBkOEhkQnNSYkd6a0psTWlvNTNJV1puU2RUZDhkNFBvZ3FyeWlvWnllU1k2cDFyMXc5SWs0SWxwOEZ2cWM1Qkc1LWRWWERyX3dSM0FvOXlsVDVySGxPRXg2SjlqaXRVYW5tWkU3OWRVN3BEZ3dHNkVLS25Z?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T16:05:04+00:00",
+   "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security Pioneer Press",
+   "body": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security Pioneer Press",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -925,19 +1158,6 @@
    "lang": "en"
   },
   {
-   "title": "Exclusive video shows shocking moment Brooklyn building collapsed - Gothamist",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXZVVFhiN1lNS1BjUkZtOFRoWUpPTUpJN2ozem5qbFFnRGVjVlV4NlNPdDItMHJxNHYza0dxMkljNm5vNk5tMFdhV2Fqc0dLdWlrSzdENlI2V1FXRnlIZF9aZnZHME5zdFVWUXNxYW8zTnVOblJwMXoyZGdtVGZlVlVONmZqZ3k1ck1uLXR4ODE0XzZmRmQ0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T16:01:00+00:00",
-   "summary": "Exclusive video shows shocking moment Brooklyn building collapsed Gothamist Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In The New York Times Doorbell video captures harrowing moment building collapsed in NYC USA Today 'How does a building just fall?' Ne",
-   "body": "Exclusive video shows shocking moment Brooklyn building collapsed Gothamist Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In The New York Times Doorbell video captures harrowing moment building collapsed in NYC USA Today 'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse BBC With search for victims over, NYC officials look to what caused fatal building collapse Gothamist",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
    "link": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
    "source": "The Guardian",
@@ -953,18 +1173,15 @@
    "lang": "en"
   },
   {
-   "title": "The unfolding Jensen Huang scandal: a timeline - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
+   "title": "Let’s talk about Jensen Huang’s many affairs! - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeENtSGdEczVUNFBucjJNSmFKWDJBZ1JPQmlPdHhKeUU3STdGYnRyR3ZVUi00eG1rZ0doTTlNdEFGdlBDbFJhN253Y1hyQ2tEVllfVWlISG5aUngwamxEclJXdW5ILXpnQVl4R21TQTRIUjNscmpVSVBZZEl3ZXdDSVFQNGJzVERaa0xFU3lmOEVhamdnTGpPS2dQbw?oc=5",
    "source": "Google News",
-   "published": "2026-11-13T15:58:00+00:00",
-   "summary": "The unfolding Jensen Huang scandal: a timeline TechCrunch EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Trump told Huang to fight for his job after affair scandals: Report The Hill NVIDIA Announces CEO Transition NVIDIA Newsroom",
-   "body": "The unfolding Jensen Huang scandal: a timeline TechCrunch EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Trump told Huang to fight for his job after affair scandals: Report The Hill NVIDIA Announces CEO Transition NVIDIA Newsroom US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say CNN",
+   "published": "2026-11-13T15:58:33+00:00",
+   "summary": "Let’s talk about Jensen Huang’s many affairs! The Verge EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money The New York Times NVIDIA Announces CEO Transition NVIDIA ",
+   "body": "Let’s talk about Jensen Huang’s many affairs! The Verge EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money The New York Times NVIDIA Announces CEO Transition NVIDIA Newsroom A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband. WSJ",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -984,6 +1201,19 @@
    "lang": "en"
   },
   {
+   "title": "Avril Lavigne reveals she’s secretly welcomed a baby girl with mystery man: ‘Princess’ - Page Six",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVBHdEhpV3BlS1dnZGZfQ1IwdzlIZ20zeUY5NnVDUTRfY2k2U3dha3dFSVcyY1IzT2RrNFNqaXcwdk5ZRHVxRGhKcEJ1ZUV6TUVaRmVUQlNjVHFHYUdmV1N5SWcwMmtvc3J3c1pwb0JSQ0ZKR0FYa2liZ0NRdUg0YjhvbkdzMmFxd0tmX1BtdzhUT0JN?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T15:56:00+00:00",
+   "summary": "Avril Lavigne reveals she’s secretly welcomed a baby girl with mystery man: ‘Princess’ Page Six Avril Lavigne Welcomes Her First Child, a Baby Girl: Our ‘Princess Has Arrived’ People.com Avril Lavigne announces birth of 1st child, a daughter ABC News - Breaking News, Latest News ",
+   "body": "Avril Lavigne reveals she’s secretly welcomed a baby girl with mystery man: ‘Princess’ Page Six Avril Lavigne Welcomes Her First Child, a Baby Girl: Our ‘Princess Has Arrived’ People.com Avril Lavigne announces birth of 1st child, a daughter ABC News - Breaking News, Latest News and Videos Avril Lavigne reveals she welcomed first child in surprise announcement USA Today Avril Lavigne Welcomes First Baby, Shares Photo of Daughter E! News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "France asks Brussels to examine Algeria's non-compliance of EU association agreement",
    "link": "https://www.france24.com/en/france/20261113-france-asks-brussels-to-examine-algeria-s-non-compliance-of-eu-association-agreement",
    "source": "France 24",
@@ -997,6 +1227,22 @@
     "European Union"
    ],
    "image": "https://s.france24.com/media/display/04b022ae-df7a-11f1-af78-3f371022a770/w:1024/p:16x9/AP24214729582761.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVmdQWWZrZTFHRjdyektaVW9hcEFnOTc1dnlEVmRsNE5uRHE0RUVaNTN6b1I1WnhlUi1Rc0hScUZHNjhkZnlfMjh6WkphRzJzTUFWa1FrN1VUN3NjSlFjMTZFVVpIckRxVUVza3dvZ3pkVVZuQ1dEOEZQcUlmUnRfUEtmR3BPZ1lXb2t1ai1RUnlRUFJNeFQ1WEpTOUpTR2JMUGNWOVRiWng5OV9VOURoa3BKTVlWbTFlTVZGakdNRnlHT2huNjFkM25B?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T15:51:50+00:00",
+   "summary": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports The Independent",
+   "body": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1021,8 +1267,8 @@
    "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-13T15:49:51+00:00",
-   "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
-   "body": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
+   "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
+   "body": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1082,8 +1328,8 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWVISDJ1NlJRckhTOHRNTWFMcFZkUlBFaWpJUThsenljZlpJdnliSDV4YkFXMDhFOFF0aDZzZ2xrS18wc3BWZFdIR2lncGhjSW55ZERhUURtLUdUZU1LV2xnWXJocXk2ajBSbHMtcjE2S2JFRkRXZlZYLXBQbWVHSjBMZG96Z0ltOTBZeXd5SnpId2U2UndTdXp5RjRSRG50emRER195TlNDNlVNaHRHa3BKNEtqVnctajlTUnYwZG8zaVBEWnJ1ODdXVHhvbGY5?oc=5",
    "source": "Google News",
    "published": "2026-11-13T15:43:00+00:00",
-   "summary": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft blames failed server health checks—not hackers—for global outage Ars Technica Microsoft email outages persist into second day as company scrambles for a fix The Washington Post A n",
-   "body": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft blames failed server health checks—not hackers—for global outage Ars Technica Microsoft email outages persist into second day as company scrambles for a fix The Washington Post A negative Outlook: Microsoft scrambles to fix email outage NPR Hours-long Microsoft outage disrupts businesses, governments globally Reuters",
+   "summary": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft’s Global Outage and Fixes: What We Know The New York Times Was Microsoft hacked? Company says cyberattack not suspected USA Today Microsoft email outages persist into second day as",
+   "body": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft’s Global Outage and Fixes: What We Know The New York Times Was Microsoft hacked? Company says cyberattack not suspected USA Today Microsoft email outages persist into second day as company scrambles for a fix The Washington Post A negative Outlook: Microsoft scrambles to fix email outage NPR",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1128,8 +1374,8 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
    "source": "Google News",
    "published": "2026-11-13T15:40:08+00:00",
-   "summary": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed BBC Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China PBS ‘An intergalactic freak s",
-   "body": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed BBC Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China PBS ‘An intergalactic freak show’: Republicans are piling on Howard Lutnick Yahoo Finance Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN",
+   "summary": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed BBC Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times",
+   "body": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed BBC Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times ‘An intergalactic freak show’: Republicans are piling on Howard Lutnick Yahoo Finance Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China CNBC",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1155,19 +1401,16 @@
    "lang": "en"
   },
   {
-   "title": "Row breaks out between Tories and Reform at Piddington news conference – as it happened",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-13T15:32:36+00:00",
-   "summary": "This blog is now closed, you can read more on this story here Archbishop of Canterbury Sarah Mullally has said “people are seeking meaning, connection and hope in a turbulent world” as new statistics reveal Church of England attendances have grown for the fifth year in a row. The",
-   "body": "This blog is now closed, you can read more on this story here Archbishop of Canterbury Sarah Mullally has said “people are seeking meaning, connection and hope in a turbulent world” as new statistics reveal Church of England attendances have grown for the fifth year in a row. The number of regular attenders to C of E services grew to 1.03m in 2025, a 1.5% increase on the previous year. Whether at morning prayer, a Sunday service, Evensong, a youth hub, a parent and toddler group - or any of the countless ways that the Church of England serves our communities in every parish - it is clear that people are seeking meaning, connection and hope in a turbulent world. Continue reading...",
+   "title": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFFhUzJDc3JrVzgxZkFMYXN2Nzc1Y0ZqSUd3TW1Vd0E3SDhweGMzdUNEOVBoTU9uUktLVFZPRGlRN1ZQU2RIdXg0TzFXRDVoam9JNjREVXRDT1Q4cnpfSmlsUk1qMV8tRTVWVWpvVDlRdnRkVDNSdUNJdFVFMHVwQ2szSF9pZkNBWWRhaEVqb2ptTWsyQ0dZZU5XZVVBbUoxblU3OFNFaWZvQmlaZkxHT0hnazUyeG5QNXc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T15:36:04+00:00",
+   "summary": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury NBC News Murdaugh defense asks judge to toss murder indictments, citing false grand jury evidence WCIV Live: Alex Murdaugh’s defense to question evidence in bid to avoid retrial NewsNation Sumter cl",
+   "body": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury NBC News Murdaugh defense asks judge to toss murder indictments, citing false grand jury evidence WCIV Live: Alex Murdaugh’s defense to question evidence in bid to avoid retrial NewsNation Sumter clerk says court is prepared for Murdaugh retrial as jury safeguards face scrutiny WIS News 10 Live updates: What happened when Murdaugh asked for murder indictment dismissal? The State",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f",
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1201,21 +1444,6 @@
     "China"
    ],
    "image": "https://static.dw.com/image/77733980_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-   "link": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
-   "source": "The Guardian",
-   "published": "2026-11-13T15:27:43+00:00",
-   "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when challenging planning decisions ",
-   "body": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when challenging planning decisions that threaten nature. The Aarhus convention, an environmental treaty that was signed into law by the UK in 2005, guarantees the legal right to participate in democratic processes on environmental matters – such as sewage pollution, new roads or datacentre developments. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4",
    "lang": "en"
   },
   {
@@ -1294,6 +1522,19 @@
    "lang": "en"
   },
   {
+   "title": "Brooklyn building collapse has residents questioning pace of development - Gothamist",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE03ekkzRDNJS2tZVUYxajlHVG5MSzhld1pQOHVYRkc4aDUwNnVNakFIRlh1OFFjdFg1YjVBcGoxSFRlRmY5MFZTNUtWVGdpNVo2RjdWQXR6RlkyVFRyS1pkLU9FMW1YOWEwV0NkeVU2aW1RZUdWbXJQcHVIRFEzNHlUMVZtVVJIS3NwV1EwQW42T3NPeDNiLVNoa1ItWExL?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T15:01:00+00:00",
+   "summary": "Brooklyn building collapse has residents questioning pace of development Gothamist Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In The New York Times Doorbell video captures harrowing moment building collapsed in NYC USA Today With search for victims over",
+   "body": "Brooklyn building collapse has residents questioning pace of development Gothamist Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In The New York Times Doorbell video captures harrowing moment building collapsed in NYC USA Today With search for victims over, NYC officials look to what caused fatal building collapse Gothamist New York Building Collapse Exposes Gentrification Anger In Black Community Barron's",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security - PBS",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcklQeHY5RFN6VTVVS0s4dVRpb1lVemVlMjM5QUZZbGhQYVYwYzdST214SzhOYTBRNjdGTUJ3TjlqS1ctT3JtcHZhS0RmRVhXU1B5djJIbnJLMGhNMGpZMndVNkZja3pSRGpkT0hTemVUaVViMkROVExRazRvbWM5bGdQUTB5TkxXNUlVSllxRDdEeWJ6akxaRi1Eekk0cF9VMktoUXFUZ1NrTExEdnBhR1YzVHNMMTUta1VNZDQxTnhFN00teUHSAcsBQVVfeXFMTmJLVnJxbUNDaTBNMkwtLVp3Zkh3eUo1X0RlNTV1MDMwaXZTVGxxTlFhdkwxU21WRmx3QUg4U0g2b1pNdF9lVUpGREtkXzNfekhxWlNyQWYxNm5rVlZiV0NoRUZ5blhzV2ZRU2hMRmJoRkJjN1RjdTZvZzNkSnJtVXpQaWJtWm1fdy1UR3FJX3JyRWtjaXh5SEwxRUJIZUNkakx1am1NR2Y5Y0hWcTk3eXlEOEJ3QTZnbUdnR25maV9URGZBenppeFNTdUU?oc=5",
    "source": "Google News · Ukraine",
@@ -1311,25 +1552,12 @@
    "lang": "en"
   },
   {
-   "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "source": "The Guardian",
-   "published": "2026-11-13T14:56:42+00:00",
-   "summary": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft ",
-   "body": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. In its latest update, the tech company said it was making progress in its attempts to restore services after a global outage affected millions of users from Thursday evening and into Friday. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
-   "lang": "en"
-  },
-  {
    "title": "ABC announces Sam Hartman is The Bachelor - NBC Sports",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZERMNnNQN0FqMk1yc0hrOU5HZC04ekE1ODZRY2FkVWF1WDNUZUtPNTF5VHlOWkVwc1BJb25wck5ZQjZ1bjktOEhfSDc5V3FQUE55ZnlpQ1NXd1c3cDJUUmZ4N0VXdjUzVGJUYlY2NUkwMXR1OFVvX3JOaS1pWWtXcUczTTB6QVREdGtHODFkOGFQeW1rV2swR2x5M1czQlF1Nm9Rb01B?oc=5",
    "source": "Google News",
    "published": "2026-11-13T14:56:09+00:00",
-   "summary": "ABC announces Sam Hartman is The Bachelor NBC Sports Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season ESPN 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman ABC News - Breaking News, Latest News and Videos 'The Bachelor' star Sam Hartman ",
-   "body": "ABC announces Sam Hartman is The Bachelor NBC Sports Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season ESPN 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman ABC News - Breaking News, Latest News and Videos 'The Bachelor' star Sam Hartman is known as 'most handsome' NFL player Yahoo Sam Hartman announced as next 'Bachelor' for ABC's hit show Washington Commanders",
+   "summary": "ABC announces Sam Hartman is The Bachelor NBC Sports Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season ESPN 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman ABC News - Breaking News, Latest News and Videos ‘Bachelor’’s Star Possibly Spoil",
+   "body": "ABC announces Sam Hartman is The Bachelor NBC Sports Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season ESPN 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman ABC News - Breaking News, Latest News and Videos ‘Bachelor’’s Star Possibly Spoils Brother’s Upcoming Engagement in Live Interview People.com Meet the new ‘Bachelor,’ a quarterback for the Washington Commanders AP News",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1371,18 +1599,15 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security - News-Press NOW",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbDdiU0Z0VHJPbDdoQWE3NWdqSWtOdTNtaGpncGZwTkZGTnFlSERLemhvVHBNUFV5Xy1QM2ViMFR5TlUyZkZJdkcyVmR6UWFyUFVUV3FSam43U3daV3k3TV92QzRuWXk1R0JJXzEtRkx3aDN4MUNJM09PRWljSGJUT1hfX1kyd0E2eGExbU5EY0RHX2RzM1djT09VLXo4UmRmU0lPdGZQMWg4WnRHMXZVd0ljX3BLdnRXemJRVFN5UjZvbVdOV1lRZWlLSFV3NGpiZ0dTdjRhVEhkTFFMVjR4X1UwTkNfUE5HVXFRSElsbkxjb3d6LUd6c1R6dkJwUlVVRzFGSjZB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T14:41:33+00:00",
-   "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security News-Press NOW",
-   "body": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security News-Press NOW",
-   "category": "Ukraine / Russia",
+   "title": "Mauricio Pochettino hired as Manchester United head coach - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDByQkdST2xGQ2ZKbnl3d1J1SEdJcjBmd3dsMGhKeWpra3EtdXQ0M3NCUEhpU3hycEdhMFhJNUdEX09pOW0yUmJDclJfaDFieEhyYTdwMHJJdkVfN0cza2EtT1RyRGFweXJESnhkUk9QWEQyUG5WWUVUUGdXaE5YX0l3LW5seVNBMkFjUTlMUGJMQ3FFRnZzYUFzTmJTOTBsTkRRZ2J6OEE4QQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T14:38:19+00:00",
+   "summary": "Mauricio Pochettino hired as Manchester United head coach - The Athletic The New York Times Tearful Pochettino on USMNT exit: Toughest decision of my career ESPN Why Pochettino’s Move to Manchester United Was Inevitable Bloomberg.com Mauricio Pochettino confirmed as new Man Utd m",
+   "body": "Mauricio Pochettino hired as Manchester United head coach - The Athletic The New York Times Tearful Pochettino on USMNT exit: Toughest decision of my career ESPN Why Pochettino’s Move to Manchester United Was Inevitable Bloomberg.com Mauricio Pochettino confirmed as new Man Utd manager on two-and-a-half year contract BBC Mauricio Pochettino's USMNT farewell was inevitable but it hurts all the same: 'A big thank you from my heart' CBS Sports",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1402,17 +1627,16 @@
    "lang": "en"
   },
   {
-   "title": "Russia Ukraine War - GazetteXtra",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenh2eEZuRjN6cGEyTXlBLVZmbVBoSkRQUFFrY1JWRWNsb1hTTWE2ZWdHYXFBcDJTdmFFMkZCYmJ4VkZ1M0pmQ2hWVHYzcnVvYXl0Vkxzamg3dFJRTGt1ZDU2blh5VUREclhOVkJyN3ZwRUpxNExteF9ibUtnM19oVWpmNm1oREVJTzBlOHk5WHd6WE9NM1NzWXpiZ1NmWGpMOFl4VUhLUE1wUDk2TFpuX1Rn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T14:34:10+00:00",
-   "summary": "Russia Ukraine War GazetteXtra",
-   "body": "Russia Ukraine War GazetteXtra",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T14:29:10+00:00",
+   "summary": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope: Jesus 'knows your story and continues to invite you to walk with Him' Vatican News Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Pope Leo XIV denounces 'machismo' and demands ",
+   "body": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope: Jesus 'knows your story and continues to invite you to walk with Him' Vatican News Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru AP News Pope Leo urges Peruvian youth to reject lie that sin brings happiness OSV News",
+   "category": "Global",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1458,6 +1682,21 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "A night with the interceptors hunting Russian drones through the fog",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZvdFNJTktRZ0E2cXNVN2hIc2tEU2x6dS1KNnUxU0FfdFlPWnEtX3dlQ0pqRDhFT1ptLU1FRVVpdEpFamNfOVpnNTFQUER4dWo0dzlWeThjc2c3YVg2UnZiTWo3cU9XbmVCSEFsTlM0eWdIcWxDQVd1RC10UG16RDVfMzFDNXk1Rm04UGI0VUVpancteXI0SjdjSGlLRGt2OG5ndQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T14:22:51+00:00",
+   "summary": "A night with the interceptors hunting Russian drones through the fog The Times",
+   "body": "A night with the interceptors hunting Russian drones through the fog The Times",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1541,22 +1780,6 @@
    "lang": "en"
   },
   {
-   "title": "Europe, Russia spar over involvement in Ukraine talks - RFI",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjltZUlGUlZlWnpzSDVDV3FuQ21mSlJvanBvQUdQTHd5dy0zaHVkVUc3ckNERVZSUXFtbkFUSEc2YUkyX0lFbGdRWXBYU2hNd05BYzJPdExaUkN6aVc3RDRpNHFGZHQ1UmVXa3JzamN3NDRBbXpmM2twM3puVnBFS0dpVUFlZG1IVlRBa0U1bEFjQ0lrdWRWVldlTTN6UlNTVkdEaA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T14:05:45+00:00",
-   "summary": "Europe, Russia spar over involvement in Ukraine talks RFI",
-   "body": "Europe, Russia spar over involvement in Ukraine talks RFI",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
    "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
    "source": "NYT World",
@@ -1582,6 +1805,19 @@
     "United States"
    ],
    "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Why Apple's HomeView Relies So Heavily On Your iPhone - Engadget",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T14:00:00+00:00",
+   "summary": "Why Apple's HomeView Relies So Heavily On Your iPhone Engadget I tested Apple’s $299 HomeView with my family. The hardware is ready. Siri isn’t. NBC News Apple’s HomeView Makes Up for Late Arrival with Ecosystem Perks: Review Bloomberg.com Apple’s HomeView is my new favorite smar",
+   "body": "Why Apple's HomeView Relies So Heavily On Your iPhone Engadget I tested Apple’s $299 HomeView with my family. The hardware is ready. Siri isn’t. NBC News Apple’s HomeView Makes Up for Late Arrival with Ecosystem Perks: Review Bloomberg.com Apple’s HomeView is my new favorite smart display — but not my daughter’s The Verge Apple HomeView available today Apple",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1664,199 +1900,6 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia scandal: What’s next for the US tech company?",
-   "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T13:36:19+00:00",
-   "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
-   "body": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e9130e-1794173203.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Taylor Swift to perform at CMAs for 1st time in 13 years - Good Morning America",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWVmSnVGM3lqU21KeVJzSF9DdnZkX2lhUklxSWt0UUtIWk9YY1JBWm5QaEZqTXJHenY2T2ZNT0dUTDRIV2tRU2VpclVpZTVGNS1sTHltaWFBTzh1RkU4R2hNVVhrWWluTkNZbVZGRlZZU3ZhS3Q5UEtWVmVzNTRIUmFBd0tHUzgyTTdHUURTMmhWNTU3TTRrdm5IZE9ObVItalJFNdIBqgFBVV95cUxPV2NvV3ozMHpBUmFnYnlIOFBrdWozYWNVMU8tYUZMenM0WXdlMGxtTDdOZ0ZRRUZWdkd3ekpKMW8ycEJqRy1PbDNXV2lmelFvOUh3VzZGWnllYTkxdU15N0VCc21UQ2RzYzlxZXRuSEoxR0RHdHVRVERGUW52OXcyd0VhY2hOWWNWYXNFZkUzb3RZU2RSQW1faXJ0Ulp2eFJzWlgwMFdoNnRHUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T13:32:00+00:00",
-   "summary": "Taylor Swift to perform at CMAs for 1st time in 13 years Good Morning America Taylor Swift to Perform at CMA Awards for First Time in 13 Years Billboard Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth E! News Taylor Swift to Perform at the ",
-   "body": "Taylor Swift to perform at CMAs for 1st time in 13 years Good Morning America Taylor Swift to Perform at CMA Awards for First Time in 13 Years Billboard Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth E! News Taylor Swift to Perform at the 2026 CMA Awards for the First Time in 13 Years People.com Taylor Swift to Perform at the 2026 CMA Awards The Hollywood Reporter",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T13:19:26+00:00",
-   "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-   "body": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794575753.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Paramore's Hayley Williams to bring solo concert tour to Singapore in February 2027",
-   "link": "https://www.channelnewsasia.com/entertainment/hayley-williams-ssolo-concert-singapore-2027-6548481",
-   "source": "CNA World",
-   "published": "2026-11-13T13:16:00+08:00",
-   "summary": "The Paramore frontwoman will perform in Singapore on Feb 26, 2027, as part of The Hayley Williams Show, which focuses on her solo music. The venue, ticket prices and sale dates have yet to be announced.",
-   "body": "The Paramore frontwoman will perform in Singapore on Feb 26, 2027, as part of The Hayley Williams Show, which focuses on her solo music. The venue, ticket prices and sale dates have yet to be announced.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--S18Qg_Fw--/c_crop,h_1049,w_1864,x_18,y_1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/hayley_williams_solo_concert_show1.png?itok=WqFqtAl3",
-   "lang": "en"
-  },
-  {
-   "title": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T13:11:52+00:00",
-   "summary": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician Reuters",
-   "body": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Kenyan building collapse near Nairobi kills six people",
-   "link": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T13:11:24+00:00",
-   "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
-   "body": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T120621Z_1056672438_RC2ZMOAYNZUB_RTRMADP_3_KENYA-ACCIDENT-1794572788.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Delhi overtakes Lahore as world’s most polluted city",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T13:11:08+00:00",
-   "summary": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
-   "body": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "India",
-    "Pakistan"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-delhi-1311-1794575432.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine War, Day 1,723: No Advance in Talks with Russia But Europe to Join Next Round - EA WorldView",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjBqWXNWUk41eHpXYXBZbW5ZS1pzTjFIaDZSQWJxbDc0VGxaZ3IzZktESXkxM1pQRXdZX29fR0JrcVpYQjRLT0VLU0xsRXZkRmpHVlBKcVRkcGZoZ1gwTWM0S29KVHF4eUN0ZWI5dTVkVkkyNUJoOGl4NWJ3V25wemJpR3BRSldVdWdJLTVWcjRPT2RwcXVV?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T13:07:30+00:00",
-   "summary": "Ukraine War, Day 1,723: No Advance in Talks with Russia But Europe to Join Next Round EA WorldView",
-   "body": "Ukraine War, Day 1,723: No Advance in Talks with Russia But Europe to Join Next Round EA WorldView",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips",
-   "link": "https://www.channelnewsasia.com/singapore/man-charged-fraud-nvidia-chips-6548606",
-   "source": "CNA World",
-   "published": "2026-11-13T13:05:00+08:00",
-   "summary": "Shi Bingzhe was handed 41 charges for allegedly consenting to money laundering offences committed by two companies where he was a key officer.",
-   "body": "Shi Bingzhe was handed 41 charges for allegedly consenting to money laundering offences committed by two companies where he was a key officer.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--jAkum78S--/c_crop,h_900,w_1600,x_0,y_143/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=4EzRFnY8",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine’s ‘Colonel Flint’ has developed a devastating mixed tank-drone force",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZElKMG1HSzBZanpzQ1M5Z1RJU1BxajJISTRYZTFCdEVqUWJEdWNXWGh1NVROX1REdWo2ZUtpbHJ1NUc5dWI0dktYTHNOcXliQWFfZ0ZxbUNxQzE2UHBoWjZKWXAzb2RTc2l0b0NoNVlzczl5RGZ4Y3pRUEVrazZUbHF1cnROTFU3N0ZwOWc1dFZmWGtvYnVQNENzMDQ5Zw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T13:03:00+00:00",
-   "summary": "Ukraine’s ‘Colonel Flint’ has developed a devastating mixed tank-drone force The Telegraph",
-   "body": "Ukraine’s ‘Colonel Flint’ has developed a devastating mixed tank-drone force The Telegraph",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Surface Laptop Ultra Review: The Most Powerful Surface Yet, But It Still Lags Behind Apple - Engadget",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JUC1ybUVWUjBxbmFieGkwNEtpbk9FU3J0OC1aQnpMYlpsOTdRN0QwVXJnRWxTX0F1aDJzcHJwakVpdUg5amdENi1PeFFxSmhsRU10S2FVaXJpbXR4MjJtVHFTZFcxQU55ZXFzOU5B?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T13:00:00+00:00",
-   "summary": "Surface Laptop Ultra Review: The Most Powerful Surface Yet, But It Still Lags Behind Apple Engadget Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It PCMag My month with the Surface Laptop Ultra: The future of Windows is exclusive ZDNET I ditched my MacBo",
-   "body": "Surface Laptop Ultra Review: The Most Powerful Surface Yet, But It Still Lags Behind Apple Engadget Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It PCMag My month with the Surface Laptop Ultra: The future of Windows is exclusive ZDNET I ditched my MacBook Pro for Lenovo's Yoga 9n 2-in-1 — here's what happened Tom's Guide Microsoft's $2,599 Surface Laptop Ultra Packs Nvidia's RTX Spark but Still Trails Apple's M5 BigGo Finance",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister - Audacy",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlo5OTZvT1pOMkRvRzNDVW8tUjFqRHMxUXFuX0hjZmFFcXEwdU10djJfdXVjWExBVEI3Y2doQ3FoOWJfX0dmdlVvS19iTnc0RmZva3RQeHdxVjRWRGJhMk5IR196YWQyYkpzNFB6Vlp2OVNmZGtTeF96NzQ3cmdWWC1KU004WnRsMEtaN25DMkNhcVEtcDB3Zm5WakJfdVZMdTlyNWZ2ZzhwNlJ4TEI2XzU0MVpJWGNrOVhELVRRWlVfQWM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T12:58:00+00:00",
-   "summary": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister Audacy",
-   "body": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister Audacy",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-   "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T12:57:08+00:00",
-   "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-   "body": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T101028Z_1944391379_RC2XL8A0RTK9_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE-1794568872.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "ပျောက်စေဆရာတွေကိုပါ ဒေါက်တာဘွဲ့တွေပေးနေတဲ့ခေတ်",
    "link": "https://burma.irrawaddy.com/video/2026/11/13/417618.html",
    "source": "Irrawaddy Burmese",
@@ -1868,63 +1911,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Dr-Yanku-Nov-13-Cover-1-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "You haven’t got mail: Global Microsoft outage disrupts services",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T12:40:11+00:00",
-   "summary": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
-   "body": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794573560.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Mauricio Pochettino announced as new Manchester United manager",
-   "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T12:39:34+00:00",
-   "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-   "body": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af705d4-1794573780.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "The scourge of femicide in Mexico: Impunity reigns in state of Morelos",
-   "link": "https://www.france24.com/en/tv-shows/focus/20261113-the-scourge-of-femicide-in-mexico-impunity-reigns-in-state-of-morelos",
-   "source": "France 24",
-   "published": "2026-11-13T12:38:35+00:00",
-   "summary": "When Claudia Sheinbaum became Mexico's first female president in 2024, she pledged to tackle violence against women. And while femicides have fallen since she took office, the numbers remain alarming, with around 520 murders so far this year. In the small state of Morelos, just o",
-   "body": "When Claudia Sheinbaum became Mexico's first female president in 2024, she pledged to tackle violence against women. And while femicides have fallen since she took office, the numbers remain alarming, with around 520 murders so far this year. In the small state of Morelos, just outside the capital Mexico City, four female students have been murdered since January, including a Spanish woman on an exchange programme. The state has one of the highest femicide rates in the country.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/fd222762-deb1-11f1-a6ae-f71d22e7fea9/w:1024/p:16x9/EN-NW-OOV-FREEZE-MEXICO-FEMICIDES-BAIN-Lauren.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
-   "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-   "source": "NYT World",
-   "published": "2026-11-13T12:33:19+00:00",
-   "summary": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.",
-   "body": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
-   "lang": "en"
   },
   {
    "title": "KNU၊ KNPP နဲ့ အာဏာသိမ်းစစ်တပ် ဆွေးနွေးရေး ဖြစ်လာနိုင်သလား",
@@ -2191,22 +2177,6 @@
     "Myanmar"
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/MoUlabor12Nov26feat-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "စစ်တပ်ရဲ့ အမေရိကန်အကြိုက် မြေရှားကမ်းလှမ်းချက်နဲ့ တရုတ်ရဲ့စည်း ၃စည်း",
-   "link": "https://myanmar-now.org/mm/news/82204/",
-   "source": "Myanmar Now Burmese",
-   "published": "2026-11-12T05:45:30+00:00",
-   "summary": "ဗိုလ်မင်းအောင်လှိုင်နဲ့ သူ့လော်ဘီတွေက အမေရိကန်အစိုးရကို မြေရှားသတ္တုနဲ့ စျေးခေါ် ချဥ်းကပ်လာတာက တရုတ်နဲ့ ထိပ်တိုက်တွေ့နိုင်ပြီး တော်လှန်ရေးအင်အားစုတွေအတွက်တော့ အခွင့်အလမ်း ဖြစ်လာနိုင်ပါတယ်။",
-   "body": "ဗိုလ်မင်းအောင်လှိုင်နဲ့ သူ့လော်ဘီတွေက အမေရိကန်အစိုးရကို မြေရှားသတ္တုနဲ့ စျေးခေါ် ချဥ်းကပ်လာတာက တရုတ်နဲ့ ထိပ်တိုက်တွေ့နိုင်ပြီး တော်လှန်ရေးအင်အားစုတွေအတွက်တော့ အခွင့်အလမ်း ဖြစ်လာနိုင်ပါတယ်။",
-   "category": "Asia-Pacific",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/1-1024x766.jpeg",
    "lang": "my"
   }
  ]
