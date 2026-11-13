@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T10:38:50.822736+00:00",
- "updated_yangon": "2026-11-13 17:08",
+ "updated": "2026-11-13T11:38:55.255277+00:00",
+ "updated_yangon": "2026-11-13 18:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -13,6 +13,7 @@
   "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now",
   "Myanmar Now Burmese",
@@ -27,42 +28,38 @@
   ],
   [
    "Ukraine",
-   26
-  ],
-  [
-   "Russia",
    24
   ],
   [
-   "Myanmar",
-   14
+   "Russia",
+   21
   ],
   [
    "China",
-   14
+   13
+  ],
+  [
+   "Myanmar",
+   12
   ],
   [
    "France",
-   9
+   11
   ],
   [
    "Iran",
    7
   ],
   [
-   "Israel",
-   6
-  ],
-  [
-   "Palestine",
-   5
-  ],
-  [
-   "United Kingdom",
-   5
-  ],
-  [
    "India",
+   4
+  ],
+  [
+   "Israel",
+   4
+  ],
+  [
+   "European Union",
    3
   ],
   [
@@ -70,11 +67,15 @@
    3
   ],
   [
-   "European Union",
-   2
+   "Palestine",
+   3
   ],
   [
-   "Taiwan",
+   "United Kingdom",
+   3
+  ],
+  [
+   "NATO",
    2
   ],
   [
@@ -82,7 +83,15 @@
    2
   ],
   [
+   "Taiwan",
+   2
+  ],
+  [
    "Turkey",
+   1
+  ],
+  [
+   "North Korea",
    1
   ],
   [
@@ -91,10 +100,6 @@
   ],
   [
    "Japan",
-   1
-  ],
-  [
-   "Lebanon",
    1
   ]
  ],
@@ -109,12 +114,51 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 28,
+ "war_count": 27,
  "languages": {
-  "my": 24,
-  "en": 116
+  "my": 25,
+  "en": 115
  },
  "items": [
+  {
+   "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
+   "link": "https://www.channelnewsasia.com/singapore/meet-meteorologist-tasked-predicting-singapore-haze-6538861",
+   "source": "CNA World",
+   "published": "2026-11-13T19:07:57+08:00",
+   "summary": "Executive meteorologist Gabriel Lim at the National Environment Agency shares the pressures of forecasting haze and how the job has taught him to embrace uncertainty.",
+   "body": "Executive meteorologist Gabriel Lim at the National Environment Agency shares the pressures of forecasting haze and how the job has taught him to embrace uncertainty.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--MGuwbTcV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/10/gabriel_lim_with_beatrice_yap_2.png?itok=kHRL5mOS",
+   "lang": "en"
+  },
+  {
+   "title": "Fraudulent claims taken seriously after video shows alleged misuse of Return Right machine: BCRS operator",
+   "link": "https://www.channelnewsasia.com/singapore/fraud-claims-after-video-man-allegedly-misuse-bcrs-machine-6549181",
+   "source": "CNA World",
+   "published": "2026-11-13T18:55:00+08:00",
+   "summary": "BCRS Ltd said that as the scheme’s operator, its priority is to ensure the system functions “reliably and fairly for everyone”.",
+   "body": "BCRS Ltd said that as the scheme’s operator, its priority is to ensure the system functions “reliably and fairly for everyone”.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--QsT0-ZOA--/c_crop,h_759,w_1350,x_0,y_32/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/2_panel_composite_29.png?itok=jdw_TMs8",
+   "lang": "en"
+  },
+  {
+   "title": "'Microsoft-sponsored holiday': Singapore workers scramble to cope with global outage",
+   "link": "https://www.channelnewsasia.com/singapore/microsoft-outage-singapore-impact-workers-government-students-6548921",
+   "source": "CNA World",
+   "published": "2026-11-13T18:43:00+08:00",
+   "summary": "Workers turn to alternative communication channels or put tasks on hold, while students face disruptions to exam preparations as a global Microsoft outage stretches beyond 12 hours.",
+   "body": "Workers turn to alternative communication channels or put tasks on hold, while students face disruptions to exam preparations as a global Microsoft outage stretches beyond 12 hours.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--wXzV76xi--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/000_d7cu7t4.jpg?itok=MGceGeCK",
+   "lang": "en"
+  },
   {
    "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
    "link": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
@@ -207,23 +251,10 @@
    "lang": "en"
   },
   {
-   "title": "Woman who conspired to abuse 4-year-old Megan Khung, helped dispose of her body given 13 years’ jail",
-   "link": "https://www.channelnewsasia.com/singapore/nouvelle-chua-jail-megan-khung-high-court-6545786",
-   "source": "CNA World",
-   "published": "2026-11-13T10:51:00+08:00",
-   "summary": "Nouvelle Chua Ruoshi was friends with Megan’s mother and her boyfriend, who subjected the child to repeated abuse from 2019 to 2020.",
-   "body": "Nouvelle Chua Ruoshi was friends with Megan’s mother and her boyfriend, who subjected the child to repeated abuse from 2019 to 2020.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--cL5Gjykb--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/copy_of_54_hero_image_composites_35.png?itok=sENKubOc",
-   "lang": "en"
-  },
-  {
    "title": "KNU၊ KNPP နဲ့ နေပြည်တော်ကြား ဆွေးနွေးပွဲဖြစ်လာရေး ထိုင်း ကူညီမယ်",
    "link": "https://www.bbc.co.uk/burmese/live/c6zjr9ne0jget?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-13T10:39:04+00:00",
+   "published": "2026-11-13T11:38:39+00:00",
    "summary": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -238,7 +269,7 @@
    "title": "ရေနံမှော်တွေရှိတဲ့မြိုင်နဲ့ ပေါက်မှာ KTV မဖွင့်ဖို့ PDF သတိပေး",
    "link": "https://www.bbc.co.uk/burmese/live/cmy5x42knzz6t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-13T10:39:04+00:00",
+   "published": "2026-11-13T11:38:39+00:00",
    "summary": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ပါရီငြိမ်းချမ်းရေးဖိုရမ်မှာ ရိုဟင်ဂျာအရေး တရားမျှတမှုက အခြေခံမူကိစ္စလို့ ဒေါ်ဇင်မာအောင်ပြောတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၂ ရက် ကမ္ဘာနဲ့မြန်မာ ထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -248,6 +279,419 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb3c/live/914f96a0-de9d-11f1-9afe-1f03bfe02283.jpg",
    "lang": "my"
+  },
+  {
+   "title": "ချင်း- မကွေးနယ်စပ် ဆက်တိုက်ဗုံးကြဲမှုကြောင့် အမျိုးသား ၂ ဦးသေဆုံး",
+   "link": "https://myanmar-now.org/mm/news/82222/",
+   "source": "Myanmar Now Burmese",
+   "published": "2026-11-13T11:27:23+00:00",
+   "summary": "မြေပြင်စစ်ရေးတင်းမာနေသည့် ချင်းပြည်နယ် တောင်ပိုင်းနှင့် မကွေးတိုင်း ယောနယ်အစပ်ကို ယမန်နေ့ညပိုင်းကစ၍ ဆက်တိုက်ဗုံးကြဲမှုကြောင့် အမျိုးသားနှစ်ဦး သေဆုံးပြီး ကလေးနှစ်ဦး အပါအဝင် အရပ်သားသုံးဦးထိခိုက်ဒဏ်ရာ ရရှိခဲ့သည်။",
+   "body": "မြေပြင်စစ်ရေးတင်းမာနေသည့် ချင်းပြည်နယ် တောင်ပိုင်းနှင့် မကွေးတိုင်း ယောနယ်အစပ်ကို ယမန်နေ့ညပိုင်းကစ၍ ဆက်တိုက်ဗုံးကြဲမှုကြောင့် အမျိုးသားနှစ်ဦး သေဆုံးပြီး ကလေးနှစ်ဦး အပါအဝင် အရပ်သားသုံးဦးထိခိုက်ဒဏ်ရာ ရရှိခဲ့သည်။",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/Mindat-AS-10-1024x768.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2NoaUhnWjZpUXBoVWJSa0VvcUx6LVg1dHhQWEpHRzJGdmlsdzJ5YXJPZGNIQXVUNXd1Ty02RnNvUzlmamI5bnRLc2RET2R5Nnk3T2JlTm8weWhHWUlacC14M0ZlcmtOTm1tZ3ZuS3V4MXNDV3A3ZENhWGVZTlZFTElIeHlScDlmUXdWNXNRWk4tZ1NMZmhvbzFwbHFhMVBMdVRXcWZJZDY?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T11:25:13+00:00",
+   "summary": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice WRAL",
+   "body": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice WRAL",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Live: Microsoft struggles to restore services as outage hits global users",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T11:18:01+00:00",
+   "summary": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+   "body": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6f17258af-1794568562.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Man charged after seven women sexually assaulted in 30 minutes on UK campus",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university",
+   "source": "The Guardian",
+   "published": "2026-11-13T11:17:35+00:00",
+   "summary": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’ A 29-year-old man has been charged after seven women reported being sexually assaulted on the Huddersfield University campus over a 30 minute period. West Yorkshire police said",
+   "body": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’ A 29-year-old man has been charged after seven women reported being sexually assaulted on the Huddersfield University campus over a 30 minute period. West Yorkshire police said Sophan Akbash had been charged with nine counts of sexual assault and would appear at Leeds magistrates court on Friday. Security staff called officers to Huddersfield University on Tuesday evening after reports of a man approaching and sexually touching women on and near the campus, police said. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/80b08cb463150f8c38e5fb011a3a40f573e008be/1099_0_5371_4297/master/5371.jpg?width=140&quality=85&auto=format&fit=max&s=ea57852a9153990c9ca7c3d6e1bb6249",
+   "lang": "en"
+  },
+  {
+   "title": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2VxXzZaaUhSSldhbG9lVDA0Vi1rTkY4Rzh1cXhLU3lMY3FsRmNaSHNHLXhvSFZIaUhIbjk2c01JQkMydE5ZSnE1WFdXaVc3NVctOTBLLXdTVXpJaXRGdko2MTFhX2JDaG5kVDlTVUxhaUhGUkJjN1l6RHQtM1VDSmQzNEQyVlFNV0E?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T11:17:00+00:00",
+   "summary": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools CNN A negative Outlook: Microsoft scrambles to fix email outage NPR Microsoft 365 Outage Extends Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft outage hits hospit",
+   "body": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools CNN A negative Outlook: Microsoft scrambles to fix email outage NPR Microsoft 365 Outage Extends Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft outage hits hospitals, GPs, schools and police across UK The Guardian Microsoft outage effects public bodies across Northern Ireland BBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-13T11:12:22+00:00",
+   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of",
+   "body": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=ec4243ee74c1d4d50a59fa15af29f3d6",
+   "lang": "en"
+  },
+  {
+   "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "source": "The Guardian",
+   "published": "2026-11-13T11:09:22+00:00",
+   "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Good morning, and welcome to the US politics live blog. Barely a week after sweeping to a stunning midterm victory, Democrats have found themselves ",
+   "body": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Good morning, and welcome to the US politics live blog. Barely a week after sweeping to a stunning midterm victory, Democrats have found themselves facing an altogether different battle, one within their own ranks. We saw a huge outburst of democracy on election day – red states, blue states, purple states – and it wasn’t only a rejection of Donald Trump and his corruption, his wars and his cruelty, it was also about a call for a larger change, to take on a broken economic system that’s rigged in favour of the very wealthy against working people, and it’s fuelled by a corrupt political system. The call was to reject the status quo and to reject business as usual, and to do that, I think we need new leadership.” The American public spoke clearly last week. They rejected Trumpism. But we have yet to earn our mandate. That will require bold leadership. I called [Van Hollen] to lead our caucus as a candidate back in April because he leads with courage and experience. We need both right now.” Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - WV News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNem1vb3YyN2lZMXo2azlOWGo5dndwNzEyNmM0ZVlQaHNXUVphd2RKc3VhREs0YlM2d3NfV0dXQkozZ0xjbEZvRWRJQV9jc190NHJfRWF4RmhObkNEdEhxZ3l4Z2FpRWxDVnNlTVRFdHdwVVVBX0ZXaFJHLUJDVUx4WmdVYmQ1VWxxVjVsMmxOYUFYdkhMWWNVekdrZURZbG1meUJ4LUxvVQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T11:04:56+00:00",
+   "summary": "Russia Ukraine War WV News",
+   "body": "Russia Ukraine War WV News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Kushner says Ukraine and Russia are preparing what could be the war’s largest prisoner swap - Meduza",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHVoNTJjSHdiMFU3eGZ1d0tZamVMWHZ2TjJZcWtNQVBzdkp1VTZaUlNoSHBKd0V1bEpvMFhpQTdNY1g5ejdEaFBIMHEycDR2cm8zVWEyaHdkVzBfVEZHTUlTRUhFcF9RdWZqckJSUEpnZ2QxWkNGZXJXZG5Zd19QZ1dUa1I4S0ltenltR3FBWHVJUC05Rjl2bGR4cHFLZFF3ZE5aRHhGVGtDaXhaRDQ1MEkwYjIwN0I0Z0p6eTJVcm1YQnNtNkhJ0gHMAUFVX3lxTE5GX1pOUHB2TEZmV3dnY0xidWFCTUh4MVJsc0JNRnlBNi1YbjRuT2JlMmFLOTFlQnlCWnlSYlMxM3NzcU0zZUhMbExLbHd0SVhsV0dzeVVYX2podElyanpKaU5qX0Fhc2xIdW5PbFRYbEZTQ2kxdTZQX3R6VFYyOWptdnUySC1WaVZSNGNBbDBBekUwSDFRWTRsMFQ0a3NXdlZwTVNmcXpYa3hsOXdNeE9QdngxRnU4Ny15Qk5CY1QwTVRBYnB6akJWekx5bA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T11:04:00+00:00",
+   "summary": "Kushner says Ukraine and Russia are preparing what could be the war’s largest prisoner swap Meduza",
+   "body": "Kushner says Ukraine and Russia are preparing what could be the war’s largest prisoner swap Meduza",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Germany's Nmecha won't repeat controversial goal celebration",
+   "link": "https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-13T11:04:00+00:00",
+   "summary": "Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.",
+   "body": "Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/79547972_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXNPR2QwZ1MzeDFkd3QtbE1WbmdOZklGc0M4OHVoMEk3elVSVUE2cmNJOTc4cGVUb1VycEVDci1UemNWRU5mNFV0Y0MyWVJWNlpTZFBxaF9kQW5OYVNsblFUSVhLY2xvdFB5eUwtRm4wOXMybmdsWHozNks1c1Q2OTlNUUFNMUhhdEtNbTRZNGVoTm1uMHEzUUpJZWw4aXlGOXZROUVaNE5wZ9IBrwFBVV95cUxObjd4NFVvcEo0dkgwRS00bzRxZm9CaXBYQkR3dzUzV3N6UVRFRUthSkZDdHhtWjJRQTh5M3lnRVZxVnRZRjNpVTZ3Wl9nNjhNVW52WUNRZzlyc05mQ0JpYWlVaEl2ZVRFN0JoUnppNTBrbmZKV1lnY0FEWVBkQ2F6MUh2MmVlMlkzZjNDYkFhaU1EdWdsdktrV3R5VUVxcDQ2cVdtNk9oc3B4VUkwMjR3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T11:03:45+00:00",
+   "summary": "Europe pushes for seat at Ukraine peace talks but lacks unified voice ABC News - Breaking News, Latest News and Videos",
+   "body": "Europe pushes for seat at Ukraine peace talks but lacks unified voice ABC News - Breaking News, Latest News and Videos",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice - Newsday",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG1TcUktamhkclVuNDdNUFhnQkNraERRc244VnJaUHE5aDVSUlBhNjZwYXMzRFdFS01Wc2NFLUlQaDlPZHVIZEEwMC05SzF6cFI3dWF4M2hEUFFoM3hMZjhlQkVuQUlSYWUyeVo2emE2S3U1dHNtTi16MHRucU1lWDdheFI2Zw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T11:01:02+00:00",
+   "summary": "Europe pushes for seat at Ukraine peace talks but lacks unified voice Newsday",
+   "body": "Europe pushes for seat at Ukraine peace talks but lacks unified voice Newsday",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+   "link": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+   "source": "France 24",
+   "published": "2026-11-13T10:59:10+00:00",
+   "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almost five years of war. In a packed day of ",
+   "body": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almost five years of war. In a packed day of shuttle diplomacy following negotiations in Abu Dhabi, Kushner and fellow envoy Steve Witkoff held over four hours of talks with Putin in the Kremlin before jetting to debrief Zelensky in Dublin.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/da448e3a-df4f-11f1-9d2a-f71d22e7fea9/w:1024/p:16x9/capture-4c0c2d8a.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T10:57:20+00:00",
+   "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
+   "body": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-13T10:56:24+00:00",
+   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emer",
+   "body": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emerged on Thursday that Angela Rayner, the housing and communities secretary, has approved full planning permission , a decision welcomed by the Home Office, who want to end the use of asylum hotels. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316",
+   "lang": "en"
+  },
+  {
+   "title": "Fallout from Nvidia scandal spreads as Huang resigns",
+   "link": "https://www.france24.com/en/video/20261113-fallout-from-nvidia-scandal-spreads-as-huang-resigns",
+   "source": "France 24",
+   "published": "2026-11-13T10:56:22+00:00",
+   "summary": "Jensen Huang resigned as chief executive of Nvidia on Thursday after revelations of extramarital affairs, including one with a woman accused of spying for China. The news wiped 4.3% of Nvidia’s share price by closing bell Thursday, while the scandal has also raised concerns over ",
+   "body": "Jensen Huang resigned as chief executive of Nvidia on Thursday after revelations of extramarital affairs, including one with a woman accused of spying for China. The news wiped 4.3% of Nvidia’s share price by closing bell Thursday, while the scandal has also raised concerns over security in the United States, with the spotlight falling on US Commerce Secretary Howard Lutnick.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://s.france24.com/media/display/5a234d8a-df50-11f1-ad30-29048b396e03/w:1024/p:16x9/EN-20261113-110827-111017-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Peruvians flock to see Pope Leo XIV in city he served as bishop",
+   "link": "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop",
+   "source": "France 24",
+   "published": "2026-11-13T10:55:09+00:00",
+   "summary": "Crowds in Peru's northern city of Chiclayo gathered early on Friday, November 13, ​ahead of ‌Pope Leo's arrival for the centerpiece event of his 12-day South America tour, an outdoor ⁠Mass with the people who called him their bishop for eight years. He declared on November 11 tha",
+   "body": "Crowds in Peru's northern city of Chiclayo gathered early on Friday, November 13, ​ahead of ‌Pope Leo's arrival for the centerpiece event of his 12-day South America tour, an outdoor ⁠Mass with the people who called him their bishop for eight years. He declared on November 11 that the country where he served as a missionary for about 20 years was his homeland.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/662d1666-df4f-11f1-9644-5f54d898a954/w:1024/p:16x9/capture-68eec3bc.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-13T10:54:25+00:00",
+   "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
+   "body": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567001.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft faces a major Outlook outage: ‘no signs of a cyberattack’",
+   "link": "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
+   "source": "France 24",
+   "published": "2026-11-13T10:53:41+00:00",
+   "summary": "Microsoft said \"malicious\" activity was not to blame for an Outlook outage that left users around the world without its crucial services on Friday, November 13, but reported making headway in fixing the massive disruption. Businesses, governments and likely millions of individual",
+   "body": "Microsoft said \"malicious\" activity was not to blame for an Outlook outage that left users around the world without its crucial services on Friday, November 13, but reported making headway in fixing the massive disruption. Businesses, governments and likely millions of individuals have been without services like Outlook email for over half a day, triggering wide-ranging consequences.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/7c263c00-df4e-11f1-af3b-3f371022a770/w:1024/p:16x9/capture-748626c0.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What we know about the global Microsoft outage",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-13T10:53:40+00:00",
+   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "body": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "France remembers victims of 2015 Paris terror attacks",
+   "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
+   "source": "France 24",
+   "published": "2026-11-13T10:52:36+00:00",
+   "summary": "France on Friday marks 11 years since the 2015 Paris terror attacks, in which more than 130 were killed as gunmen and suicide bombers attacked the Bataclan concert hall, a major stadium, restaurants and bars. France 24’s James André reports from outside the Bataclan where a tribu",
+   "body": "France on Friday marks 11 years since the 2015 Paris terror attacks, in which more than 130 were killed as gunmen and suicide bombers attacked the Bataclan concert hall, a major stadium, restaurants and bars. France 24’s James André reports from outside the Bataclan where a tribute to the victims is being held.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/2af55fc6-df50-11f1-abf9-5f54d898a954/w:1024/p:16x9/capture-1ea298a8.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Woman who conspired to abuse 4-year-old Megan Khung, helped dispose of her body given 13 years’ jail",
+   "link": "https://www.channelnewsasia.com/singapore/nouvelle-chua-jail-megan-khung-high-court-6545786",
+   "source": "CNA World",
+   "published": "2026-11-13T10:51:00+08:00",
+   "summary": "Nouvelle Chua Ruoshi was friends with Megan’s mother and her boyfriend, who subjected the child to repeated abuse from 2019 to 2020.",
+   "body": "Nouvelle Chua Ruoshi was friends with Megan’s mother and her boyfriend, who subjected the child to repeated abuse from 2019 to 2020.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--cL5Gjykb--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/copy_of_54_hero_image_composites_35.png?itok=sENKubOc",
+   "lang": "en"
+  },
+  {
+   "title": "Russian attacks kill 9, injure 61 across Ukraine over past day, spark fire at Kyiv hospital - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0doV1NsN0dMYWlOVVNoUkZvRWZjeGgya2NuaHJSVXpzd3JQZzJrNW1zSXhLdlBvNGZkZVh1S1BrXy1UREU3a1ZkQUY3N0M4TTB5YlFMSFdTYUJEbllRS1U2dldYQjM0ZkVQSmJ0V3pXaUo1R0xvX2k5RDlQamZERTFuem1wblNNX0lxWmxLeTJsNnF5aThaYlB4WUt1ZHFRRl94bHJrNFJOLUc0MHpPcW1xbC1tR3Jva1E?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T10:48:39+00:00",
+   "summary": "Russian attacks kill 9, injure 61 across Ukraine over past day, spark fire at Kyiv hospital The Kyiv Independent",
+   "body": "Russian attacks kill 9, injure 61 across Ukraine over past day, spark fire at Kyiv hospital The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+   "source": "The Guardian",
+   "published": "2026-11-13T10:47:54+00:00",
+   "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into",
+   "body": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emerged on Thursday that Angela Rayner, the housing and communities secretary, had approved full planning permission , a decision welcomed by the Home Office, who want to end the use of asylum hotels. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://i.guim.co.uk/img/media/c06718debdca7ff78851cb74ac0be786981aebe3/777_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=637b882b734e98ba0b39f21011659544",
+   "lang": "en"
+  },
+  {
+   "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+   "source": "The Guardian",
+   "published": "2026-11-13T10:45:48+00:00",
+   "summary": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a significant jail term",
+   "body": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a significant jail term after a jury found him guilty of raping a 13-year-old boy. The former MP Rory Amon was found guilty by a jury, after about four hours of deliberation on Friday, of one count of sexual intercourse with a person aged between 10 and 14 and indecently assaulting a child. Support for anyone affected by the subject matter of this report is available at Full Stop Australia (1800 385 578). Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d4c40932b33c6886f4f157bb1f96a159b2933a0e/396_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=8c227652cfa8d8c9dd7776ccb20baede",
+   "lang": "en"
+  },
+  {
+   "title": "စစ်တောင်းမြစ်အရှေ့ခြမ်းတွင် တော်လှန်ရေးစခန်းများကျပြီးနောက် တိုက်ပွဲဆက်ပြင်းထန်",
+   "link": "https://myanmar-now.org/mm/news/82216/",
+   "source": "Myanmar Now Burmese",
+   "published": "2026-11-13T10:44:26+00:00",
+   "summary": "စစ်တောင်းမြစ်အရှေ့ဘက်ခြမ်း မွန်ပြည်နယ်ကျိုက်ထိုမြို့နယ်နှင့် ပဲခူးတိုင်း ရွှေကျင်မြို့နယ်တို့ ထိစပ်ရာ နယ်မြေရှိ တော်လှန်ရေးလှုပ်ရှားနယ်မြေများအတွင်း စစ်တပ်က ထိုးဖောက်ဝင်ရောက်လာခြင်းကြောင့် KNU၊ PDF ပူးပေါင်းတပ်များက တုံ့ပြန်တိုက်ခိုက်နေ၍ ဒေသတွင်း စစ်ရေးပြင်းထန်နေသည်။",
+   "body": "စစ်တောင်းမြစ်အရှေ့ဘက်ခြမ်း မွန်ပြည်နယ်ကျိုက်ထိုမြို့နယ်နှင့် ပဲခူးတိုင်း ရွှေကျင်မြို့နယ်တို့ ထိစပ်ရာ နယ်မြေရှိ တော်လှန်ရေးလှုပ်ရှားနယ်မြေများအတွင်း စစ်တပ်က ထိုးဖောက်ဝင်ရောက်လာခြင်းကြောင့် KNU၊ PDF ပူးပေါင်းတပ်များက တုံ့ပြန်တိုက်ခိုက်နေ၍ ဒေသတွင်း စစ်ရေးပြင်းထန်နေသည်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/AFP__20210507__99G7HD__v1__HighRes__MyanmarPoliticsMilitary-1024x625.jpeg",
+   "lang": "my"
+  },
+  {
+   "title": "Russian Troops Try to Cross Ukraine’s Drone Kill Zone on Scooters—But the Drones Are Faster - UNITED24 Media",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMWc0ZGUwV1hHOGVHYlgyWVRVNkNVZ19ZR2lVRXJ3OTFhUmpaemJGanhZQmpTNHc5a29XUjF1TGxldG5CeW1wUXQtTGk1eXM1d29hcXc4NWE4X25tY0hqN3ROX0l2NVdMcHUyWHdHeXhZYkdCWm5VZXRwSnJiSXkzQkVoNGVlU001OFAzNVlvRERvd3RxUTdiOUx2MjZTSUpxNnZMT053dDNEX2dIeHd2WGpLOFIxRTNRNWJiNW1pSTJRQkRjZFZnZWphT0s3dFlrb19F?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T10:37:46+00:00",
+   "summary": "Russian Troops Try to Cross Ukraine’s Drone Kill Zone on Scooters—But the Drones Are Faster UNITED24 Media",
+   "body": "Russian Troops Try to Cross Ukraine’s Drone Kill Zone on Scooters—But the Drones Are Faster UNITED24 Media",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Stock futures tick higher as Wall Street heads for winning week despite Nvidia woes: Live updates",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T10:29:05+00:00",
+   "summary": "Stock futures tick higher as Wall Street heads for winning week despite Nvidia woes: Live updates CNBC Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know CNBC Stock market today: Dow, S&P 500, Nasdaq futures waver as Nvidia tumult deepens Yahoo Finan",
+   "body": "Stock futures tick higher as Wall Street heads for winning week despite Nvidia woes: Live updates CNBC Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know CNBC Stock market today: Dow, S&P 500, Nasdaq futures waver as Nvidia tumult deepens Yahoo Finance World shares log modest losses as investors assess impact on AI sector from the Nvidia scandal AP News Nvidia's stock falls after CEO Jensen Huang’s resignation — live updates MarketWatch",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Guinea opens illegal gold mining trial, 1,200 people arrested",
@@ -263,12 +707,12 @@
    "lang": "en"
   },
   {
-   "title": "'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
+   "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
    "source": "France 24",
    "published": "2026-11-13T10:28:30+00:00",
-   "summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was “not possible\". Finally, he confirmed that Ir",
-   "body": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was “not possible\". Finally, he confirmed that Iraqi oil now is now flowing through the Strait of Hormuz under US protection.",
+   "summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was \"not possible\". Finally, he confirmed that Ir",
+   "body": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was \"not possible\". Finally, he confirmed that Iraqi oil now is now flowing through the Strait of Hormuz under US protection.",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -476,22 +920,6 @@
    "lang": "en"
   },
   {
-   "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T10:11:00+00:00",
-   "summary": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say CNN Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Gu",
-   "body": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say CNN Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say The New York Times IDF targets top Hamas commander in strike on south Gaza hospital; 6 said killed The Times of Israel",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice - The Boston Globe",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRUtkMjR4Njg5Zm92UGpmbjlWejJoNWp3eVVyTklEczNoNDFnYXFFRkR2QllfSTJXajl1aHU5ajByVXNMbWoxeUc4UWYyRmFmWU5UOE5Ucks5eTBuU3hNTjk1Q0JnOG9rMEV4Y0xWbXg5TnhMR0d4NmhpYWw?oc=5",
    "source": "Google News · Ukraine",
@@ -504,71 +932,6 @@
     "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWRQaTFiaHJQbmJTVnR0UzAzMjRHZzVERERkWHJyMENySEQtMU5iUnVnZlJhSk0yeWpGMURCZExJaThQUW12aXFoekxGX1ZnbXI1VGdYNmNIY0ZqazRhcmFTNEpPVU9Janl5aWRJT09VX0k4bTBjUEhEbnQ2NXQxTjNaR2ZKUjZlN1V1bW9XNHBKcjZ0b1p1bWxELWE4SUZlSGpyY3RNVFlFZWpnTV92enZZNE51Smh3UHJTN2NfcmNUOEhsY3N1LXZTTWw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T10:08:41+00:00",
-   "summary": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice The Washington Post",
-   "body": "Europe pushes for seat at Ukraine peace talks​‌ but lacks unified voice The Washington Post",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Exiled Kyiv political aide hospitalised after second car bomb blast",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanJCbm5BaWV5b25qaVZFZ2NGYTNBaWxjMFlIRW1Lbk94OVFqdUxXZ0Y1VldVVU11SEI0WjYyMnZVSDlvUXRmSUhTd015enJWV2Z1WlJPbGRaZU4xRjJTcE96WjVOaHZSZTh5dk1ILTJ1ck1RQWVhWVEzTWpHbl85V0Vqa2xSNWI3Q1U2bWtaZ0FNLXU0RHZoQXIzeDJ5dDhEdGF2aktFdkhDdFloTDcteUtB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T10:07:29+00:00",
-   "summary": "Ukraine war live: Exiled Kyiv political aide hospitalised after second car bomb blast The Independent",
-   "body": "Ukraine war live: Exiled Kyiv political aide hospitalised after second car bomb blast The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-13T10:07:18+00:00",
-   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries EU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia’s proposed sequence of talks on Ukraine, saying it would allow Moscow to “divert the attention away” ",
-   "body": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries EU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia’s proposed sequence of talks on Ukraine, saying it would allow Moscow to “divert the attention away” from its actions and ultimately leave Europe “in a worse place.” She welcomed the US side “finally admitting what I said already one and a half years ago – that for any deal between Russia and Ukraine … you also need the Europeans.” “I hope that we are just not at the table, but we are actually also really influencing the outcome of these negotiations.” “The most important is that we keep to our agreement that first the ceasefire, then peace agreement and then any kind of other talks … when Russia is still presenting their maximum demands, then we should also stick to the maximum demands and start to negotiate from there. … “If we walk into that trap that we start to discuss … the European security architecture, then I don’t think we are in a better place. We are actually in worse place.” “Let’s focus on what it is at hand. We have one aggressor and one victim. The aggressor does not have security concerns, as nobody has ever attacked them. They have attacked others. I mean, keep the focus, people.” “I know that the Russians don’t want me, but do we have a say on who is representing Russia? No, we don’t.” “Well, we have institutions in place, so we can’t just send any person that has no institutional role like the Americans are sending. Clearly, we should not copy the same patterns.” “They don’t want [anyone] strong on the other side because they want to push their through their maximum demands, like they have always done. Because … their tactics is very clear: at first you present threats and ultimatums, you use force, and then you will just wait, because there will always be people in the west who will offer you something you didn’t have before. And every time you go further. So, of course, if you negotiate with anybody, you want the other side to be as weak as possible so that you can get what you want.” Continue reading...",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9",
-   "lang": "en"
-  },
-  {
-   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-13T10:05:57+00:00",
-   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Hello and welcome to the UK politics live blog. There will be a “growing pressure” for parliament to scrutinise EU legislation under new deals on food and emissions to be sealed ahead of the UK’s summi",
-   "body": "The report on food and emissions comes ahead of a joint UK-EU summit next week Hello and welcome to the UK politics live blog. There will be a “growing pressure” for parliament to scrutinise EU legislation under new deals on food and emissions to be sealed ahead of the UK’s summit with the bloc next week, a Lords’ committee has warned. Although important details remain to be determined of the legal and institutional form that dynamic alignment will take, its introduction will mark a major change to the nature of the UK-EU relationship as it exists under the Trade and Cooperation Agreement. As the UK aligns with more EU law, parliament will face growing pressure to scrutinise significant volumes of EU legislation. I believe there is a good deal to be done that could be a win-win for Britain and Europe. The deal is not done, and there’ll be some long nights ahead in the next seven days. Some young people with disabilities will lose their personal independence payments and will have to apply instead to a local fund for short-term expenses and equipment, Alan Milburn’s review will recommend . Sadiq Khan has become the most high-profile Labour figure to weigh into the increasingly fractious debate over what the government should do with its electric vehicle targets. Nigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual assault, the Guardian has learned. The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. Continue reading...",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316",
    "lang": "en"
   },
   {
@@ -630,6 +993,22 @@
    "lang": "en"
   },
   {
+   "title": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhfekJtSDUzVXhKZHNDNzgtTXc1RXBUVk9sR3JJX0ZtNDdmazBHU2ZvRXJEN25HMWpOTVdxWng1Y1VXa05OSGlwMmFGUllzMDgyRnkzWWxFdk5pLUhZd1BvUUNXS3NYYXg2TzdxSk9MSXowWWpGTG1CdUxka01oODhvVzBnNDN3Sk5uYWtybjVoelhGRVFWNk5MR2g1Ykx3cXVJazNUWE92ZElRbmVQYzEwaUxBc3lHRHdBVDJvVjA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T10:01:41+00:00",
+   "summary": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg.com China's access to some Nvidia chips in doubt as curbs gain traction in US Congress Reuters How Jensen Huang’s ouster is paving the way for the policy outcome he fiercely battled Politico Explainer-Tougher",
+   "body": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg.com China's access to some Nvidia chips in doubt as curbs gain traction in US Congress Reuters How Jensen Huang’s ouster is paving the way for the policy outcome he fiercely battled Politico Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns Yahoo! Finance Canada Nvidia Fallout Hits Alibaba and Other China Stocks as Tighter Regulation Looks Likely Barron's",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Potential 'national security crisis' as Nvidia ex-CEO summoned by US Congress",
    "link": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
    "source": "France 24",
@@ -659,6 +1038,22 @@
     "United States"
    ],
    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "These two voter turnout trends explain what happened across the South in the election",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFl2ZFdwSDlhZGl1dFhoNjU4Q3Yxd0MwZklwcWhRNWpOYkZROUtxVF9DdGI2eTFtX1ZFVzYyS2NwRnhQOXdlb1kzcXZRMU8xRWRiRV84b3VpT2lnTEpyR2hmUGNvSlRNbjJOY2xQbmxHTjZYMmVkVWloaElmNkNFRlB4M0JzekEw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "These two voter turnout trends explain what happened across the South in the election NPR Democrats Won the South, Now Their Challenge Is to Keep It Bloomberg.com A Southern Tectonic Shift The American Prospect Voters are sending senators back to DC with the most mixed-party dele",
+   "body": "These two voter turnout trends explain what happened across the South in the election NPR Democrats Won the South, Now Their Challenge Is to Keep It Bloomberg.com A Southern Tectonic Shift The American Prospect Voters are sending senators back to DC with the most mixed-party delegations in 8 years | CNN Politics CNN Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding? Time Magazine",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -693,19 +1088,6 @@
    "lang": "en"
   },
   {
-   "title": "What we know about the global Microsoft outage",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-13T09:59:20+00:00",
-   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "body": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
    "title": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe - Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5",
    "source": "Google News · Ukraine",
@@ -718,21 +1100,6 @@
     "Ukraine",
     "Russia",
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice - Newsday",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG1TcUktamhkclVuNDdNUFhnQkNraERRc244VnJaUHE5aDVSUlBhNjZwYXMzRFdFS01Wc2NFLUlQaDlPZHVIZEEwMC05SzF6cFI3dWF4M2hEUFFoM3hMZjhlQkVuQUlSYWUyeVo2emE2S3U1dHNtTi16MHRucU1lWDdheFI2Zw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T09:47:11+00:00",
-   "summary": "Europe pushes for seat at Ukraine peace talks but lacks unified voice Newsday",
-   "body": "Europe pushes for seat at Ukraine peace talks but lacks unified voice Newsday",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -754,28 +1121,12 @@
    "lang": "en"
   },
   {
-   "title": "Stock futures fall after markets slide amid Nvidia woes: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T09:45:00+00:00",
-   "summary": "Stock futures fall after markets slide amid Nvidia woes: Live updates CNBC As Nvidia reels from Huang's affairs, who stands to gain? CNBC Stock Market Today: Nvidia Set to Recoup Some Losses as Investors Parse Fallout From Jensen Huang's Exit WSJ EXCLUSIVE Huang exit and US scrut",
-   "body": "Stock futures fall after markets slide amid Nvidia woes: Live updates CNBC As Nvidia reels from Huang's affairs, who stands to gain? CNBC Stock Market Today: Nvidia Set to Recoup Some Losses as Investors Parse Fallout From Jensen Huang's Exit WSJ EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters Nvidia's stock falls after CEO Jensen Huang’s resignation — live updates MarketWatch",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "With every rainfall, Gaza risks losing access to power and healthcare",
    "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-13T09:43:30+00:00",
-   "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
-   "body": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+   "summary": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
+   "body": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -785,12 +1136,28 @@
    "lang": "en"
   },
   {
+   "title": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamFEUnFZRDE2MFE3WEZFN0NXeWR2ay00NHZ1a2JoN0MyNTFXNjZ0M1JUU3RpSE91RE5Fd3hJUmNHMmk5YVlDNVpwVy1BUjFoQ1BtRjhRZEE3RzJsY2NLYjExR3MzRHNBd1NoclJ2MEJybkxvcVo4N0FaU2hoUzdxNW5yVUEwZzVQYkJHNDZNbGQ2ajBGTG5wdWM3TU9wazVJTVNVLTZ0Y28?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T09:43:00+00:00",
+   "summary": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version WSJ North Korea unveils revised constitution reflecting 'two hostile states' policy Korea JoongAng Daily North Korea modifies national flag in break with decades-old design NK News North Korea posts revised const",
+   "body": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version WSJ North Korea unveils revised constitution reflecting 'two hostile states' policy Korea JoongAng Daily North Korea modifies national flag in break with decades-old design NK News North Korea posts revised constitution dropping reunification goal upi It was found on the 13th that North Korea changed the aspect ratio of its flag, \"Ingong (Hongram Fiv.. 매일경제",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "North Korea",
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
    "source": "The Guardian",
    "published": "2026-11-13T09:41:22+00:00",
    "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutena",
-   "body": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal . Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer Colette Kress after reports emerged of multiple affairs, mist importantly with Alice Huang, who is no relation but is suspected to be a Chinese spy. Continue reading...",
+   "body": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal . Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer, Colette Kress , after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy. Continue reading...",
    "category": "Global",
    "is_war": true,
    "countries": [
@@ -858,6 +1225,19 @@
     "United Kingdom"
    ],
    "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Headline in space in here - The Economist",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-13T09:23:37+00:00",
+   "summary": "Headline in space in here The Economist",
+   "body": "Headline in space in here The Economist",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -947,22 +1327,6 @@
    "lang": "en"
   },
   {
-   "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBFMjR2dGk2dUhsUDR3bjJvM0NyTmR5eUF6VERTdWUtNEwxUXNLVjB5OUx3Njg1VFRzQnBFV2VTVGQ0b1c2NC01bFRHRWJUU0FOTVRsQTRYVGxheEpmMENMSGlVTUd1UjJkbW1zNkFnSlEtYnlsemtXbTB1UWhmbGJ5d2w?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T08:53:56+00:00",
-   "summary": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions Financial Times How Jensen Huang’s ouster is paving the way for the policy outcome he fiercely battled Politico Exclusive-Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvi",
-   "body": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions Financial Times How Jensen Huang’s ouster is paving the way for the policy outcome he fiercely battled Politico Exclusive-Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Yahoo News Singapore Nvidia Fallout Hits Alibaba and Other China Stocks as Tighter Regulation Looks Likely Barron's FACTBOX China's $3 billion-plus pipeline of Nvidia-powered AI data centres Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Germany news: Parliament agrees on debt-laden 2027 budget",
    "link": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -991,7 +1355,7 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+   "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
    "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-13T08:49:59+00:00",
@@ -1010,8 +1374,8 @@
    "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
    "source": "The Guardian",
    "published": "2026-11-13T08:49:19+00:00",
-   "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly ",
-   "body": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm in 12 hours. Lisbon saw 183 flights cancelled on Wednesday, around a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations. After causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy. This resulted in significant flooding in parts of Cannes, some of which caused rock falls and led to the closure of roads along the French Riviera. The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia. Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with the latest forecast models indicating an additional 100mm could accumulate widely, while totals close to 200mm are likely in more mountainous areas. Continue reading...",
+   "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly ",
+   "body": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm (13.97in) in 12 hours. In Lisbon, 183 flights were cancelled on Wednesday, about a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations. After causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy. This resulted in significant flooding in parts of Cannes, some of which caused rock falls and led to the closure of roads along the French Riviera. The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia. Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with the latest forecast models indicating an additional 100mm could accumulate widely, while totals close to 200mm are likely in more mountainous areas. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1020,19 +1384,6 @@
     "France"
    ],
    "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e",
-   "lang": "en"
-  },
-  {
-   "title": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2VxXzZaaUhSSldhbG9lVDA0Vi1rTkY4Rzh1cXhLU3lMY3FsRmNaSHNHLXhvSFZIaUhIbjk2c01JQkMydE5ZSnE1WFdXaVc3NVctOTBLLXdTVXpJaXRGdko2MTFhX2JDaG5kVDlTVUxhaUhGUkJjN1l6RHQtM1VDSmQzNEQyVlFNV0E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T08:43:00+00:00",
-   "summary": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools CNN Microsoft 365 Outage Extends Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft hit by global outages: What happened and why? Al Jazeera Microsoft outage hits Out",
-   "body": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools CNN Microsoft 365 Outage Extends Into Friday—Governments, Airlines Report Disruptions Forbes Microsoft hit by global outages: What happened and why? Al Jazeera Microsoft outage hits Outlook, Teams and Copilot worldwide Reuters Microsoft investigating widespread outage that took email and other apps offline NPR",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1109,6 +1460,22 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/79853213_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVmdQWWZrZTFHRjdyektaVW9hcEFnOTc1dnlEVmRsNE5uRHE0RUVaNTN6b1I1WnhlUi1Rc0hScUZHNjhkZnlfMjh6WkphRzJzTUFWa1FrN1VUN3NjSlFjMTZFVVpIckRxVUVza3dvZ3pkVVZuQ1dEOEZQcUlmUnRfUEtmR3BPZ1lXb2t1ai1RUnlRUFJNeFQ1WEpTOUpTR2JMUGNWOVRiWng5OV9VOURoa3BKTVlWbTFlTVZGakdNRnlHT2huNjFkM25B?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-13T08:21:49+00:00",
+   "summary": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports The Independent",
+   "body": "Ukraine war live: Drone attack on Moscow disrupts flights at major airports The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1217,7 +1584,22 @@
    "lang": "en"
   },
   {
-   "title": "US terror case sheds light on RAF Fairford arrests mystery",
+   "title": "Van Hollen will challenge Schumer to lead Senate Democrats - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dSbVNOOUpYWjVLWGNhdGtVWUNFd0NiMTZRbS1KSWdkdS1hUGFiVnJXcTBNV3FYZVFqZWsyWllIU3dGZjB6ODZoMC1sZFJiOGZlM2lDWlBvMlV2ZVN6MTNmVWdfQXdlWWlPR09KQTVhUVVGN0hLcExyOUl3Q0VPcGFGZjdvc0E1RDE4bkJKOUppU2ZWZHVaaVZDMmZxaVQ5QnhnNA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T07:56:00+00:00",
+   "summary": "Van Hollen will challenge Schumer to lead Senate Democrats The Washington Post Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live The Guar",
+   "body": "Van Hollen will challenge Schumer to lead Senate Democrats The Washington Post Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live The Guardian Senate leadership showdown could fracture Democratic post-election unity CNN 'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader PBS",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US terrorism case sheds light on RAF Fairford arrests mystery",
    "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
    "source": "The Guardian",
    "published": "2026-11-13T07:55:56+00:00",
@@ -1234,28 +1616,17 @@
    "lang": "en"
   },
   {
-   "title": "11 names to watch in the Jensen Huang succession search - Axios",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NdmstMGNjclZNT005U29INzJaMGQwMFFZR2ZmZEV3WG5Vc2lVUW9qMVZybUVPaTdGTWdhY04wY3hfWmE1Y1NpcEFRQ3duU2xVRTJGeXktUEFhVTdTWTRCR2JnamJHQ1BKdkFfX1Y5TFU2Q0phdDlRLXZkVXRwUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T07:49:50+00:00",
-   "summary": "11 names to watch in the Jensen Huang succession search Axios EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters The AI boom was built around Jensen Huang. Now what? CNN NVIDIA Announces CEO Transition NVIDIA Newsroom Nvidia live upd",
-   "body": "11 names to watch in the Jensen Huang succession search Axios EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters The AI boom was built around Jensen Huang. Now what? CNN NVIDIA Announces CEO Transition NVIDIA Newsroom Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge Yahoo Finance",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft works to restore Outlook and Teams after global outage",
-   "link": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-top-1022-xml-mrss",
+   "title": "Microsoft rules out 'malicious activity' as cause for global outage",
+   "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-13T07:46:00+00:00",
-   "summary": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that efforts to repair the major Outlook outage are ongoing but not as expected.",
-   "body": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that efforts to repair the major Outlook outage are ongoing but not as expected.",
-   "category": "Global",
+   "summary": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was \"not aware\" of malicious activity that could have caused the outage.",
+   "body": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was \"not aware\" of malicious activity that could have caused the outage.",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://static.dw.com/image/79935547_6.jpg",
    "lang": "en"
   },
@@ -1288,6 +1659,19 @@
     "Israel",
     "Iran"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russell Brand Accused Of Sexual Misconduct By Six More Women After Rape Conviction - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTG1LV3kwS0lBeUpjQ2lOVTlHNTUtV3hiSlNKWElWeEpGZ0hSWXctcENlWkY2R3J3ZmhSOFczUGdKMVYtZk95d0dfX3dRZ1MwOUpEa2x1RDg1OXNXVkg4aUVpQjBXbGRGNnVHU0FQVW9ZajJtdEVEb1Y3MUpkZ3ZfUnN5Zm00THVKR2JWWUtuMWczd3gtdy1GSGdlRQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-13T07:21:00+00:00",
+   "summary": "Russell Brand Accused Of Sexual Misconduct By Six More Women After Rape Conviction Deadline Russell Brand accused of misconduct by six more women, according to report The Guardian Russell Brand faces ‘hell on earth’ inside Wandsworth prison, former inmate warns The Independent Po",
+   "body": "Russell Brand Accused Of Sexual Misconduct By Six More Women After Rape Conviction Deadline Russell Brand accused of misconduct by six more women, according to report The Guardian Russell Brand faces ‘hell on earth’ inside Wandsworth prison, former inmate warns The Independent Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home BBC Meta Removes Russell Brand’s Instagram & Facebook Account After Rape Conviction Deadline",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1415,23 +1799,7 @@
    "lang": "en"
   },
   {
-   "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWUFFVjY5Z3BrdDd6b2JaRDlvME50cGpLeUR4U2lPVU1tNnM1TjlrX3MtaVRrR3dsTmxoa2tmRGotVUdTYjhVTG5OV0k4U0ViTWRDM01vZExzZzFRLVY0UDA3a1lQWVNtT0Y4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T07:01:07+00:00",
-   "summary": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge CBS News Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew The New York Times Why the Nvidia Scandal May Really Be a Trump Scandal Bloomberg.com Ex-Nvidia ",
-   "body": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge CBS News Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew The New York Times Why the Nvidia Scandal May Really Be a Trump Scandal Bloomberg.com Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy BBC Nvidia scandal: Howard Lutnick under pressure over alleged lack of action The Guardian",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "2027 AFCON Qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
+   "title": "AFCON 2027 qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
    "link": "https://www.france24.com/en/tv-shows/sports/20261113-2027-afcon-qualifiers-top-guns-senegal-cameroon-ivory-coast-deliver",
    "source": "France 24",
    "published": "2026-11-13T06:59:59+00:00",
@@ -1519,19 +1887,6 @@
    "lang": "en"
   },
   {
-   "title": "Horoscope for Friday, 11/13/26 by Christopher Renstrom - SFGATE",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXZKdnp3eWQ1TkxMT1kxNGk0S28zNno0UU91Q1RselNGZDVOUW5mNmk3RVJzOF9oWnFkeHR4UFJCMzN5QXdwRThnYjJjX19qaDB6VjZKYmRXaG1IeVNmMHVtdGFqSjluTmFxck1ST3JFRDk4all3UUlieUp4R3c4VmJKMmF6R3E0bHNOQkVwLXFxS0NFR1Zhb0NYdHYwNzRqeHc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T06:21:39+00:00",
-   "summary": "Horoscope for Friday, 11/13/26 by Christopher Renstrom SFGATE Horoscopes Today, November 13, 2026 USA Today Your Daily Horoscope by Madame Clairevoyant: November 13, 2026 The Cut Your Daily Singles Horoscope for November 13, 2026 Yahoo Royal Stars Horoscope for Fri., Nov. 13, 202",
-   "body": "Horoscope for Friday, 11/13/26 by Christopher Renstrom SFGATE Horoscopes Today, November 13, 2026 USA Today Your Daily Horoscope by Madame Clairevoyant: November 13, 2026 The Cut Your Daily Singles Horoscope for November 13, 2026 Yahoo Royal Stars Horoscope for Fri., Nov. 13, 2026 Dallas News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
    "link": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
    "source": "The Guardian",
@@ -1542,124 +1897,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/299ca057bd2e7758beac23346a48b6968734c813/460_0_4600_3680/master/4600.jpg?width=140&quality=85&auto=format&fit=max&s=cfaed272d5c5a6e363b556972986b69d",
-   "lang": "en"
-  },
-  {
-   "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
-   "link": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T06:13:11+00:00",
-   "summary": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew about the 2018 ball-tampering scandal.",
-   "body": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew about the 2018 ball-tampering scandal.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzRfZjJfNjlUb1FwTmJ2SHhjeGhOUDJuR0JGTnJFOEg0T2dPZEtDcDhuZWRxeF9QR1VlTFV2ZFVoSkIwX2pKWlRlRHVqd1JveVgtUzJKUWZqaWxNNXpKdWVzb2lWRDVpQ0puSVBBZWlPSmllbDV0aFV6YW5mNzVHZllkdEhrYWs?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T06:11:00+00:00",
-   "summary": "California Could Face 50-Foot Waves as Storms Slam Its Coast The New York Times California’s first big storm of season is about to land. Here are latest forecast updates San Francisco Chronicle LIVE UPDATES: Bay Area prepares for Level 2 storm; rain, winds and dangerous surf in f",
-   "body": "California Could Face 50-Foot Waves as Storms Slam Its Coast The New York Times California’s first big storm of season is about to land. Here are latest forecast updates San Francisco Chronicle LIVE UPDATES: Bay Area prepares for Level 2 storm; rain, winds and dangerous surf in forecast ABC7 Bay Area First major rainstorm of the season expected to drench North Bay late Thursday and early Friday The Press Democrat 'One storm after another' marching toward Bay Area SFGATE",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
-   "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
-   "source": "The Guardian",
-   "published": "2026-11-13T06:00:12+00:00",
-   "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating Children’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests new research across six European towns and cities. Scientists measu",
-   "body": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating Children’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests new research across six European towns and cities. Scientists measured the air in buildings where children spend much of their time; in schools, sports centres and homes. Specifically, they looked at polycyclic aromatic hydrocarbons (PAH) , a family of pollutants that are given off when fuels are burned. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/19d4ea7474c5c562ef867a64234a9343bedc2da0/190_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=ec21eaaff15085c46f902ff3232f1163",
-   "lang": "en"
-  },
-  {
-   "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
-   "link": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-   "source": "The Guardian",
-   "published": "2026-11-13T06:00:11+00:00",
-   "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on ",
-   "body": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on behalf of “the generation that is paying the price of freedom with their lives”. Mohammad Javad Vafaei Sani , an Iranian boxing champion, coach and political prisoner, has been sentenced to death three times and is one of seven athletes at risk of execution in Iran . He was given the Magnitsky award for outstanding human rights activist at a ceremony in London on Thursday night. Continue reading...",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ae911a85a5e3f88e9b0812fc2e2ee4780633d4b5/0_1_2320_1856/master/2320.jpg?width=140&quality=85&auto=format&fit=max&s=b3984b367b1faf3a0bae461597f477ad",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond astronauts and rockets: How Singapore is grooming its future space workforce",
-   "link": "https://www.channelnewsasia.com/singapore/space-careers-talent-schools-students-satellites-6543061",
-   "source": "CNA World",
-   "published": "2026-11-13T06:00:00+08:00",
-   "summary": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
-   "body": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--9PS3ry5z--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/11/dsc_5416.jpg?itok=-V-YiyW5",
-   "lang": "en"
-  },
-  {
-   "title": "Commentary: Have we become too reliant on online reviews and recommendations?",
-   "link": "https://www.channelnewsasia.com/commentary/business-buy-five-star-review-restaurant-salon-6502911",
-   "source": "CNA World",
-   "published": "2026-11-13T06:00:00+08:00",
-   "summary": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
-   "body": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--00LFbUhY--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/09/11/istock-1409730717.jpg?itok=ZA2rmkKS",
-   "lang": "en"
-  },
-  {
-   "title": "Russian diplomat appears in audience for Telegraph live Ukraine event",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUThJRF80WEJwek5VaG5vME1FZ3JaUWRmQWd5OTE4THJNc2htX1lGMTZoNFJ5M3I4UTFQRjduQUJLNzI4YUpMZ3RUME0tY0RPcUowUnlkc0VaMGtUcVdWSnR1cWw0NVVpVVVHNHI2RFc2eEExMzBXSmVZZUNsX0x3Y0NOaU1rVG42Z2tFNTJJX0U1dUlpaTU5bm5NcW1ucGlo?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T06:00:00+00:00",
-   "summary": "Russian diplomat appears in audience for Telegraph live Ukraine event The Telegraph",
-   "body": "Russian diplomat appears in audience for Telegraph live Ukraine event The Telegraph",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian diplomat appears in audience for Telegraph live Ukraine event - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHBNaENWX2tJd2hsTTYzNG00RmhmeHRTWlE4VW1HZ1dLcnhONXJRUERyU0E2Zlg4dFVnVFpCanVzZnN5MzVsMEpwNGFfQW9ZSFNqNHduUW13bzVyRGJVNHVkUGlGYlVmZUZmX2V6Vkx0UjR5SVJOZEdKNVZyTzFwY3lOeU4wQ2JIZHk2cnZTQjBIZGlpd1JBVEhNamNhR0IwS0E?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T06:00:00+00:00",
-   "summary": "Russian diplomat appears in audience for Telegraph live Ukraine event Yahoo",
-   "body": "Russian diplomat appears in audience for Telegraph live Ukraine event Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1674,232 +1911,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/1112-_-AA-1027-_-Th-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Putin Agrees To Let European Representatives Join Ukraine Peace Talks - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHBCR0dyMFc3ZWhwNk5BSkJ5NVF4UEkxODZTVlVSR05tZTlMOVR5cXpwWm45ejZWUURxTEdkOHFqTk5vUUczaVQzSGw4TXFIemViVWkzVmVRbVZBc3FtZWpmMVlyN1N3ZWZGQjh4RkZESkVWdWw4cFVvSURjZ1QyeWRTSVBzSlNoOVR2b2VfZGNxNlFFSTFacHZ6Z2hhWWYyamNFeEVETE1IdXdmMDRWV1BYSXRTWk9vRnFTVTV1SURoZUJRaEl5cUh0eE0yOVB2VHdRRFMzb3d1SUNMb3lTSmgyUzdxWHpTT1dSZtIB9AFBVV95cUxNZV9DTjJDZVBvYzBuenEwb0lia1ZuUnliaklSYmJKaF9FdnowS2NEZ05fUVI5T2NET0JsQWxucDN2Y19TeUZ1cjFUMlk3WDFtRWNOSWNISVZFNUdESXQ5ZkRzdDVodzB6ZXBHMzlsR3IyRXpuQTZyZFB2Z185VF9fTFhQVUZHZFdmZHM5SnpHWFNvRTNPR3V2RjdZcDhHVFRmcGE4VmV5UVNRZXZERkNFQmc0bU96ckpoN0NObkF4RE9FYzBVOFNXblNqaHA2QlR5X1FFVXJIdWZMa3RrT05FejNhdU9pWFZ2Z0JUc2pEcnVGMHht?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:48:03+00:00",
-   "summary": "Putin Agrees To Let European Representatives Join Ukraine Peace Talks NDTV",
-   "body": "Putin Agrees To Let European Representatives Join Ukraine Peace Talks NDTV",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
-   "link": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T05:38:36+00:00",
-   "summary": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
-   "body": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261112__D7BZ2WL__v1__HighRes__FblNationsLeagueEngCro-1794546572.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "The End of Russia’s Bravest Newspaper",
-   "link": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
-   "source": "NYT World",
-   "published": "2026-11-13T05:36:59+00:00",
-   "summary": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
-   "body": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-13T05:33:48+00:00",
-   "summary": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he never planned to murder a",
-   "body": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he never planned to murder anybody and if he did, he reiterated he would use stolen vehicles and a gun not linked to him. But the prosecutor responded: “No one’s saying it was a good plan, that’s why you’re sitting here.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/568_316_2704_2164/master/2704.jpg?width=140&quality=85&auto=format&fit=max&s=dedebc6ad3ee4e3b8a0b19c66271e51f",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine Invasion Day 1,723: The war still ends when Russia leaves all of Ukraine. - Daily Kos",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFaXlqZWlSSG5mTXM4Zm1DaWRJRElQOWlZcXNuNk5seUFLN3N1ZXBzNVAzbXdPNHMzRTNrck54Ukp2SUhDNVF6SVQxNnlmQ1JMNnBVNV9YaDlUMklSZU1SbVJ3dEh1bDc2TF9HcmxLVGhzNXl6RHp1ag?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:24:54+00:00",
-   "summary": "Ukraine Invasion Day 1,723: The war still ends when Russia leaves all of Ukraine. Daily Kos",
-   "body": "Ukraine Invasion Day 1,723: The war still ends when Russia leaves all of Ukraine. Daily Kos",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:24:36+00:00",
-   "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war The Washington Post",
-   "body": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war The Washington Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-   "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T05:23:31+00:00",
-   "summary": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
-   "body": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20221008__32KY9DR__v1__HighRes__BurkinaPoliticsCoupUnrestAttackCeremony-1747038834.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Moscow police ‘detain hundreds and force them into military’",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVmdQWWZrZTFHRjdyektaVW9hcEFnOTc1dnlEVmRsNE5uRHE0RUVaNTN6b1I1WnhlUi1Rc0hScUZHNjhkZnlfMjh6WkphRzJzTUFWa1FrN1VUN3NjSlFjMTZFVVpIckRxVUVza3dvZ3pkVVZuQ1dEOEZQcUlmUnRfUEtmR3BPZ1lXb2t1ai1RUnlRUFJNeFQ1WEpTOUpTR2JMUGNWOVRiWng5OV9VOURoa3BKTVlWbTFlTVZGakdNRnlHT2huNjFkM25B?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:21:49+00:00",
-   "summary": "Ukraine war live: Moscow police ‘detain hundreds and force them into military’ The Independent",
-   "body": "Ukraine war live: Moscow police ‘detain hundreds and force them into military’ The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Putin Warns Europe War Will Resume Immediately If Troops Enforce Ukraine Deal: 26 outlets compared - NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeEVKRW9YN3BUNVlacmltdEFmdDFvSGF3dmY2ZVBwTVlmMHlFcU9iY29pWEVCVFFheXZIM1ZJc21wSF84UjBMcVVSY2hOcFNSWk81b2pLd3hsUUJtck9saEN2T1hVNGtEUzg3OUlJVjdHdTdRenhsR3h1WEltX2psaXRtRG9YUFB0bVJHbzdSQmtRUi1vSzNucmo1Y3hDajU4Y2dheVRQaGk1V3gwRXB3Q2M2RjBna0N6dmFyb2JKcWVKUDZ2WGlybnVUSWluVnBBTlR0dmpWU3lJbTZDa29qa3dmYV8zdw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:19:26+00:00",
-   "summary": "Putin Warns Europe War Will Resume Immediately If Troops Enforce Ukraine Deal: 26 outlets compared NewsCord",
-   "body": "Putin Warns Europe War Will Resume Immediately If Troops Enforce Ukraine Deal: 26 outlets compared NewsCord",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T05:05:50+00:00",
-   "summary": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-   "body": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794546304.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Bangkok says ASEAN should accept Myanmar back at diplomat level",
-   "link": "https://myanmar-now.org/en/news/bangkok-says-asean-should-accept-myanmar-back-at-diplomat-level/",
-   "source": "Myanmar Now",
-   "published": "2026-11-13T05:03:29+00:00",
-   "summary": "In a steady backslide from his initial rejection of the junta’s election, the Thai FM is now advocating for full regime re-engagement in the regional body",
-   "body": "In a steady backslide from his initial rejection of the junta’s election, the Thai FM is now advocating for full regime re-engagement in the regional body",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/AFP__20260712_ThailandMyanmarAseanDiplomacy-1024x667.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Russia loses almost half a million lives in war on Ukraine - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T05:01:10+00:00",
-   "summary": "Russia loses almost half a million lives in war on Ukraine Financial Times",
-   "body": "Russia loses almost half a million lives in war on Ukraine Financial Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Peltola, Kreiss-Tomkins grow leads after latest ballot counts in Alaska - Anchorage Daily News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTV84LWxzRXZCZDBzYnJwY0puTlRXLXk2WlZsTU1sR2FpOHhlUUJ1Sm5GeFNkaFY0dFpNWTN6aHYwM0VybnpkNldCZDZRRE9HMDBoV3VNYTdVNGdyalN5dVc1QnE0Rkk4dklOajltbWZydF9VT0cwRDg0U2hhemhBLUF3MkdQV0xoS25iUHhLcHF4bkNFeWRCTnNKV05SdzVlU0xJMzZwX3hpRS0tdng2dQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T05:00:48+00:00",
-   "summary": "Peltola, Kreiss-Tomkins grow leads after latest ballot counts in Alaska Anchorage Daily News Alaska’s U.S. Senate, governor’s races tighten with new ballot count Alaska Public Media Peltola holds lead, but Sullivan gains after latest Alaska Senate vote drop The Hill The Useless C",
-   "body": "Peltola, Kreiss-Tomkins grow leads after latest ballot counts in Alaska Anchorage Daily News Alaska’s U.S. Senate, governor’s races tighten with new ballot count Alaska Public Media Peltola holds lead, but Sullivan gains after latest Alaska Senate vote drop The Hill The Useless Clown Party, Petersburg Dan Sullivan and waiting Alaska's News Source Alaska Senate race tipping toward Peltola ICT News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
-   "link": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
-   "source": "The Guardian",
-   "published": "2026-11-13T05:00:09+00:00",
-   "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers, particularly women,",
-   "body": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers, particularly women, faced extensive harassment within the ranks. The first comprehensive study of its kind into the Bundeswehr, conducted by the Centre for Military History and Social Sciences in Potsdam and released this week, comes as the military is trying to attract new recruits in response to global threats. Continue reading...",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://i.guim.co.uk/img/media/837555255c920a1d24efa566e3b98cd61f760012/664_26_6521_5217/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=1ffbedc2b4c98b8cc15a6af5ce8e6098",
-   "lang": "en"
-  },
-  {
-   "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-   "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T04:51:56+00:00",
-   "summary": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
-   "body": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Lebanon"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/342F7GC-highres-1699396426.jpg?resize=800%2C600",
-   "lang": "en"
   },
   {
    "title": "ရှမ်းမြောက်စစ်ပွဲ ပြန်ဖြစ်နိုင်ခြေ မရှိပါ",
@@ -2173,21 +2184,6 @@
     "Myanmar"
    ],
    "image": "https://www.rfa.org/resizer/v2/HKGQPJLTFVA3ZPLEYJBSV77YCQ.jpeg?auth=1d1e7776b276e3ca755c49ca7b4474ac0726b544ca5ed1cfa83d4885f708d08a&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "ထိုင်းနိုင်ငံခြားရေးဝန်ကြီး နိုဝင်ဘာ ၁၂ ရက်နေ့ နေပြည်တော်လာမည်",
-   "link": "https://rfa.org/burmese/news/2026/11/11/myanmar-military-thailand-asean-summit-border/",
-   "source": "RFA Burmese",
-   "published": "2026-11-11T22:49:53+00:00",
-   "summary": "မြန်မာပြည်တွင်းစစ်၊ နယ်စပ်လုံခြုံရေး၊ ကုန်သွယ်ရေး၊ လေထုညစ်ညမ်းမှုနဲ့ အာဆီယံတက်ခွင့်ကိစ္စတွေ ဆွေးနွေးနိုင်။",
-   "body": "ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးနဲ့ ဒုတိယဝန်ကြီးချုပ် ဆီဟဆတ် ဖုဝမ်ကတ်(က်)ရောက် (Sihasak Phuangketkeow) ဟာ မြန်မာနိုင်ငံကို နိုဝင်ဘာ ၁၂ ရက် ကြာသပတေးနေ့မှာ ရောက်ရှိမှာဖြစ်ပြီး မြန်မာနဲ့ ဖြစ်နေတဲ့ မြန်မာပြည်တွင်း စစ်ရေးပဋိပက္ခ၊ နှစ်နိုင်ငံ နယ်စပ်လုံခြုံရေး၊ ကုန်သွယ်ရေးနဲ့ နယ်စပ်ဖြတ်ကျော် လေထုညစ်ညမ်းမှု ထိန်းသိမ်းရေးကိစ္စတွေ ဆွေးနွေးသွားမယ်လို့ ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးက နိုဝင်ဘာ ၁၁ ရက်နေ့က ပြောပါတယ်။\n\nဒီခရီးစဥ်မှာ စစ်တပ်ခန့်အစိုးရအကြီးအကဲ သမ္မတဦးမင်းအောင်လှိုင်၊ ဒုတိယသမ္မတနဲ့ နိုင်ငံခြားရေး ဝန်ကြီးတို့ကိုလည်း တွေ့ဆုံမယ်လို့ မစ္စတာဆီဟာဆတ်က ပြောပါတယ်။\n\nထိုင်းနိုင်ငံခြားရေးဝန်ကြီးရဲ့ ခရီးစဥ်ဟာ ဖိလစ်ပိုင်နိုင်ငံမှာ နိုဝင်ဘာ ၁၅ ရက်ကနေ ၁၈ နေ့အထိ သုံးရက်ကြာ ကျင်းပမယ့် ၄၉ ကြိမ်မြောက် အာဆီယံ ထိပ်သီးညီလာခံ မတိုင်မီ ရက်ပိုင်းအလိုမှာ လာရောက်တာဖြစ်ပြီး အဓိကအားဖြင့် ထိုင်းနယ်စပ် လုံခြုံရေး ကိစ္စရပ်တွေနဲ့ အာဆီယံမှာ မြန်မာအပြည့်အဝ ပါဝင်တက်ရောက်နိုင်ရေး ကိစ္စတွေကို ဦးစားပေး ဆွေးနွေးမယ်လို့ နိုဝင်ဘာ ၄ ရက်နေ့က ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးက ပြောကြား ထားပါတယ်။\n\nထိုင်းမြန်မာနယ်စပ်မှာ ကရင်အမျိုးသား အစည်းအရုံး (KNU) နဲ့ စစ်တပ်အကြား တိုက်ပွဲတွေကြောင့် ထိုင်းဘက်ခြမ်း မဲဟောင်ဆောင်နဲ့ တာ့ခ် ခရိုင်မှာ နေထိုင်ကြတဲ့ ထိုင်းပြည်သူတွေအပေါ် ထိခိုက်မှုတွေ ရှိနေတယ်လို့ သိရပါတယ်။ တချိန်ထဲမှာလည်း ထိုင်းအစိုးရအနေနဲ့ မြန်မာနယ်စပ်က တိုက်ပွဲတွေကြောင့် ထွက်ပြေးခိုလှုံလာကြတဲ့ မြန်မာဒုက္ခသည်တွေကို ကူညီစောင့်ရှောက်ထားပြီး ဒေသတည်ငြိမ်အေးချမ်းတဲ့အထိ ထိုင်းဘက်မှာ လူသားချင်းစာနာမှုအကူညီတွေ ပေးထားတယ်လို့လည်း ပြောပါတယ်။\n\nနိုဝင်ဘာ ၃ ရက်နေ့ကလည်း ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးဟာ မြန်မာစစ်အစိုးရ နိုင်ငံခြားရေးဝန်ကြီး ဦးတင်မောင်ဆွေနဲ့ တယ်လီဖုန်းကတစ်ဆင့် ဆယ်မိနစ်ကြာ စကားပြောခဲ့ပြီး မိုင် ၁,၅၀၀ ကျော်ရှည်တဲ့ ထိုင်းမြန်မာနယ်စပ်တစ်လျောက် မြန်မာစစ်တပ်ရဲ့ ထိုးစစ်တွေကြောင့် ထိုင်းနိုင်ငံရဲ့ အချုပ်အခြာအာဏာ ထိပါးမှု မရှိစေရေး ထိုင်းအစိုးရဘက်က လိုလားချက်တွေကို ထည့်သွင်းပြောကြားခဲ့တယ်လို့ သူကပြောပါတယ်။ ထိုင်းအာဏာပိုင်တွေအနေနဲ့ မြန်မာဘက်က ထိုင်းဘက်ကို လက်နက်ကြီးကျည် ကျရောက် ထိမှန်တာတွေအပေါ် စိုးရိမ်ပူပန်ကြောင်းလည်း ပြောကြားခဲ့တယ်လို့ သိရပါတယ်။\n\nနိုဝင်ဘာ ၄ ရက်နေ့က သတင်းထောက်တွေနဲ့ စကားပြောရာမှာ မစ္စတာဆီဟာဆတ်က မြန်မာအနေနဲ့ အာဆီယံအဖွဲ့ကြီးထဲသို့ အပြည့်အဝ ပြန်လည် ပါဝင်နိုင်ရေး အတွက်ဆိုရင် ပြည်တွင်း အကြမ်းဖက် တိုက်ခိုက်နေတာတွေကို လျှော့ချဖို့လိုတယ်လို့လည်း ဦးတင်‌‌‌မာင်ဆွေကို ပြောကြား ခဲ့တယ်လို့လည်း သိရပါတယ်။\n\nထိုင်းနိုင်ငံဟာ အာဆီယံမှာ မြန်မာနိုင်ငံ အပြည့်အဝ ပြန်ပါဝင်လာနိုင်ရေး ဦးဆောင်ကြိုးပမ်းနေတဲ့ နိုင်ငံ ဖြစ်ပြီး အာဆီယံအထူးကိုယ်စားလှယ် ဖိလစ်ပိုင်နိုင်ငံခြားရေးဝန်ကြီး မြန်မာခရီးစဥ်မှာ နေအိမ်မှာ အကျဥ်းချခံထားရတဲ့ ဒေါ်အောင်ဆန်းစုကြည်နဲ့ တွေ့ဆုံခွင့်ရလိမ့်မယ်လို့ မျှော်လင့်ကြောင်း တရားဝင်ထုတ်ဖော်ပြောကြားခဲ့ပါတယ်။\n\nဒါပေမယ့် စစ်တပ်ခန့်အစိုးရဟာ အာဆီယံအထူးကိုယ်စားလှယ်ကို ဒေါ်အောင်ဆန်းစုကြည်နဲ့ တွေ့ခွင့် မပေးတဲ့အပြင် သမ္မတအာဏာရယူထားတဲ့ အာဏာသိမ်းခေါင်းဆောင် ဦးမင်းအောင်လှိုင်ကပါ လက်ခံ တွေ့ဆုံခြင်း မရှိခဲ့ပါဘူး။\n\n၁၁ နိုင်ငံပါဝင်တဲ့ အာဆီယံနိုင်ငံများအဖွဲ့ဟာ မြန်မာနိုင်ငံမှာ ၂၀၂၁ စစ်အာဏာသိမ်းပြီးနောက်ပိုင်း စစ်အာဏာသိမ်းခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီးမင်းအောင်လှိုင်ကို မြန်မာနိုင်ငံ ကိုယ်စားပြု တက်ရောက်ခွင့်ကို ပိတ်ပင်ခဲ့ပြီး အာဆီယံထိပ်သီးညီလာခံတွေမှာလည်း အဆင့်မြင့်ခေါင်းဆောင်တက်ရောက်ခွင့်ကို ကန့်သတ်ထားခဲ့ပါတယ်။\n\n၂၀၂၁ စစ်အာဏာသိမ်းအပြီး ပထမဆုံးကျင်းပတဲ့ ထိပ်သီးဆွေးနွေးပွဲမှာ အာဏာသိမ်းစစ်ခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီး မင်းအောင်လှိုင်တက်ရောက်ခဲ့ခွင့်ရတဲ့ ဆွေးနွေးပွဲမှာ အာဆီယံက ဘုံသဘောတူညီချက် ၅ ရပ် ကို တစ်ညီတစ်ညွတ်ထဲ ချမှတ်ခဲ့ပါတယ်။ ဒါပေမယ့် အာဏာသိမ်းစစ်ခေါင်းဆောင်ဟာ ဒီအချက်တွေကို တစ်ချက်မှ အကောင်အထည်ဖော်ခြင်းမရှိခဲ့တဲ့အတွက် အာဆီယံကလည်း အကောင်အထည်ဖော်ဖို့ မပြတ်တိုက်တွန်းနေခဲ့ပြီး သံတမန်ရေးအရ တစ်ဆင့်နှိမ့်ဆက်ဆံလာတာ အခုအချိန်အထိ ဖြစ်ပါတယ်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://www.rfa.org/resizer/v2/66BUVZE2BFGK3DSLYJN3QTTSU4.JPG?auth=e115c87d045f38f9fe35897e48708494393244a8aeb5ae01cb03d15a41e885b6&smart=true&width=1500",
    "lang": "my"
   }
  ]
