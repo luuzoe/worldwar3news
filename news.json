@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T05:38:51.792868+00:00",
- "updated_yangon": "2026-11-14 12:08",
+ "updated": "2026-11-14T06:38:56.060117+00:00",
+ "updated_yangon": "2026-11-14 13:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,7 +10,6 @@
   "DW",
   "France 24",
   "Google News",
-  "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
@@ -22,50 +21,42 @@
  "countries": [
   [
    "United States",
-   42
+   45
   ],
   [
    "Russia",
-   17
+   16
   ],
   [
    "Ukraine",
-   17
+   15
   ],
   [
    "China",
-   11
+   14
   ],
   [
    "Myanmar",
    11
   ],
   [
-   "Israel",
+   "India",
    5
   ],
   [
-   "Australia",
-   4
-  ],
-  [
-   "Iran",
-   4
-  ],
-  [
-   "India",
-   4
-  ],
-  [
    "United Kingdom",
+   4
+  ],
+  [
+   "Israel",
+   4
+  ],
+  [
+   "Australia",
    3
   ],
   [
-   "Palestine",
-   3
-  ],
-  [
-   "NATO",
+   "Germany",
    3
   ],
   [
@@ -73,24 +64,34 @@
    2
   ],
   [
+   "Pakistan",
+   2
+  ],
+  [
    "France",
    2
   ],
   [
-   "Germany",
+   "Iran",
    2
   ],
   [
-   "Pakistan",
+   "NATO",
+   2
+  ],
+  [
+   "Yemen",
    1
   ],
   [
-   "European Union",
+   "Palestine",
    1
   ]
  ],
  "categories": [
+  "Africa",
   "Asia-Pacific",
+  "Europe / NATO",
   "Global",
   "Middle East",
   "Myanmar",
@@ -98,10 +99,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 23,
+ "war_count": 22,
  "languages": {
-  "my": 30,
-  "en": 110
+  "my": 31,
+  "en": 109
  },
  "items": [
   {
@@ -177,7 +178,7 @@
    "title": "KNU၊ KNPP နဲ့ နေပြည်တော်ကြား ဆွေးနွေးပွဲဖြစ်လာရေး ထိုင်း ကူညီမယ်",
    "link": "https://www.bbc.co.uk/burmese/live/c6zjr9ne0jget?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-14T05:38:53+00:00",
+   "published": "2026-11-14T06:38:57+00:00",
    "summary": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -187,6 +188,265 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176b/live/2a7c9a90-defc-11f1-9b2e-c7d61d5838d4.jpg",
    "lang": "my"
+  },
+  {
+   "title": "India: Delhi surpasses Lahore as world's most polluted city",
+   "link": "https://www.dw.com/en/india-delhi-surpasses-lahore-as-world-s-most-polluted-city/live-79946817?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-14T06:37:00+00:00",
+   "summary": "Delhi's Air Quality Index (AQI) was recorded to be higher than Lahore in Pakistan on Friday, which made it the most polluted city globally.",
+   "body": "Delhi's Air Quality Index (AQI) was recorded to be higher than Lahore in Pakistan on Friday, which made it the most polluted city globally.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "India",
+    "Pakistan"
+   ],
+   "image": "https://static.dw.com/image/79914003_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump, Xi, Putin to hold historic meeting in China: White House - Arab News",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2lVby1sUDgxNXZXcm0zc29WUTBzNWlLaXFEZ0NZenp3Ml9xTmVvOXJsVzJ4aTdZejBSeU1PcHhMNlZrU09hMUF0dlB2aVFtYWNoNFpqVkM3YU51SWp0dmM4ZlN1NGY2cjNoOWNtcVVybU1hRkduMklRekFzcURvWlZGdGd5VHEtRGFmbHFiMGRGN2JQWVJ0RmhKZGVVNUI1Y3QtWE9IMTJsRTZ5eG1malc4czQ2andCMklBRWNhTExBeWtyajI1Z1hnM0N3WS1teXNqdlUydzliUndUeDdBZjFn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T06:33:45+00:00",
+   "summary": "Trump, Xi, Putin to hold historic meeting in China: White House Arab News",
+   "body": "Trump, Xi, Putin to hold historic meeting in China: White House Arab News",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
+   "link": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T06:24:43+00:00",
+   "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+   "body": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af7de457e-1794629189.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Here’s the latest.",
+   "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+   "source": "NYT World",
+   "published": "2026-11-14T06:23:24+00:00",
+   "summary": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+   "body": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "အမေရိကန် စက်ရုပ် ထုတ်လုပ်မှု ၂၀၃၀ မှာ ၄ သိန်းအထိ ရှိလာနိုင်၊ ၂၀၃၅ မှာတော့ ၁ သန်းခွဲအထိ ရှိလာနိုင်လို့ ဆို",
+   "link": "https://burma.irrawaddy.com/news/2026/11/14/417644.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-14T06:22:47+00:00",
+   "summary": "စက်ရုပ်တွေကို အဆိုင်း များစွာခွဲပြီး သုံးနိုင်မယ်ဆိုရင် လုပ်ငန်းတခုချင်းစီ အတွက် တနှစ်ကို ဒေါ်လာ ၁ သိန်းလောက် သက်သာ စေနိုင်…",
+   "body": "အမေရိကန် နိုင်ငံရဲ့ လူသားပုံတူ စက်ရုပ် (Humanoid Robot) ထုတ်လုပ်မှုဟာ ၂၀၃၀ မှာ အရေအတွက် ၃ သိန်း ကနေ ၄ သိန်းအထိ ရှိလာနိုင်ပြီး ၂၀၃၅ မှာ ၁ သန်းခွဲထိ ရှိလာနိုင်တယ်လို့ ဆိုပါတယ်။\n\nဒါ့အပြင် အဆိုပါ စက်ရုပ် ထုတ်လုပ်မှုဟာ သရုပ်ပြခြင်း အဆင့်ကနေ စီးပွားရေး ဖြန့်ကျက်မှုဆီ ပြောင်းလဲလာနေပြီ လို့လည်း အမေရိကန် အခြေစိုက် ကမ္ဘာ့အကြီးဆုံး ဘဏ္ဍာရေး ဝန်ဆောင်မှု ကုမ္ပဏီတွေထဲက တခုဖြစ်တဲ့ J.P. Morgan က ပြောဆိုလိုက်တာပါ။\n\nစီးပွားရေး လုပ်ငန်းတွေက ထပ်ခါတလဲလဲ လုပ်ရတဲ့ အလုပ်တွေကို အလိုအလျောက် လုပ်ဆောင်နိုင်ဖို့ စဉ်းစားနေကြပြီး လုပ်သား ရှားပါးမှု၊ စီးပွားရေး တိုးတက်မှုနဲ့ ထုတ်လုပ်မှု အရေအတွက် မြင့်တက်လာမှုတွေက ထုတ်လုပ်ရေး၊ ပို့ဆောင်ရေး နဲ့ ဂိုထောင်တွေမှာ လူသားပုံတူ စက်ရုပ် အသုံးပြုမှုကို မြှင့်တင် ပေးနေတယ် လို့လည်း သိရပါတယ်။\n\nတင်သွင်းလာတဲ့ စက်ရုပ်တွေနဲ့ စက်မှုလုပ်ငန်းသုံး စက်ပစ္စည်းတွေက နိုင်ငံရဲ့ လုံခြံရေးကို ထိခိုက်စေတယ် ဆိုတဲ့ ထရမ့် အစိုးရရဲ့ တွေ့ရှိချက်ဟာ ပြည်တွင်းထုတ်လုပ်မှု မြှင့်တင်ဖို့ အခွန်ကောက်ခံမှုနဲ့ တခြား အစီအမံတွေ ဖြစ်ပေါ်လာစေ နိုင်ကြောင်း J.P. Morgan က ဆိုပါတယ်။\n\nHardware, AI လေ့ကျင့်ရေး အချက်အလက်တွေနဲ့ တွက်ချက်မှု၊ ထုတ်လုပ်မှု အရေအတွက်တို့က လူသားပုံတူ စက်ရုပ် ဖြန့်ကျက်မှုကို ကန့်သတ်ထားပြီး တက်စ်လာ (Tesla) မပါဝင်တဲ့ အမေရိကန် ကုမ္ပဏီ အများစုက တနှစ်ကို ၁၀,၀၀၀ ကနေ ၃၀,၀၀၀ အထိ ထုတ်လုပ်ဖို့ ရည်ရွယ်ထားတယ်လို့ သိရပါတယ်။\n\nလူသားပုံတူ စက်ရုပ်ထုတ်လုပ်မှု ကုန်ကျစရိတ်ဟာ အလုပ်သမားတွေရဲ့ လုပ်အားခ နီးပါး ရှိလာနေပြီး စက်ရုပ်တွေကို အဆိုင်း များစွာခွဲပြီး သုံးနိုင်မယ်ဆိုရင် လုပ်ငန်းတခုချင်းစီ အတွက် တနှစ်ကို ဒေါ်လာ ၁ သိန်းလောက် သက်သာ စေနိုင်တယ်လို့ J.P. Morgan ရဲ့ ခန့်မှန်းချက်မှာ ဖော်ပြထားပါတယ်။\n\nရေတို တိုးတက်မှုအတွက် ထောက်ပံ့မှု အကန့်အသတ်တွေ ရှိနေဆဲဖြစ်ပြီး စက်ရုပ်တွေရဲ့ လက်တွေ၊ လှုပ်ရှားမှု အစိတ်အပိုင်းတွေ၊ မှတ်ဉာဏ်ဦးနှောက်နဲ့ ထုတ်လုပ်မှု အရေအတွက်တွေက အခက်အခဲတွေ ဖြစ်တယ်လို့ ဆိုပါတယ်။\n\nစက်ရုပ်တွေရဲ့ အဓိက အစိတ်အပိုင်းတွေ ဖြစ်တဲ့ လှုပ်ရှားမှု အစိတ်အပိုင်းတွေ၊ မော်တာတွေနဲ့ အမြင်အာရုံ စနစ်တွေရဲ့ ဈေးကွက်ဟာ ၂၀၃၅ မှာ ဒေါ်လာ ၃၀ ဘီလီယံ အထိရှိလာမယ်လို့ မျှော်လင့်ကြောင်းလည်း သိရပါတယ်။\n\nအမေရိကန် အခြေစိုက် စက်ရုပ် ထုတ်လုပ်တဲ့ ကုမ္ပဏီတွေထဲမှာ Tesla ရဲ့ Optimus, Agility Robotics ရဲ့ Digit, Boston Dynamics ရဲ့ Atlas, Figure AI ရဲ့ Figure Robots နဲ့ Apptronik ရဲ့ Appollo တို့က အဓိက ဖြစ်လာမယ် လို့လည်း ဆိုပါတယ်။\n\nစက်ရုပ် အစိတ်အပိုင်း ထုတ်လုပ်တဲ့ ကုမ္ပဏီတွေထဲမှာတော့ Timken, Robotis, Leader Drive, Orbbec နဲ့ Cognex တို့ကို အလားအလာရှိတဲ့ ကုမ္ပဏီတွေ အဖြစ် J.P. Morgan ရဲ့ ခန့်မှန်းချက်မှာ ဖော်ပြထားပါတယ်။\n\nRef : Reuters",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/rob14nof-900x476.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+   "source": "The Guardian",
+   "published": "2026-11-14T06:19:04+00:00",
+   "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small busin",
+   "body": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=32d07acfc6c3a30cd9dc6332d3e3023c",
+   "lang": "en"
+  },
+  {
+   "title": "Siege fuels disease fears in Yemen’s Taiz",
+   "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T06:17:27+00:00",
+   "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+   "body": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Yemen"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AA%D8%B9%D8%B2-%D9%8A%D8%B5%D8%A7%D8%B1%D8%B9%D9%88%D9%86-%D9%85-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%8A%D8%A7%D9%87-%D8%A2%D9%85%D9%86%D8%A9-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%AF%D8%A7%D8%A4%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A8%D8%A7%D9%86%D9%8A-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-1794612427.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+   "link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T06:14:09+00:00",
+   "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+   "body": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/shutterstock_2690401343-1794573861.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdDWFpKYTFpLXBKakFwVW5DYjA5eXdONUZZUi1vVGlpcjZlSlJaQmFCNmk0ZDAyOWZMSlh4T2FwZVFCMVRYLWxQb3MwdmMzUHNhQWdFWGV2RHdsZmZPYzdMd3RTdHZ4QzFxazlDVzE4cll5MnBOSHFnM2IwX1Q5RHJPbW1DOXpmMFVJVzFTMVhvc0NuWmlYWEhFeFpaZ1dEN0hTUkJQS2x3Ql9IV2VVMWtvUWlYTndJbVRETFhvT2tCUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T06:11:04+00:00",
+   "summary": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue The Independent",
+   "body": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+   "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-14T06:09:00+00:00",
+   "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
+   "body": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/79816969_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft says consumer products 'fully recovered', business services improving",
+   "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+   "source": "France 24",
+   "published": "2026-11-14T06:07:56+00:00",
+   "summary": "Resolution seems in sight on Saturday following confirmation by tech giant Microsoft on Friday that services had ​fully ‌recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​gover",
+   "body": "Resolution seems in sight on Saturday following confirmation by tech giant Microsoft on Friday that services had ​fully ‌recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air stoppage.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/847567e0-dfef-11f1-93ed-695cb59fade5/w:1024/p:16x9/AP26313848301021.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "UK tells blind Nigerian pensioner to go home to India",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+   "source": "The Guardian",
+   "published": "2026-11-14T06:00:37+00:00",
+   "summary": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK i",
+   "body": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK in 2000, and shortly after suddenly went blind due to acute glaucoma. Continue reading...",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e73cf35123e8bd53321089a41687a7d298f4654a/1125_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c183c52d4ec3a4e9fcec7342598a6887",
+   "lang": "en"
+  },
+  {
+   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T05:59:49+00:00",
+   "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+   "body": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261113__D7F93G3__v1__HighRes__FilesFblEspAndorraTenerifeAccident-1794634335.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T05:52:31+00:00",
+   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "body": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+   "link": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T05:51:42+00:00",
+   "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+   "body": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2304454015-1794571001.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "US Lifts ground stop, but passengers face second day of flight disruption",
+   "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T05:42:41+00:00",
+   "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+   "body": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e091e07f1-1794629777.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T05:18:23+00:00",
+   "summary": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China The Washington Post Nvidia’s week of chaos, explained CNN Nvidia’s cult of personality was bound to end badly Financial Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sou",
+   "body": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China The Washington Post Nvidia’s week of chaos, explained CNN Nvidia’s cult of personality was bound to end badly Financial Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley plots Jensen Huang’s comeback Politico",
+   "category": "Asia-Pacific",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "နိုင်ငံတော်ဘတ်ဂျက်မူလချေးငွေအပြင် ကျပ် ၁ ထရီလီယံ ထပ်တိုးဖို့ မင်းအောင်လှိုင် အတည်ပြု",
@@ -202,6 +462,50 @@
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/malb14nof-900x476.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmF1V3p1V0dJZjlHUUtXSlFyYTE4LXQ2emRiTjB2TTI2Ukd3cm5BUlM0TmZlcDB6azdUdmE3Ni1XNXc4TG9YMW82SGV5TkZMSlZvbG1ramxDUEdFZEJTcWZqdmluMmw0RkFoN2IyeHl0ZG9STGRORV9TaWFoVHptOXVVc1EyQzl3QVE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T05:12:43+00:00",
+   "summary": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican NPR A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998 The New York Times Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP CNN JKT flips g",
+   "body": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican NPR A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998 The New York Times Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP CNN JKT flips governor’s seat blue in Dunleavy referendum Alaska's News Source JKT declares victory after topping 50% in Alaska governor’s race as Peltola extends Senate lead Alaska Public Media",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine - Daily Kos",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MRXVYcll0RXM1Y2NZcksybWI1b05LVEJ4VDdxangyVzNOcmM1RzJCbEtzQ05keE1pYk9TcFJtTTd4UmpkbGhZd0NzUTI5T29oTHd0eTJURmhLUmo1UkxBU2VCY2prcWYyOXlqOUtqVm9mb05tbldSSQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T05:12:27+00:00",
+   "summary": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine Daily Kos",
+   "body": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine Daily Kos",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe must learn modern warfare from Ukraine – ARX Robotics CEO - Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3BaTnUzM0tENWVQTXZLcGhRcS1ieVQ5Y0oydm5MT1IxQTF6QWRjZlVhS1ppMkh6anYxR19kM0VBNFU3ZWVZMVNJcjhNMk1PNVVHaDlmYlpuQWdOYm1lSjNnYmx3U092YlR1ZEFrTzBEZDhRWEhjTXJ0QXdqMEVfVkNFRXEtOGlsWE82bmxUaHVPU2hsSUJSV240YS1jQTQtZHVIR1BCWS1ReFFodWpsSGY0TXVzcTjSAbcBQVVfeXFMTTdwWk51MzNLRDVlUE12S3BoUXEtYnlUOWNKMnZuTE9SMUExekFkY2ZVYUtaaTJIemp2MUdfZDNFQTRVN2VlWTFTSXI4TTJNTzVVR2g5ZmJabkFnTmJtZUozZ2Jsd1NPdmJUdWRBa08wRGQ4UVhIY01ydEF3ajBFX1ZDRUVxLThpbFhPNm5sVGh1T1NobElCUlduNGEtY0E0LWR1SEdQQlktUXhRaHVqbEhmNE11c3E4?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T05:05:53+00:00",
+   "summary": "Europe must learn modern warfare from Ukraine – ARX Robotics CEO Ukrinform",
+   "body": "Europe must learn modern warfare from Ukraine – ARX Robotics CEO Ukrinform",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
@@ -332,19 +636,6 @@
    "lang": "en"
   },
   {
-   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T04:44:00+00:00",
-   "summary": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX’s Starship soars into orbit after booster explosion foils unprecedented maneuver Los Angeles Times First catch aborted in SpaceX Starship rocket double-catch test BBC SpaceX Starship Flight ",
-   "body": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX’s Starship soars into orbit after booster explosion foils unprecedented maneuver Los Angeles Times First catch aborted in SpaceX Starship rocket double-catch test BBC SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit Space SpaceX launches Starship in key test flight of massive rocket CNBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "German spies granted sweeping new powers",
    "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
    "source": "Al Jazeera",
@@ -361,21 +652,6 @@
    "lang": "en"
   },
   {
-   "title": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse. - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFBPeER1V1U4YVFZeWFtNWlicEVwazExUVhpWmFjMEZaWVRkMkV4UFhuS05uYlBib0t4dFZnRnc2TWh4Qy00Q2ZDM183RkpqbTZHRlgtUlJ2SDFzZlNGUXJHUVdRdUZ6SUJvZlI1c3d2MFowTUI5Ul9qaDhfUWRmR0pTZE9qblJTa0pwRGY2SGZqWDNjb3NreDB2T1J1OTdwUzMyM0lWNENkU3dLTkdnT3Rwcw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T04:38:00+00:00",
-   "summary": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse. The Washington Post Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble ABC",
-   "body": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse. The Washington Post Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble ABC7 New York Immigrant community becomes epicenter of grief after deadly Brooklyn building collapse CNN Families devastated by Brooklyn building collapse came to NYC for a new life Gothamist",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
    "source": "Al Jazeera",
@@ -389,19 +665,6 @@
     "Iran"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794630488.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death - TMZ",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUFfQldSNk1DVDM1WnJZTTI4Q0hROHlLWW16dU9lMEVtU0drN0c4RjRGU29VY0xMLV91NE5xaExJUXhBQjFYb2M5M0t4Q1lMRnlPR2hZVk81U2NUMkN2TFR3al9sbWp1dU9nMzVEMEdyM1FvWnFvcTdtMXEzVVFBcDFBOUF1NGlJM2dDQg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T04:15:54+00:00",
-   "summary": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death TMZ",
-   "body": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death TMZ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -453,27 +716,12 @@
    "lang": "en"
   },
   {
-   "title": "Here’s the latest.",
-   "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-   "source": "NYT World",
-   "published": "2026-11-14T04:00:27+00:00",
-   "summary": "Trump administration officials blamed a telecommunication outage and said they needed more funding from Congress to pay for system upgrades.",
-   "body": "Trump administration officials blamed a telecommunication outage and said they needed more funding from Congress to pay for system upgrades.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
    "title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
    "source": "Google News",
    "published": "2026-11-14T03:47:00+00:00",
-   "summary": "Trump to have first trilateral meeting with Putin, Xi The Washington Post Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Xi and Putin to hold first three-way summit in China Al Jazeera Trump, Putin and Xi t",
-   "body": "Trump to have first trilateral meeting with Putin, Xi The Washington Post Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Xi and Putin to hold first three-way summit in China Al Jazeera Trump, Putin and Xi to meet in first trilateral meeting between leaders The Hill Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says Reuters",
+   "summary": "Trump to have first trilateral meeting with Putin, Xi The Washington Post Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC Sou",
+   "body": "Trump to have first trilateral meeting with Putin, Xi The Washington Post Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC South Korea should not fear China's rise, foreign minister says Reuters Beijing faces Russia bind amid talk of Xi-Trump-Putin summit DW.com",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -482,6 +730,21 @@
     "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What we know about the longest ground stop since 9/11",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T03:45:21+00:00",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+   "body": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
    "lang": "en"
   },
   {
@@ -540,6 +803,21 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
+   "lang": "en"
+  },
+  {
+   "title": "Nationwide flight delays and cancellations continue after FAA lifts ground stop - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVZ4Wk5XZ0d0b2dGQ2hlMWVia21pOV94bGZzay1yaTdJa1IxSU56NzcxYkQ2OTlJMDg5Y0RwYmJncmpScW9haFZhNmtzMnlXcFRmNmdQckdWY3FiUERZSkJ3OW5Ta082OHdBNFl4aGRWMWVqRmczMlFoeFhzb0N5cDJR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T02:57:45+00:00",
+   "summary": "Nationwide flight delays and cancellations continue after FAA lifts ground stop AP News FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN World in brief: America resumes flights after nationwide ground stop; Bessent ch",
+   "body": "Nationwide flight delays and cancellations continue after FAA lifts ground stop AP News FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN World in brief: America resumes flights after nationwide ground stop; Bessent chastises Lutnick The Economist Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary Fox Business FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend CNBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -650,6 +928,19 @@
    "lang": "en"
   },
   {
+   "title": "Setback for SpaceX reusable rocket system despite successful launch - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdC1nQTZfeS1mN3Bkd0g4MlpYMGdhNW0wTTdDWjQzbWJ4ODF3ZF9hMFJLV2JSUWNiZ3ZzN2Z4YVR3eTJnNGVUX1pYeG9sN3NqN2FRcDNTdWx5Wkt2SFZmQWR1ODdMTGw1ZTM3VDJWTU55MHpSUFJ6NU8zZ3BoTVRXaTl1d3NZRGhkYkp2a0N2WVluVTTSAZMBQVVfeXFMUDcySjViSFFIUW5hd1NFNGtnN1VlNHVfZFVENURud3ZBbEhLVTQ2cGpmVy1iNGRLd2Fyb1k5NWtGMjkyeFdGMXBFa2xYeDdIdjhyVFJpZzNJaVIxaEN0ejlqN2dvTXF3QUVPMnRxcmRuRmxzeWI3VGs0U1lvdllySXh3aTN0SHZCdHM2YVZmOURyTG5z?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T02:29:22+00:00",
+   "summary": "Setback for SpaceX reusable rocket system despite successful launch DW.com Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX Starship megarocket blasts off before expected return for reuse The Guardian SpaceX Starship Flight 15 live updates",
+   "body": "Setback for SpaceX reusable rocket system despite successful launch DW.com Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX Starship megarocket blasts off before expected return for reuse The Guardian SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit Space First catch aborted in SpaceX Starship rocket double-catch test BBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "အမေရိကန်တစ်နိုင်ငံလုံး လေယာဉ်ခရီးစဉ်တွေ ရပ်နားခဲ့ရမှု နောက်ဆုံးသိရသမျှ",
    "link": "https://www.bbc.com/burmese/articles/cqvg2lyzngkeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
@@ -665,6 +956,21 @@
    "lang": "my"
   },
   {
+   "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3A0V3dtWnNnWFB2Z0x2RVBhX2hiYmJCa01TYnc0SUZucUJFcm1mdlUtRTgyV1l3dEd3NVVvcTFfTnM0Z1dBMkFHbTMzZzBLVkg4QW1zY1FoUzNnLU1aOFNYbnlkRTlNMkxkWThTYnpROWlYMWpqVlotRjBYMGROY2VQWHBFbmdDZzFGUjhR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T02:24:29+00:00",
+   "summary": "Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble ABC7 New York Demolition next to collapsed building continued despite stop work order, violation say",
+   "body": "Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble ABC7 New York Demolition next to collapsed building continued despite stop work order, violation says NBC New York Immigrant community becomes epicenter of grief after deadly Brooklyn building collapse CNN For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse. The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "SpaceX launches Starship rocket, fails to recover booster",
    "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -678,25 +984,12 @@
    "lang": "en"
   },
   {
-   "title": "Nationwide flight delays and cancellations continue after FAA lifts ground stop - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVZ4Wk5XZ0d0b2dGQ2hlMWVia21pOV94bGZzay1yaTdJa1IxSU56NzcxYkQ2OTlJMDg5Y0RwYmJncmpScW9haFZhNmtzMnlXcFRmNmdQckdWY3FiUERZSkJ3OW5Ta082OHdBNFl4aGRWMWVqRmczMlFoeFhzb0N5cDJR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T02:19:03+00:00",
-   "summary": "Nationwide flight delays and cancellations continue after FAA lifts ground stop AP News FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN What to Know About Friday’s Nationwide Ground Stop The New York Times FAA ground",
-   "body": "Nationwide flight delays and cancellations continue after FAA lifts ground stop AP News FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN What to Know About Friday’s Nationwide Ground Stop The New York Times FAA ground stop throws sports world into travel chaos ahead of weekend games ESPN Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary Fox Business",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
    "source": "Google News",
    "published": "2026-11-14T02:16:00+00:00",
-   "summary": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News",
-   "body": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News",
+   "summary": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News Small Indiana town gets its own superhero, a kid known as \"Banana Man\" Yahoo",
+   "body": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News Small Indiana town gets its own superhero, a kid known as \"Banana Man\" Yahoo",
    "category": "South Asia",
    "is_war": false,
    "countries": [
@@ -736,17 +1029,15 @@
    "lang": "en"
   },
   {
-   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans - WDSU",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
+   "title": "River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG9uQTRQQzVfcDVfdWFEaDBGdWxsVFg0bi1ZNTJZMUlwVUF2M2N3S2FFMzQzYXlrQVlFZmQ3NWVaM3RPVDBQY0ZiclV5TTh3UGpKdExrWWJaSE11OGRBTlY1SUl2eWxzN3NjSXljS041MVFHY2paZ3VoR3JjVjYyUHZtZzlOLWZKU19n?oc=5",
    "source": "Google News",
-   "published": "2026-11-14T02:00:00+00:00",
-   "summary": "What we know about the American Heritage cruise ship struck by tanker in New Orleans WDSU LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans FOX 8 Live WVUE Miracle on the Mississippi: All a",
-   "body": "What we know about the American Heritage cruise ship struck by tanker in New Orleans WDSU LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans FOX 8 Live WVUE Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN River cruise boat capsizes after crash - No fatalities or critical injuries WWLTV.com",
-   "category": "USA / Americas",
+   "published": "2026-11-14T02:00:05+00:00",
+   "summary": "River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued CBS News ‘Miracle on the Mississippi’: No fatalities after tanker crashes into river cruiser near Port of New Orleans FOX 8 Live WVUE ‘Something’s up’: Man who witnessed miracle on Friday asks",
+   "body": "River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued CBS News ‘Miracle on the Mississippi’: No fatalities after tanker crashes into river cruiser near Port of New Orleans FOX 8 Live WVUE ‘Something’s up’: Man who witnessed miracle on Friday asks why danger always finds this span of the river The Lens Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -766,23 +1057,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says - Arab News",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT2lVby1sUDgxNXZXcm0zc29WUTBzNWlLaXFEZ0NZenp3Ml9xTmVvOXJsVzJ4aTdZejBSeU1PcHhMNlZrU09hMUF0dlB2aVFtYWNoNFpqVkM3YU51SWp0dmM4ZlN1NGY2cjNoOWNtcVVybU1hRkduMklRekFzcURvWlZGdGd5VHEtRGFmbHFiMGRGN2JQWVJ0RmhKZGVVNUI1Y3QtWE9IMTJsRTZ5eG1malc4czQ2andCMklBRWNhTExBeWtyajI1Z1hnM0N3WS1teXNqdlUydzliUndUeDdBZjFn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T01:47:04+00:00",
-   "summary": "Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says Arab News",
-   "body": "Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says Arab News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "US lifts nationwide ground stop for airports hours after halting all departures",
    "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -795,6 +1069,21 @@
     "United States"
    ],
    "image": "https://static.dw.com/image/79945313_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djNVSXdUQ3VCdkZfSl84NkdVM0RTbWo3QnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T01:40:29+00:00",
+   "summary": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia The Washington Post Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ",
+   "body": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia The Washington Post Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker CNBC ‘An intergalactic freak show’: Republicans are piling on Howard Lutnick Yahoo Finance Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -859,27 +1148,12 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
    "source": "Google News",
    "published": "2026-11-14T01:22:00+00:00",
-   "summary": "After 26 years, the US has lost its measles elimination status CNN The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know AP News Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos US lose",
-   "body": "After 26 years, the US has lost its measles elimination status CNN The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know AP News Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos US loses measles-free status after continued spread of the disease, WSJ reports Reuters Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ",
+   "summary": "After 26 years, the US has lost its measles elimination status CNN Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know AP News US had ",
+   "body": "After 26 years, the US has lost its measles elimination status CNN Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know AP News US had eliminated measles. RFK Jr. helped bring it back | Opinion USA Today Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands WSJ",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Silicon Valley plots Jensen Huang’s comeback",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0xlalJocUFyeUtVSXlERWl1Q0FYajJUV0RLZXRzaTgzWlNVVlZISVJMUHVoX1RuNXhWX3ZsYkZDQmJKdWY3M1pGdU05ZzdHWlB6OEhvQjU3OEwtME4xYWdUeXZpY1pUOXB5d1VfR1VySzExWm00WFpuRFg3TU9LSUxIeG9SZ1JJVXBHbnU0UDNVQ2w3MnFaRA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T01:21:00+00:00",
-   "summary": "Silicon Valley plots Jensen Huang’s comeback Politico Nvidia’s week of chaos, explained CNN Nvidia spy scandal: What Jensen Huang told top executives about his relationship with Alice Huang The Times of India Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted The",
-   "body": "Silicon Valley plots Jensen Huang’s comeback Politico Nvidia’s week of chaos, explained CNN Nvidia spy scandal: What Jensen Huang told top executives about his relationship with Alice Huang The Times of India Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted The New York Times Nvidia’s cult of personality was bound to end badly Financial Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "India"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -930,22 +1204,6 @@
    "lang": "en"
   },
   {
-   "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-   "source": "The Guardian",
-   "published": "2026-11-14T00:52:48+00:00",
-   "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesse",
-   "body": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=32d07acfc6c3a30cd9dc6332d3e3023c",
-   "lang": "en"
-  },
-  {
    "title": "Sabalenka's season ended by Svitolina at WTA Finals",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aVGI5ZzdaMGZRSUtLeTFVN1JlU19hQjZhbGRyRWR2UHRKUXpoS1JYbHlqOS1TNkVwTG9VQjZLZTRQNnNnOE1WeUFmYTdyaUJTVXZWNnBTcS1JdFQ5eWZubFF0YkNwQQ?oc=5",
    "source": "Google News",
@@ -986,6 +1244,21 @@
     "United Kingdom"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1U0RkFDbFh2b3BpclRWQXg5Mk5CZ181Mklja2ZwQ3cxOGFwSU54bHlqa2xEVkRTbVpTbkNzS0JNLUpVcXZxSTBsNlhYNXotOXB1QlZVb0U2amxJRHMwa01tUVB3dmp5MXRwdXFFZWI2aTE1TkxYcFI1UTZESnk4ZDkwRGllUjZIZDk0N05B?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T00:20:00+00:00",
+   "summary": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico Van Hollen drops presidential ambition: ‘I’m not running in 2028’ Baltimore Sun The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen to challenge Ch",
+   "body": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico Van Hollen drops presidential ambition: ‘I’m not running in 2028’ Baltimore Sun The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen to challenge Chuck Schumer for Senate leadership BBC Democrats Vie for Support in Race for Top Senate Job The New York Times",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1237,8 +1510,8 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcV9nVjVrRVZhdGFGNnhFOWptVlNweG50bmktV3RzUkEwUmpQQ3EzTGVDOTRsdE1iVGRiR3dHVHg5dzQ2WXU3MVhyY3UzQU0yQmxGN2ZBMmFOQk91N0dQUnJGMkZGMU4wNFM1MmV6SHAxZ3RUVVVEQ0tmUUwwQlVBcFByQ3pEZjQxMWJhX1dTRi1aZnFZVHh4RFFKc1loVUYtZ18wNWxRQmtyTlN5MElCSlZuWE9EM2JFSHBSMjB6NTBCTTh0VlIxLV9uR25LSUllTU1obXJ3?oc=5",
    "source": "Google News",
    "published": "2026-11-13T22:53:45+00:00",
-   "summary": "UFC 334 final faceoffs: Josh Hokit sends one last message to Ciryl Gane, who's heavily booed Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC 334 Results: Gane vs. Hokit Yahoo Sports Cain Velasquez compares Josh Hokit to Conor",
-   "body": "UFC 334 final faceoffs: Josh Hokit sends one last message to Ciryl Gane, who's heavily booed Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC 334 Results: Gane vs. Hokit Yahoo Sports Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event MMA Fighting B/R Staff Predictions for UFC 334 Main Card Bleacher Report",
+   "summary": "UFC 334 final faceoffs: Josh Hokit sends one last message to Ciryl Gane, who's heavily booed Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC 334 Results: Gane vs. Hokit Yahoo Sports UFC 334 fight predictions, expert picks for",
+   "body": "UFC 334 final faceoffs: Josh Hokit sends one last message to Ciryl Gane, who's heavily booed Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC 334 Results: Gane vs. Hokit Yahoo Sports UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tomorrow night CBS Sports Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event MMA Fighting",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1250,8 +1523,8 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
    "source": "Google News",
    "published": "2026-11-13T22:52:34+00:00",
-   "summary": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times Pope in Peru: Searc",
-   "body": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times Pope in Peru: Search for truth in universities becomes service to humanity Vatican News In Chiclayo, Pope calls on local clergy to reject clericalism, warns students against soulless tech OSV News",
+   "summary": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times In Chiclayo, Pope c",
+   "body": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times In Chiclayo, Pope calls on local clergy to reject clericalism, warns students against soulless tech OSV News Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru AP News",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1364,23 +1637,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T22:18:02+00:00",
-   "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal The New York Times",
-   "body": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal The New York Times",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows - UNITED24 Media",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME1nM09UeWEyRmI5aFNxbXVPYzlTb1ZDRzFJc3A0eUN3UExtMHM4MHhoTXVaV1VTOXQ1VHAxV1RDelBwN2JNb1NzLUVoLVpGVkNuR1B3dmN2eGZIWkswUEJzVDVJNHM0dW50OTVpVW1VVGl2RHN5WUJfOEJRX0h3LWZjbWdGdVpYT1NaWEpfNUY5b0gwQ0N4LXlCLVkzSlczVDhkbl9wOWEwMGtDWVZaVTJoU3pEbXZDaWtyblNuZ0lIeFMt?oc=5",
    "source": "Google News · Ukraine",
@@ -1419,21 +1675,6 @@
    "is_war": true,
    "countries": [
     "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Democrats investigating sexual harassment allegation against newly elected congressman Brian Poindexter",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTh5NEZySGlnVldpbmJocFVrbUkzWGF2cTJxVl9QVUItZ19wc2FUc3hJd1lnbHFhWDcwdHVfNnlOZjdDakJfX3dRVVl3aGhObWFwVG5ma2lvdGhUZldVd1hsemZsdkt6czRNcWdHaHBfei1LMU5BcGdUR1d1M2tGN21LS0FmSTdlN3ZKM0NNYW1CRFFpbkNMRG1UMEMwb2Qt?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T22:08:00+00:00",
-   "summary": "Democrats investigating sexual harassment allegation against newly elected congressman Brian Poindexter CBS News House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment The New York Times Democrats investigating sexual harassment allegation against incom",
-   "body": "Democrats investigating sexual harassment allegation against newly elected congressman Brian Poindexter CBS News House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment The New York Times Democrats investigating sexual harassment allegation against incoming Ohio congressman CNN Newly elected House Democrat under investigation for alleged sexual harassment The Washington Post DCCC investigates Rep.-elect Brian Poindexter for alleged harassment MS NOW",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1499,8 +1740,8 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUW9wYzVONXkwcTRlZXozYW9uWm9tbjZSODgtajV6U0o3V21yQ002b2dMZzJvWjB6T2JhV1BsUlFjNm5PeXJfdVNFUFVJNWNqUG9vcDZrQlc5S0syX3dIZGI5aWlwRUVzRjV5Mk5KVk5RSXVGUVNsTkNZSzZMTnB2cGEtcVBDVWc4OU8zX2I1LWhkSTBNcjR0TWpaMHFSRUJ2czRoY2czV0xHN2pkMGc?oc=5",
    "source": "Google News",
    "published": "2026-11-13T21:44:00+00:00",
-   "summary": "Goalkeeper banned 12 games for collision that led to Spanish player's death ESPN Jesus Owono given 12-match ban for collision with Jesus de Miguel that led to striker’s death The New York Times Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death The",
-   "body": "Goalkeeper banned 12 games for collision that led to Spanish player's death ESPN Jesus Owono given 12-match ban for collision with Jesus de Miguel that led to striker’s death The New York Times Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death The Guardian Owono undecided over future following De Miguel death BBC 🚨 Official: Jesús Owono banned for 12 games for tackle on Jesús de Miguel Yahoo Sports",
+   "summary": "Goalkeeper banned 12 games for collision that led to Spanish player's death ESPN Goalkeeper Owono handed 12-match ban after De Miguel death Al Jazeera Jesus Owono given 12-match ban for collision with Jesus de Miguel that led to striker’s death The New York Times Jesús Owono give",
+   "body": "Goalkeeper banned 12 games for collision that led to Spanish player's death ESPN Goalkeeper Owono handed 12-match ban after De Miguel death Al Jazeera Jesus Owono given 12-match ban for collision with Jesus de Miguel that led to striker’s death The New York Times Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death The Guardian Owono undecided over future following De Miguel death BBC",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1626,242 +1867,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-13T21:14:22+00:00",
-   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "body": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-   "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-   "source": "NYT World",
-   "published": "2026-11-13T21:04:57+00:00",
-   "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
-   "body": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "African Miss Universe Contestants Struggle to Get U.S. Visas",
-   "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
-   "source": "NYT World",
-   "published": "2026-11-13T21:01:28+00:00",
-   "summary": "A crackdown on entry by some citizens of African countries by the U.S. immigration officials means that some contestants might not get visas in time to attend the pageant in Puerto Rico this month.",
-   "body": "A crackdown on entry by some citizens of African countries by the U.S. immigration officials means that some contestants might not get visas in time to attend the pageant in Puerto Rico this month.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-missuniverse-africa-1-lfwp/13int-missuniverse-africa-1-lfwp-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? - Space",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T21:00:00+00:00",
-   "summary": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? Space Mars, Jupiter and Leonid Meteor Shower The Vineyard Gazette Tears of the Lion: Catching the 2026 Leonid Meteors Universe Today 190 years ago tonight, Leonid shower produced “the ",
-   "body": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? Space Mars, Jupiter and Leonid Meteor Shower The Vineyard Gazette Tears of the Lion: Catching the 2026 Leonid Meteors Universe Today 190 years ago tonight, Leonid shower produced “the night the stars fell” Vermont Daily Chronicle Leonid Meteors Peak Nov. 17, but a Storm Isn't Expected This Year Around Prague",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T20:52:31+00:00",
-   "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-   "body": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794603121.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Probation officers in England and Wales vote to strike over pay and workloads",
-   "link": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
-   "source": "The Guardian",
-   "published": "2026-11-13T20:51:01+00:00",
-   "summary": "Move deals blow to government’s plans to release thousands of prisoners early to tackle prison overcrowding The government’s plans to release thousands of prisoners early were dealt a blow on Friday after probation officers across England and Wales voted to strike over pay and ex",
-   "body": "Move deals blow to government’s plans to release thousands of prisoners early to tackle prison overcrowding The government’s plans to release thousands of prisoners early were dealt a blow on Friday after probation officers across England and Wales voted to strike over pay and excessive workloads. Members of the union, Napo, backed overtime restrictions and other forms of action short of a strike, which is likely to start on 23 November. Plans are being made for strike action to follow at a later stage. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/210975900bcd4af5d82e0f77eea4cfc10704b96f/710_0_4085_3266/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=af150b0f669ca87f4d79f2e941aff9eb",
-   "lang": "en"
-  },
-  {
-   "title": "Russian Occupation Update, November 13, 2026 - Institute for the Study of War",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjVfZzVPbHZQT1ViX2JwQVNSLWVPX1B3TlU3eHphckVOeUZReVhQQVhXX3ZBRDNsMXJNUzBNSjhrLW12RHY4ZVQ2NGtWUlFnSnI5dTRpZHkxTG5aZTVUMjZONnMzWmdkTjM1Z1AwUHo5aHUtOGtIaFBGTVd2bWFURGtEWHotMVhIM001M3kzbFFYdEJkZk1NYW5Tekg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T20:48:51+00:00",
-   "summary": "Russian Occupation Update, November 13, 2026 Institute for the Study of War",
-   "body": "Russian Occupation Update, November 13, 2026 Institute for the Study of War",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T20:48:02+00:00",
-   "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-   "body": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794602873.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Europe Must Step Up to Settle the Russia-Ukraine War - Council on Foreign Relations",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T20:41:35+00:00",
-   "summary": "Europe Must Step Up to Settle the Russia-Ukraine War Council on Foreign Relations",
-   "body": "Europe Must Step Up to Settle the Russia-Ukraine War Council on Foreign Relations",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "European leaders agree on joint team for Ukraine peace negotiations, Costa says - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0hMTnJRVTEwTXBhUkRUTmhzMUZaclVfUHlmdnh6V0E3ZnhWQmg0Z0RpTlVkd3Q5LUF1RGtEb1hDUHlQdnp6MGFRWmgwaU00Y1R0US14MU9QMnFGX0U4eHJabTgyNnRWTi1JdFBYdG1ab2hfNFhkMnduMGx3TTNvZ2I3TldwaWQ0Y1FmOWs4LWZDMy1PRVdQNFFzN1BaeThaZzZWR3pCUVlzSUk?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-13T20:40:00+00:00",
-   "summary": "European leaders agree on joint team for Ukraine peace negotiations, Costa says The Kyiv Independent",
-   "body": "European leaders agree on joint team for Ukraine peace negotiations, Costa says The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-   "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-   "source": "The Guardian",
-   "published": "2026-11-13T20:38:25+00:00",
-   "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security",
-   "body": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its aggression. “We have one aggressor and one victim, and the aggressor does not have security concerns,” Kaja Kallas said on arrival at an EU leaders’ summit in Dublin. “Nobody has ever attacked them. They have attacked others. I mean, keep the focus, people.” Continue reading...",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e",
-   "lang": "en"
-  },
-  {
-   "title": "Chris Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5R2xIMG9WWWNpT1RGc0xYdHdvZnV3RUtSbzNqZTVmMjMzeExhRE1SdUdhSF9oQ3pEM25oUml2N3NjX0VNRmF4MGxuU3UxN3JVNEt1SGF1ZjhVQVJVMEVpMU1CMDFXaUR5bjBKUGhaR3dRZTZBLTNXb2ZEcw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-13T20:36:00+00:00",
-   "summary": "Chris Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schum",
-   "body": "Chris Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN Van Hollen drops presidential ambition: ‘I’m not running in 2028’ Baltimore Sun Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats The Guardian",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza - The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wa0Y0TkdUdndjT0tJaG42TXZHNlFvNnpicDNMZFJDcWc3Y0hNOUc3V1NpOWFMdjFpLVppY19hejg5Qk9RbzZTNGtPdnhPLVBrOGfSAVdBVV95cUxQNTBHZVF0dkJaaHFYeDlEeHRaSGFrc0lrcy02YUl0ZWpBS1hBTFFTcjFEN3lsNU8zQUl3NG8zSUVUYk9sSlR0dnNzVS1Xc2NZWHBuOEI2T2M?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-13T20:34:00+00:00",
-   "summary": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza The Times of Israel",
-   "body": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza The Times of Israel",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Today’s Headlines: Three Killed in Gaza | Iran Strikes US Radar| US Taxpayers against Genocide - Palestine Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1FZUG9EUXRLLXljaTEwS3FSWVdLbFctejd2ZzJkY1UwbXY5UHh1dVlubFVKQUdWM0RTR055WUJmZWRiSHBlVWVuWHp5Zkw2QUI2dEs2d1pRWHNneFBualA1aURLWmlBMmFwM0tEXzBQOUU1ZUd1TW9aTC1NaGd4aVlEcUQ1TjEyR0VpbUYwR3VjcXJaOHI0VmJBOGlPSTUyRVltSkV1NmFadHZXVGtmd2tNOGNkU3BjY3lNcFk5SldfNlU?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-13T20:33:39+00:00",
-   "summary": "Today’s Headlines: Three Killed in Gaza | Iran Strikes US Radar| US Taxpayers against Genocide Palestine Chronicle",
-   "body": "Today’s Headlines: Three Killed in Gaza | Iran Strikes US Radar| US Taxpayers against Genocide Palestine Chronicle",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Palestine",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T20:32:42+00:00",
-   "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
-   "body": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794601941.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-   "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T20:28:20+00:00",
-   "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
-   "body": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af76c6baabc-1794600043.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
