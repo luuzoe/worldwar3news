@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T21:38:53.903637+00:00",
- "updated_yangon": "2026-11-15 04:08",
+ "updated": "2026-11-14T22:38:52.482528+00:00",
+ "updated_yangon": "2026-11-15 05:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -12,6 +12,7 @@
   "Google News",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,35 +22,31 @@
  "countries": [
   [
    "United States",
-   43
+   46
   ],
   [
    "Ukraine",
-   13
+   15
   ],
   [
    "Russia",
-   11
-  ],
-  [
-   "Israel",
-   8
+   10
   ],
   [
    "France",
    8
   ],
   [
-   "China",
-   8
-  ],
-  [
    "Myanmar",
-   6
+   7
   ],
   [
-   "Palestine",
-   6
+   "China",
+   7
+  ],
+  [
+   "Israel",
+   5
   ],
   [
    "Iran",
@@ -57,18 +54,14 @@
   ],
   [
    "India",
-   3
+   4
+  ],
+  [
+   "Palestine",
+   4
   ],
   [
    "United Kingdom",
-   2
-  ],
-  [
-   "Australia",
-   2
-  ],
-  [
-   "NATO",
    2
   ],
   [
@@ -85,6 +78,14 @@
   ],
   [
    "Syria",
+   1
+  ],
+  [
+   "Australia",
+   1
+  ],
+  [
+   "NATO",
    1
   ],
   [
@@ -115,12 +116,25 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 19,
+ "war_count": 17,
  "languages": {
   "my": 21,
   "en": 119
  },
  "items": [
+  {
+   "title": "'Very inconvenient': Residents, shop owners frustrated by indiscriminately parked bicycles despite stepped-up enforcement",
+   "link": "https://www.channelnewsasia.com/singapore/bicycle-indiscriminate-parking-mrt-stations-cyclists-6551666",
+   "source": "CNA World",
+   "published": "2026-11-15T06:00:00+08:00",
+   "summary": "The Land Transport Authority has removed 489 bicycles in the first 10 months of 2026 as it ramps up efforts to tackle the issue.",
+   "body": "The Land Transport Authority has removed 489 bicycles in the first 10 months of 2026 as it ramps up efforts to tackle the issue.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--tVQNAI7R--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/14/72633.jpg?itok=jte3kUrW",
+   "lang": "en"
+  },
   {
    "title": "A Tiong Bahru apartment gets a warm, Scandinavian-inspired makeover",
    "link": "https://www.channelnewsasia.com/obsessions/tiong-bahru-apartment-renovation-scandinavian-interior-design-6537686",
@@ -138,7 +152,7 @@
    "title": "KNU၊ KNPP နဲ့ နေပြည်တော်ကြား ဆွေးနွေးပွဲဖြစ်လာရေး ထိုင်း ကူညီမယ်",
    "link": "https://www.bbc.co.uk/burmese/live/c6zjr9ne0jget?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-14T21:39:13+00:00",
+   "published": "2026-11-14T22:39:02+00:00",
    "summary": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -148,6 +162,79 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176b/live/2a7c9a90-defc-11f1-9b2e-c7d61d5838d4.jpg",
    "lang": "my"
+  },
+  {
+   "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+   "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T22:09:40+00:00",
+   "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "body": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T22:07:08+00:00",
+   "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News",
+   "body": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "SpaceX successfully catches part of Starship rocket on its return to Earth",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UZVdqTVRVZU9PZVY2cFB2c0M5WEljcmFlQ3VXbVpCbVQ5ekxhaDdQRDgzdDFfemZYVW84NlQ1TnRaLUI0N092R0t3SjFaeVpaams2ZEVR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T22:02:58+00:00",
+   "summary": "SpaceX successfully catches part of Starship rocket on its return to Earth BBC Live updates: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX Starship returns to Earth in dramatic catch by launch pad arms, in photos SFGATE SpaceX",
+   "body": "SpaceX successfully catches part of Starship rocket on its return to Earth BBC Live updates: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX Starship returns to Earth in dramatic catch by launch pad arms, in photos SFGATE SpaceX catches upper stage of Starship rocket in historic first CNBC SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today Space",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T22:00:45+00:00",
+   "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+   "body": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8cefae487b-1794690810.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "US flights resume after ageing technology blamed for outage",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T21:36:19+00:00",
+   "summary": "US flights resume after ageing technology blamed for outage",
+   "body": "US flights resume after ageing technology blamed for outage",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794692170.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
   },
   {
    "title": "SpaceX carries out first-ever spaceship capture",
@@ -163,27 +250,12 @@
    "lang": "en"
   },
   {
-   "title": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T21:21:42+00:00",
-   "summary": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates The New York Times November 13, 2026 — Some US flights resume after hours-long ground stop CNN US aviation shutdown blamed on L3 Harris installed router Reuters FAA ground stop throws sports wor",
-   "body": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates The New York Times November 13, 2026 — Some US flights resume after hours-long ground stop CNN US aviation shutdown blamed on L3 Harris installed router Reuters FAA ground stop throws sports world into travel chaos ahead of weekend games ESPN Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess WSJ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0x6X3prTmdxdXlVNU1GdjBSdThpaDdHT2ZzYkVqVzlTMkQyTG5Fc3Z0NFJVSUVJTWk5QjdfZkhIaTNPOEJJTVU3Mk41NWlPZVl4SHctSmZ4dXhLT0s4RWYyNVUwd0p0Qk9hOWtwRkF3Uy1YOWdyUnZJbVg5dU9RM3UwblUxYi13dnJuUmZvOWNVY29VYVNCSnNyMS1wVWs0dWd3bXd6T3BnTy04aV94ZUxB0gG3AUFVX3lxTE5kbXVNakk4aUFZU3NlYkRkWUxvalJraFN3VWc5bjhBSzdyLVJ6MS1zVTVqeVRySm5kQ1VNOGVTX2JEMm9GMjFRVTVMS21WSzVxbGNULUNhMmdJRVdoTFlBVjBKUnpXWE0zRUFnRVlBYlJ3WEUzcFdIdmgyQzZrNTVyZWpkUFhJcDJhVlkzakZtUXFQRTNwN3RuQ3pQai1YUnA4YlFPMkR2NnBQMEEwR3FwQ1ZPY0QyQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T21:21:03+00:00",
-   "summary": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera",
-   "body": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T21:10:26+00:00",
+   "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+   "body": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -191,7 +263,7 @@
     "Russia",
     "United States"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -210,19 +282,6 @@
    "lang": "en"
   },
   {
-   "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T21:05:14+00:00",
-   "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-   "body": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Nigeria's upcoming election marred by rising AI disinformation",
    "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -233,6 +292,21 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/79855923_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Video: Biggest waves in decade pound California beaches, flood coastal streets - San Francisco Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUN0VnhBOExPSVlzSGp1d3N6ZDVobVZXY3p1cVB3UEl4RU42aFVjQnBoWnBBLW1scDZoc1pRd3RvdnlFWEw1dlNuVGVxZlZfWWJ4ank3YzNpWnRwTVh3SjBuZlJWNjU4U19fejJCMEpIR3NMZnJ6RXVxNC05VjI2VUFtNzNCTEY1ZWpVc1dpMlpEYzA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T20:56:31+00:00",
+   "summary": "Video: Biggest waves in decade pound California beaches, flood coastal streets San Francisco Chronicle The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matte",
+   "body": "Video: Biggest waves in decade pound California beaches, flood coastal streets San Francisco Chronicle The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters 'DO NOT GO TO THE BEACH': NWS warns Bay Area waves could top 60 feet SFGATE California’s battered beaches are getting giant waves The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -272,8 +346,8 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlYtS0dRV1ktX3lLbHpHRmVvMUFSRzJQaTBzQVdCdmgwSmxOcGM2YWdXZjFVZlF5UEhlZHgyTURGTXpWX25TQWxCNTZFek84cGN6a1pHN1o3c294Y2tkSmxWSE12S2ZHTkRYcGZfSDJiS1N5QzFrZWFVTDJJRjhmMW5QQURyM3hqYUFORTBaNTA2WVpIc3Y4Z0dRdkpqSEdPMUhPVWdNTjA2bHBJS2VOMlgxQ3ZlUkpndDJB?oc=5",
    "source": "Google News",
    "published": "2026-11-14T20:52:27+00:00",
-   "summary": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp Steps Into Scrooge’s Slippers WSJ Ebenezer Box ",
-   "body": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp Steps Into Scrooge’s Slippers WSJ Ebenezer Box Office: Johnny Depp Movie Leads on Opening Day Variety Roeper's Reviews: Chilling, at times disturbing version of ‘A Christmas Carol' NBC 5 Chicago",
+   "summary": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp Steps Into Scrooge’s Slippers WSJ Box Office: J",
+   "body": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp Steps Into Scrooge’s Slippers WSJ Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday Variety Roeper's Reviews: Chilling, at times disturbing version of ‘A Christmas Carol' NBC 5 Chicago",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -287,8 +361,8 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5",
    "source": "Google News",
    "published": "2026-11-14T20:52:00+00:00",
-   "summary": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues NBC News Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into",
-   "body": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues NBC News Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play NBC News Peltola grows lead in Alaska’s U.S. Senate race after thousands more ballots are counted Anchorage Daily News In Alaska’s legislative elections, a handful of races remain undecided nail-biters Alaska Beacon",
+   "summary": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues NBC News Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’ MS NOW Why mi",
+   "body": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues NBC News Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’ MS NOW Why midterm vote-counting is taking so long in America's largest state BBC In Alaska’s legislative elections, a handful of races remain undecided nail-biters Alaska Beacon",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -298,16 +372,16 @@
    "lang": "en"
   },
   {
-   "title": "SpaceX's Starship set for return to Earth after failed booster catch",
+   "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
    "link": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
    "source": "France 24",
    "published": "2026-11-14T20:51:24+00:00",
-   "summary": "SpaceX's Starship spacecraft was on track to return to its Texas launch site for a planned mid-air catch, after an aborted recovery attempt.",
-   "body": "SpaceX's Starship spacecraft was on track to return to its Texas launch site for a planned mid-air catch, after an aborted recovery attempt.",
+   "summary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
+   "body": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://s.france24.com/media/display/8cb1e4b2-e05b-11f1-b193-5f54d898a954/w:1024/p:16x9/2026-11-14T012408Z-750862810-RC2ANOA0O8FL-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
+   "image": "https://s.france24.com/media/display/db6b6746-e073-11f1-8695-695cb59fade5/w:1024/p:16x9/000-D7H72W2.jpg",
    "lang": "en"
   },
   {
@@ -326,6 +400,35 @@
    "lang": "en"
   },
   {
+   "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkRibzV3RlFkczI4cG44NEVaVDZJSkFDVTdRd2RncVRjdDRpT0plb1VnNlhnV1hCMkFaOWNLak90Xzk0ZjVnMll3cUZROTRPd211b0tVbEJrano4WTRHN2x4dU9nWFpoc1VGUnJaaFJ6LU9zdFBndWNJeWUyT0dKMUZJVXhJY0V2Sl9lX1BVcUNGQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T20:35:00+00:00",
+   "summary": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names Business Insider Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Elon Musk, other tech execs sign petition calling on Nvidia to r",
+   "body": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names Business Insider Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang TechCrunch Nvidia Scandal Prompts Questions of What It Means to Be a Spy The New York Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXF2TW1semtjZmNCMEVCZUN0czVVc3ZpTmlCRXg1Q1ZMMmdwS1ZsdG1Db1ZqTHpwYXBfQXd2YVRUSm14VnNVTzVnTUpiR3o1UkllUlBYaEtHX01fYW9wbERYWGJvZWJfV1RSTi0xaGh1V19PWU04bHBMRnp3R2VfN3lLc0NmdHJocVhlUEg0bTlzTWFuVHfSAZsBQVVfeXFMT1A1UWZqRC0yNV80UEtmQV9DSmROa2NKLVhmcTZnMjhBX3ltdmJrMXYzTTQ3VkozenJpazNyTVRHNFh2cVpINnZhcEpJSC1wVHBhbVRrTWlodDlrTTN5YnZ4VXphbDNQV182NnNXbGtObTBhc180UkRZNTlKNDhpUkxCakx5Y3BzcGR2ZUpqSGw1ZHAxS3dBeTdVcUU?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T20:33:00+00:00",
+   "summary": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal The Hill MAGA turns on Lutnick amid China spy scandal Axios The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss po",
+   "body": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal The Hill MAGA turns on Lutnick amid China spy scandal Axios The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
    "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -341,6 +444,19 @@
    "lang": "en"
   },
   {
+   "title": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tonight - CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzV280OFF1Z2VMVXlpeEtaRFFzcUZlQ3VVSWtJZGdkaW91RV9mRm1GVlIxZnJuc3htdElrdTRLRFNFYlZfeUNBcGFkY3BTb1BodWFmMTdSM19kX3RKY1U4SWxSMHI1V3hYQm1maWs2d1pRQnRn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T20:30:00+00:00",
+   "summary": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tonight CBS Sports UFC 334 live updates: Fight card highlights, reactions, more Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC Tonight: Fight By Figh",
+   "body": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tonight CBS Sports UFC 334 live updates: Fight card highlights, reactions, more Yahoo Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit UFC.com UFC 334 results, live updates: Josh Hokit vs. Ciryl Gane fight headlines tonight's showdown CBS Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Fact check: 'Iranian' content farms reach millions",
    "link": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -353,19 +469,6 @@
     "Iran"
    ],
    "image": "https://static.dw.com/image/79922816_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "RAF Abu Dhabi live results, round-by-round updates for today's Khamzat Chimaev vs. Chris Weidman card - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUktQc2hlMlphaWxwMU5rVGp5UWs1V0NsUU9CeDBBRGlaeEJuSnZ6bEhJTms0Ujh1SlhUbUNBM2RZaEhMVm1RLTJpZzhuMGZybDlZQU96MW5LOV8wMjVyWDRaNmpvSTVPX0sta2hyYVZPd3RLUUZmaFRLejZtNWVCeXZ6b2NIb0VIWGNBTnRwRU9VdTU3MEtyVVJlYmJFSUJPdktPV2NBOU5zOGdtUUpnQklpT0E5MWR3V3VJQ014NkJSYktLVFA5dVJJUUtYeGgyUUxYWFVNbVJGRHpqV3pmUk9SOHVxdkJj?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T20:23:39+00:00",
-   "summary": "RAF Abu Dhabi live results, round-by-round updates for today's Khamzat Chimaev vs. Chris Weidman card Yahoo Sports RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory MMA Junkie RAF Abu Dhabi live stream results, discussion and video highligh",
-   "body": "RAF Abu Dhabi live results, round-by-round updates for today's Khamzat Chimaev vs. Chris Weidman card Yahoo Sports RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory MMA Junkie RAF Abu Dhabi live stream results, discussion and video highlights | Khamzat vs. Weidman MMA Mania RAF Abu Dhabi: Khamzat Chimaev vs. Chris Weidman Live Updates, Highlights, Results Bleacher Report Khamzat Chimaev blanks Chris Weidman with tech fall victory in RAF Abu Dhabi main event MMA Fighting",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -403,11 +506,13 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRm5WNmxXZExlUFUyb0V5UVpYNHRXdWNKVjBxU3RFNWlWY2ZGSWVWZE0zWnZKZlpTeGpuaTNMOXdFYlRtVU9ESm05elhYMWUwTEVnZVY1bV9FX3RZX3A0aWVVNlc1YXMtUkxadmRocTRNbmxmcC1IMkQxZVZ3V1BRMTM2VHNsai1WQWtVeGRkcFR0czNKWUlMdU42TmhMeTRFSUFwUzVUMUw?oc=5",
    "source": "Google News",
    "published": "2026-11-14T20:20:00+00:00",
-   "summary": "Oklahoma AD 'infuriated' with SEC, Ole Miss for Sunday game ESPN Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection' ESPN OU Announces Football Fan-Appreciation Promotions, Alterations to Other Sunday Events Soonersports.com UCO invites SEC fans to Bronchos",
-   "body": "Oklahoma AD 'infuriated' with SEC, Ole Miss for Sunday game ESPN Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection' ESPN OU Announces Football Fan-Appreciation Promotions, Alterations to Other Sunday Events Soonersports.com UCO invites SEC fans to Bronchos games Saturday while poking fun at Ole Miss KOCO Bob Stoops slams SEC: Legendary Oklahoma coach calls out league after FAA issues push Ole Miss game to Sunday CBS Sports",
+   "summary": "Oklahoma AD 'infuriated' with SEC, Ole Miss for Sunday game ESPN OU Announces Football Fan-Appreciation Promotions, Alterations to Other Sunday Events - University of Oklahoma Soonersports.com UCO invites SEC fans to Bronchos games Saturday while poking fun at Ole Miss KOCO Bob S",
+   "body": "Oklahoma AD 'infuriated' with SEC, Ole Miss for Sunday game ESPN OU Announces Football Fan-Appreciation Promotions, Alterations to Other Sunday Events - University of Oklahoma Soonersports.com UCO invites SEC fans to Bronchos games Saturday while poking fun at Ole Miss KOCO Bob Stoops slams SEC: Legendary Oklahoma coach calls out league after FAA issues push Ole Miss game to Sunday CBS Sports College football game delays, schedule updates, live scores: USC vs. Indiana, Texas vs. LSU, Utah vs. Arizona and more Yahoo Sports",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "India"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -453,6 +558,19 @@
     "India"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794687262.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmJYNUozVC1GX01ibDFuSlJTOUNVYU92dm45TGRJNHZpcVNRQ2tFbXJBbDczRHljY0RKT1ZWUzFpMExnRkJhQWtmOGRmUTNYZHJXOWdhaldrQmNxNWZsaUR5b21CR3NiRVpWRFQ4U2pZdkl1eDVPX2V1VkFtZVRtaEUyNi1zMkxTSkpDbG9PR0dkdWM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T20:12:34+00:00",
+   "summary": "Bomb found near ethanol plant in central Illinois forces evacuations NPR FBI investigating after bomb found at Ethanol plant in Illinois, forcing evacuations CNN Illinois plant searched, evacuation lifted after explosive device found USA Today BREAKING: EVACUATION ORDER LIFTED CI",
+   "body": "Bomb found near ethanol plant in central Illinois forces evacuations NPR FBI investigating after bomb found at Ethanol plant in Illinois, forcing evacuations CNN Illinois plant searched, evacuation lifted after explosive device found USA Today BREAKING: EVACUATION ORDER LIFTED CIProud.com Evacuation zone lifted after bomb found at Illinois ethanol plant The Guardian",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -530,6 +648,19 @@
    "lang": "en"
   },
   {
+   "title": "RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory - MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaUZQX3dDbmM2U1Q1Q1VtbGl1YTRNX0FwdXJYVEloanZJUldLMEJCbklSZVBpYzRDOVEwZXlRa2dCcmk5ZVJIdWdndlpUX19xOVVBSlU1aHZwNW41TjJGempFaXk5dGw0VDY1SVRaaWh4M1gtaDFoSUJ6d3RhTnMwS25GZHFJRUxiQjluX0NzM3pTYVZ6amx1ZlpSY1cxLThXOTFLb3lRYjRmX3oteXlMLVJQa3V2aDVpakVLX19hbW05Ykh3aHRnV0NuMTZiUWc5dnVwWUNuNUxBaUJOM2JMNTB2QUkyUWZGSEpSYnNhRVlwZXk4N3BIWWF6S0MzTF85WHV3cw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T19:33:00+00:00",
+   "summary": "RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory MMA Junkie RAF Abu Dhabi: Updated match card, start time after Usman Nurmagomedov's brutal attack on Merab Dvalishvili Yahoo Sports RAF Abu Dhabi Featuring Khamzat Chimaev and Merab Dvalishv",
+   "body": "RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory MMA Junkie RAF Abu Dhabi: Updated match card, start time after Usman Nurmagomedov's brutal attack on Merab Dvalishvili Yahoo Sports RAF Abu Dhabi Featuring Khamzat Chimaev and Merab Dvalishvili Live Updates, Highlights, Results Bleacher Report Khamzat Chimaev blanks Chris Weidman with tech fall victory in RAF Abu Dhabi main event MMA Fighting TN magazine: Mohammed Kazem (mobile) - in pictures www.thenationalnews.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Tens of thousands march in latest Portugal housing protests",
    "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
    "source": "Al Jazeera",
@@ -564,8 +695,8 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
    "source": "Google News",
    "published": "2026-11-14T19:22:00+00:00",
-   "summary": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" CBS News Netanyahu urges Eisenkot to hold talks 'without preconditions' on 'unity' coalition that includes Haredim The Times of Israel The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could",
-   "body": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" CBS News Netanyahu urges Eisenkot to hold talks 'without preconditions' on 'unity' coalition that includes Haredim The Times of Israel The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. The New York Times Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Benjamin Netanyahu urges Gadi Eisenkot to form unity government The Jerusalem Post",
+   "summary": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" CBS News The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. The New York Times Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Netanyahu’s grip on p",
+   "body": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" CBS News The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. The New York Times Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Netanyahu’s grip on power is weakening. What will it take to end the disarray in Israel? CNN Benjamin Netanyahu urges Gadi Eisenkot to form unity government The Jerusalem Post",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -603,21 +734,6 @@
    "lang": "en"
   },
   {
-   "title": "'We can't let them down' — After midterm wins, Democrats turn to charting path ahead",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXRsQ0lyOWFfNG9UdEpLMFJ5cGFlOTRTeFEwUFYzMHF0blEwd3I2amJoQVV4bnp6enZkV3NKcmVGTW5aUzFyU0N3akJpM2xFc2Vta1RFTWx2MkhCS0xJUHFYSWU2ekM2NU81RzlGalNyeHlzaFhIV0pYbkFxUDE4Zm5zeEFaeVc2VktXYm53?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T19:13:54+00:00",
-   "summary": "'We can't let them down' — After midterm wins, Democrats turn to charting path ahead NPR Flush With Wins, Democrats Confront Fear of Fleeting Success Bloomberg.com In Denver, the midterms are old news among Democrats. Cue the 2028 posturing. The Washington Post After midterm swee",
-   "body": "'We can't let them down' — After midterm wins, Democrats turn to charting path ahead NPR Flush With Wins, Democrats Confront Fear of Fleeting Success Bloomberg.com In Denver, the midterms are old news among Democrats. Cue the 2028 posturing. The Washington Post After midterm sweep, Democrats split over Trump, cost-cutting agenda Reuters ‘We must deliver’: jubilant Democrats gather in Denver to chart way forward The Guardian",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -630,6 +746,21 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T19:11:55+00:00",
+   "summary": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates The New York Times November 13, 2026 — Some US flights resume after hours-long ground stop CNN FAA ground stop latest updates: Controllers’ union chief says communications with some planes were ",
+   "body": "Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates The New York Times November 13, 2026 — Some US flights resume after hours-long ground stop CNN FAA ground stop latest updates: Controllers’ union chief says communications with some planes were disrupted; cancellations top 5,000; Duffy blames L3Harris Yahoo US aviation shutdown blamed on L3 Harris installed router Reuters Flights resume at BWI after nationwide ground stop CBS News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -675,7 +806,7 @@
    "lang": "en"
   },
   {
-   "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
    "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
    "source": "The Guardian",
    "published": "2026-11-14T19:00:52+00:00",
@@ -788,15 +919,17 @@
    "lang": "en"
   },
   {
-   "title": "Italy fines Meta $887 million over Android users' data access",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+   "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemVrYm9UN1BOR2RoU19RYjVYS2RnQlpCVER6SG5jRjVUT2t4cWxicy1nNkN6SVg0LXl1MEZDVnNkOE1zMDZBbEtfTWI5eUF3VWpMcS1LWkhqZW1wMk5hVmpYWnlxTzhnYUlsQnVEd2MxeWNaUHBBUl9aSktibkhEWEpn?oc=5",
    "source": "Google News",
-   "published": "2026-11-14T18:12:20+00:00",
-   "summary": "Italy fines Meta $887 million over Android users' data access Reuters Italy fines Meta €805m over accessing users' photos BBC Italy fines Meta $887M for accessing users’ photos without specific consent The Hill Meta fined $887 million in Italy over Android gallery photos and vide",
-   "body": "Italy fines Meta $887 million over Android users' data access Reuters Italy fines Meta €805m over accessing users' photos BBC Italy fines Meta $887M for accessing users’ photos without specific consent The Hill Meta fined $887 million in Italy over Android gallery photos and videos on Facebook ABC News - Breaking News, Latest News and Videos Italy fines Meta $880 million over accessing users' photos CBS News",
+   "published": "2026-11-14T18:17:13+00:00",
+   "summary": "Perhaps the Rumors of Democracy’s Demise Were Premature The New York Times Marilynne Robinson: America’s new dawn Financial Times Our Recovery Starts Here Persuasion | Yascha Mounk Midterm elections shattered the MAGA hamster wheel Chicago Sun-Times What Now? Democracy Going Forw",
+   "body": "Perhaps the Rumors of Democracy’s Demise Were Premature The New York Times Marilynne Robinson: America’s new dawn Financial Times Our Recovery Starts Here Persuasion | Yascha Mounk Midterm elections shattered the MAGA hamster wheel Chicago Sun-Times What Now? Democracy Going Forward with Maria Stephan Religion News Service",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -812,6 +945,21 @@
    "countries": [
     "Ukraine",
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Myanmar airstrike on displaced persons camp kills 12 - Narinjara News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiSHY2ODF3cGU5SG5RbzNqT212dDVqTWE2ZXUwWl96OU00YWxsR1RqM0JyRm1SQjNqZDMtc1lGSGJCQThaVWRGbW5kZjFhcGNtVm1fVFlhNW96SGhsLXVhS25RU2tHYUlNaGdBR2tYU1dZcFQ4RW85eE4zaw?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-14T18:05:45+00:00",
+   "summary": "Myanmar airstrike on displaced persons camp kills 12 Narinjara News",
+   "body": "Myanmar airstrike on displaced persons camp kills 12 Narinjara News",
+   "category": "Myanmar",
+   "is_war": true,
+   "countries": [
+    "Myanmar"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -877,27 +1025,12 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
    "source": "Google News",
    "published": "2026-11-14T18:00:00+00:00",
-   "summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff WSJ ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next WIRED Miller’s White House Asce",
-   "body": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff WSJ ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next WIRED Miller’s White House Ascent Rattles Mexico Trade Negotiators Bloomberg.com Inside Stephen Miller’s aggressive first week as Trump’s chief of staff CNN",
+   "summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff WSJ ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next WIRED Inside Stephen Miller’s a",
+   "body": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff WSJ ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next WIRED Inside Stephen Miller’s aggressive first week as Trump’s chief of staff CNN Miller’s White House Ascent Rattles Mexico Trade Negotiators Bloomberg.com",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia must be held accountable for its crimes",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3U5eGRVcXRKd2hCOFB6TUNxWEttVlJ0QVZjOXF2bEJDREhCYUhPZEdOajdkTHFlOVZ6ek1PRmFUZ1dkLTB3OFpRc1RBT29ZZkZhTW5odmRYdmZLdFUzUjNPdEpkWXVwWkkyb3VBSG1NVFVSc1JJOWhiOXVfRjBGTGd30gGHAUFVX3lxTFBNSHRURlFHdGE3MkxVWHd1aUJrWlhnaHNRc1dNYlY2NmRzZVNlY1BrN2l5VWRNT3RRUHBhNEV0VW1EWERHQ2V3RWhwUEZpRU0xODBJQnZDQlpKWkEtWk02NjNCWGV0VF8wbkZBUDNjTEdLVVJ3cnp4VE5iSmI0N04zdm80dkFBQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T18:00:00+00:00",
-   "summary": "Russia must be held accountable for its crimes The Hill",
-   "body": "Russia must be held accountable for its crimes The Hill",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -952,44 +1085,12 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM05QOGoyNzlBa1AtSmZjZFhjZEQ4b0t0TVN0UFowb19Pd19xSHdjM3FicE9yZ1V2MlpmY3NjOF84Ty1FbENwQUE5UEJzZ2lCdWZVS2hrdkFIbXJKSzVjMkVlYTJWV1pNZG9COW9NbUZmY1dWcXk5ZUFqcnBTUXpQcmJLWDVKQkNRSUsxMXoyc2pyeHBfcEJJVXNxeWhiQmp10gGmAUFVX3lxTE5DaVY2Z2dQVVlENklySFVvN21IdWJUNkkwOGJfLXpSWUVkaXJvaEVPWU5zLWZjdGpqOHBvRmZhT1dISmU1VmRMdlVlbDliSDV1OF9NMFRkVDkwSUhZdWNwYThtN2lqTU9KUVAybVhyR1BrMXBIY29NelFyU1RrMFgzWjJnVzVtRmRhWUR2S2YxQTlEb0JZbGxKZllMMnkyZUlOVXhhc1E?oc=5",
    "source": "Google News",
    "published": "2026-11-14T17:48:19+00:00",
-   "summary": "New prostate cancer guidelines urge men to start screening at specific age Fox News What to Know About New Prostate Cancer Screening Recommendations The New York Times What men need to know after a major update to prostate cancer guidelines AP News American Cancer Society updates",
-   "body": "New prostate cancer guidelines urge men to start screening at specific age Fox News What to Know About New Prostate Cancer Screening Recommendations The New York Times What men need to know after a major update to prostate cancer guidelines AP News American Cancer Society updates prostate cancer screening guidelines NPR Amid New Prostate Cancer Screening Guidelines, Doctor Reveals Top 4 symptoms He Looks For TODAY.com",
+   "summary": "New prostate cancer guidelines urge men to start screening at specific age Fox News What to Know About New Prostate Cancer Screening Recommendations The New York Times What men need to know after a major update to prostate cancer guidelines AP News New prostate cancer screening g",
+   "body": "New prostate cancer guidelines urge men to start screening at specific age Fox News What to Know About New Prostate Cancer Screening Recommendations The New York Times What men need to know after a major update to prostate cancer guidelines AP News New prostate cancer screening guidelines include testing for most middle-aged men NBC News American Cancer Society updates prostate cancer screening guidelines NPR",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdDWFpKYTFpLXBKakFwVW5DYjA5eXdONUZZUi1vVGlpcjZlSlJaQmFCNmk0ZDAyOWZMSlh4T2FwZVFCMVRYLWxQb3MwdmMzUHNhQWdFWGV2RHdsZmZPYzdMd3RTdHZ4QzFxazlDVzE4cll5MnBOSHFnM2IwX1Q5RHJPbW1DOXpmMFVJVzFTMVhvc0NuWmlYWEhFeFpaZ1dEN0hTUkJQS2x3Ql9IV2VVMWtvUWlYTndJbVRETFhvT2tCUQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T17:43:36+00:00",
-   "summary": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
-   "body": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T17:35:51+00:00",
-   "summary": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech ABC News & Headlines – Australian Broadcasting Corporation Nvidia Scandal Prompts Questions of What It Means t",
-   "body": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech ABC News & Headlines – Australian Broadcasting Corporation Nvidia Scandal Prompts Questions of What It Means to Be a Spy The New York Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky Business Insider",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Australia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1012,8 +1113,8 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTl80Tmp0VUxzQlhyN1pBWGh0c3NRcXUxbkphbUt2UXUyQ1FTQTk1dzhvTlhkcmlIbF9sdW5pbzZzRjZITTBLS25nTlJaU3BnV0hEUjVERVplVnhvdDlodDVqNVlOUkVPclNHd3ZWUWMwWUkyZEpuR3V3NEJEOEJXMkxhR2pyYUY2b0gxanNQWGN6N0lWWDlHZWtGVGFULTFWbkxKWkc4Ykk4ckQ1UTQ4?oc=5",
    "source": "Google News",
    "published": "2026-11-14T17:32:55+00:00",
-   "summary": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Consequence of Sound Nationwide ground stop leads to impromptu midair shows from iconic 2000s bands NBC 5 Chicago Hoobastank Perform Hit Song ‘The Reason’ Mid-Flight amid Nationwide Grounding AOL.com ",
-   "body": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Consequence of Sound Nationwide ground stop leads to impromptu midair shows from iconic 2000s bands NBC 5 Chicago Hoobastank Perform Hit Song ‘The Reason’ Mid-Flight amid Nationwide Grounding AOL.com Simple Plan, Hoobastank, more bands perform midair amid FAA ground stop USA Today Hoobastank, Simple Plan Play Mid-Flight Concert Aboard Warped Tour-Bound Plane Rolling Stone",
+   "summary": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Consequence of Sound Nationwide ground stop leads to impromptu midair shows from iconic 2000s bands NBC 5 Chicago Southwest flight turned into surprise Warped Tour concert before FAA ground stop WTHR ",
+   "body": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Consequence of Sound Nationwide ground stop leads to impromptu midair shows from iconic 2000s bands NBC 5 Chicago Southwest flight turned into surprise Warped Tour concert before FAA ground stop WTHR Hoobastank Perform Hit Song ‘The Reason’ Mid-Flight amid Nationwide Grounding AOL.com Emo at 30,000 feet: Warped Tour bands turn Orlando-bound Southwest flight into concert WPEC",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1067,21 +1168,6 @@
    "lang": "en"
   },
   {
-   "title": "After briefing Eisenkot, Netanyahu urges unity government without preconditions - Haaretz",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZHhPZGI5ODFQNmVaTWVvSEpWY2ViXzA2VVAtc0ppSDBFTnhmTEtQM3FLcVBqc3ZHRXVvU3NTY0F6Q3FVUFdxRTRiSDd0VXRsMk5BSUtCcmVwRTdJRG15cFFwMGpvSHNsaGZfU0hKdWVFbFJrN1JyTklvVkNqaDJKanpYTWdVeWhtek5TVlhkVUIwUEF6cUc4NUhwNWZjMEx1bDBNUU0zYWJoRnliYlJEeGFOZTg0ZTFydnY1b0VMZ3A4T1kwUzdYRWI0NHNyMUE2dDdSVHAwbDZDNGJaRjNCeFRZb2ItVG5wSmJxTERyT09tRGkyRzRxWWFqdkpyemtfNXNuNFUtWVRTWThDYWQtRERrRElSc3N5Qmp1NTVlSUNjUTNQ?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-14T17:13:00+00:00",
-   "summary": "After briefing Eisenkot, Netanyahu urges unity government without preconditions Haaretz",
-   "body": "After briefing Eisenkot, Netanyahu urges unity government without preconditions Haaretz",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
    "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
    "source": "The Guardian",
@@ -1112,21 +1198,6 @@
    "lang": "en"
   },
   {
-   "title": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0pza0k1MHhuZWJLQmFXdDNCQkVpeGJjbGtYdXd5SXdiMU1GWk5jbFhHOTBBb0hqeTJqeU9YNndaa3BJOEQtRS16dVVaSUE3QmF1MHVXMDB1LVRSUXZ6Rld2RVhiZEw1blpXa05UUHpMaDlKeTFJcWZEZHVjQ0VCWFlJd29zMDNUZGRhVGJUXy1yakpndGd5Z3F2OWxZTE1xc3BrdEcwR2wzSUNLRmRUbzhSWWtCTzVZQjZ2TFd0X09HV2dienpwQWx30gHPAUFVX3lxTE56M1RSNUtLdGdJbzRJTXI5V0k0NXRJMGFmYXYtU2picG56UHJoQldxVklJNnVDeGZCRV9NYWFWOEctNXN1b1Fac3lJWmhQY011dGx3aFZ2bDhaVk13X01kRDk3RW1EMG1RR3JwcU90akdCQTRNZGFnWnJqUFN3MU9YUHFGT2t6U0p6UWdoQkp1dkEtZnF6WGZPTWFMVDRhbmRTS0kxQm9YRlphZU40SHFSRU9wX1J1LWJGakF2RU9XMWJZNXI0c3FUS3FKTGtBYw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T17:00:05+00:00",
-   "summary": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat Fox News As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times The Trump team’s hypocrisy reaches new levels with warning letter to Demo",
-   "body": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat Fox News As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN Blanche dials back threats to investigate lawmakers Politico Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push CBS News",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
    "link": "https://www.channelnewsasia.com/singapore/asean-digital-economy-framework-agreement-6551526",
    "source": "CNA World",
@@ -1137,6 +1208,21 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--YsXZNt-6--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/14/gkyasean-1.png?itok=2Vek2s8J",
+   "lang": "en"
+  },
+  {
+   "title": "MAGA’s Lauren Boebert roasted over midterms concession video: ‘God’s got this’",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEljMWtNMXlQUXJKOGMyYThDV2k3c2Fxd0xTQXpFd0R0Nm9BUExXeDFBTVg0WXc3aUlYUHQ4Ynd5WWY5X1lFcmFYY25CSGhwZEtZYkxWb3JfZ3ZNNlZMaGxUZTlRYUZ2X2lzbTdjRTkzNEVRQjlOMmFScTVmU1pSTTV2UzdWYnVIemdBVDk4bjdJdTlEQi1BRzl2NWFsRzE5c24zMFJzdzFjWFktVExsVG5WRE1iR1k?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T17:00:00+00:00",
+   "summary": "MAGA’s Lauren Boebert roasted over midterms concession video: ‘God’s got this’ The Independent Opinion | Lauren Boebert’s loss caps a grim year for MAGA women MS NOW Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert The New York Times Trump-backed Maga firebrand Lau",
+   "body": "MAGA’s Lauren Boebert roasted over midterms concession video: ‘God’s got this’ The Independent Opinion | Lauren Boebert’s loss caps a grim year for MAGA women MS NOW Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert The New York Times Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race The Guardian Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects ABC News - Breaking News, Latest News and Videos",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1168,6 +1254,19 @@
    "lang": "en"
   },
   {
+   "title": "Watch Epic Flyover in Viral Video as Boise State Hosts ESPN College GameDay for 1st Time Since 2010 - Bleacher Report",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmZab0Q5cjhaTXR2U1J1cUhuVm9rRVdDQ2JPbnF5ZVZsZ0ZrT25RbXNIekJNd2RPTTAxLXRDUi1RRnZzX05oZjJITnZtdkh3cGFhZ05qYjVqZm5zT0hKMFp0UDlLbGR0R1FpTF9yUTVxNnYyUnQyOXYydU56TzBoYVVPRkszdURuQnZ4QWFncTl3WnJhWmJsbzVza1E1TFQtLUlmMmNBNGZFbkNpaGNFT1pFbm5YUVRldVMxajRuLS1xRWtmZFVj?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T16:47:40+00:00",
+   "summary": "Watch Epic Flyover in Viral Video as Boise State Hosts ESPN College GameDay for 1st Time Since 2010 Bleacher Report Boise State Athletics Shares Additional Fan Information for ESPN’s College GameDay Boise State University Athletics ESPN’s Rece Davis strikes down playoff ‘invitati",
+   "body": "Watch Epic Flyover in Viral Video as Boise State Hosts ESPN College GameDay for 1st Time Since 2010 Bleacher Report Boise State Athletics Shares Additional Fan Information for ESPN’s College GameDay Boise State University Athletics ESPN’s Rece Davis strikes down playoff ‘invitational’ ahead of Boise State show Idaho Statesman Oregon State Beavers vs. Boise State Broncos preview: Will OSU be able to contain Dylan Riley, keep up with BSU? OregonLive.com ESPN College GameDay makes its picks for No. 24 Boise State vs. Oregon State Yahoo Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Cold weather health alerts issued for parts of UK on Sunday night",
    "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
    "source": "The Guardian",
@@ -1178,6 +1277,21 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8",
+   "lang": "en"
+  },
+  {
+   "title": "Ukrainian War Volunteer Elena Kurilo Sends Message - www.otdowntown.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeG41RHJqMVB0bzVqOUlwREJudHI4b21MVVpCbWJkbFphVEJ2cjlyZjlaQldJT2JMdWFkQUtBcjg0QVlydHRpc21XT0hhR01ZTU0xM1NveUlmWjk2RURtX1VMbWYzUEZPZ1l6b0NKNU1JUFhYYUVSZGhUYnBLOVZZYjFKeG5jZUdCYjRwcURpTFptbEN5eU93NlZB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T16:37:56+00:00",
+   "summary": "Ukrainian War Volunteer Elena Kurilo Sends Message www.otdowntown.com",
+   "body": "Ukrainian War Volunteer Elena Kurilo Sends Message www.otdowntown.com",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1283,8 +1397,8 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
    "source": "Google News",
    "published": "2026-11-14T16:16:00+00:00",
-   "summary": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru AP News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo urges end to violence in Peru during visit to remote Andes town Al Jazeera Chiclay",
-   "body": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru AP News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo urges end to violence in Peru during visit to remote Andes town Al Jazeera Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times Pope entrusts his life to Mary where he began episcopal ministry in Peru Vatican News",
+   "summary": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru AP News Pope Leo urges end to violence in Peru during visit to remote Andes town Al Jazeera Pope entrusts his life to Mary where he began episcopal ministry in Peru Vatican News Chiclayo",
+   "body": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru AP News Pope Leo urges end to violence in Peru during visit to remote Andes town Al Jazeera Pope entrusts his life to Mary where he began episcopal ministry in Peru Vatican News Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post",
    "category": "Africa",
    "is_war": false,
    "countries": [
@@ -1309,12 +1423,28 @@
    "lang": "en"
   },
   {
+   "title": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdDWFpKYTFpLXBKakFwVW5DYjA5eXdONUZZUi1vVGlpcjZlSlJaQmFCNmk0ZDAyOWZMSlh4T2FwZVFCMVRYLWxQb3MwdmMzUHNhQWdFWGV2RHdsZmZPYzdMd3RTdHZ4QzFxazlDVzE4cll5MnBOSHFnM2IwX1Q5RHJPbW1DOXpmMFVJVzFTMVhvc0NuWmlYWEhFeFpaZ1dEN0hTUkJQS2x3Ql9IV2VVMWtvUWlYTndJbVRETFhvT2tCUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T16:13:36+00:00",
+   "summary": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
+   "body": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk.",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lLVBscUhhTi1PZldLT25LVkgzdDdwVUh4ZDVVd2JUQV9uY2puOE9NejY5eVhTOTNBcm5SaWNyRnNsN3NoTFlia1ZwYS1WaEtyTVdiaXFMUWx4TUhHSmowbzJXTmdZWkJqQjFDUUVYZ2Y4Q1lTTmF1eFRB?oc=5",
    "source": "Google News",
    "published": "2026-11-14T16:11:00+00:00",
-   "summary": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News Timeline: How the US wrangled the deadly measles virus and how it has come raging back CNN What Losing Measles Elimination Says About The United States Forbes Surging measles ca",
-   "body": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News Timeline: How the US wrangled the deadly measles virus and how it has come raging back CNN What Losing Measles Elimination Says About The United States Forbes Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post Measles cases nationwide top 5,400 as deaths rise to 10 ABC News - Breaking News, Latest News and Videos",
+   "summary": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post What Losing Measles Elimination Says About The United States Forbes RFK Jr. ",
+   "body": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. CBS News Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post What Losing Measles Elimination Says About The United States Forbes RFK Jr. Failed America on Measles The Atlantic America defeated measles in 2000. Vaccine opposition brought it roaring back. NBC News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1431,8 +1561,8 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVY5SnR5LXZkRWhWSU5xalppcXRvenZYWVBTWmRTMkNOVkstcURFTWM4aXdrWm9FNFB4aHZsdElhYk8tc3dTYUxscng0bWZlY0phY3RUaHpieFIwVG45ekVlTkJSeGdRUjczbDZFN2ZGMVRrbDMweUU0a1RpSl9QSE9aRWV5VkthbmVjdnFVUEU4Ui0wSk4w?oc=5",
    "source": "Google News",
    "published": "2026-11-14T15:43:00+00:00",
-   "summary": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym Variety Comedian reacts to ‘SNL’ monologue controversy: ‘I don’t say anything bad’ AL.com Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised ",
-   "body": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym Variety Comedian reacts to ‘SNL’ monologue controversy: ‘I don’t say anything bad’ AL.com Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” The Hollywood Reporter Shane Gillis Addresses ‘SNL’ Monologue After He Promised Show “No Controversy” Deadline Shane Gillis Gave His SNL Monologue a C Minus Vulture",
+   "summary": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym Variety Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” The Hollywood Reporter Comedian reacts to",
+   "body": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym Variety Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” The Hollywood Reporter Comedian reacts to ‘SNL’ monologue controversy: ‘I don’t say anything bad’ AL.com Shane Gillis Addresses ‘SNL’ Monologue After He Promised Show “No Controversy” Deadline Shane Gillis Gave His SNL Monologue a C Minus Vulture",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1507,8 +1637,8 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjd6a3BlTlpLTm5NVnIzUzg0YW9rZGI3ZWRPZDlZQi1FV2dabjRRMWZJYV9OajBUZE1oWWNvczBTMFFvalNWQ1QxLU9NOTZmLTh5dWtyN1hQVlh3b0VhTmlpYzZxQXJJVzB5RTZ4TGVZdE1abnF6VVdBRkwtT19FQS1YMEJvc0dVcjlhcm1TWndld28wZVpDMTBOVTBvM0Z4?oc=5",
    "source": "Google News",
    "published": "2026-11-14T15:27:00+00:00",
-   "summary": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit Variety James Gunn’s ‘Man of Tomorrow’ Dead: No Reshoots (Exclusive) Cosmic Book News Gunn’s Easter Eggs on the Chopping Block? Whispers Swirl That ‘Man of ",
-   "body": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit Variety James Gunn’s ‘Man of Tomorrow’ Dead: No Reshoots (Exclusive) Cosmic Book News Gunn’s Easter Eggs on the Chopping Block? Whispers Swirl That ‘Man of Tomorrow’ Is Already Being Gutted by the Studios IMDb James Gunn Debunks Rumor 'Man of Tomorrow' Needs 'Sweeping Changes' From Skydance After His DC Ouster TheWrap James Gunn Kills 'Untrue' 'Man of Tomorrow' Rumors Gizmodo",
+   "summary": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit Variety We have good news about the Superman sequel, Man of Tomorrow, amid the rumors Yahoo James Gunn’s ‘Man of Tomorrow’ Dead: No Reshoots (Exclusive) Cos",
+   "body": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit Variety We have good news about the Superman sequel, Man of Tomorrow, amid the rumors Yahoo James Gunn’s ‘Man of Tomorrow’ Dead: No Reshoots (Exclusive) Cosmic Book News James Gunn Addresses Reports About A Hacked-Up ‘Man Of Tomorrow’ Forbes James Gunn Debunks Rumor 'Man of Tomorrow' Needs 'Sweeping Changes' From Skydance After His DC Ouster TheWrap",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1577,19 +1707,6 @@
    "lang": "en"
   },
   {
-   "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today - Space",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSW9jTGlpdkhxZk9CNzBUbEpnY0oxV2hRbFUxajd3TW96M3YtdGtKXzlJbHJBZzk3VEtDS2R1b1lEamNLbG5MTDRzUnFQdmlhNWVBbWNQVHpFRnI0YzhqdHRiRlBMYklYMWo5UFpma0pUZFFHc0VvcmthNENYTmRmdFBseU8xSkJTaTZvcmZPUFVCVDNwdXJqb1duTlV4dC1jQmdHajF1SnBDUGtELS0tdUZrQWhvYXQtRXcyUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T15:04:34+00:00",
-   "summary": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today Space SpaceX watch live: Second attempt to catch Starship rocket on return to Earth BBC Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight ",
-   "body": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today Space SpaceX watch live: Second attempt to catch Starship rocket on return to Earth BBC Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now SpaceX's Starship nears end of 15th test flight and return-landing attempt Reuters Starship Live Updates: SpaceX Tries for Milestone Rocket Landing The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
    "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
    "source": "The Guardian",
@@ -1618,35 +1735,6 @@
     "Egypt"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--du1S1UIb--/c_crop,h_1122,w_1995,x_1,y_0/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/13/ag_mma_packing_02.jpeg?itok=xwFr47Xh",
-   "lang": "en"
-  },
-  {
-   "title": "Can Chris Van Hollen Really Unseat Chuck Schumer? - Rolling Stone",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGJGY0ttU2dURkxoUjhQQXpvWkNnZ1dFQjhaTWJzbDRkYmdESVhRbl8tM3p3RUlxU1d4VUxTZXVvVTJQd3l4bnJNSmdsS1BBdG91YjYzQXNiWHhiY3lmYkZYaEZVVHhSN05hVGctVk15X2tWejJFdWRYODBibXBTbS05eWJWNWV1dkMwVHE1dnNaZlo4YjdJS3Y4emFWV2tkWE1panVzcENfXzRCWXRQcVpB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T15:00:00+00:00",
-   "summary": "Can Chris Van Hollen Really Unseat Chuck Schumer? Rolling Stone Chris Van Hollen revs up his public campaign to replace Chuck Schumer The Washington Post ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico The senators who could join Van ",
-   "body": "Can Chris Van Hollen Really Unseat Chuck Schumer? Rolling Stone Chris Van Hollen revs up his public campaign to replace Chuck Schumer The Washington Post ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico The senators who could join Van Hollen's insurgency against Schumer Axios Schumer allies voice confidence, argue Van Hollen challenge about ending ‘filibuster’ The Hill",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Alex Pereira provides his final prediction for Ciryl Gane vs. Josh Hokit at UFC 334 - Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3RKRVlMVU9QM0VBR3RLLTdhMDU5REpRS2NZUHFhYURLaHNNVVFWTVFNbUxVMVBuRFoybnpURENCUGNRRVJfVkZxbmNBU1MyWXcyNUN5Y1hYT0FhLXVkSF9TSVhKVG5zc1U0QldHdlpKMTlwSzZwOW04ai1xUHp1bU12TjktZUdZbVBmbVpZdGJ2a2pxSlNXUHpzTUJaNU9DRXJUOF9sVmZXRjg2Q09nMHpZUXZNaFV5eXc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T15:00:00+00:00",
-   "summary": "Alex Pereira provides his final prediction for Ciryl Gane vs. Josh Hokit at UFC 334 Bloody Elbow UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit UFC.com UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert CBS Sports UFC 334",
-   "body": "Alex Pereira provides his final prediction for Ciryl Gane vs. Josh Hokit at UFC 334 Bloody Elbow UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit UFC.com UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert CBS Sports UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN UFC 334 live results, highlights, play-by-play | Gane vs. Hokit Yahoo Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1778,95 +1866,6 @@
     "Russia"
    ],
    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Young musicians connect a community across the Line of Control",
-   "link": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T13:56:07+00:00",
-   "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
-   "body": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/india_pakistan-1794601242.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news - Bozeman Daily Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTJLeFZ1MHFLSXhORUNjTjUyaHlIOU5jQUViOG5ZQS1VQ0tkaUU3Q0gtaGRlczZVdFdFRGFzbzhXWnlWYUFDclJpVW91TkFLZnZUUDdkNUEwZzd3SVpOZkdZRHNHTXJMZmo5R1duRjhYSnhqUmZ0OUd4M1ZXVnVHNGRNZUJiWC1DQU5QeHVoaFRqazFLZ29DWVpyMEdfN2FKeE1BbVFFWGVlRjVsRWF5VXZQZlRYQjlFS0RLeGx1RWYzRU5NVlhJM0ltUVA1ai1FZHZNbzBWektrd29aeXZpNTFZWkVNc3F3RUhBLXhrVDZ1bXUzZ254cExzN2NZTGs?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-14T13:53:31+00:00",
-   "summary": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news Bozeman Daily Chronicle",
-   "body": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news Bozeman Daily Chronicle",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHpYb2VScGh6ajgtYlNMZW54MUUxcGdWSHNHaHc3enV1eWZCRVFMRDgtampZcHZ3YXR3QW9ZVHVQR3kzUkhFVGVnN09VSExlRm5UYkRUMTJ2azNMWHlfTTRnaUIyNUF6NnExYnNyYU1DM3F5elFOQk84Nkdqb1hmMEZEcE1DemczcTZOcXJmdERQYTVlOVVHWWNjUDgyc0w5U0dZ?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-14T13:53:00+00:00",
-   "summary": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news The Independent",
-   "body": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news The Independent",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOS0xam90WkY4V3hDWnM1dzRwNlY3cGxKWExNOHZKQ3ZnOE4tR1UxR3lUN19IZlJJei1TS2hEVUl5eEdsWThDUUtBckRua3JFOTRvUUJ1Z2lzN3oxN3poRGkwaC1WTlNZZld6cUcwV25ZMGtoT1VIS0RCY0Y2Nk0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T13:52:16+00:00",
-   "summary": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War The New York Times",
-   "body": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War The New York Times",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T13:51:11+00:00",
-   "summary": "MAGA turns on Lutnick amid China spy scandal Axios The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Opinion | Howard Lutnick Has Got to Go The",
-   "body": "MAGA turns on Lutnick amid China spy scandal Axios The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster CNN Opinion | Howard Lutnick Has Got to Go The New York Times Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker CNBC",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0U5d29Od01qNm5mUGY0WU5hdTN5eTV1M3ZxMUNiMXhzWGZtZWdlOExJZ1ZCLURsTGwxQ1p4OFBRX3hyZGNQN2Jfd2FGRUl6UG1kMzBDYjVTU2J1WnQ3QzdadzQ3ZU9zaEdPUG1XbUhNdmkyc1ktNVVsVW5XUjJBTGpUb3RsbVdaRkpvYVliQl9JWHhrU1Jab0hwVmhGOEZNbFY3NWFyME42bjVpNFZZSXZJS2FwM2ZGZVdzTjI1bUM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T13:38:58+00:00",
-   "summary": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance Microsoft’s Global Outage and Fixes: What We Know The New York Times Microsoft Outlook outage impacts governments, courts, hospitals and universities ABC News - Breaking News, Latest News",
-   "body": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance Microsoft’s Global Outage and Fixes: What We Know The New York Times Microsoft Outlook outage impacts governments, courts, hospitals and universities ABC News - Breaking News, Latest News and Videos Outlook Went Down? Microsoft May Owe You Money WIRED What to know about Microsoft's outage and why it takes so long to restore email services PBS",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
