@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T10:38:50.782289+00:00",
- "updated_yangon": "2026-11-14 17:08",
+ "updated": "2026-11-14T11:38:54.423835+00:00",
+ "updated_yangon": "2026-11-14 18:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -12,6 +12,7 @@
   "Google News",
   "Google News · Middle East",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,46 +22,46 @@
  "countries": [
   [
    "United States",
-   38
+   36
   ],
   [
    "Ukraine",
-   17
+   22
   ],
   [
    "Russia",
-   15
-  ],
-  [
-   "China",
-   13
+   20
   ],
   [
    "Myanmar",
-   11
+   12
+  ],
+  [
+   "China",
+   10
   ],
   [
    "France",
-   6
+   7
   ],
   [
    "United Kingdom",
+   6
+  ],
+  [
+   "Germany",
    5
+  ],
+  [
+   "Israel",
+   4
   ],
   [
    "Iran",
    4
   ],
   [
-   "Germany",
-   4
-  ],
-  [
-   "Australia",
-   4
-  ],
-  [
-   "Israel",
+   "Palestine",
    3
   ],
   [
@@ -68,8 +69,8 @@
    3
   ],
   [
-   "Palestine",
-   2
+   "Australia",
+   3
   ],
   [
    "Egypt",
@@ -111,12 +112,25 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 20,
+ "war_count": 23,
  "languages": {
-  "my": 32,
-  "en": 108
+  "my": 28,
+  "en": 112
  },
  "items": [
+  {
+   "title": "Records of about 140,000 migrant workers exposed in Fullerton Health's recent data breach",
+   "link": "https://www.channelnewsasia.com/singapore/fullerton-health-cybersecurity-data-incident-work-pass-holder-records-6551586",
+   "source": "CNA World",
+   "published": "2026-11-14T18:47:48+08:00",
+   "summary": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
+   "body": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--22XxQDld--/c_crop,h_714,w_1271,x_1,y_282/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2022/07/19/fullerton_health.jpg?itok=HdgiHSxz",
+   "lang": "en"
+  },
   {
    "title": "PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15",
    "link": "https://www.channelnewsasia.com/singapore/pm-wong-asean-summit-chairmanship-manila-6547156",
@@ -202,7 +216,7 @@
    "title": "KNU၊ KNPP နဲ့ နေပြည်တော်ကြား ဆွေးနွေးပွဲဖြစ်လာရေး ထိုင်း ကူညီမယ်",
    "link": "https://www.bbc.co.uk/burmese/live/c6zjr9ne0jget?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-14T10:38:42+00:00",
+   "published": "2026-11-14T11:38:54+00:00",
    "summary": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "KNU၊ KNPP နဲ့ နေပြည်တော်တို့ ဆွေးနွေးရေးဖြစ်လာအောင် ထိုင်းက ကြားဝင်ကူညီမယ်၊ မြန်မာလုပ်သားတွေရဲ့ လစာ ၂၅ % မြန်မာကိုပြန်ပို့ရေးကိစ္စ အလုပ်သမားတွေနစ်နာမှုမရှိအောင်ဖြေရှင်းဖို့ ထိုင်း ဆွေးနွေး စတဲ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -212,6 +226,390 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176b/live/2a7c9a90-defc-11f1-9b2e-c7d61d5838d4.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T11:35:12+00:00",
+   "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi AP News",
+   "body": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi AP News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T11:30:10+00:00",
+   "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+   "body": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "FAA ground stop live updates: Duffy blames 'overloaded' routers; thousands of flights canceled - ABC7 Los Angeles",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1NHMEdMSzkyajNDVDYzVTZsMnVZQnNZeWd0SlhGLTcwUmIwNjNwbUdhdzB1VXlOdjZMdVBnMXMzWGRZMFdlc25mbDltT2w3X0NVelBYWFBpRDhkb05hUmV0SlVXS2VjWVR4aVQ0MjRJbDVPQ0tkWF9QQ1U1TkpWM0NjT21YdFg1MVRNVkwtLTVZRWlzOFN3MjJDaVR5TndzZGZaMGtaZmlYTWZyU3Qw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T11:30:00+00:00",
+   "summary": "FAA ground stop live updates: Duffy blames 'overloaded' routers; thousands of flights canceled ABC7 Los Angeles Live Updates: Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop The New York Times Travelers face disruption as some US flights resume after nation",
+   "body": "FAA ground stop live updates: Duffy blames 'overloaded' routers; thousands of flights canceled ABC7 Los Angeles Live Updates: Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop The New York Times Travelers face disruption as some US flights resume after nationwide ground stop CNN Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary Fox Business US to resume flights after air traffic network failure sparks chaos Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
+   "link": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-14T11:24:00+00:00",
+   "summary": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+   "body": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://static.dw.com/image/69205890_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Germany news: Solar power production approaches record high",
+   "link": "https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-14T11:22:00+00:00",
+   "summary": "Solar power output in Germany in 2026 has already surpassed that in all of last year. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+   "body": "Solar power output in Germany in 2026 has already surpassed that in all of last year. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/75822057_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Zelenskyy says a new European security framework floated by US could benefit Putin - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHl1OUlyUHpyUUpuaWFQVzdFWFVIb0ZYdUEyZVU1ZEJIblh6dUZlY05EMUxGeWc2UGtmNXFQZ1RtZllDT25UYUZLOXhnTXprQjlmazMwM0tqQ2cycVdIYm52TnV2RzBXU2RSV2NLSTk1Sld6UWdTbjA4a2FxUzFheUl5bTdsT19EMk1oVDNncktWNGZQUF9JNk5jWURtdm1VVHhCZUpYbkU0cWl1?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T11:21:00+00:00",
+   "summary": "Zelenskyy says a new European security framework floated by US could benefit Putin Audacy",
+   "body": "Zelenskyy says a new European security framework floated by US could benefit Putin Audacy",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War Daily Life - Post Register",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajFsR0JxT1V3c2o4aWdQdzdCV1RiTWpBSVNGTWNDWC1UREIzSHJvR1pkeWFzRWdpX3lrQlR4V2wyNUF5YlA0S0hJN1VDOGlSRHBMeW1yMlNlQXpOQUlQeERESm05NnRFMk15dXFMSDA4N1BVeC16WmNRR29oei1iUk4yMGtyVWJ0VHZMMEowMGZCZWtPOTFXaHUzc0hnWHc1T2FqcFJBcEkyWXlhVXRnelR5WWwtOC00?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T11:19:55+00:00",
+   "summary": "Russia Ukraine War Daily Life Post Register",
+   "body": "Russia Ukraine War Daily Life Post Register",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Half a million people gather for an open-air mass by Pope Leo in Peru",
+   "link": "https://www.france24.com/en/half-a-million-people-gather-for-an-open-air-mass-by-pope-leo-in-peru",
+   "source": "France 24",
+   "published": "2026-11-14T11:17:58+00:00",
+   "summary": "Pope Leo said it was a \"joy to be back\" in his second home of Chiclayo, where he made his name as a bishop. This is the latest stop on his South America tour, the very tour that saw fears of cancellation after the Pope underwent surgery for lung cancer. Story by Vedika Bahl.",
+   "body": "Pope Leo said it was a \"joy to be back\" in his second home of Chiclayo, where he made his name as a bishop. This is the latest stop on his South America tour, the very tour that saw fears of cancellation after the Pope underwent surgery for lung cancer. Story by Vedika Bahl.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/b4004e80-e01c-11f1-be8e-f71d22e7fea9/w:1024/p:16x9/2026-11-13T214746Z-754212400-RC29NOA0KQRS-RTRMADP-3-POPE-LATAM-PERU.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Myanmar airstrike on displaced persons camp kills 12 - New Age BD",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFNHNFR0SVRSbWV0UGx6bUtpd3d5WVh1aDlRN1lrMGc4bFRabXVDdGhvZ3hyeGUwQ1g2YUlmcDl1TDhpdHF1TEN0VVFUZnBqMkRSeXRfbjAwUV9PRVZwYkVNZkZOUzVPN2U0QmVFaWwyc0N3MGtJb2lCQ0V6cXppQVB1NnNrUzdJLXBXazZiQ3d5SW1ENDNjUUln?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-14T11:16:00+00:00",
+   "summary": "Myanmar airstrike on displaced persons camp kills 12 New Age BD",
+   "body": "Myanmar airstrike on displaced persons camp kills 12 New Age BD",
+   "category": "Myanmar",
+   "is_war": true,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T11:14:18+00:00",
+   "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+   "body": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2238308540-1794651132.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+   "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:11:03+00:00",
+   "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the car",
+   "body": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli electoral authorities have rejected these claims as not being backed by evidence. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft's widespread outages caused global chaos, including in the healthcasre industry",
+   "link": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry",
+   "source": "France 24",
+   "published": "2026-11-14T11:07:33+00:00",
+   "summary": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as",
+   "body": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson explains.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/0281a17e-e01a-11f1-bec4-f71d22e7fea9/w:1024/p:16x9/EN-20261114-080413-080559-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft says services fully restored after global outage",
+   "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:07:10+00:00",
+   "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world ",
+   "body": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world . The tech company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+   "lang": "en"
+  },
+  {
+   "title": "Myanmar airstrike on displaced persons camp kills 12: witnesses - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclpvaVhfM2wyQ3dTaXg5bEFVbDZUWVpkWW1BcWRBM0xxbHAzcmw5VF90NGN6eFhIczNDVWFiNVpienk1RTFCU2RxdjYzYU1pQUpNS2xhTDVLdm5wLUo5X3owbFk3YlBjRHRnTWJyTUxPREE4cVFrbzdKM0F5S3VuSk1IemFjaE1VMzcwa0E3YlFXNmU3bUpFYWkwV0lvQ2FhZWgwY0tkRjFXLWVJZW1hWElWRdIBwAFBVV95cUxQRk5ycDNzSmxmZDJ0aGpFaTlzcktaTXVob0wtS28tR2FoOS1tbU1wV0JPaDBhbEtucUdXdXNiQU43SWhIWFFxMGw5dHRVcTYwSzJjamVfR0JLakxIbVZCaUY3TG9XSGNDT0xTY294X0UxaGlpVFJjWmEycF85NHFIbHcyOHBJdV9qZmhtMm9tbmU2RXc2bzBPV1BZaUE1dkZVdjdoT1BLNUJiVEFZRFVJNjVJdE5GR0RudlZ5djhTeG4?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-14T11:06:36+00:00",
+   "summary": "Myanmar airstrike on displaced persons camp kills 12: witnesses The New Indian Express",
+   "body": "Myanmar airstrike on displaced persons camp kills 12: witnesses The New Indian Express",
+   "category": "South Asia",
+   "is_war": true,
+   "countries": [
+    "Myanmar",
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
+   "link": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:05:33+00:00",
+   "summary": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision to impose speed limi",
+   "body": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision to impose speed limits appears to be “political” rather than “technical”. Speaking on Friday, Ukraine’s president said the restrictions affecting Ukrainian drones had been in place for five days. They could no longer fly at speeds of more than 161km/h (100mph), he said, with connections at higher speeds lost. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d7e0d1bd6474ed59bfd6fbe1b933acc0db8c76da/0_0_3937_3150/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=bf0e6f48c887d0647f28ff7db3946e40",
+   "lang": "en"
+  },
+  {
+   "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+   "link": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:00:44+00:00",
+   "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers an",
+   "body": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/49616fdddb7670ad07a58b77da3692da986ee822/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5f1862ab2b22f3f041bc7d07ccaf7934",
+   "lang": "en"
+  },
+  {
+   "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+   "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:00:43+00:00",
+   "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face unexpected stumbling blocks after Greenpeace activists unwittingly dumped about 15 tonnes of boulde",
+   "body": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face unexpected stumbling blocks after Greenpeace activists unwittingly dumped about 15 tonnes of boulders on to the site as part of a campaign against seabed trawling in the North Sea. Greenpeace created the “boulder barrier” to safeguard harbour porpoises off the Norfolk coast by dropping giant stone blocks, each weighing up to 2 tonnes, on to the sea floor to prevent a method of fishing known as bottom trawling. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/5c3dbca857b8f7de780fc54ca9d2ea37e0f290bf/251_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=97e2e9aec87c9a6b8acc48da7fe08984",
+   "lang": "en"
+  },
+  {
+   "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:00:43+00:00",
+   "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors ma",
+   "body": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors may have been placed there unlawfully, a new undercover documentary for ITV has revealed. Mass accommodation sites are central to the government’s plan to end the use of hotels to house asylum seekers. For the documentary Inside The Asylum Camp, ITV’s undercover reporter got a job as a welfare officer at Crowborough and covertly filmed inside the former military training camp. The documentary claims that poor screening and welfare checks are having serious consequences for some of the asylum seekers. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257",
+   "lang": "en"
+  },
+  {
+   "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+   "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+   "source": "The Guardian",
+   "published": "2026-11-14T11:00:43+00:00",
+   "summary": "Midterm elections have defanged the US president – leaving critics to worry about his next move in his ‘fat Elvis’ stage It was just before 3am when Donald Trump entered a crowded Manhattan ballroom, greeted by chants of “USA! USA” and theme music from the Hollywood film Air Forc",
+   "body": "Midterm elections have defanged the US president – leaving critics to worry about his next move in his ‘fat Elvis’ stage It was just before 3am when Donald Trump entered a crowded Manhattan ballroom, greeted by chants of “USA! USA” and theme music from the Hollywood film Air Force One. On stage, two red “Make America great again” (Maga) caps were mounted in glass cases like holy relics. That was the scene 10 years ago this week when Trump, a businessman and reality TV star, stunned the world by beating Hillary Clinton to the White House. A decade later an unlikely president is serving an unlikely second term. But in the wake of a humiliating vote of no confidence in last week’s midterm elections , he now enters an endgame wracked with uncertainty. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f850cba9168bff3c2fc933bd2b10aa840d98f1b2/0_216_2109_1686/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=04dbbb0abc072b15895de6c337b4cfac",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+   "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T11:00:39+00:00",
+   "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+   "body": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
+   "link": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+   "source": "NYT World",
+   "published": "2026-11-14T11:00:08+00:00",
+   "summary": "Games behind paywalls and exorbitant costs forcing a drop in attendance — even to watch Connor McDavid in Edmonton — have only compounded the loss of a Saturday night ritual.",
+   "body": "Games behind paywalls and exorbitant costs forcing a drop in attendance — even to watch Connor McDavid in Edmonton — have only compounded the loss of a Saturday night ritual.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "France fend off South African comeback to clinch long-awaited win in Paris",
+   "link": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
+   "source": "France 24",
+   "published": "2026-11-14T10:58:10+00:00",
+   "summary": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
+   "body": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T10:57:00+00:00",
+   "summary": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX's Starship set for return to Earth after booster catch aborted Phys.org Setback for SpaceX reusable rocket system despite successful launch DW.com SpaceX Starship megarocket blasts off befor",
+   "body": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX's Starship set for return to Earth after booster catch aborted Phys.org Setback for SpaceX reusable rocket system despite successful launch DW.com SpaceX Starship megarocket blasts off before expected return for reuse The Guardian SpaceX launches Starship in key test flight of massive rocket CNBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T10:42:20+00:00",
+   "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "body": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What’s next for Ukraine-Russia peace talks as war approaches five-year mark?",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSE1ienJJSmN3YU5GU3JPWWQtUFJGOW04WjQ5bkdyX05TUGFjbUxXd0FvZGFyeEFaVTJSU2hjQjhZVWRYWDVNSWxZY01QRW5neWdESFVhbFVqZWVqQzcxMUN3RS1kdWJuZGFxODNTcmJOT0lrTUh2R3JMS2R4XzgzenlJZThYRW9MaGxNM0FURFBHbUFCQ0taTzZkOGJITS1kZzFFVFhoUTRkNXVmY1Aw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T10:42:00+00:00",
+   "summary": "What’s next for Ukraine-Russia peace talks as war approaches five-year mark? The Independent",
+   "body": "What’s next for Ukraine-Russia peace talks as war approaches five-year mark? The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "South Sudan postpones first-ever national elections until February",
+   "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T10:30:32+00:00",
+   "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+   "body": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=800%2C600",
+   "lang": "en"
   },
   {
    "title": "US negotiators suggest Ukraine cedes territory in exchange for NATO membership",
@@ -226,6 +624,21 @@
     "Ukraine",
     "United States",
     "France"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T10:30:00+00:00",
+   "summary": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson WSJ Nvidia’s week of chaos, explained CNN EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley Is Used to Scandal. This One Upped the Ante. The New Y",
+   "body": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson WSJ Nvidia’s week of chaos, explained CNN EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley Is Used to Scandal. This One Upped the Ante. The New York Times Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -412,16 +825,18 @@
    "lang": "en"
   },
   {
-   "title": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
-   "source": "The Guardian",
-   "published": "2026-11-14T10:00:41+00:00",
-   "summary": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast King Charles marked his 78th birthday on Saturday joking with Elton John that they were “still standing” as he appeared on the singer-songwriter’s Rocket Hour f",
-   "body": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast King Charles marked his 78th birthday on Saturday joking with Elton John that they were “still standing” as he appeared on the singer-songwriter’s Rocket Hour for a shared musical journey. In a special recorded episode of the Apple Radio show to mark the 50th anniversary of the monarch’s charity the King’s Trust, Charles’s playlist included John’s I’m Still Standing. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/985226fe36fee001f7409632fdef814c069b0588/147_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=20de86383d7ab9f486c5bc41bebc01f7",
+   "title": "He Survived a Coma and Left Russia. Now His Film Confronts the Costs of Putin’s War.",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOS0xam90WkY4V3hDWnM1dzRwNlY3cGxKWExNOHZKQ3ZnOE4tR1UxR3lUN19IZlJJei1TS2hEVUl5eEdsWThDUUtBckRua3JFOTRvUUJ1Z2lzN3oxN3poRGkwaC1WTlNZZld6cUcwV25ZMGtoT1VIS0RCY0Y2Nk0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T10:00:39+00:00",
+   "summary": "He Survived a Coma and Left Russia. Now His Film Confronts the Costs of Putin’s War. The New York Times",
+   "body": "He Survived a Coma and Left Russia. Now His Film Confronts the Costs of Putin’s War. The New York Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -452,19 +867,6 @@
     "Germany"
    ],
    "image": "https://static.dw.com/image/79844530_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T09:44:00+00:00",
-   "summary": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN Setback for SpaceX reusable rocket system despite successful launch DW.com SpaceX Starship megarocket blasts off before expected return for reuse The Guardian Starship flight 15 powers to orbit—set",
-   "body": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN Setback for SpaceX reusable rocket system despite successful launch DW.com SpaceX Starship megarocket blasts off before expected return for reuse The Guardian Starship flight 15 powers to orbit—setting up a possible catch on Saturday Ars Technica SpaceX's giant rocket may leave NASA in the dust NPR",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -504,6 +906,22 @@
    "published": "2026-11-14T09:31:31+00:00",
    "summary": "Ukrainian Drones Leave Russian Missile Warship Unable to Sail, With Crew Dead and Wounded UNITED24 Media",
    "body": "Ukrainian Drones Leave Russian Missile Warship Unable to Sail, With Crew Dead and Wounded UNITED24 Media",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia directs money from seized Western companies towards war against Ukraine - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGpXSWdqWEs4endqbnVvSlJKajlwei1RTWFVTklkeWFYdWVicHdsOXBfUFFtcXAxc1JkS3dSVVlFNk4tQnhoZnFzY0MybWxLTHdMLTVOT3o1R3MxeTMwWEhLOEN4QUVLMG9NbnI2OEY1R09ONzVyZ19hWDd3RVJwa2ZaRzZRTHFvZUtkc3Azb1NJeklSbi1J?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T09:26:00+00:00",
+   "summary": "Russia directs money from seized Western companies towards war against Ukraine Yahoo",
+   "body": "Russia directs money from seized Western companies towards war against Ukraine Yahoo",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -557,6 +975,19 @@
    "lang": "en"
   },
   {
+   "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T09:10:40+00:00",
+   "summary": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says The New York Times Bomb found at ethanol plant in Illinois, forcing evacuations, officials say CNN UPDATE: Evacuation order issued for Downtown Peoria and East Peoria CIProud.com Peoria police urge evacuations after reported",
+   "body": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says The New York Times Bomb found at ethanol plant in Illinois, forcing evacuations, officials say CNN UPDATE: Evacuation order issued for Downtown Peoria and East Peoria CIProud.com Peoria police urge evacuations after reported bomb threat at Illinois plant ABC News - Breaking News, Latest News and Videos Evacuation order still in effect as investigators search for other explosives at Peoria’s BioUrja plant WEEK | 25 News Now",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
    "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
    "source": "Al Jazeera",
@@ -585,16 +1016,19 @@
    "lang": "en"
   },
   {
-   "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-   "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-   "source": "The Guardian",
-   "published": "2026-11-14T09:00:39+00:00",
-   "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent ",
-   "body": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of Wales’s most important artists, Sir Kyffin Williams , known for capturing the spectacular landscapes of his homeland with layers of paint thickly applied with a palette knife, has been given the same treatment. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/b9f6172ba8f224dbb097628613f4b8f2f0f5d71a/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ce3cb7a7ab1e5d0183e1c525e89f8ee",
+   "title": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdDWFpKYTFpLXBKakFwVW5DYjA5eXdONUZZUi1vVGlpcjZlSlJaQmFCNmk0ZDAyOWZMSlh4T2FwZVFCMVRYLWxQb3MwdmMzUHNhQWdFWGV2RHdsZmZPYzdMd3RTdHZ4QzFxazlDVzE4cll5MnBOSHFnM2IwX1Q5RHJPbW1DOXpmMFVJVzFTMVhvc0NuWmlYWEhFeFpaZ1dEN0hTUkJQS2x3Ql9IV2VVMWtvUWlYTndJbVRETFhvT2tCUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T09:05:45+00:00",
+   "summary": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue The Independent",
+   "body": "Ukraine-Russia war latest: Moscow strikes hospital in central Kyiv as Zelensky says Starshield restrictions continue The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -714,19 +1148,6 @@
    "lang": "en"
   },
   {
-   "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
-   "link": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
-   "source": "The Guardian",
-   "published": "2026-11-14T08:00:39+00:00",
-   "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can revea",
-   "body": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can reveal. GLP-1 medications were initially developed to help people with type 2 diabetes control their blood sugar levels, but have since become a popular slimming aid, with products such as Wegovy and Mounjaro becoming household names. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/a32b508dc2e54f89a324872b8b025ede44510b55/0_0_4374_3499/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=21deabe56ff4ce181bb32dc31d356069",
-   "lang": "en"
-  },
-  {
    "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
    "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -807,8 +1228,8 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
    "source": "Google News",
    "published": "2026-11-14T07:20:00+00:00",
-   "summary": "U.S. loses measles-elimination status, erasing a landmark public health achievement The Washington Post After 26 years, the US has lost its measles elimination status CNN US loses measles-elimination status after 26 years, WSJ reports DW.com US loses measles-free status as two mo",
-   "body": "U.S. loses measles-elimination status, erasing a landmark public health achievement The Washington Post After 26 years, the US has lost its measles elimination status CNN US loses measles-elimination status after 26 years, WSJ reports DW.com US loses measles-free status as two more deaths reported Al Jazeera US had eliminated measles. RFK Jr. helped bring it back | Opinion USA Today",
+   "summary": "U.S. loses measles-elimination status, erasing a landmark public health achievement The Washington Post After 26 years, the US has lost its measles elimination status CNN Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post US loses",
+   "body": "U.S. loses measles-elimination status, erasing a landmark public health achievement The Washington Post After 26 years, the US has lost its measles elimination status CNN Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post US loses measles-free status as two more deaths reported Al Jazeera US had eliminated measles. RFK Jr. helped bring it back | Opinion USA Today",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -998,32 +1419,6 @@
    "lang": "en"
   },
   {
-   "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T06:36:01+00:00",
-   "summary": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says The New York Times FBI investigating after bomb found at Ethanol plant in Illinois, forcing evacuations CNN Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois NBC News UPDATE: Evacua",
-   "body": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says The New York Times FBI investigating after bomb found at Ethanol plant in Illinois, forcing evacuations CNN Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois NBC News UPDATE: Evacuation order issued for Downtown Peoria and East Peoria CIProud.com Peoria police urge evacuations after reported bomb threat at Illinois plant ABC News - Breaking News, Latest News and Videos",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "SEC postpones Ole Miss-Oklahoma game to Sunday following FAA ground stop, Sooners AD responds with blistering statement - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaGlkWXNZamh3QXFBRTVNLW1IRVNvaUN1Yy1YUjBveDI0bVo1RTh2MUFmb1JDeEhXSDl0bVdzbVlEamxvYW56WDA1azJTRncwNExFSTFQQ3JCejRhU2NYNm1NeFRBTFpNeDhPanJleDVRQWFmYmxrYjJJTDdwT09TclQ5eGZXUG8tb2t2X0psM2w0eWRPN0lyWEtZWG95ZFkwS0trNHY3MHpSR0FoMmlueHJObWxMMVJQMGpmTi1fMWkxT01EcEtwSG5hUThkTHRWcFotbUNNcXQ5MWcxNG9IVjVxVEdiajZIeHA4NTA4UjhBVGl1RHlzZnRBM0s1UmoySkNVWU5oQWJicnFjTE12UQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T06:34:47+00:00",
-   "summary": "SEC postpones Ole Miss-Oklahoma game to Sunday following FAA ground stop, Sooners AD responds with blistering statement Yahoo Sports Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection' ESPN OU's game against Ole Miss postponed to Sunday after Rebels' flight",
-   "body": "SEC postpones Ole Miss-Oklahoma game to Sunday following FAA ground stop, Sooners AD responds with blistering statement Yahoo Sports Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection' ESPN OU's game against Ole Miss postponed to Sunday after Rebels' flight halted by FAA ground stoppage KOCO Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit CBS Sports “Why Would We Ever Agree to That?”: Oklahoma Fans Demand Accountability as Ole Miss Travel Disruption Threatens Game-Day Plans Yahoo Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
    "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1117,11 +1512,13 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkhjZGt4RHVBb3JyUUdhNDlLb0tKa1BhQlNtQlRkM2ctTTZiZURwNmVCbDk2cUh1TTVGS1d4X1FpaHUzOFhsUm1fNlZzSVpGazJmSWNCLWViYWVXNmFmR0RVSTQ5eGxEcGs5amZrQ1I3cG5VWWExUV9ZZDRwMjMtR2JDbGdIeG9XbTZFMDBEWl9TeVR4WTNKQkFjVkFvc1ZwUFZqTQ?oc=5",
    "source": "Google News",
    "published": "2026-11-14T06:11:38+00:00",
-   "summary": "Horoscope for Saturday, 11/14/26 by Christopher Renstrom SFGATE Horoscopes Today, November 14, 2026 USA Today Your Daily FinanceScope for November 14, 2026 Yahoo Royal Stars Horoscope for Sat., Nov. 14, 2026 Dallas News Your Daily Horoscope For Every Star Sign On 14th November 20",
-   "body": "Horoscope for Saturday, 11/14/26 by Christopher Renstrom SFGATE Horoscopes Today, November 14, 2026 USA Today Your Daily FinanceScope for November 14, 2026 Yahoo Royal Stars Horoscope for Sat., Nov. 14, 2026 Dallas News Your Daily Horoscope For Every Star Sign On 14th November 2026 ELLE",
+   "summary": "Horoscope for Saturday, 11/14/26 by Christopher Renstrom SFGATE Today’s horoscope: Taurus - Situations may drain your energy, money or time (Nov. 14, 2026) Cleveland.com Horoscopes Today, November 14, 2026 USA Today Your Daily FinanceScope for November 14, 2026 Yahoo Royal Stars ",
+   "body": "Horoscope for Saturday, 11/14/26 by Christopher Renstrom SFGATE Today’s horoscope: Taurus - Situations may drain your energy, money or time (Nov. 14, 2026) Cleveland.com Horoscopes Today, November 14, 2026 USA Today Your Daily FinanceScope for November 14, 2026 Yahoo Royal Stars Horoscope for Sat., Nov. 14, 2026 Dallas News",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1245,34 +1642,48 @@
    "lang": "en"
   },
   {
-   "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T05:45:28+00:00",
-   "summary": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China The Washington Post Nvidia’s week of chaos, explained CNN Silicon Valley Is Used to Scandal. This One Upped the Ante. The New York Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second em",
-   "body": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China The Washington Post Nvidia’s week of chaos, explained CNN Silicon Valley Is Used to Scandal. This One Upped the Ante. The New York Times EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters Silicon Valley plots Jensen Huang’s comeback Politico",
-   "category": "Asia-Pacific",
+   "title": "Ukraine war live: Russian warship struck off Nato coastline",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanJCbm5BaWV5b25qaVZFZ2NGYTNBaWxjMFlIRW1Lbk94OVFqdUxXZ0Y1VldVVU11SEI0WjYyMnZVSDlvUXRmSUhTd015enJWV2Z1WlJPbGRaZU4xRjJTcE96WjVOaHZSZTh5dk1ILTJ1ck1RQWVhWVEzTWpHbl85V0Vqa2xSNWI3Q1U2bWtaZ0FNLXU0RHZoQXIzeDJ5dDhEdGF2aktFdkhDdFloTDcteUtB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-14T05:35:29+00:00",
+   "summary": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
+   "body": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
+   "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
-    "United States",
-    "China"
+    "Ukraine",
+    "Russia",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "US air travel thrown into chaos after nationwide ground stop halts flights",
-   "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T05:42:41+00:00",
-   "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
-   "body": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+   "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGRpUnZKOEtydjhyR1RaNXRaVS1xdUk0MkFZTldVUktXM2xNa2JGS3Y4TG5LbmhkWHZ1VVpaaE43RnBaMElMczBHcGQ3LWpQRjFrTy03Y0FzNGx4RXlEOEtERy16RWJ2TkhDVVFYbVlWZmtvMWJ2dGxxbHQxVXhLdW1ZVERVV3VJbmVkLWpENA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T05:31:12+00:00",
+   "summary": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Peltola extends lead after new Alaska Senate ballots count The Hill Why midterm vote-counting is taking so long in America's largest state BBC In Alaska’s legislative elections, a han",
+   "body": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes The New York Times Peltola extends lead after new Alaska Senate ballots count The Hill Why midterm vote-counting is taking so long in America's largest state BBC In Alaska’s legislative elections, a handful of races remain undecided nail-biters Alaska Beacon Peltola leads in U.S. Senate race, nearing 50% mark with almost all ballots counted Alaska Public Media",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e091e07f1-1794629777.jpg?resize=800%2C600",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0RVLUUtOEhac3A3Mm9TT0FhM0FVY3RVS3ByZHF5MDZTQ3YyQ2xCSkV2WjJYQ19JdnhfNXlZa28yd2FVOW5TLXpCeVRSYUFzeENQcUpVRTQydnBQS2x0ekg2Y2hRR1VIanFtbzJBdy1GNXRkamRKQlIxX1ZKX0ZxMnZLSGEwR1JlRGpMeGNMREc4elFXeEtzaHFWb2l5Um8?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T05:15:00+00:00",
+   "summary": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage AP News Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle Rolling Stone 3 inductees refusing to attend Rock and Roll Hall of Fame cer",
+   "body": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage AP News Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle Rolling Stone 3 inductees refusing to attend Rock and Roll Hall of Fame ceremony Syracuse.com 3 Rock & Roll Hall Of Fame Inductees To Skip Saturday’s Ceremony Forbes Rock & Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Flight Stoppage on Friday The Hollywood Reporter",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1291,19 +1702,20 @@
    "lang": "my"
   },
   {
-   "title": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine - Daily Kos",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MRXVYcll0RXM1Y2NZcksybWI1b05LVEJ4VDdxangyVzNOcmM1RzJCbEtzQ05keE1pYk9TcFJtTTd4UmpkbGhZd0NzUTI5T29oTHd0eTJURmhLUmo1UkxBU2VCY2prcWYyOXlqOUtqVm9mb05tbldSSQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T05:09:07+00:00",
-   "summary": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine Daily Kos",
-   "body": "Ukraine Invasion Day 1,724: RU uses seized assets of Western companies operating in Russia to fund its war in Ukraine Daily Kos",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
+   "link": "https://www.france24.com/en/americas/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week",
+   "source": "France 24",
+   "published": "2026-11-14T05:09:23+00:00",
+   "summary": "The three leaders are scheduled to meet on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen on Thursday, the White House confirmed. Likely discussions will include nuclear weapons and the war in Iran, but US officials have said Ukraine is not unlikely to ",
+   "body": "The three leaders are scheduled to meet on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen on Thursday, the White House confirmed. Likely discussions will include nuclear weapons and the war in Iran, but US officials have said Ukraine is not unlikely to be on the agenda. Ukraine's President Zelensky warned the talks could prove a Yalta-like \"redistribution of spheres of influence\" for the 21st century.",
+   "category": "Asia-Pacific",
+   "is_war": false,
    "countries": [
     "Ukraine",
-    "Russia"
+    "Russia",
+    "United States"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://s.france24.com/media/display/8e236566-dfc3-11f1-8c61-695cb59fade5/w:1024/p:16x9/53e0e6206b83af62dd02c94af2942c3de1923689.jpg",
    "lang": "en"
   },
   {
@@ -1395,23 +1807,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump, Xi and Putin to hold first three-way summit in China",
-   "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T04:55:58+00:00",
-   "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-   "body": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e44a439aa-1794630730.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "ငွေစက္ကူသစ် ရိုက်နှိပ်မှုကြောင့် ကုန်ဈေးနှုန်း ပိုတက်နိုင်",
    "link": "https://burma.irrawaddy.com/video/2026/11/14/417628.html",
    "source": "Irrawaddy Burmese",
@@ -1438,12 +1833,28 @@
    "lang": "my"
   },
   {
+   "title": "The senators who could join Van Hollen's insurgency against Schumer - Axios",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T04:50:40+00:00",
+   "summary": "The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN Van Hollen c",
+   "body": "The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "How the Microsoft outage impacted courts and governments - Axios",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
    "source": "Google News",
    "published": "2026-11-14T04:50:40+00:00",
-   "summary": "How the Microsoft outage impacted courts and governments Axios Microsoft apologizes after major Outlook outage worldwide, blames technical issue Fox Business Microsoft says services are now fully restored after global outage KCRA Microsoft restores service to Outlook and Teams af",
-   "body": "How the Microsoft outage impacted courts and governments Axios Microsoft apologizes after major Outlook outage worldwide, blames technical issue Fox Business Microsoft says services are now fully restored after global outage KCRA Microsoft restores service to Outlook and Teams after global outage Reuters Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’ Forbes",
+   "summary": "How the Microsoft outage impacted courts and governments Axios See more headlines & perspectives on Google News",
+   "body": "How the Microsoft outage impacted courts and governments Axios See more headlines & perspectives on Google News",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1464,49 +1875,6 @@
    "lang": "my"
   },
   {
-   "title": "Lagos Art Week confronts history, identity and belonging",
-   "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T04:46:01+00:00",
-   "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
-   "body": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Gallerygoers-in-front-of-a-metal-sculpture-by-Dotun-Popoola-at-Art-X-Lagos-1794584865.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Russian warship struck off Nato coastline",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanJCbm5BaWV5b25qaVZFZ2NGYTNBaWxjMFlIRW1Lbk94OVFqdUxXZ0Y1VldVVU11SEI0WjYyMnZVSDlvUXRmSUhTd015enJWV2Z1WlJPbGRaZU4xRjJTcE96WjVOaHZSZTh5dk1ILTJ1ck1RQWVhWVEzTWpHbl85V0Vqa2xSNWI3Q1U2bWtaZ0FNLXU0RHZoQXIzeDJ5dDhEdGF2aktFdkhDdFloTDcteUtB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T04:28:55+00:00",
-   "summary": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
-   "body": "Ukraine war live: Russian warship struck off Nato coastline The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death - TMZ",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUFfQldSNk1DVDM1WnJZTTI4Q0hROHlLWW16dU9lMEVtU0drN0c4RjRGU29VY0xMLV91NE5xaExJUXhBQjFYb2M5M0t4Q1lMRnlPR2hZVk81U2NUMkN2TFR3al9sbWp1dU9nMzVEMEdyM1FvWnFvcTdtMXEzVVFBcDFBOUF1NGlJM2dDQg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T04:15:54+00:00",
-   "summary": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death TMZ",
-   "body": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death TMZ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
    "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1524,173 +1892,6 @@
    "lang": "en"
   },
   {
-   "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkpsNnZxQXNxNjRQdkxLcHdIYXNRcUltS3ZnVm1wenBoazU2UGtYZG5iZk9qX3gwS3lTQWF4eXAzeFd1ZlotdmFjaE9YeHN2MHJlQ2ZOM2FHX0tDNDNINVYyOHhGdHJrT1hnclc4b2dUU2QxZXlxYjRSSUliTW16UHZXbVBibU1EelYxZFlMM1dwVTFNMWRVVzFEUU9lQUFfNFoxRUlRNzEyNEdNbEw2emlJZnB4UQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T04:03:00+00:00",
-   "summary": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients The Guardian See more headlines & perspectives on Google News",
-   "body": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients The Guardian See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T03:36:57+00:00",
-   "summary": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks The Washington Post Europe Agrees on a Team to Represent It in Talks With Russia The New York Times Ukraine updates: Europe to send united front to potential peace talks DW.com EU settles on five-nati",
-   "body": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks The Washington Post Europe Agrees on a Team to Represent It in Talks With Russia The New York Times Ukraine updates: Europe to send united front to potential peace talks DW.com EU settles on five-nation group to speak for Europe at Ukraine peace talks Reuters Why Europe failed to find a superhero to take on Putin POLITICO.eu",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "source": "The Guardian",
-   "published": "2026-11-14T03:11:35+00:00",
-   "summary": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Mic",
-   "body": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153",
-   "lang": "en"
-  },
-  {
-   "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-   "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-   "source": "The Guardian",
-   "published": "2026-11-14T03:11:28+00:00",
-   "summary": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials say In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none killed or critically hurt – after a tanker co",
-   "body": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials say In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none killed or critically hurt – after a tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon. Thirty-two people were taken to local hospitals after the Atlantic Asphalt tanker struck American Cruise Lines’s American Heritage at about 12.30pm – but none of their injuries were considered critical, New Orleans’s mayor, Helena Moreno, said at a news conference. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
-   "lang": "en"
-  },
-  {
-   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans - WDSU",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T02:54:00+00:00",
-   "summary": "What we know about the American Heritage cruise ship struck by tanker in New Orleans WDSU Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Wild scene unfolds on New Orleans riverfront as rescuers, witnesses react to ship collision NOLA.com",
-   "body": "What we know about the American Heritage cruise ship struck by tanker in New Orleans WDSU Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Wild scene unfolds on New Orleans riverfront as rescuers, witnesses react to ship collision NOLA.com ‘Miracle on the Mississippi’: No fatalities after tanker crashes into river cruiser near Port of New Orleans FOX 8 Live WVUE Tanker “lost control” before colliding with river cruise ship near Port of New Orleans, mayor says CNN",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "FAA lifts nationwide ground stop on all US flights",
-   "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
-   "source": "France 24",
-   "published": "2026-11-14T02:50:21+00:00",
-   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
-   "body": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-   "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-   "source": "The Guardian",
-   "published": "2026-11-14T02:49:59+00:00",
-   "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in a",
-   "body": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo. At New York’s John F Kennedy airport, passengers found their travel plans abruptly cancelled – some even after they’d boarded. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a42d4b21d85e960cc27767128ff75b5b",
-   "lang": "en"
-  },
-  {
-   "title": "Russian Offensive Campaign Assessment, November 13, 2026 - Institute for the Study of War",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBWaUFmS1p3dUlMYzVncklFbVpIeE1IRnlQc2NRZlY3WXRqNkViU3JpbzM5VUYyWmVBV2NuLU4tanJOZV9ybjl5cXNfRUdtZEhWalVyVjAwa1NBVUREdkZISk1yMktONXRCZEo0bk1VbjNiUkxoakgybldWenF6WFFRelE1a3Uwa0l6V3cwYk1CMDNSb1ZyTHlJTFlNbXdHS3F5SFR1eUpZRFZq?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T02:36:38+00:00",
-   "summary": "Russian Offensive Campaign Assessment, November 13, 2026 Institute for the Study of War",
-   "body": "Russian Offensive Campaign Assessment, November 13, 2026 Institute for the Study of War",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US flights resume after nationwide ground stop lifted",
-   "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-   "source": "France 24",
-   "published": "2026-11-14T02:35:48+00:00",
-   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and",
-   "body": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old hardware\" for the travel chaos.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVdEX2ZlWUE5cElsRnRQOWw4LWJHV3lJR1VJVmNGZXZCMGlJY0poV1JjM0FBZUYwclRucS1CRjIydUpMQ1prSXJTSkVHZkZOVFE2bU14bmpvWUNmZVdXanJWcUVVd2VNdVVvY3lrRDc4eTdvc2RFemRDMXd5c1Y1cGl4OXBYeEJOZU1pWWw5VkRCVVhLaUVKVGcwZm50WjM5cVl2QnhaZVdxTDBHOGZ6eEpFQnB0NTZVSUtfSXczYkNxRndpX25nb0ZzeGh4ekhC?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T02:30:00+00:00",
-   "summary": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’ The Guardian",
-   "body": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’ The Guardian",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump to discuss Iran war, but not Ukraine, at China summit - Middle East Eye",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDNjT0FHM1VpOVJ4aW9udFk5dDB3TDNzSEEyYU1LT3VpVTBMVVdVODBwQWxIbnB5NHY4Q0RoLXlyVVMtS1A1dVp6VkdZZy1vN2xZXzl0MGNMZFdhTVVpSHdoM3ZhY0ZpYmRVcXlSLUhjeWdVZ01GNXMwOVQ5Um9kRmZlQnJyVE8tczBHNm9VQWtiT1FzWGdKMFJ4SWt0Wjk4eGNlZ1ZLNA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T02:30:00+00:00",
-   "summary": "Trump to discuss Iran war, but not Ukraine, at China summit Middle East Eye",
-   "body": "Trump to discuss Iran war, but not Ukraine, at China summit Middle East Eye",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "အမေရိကန်တစ်နိုင်ငံလုံး လေယာဉ်ခရီးစဉ်တွေ ရပ်နားခဲ့ရမှု နောက်ဆုံးသိရသမျှ",
    "link": "https://www.bbc.com/burmese/articles/cqvg2lyzngkeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
@@ -1704,108 +1905,6 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01dd/live/f0860570-dfd1-11f1-a701-fddedf244c16.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3A0V3dtWnNnWFB2Z0x2RVBhX2hiYmJCa01TYnc0SUZucUJFcm1mdlUtRTgyV1l3dEd3NVVvcTFfTnM0Z1dBMkFHbTMzZzBLVkg4QW1zY1FoUzNnLU1aOFNYbnlkRTlNMkxkWThTYnpROWlYMWpqVlotRjBYMGROY2VQWHBFbmdDZzFGUjhR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T02:24:29+00:00",
-   "summary": "Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Immigrant community becomes epicenter of grief after deadly Brooklyn building collapse CNN They Had Come From Afar to Build New Lives. Then, All Was Gone. The New York Times What was the work b",
-   "body": "Developer Avoided Stricter Oversight Before Fatal Building Collapse The New York Times Immigrant community becomes epicenter of grief after deadly Brooklyn building collapse CNN They Had Come From Afar to Build New Lives. Then, All Was Gone. The New York Times What was the work being done at construction site next to Brooklyn building collapse? NBC New York Families devastated by Brooklyn building collapse came to NYC for a new life Gothamist",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "SpaceX launches Starship rocket, fails to recover booster",
-   "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-14T02:24:00+00:00",
-   "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
-   "body": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79946067_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T02:16:00+00:00",
-   "summary": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News Small Indiana town gets its own superhero, a kid known as \"Banana Man\" Yahoo Banana Man Brings Smiles and Unity to Indiana Town SuaraGarut.ID Banana Man of Linton, Indiana Breaks Silenc",
-   "body": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" CBS News Small Indiana town gets its own superhero, a kid known as \"Banana Man\" Yahoo Banana Man Brings Smiles and Unity to Indiana Town SuaraGarut.ID Banana Man of Linton, Indiana Breaks Silence: “I Like Making People Smile JournalArta Banana Man Brings an Indiana Town Together Demokratis.co.id",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
-   "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "source": "The Guardian",
-   "published": "2026-11-14T02:15:53+00:00",
-   "summary": "Transportation secretary Sean Duffy says the airspace is now open and the problem has been identified Chaos at US airports as stoppage grinds travel plans to a halt What to know about the rare nationwide ground stop issued by the FAA Flights in the US have slowly started resuming",
-   "body": "Transportation secretary Sean Duffy says the airspace is now open and the problem has been identified Chaos at US airports as stoppage grinds travel plans to a halt What to know about the rare nationwide ground stop issued by the FAA Flights in the US have slowly started resuming after being grounded for several hours on Friday due to a major communications outage, but authorities have warned that a return to normal operations will take time. The Federal Aviation Administration (FAA) lifted a nationwide ground stop about four hours after it was declared on Friday afternoon, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware , and throwing airports into sudden chaos. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986",
-   "lang": "en"
-  },
-  {
-   "title": "The senators who could join Van Hollen's insurgency against Schumer - Axios",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T01:50:34+00:00",
-   "summary": "The senators who could join Van Hollen's insurgency against Schumer Axios ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill Chris Van Hollen Set to C",
-   "body": "The senators who could join Van Hollen's insurgency against Schumer Axios ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-   "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T01:47:36+00:00",
-   "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-   "body": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US lifts nationwide ground stop for airports hours after halting all departures",
-   "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-14T01:41:00+00:00",
-   "summary": "The US federal aviation regulator has lifted a nationwide ground stop for all airports. Trump administration officials blame \"overloaded\" and \"outdated\" systems for the hourslong halt to departures.",
-   "body": "The US federal aviation regulator has lifted a nationwide ground stop for all airports. Trump administration officials blame \"overloaded\" and \"outdated\" systems for the hourslong halt to departures.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/79945313_6.jpg",
-   "lang": "en"
   },
   {
    "title": "တရုတ်- မြန်မာ ပဋိပက္ခစီးပွားရေးနှင့် မဟာဗျူဟာမြောက် သတ္တုသယံဇာတများ",
@@ -1839,21 +1938,6 @@
    "lang": "my"
   },
   {
-   "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-14T01:00:30+00:00",
-   "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday, a",
-   "body": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday, as a man dressed like a medieval knight watches on, One Nation’s lead upper house candidate, Stuart Bonds, launches into a speech against “mass” migration. “Make no mistake, we are being demographically replaced inside our own nation,” he says. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/bad470fd72c96843e66c54b24e828b110309e74f/920_806_5642_4517/master/5642.jpg?width=140&quality=85&auto=format&fit=max&s=d26253caa471b9a1073a46e86c2ca7b0",
-   "lang": "en"
-  },
-  {
    "title": "စစ်တပ်ကမ်းလှမ်းတာ လက်မခံလို့ ထောင်ချခံရသူ",
    "link": "https://rfa.org/burmese/news/2026/11/14/podcast-ep-41-labor-activist-thet-hnin-aung/",
    "source": "RFA Burmese",
@@ -1867,19 +1951,6 @@
    ],
    "image": "https://www.rfa.org/resizer/v2/WJEMG7XJYVDWVNTSJ7W2CMHLJI.jpg?auth=31dc5121ff804d315e42898829ee3e73fd5d9c214df13d460826d97f246a3c16&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T00:03:56+00:00",
-   "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-   "body": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg",
-   "lang": "en"
   },
   {
    "title": "အင်းလေး ဟတ်ပုံးရွာသူတွေရဲ့ သဘာဝပွင့်ရိုက်ထည်လုပ်ငန်း",
@@ -2106,62 +2177,6 @@
     "Myanmar"
    ],
    "image": "https://www.rfa.org/resizer/v2/GWOBW7CPJ5FPFI25SBWKQ4LFTM.jpg?auth=7f85f964ecfaec76f2009698322361aeba00a6c7d7501903d370a3bf28c630ea&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "စစ်တပ်ခန့် မြန်မာနိုင်ငံခြားရေးဝန်ကြီး အာဆီယံအစည်းအဝေးတက်ခွင့်ရဖို့ ထိုင်းလိုလား",
-   "link": "https://rfa.org/burmese/news/2026/11/12/thai-foreign-affairs-minister-visit-naypyidaw/",
-   "source": "RFA Burmese",
-   "published": "2026-11-12T18:23:58+00:00",
-   "summary": "အာဆီယံထိပ်သီး အစည်းအဝေးတွေ တက်ရောက်ခွင့်ပြန်ရဖို့ ဘာတွေလုပ်ဆောင်မယ်ဆိုတဲ့ ကိစ္စတွေကိုတော့ ဆွေးနွေးခဲ့တာမရှိဟုဆို။",
-   "body": "အာဆီယံအဖွဲ့အနေနဲ့ မြန်မာစစ်တပ်ခန့်အစိုးရ နိုင်ငံခြားရေးဝန်ကြီးကို အာဆီယံ ထိပ်သီးအစည်းအဝေးတွေ တက်ရောက်ခွင့်ပေးသင့်တယ်လို့ ထိုင်းနိုင်ငံခြားရေးဝန်ကြီး ဆီဟဆတ် ဖုဝမ်ကက်(က်)ရောက် (Sihasak Phuangketkeow) က ပြောလိုက်ပါတယ်။\n\nနိုဝင်ဘာလ ၁၂ ရက် ကြာသပတေးနေ့က နေပြည်တော်ကို နေ့ချင်းပြန်ခရီး သွားရောက်ခဲ့ပြီးနောက် ဘန်ကောက်မြို့မှာ ပြုလုပ်တဲ့ သတင်းစာရှင်းလင်းပွဲမှာ ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးက အခုလိုပြောလိုက်တာပါ။\n\nမစ္စတာ ဆီဟာဆတ်ဟာ နေပြည်တော်မှာ စစ်တပ်ခန့်အစိုးရအကြီးအကဲ ဦးမင်းအောင်လှိုင်၊ နိုင်ငံခြားရေးဝန်ကြီးတို့နဲ့ တွေ့ဆုံဆွေးနွေးခဲ့ပြီး “မြန်မာနိုင်ငံဘက်က အာဆီယံနိုင်ငံတွေနဲ့ ပြန်လည်ထိ တွေ့ဆက်ဆံလိုတဲ့၊ အာဆီယံမှာ အပြည့်အဝပြန်ပါဝင်လိုတဲ့ဆန္ဒ ရှိတယ်ဆိုတာ တွေ့ခဲ့ရကြောင်း၊ ဒါပေမဲ့ အာဆီယံထိပ်သီး အစည်းအဝေးတွေ တက်ရောက်ခွင့်ပြန်ရဖို့ ဘာတွေလုပ်ဆောင်မယ်ဆိုတဲ့ ကိစ္စတွေကိုတော့ ဆွေးနွေးခဲ့တာမရှိကြောင်း” လည်း ထိုင်းနိုင်ငံခြားရေးဝန်ကြီးက ပြောပါတယ်။\n\n“ထိုင်းနိုင်ငံအနေနဲ့တော့ ပထမဆုံးအဆင့် အာဆီယံအစည်းအဝေးတွေမှာ မြန်မာစစ်တပ်ခန့် နိုင်ငံခြားရေးဝန်ကြီးကို တက်ရောက်ခွင့်ပြုဖို့လိုတယ်လို့ ယုံကြည်ကြောင်း” လည်းပြောပါတယ်။\n\nထိုင်းနိုင်ငံဟာ အာဆီယံမှာ မြန်မာနိုင်ငံ အပြည့်အဝ ပြန်ပါဝင်လာနိုင်ရေး ဦးဆောင်ကြိုးပမ်းနေတဲ့ နိုင်ငံဖြစ်ပြီး ဖိလစ်ပိုင်မှာ နိုဝင်ဘာလ ၁၅ ရက်နေ့ စတင်ကျင်းပမယ့် ၄၉ ကြိမ်မြောက် အာဆီယံထိပ်သီးအစည်းအဝေး မတိုင်ခင် မြန်မာနိုင်ငံကို နေ့ချင်းပြန်ခရီး သွားရောက်ခဲ့တာဖြစ်ပါတယ်။\n\n၂၀၂၃ ခုနှစ် စက်တင်ဘာလ ၇ ရက်နေ့က အင်ဒိုနီးရှားနိုင်ငံ ဂျကာတာမြို့တွင် ကျင်းပသည့် ၄၃ ကြိမ်မြောက် အာဆီယံထိပ်သီးအစည်းအဝေး၏ တစ်စိတ်တစ်ပိုင်းဖြစ်သော ၁၈ ကြိမ်မြောက် အရှေ့အာရှထိပ်သီးအစည်းအဝေးတွင် မြန်မာကိုယ်စားလှယ်အဖွဲ့အတွက် သတ်မှတ်ထားသည့် ခုံနေရာ အလွတ်ကို တွေ့ရစဉ်။ (YASUYOSHI CHIBA/AFP) ၁၁ နိုင်ငံပါတဲ့ အာဆီယံအဖွဲ့ဟာ မြန်မာနိုင်ငံမှာ ၂၀၂၁ ခုနှစ် စစ်အာဏာသိမ်းပြီးနောက်ပိုင်း အာဏာသိမ်းခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီးမင်းအောင်လှိုင်ကို မြန်မာနိုင်ငံကိုယ်စားပြု တက်ရောက်ခွင့် ပိတ်ပင်ခဲ့ပြီး အာဆီယံ ထိပ်သီးညီလာခံတွေမှာလည်း အဆင့်မြင့်ခေါင်းဆောင်တက်ရောက်ခွင့်ကို ကန့်သတ်ထားခဲ့တာ အခုအချိန်အထိ ဖြစ်ပါတယ်။",
-   "category": "Myanmar",
-   "is_war": true,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://www.rfa.org/resizer/v2/YB6HYHGTRBAKDMUMMWLOD7N67U.jpg?auth=04a547fe1b2337ef4c8cbb21de9019c2bb2fabe851a581ae044fbb795339cc37&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "Nvidia စီအီးအို ဂျန်ဆန်ဟွမ် နုတ်ထွက်၊ ရှယ်ယာဈေးတွေ ထိုးကျ",
-   "link": "https://www.bbc.com/burmese/articles/ckr5g4n5rq01o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-12T15:35:03+00:00",
-   "summary": "အိမ်ထောင်ရေးဖောက်ပြန်မှု သတင်းတွေထဲမှာ တရုတ်သူလျှိုလို့ သံသယရှိသူ အမျိုးသမီးအပြင် ကုမ္ပဏီတွင်း ဇာတ်လမ်းလည်း ထွက်ပေါ်လာ",
-   "body": "အိမ်ထောင်ရေးဖောက်ပြန်မှု သတင်းတွေထဲမှာ တရုတ်သူလျှိုလို့ သံသယရှိသူ အမျိုးသမီးအပြင် ကုမ္ပဏီတွင်း ဇာတ်လမ်းလည်း ထွက်ပေါ်လာ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71f1/live/74d5e780-dead-11f1-8253-3f203a001288.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ICJ ချမှတ်လာမယ့်ရိုဟင်ဂျာအရေးစီရင်ချက်ကို NUG သဘောထားနဲ့ နိုင်ငံတကာစိုးရိမ်ချက်",
-   "link": "https://www.bbc.com/burmese/articles/cw1md0dmpvlyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-12T13:28:05+00:00",
-   "summary": "ရိုဟင်ဂျာတွေအတွက် တရားမျှတမှုဆိုတာ နိုင်ငံရေးအရ အဆင်ပြေမပြေကို ကြည့်ပြီး ဆုံးဖြတ်ရမယ့်ကိစ္စမဟုတ်ဘဲ အခြေခံမူဝါဒတစ်ရပ်ဖြစ်တယ်လို့ အမျိုးသားညီညွတ်ရေးအစိုးရ (NUG) နိုင်ငံခြားရေးဝန်ကြီး ဒေါ်ဇင်မာအောင်က ပြောကြားလိုက်ပါတယ်။",
-   "body": "ရိုဟင်ဂျာတွေအတွက် တရားမျှတမှုဆိုတာ နိုင်ငံရေးအရ အဆင်ပြေမပြေကို ကြည့်ပြီး ဆုံးဖြတ်ရမယ့်ကိစ္စမဟုတ်ဘဲ အခြေခံမူဝါဒတစ်ရပ်ဖြစ်တယ်လို့ အမျိုးသားညီညွတ်ရေးအစိုးရ (NUG) နိုင်ငံခြားရေးဝန်ကြီး ဒေါ်ဇင်မာအောင်က ပြောကြားလိုက်ပါတယ်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1145/live/85707ba0-de99-11f1-9afe-1f03bfe02283.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "နိုင်ငံခြားငွေလည်ပတ်မှု ချောမွေ့စေရန် ပို့ကုန်ရငွေထားခွင့် ဗဟိုဘဏ် အနည်းငယ်လျှော့ပေး",
-   "link": "https://burma.irrawaddy.com/news/2026/11/12/417600.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-12T13:13:21+00:00",
-   "summary": "ဗဟိုဘဏ်က ပို့ကုန်လုပ်ငန်း ရှင်များ ကိုယ်တိုင်သုံးစွဲနိုင်သည့် ပို့ကုန်ရငွေအား နိုင်ငံခြားငွေဘဏ်စာရင်း၌ ထားရှိခွင့်ကာလအား ယခင် ရက် ၃၀ မှ ယခု ၄၅ ရက်အထိ တိုးမြှင့်ပေးလိုက်ကြောင်း",
-   "body": "အမေရိကန် ၁ ဒေါ်လာ ကျပ် ၅ထောင်နား ကပ်လာချိန် ဗဟိုဘဏ်က နိုင်ငံခြားငွေလည်ပတ်မှု အဆင်ပြေချောမွေ့စေရန်ဆို ကာ နိုင်ငံခြားငွေဘဏ်စာရင်း၌ ပို့ကုန်ရငွေထားခွင့်ကို ရက် ၃၀မှ နောက်ထပ် ၁၅ရက်တိုးကာ ၄၅ ရက်အထိ တိုးပေးလိုက် သည်။\n\nနိုဝင်ဘာ ၉ ရက် ဗဟိုဘဏ်ထုတ်ပြန်ချက်တွင် သွင်းကုန်လိုင်စင်လျှောက်ထားခြင်းနှင့် ပြည်ပသို့ ငွေပေးချေခြင်းတို့အတွက် အချိန်ပိုမိုရရှိစေရန်၊ ပို့ကုန်သွင်းကုန်လုပ်ငန်းများကြား နိုင်ငံခြားငွေလည်ပတ်မှု အဆင်ပြေချောမွေ့စေရန် ရည်ရွယ်ကြောင်း ဆိုထားသည်။\n\n“အရင်ထက်စာရင်တော့ နည်းနည်းလေး အသက်ရှူချောင်တာပေါ့။ ပို့ကုန်သမားတွေက သွင်းကုန်သမားတွေကို ပြန်မှီခို နေရတာ။ သွင်းကုန်သမားက ဈေးပိုပေးတဲ့အပေါ်မှာ သွားရတာဆိုတော့ အခု ၁၅ ရက်လောက် အချိန်ပိုရတော့ နည်းနည်း လေး သက်သာတာပေါ့။ ဒါပေမယ့် နိုင်ငံခြားငွေ တည်ငြိမ်ဖို့ဆိုတာက အများကြီးလိုပါသေးတယ်။ ဒီအစီအမံတခုတည်းနဲ့ တော့ ဈေးကွက်အပေါ် သက်ရောက်မှုအရမ်းကြီး မဖြစ်နိုင်ပါဘူး” ဟု ပြည်တွင်း ပို့ကုန်လုပ်ငန်းရှင်တဦးက ဧရာဝတီကို ပြောသည်။\n\nနိုင်ငံခြားသုံးငွေ စီမံခန့်ခွဲမှုဥပဒေ ပုဒ်မ ၃၈-ခ အရ ပို့ကုန်ရငွေများကို သတ်မှတ်ကာလအတွင်း ပြည်တွင်းရှိ နိုင်ငံခြားငွေ ဘဏ်စာရင်းများ၌မဖြစ်မနေ ထည့်သွင်းရမည်ဟု ပြဋ္ဌာန်းထားရာ စစ်ကောင်စီက ၂၀၂၂ ခုနှစ် ဩဂုတ်လ ၁၆ ရက်တွင်\n\nပုဂ္ဂလိကဘဏ်စာရင်း၌ ရက် ၃၀ သာ ထားရမည်ဟု သတ်မှတ်လိုက်သည်။\n\nယခုလို ဗဟိုဘဏ်၏ လုပ်ဆောင်မှုက အမေရိကန်ဒေါ်လာဈေး အဆမတန်တက်ခြင်း၊ ကျခြင်းများ မဖြစ်အောင် ထိန်း ညှိခြင်းသာ ဖြစ်နိုင်ပြီး ဈေးကွက်သဘောအရ အတက်အကျ လုံးဝချုပ်ကိုင်ထားရန် မဖြစ်နိုင်ဟု စီးပွားရေး လုပ်ငန်းရှင်များက ပြောသည်။\n\nထိုသို့ ဒေါ်လာဈေးနှုန်းမြင့်ပြီး နိုင်ငံခြားငွေဈေးကွက် မတည်ငြိမ်မှုများကြားတွင် ဗဟိုဘဏ်က ဈေးကွက်ထိန်းညှိ ရေးဆိုင်ရာ အစီအမံများကို ယခုရက်ပိုင်းအတွင်း ဆက်တိုက် လုပ်ဆောင်လာသည်ကို တွေ့ရသည်။\n\nပြီးခဲ့သည့် နိုဝင်ဘာ ၄ ရက်တွင် သွင်းကုန်လုပ်ငန်းရှင်များကို နိုင်ငံခြားငွေ ရာခိုင်နှုန်း အချိုးအစားဖြင့် အဆင့်လိုက် ရောင်းချပေးမည့် အစီအစဉ်ကို ထုတ်ပြန်ခဲ့သလို နိုဝင်ဘာ ၅ ရက်တွင်လည်း တရားဝင်လိုင်စင်မရှိဘဲ နိုင်ငံခြားငွေ အရောင်းအဝယ်ပြုလုပ်သူများနှင့် သတ်မှတ်ငွေလဲနှုန်းအတိုင်း အရောင်းအဝယ် မလုပ်သူများကို ဥပဒေအရ အရေးယူ မည်ဟု သတိပေး ထုတ်ပြန်ခဲ့သည်။\n\nယင်းအစီအမံများနှင့် ပတ်သက်၍ ပြည်တွင်း ငွေကြေးဈေးကွက်အတွင်းရှိ နိုင်ငံခြားငွေလဲလှယ်ရေး လုပ်ငန်းရှင်တဦးက “သူတို့ (အာဏာသိမ်းအစိုးရ) ကတော့ ဈေးတက်တာကို ထိန်းဖို့ လုပ်နေတာပေါ့။ ဒါပေမယ့် ထိရောက်မှု သိပ်မရှိဘဲ ဈေးကွက်မှာ ဆက်တက်နေတာပဲ။ ဝန်ကြီးဌာနတခုနဲ့တခု မချိတ်မိသလို ဖြစ်နေတယ်” ဟု ဧရာဝတီသို့ ပြောသည်။\n\nဗဟိုဘဏ်က ဒေါ်လာဈေးထိန်းရန် လုပ်ဆောင်နေသော်လည်း အခြားတဖက်တွင် လာမည့်လ၌ ပြုလုပ်မည့် ကုန်စည်ပြပွဲ များအတွက် ကုန်ကြမ်းသွင်းကုန်လိုင်စင်များ ချပေးနေသဖြင့် သွင်းကုန်လုပ်ငန်းရှင်များက ဒေါ်လာလိုက်လံရှာဖွေနေပြီး၊ ဒေါ်လာကို ပြင်ပပေါက်ဈေးထက် တဒေါ်လာလျှင် ၂၃၀ ကျပ်မှ ၂၆၀ ကျပ်အထိ ပိုပေးကာ ဝယ်ယူနေရသဖြင့် ဈေးဆက် တက်နေခြင်းဖြစ်ကြောင်း ၎င်းက ရှင်းပြသည်။\n\nလက်ရှိ မြေပြင်အခြေအနေနှင့်ပတ်သက်ပြီး ဆက်လက်၍ ၎င်းက “အခုက အဖမ်းအဆီး အစစ်အဆေးတွေ ရှိနေတော့ သတိထားပြီး လုပ်နေရတယ်။ ဈေးကွက်မှာ အရောင်းအဝယ်တော့ အေးတယ်” ဟု ပြောသည်။\n\nယနေ့ နိုဝင်ဘာ ၁၀ ရက် ညနေပိုင်းတွင် ပြင်ပဈေးကွက်၌ ကန်တဒေါ်လာလျှင် ၄,၈၃၀ ကျပ်အထိ ဆက်လက်မြင့်တက် နေပြီး အာဏာသိမ်းအစိုးရ၏ စစ်ဆေးမေးမြန်း ဖမ်းဆီးမှုများကြောင့် ဈေးကွက်အတွင်း ယုံကြည်စိတ်ချရသူ အချင်းချင်း ကြားတွင်သာ သတိထား အရောင်းအဝယ် ပြုလုပ်နေကြကြောင်း သိရသည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2024/03/rice3mar24feat.jpeg",
    "lang": "my"
   }
  ]
