@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T06:38:52.842009+00:00",
- "updated_yangon": "2026-11-15 13:08",
+ "updated": "2026-11-15T07:39:01.291095+00:00",
+ "updated_yangon": "2026-11-15 14:09",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -11,6 +11,7 @@
   "France 24",
   "Google News",
   "Google News · China Taiwan",
+  "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
@@ -27,15 +28,19 @@
   ],
   [
    "Ukraine",
-   20
+   22
   ],
   [
    "Russia",
-   14
+   13
   ],
   [
    "China",
-   9
+   10
+  ],
+  [
+   "Israel",
+   8
   ],
   [
    "Iran",
@@ -46,31 +51,35 @@
    7
   ],
   [
-   "Israel",
-   6
-  ],
-  [
    "France",
    6
   ],
   [
+   "Palestine",
+   5
+  ],
+  [
    "India",
-   6
+   4
   ],
   [
    "United Kingdom",
-   4
-  ],
-  [
-   "Palestine",
-   4
-  ],
-  [
-   "Yemen",
    3
   ],
   [
+   "Germany",
+   2
+  ],
+  [
    "Saudi Arabia",
+   2
+  ],
+  [
+   "European Union",
+   2
+  ],
+  [
+   "Yemen",
    2
   ],
   [
@@ -94,10 +103,6 @@
    1
   ],
   [
-   "European Union",
-   1
-  ],
-  [
    "Lebanon",
    1
   ],
@@ -107,10 +112,6 @@
   ],
   [
    "Syria",
-   1
-  ],
-  [
-   "Germany",
    1
   ],
   [
@@ -133,12 +134,102 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 23,
+ "war_count": 28,
  "languages": {
-  "my": 23,
-  "en": 117
+  "my": 24,
+  "en": 116
  },
  "items": [
+  {
+   "title": "ASEAN should focus on digital economy, energy resilience, broadening networks amid global uncertainty: PM Wong",
+   "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-6552066",
+   "source": "CNA World",
+   "published": "2026-11-15T15:18:38+08:00",
+   "summary": "Singapore Prime Minister Lawrence Wong was speaking at the plenary session of the 49th ASEAN Summit in the Philippine capital of Manila.",
+   "body": "Singapore Prime Minister Lawrence Wong was speaking at the plenary session of the 49th ASEAN Summit in the Philippine capital of Manila.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--Ge4ljqJQ--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/15/mddi_photo_2.jpg?itok=Ze3mFjOD",
+   "lang": "en"
+  },
+  {
+   "title": "Germany news: Germany holds national day of remembrance",
+   "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-15T07:23:00+00:00",
+   "summary": "Events are being held for Volkstrauertag, a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+   "body": "Events are being held for Volkstrauertag, a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/70804472_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russo-Ukrainian war, day 1725: Russia demands NATO pullback and end to Britain’s nuclear shield over Europe - Euromaidan Press",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXhiaW4yTlMtc2JGTVJWeFQ1eTZLVXVHVi16TE8yY1U4NW4ySVEzVVZBQlhwV2k3VHBOWHpKR19VZGZoajRTazlCWF9rMkk3MHVyU25LVG03MjRqeDBrSDkwV2ZfX25oaHpYWW9zZklSSEYzUUtENWtLUks0cjRNekI1V21VOWwyRVlGSFNDekVLNUc1eld6RU44YW9jczRwUnNyZXNQU0lSRlgyZ0tRUjlpakduWFgyWE0wY0ZiN0pjcV9JNnhoNjBJOU4tNXhQRFhYM1Voc0paU0JS?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T07:17:52+00:00",
+   "summary": "Russo-Ukrainian war, day 1725: Russia demands NATO pullback and end to Britain’s nuclear shield over Europe Euromaidan Press",
+   "body": "Russo-Ukrainian war, day 1725: Russia demands NATO pullback and end to Britain’s nuclear shield over Europe Euromaidan Press",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United Kingdom"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-15T07:10:31+00:00",
+   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "body": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHo4bEMyZzEwNXVvajRYRWhUTzY5aEVERzRPSzhGU0I4WGtPZ2w2OG1IQmFYQjJfSU8yU1ZZeEV2eV80TGVhY1VIRWp1QlBuZDBFbVU2Y3ZaWFBjUGpvMzhaMUdNU1kwWnJySzR0ejlLbnZuaGZFRjhvZFd2YXVxRzQ1VFhoa0IycU1SSkJqeGRwdG1KVlE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T07:05:03+00:00",
+   "summary": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case. CBS News CBS 48 Hours episode to focus on Susan Lane-Fournier murder case KOIN.com News reports called her a missing hiker. Her community suspected foul play. Yahoo WHEN A BELOVE",
+   "body": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case. CBS News CBS 48 Hours episode to focus on Susan Lane-Fournier murder case KOIN.com News reports called her a missing hiker. Her community suspected foul play. Yahoo WHEN A BELOVED OREGON WOMAN GOES MISSING, HER MOUNTAIN COMMUNITY BANDS TOGETHER TO FIND ANSWERS Paramount Press Express Sneak peek: Murder at Mount Hood Yahoo",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
+   "link": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
+   "source": "France 24",
+   "published": "2026-11-15T07:04:31+00:00",
+   "summary": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world’s increasingly interconnected technology systems are beginning to unravel.",
+   "body": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world’s increasingly interconnected technology systems are beginning to unravel.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/19ce78fa-e0c1-11f1-9d67-f71d22e7fea9/w:1024/p:16x9/000-D76L3L9.jpg",
+   "lang": "en"
+  },
   {
    "title": "A family photo, a hand to hold: An occupational therapist learnt what matters most to dying patients",
    "link": "https://www.channelnewsasia.com/women/occupational-therapist-dying-patients-last-wishes-6502371",
@@ -150,6 +241,54 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--j4X5vzAB--/c_crop,h_720,w_1280,x_0,y_161/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/29/esther-lim-occupational-therapist-st-lukes-hospital.jpg?itok=4SIWTsYZ",
+   "lang": "en"
+  },
+  {
+   "title": "Israel: Making the Holy Land burn",
+   "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T06:49:14+00:00",
+   "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+   "body": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-22T070259Z_1448102338_RC264OA6MQFM_RTRMADP_3_ISRAEL-PALESTINIANS-OLIVES-THEFT-1794661177_1cbbb6-1794725498.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "အီရန်က အမေရိကန်နဲ့ အစ္စရေး တိုက်ခိုက်မှု အတွက် သဘာဝ ပတ်ဝန်းကျင် ထိခိုက်မှု လျော်ကြေး လိုချင်လို့ ဆို",
+   "link": "https://burma.irrawaddy.com/news/2026/11/15/417654.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-15T06:48:44+00:00",
+   "summary": "အီရန်ဘက်ကလည်း ဟောမုဇ် ရေလက်ကြားကို ဖြတ်သန်းတဲ့ ဆီတင်သင်္ဘောတွေကို အကြိမ်ကြိမ် တိုက်ခိုက်ခဲ့…",
+   "body": "အမေရိကန်နဲ့ အစ္စရေး တိုက်ခိုက်မှုတွေ အတွက် သဘာဝ ပတ်ဝန်းကျင် ထိခိုက်မှု ဆိုင်ရာ လျော်ကြေး လိုချင်ကြောင်း အီရန်သမ္မတ Masoud Pezeshkian က ကုလသမဂ္ဂ ရာသီဥတုဆိုင်ရာ ညီလာခံ COP31 မှာ ပြောကြားလိုက်ပါတယ်။\n\nအဆိုပါ ပြဿနာဟာ ရာသီဥတု ပြောင်းလဲမှုကို တိုက်ဖျက်ဖို့ လုပ်ဆောင်နေတဲ့ ကမာ္ဘလုံးဆိုင်ရာ ကြိုးပမ်းမှုနဲ့ ဆက်စပ် နေကြောင်း အီရန်သမ္မတက ပြောကြားခဲ့တာ ဖြစ်ပါတယ်။\n\n“ကမ္ဘာ့ လူမှုအဖွဲ့အစည်း အနေနဲ့ ငြိမ်းချမ်းတဲ့ ကာလတွေမှာ ရှိခဲ့တဲ့ ကတိကဝတ်တွေနဲ့ စစ်ပွဲကာလ တာဝန်ခံမှုတို့ကြားမှာ အဓိပ္ပာယ်ရှိပြီး စစ်မှန်တဲ့ ချိတ်ဆက်မှုကို ထူထောင်နိုင်ဖို့၊ စစ်ရေးကြောင့်ဖြစ်တဲ့ ပတ်ဝန်းကျင် ထိခိုက်မှုတွေကို သုံးသပ် အကဲဖြတ်နိုင်ဖို့နဲ့ လျော်ကြေးဆိုင်ရာ လုပ်ငန်း ယန္တရားတွေ ဖွံ့ဖြိုးလာဖို့ မျှော်လင့်တယ်” လို့ အီရန်သမ္မတ Masoud Pezeshkian က ပြောဆိုပါတယ်။\n\nလက်ရှိ နိုင်ငံတကာ ရာသီဥတု ဆိုင်ရာ သဘောတူညီချက်တွေထဲမှာ ဖွံ့ဖြိုးဆဲနိုင်ငံတွေ အနေနဲ့ ရာသီဥတု ပြောင်းလဲမှုနဲ့ လိုက်လျောညီထွေ ရှိနိုင်ဖို့၊ ထိခိုက်မှုတွေအတွက် ပေးဆောင်နိုင်ဖို့ ချမ်းသာတဲ့ နိုင်ငံတွေရဲ့ ဒေါ်လာ ဘီလီယံနဲ့ ချီတဲ့ ဘဏ္ဍာရေး ကူညီမှုတွေပါဝင်ပေမယ့် စစ်ရေး တိုက်ခိုက်မှုတွေကြောင့် ဖြစ်တဲ့ သဘာဝ ပတ်ဝန်းကျင် ထိခိုက်မှုတွေကို လွှမ်းခြုံနိုင်မယ့် ပြဌာန်းချက်တော့ မပါဘူးလို့ သိရပါတယ်။\n\nအမေရိကန်နဲ့ အစ္စရေးတို့ဟာ အီရန်အပေါ် စစ်ဆင်ရေးတရပ်ကို ဖေဖော်ဝါရီလ နှောင်းပိုင်းက စတင်ခဲ့တာ ဖြစ်ပါတယ်။\n\nလက်ဘနွန်နဲ့ ပင်လယ်ကွေ့ အထိ ပျံ့နှံသွားတဲ့ စစ်ရေးပဋိပက္ခဟာ အီရန်ရဲ့ စွမ်းအင်ဆိုင်ရာ အခြေခံ အဆောက်အအုံ တွေကို ထပ်ခါတလဲလဲ တိုက်ခိုက်ခြင်းနဲ့ သင်္ဘောတွေကို တိုက်ခိုက်မှုတွေလည်း ပါဝင်ခဲ့တာပါ။\n\nအီရန်ဘက်ကလည်း ဟောမုဇ် ရေလက်ကြားကို ဖြတ်သန်းတဲ့ ဆီတင်သင်္ဘောတွေကို အကြိမ်ကြိမ် တိုက်ခိုက်ခဲ့တာ ဖြစ် ပါတယ်။\n\nအဆိုပါ တိုက်ခိုက်မှုတွေကြောင့် များပြားတဲ့ ရေနံယိုစိမ့်မှုတွေ အပါအဝင် သဘာဝ ပတ်ဝန်းကျင် ထိခိုက်မှုတွေ ဖြစ်ပေါ်စေခဲ့တာ ဖြစ်ပါတယ်။\n\nအီရန်စစ်ပွဲဟာ တကမ္ဘာလုံး အတိုင်းအတာ အနေနဲ့ ဓာတ်ငွေ့ ထုတ်လွှတ်မှုကို လျော့ကျစေခဲ့တာမျိုးလည်း ဖြစ်နိုင်တယ်လို့ ဆိုပါတယ်။\n\nလောင်စာဆီ ဈေးနှုန်းမြင့်တက်မှုနဲ့ ပဋိပက္ခကြောင့် ပြန်လည် ပြည့်ဖြိုးမြဲ စွမ်းအင် အသုံးပြုမှု များပြားလာခြင်းတို့က ဒီနှစ်မှာ ကမ္ဘာလုံးဆိုင်ရာ ဓာတ်ငွေ့ ထုတ်လွှတ်မှု အနည်းငယ် လျော့ကျလာစေတဲ့ အကြောင်းအရင်းရဲ့ တစိတ်တပိုင်း ဖြစ်ကြောင်း အင်္ဂါနေ့က ထုတ်ပြန်ခဲ့တဲ့ နိုင်ငံတကာ သိပ္ပံပညာရှင် အဖွဲ့တခုရဲ့ အစီရင်ခံစာမှာ ဖော်ပြထားပါတယ်။\n\nအဆိုပါ ကုလသမဂ္ဂ ရဲ့ ရာသီဥတု ပြောင်းလဲမှု ဆိုင်ရာ ညီလာခံ COP31 ကို တူရကီနိုင်ငံ အန်တာလျာ (Antalya) မြို့မှာ နိုဝင်ဘာလ ၉ ရက်နေ့ကနေ ၂၀ ရက်နေ့ အထိ ကျင်းပနေတာ ဖြစ်ပါတယ်။\n\nRef : Reuters",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Cop3115Nov26feat-900x476.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "The French Republic’s forgotten promise of equality",
+   "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T06:44:27+00:00",
+   "summary": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+   "body": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T130146Z_857326846_RC2ONOAB3CED_RTRMADP_3_FRANCE-PROTEST-1794664321.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -187,18 +326,17 @@
    "lang": "en"
   },
   {
-   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T06:18:06+00:00",
-   "summary": "Saudi-led coalition intercepts two missiles, two drones in Riyadh Al Jazeera Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province Reuters Saudi-led coalition says it intercepts 2 Houthi ballistic missiles targeting Riyadh Anadolu Ajansı A view shows ",
-   "body": "Saudi-led coalition intercepts two missiles, two drones in Riyadh Al Jazeera Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province Reuters Saudi-led coalition says it intercepts 2 Houthi ballistic missiles targeting Riyadh Anadolu Ajansı A view shows the Aramco Tower damaged by falling debris following an attempted attack by Iran-aligned Houthis that claimed responsibility for the attack in Riyadh The Lufkin Daily News Houthis Claim Strikes on Saudi Weapons Depots , Troop Gatherings in Yemen , Saudi Border Region Yemen Online",
-   "category": "Middle East",
+   "title": "Russian army loses another 2,230 soldiers in war against Ukraine over past day - Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2E3ZlpOUjE4WkNGYkJPeGJKOUJNMGxvSUxvdWIxRjEzdm44cVdSYkRsV013bmZSWmlzVEV2bkJsMjVjazczb0hISExpS3YzUDhpNURzSFJYbloybFRMSGVQOTZKTGxKYXhKRUpicWtoN2poVUVWandhaDhaNVZXcnlnUzQ4ZW1wLTRSTnRTRmZPX05uYzRHTzlnbWRHNDRyTlRWREM2dU5iTHowMHRnUHVxQU9XbmhqLXNZd3FqeU1oN2g2NkHSAcsBQVVfeXFMT1Byd0hWNEZuQ29uSEVlUllXcFR1UFdlMHhnd2Q2WXotZVN5MThlY0MzR19sVk5aOVdLcmgzRUhhNDRPUy1RLWVsSHpxTTFacDJ6aEtqenVla2JRejZfSlFXOVlQQk0zeWpISFlYUmY1dzVMd1VMRVdQeDNNMklGT2hWQ0RTZWpFbGg3V3kzV1hjY3hpUUd2a3UwcUhSNHpMLWItc24xdGtQVHZXcXY2Q0hGOEFPODJWU3R4bGFIcDRlYzB2dlBBcFotdlE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T06:17:00+00:00",
+   "summary": "Russian army loses another 2,230 soldiers in war against Ukraine over past day Ukrinform",
+   "body": "Russian army loses another 2,230 soldiers in war against Ukraine over past day Ukrinform",
+   "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
-    "Iran",
-    "Yemen",
-    "Saudi Arabia"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -274,15 +412,45 @@
    "lang": "en"
   },
   {
+   "title": "Russian Offensive Campaign Assessment, November 14, 2026 - Institute for the Study of War",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVJNGlwMmRIbWpsSXRHOXE0enlXZktiYXduYWRHYmpTSHJjT2Q5ckJCQUt3TUE1T1lfOGRwZW1tcjR6V0kyb1A5SUpVYTNnWTh2UVV4X3N0aWV6STZpX183WWppZlBGSkZBdW9wNkNZRFFUVnRqNEJJSkZZTjN5Q1VoTENvWU9JaFZhY3BxNmNYQVJPcGo4ak5nM083M0tzRDBjTEpNX3dmaW5f?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T05:57:17+00:00",
+   "summary": "Russian Offensive Campaign Assessment, November 14, 2026 Institute for the Study of War",
+   "body": "Russian Offensive Campaign Assessment, November 14, 2026 Institute for the Study of War",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit - UFC.com",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
    "source": "Google News",
    "published": "2026-11-15T05:55:54+00:00",
-   "summary": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com Ciryl Gane survives early onslaught, edges Josh Hokit in UFC 334 main event ESPN UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event CBS Sports LIVE! UFC 334 Results: Gane",
-   "body": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com Ciryl Gane survives early onslaught, edges Josh Hokit in UFC 334 main event ESPN UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event CBS Sports LIVE! UFC 334 Results: Gane vs. Hokit MMA Fighting Gane, Hokit, Amanda Nunes, Kayla Harrison's Next Best Fights After UFC 334 Results Bleacher Report",
+   "summary": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com 'What the hell did I just watch?': Jon Jones, Francis Ngannou, more react to Ciryl Gane's UFC 334 win over Josh Hokit Yahoo Sports UFC 334 results: Gane defeats Hokit, Harrison submits Nunes ESPN UFC 334: Fight card, d",
+   "body": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com 'What the hell did I just watch?': Jon Jones, Francis Ngannou, more react to Ciryl Gane's UFC 334 win over Josh Hokit Yahoo Sports UFC 334 results: Gane defeats Hokit, Harrison submits Nunes ESPN UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event CBS Sports UFC 334 Live Updates, Highlights and Results Bleacher Report",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFE2Z1ZqR1R2Mm4yal9HbE4zVWlzdTlkbVVwRHhBM3d0Z3laYUk3ekZ4VXJhLXUySEl0QndzRWlweFRERmFZMjNxQnZUaVY3YUZIYjZBbWdaa0F3ay12VUllRTYzc1JGOTJNbzA0bEtGOGxzTGpVM29wV3RmNzU3X0xXU1luN2tTNkpySzBYdjI1cWNyR3Jfc0d2dzVBWlhndE5BX0VzUnplZmVqVDRtUWlwMU9pUWhqZnJKUHc1MWhMWV9W0gHUAUFVX3lxTE8tTjFYYnBBX2ZQMkw3RnNJZGdSSkpvRkI1ZGZIZGNKX0hWRzhqbzI1STlyYWZ5WDJCcXdjSWhYV0pZcl90NHFHR1VEVU9SdVVBMnI5ZUJyWXoxTlE5T1NTcjBYQUN6cl8wdVlpNm11ajBGaDVvajd4Ym1HcThWVkRmQklWemdKODVQTUlxNGZ5aTByZzZJdFc1NndZeXhkcmpEZllNSV95QkZJWFJDckxrMHdMV1haWG50bEYxNDdVWGp6N1hJTVdYNTVRVHY1ZmhNdXBM?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-15T05:51:40+00:00",
+   "summary": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise Gulf News",
+   "body": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise Gulf News",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Saudi Arabia"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -316,6 +484,22 @@
    "lang": "en"
   },
   {
+   "title": "EU Agrees Five-Country Team for Ukraine Peace Talks, Leaving Spain Out: 16 outlets compared - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTXJUQ2I2YmhvOEprZ2xYRkFreGRjdFAyMnJVSVFpUklzNkVhRk0yRjUwb2dsRUxHZWxpcU5INGpZTmowX2FCbzVwSjhzMzdka0gzQ2d6d3dEelFXZ0R5Vk4xRGhzbENCcVFGRl9KUE1RZ0ZLZUtUTGhEb196X1IxQklOTGZrR19mX0NFcHZFazdxS1pQY1lIZ1hWbDZETWl3ODlfUk0zaTNDbWZISkdRVDZFa2dGZlBzbE9JbDJQanRTV0xoOG5aaFotRDVBSjIyb0lHQ1B0c0g3ZEFvdmwya293Ui12WUJwODg4RQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T05:23:42+00:00",
+   "summary": "EU Agrees Five-Country Team for Ukraine Peace Talks, Leaving Spain Out: 16 outlets compared NewsCord",
+   "body": "EU Agrees Five-Country Team for Ukraine Peace Talks, Leaving Spain Out: 16 outlets compared NewsCord",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Rift deepens between the Philippines, China over South China Sea",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2EtbGxOOHhuLWg4RzQzeTdhcXlKbFIzU1g3S3BlOE1wMWxlRngzTUgtTzFVY0o0azIxc2tqWWdDWXNQSV9ld04wRjExVVUwbHVqbmhaQmt4NFlPZkczWUhwU05aUWtZZVlYX3dIQ3FET1lBUXJaZkVTTkFfbWhURUJGOVBxMkF1RnJWUjV1T1VuUkluM0NsNEU5ZFlRejlUUXcwM3c0MnAwYTg?oc=5",
    "source": "Google News · China Taiwan",
@@ -327,6 +511,19 @@
    "countries": [
     "China"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UFC 334 video: Kayla Harrison chokes out Amanda Nunes to defend title in co-main event - MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQk0zYzFkTUFrYWxSeGI1VHJxZTRCMGkybEdoWVBVMTFzUmRVZE9UdW5GaEI1U0tzLTZDTXc0R1VrZnROMGtqRnVZSXZuM29pcVhhS0FNRUotdW91NTRRempOOGs0bTUzd1dITm81Um9jR3BKeU9LM21wXzRkOUo0M0tvWVFfRjlEVElrakdyMERxZ3Q1Uk5vU1BTWlg4Yy04LTBpcDN5Q3NGMzYwd05ZOGdGNVpCVHlwQUJtbnVCaWRSdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T05:05:36+00:00",
+   "summary": "UFC 334 video: Kayla Harrison chokes out Amanda Nunes to defend title in co-main event MMA Fighting Kayla Harrison spoils Amanda Nunes' return, wins by submission at UFC 334 ESPN Kayla Harrison Submits Amanda Nunes at UFC 334 to Cement Legacy, Leaves Retirement Question Open Yaho",
+   "body": "UFC 334 video: Kayla Harrison chokes out Amanda Nunes to defend title in co-main event MMA Fighting Kayla Harrison spoils Amanda Nunes' return, wins by submission at UFC 334 ESPN Kayla Harrison Submits Amanda Nunes at UFC 334 to Cement Legacy, Leaves Retirement Question Open Yahoo Sports Kayla Harrison Beats Amanda Nunes, Judges' Scorecards, Prize Money, Stats & Highlights from UFC 334 Bleacher Report UFC 334: Amanda Nunes out of retirement for new challenge BBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -357,6 +554,21 @@
    "countries": [
     "Ukraine",
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post - Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KdkdBNzQzQXExNHFHX0RIeEt3b1FzQnRyN2lVUGhqdWdXVHM1c0hRbjZiR3hWdm9RNDVJemRIejM0TkN0RTFBcFBkY2Ftdw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T05:01:31+00:00",
+   "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post Kyiv Post",
+   "body": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post Kyiv Post",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -408,10 +620,23 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ21mcHlwMXBoSkxiVFJOQ2ctV0JUZEZEb092R0hqaVN6NThsRGV4dnZ3VTZlNDVhQTktUlZuRW94bW9tQVg3cHhmWGNLQjhVTUNoQmllN0trel9mcGdwY0NVVGxuM1VKRE5YRlc4eDRzQWM0ZU16VEVkUm13MWVhb25wWV9DUDBocElSOGd4bzRHZURWbDRzX1A5Mjl5TFpWOVFYM09yeTNzaXgwb1pDYQ?oc=5",
    "source": "Google News",
    "published": "2026-11-15T04:55:00+00:00",
-   "summary": "Arch Manning leads game-winning drive as Texas stuns LSU ESPN Texas 22-21 LSU (Nov 14, 2026) Game Recap ESPN Steve Sarkisian dials up game-winning TD pass to Raleek Brown Burnt Orange Nation Football Hosts Texas in Home Finale on Saturday in Death Valley LSUsports.net LSU leads T",
-   "body": "Arch Manning leads game-winning drive as Texas stuns LSU ESPN Texas 22-21 LSU (Nov 14, 2026) Game Recap ESPN Steve Sarkisian dials up game-winning TD pass to Raleek Brown Burnt Orange Nation Football Hosts Texas in Home Finale on Saturday in Death Valley LSUsports.net LSU leads Texas 21-13 at end of third quarter WAFB",
+   "summary": "Arch Manning leads game-winning drive as Texas stuns LSU ESPN Kiffin understands frustration as LSU's playoff hopes dashed ESPN Texas edges LSU 22-21 in Tigers’ final home game WAFB Arch Manning overcomes sloppy performance with clutch TD pass to lift Texas over LSU in crucial ma",
+   "body": "Arch Manning leads game-winning drive as Texas stuns LSU ESPN Kiffin understands frustration as LSU's playoff hopes dashed ESPN Texas edges LSU 22-21 in Tigers’ final home game WAFB Arch Manning overcomes sloppy performance with clutch TD pass to lift Texas over LSU in crucial matchup Fox News How to Watch Texas vs. LSU: TV Channel, Live Stream, Time FOX Sports",
    "category": "Global",
    "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry visits Lviv for first Superhumans War Trauma Conference - Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmRqNVVSX2w5NGR0Q2JqR0JuZmZjTGczQk50LUdkYUFUT0xLeTZNV01QckVCVEQ3a1haeVJJcDlvNHk0bTFPNE9TSUxTdmt4ckxVc3dnZUlkd2RaTEJLZXRDSTNwNXBVRHZzS1JsbzJVZWRPRHZHc3RLdXg4c0lxMTNhU0pNaGNMcGRKMlNCNDFlMmFmSzhiWXNFelp0eDZfd0JaRnU5eFNldWFXRkFnaEVQeXRWU2VHaGlsSFlKQdIBxAFBVV95cUxQUVJlOXlqZFRUT3dSSUpYOThCX3RuOEFIWUNCbkxWNGt1T3VIeGNnS2x4anNFTURWdTdhN3E2ZzBXaWNvWTZWaXN1OUY1dElGZ2ZSX2VrclpUb01hOHEwN3RRQmhDY1JxVFE4cmd0QXQtSUxvaFNXU0E0Wl9fX3Y4WnF4MTA4QS10QlFKeU9tMENfMDk2RGZXU1V3WmJvRmNvMC1PNDdYZ1dRN0ltTV9VWElIZDVnZmhCQ0NZWlEtclQyeFV2?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T04:52:00+00:00",
+   "summary": "Prince Harry visits Lviv for first Superhumans War Trauma Conference Ukrinform",
+   "body": "Prince Harry visits Lviv for first Superhumans War Trauma Conference Ukrinform",
+   "category": "Global",
+   "is_war": true,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -431,6 +656,19 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2597/live/4ea246c0-de4a-11f1-a3ae-1b29e500a192.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang with John Mulaney - Variety",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzZ0ZjhoM2s0dXFxdVBKOEh0UWMyZkFvMUcxZktRcUlHNGtyQjBmSHg0RDJfbWVqajlxbUkwQ0Q4VUpNQUZidHpsbzZpTmt3bFJqVFJ2dE13SzBMYUg3MC1aYjRPZmxsZmpsNC0zTUpreEpEUlVnRk9LUzVJMl9iNlNwOS1ncmhlcjk1LVA2clFJM0xfOTM3Q1FZaWFDNVlYNHc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T04:51:00+00:00",
+   "summary": "Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang with John Mulaney Variety Bowen Yang returns to ‘SNL’ to play ex-Nvidia CEO Jensen Huang NBC News ‘SNL’ Cold Open: Jensen Huang, Tech CEOs Get a Crash Course in Female Spies Rolling Stone Bowen Yang Makes Surprise 'SNL' Cameo as ",
+   "body": "Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang with John Mulaney Variety Bowen Yang returns to ‘SNL’ to play ex-Nvidia CEO Jensen Huang NBC News ‘SNL’ Cold Open: Jensen Huang, Tech CEOs Get a Crash Course in Female Spies Rolling Stone Bowen Yang Makes Surprise 'SNL' Cameo as Jensen Huang The Hollywood Reporter ‘SNL’ Brings Bowen Yang Back as Jensen Huang to Advise Tech CEOs: ‘Don’t Be Like Me’ TheWrap",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "A Tiong Bahru apartment gets a warm, Scandinavian-inspired makeover",
@@ -471,6 +709,21 @@
    "is_war": false,
    "countries": [
     "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "FAA was warned for years about repair risks leading to nationwide ground stop - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGhEX0dMOEdKd2dQcXJYV1NJVnZKeUFMTlMyRmVMWXFkZHhaU3hDR0NCM201VTZQRXc0QXNERjdBdGdyX3ZXU3ZlbU42WjR4MW5qLWh1WGtCdk9UVXdlaUlQMTJkS1FuWHhDcUt0MlNmQlRRYTdDSTh0Z3I0RTAwaGlYdzByVG05WE1uZjdyeWhiQlYtRmRRSkwtOVR0WS14X1VOZ25JZzVHMFFJNEhMUW9YWWtKVTM3cG5McHJDbjJGWWFfMTZV?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T04:37:00+00:00",
+   "summary": "FAA was warned for years about repair risks leading to nationwide ground stop The Washington Post What we know about the cause of the nationwide FAA ground stop CNN Sacramento airport travelers continue feeling effects of nationwide ground stop CBS News US aviation shutdown blame",
+   "body": "FAA was warned for years about repair risks leading to nationwide ground stop The Washington Post What we know about the cause of the nationwide FAA ground stop CNN Sacramento airport travelers continue feeling effects of nationwide ground stop CBS News US aviation shutdown blamed on L3 Harris installed router Reuters Repair Of Old Copper Wiring Caused US Flight Disruption: Trump Admin Barron's",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -521,6 +774,19 @@
    "lang": "en"
   },
   {
+   "title": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series - TechPowerUp",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHhrWVpQZEY1RUtYRGZCOUEtUm9ZcGdnQkVMd1BIUDhjY2ZPUkw4N1RYZ0JLRjBsV0E1S0kzOFB3dWU0eXRIYmFqcXk1RU9VUG9td1VhcU9LNFhVS1hTcU84UzNTdXp5ekVjOGtfRDRNMExrQTU5WUNjLUxnOUJ1dDFmQThrN3ZYTlhTNHJyaDRoWmgxYll5UkU0R0vSAaIBQVVfeXFMUG1VNEVMTUwxcnpIaUFSajUzWHd4NFBhejlsSUVYTnJZdDlSVE5sU2ZKYU1ZNnBDNm9Zc2xxMWRpbFl0TmhoYUVzcHJYMlJVR3c2SVNCR2gtUlp3S2VRdlZFdG80aDFqWVU5UG9LMkp3aGl5X1JfQUNtY2tlZkxyakpyb2NnUGw0Z1FZOEdNalJqV3V4VkV2SFJjMUVyQ1VYdVZB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T04:18:45+00:00",
+   "summary": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series TechPowerUp Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy Rock Paper Shotgun GTA 6’s Jason and Lucia Start The Story As Small-Time Cri",
+   "body": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series TechPowerUp Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy Rock Paper Shotgun GTA 6’s Jason and Lucia Start The Story As Small-Time Criminals with Basic Abilities Insider Gaming ‘GTA 6’ Reveals Jason And Lucia’s Limited Crime Options To Start Forbes Rockstar Says GTA 6 Will Try New Things the ‘Grand Theft Auto’ Series Has Never Done Before Yahoo Tech",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
    "link": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
    "source": "NYT World",
@@ -547,15 +813,17 @@
    "lang": "en"
   },
   {
-   "title": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case.",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHo4bEMyZzEwNXVvajRYRWhUTzY5aEVERzRPSzhGU0I4WGtPZ2w2OG1IQmFYQjJfSU8yU1ZZeEV2eV80TGVhY1VIRWp1QlBuZDBFbVU2Y3ZaWFBjUGpvMzhaMUdNU1kwWnJySzR0ejlLbnZuaGZFRjhvZFd2YXVxRzQ1VFhoa0IycU1SSkJqeGRwdG1KVlE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T04:02:24+00:00",
-   "summary": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case. CBS News CBS 48 Hours episode to focus on Susan Lane-Fournier murder case KOIN.com News reports called her a missing hiker. Her community suspected foul play. Yahoo WHEN A BELOVE",
-   "body": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case. CBS News CBS 48 Hours episode to focus on Susan Lane-Fournier murder case KOIN.com News reports called her a missing hiker. Her community suspected foul play. Yahoo WHEN A BELOVED OREGON WOMAN GOES MISSING, HER MOUNTAIN COMMUNITY BANDS TOGETHER TO FIND ANSWERS Paramount Press Express Sneak peek: Murder at Mount Hood Yahoo",
-   "category": "Global",
+   "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0x6X3prTmdxdXlVNU1GdjBSdThpaDdHT2ZzYkVqVzlTMkQyTG5Fc3Z0NFJVSUVJTWk5QjdfZkhIaTNPOEJJTVU3Mk41NWlPZVl4SHctSmZ4dXhLT0s4RWYyNVUwd0p0Qk9hOWtwRkF3Uy1YOWdyUnZJbVg5dU9RM3UwblUxYi13dnJuUmZvOWNVY29VYVNCSnNyMS1wVWs0dWd3bXd6T3BnTy04aV94ZUxB0gG3AUFVX3lxTE5kbXVNakk4aUFZU3NlYkRkWUxvalJraFN3VWc5bjhBSzdyLVJ6MS1zVTVqeVRySm5kQ1VNOGVTX2JEMm9GMjFRVTVMS21WSzVxbGNULUNhMmdJRVdoTFlBVjBKUnpXWE0zRUFnRVlBYlJ3WEUzcFdIdmgyQzZrNTVyZWpkUFhJcDJhVlkzakZtUXFQRTNwN3RuQ3pQai1YUnA4YlFPMkR2NnBQMEEwR3FwQ1ZPY0QyQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T04:06:46+00:00",
+   "summary": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera",
+   "body": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
+    "Ukraine",
+    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -577,27 +845,12 @@
    "lang": "en"
   },
   {
-   "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWENPZkdEZEVienRIMEVjQUg1X3hCZDYxZnRrdzNjVS1ySGV4VUJpc3ZnVUxpOUxqa0NYSFhMVVdDUGp4TkJyWU9YUlh6YVpSUkxCZ1locmI4NE1tVlhCT25TVXFPY1R3VFV2WENJMTVmVU5lWFVnMFRyWFlVUENPSjRDdVpQbWM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T04:01:59+00:00",
-   "summary": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post UPDATE: Road",
-   "body": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post UPDATE: Road closures in Carmel as high surf hits Monterey Peninsula Monterey Herald Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Could Beijing’s HQ-17 system defend PLA amphibious forces from Taiwan strikes? - South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1pzUzNLcG5YcUJoRXY4YWlCc0VLZ0xvaWtOd1VnUnRmc01DeUJVVUZDWFI2OWFFQkw5R19zWjZybnFYVVd2RXJ6Y2JKTzZFVnhKM0E5LW5feGRyZGNNbjljUW1mTURwNFVfU1VkMV9FZkVZQ2ZyVHBGV3doYVVWSE5FSW02ODBQdTNGejNST01rbnBsUTQ1TTNVaDNONzZoRjZvcnZPaUhhSUN6d19vU3BIUFFVcmNfOElQdnRpY291UXZCVTJENnItLUtvb1FjRGdwYkRud9IB1wFBVV95cUxNTjY0NzhNb2p1TVJCMkpyaWxKM2tWNDFXMjY2eDR3SVNsLVVmaXJrMno4Mkc3cUh3d3pHbUhfRURfeUNneTZsN21UZUNsS2MtNWVaclpkZkVGVjJPNE1SZDI2U3VHOVJDQ2Q0TUZPZ0tBQWQ4RDllOGpCazByc0syQ2h5SGdWX2FuWm91WW5iUzZlSTNHY1hna2FPbW1YejVqRlpiYS1LZ0ZiSE93Mm83RVQ3bEZEYkdkMi1vVDhYSFBrdXFGVS0zSnR4UF9LZ0tmTlAtZlNqaw?oc=5",
+   "title": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes? - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1pzUzNLcG5YcUJoRXY4YWlCc0VLZ0xvaWtOd1VnUnRmc01DeUJVVUZDWFI2OWFFQkw5R19zWjZybnFYVVd2RXJ6Y2JKTzZFVnhKM0E5LW5feGRyZGNNbjljUW1mTURwNFVfU1VkMV9FZkVZQ2ZyVHBGV3doYVVWSE5FSW02ODBQdTNGejNST01rbnBsUTQ1TTNVaDNONzZoRjZvcnZPaUhhSUN6d19vU3BIUFFVcmNfOElQdnRpY291UXZCVTJENnItLUtvb1FjRGdwYkRudw?oc=5",
    "source": "Google News · China Taiwan",
    "published": "2026-11-15T04:00:11+00:00",
-   "summary": "Could Beijing’s HQ-17 system defend PLA amphibious forces from Taiwan strikes? South China Morning Post",
-   "body": "Could Beijing’s HQ-17 system defend PLA amphibious forces from Taiwan strikes? South China Morning Post",
+   "summary": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes? South China Morning Post",
+   "body": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes? South China Morning Post",
    "category": "Asia-Pacific",
    "is_war": true,
    "countries": [
@@ -766,6 +1019,19 @@
    "lang": "en"
   },
   {
+   "title": "After Her Baby Was Buried Alive, a Mother’s Painful Question: Why?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVzR2Y1dDY2N2TDFxLTJTdzVqTHdyanVxU1NsN2N6MjdQU3Z4UHpobzFLYUZTOEEzQW9UYU04ZlM1SkswNWZaT2ZhRG1jZHI2bkdoRk9NZ1JCZm05d1JPTFVzaENtOFFjLXZEUHM4a0JFQkZ1MUZUYUdqTnExeWc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T02:59:46+00:00",
+   "summary": "After Her Baby Was Buried Alive, a Mother’s Painful Question: Why? The New York Times Grandfather of Infant Buried Alive in Backyard for 24 Hours Talks About Miracle Rescue and His Son’s Arrest People.com Baby buried alive for 24 hours released from the hospital; father charged A",
+   "body": "After Her Baby Was Buried Alive, a Mother’s Painful Question: Why? The New York Times Grandfather of Infant Buried Alive in Backyard for 24 Hours Talks About Miracle Rescue and His Son’s Arrest People.com Baby buried alive for 24 hours released from the hospital; father charged ABC News - Breaking News, Latest News and Videos Bond denied for father of baby found buried alive in Lexington County WIS News 10 A father is charged with attempted murder after authorities found his son buried a foot underground. What we know CNN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
    "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
    "source": "Al Jazeera",
@@ -795,22 +1061,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdDWFpKYTFpLXBKakFwVW5DYjA5eXdONUZZUi1vVGlpcjZlSlJaQmFCNmk0ZDAyOWZMSlh4T2FwZVFCMVRYLWxQb3MwdmMzUHNhQWdFWGV2RHdsZmZPYzdMd3RTdHZ4QzFxazlDVzE4cll5MnBOSHFnM2IwX1Q5RHJPbW1DOXpmMFVJVzFTMVhvc0NuWmlYWEhFeFpaZ1dEN0hTUkJQS2x3Ql9IV2VVMWtvUWlYTndJbVRETFhvT2tCUQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T02:46:05+00:00",
-   "summary": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
-   "body": "Ukraine war live: Russia strikes Kyiv hospital as Starshield restrictions continue The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Israel-Gaza war: Israeli airstrike on Nasser Hospital kills 6, wounds 20 - WION",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHdfdGh0Z242SjdJUHFCdTdUSklRZnV3dDZMcU5jVDRJYXRfbDVGSVBORTRZMVp3V24wZG5fNDNZS0t1X1J1TjZvN3NUbHdzdk5YQzBwYnRZVjhoRWpSM1lYV2NrcEp1ai1LVHRjMmY2TUlfdVkzNjVDZThqdkNzNWt3Wm9FZ1JEcG5sMS1ydFViTFNRVGV0VzlLWjM3NXBVRE9vT2M2U3pCTUFzWFNUSkh5aGgwZ9IBuwFBVV95cUxPbVZLcGVCWm9qWjZkY2JaY1VjUWFsZUpVWkRPaFZKUjlGYlRWdnBMci14ZnUtUjBqeDFEdDhLaUNId0ZBQi03WkVRcDlKdjFYUERFRHZrbXI0d1B1a2pOWDV1YkJSRWNFZ2Vac2w4cE1ZNUotakp5Mlh1T20zWXU5NV9xdFl2SlRadTJBaFFRZVZ1cTl2NFloRThfcGdOZ2lLNW1kSkpHMVlzVmdaZ05qelp3SXBXczczblJR?oc=5",
    "source": "Google News · War",
@@ -827,12 +1077,27 @@
    "lang": "en"
   },
   {
+   "title": "Protestantism seeing growth in Ukraine in midst of war - Christian Post",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGY1UzRxVjZnUnJLMFJGX25uZVJrYkFiSnExRzA4b0M1enJqb2FWX3B4V2RqY0xKNmd4WVV4YjNsdGl5OTVJa2Q3U0NwQ1VCRTBKRjNobDJ1ZHFFeXlreWdxaHB1XzVFSGV5S3pYZmdMNGJGNmV4bjZpX1J0dEQ4RmU2N2lHS3BHNlFWdTY1b3oxZmZjcHNVbmRn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T02:40:22+00:00",
+   "summary": "Protestantism seeing growth in Ukraine in midst of war Christian Post",
+   "body": "Protestantism seeing growth in Ukraine in midst of war Christian Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners - Deadline",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEpCTERuS2NHQ2dLX01Wb2llRVdNcF9GUGlLZ1JMTUtNb09qVUdna2l3UGprNVpsZTdjY3l2ZUZKSlNfeDJidmVNQ1h5ZWtkeVBmTy0zWkc1NmtxWC1mZnNLMTl1OWJHd0hLQVE1dkU0UTF4TFdjRmRfSUdQM0FZRWE2Y0hLdw?oc=5",
    "source": "Google News",
    "published": "2026-11-15T02:30:00+00:00",
    "summary": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners Deadline About CBS Presents Nickelodeon Kids’ Choice Awards CBS Kids’ Choice Awards: ‘Spider-Man: Brand New Day,’ Zendaya, Tom Holland, BTS Among 2026 Winners The Hollywood Reporter CBS L",
-   "body": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners Deadline About CBS Presents Nickelodeon Kids’ Choice Awards CBS Kids’ Choice Awards: ‘Spider-Man: Brand New Day,’ Zendaya, Tom Holland, BTS Among 2026 Winners The Hollywood Reporter CBS LA is live from the Kids' Choice Awards Orange Carpet - CBS Los Angeles CBS News Kids' Choice Awards 2026 Winners [Live Updates] NickALive!",
+   "body": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners Deadline About CBS Presents Nickelodeon Kids’ Choice Awards CBS Kids’ Choice Awards: ‘Spider-Man: Brand New Day,’ Zendaya, Tom Holland, BTS Among 2026 Winners The Hollywood Reporter CBS LA is live from the Kids' Choice Awards Orange Carpet - CBS Los Angeles CBS News BTS & ROSÉ Lead a Big Night for K-Pop at 2026 Kids’ Choice Awards: Full Winners List Billboard",
    "category": "Global",
    "is_war": true,
    "countries": [],
@@ -872,8 +1137,8 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
    "source": "Google News",
    "published": "2026-11-15T02:01:00+00:00",
-   "summary": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' CoinDesk Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over Yahoo Finance Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless Bloomberg.com Bitcoin is falling",
-   "body": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' CoinDesk Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over Yahoo Finance Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless Bloomberg.com Bitcoin is falling to fresh lows today: What’s causing the crypto decline? Fast Company ‘People are chucking stuff like gold and Bitcoin’ as rising inflation leads investors to seek yield Fortune",
+   "summary": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' CoinDesk Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless Bloomberg.com Bitcoin market outlook: extreme fear, oversold signals, and key support levels Yahoo Finance Bitcoin is fall",
+   "body": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' CoinDesk Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless Bloomberg.com Bitcoin market outlook: extreme fear, oversold signals, and key support levels Yahoo Finance Bitcoin is falling to fresh lows today: What’s causing the crypto decline? Fast Company ‘People are chucking stuff like gold and Bitcoin’ as rising inflation leads investors to seek yield Fortune",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -917,8 +1182,21 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVic0tteXJQZFNLYUpUUDBUcnFSS2p4Z1lSbW04ZXljajhyVjRuTXNib0dvanhZMWxyUlFudTlZcXdGUkxKYkdKRHk5QWRwRWN2TjZ3bXRsTTZ4clhqSGwwLWhBZHRaZ0l4aHBld2swV255Y1VYZVVQSkprdXh2WEQ2Ny1laXA2aFdLTUlLTnZXY3pQOVRjaEVuUmpsUDNuUDQ0cXVuNDJvSHc?oc=5",
    "source": "Google News",
    "published": "2026-11-15T01:52:00+00:00",
-   "summary": "Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say CBC 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News St. Albert's Remembrance Day honours fall",
-   "body": "Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say CBC 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News St. Albert's Remembrance Day honours fallen PPCLI members St. Albert Gazette Fort Saskatchewan Legion donates 100K from its Poppy Fund to victims of CFB Wainwright fire Edmonton Journal",
+   "summary": "Fifth Canadian soldier dies of injuries from military training fire NBC News Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range ",
+   "body": "Fifth Canadian soldier dies of injuries from military training fire NBC News Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News Fort Saskatchewan Legion donates 100K from its Poppy Fund to victims of CFB Wainwright fire Edmonton Journal",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T01:35:00+00:00",
+   "summary": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first AP News See more headlines & perspectives on Google News",
+   "body": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first AP News See more headlines & perspectives on Google News",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -968,9 +1246,9 @@
   },
   {
    "title": "Russia Ukraine War Daily Life - TelegraphHerald.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHhRdjhnRW12bUwtZUVZc1J4NEh1WE5lT1N3ZTd4UVYzWG1WbWUyMTU0M2R3NnRtSlFWOGlZYVRYakpwekNDSDRMbWJMckRzU1pHelNhY2RlMkdxQi1KS095OUpsRy1IbktmeEtUaENXNnY0ZHlhUFhiQTVyN3BRVHkyN0cwdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTh2eWdmdlNWV2lGY1lYeXQzZnFhZVozdlZ0S2dYcnBZdVBIeUZlTUFOTkQ0YjR0UGhmNjIyc2QxeVZGdGtFdkpuQ0kwM3dWaWl5VjY5aTRpZktuUWNla2haRFRYaW1MSTItM0RRNGwzNVV0YTQxcDZzb21EeXhjZlYzaTRhSnp0S1VzN3p5ekM2cTZRXy1Keg?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-15T01:30:00+00:00",
+   "published": "2026-11-15T01:30:27+00:00",
    "summary": "Russia Ukraine War Daily Life TelegraphHerald.com",
    "body": "Russia Ukraine War Daily Life TelegraphHerald.com",
    "category": "Ukraine / Russia",
@@ -978,21 +1256,6 @@
    "countries": [
     "Ukraine",
     "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Brandi Glanville had mysterious ‘black mass’ removed from her face during surgery amid ongoing health nightmare - Page Six",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVNvSWtMazVhYmpxZUxEM3hxWXRoTk1wZVRDUlJnUkIxM1FTUWtTR19pdE9URVhqWmtUVTZldUpURmQyVkNpMzVZanRKYnhjVnN3NGFYNS1FcTFFaHFSU1VobmJZTmczUl9FaENrdF9SNjVlM2FMMU5oeEJqRzVneHdGSFpfNk5ZbHc2OGFmVUxPVkhhV0w3eWlRTDRPWkNsQlZsRlh1UkxzTUl4ekFfdg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T01:27:00+00:00",
-   "summary": "Brandi Glanville had mysterious ‘black mass’ removed from her face during surgery amid ongoing health nightmare Page Six Brandi Glanville Has Facial Black Mass Removed, After Surgery For Leaking, Ruptured Breast Implants BollywoodShaadis Brandi Glanville Says She Doesn’t Know Wha",
-   "body": "Brandi Glanville had mysterious ‘black mass’ removed from her face during surgery amid ongoing health nightmare Page Six Brandi Glanville Has Facial Black Mass Removed, After Surgery For Leaking, Ruptured Breast Implants BollywoodShaadis Brandi Glanville Says She Doesn’t Know What Was Removed From Her Face Yahoo",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1008,21 +1271,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794705713.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Indiana shakes off USC to near Playoff berth as Lincoln Riley’s Trojans stumble in must-win",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGlfLUxYNVh0OVNQb0c5Q21XTEVLYmpMc3Jqb2htSzBlR3NyTEVxQ1NLeUZWMDFyY2p1cF82dll4b2hzOGQtMDRVTEc0UE9FdTc5azNBdDVkLXVraHhNajNwX05paUFtVElPNWJ5UDZQcDlweEFLQzdsSE5qeU12eFJmRFNRRUJ4NFdRcno4azBEZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T01:02:28+00:00",
-   "summary": "Indiana shakes off USC to near Playoff berth as Lincoln Riley’s Trojans stumble in must-win The New York Times Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs. USC ESPN How Grant Wilson, Indiana took down USC in Big Ten showdown The New York Times Watch: IU",
-   "body": "Indiana shakes off USC to near Playoff berth as Lincoln Riley’s Trojans stumble in must-win The New York Times Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs. USC ESPN How Grant Wilson, Indiana took down USC in Big Ten showdown The New York Times Watch: IU football coach Curt Cignetti Q&A on BTN ahead of USC The Daily Hoosier No. 9 Indiana ends No. 18 USC's chances of making the College Football Playoff in 27-13 win Yahoo Sports",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1070,35 +1318,6 @@
    "lang": "en"
   },
   {
-   "title": "Kushner seeks Russia-Europe talks to shape postwar security and pursue Ukraine peace - Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2ZlTVFfZlVrekgzbHB4NGY0NFpMRHh5ZXVFYmUxaVJMNk9DVWJDSVVEZENWNjJvZXRneXp0VGc3MDFXSnJJcEdDLVRyOFlXcmNOMEJZVVNJVjlROHVvMU5NdWgtbkFnRkpabFdkT2tfY1IxdDJad0l3ZmpHd2trMXRNR0RlVkhU0gGcAUFVX3lxTE04eDEzYnQ5RnFMYTQ1cDF3VFpLcWYxQ1JaUGFVS0xkNG8zcVYwVkhQWTFCR1BkbTU1cDczMVJsSktxUTVaUVhSWlU5R1MwWmZ5UENsbndXeEZkSzcydkRfVm9Jbjl3cXlMN0o4QmZBMWJYcjhTTExzWDBuLTBSZTlEYjM5TmRQT3diZTJFbVJBZ0pRZ2tBUVVNSGJIZg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T00:54:00+00:00",
-   "summary": "Kushner seeks Russia-Europe talks to shape postwar security and pursue Ukraine peace Chosunbiz",
-   "body": "Kushner seeks Russia-Europe talks to shape postwar security and pursue Ukraine peace Chosunbiz",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series - TechPowerUp",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHhrWVpQZEY1RUtYRGZCOUEtUm9ZcGdnQkVMd1BIUDhjY2ZPUkw4N1RYZ0JLRjBsV0E1S0kzOFB3dWU0eXRIYmFqcXk1RU9VUG9td1VhcU9LNFhVS1hTcU84UzNTdXp5ekVjOGtfRDRNMExrQTU5WUNjLUxnOUJ1dDFmQThrN3ZYTlhTNHJyaDRoWmgxYll5UkU0R0vSAaIBQVVfeXFMUG1VNEVMTUwxcnpIaUFSajUzWHd4NFBhejlsSUVYTnJZdDlSVE5sU2ZKYU1ZNnBDNm9Zc2xxMWRpbFl0TmhoYUVzcHJYMlJVR3c2SVNCR2gtUlp3S2VRdlZFdG80aDFqWVU5UG9LMkp3aGl5X1JfQUNtY2tlZkxyakpyb2NnUGw0Z1FZOEdNalJqV3V4VkV2SFJjMUVyQ1VYdVZB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T00:38:15+00:00",
-   "summary": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series TechPowerUp Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy Rock Paper Shotgun GTA 6’s Jason and Lucia Start The Story As Small-Time Cri",
-   "body": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series TechPowerUp Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy Rock Paper Shotgun GTA 6’s Jason and Lucia Start The Story As Small-Time Criminals with Basic Abilities Insider Gaming ‘GTA 6’ Reveals Jason And Lucia’s Limited Crime Options To Start Forbes Rockstar Says GTA 6 Will Try New Things the ‘Grand Theft Auto’ Series Has Never Done Before Yahoo Tech",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Hundreds of men march in Switzerland to protest violence against women",
    "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1122,21 +1341,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404",
-   "lang": "en"
-  },
-  {
-   "title": "More than 6K flights still canceled as FAA ground stop continues to snarl travel: ‘I’m tired and ready to go home’ - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzJ0Tk1TTGo3ZW54Y3NVejY0cDA5bkVVaG5WVUVoSXNUUXRhM2hvWjZUWGFDNGU3V1BDWm9oWnN6RkRkZ25MMVNVczVyMk4yYjhYVDVNSkM5MjJqZjVnNXc0WldUTGZRaEFlSWZYQm01OHg5M2xkSWhfRkNLZVF6NXQ2YkZKQ0psRUVqZHJmckNGRTZTaHpNSDZaU21ucl9ZQjlNaXF6bDR0QWVTYjhxQlh0ZlA4bDczclpn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T00:16:46+00:00",
-   "summary": "More than 6K flights still canceled as FAA ground stop continues to snarl travel: ‘I’m tired and ready to go home’ New York Post US aviation shutdown blamed on L3 Harris installed router Reuters Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System The New York Tim",
-   "body": "More than 6K flights still canceled as FAA ground stop continues to snarl travel: ‘I’m tired and ready to go home’ New York Post US aviation shutdown blamed on L3 Harris installed router Reuters Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System The New York Times Repair Of Old Copper Wiring Caused US Flight Disruption: Trump Admin Barron's Travelers navigate the fallout a day after the 4 hour-long FAA ground stop KCCI",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1226,6 +1430,21 @@
    "lang": "en"
   },
   {
+   "title": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes - San Francisco Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUN0VnhBOExPSVlzSGp1d3N6ZDVobVZXY3p1cVB3UEl4RU42aFVjQnBoWnBBLW1scDZoc1pRd3RvdnlFWEw1dlNuVGVxZlZfWWJ4ank3YzNpWnRwTVh3SjBuZlJWNjU4U19fejJCMEpIR3NMZnJ6RXVxNC05VjI2VUFtNzNCTEY1ZWpVc1dpMlpEYzA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T23:33:06+00:00",
+   "summary": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle 'Biggest Waves I've Ever Seen': Extreme Surf Batters Monterey Peninsula Yahoo California’s battered beaches are getting giant waves The Washington Post The Surf’s Way, W",
+   "body": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle 'Biggest Waves I've Ever Seen': Extreme Surf Batters Monterey Peninsula Yahoo California’s battered beaches are getting giant waves The Washington Post The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Zelensky: US floated idea of Ukraine swapping land for NATO membership",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
    "source": "Google News · Ukraine",
@@ -1258,19 +1477,6 @@
    "lang": "en"
   },
   {
-   "title": "SpaceX’s Starship returns from orbit and is captured by launchpad arms in a dramatic first",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T23:11:00+00:00",
-   "summary": "SpaceX’s Starship returns from orbit and is captured by launchpad arms in a dramatic first NBC News Live updates: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX Makes History With Successful Rocket Catch in Texas The New York T",
-   "body": "SpaceX’s Starship returns from orbit and is captured by launchpad arms in a dramatic first NBC News Live updates: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX Makes History With Successful Rocket Catch in Texas The New York Times SpaceX makes history as Starship spacecraft caught by launch tower for first time Fox Business SpaceX Starship Flight 15 live updates: Starship lands from orbit for 1st time Space",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Netanyahu says only a unity government can guarantee Israel’s security",
    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1299,6 +1505,21 @@
    "lang": "en"
   },
   {
+   "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T22:54:19+00:00",
+   "summary": "Iran's navy says three tankers on fire after hitting mines in Hormuz Reuters Iran reports three incidents of oil tankers hit by mines in Hormuz CNA Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems The Guardian Iran's ‘mine war’ claims ",
+   "body": "Iran's navy says three tankers on fire after hitting mines in Hormuz Reuters Iran reports three incidents of oil tankers hit by mines in Hormuz CNA Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems The Guardian Iran's ‘mine war’ claims questioned as UN warns over uranium buried at secret nuclear site Ynetnews Middle East latest: Bahrain issues nationwide threat alert amid Iran attack claims thenationalnews.com",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Explosion near Syria’s capital kills father and child",
    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1311,6 +1532,21 @@
     "Syria"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685590.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Russell Brand: Alleged rape victim wants age of consent law changed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTTZRQzV0bXRJS1dlRndvUGxSTGpkaHZQZzNDY01oQ0poMVJMOWlpWTdMVTRfQlowMVhsTWhHcTBsRVdpY3F6UjB0d2RsN3ViaTlCVDNUa3pHdkE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T22:37:14+00:00",
+   "summary": "Russell Brand: Alleged rape victim wants age of consent law changed BBC UK government to consider changing age of consent after allegations against Russell Brand The Guardian Anonymous Russell Brand Rape Accuser Reveals Her Identity, Recalls Alleged Encounters with Him When She W",
+   "body": "Russell Brand: Alleged rape victim wants age of consent law changed BBC UK government to consider changing age of consent after allegations against Russell Brand The Guardian Anonymous Russell Brand Rape Accuser Reveals Her Identity, Recalls Alleged Encounters with Him When She Was 16 People.com Russell Brand 'forced' girl, 16, against headboard and orally raped her Daily Star Minister says 'changing age of consent deserves proper consideration' after Brand allegations Sky News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1346,8 +1582,8 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
    "source": "Google News",
    "published": "2026-11-14T22:27:06+00:00",
-   "summary": "New Orleans port sues tanker owners over cruise ship collision for $1m BBC Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN Investigation underway into collision; Coast Guard working to recover capsized ship WDSU Port of New",
-   "body": "New Orleans port sues tanker owners over cruise ship collision for $1m BBC Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN Investigation underway into collision; Coast Guard working to recover capsized ship WDSU Port of New Orleans sues tanker owners for over $1M after cruise ship crash WWLTV.com Woman on cruise ship struck by a tanker said the riverboat started filling with water like the 'Titanic' Business Insider",
+   "summary": "New Orleans port sues tanker owners over cruise ship collision for $1m BBC Investigation underway into collision; Coast Guard working to recover capsized ship WDSU Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN Port of New",
+   "body": "New Orleans port sues tanker owners over cruise ship collision for $1m BBC Investigation underway into collision; Coast Guard working to recover capsized ship WDSU Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say CNN Port of New Orleans sues tanker owners for over $1M after cruise ship crash WWLTV.com Woman on cruise ship struck by a tanker said the riverboat started filling with water like the 'Titanic' Business Insider",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1361,6 +1597,21 @@
    "published": "2026-11-14T22:15:02+00:00",
    "summary": "US has lost measles elimination status, global health authorities say NPR After 26 years, the US has lost its measles elimination status CNN Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post America defeated measles in 2000. Vacc",
    "body": "US has lost measles elimination status, global health authorities say NPR After 26 years, the US has lost its measles elimination status CNN Surging measles cases are forcing doctors to treat conditions they’ve never seen The Washington Post America defeated measles in 2000. Vaccine opposition brought it roaring back. NBC News RFK Jr. Failed America on Measles The Atlantic",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T22:10:42+00:00",
+   "summary": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Greene calls Duffy, Mullin press briefing ‘a shakedown for more money’ The Hill Are Trump Officials Living in an Alternate Reality? Politico Trump quiet on ground stop, airport snarls NewsNation Newsom",
+   "body": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Greene calls Duffy, Mullin press briefing ‘a shakedown for more money’ The Hill Are Trump Officials Living in an Alternate Reality? Politico Trump quiet on ground stop, airport snarls NewsNation Newsom Brutally Trolls Trump Goon After His Nightmare Day The Daily Beast",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1387,8 +1638,8 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
    "source": "Google News",
    "published": "2026-11-14T22:07:08+00:00",
-   "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com Kushner Wants D",
-   "body": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com Kushner Wants Direct Russia-Europe Talks in Ukraine Peace Push Bloomberg.com Europe Express: opening a security can of worms Financial Times",
+   "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushne",
+   "body": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera Kushner Wants Direct Russia-Europe Talks in Ukraine Peace Push Bloomberg.com",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -1415,33 +1666,16 @@
    "lang": "en"
   },
   {
-   "title": "Putin tells UK to stop defending Europe with nukes as Russia makes peace demands - The Sun",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1JsZXNTbTJ5VVowdDY2WnpNcll6SFhyNVlnY1MwSjM4MUdNRHh4M1ZHZzlXYVNYSDV6VVlmZWxBWnZpVldqN3NRUWlSTURja1FlUzlkcDR2YjY2Nmx5WFNiOE5JSHJyLWtQdXJLei1ScWo2bzJuYjJQRlpUZFNIVXNFbw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T22:00:24+00:00",
-   "summary": "Putin tells UK to stop defending Europe with nukes as Russia makes peace demands The Sun",
-   "body": "Putin tells UK to stop defending Europe with nukes as Russia makes peace demands The Sun",
-   "category": "Ukraine / Russia",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5",
+   "source": "Google News",
+   "published": "2026-11-14T21:41:22+00:00",
+   "summary": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang Yahoo Finance Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "body": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang Yahoo Finance Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick The Guardian Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC China’s Intelligence Coup in the AI War The Atlantic",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia demands Britain stop shielding the rest of Europe with its nuclear deterrent as a price for peace in Ukraine — Telegraph - Euromaidan Press",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZDZYbzQ0VTd6eldud1pvN29DWGZQSWhqUTRhS2o1TzRnakNWWUJ2bEk1dzkydEpqeDZlRTRqYW1WbWUtZGJqOEVVZ0RwdGxVcE1CVFRLSHEwQ1N1RVJrNmVtS2RITTB6V1NqNjdvdmhsUUpDOXpVS09PT1U0a2drUlNwMS1kcFNybUhJb3dDamx3Qk5LRWlMZTR3Yk40WmpDeVV0dFBlS3JrQzlLOFBSMWc3RXBVY3BfbjFjZFBGNndlYWl4MjdrNFBvQVVtak9fV0E2bTY1TnJFSmZ2NElvVU50SGR5SEtEYXNtb29EWnJXR1ZWekVacQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-14T21:52:52+00:00",
-   "summary": "Russia demands Britain stop shielding the rest of Europe with its nuclear deterrent as a price for peace in Ukraine — Telegraph Euromaidan Press",
-   "body": "Russia demands Britain stop shielding the rest of Europe with its nuclear deterrent as a price for peace in Ukraine — Telegraph Euromaidan Press",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United Kingdom"
+    "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1472,23 +1706,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/79950273_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-   "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T21:10:26+00:00",
-   "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-   "body": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1571,8 +1788,8 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlYtS0dRV1ktX3lLbHpHRmVvMUFSRzJQaTBzQVdCdmgwSmxOcGM2YWdXZjFVZlF5UEhlZHgyTURGTXpWX25TQWxCNTZFek84cGN6a1pHN1o3c294Y2tkSmxWSE12S2ZHTkRYcGZfSDJiS1N5QzFrZWFVTDJJRjhmMW5QQURyM3hqYUFORTBaNTA2WVpIc3Y4Z0dRdkpqSEdPMUhPVWdNTjA2bHBJS2VOMlgxQ3ZlUkpndDJB?oc=5",
    "source": "Google News",
    "published": "2026-11-14T20:52:27+00:00",
-   "summary": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp is terrific as Scrooge while horror director Ti",
-   "body": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline ‘Ebenezer’ Review: Johnny Depp is terrific as Scrooge while horror director Ti West brings the right amount of creep factor to the holiday classic Fort Worth Report Johnny Depp's Hollywood comeback in 'Ebenezer' comes with one catch, PR pros say Business Insider Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday Variety",
+   "summary": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘",
+   "body": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare The Hollywood Reporter Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update Deadline Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday Variety ‘Ebenezer’ Review: Holiday Humbug The New York Times Johnny Depp's Hollywood comeback in 'Ebenezer' comes with one catch, PR pros say Business Insider",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1683,215 +1900,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb",
-   "lang": "en"
-  },
-  {
-   "title": "India’s Assam state demolishes homes of 132 Muslim families",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T20:14:10+00:00",
-   "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-   "body": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794687262.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmJYNUozVC1GX01ibDFuSlJTOUNVYU92dm45TGRJNHZpcVNRQ2tFbXJBbDczRHljY0RKT1ZWUzFpMExnRkJhQWtmOGRmUTNYZHJXOWdhaldrQmNxNWZsaUR5b21CR3NiRVpWRFQ4U2pZdkl1eDVPX2V1VkFtZVRtaEUyNi1zMkxTSkpDbG9PR0dkdWM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T20:12:34+00:00",
-   "summary": "Bomb found near ethanol plant in central Illinois forces evacuations NPR Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say CNN BREAKING: EVACUATION ORDER LIFTED CIProud.com FBI investigates powerful bomb found at Illinois et",
-   "body": "Bomb found near ethanol plant in central Illinois forces evacuations NPR Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say CNN BREAKING: EVACUATION ORDER LIFTED CIProud.com FBI investigates powerful bomb found at Illinois ethanol plant The Washington Post Police investigating bomb threat at BioUrja Renewables, formerly ADM plant, on Edmund Street in Peoria IL, evacuations underway ABC7 Chicago",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-   "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-   "source": "NYT World",
-   "published": "2026-11-14T19:23:20+00:00",
-   "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-   "body": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "United Kingdom"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "How the White House plans to put Democrats on defense on oversight",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWG5qV0tWaHlXWDZ5dmJXM1Z1ZWxYZmg2UGV4aElsOGRUaUJON1lEUXJZekZEbWhzMGtSUkc5aE1TNGp3WXJWZ1h5a29XYU9VdEdXa0N0Q1lJLTNVVEhpa3NqYkwyTFo0cVVmLUJYa081N2RtaHJGNWg5NkxXcS1iRzZXNElXdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T19:17:00+00:00",
-   "summary": "How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reache",
-   "body": "How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push CBS News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T19:14:33+00:00",
-   "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-   "body": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T19:12:25+00:00",
-   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "body": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-   "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-   "source": "The Guardian",
-   "published": "2026-11-14T19:01:32+00:00",
-   "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional editio",
-   "body": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e",
-   "lang": "en"
-  },
-  {
-   "title": "Records of about 140,000 migrant workers exposed in Fullerton Health's recent data breach",
-   "link": "https://www.channelnewsasia.com/singapore/fullerton-health-cybersecurity-data-incident-work-pass-holder-records-6551586",
-   "source": "CNA World",
-   "published": "2026-11-14T18:47:48+08:00",
-   "summary": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
-   "body": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--22XxQDld--/c_crop,h_714,w_1271,x_1,y_282/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2022/07/19/fullerton_health.jpg?itok=HdgiHSxz",
-   "lang": "en"
-  },
-  {
-   "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
-   "link": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
-   "source": "NYT World",
-   "published": "2026-11-14T18:44:13+00:00",
-   "summary": "It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.",
-   "body": "It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system - PBS",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzhXNjh2RVF3WldGNE9uTUZyNWFzeUo2aEZaRG1LcDNJX0VEbzhxa25oSmZycGZ2WUlNN2tnVEJ6eHRMSHhvb3J0MG9hZzlJQ3BCemoxSmFfVmRxbnQyYzNjWi16Uk1KZHN1ZDhDNGNEU2hJU0VDeWdzaU5CUGQxSDViM0hFWWdjWU5EXzFGWjMxMUR5R1dmRDUycVZXQkRjMGRUODR2ejZpT1BLUU5aMEZOdHRUWXpJbGVFVzdUVTAxWVI4U2k1T2dWd9IB0AFBVV95cUxOWTN6d3R3b3NBQURpSGhuSXAtN2YxS201bkpXQmZ2RkZlTUR3Q1RQb3Naa1RicVJ5ZElaU1Nxa3RNbDc1UzRKcGJPbElLczAzYl8xRHlvdmlHcXM1cjJveFZaMGZOQzh2R1lzMjNac0IteEt1TDR5bTdjLW45a3kxRnlrclZGYlNvajE0LXlpYk9Vd2lubjlLWG1RSkl2MzlMc19ZdGRWWUhYS19vS3NnMGxUT2lqZ2RKRERKd3VzVzVqcTRyMDFwV2RBaUhsVTdi?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T18:43:07+00:00",
-   "summary": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system PBS Alaska voters stick with ranked-choice voting, again Politico Alaskans opt to stick with ranked choice voting NBC News ‘A large and growing mandate’: Alaskans vote to keep ranked cho",
-   "body": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system PBS Alaska voters stick with ranked-choice voting, again Politico Alaskans opt to stick with ranked choice voting NBC News ‘A large and growing mandate’: Alaskans vote to keep ranked choice voting and open primaries Anchorage Daily News Alaska voters aren't ditching ranked choice voting, top-four primaries NPR",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Italy slaps Meta with €805mn fine over access to Android photos",
-   "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-14T18:41:00+00:00",
-   "summary": "Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta said it would appeal the decision, calling the fine \"disproportionate.\"",
-   "body": "Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta said it would appeal the decision, calling the fine \"disproportionate.\"",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/78408176_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-   "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-   "source": "NYT World",
-   "published": "2026-11-14T18:39:59+00:00",
-   "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-   "body": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record - Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZXpoQlFPN0U5WUJIelllclVrX3FjWFZOc3ItU0NMZFBDSGhwLVZDM0VYbk5xNFViN2JReHM4VE9NMWVFRVhBOXQ0T2dVdGE0bmVvVWNKMjlEMGhHNlV5X2tJY2dKUlVXUzNNUUpLcjd0d3cyRnI0dnJn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T18:37:10+00:00",
-   "summary": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record Phys.org NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities NASA (.gov) NASA’s Voyager 1 to hit new space distance record of one light-day Al Jazeera NASA's Voyager 1 prob",
-   "body": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record Phys.org NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities NASA (.gov) NASA’s Voyager 1 to hit new space distance record of one light-day Al Jazeera NASA's Voyager 1 probe poised to achieve mega-distance milestone Reuters Voyager 1 one light-day milestone: Ways to put the distance in perspective Mashable",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "NFL Week 10 last-minute picks, best bets: Chiefs, Steelers take advantage of schedule quirk - CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1dJUHFnWUtqa1podzh5MXJ6X3FBWnlRdFRJaENWYXRUUWV3RFdjMHpicWZtTC01Q1JMa0VEUW1XbDlJQ0w4eTVaS3k5eUwyUWEzRFdwelNOSXRrTFV5NkE5RGVoT2g4REl1VFVtNzlzLXQzMDUxX1lyVEhrMjhJQnZLVTUwQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-14T18:34:35+00:00",
-   "summary": "NFL Week 10 last-minute picks, best bets: Chiefs, Steelers take advantage of schedule quirk CBS Sports NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips ESPN NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn first w",
-   "body": "NFL Week 10 last-minute picks, best bets: Chiefs, Steelers take advantage of schedule quirk CBS Sports NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips ESPN NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn first win! NFL.com Week 10 NFL betting buzz: Odds, sharp action and public betting splits Yahoo Sports NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype - The Athletic The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Italy fines Meta €805m over accessing users' photos",
-   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T18:28:06+00:00",
-   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "body": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
    "lang": "en"
   },
   {
