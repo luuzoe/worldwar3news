@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T14:38:54.810128+00:00",
- "updated_yangon": "2026-11-15 21:08",
+ "updated": "2026-11-15T15:38:53.121281+00:00",
+ "updated_yangon": "2026-11-15 22:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -13,7 +13,6 @@
   "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
-  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -26,16 +25,16 @@
    42
   ],
   [
-   "Ukraine",
-   20
+   "Iran",
+   21
   ],
   [
-   "Iran",
-   19
+   "Ukraine",
+   18
   ],
   [
    "Russia",
-   18
+   16
   ],
   [
    "Israel",
@@ -46,15 +45,15 @@
    11
   ],
   [
+   "Palestine",
+   8
+  ],
+  [
    "China",
-   9
+   8
   ],
   [
    "Myanmar",
-   7
-  ],
-  [
-   "Palestine",
    7
   ],
   [
@@ -62,15 +61,11 @@
    3
   ],
   [
+   "NATO",
+   2
+  ],
+  [
    "Australia",
-   2
-  ],
-  [
-   "South Korea",
-   2
-  ],
-  [
-   "India",
    2
   ],
   [
@@ -78,15 +73,11 @@
    1
   ],
   [
-   "NATO",
+   "Iraq",
    1
   ],
   [
-   "Pakistan",
-   1
-  ],
-  [
-   "Turkey",
+   "European Union",
    1
   ],
   [
@@ -94,7 +85,27 @@
    1
   ],
   [
+   "Lebanon",
+   1
+  ],
+  [
+   "Poland",
+   1
+  ],
+  [
+   "United Kingdom",
+   1
+  ],
+  [
+   "South Korea",
+   1
+  ],
+  [
    "Japan",
+   1
+  ],
+  [
+   "India",
    1
   ]
  ],
@@ -109,10 +120,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 25,
+ "war_count": 26,
  "languages": {
-  "my": 22,
-  "en": 118
+  "my": 21,
+  "en": 119
  },
  "items": [
   {
@@ -144,6 +155,112 @@
    "lang": "en"
   },
   {
+   "title": "Iran claims drone attack on US military base in Bahrain",
+   "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+   "source": "France 24",
+   "published": "2026-11-15T15:29:22+00:00",
+   "summary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as neg",
+   "body": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the conflict remain at a stalemate, with the US maintaining its naval blockade and Iran its stranglehold over the strait of Hormuz. Story by Rachael Griffiths.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://s.france24.com/media/display/dc1d38c8-e108-11f1-8b7b-5f54d898a954/w:1024/p:16x9/EN-20261115-160212-160405-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "SNL teaches tech billionaires the lessons of the Jensen Huang affair - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmRzVzFHR0NCUXpxOEN2NDhzaVdhOVpvTnJ6c3F3OHJubGRaUnBVbVJrRTZMREF0a2hrM0tHVUd4MHhBRThGLTNkQm9xSzE1Tk1jR3RKRXhhLVQ4TUpQb1pkQXpxWFBRN0JzT2lqT1Zod1ZhVDJtWEpLM0g5Sl92RmFRZDNjemkwS000aWJ3QjdxT2lXQ3VIbDNtaUZ2THVjbGEyUF9nekk4ZE9KMDFoQnl0eHFOMVo4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T15:27:34+00:00",
+   "summary": "SNL teaches tech billionaires the lessons of the Jensen Huang affair The Washington Post ‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang The New York Times Bowen Yang Makes Electric Return to ‘SNL’ as ex-Nvidia CEO Jensen ‘Hide Your Wife’ Huang TODAY.com Bowen Yang Crashes 'SNL' ",
+   "body": "SNL teaches tech billionaires the lessons of the Jensen Huang affair The Washington Post ‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang The New York Times Bowen Yang Makes Electric Return to ‘SNL’ as ex-Nvidia CEO Jensen ‘Hide Your Wife’ Huang TODAY.com Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang with John Mulaney Variety Bowen Yang returns to ‘SNL’ to play ex-Nvidia CEO Jensen Huang NBC News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Canaries urge government action after 2,200 migrants reach the islands in 48h",
+   "link": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
+   "source": "France 24",
+   "published": "2026-11-15T15:24:58+00:00",
+   "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The Spanish islands are one of the main entry points into Europe for migrants from Africa. The Spanish Interior Ministry says more than 13,000 arrived there between January and the end of la",
+   "body": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The Spanish islands are one of the main entry points into Europe for migrants from Africa. The Spanish Interior Ministry says more than 13,000 arrived there between January and the end of last month. Details and analysis by Andrew Hilliar, FRANCE 24 international affairs editor.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/6524e48c-e108-11f1-a387-3f371022a770/w:1024/p:16x9/EN-20261115-160718-161132-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "source": "The Guardian",
+   "published": "2026-11-15T15:24:35+00:00",
+   "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arab",
+   "body": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity with Bahrain. The Kingdom affirms that the Iranian attacks constitute a violation of international law and the principles of good neighborliness. The Kingdom stresses the importance of an immediate halt to the blatant Iranian attacks on the countries of the region, and of taking serious steps towards achieving security and stability for the countries of the region and their peoples. The continuation of these attacks represents a dangerous escalation that will complicate efforts to contain the tension and undermine political and diplomatic endeavors aimed at achieving security and stability in the region. The Ministry of Foreign Affairs expressed the Kingdom of Bahrain’s strongest condemnation of the continued Iranian aggression against its territory, including the attack launched today, Sunday, November 15, 2026, by drones that were intercepted and destroyed by air defense systems in the Kingdom’s airspace. This comes two days after a similar attack at dawn on Friday, November 13, 2026, by two drones that were also intercepted. The Iranian Revolutionary Guard explicitly claimed responsibility for these attacks. The Ministry praised the efficiency, vigilance, and capability of the Bahrain Defense Force in confronting today’s attack and its complete readiness to deter any aggression. The Ministry considered these attacks a resumption of Iran’s heinous aggression against the Kingdom and countries in the region , disregarding the provisions of international law and the principles of the UN Charter. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran",
+    "Saudi Arabia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+   "lang": "en"
+  },
+  {
+   "title": "Pope Leo heads to high Andes on final leg of South America tour",
+   "link": "https://www.dw.com/en/pope-leo-heads-to-high-andes-on-final-leg-of-south-america-tour/a-79952884?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-15T15:23:00+00:00",
+   "summary": "Leo, originally from Chicago, served as the bishop of Chiclayo from 2015 until 2023. He is expected to spotlight Indigenous rights and environmental protection on the final leg of his tour.",
+   "body": "Leo, originally from Chicago, served as the bishop of Chiclayo from 2015 until 2023. He is expected to spotlight Indigenous rights and environmental protection on the final leg of his tour.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79952731_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T15:21:21+00:00",
+   "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+   "body": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iraq"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5c46c4-1784432324.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "20 years of Al Jazeera English: Our story is still being written",
+   "link": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T15:21:12+00:00",
+   "summary": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+   "body": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Al-Jazeera-1794755884_dee3f6-1794756051.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
    "title": "What should ASEAN focus on amid global uncertainty? PM Wong suggests 3 areas",
    "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-6552066",
    "source": "CNA World",
@@ -156,6 +273,223 @@
     "United States"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--Ge4ljqJQ--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/15/mddi_photo_2.jpg?itok=Ze3mFjOD",
+   "lang": "en"
+  },
+  {
+   "title": "Record number of migrants arrive in Spain’s Canary Islands",
+   "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T15:16:29+00:00",
+   "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+   "body": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9bea0-1794752160.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Jensen Huang: The French Connection",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection",
+   "source": "France 24",
+   "published": "2026-11-15T15:03:56+00:00",
+   "summary": "President Trump is heading to Asia in a few days time, and will meet President Putin and President Xi. There's likely to be one fewer tech giants at the table, Jensen Huang, newly resigned from Nvidia, over the suspected spy affair.",
+   "body": "President Trump is heading to Asia in a few days time, and will meet President Putin and President Xi. There's likely to be one fewer tech giants at the table, Jensen Huang, newly resigned from Nvidia, over the suspected spy affair.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/cb9bfd36-e05e-11f1-85e3-5f54d898a954/w:1024/p:16x9/Jensen-Huang-000-36PC88T.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T15:01:54+00:00",
+   "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+   "body": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794754850.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock - Radio Free Europe/Radio Liberty",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFQTk0wbmE3QWFxcXB1NDBaTklta0FiWGVtTzY4TXp3N2VEaG9ZYUZmS0tWeFhzajZJOURYQUdGdTEzVzZwb21QbS1QbURHNFEzUUJxNGNaSTNiQ1UtS29EanRqd3FKNEtITjk2Q1dCeGRCcDNPSjFfYnF0dVMxVlh2QXRNbzB5VXlr0gGOAUFVX3lxTE9Hcm5zRjdZX3c3dzVDQmdlRXdLTWtLNVBhS0xTUDVWQ19YZTZPUXlFQi1zTGxoWTJoem96Si1tY2JCXzAydUs4c3hqamNwUEdBVldYS0NNWjRfQXBrTmpSRW15cm9RWFBXcHBjSVo4Q291b2U1NEplaFZfRUhrazJNR0Jwd2tQdkVjbE5McHc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T15:00:27+00:00",
+   "summary": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock Radio Free Europe/Radio Liberty",
+   "body": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock Radio Free Europe/Radio Liberty",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war negotiations expand to include Europe",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZURLLTNvclZHcXhSR3ZYWXZYaGNncnF3ei1PZUM3NGJJZC1pN1dldWx4YkI0bW1GRFFZemUtcUhyeE45dU5FdDBoS3VjVG44bmpUYXBB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T14:57:50+00:00",
+   "summary": "Ukraine war negotiations expand to include Europe Fox News",
+   "body": "Ukraine war negotiations expand to include Europe Fox News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "How telecoms upgrade work sparked US flight chaos",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-15T14:57:15+00:00",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "body": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-15T14:56:21+00:00",
+   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "body": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T14:55:40+00:00",
+   "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+   "body": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Syria",
+    "Lebanon"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794754467.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Fascism built the AI bubble. What will burst it?",
+   "link": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T14:55:00+00:00",
+   "summary": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
+   "body": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794754475.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Inside the Pentagon’s Failure to Shield U.S. Troops From Iranian Drones - The Atlantic",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEJkb2FSNEU5NWtBVk5vX3RudElUMEFFWlVoZXhYMFItMC1FOXhtY0VyenN5VzdRNlh5c1RzZnQzUnZxMHR6Z3dSX2dySDg1dXVybWlXV0dLQU9CYnBCYmhwMWNrZjFNVUpSNE9DNkF5SmpaSHNyNkRIdHFoOTEtRXY3WUphM2hGWC1Wbi0zNUFhejhfLUtMVjBR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T14:52:46+00:00",
+   "summary": "Inside the Pentagon’s Failure to Shield U.S. Troops From Iranian Drones The Atlantic",
+   "body": "Inside the Pentagon’s Failure to Shield U.S. Troops From Iranian Drones The Atlantic",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany - NBC Sports",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzg1RmlDVGp5WC1nTE9EYnRLZkFISDFhU0FxTlQ0WmlETkZhYVAtdnZvM1NMZUdoOUo5WE1PQUo3d25VTkV6Skk3c3psSkN5M3VMRnhWVkdPbThQNHNUWm1pMDFUZ202cHNRUUJMeldES0N1ZXFPakQ0T3JrdVFPZFhPaDVPeWU5cFhGYzFRdHFWVmF4a1U4cGhLMGt1TGthZUJ6a3dCNDV2a2Z5OUQ1MFFlY3F5ZzlZZUNGb1BVR2E5Y0pfVE13anl5Vk52bVk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T14:50:20+00:00",
+   "summary": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany NBC Sports Patriots QB Drake Maye (ankle) questionable to return vs. Lions NFL.com Aidan Hutchinson suffers injury after sack celebration Pride Of Detroit Aidan Hutchinson appears to injure knee after celebr",
+   "body": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany NBC Sports Patriots QB Drake Maye (ankle) questionable to return vs. Lions NFL.com Aidan Hutchinson suffers injury after sack celebration Pride Of Detroit Aidan Hutchinson appears to injure knee after celebrating sack Detroit Free Press Drake Maye heads to locker room early in Week 10 after injuring ankle on Aidan Hutchinson sack Yahoo Sports",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Do Average Russians Bear Responsibility for the Ukraine War? - The National Interest",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDlCQWZjX2Y0S25jUDc1R0dWX093b3NtcmNsZkxpdjZYV1l4NzVaejMwWVJqa0hGUkRwNTQxOVh0NXRoWFVTM1VKdHNmRGtrbmdfeEtMWGRDaERMdnFNaWlLaUVQOVgyb0ZtVFU0SDUybGR4TjRuVndITDBSNnJkaVZ3V3g0UWt0a2xIYl9HQlJ2azhNbDlzZHJVYVQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T14:47:58+00:00",
+   "summary": "Do Average Russians Bear Responsibility for the Ukraine War? The National Interest",
+   "body": "Do Average Russians Bear Responsibility for the Ukraine War? The National Interest",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Polish activists face opposition as they make abortion more accessible",
+   "link": "https://www.dw.com/en/polish-activists-face-opposition-as-they-make-abortion-more-accessible/a-79943914?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-15T14:40:00+00:00",
+   "summary": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
+   "body": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Poland"
+   ],
+   "image": "https://static.dw.com/image/79942925_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Santa school in full swing in London ahead of Christmas celebrations",
+   "link": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations",
+   "source": "France 24",
+   "published": "2026-11-15T14:35:33+00:00",
+   "summary": "It may still be November but it's beginning to look a lot like Christmas in South London, as many Santa impersonators are heading to school for their festive training. The school, organised by an event company called Ministry of Fun, brings together Santas, elves, and Mrs Clauses",
+   "body": "It may still be November but it's beginning to look a lot like Christmas in South London, as many Santa impersonators are heading to school for their festive training. The school, organised by an event company called Ministry of Fun, brings together Santas, elves, and Mrs Clauses to share experiences, practice belly laughs and learn how to bring the magic of Christmas to life. Story by Rachael Griffiths.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom",
+    "NATO"
+   ],
+   "image": "https://s.france24.com/media/display/c9d5d0c4-e100-11f1-b165-29048b396e03/w:1024/p:16x9/EN-20261115-082508-082646-CS-01.jpg",
    "lang": "en"
   },
   {
@@ -172,17 +506,41 @@
    "lang": "en"
   },
   {
-   "title": "SNL teaches tech billionaires the lessons of the Jensen Huang affair - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmRzVzFHR0NCUXpxOEN2NDhzaVdhOVpvTnJ6c3F3OHJubGRaUnBVbVJrRTZMREF0a2hrM0tHVUd4MHhBRThGLTNkQm9xSzE1Tk1jR3RKRXhhLVQ4TUpQb1pkQXpxWFBRN0JzT2lqT1Zod1ZhVDJtWEpLM0g5Sl92RmFRZDNjemkwS000aWJ3QjdxT2lXQ3VIbDNtaUZ2THVjbGEyUF9nekk4ZE9KMDFoQnl0eHFOMVo4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T14:20:59+00:00",
-   "summary": "SNL teaches tech billionaires the lessons of the Jensen Huang affair The Washington Post ‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang The New York Times Bowen Yang returns to ‘SNL’ to play ex-Nvidia CEO Jensen Huang NBC News Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang w",
-   "body": "SNL teaches tech billionaires the lessons of the Jensen Huang affair The Washington Post ‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang The New York Times Bowen Yang returns to ‘SNL’ to play ex-Nvidia CEO Jensen Huang NBC News Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang with John Mulaney Variety ‘SNL’ Cold Open: Bowen Yang Makes Surprise Return to Roast Tech Billionaires Yahoo",
+   "title": "Twenty Years of Al Jazeera English: The Counternarrative",
+   "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T14:29:41+00:00",
+   "summary": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
+   "body": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/3b-80-1794752618.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "A deep dive into Ivory Coast's solar energy goals",
+   "link": "https://www.france24.com/en/a-deep-dive-into-ivory-coast-s-solar-energy-goals",
+   "source": "France 24",
+   "published": "2026-11-15T14:25:24+00:00",
+   "summary": "Can Ivory Coast, which remains heavily dependent on fossil fuels, turn to solar power to make its energy consumption greener and more sustainable? We visited the country's new solar power plant in Ferkessédougou, in the north of the country. Inaugurated in July, it is expected to",
+   "body": "Can Ivory Coast, which remains heavily dependent on fossil fuels, turn to solar power to make its energy consumption greener and more sustainable? We visited the country's new solar power plant in Ferkessédougou, in the north of the country. Inaugurated in July, it is expected to generate nearly 90 gigawatt-hours of electricity a year. Report by Julia Guggenheim.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/a07102cc-e0ff-11f1-86c8-3f371022a770/w:1024/p:16x9/EN-20261115-081217-081424-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T14:18:00+00:00",
+   "summary": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI The Guardian ‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes Forbes How to Play GTA VI—Buy Take-Two Stock Barron's",
+   "body": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI The Guardian ‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes Forbes How to Play GTA VI—Buy Take-Two Stock Barron's ‘GTA 6’ vs. Hollywood: Industry Braces for “Biggest Entertainment Launch in History” The Hollywood Reporter How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off CNBC",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -336,7 +694,20 @@
    "lang": "en"
   },
   {
-   "title": "French Cyril Gane retains MMA heavyweaight title agianst Josh Hokit",
+   "title": "Self-learning AI releases NFL picks, score predictions for every Week 10 game - CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalU5ZDJncHJPSWhJX0dNS0JUVlZ5Y0l3ZUo2NWZWNC1iWldUakFLTmh3U2UtQjlBd0U3MEU5Ymx0TDljVVhWOU0wdVhNNUVQMHEzb0c3dHhjSVNLdnI5ZUg5Q1JodTA2ZzFnbjlLWkZCTFVpMEtNV0oxY3dsaHdkZi1COU0yQm9qSi1URDNmRXV1aXJGMzRqbDNsMFJRV0RuMzZCOWp3M2E5QTR0SWwyQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T13:58:29+00:00",
+   "summary": "Self-learning AI releases NFL picks, score predictions for every Week 10 game CBS Sports NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more ESPN Week 10 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks reveal",
+   "body": "Self-learning AI releases NFL picks, score predictions for every Week 10 game CBS Sports NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more ESPN Week 10 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks revealed CBS Sports NFL Sunday Playbook: Cousins back with Vikings, Steelers-Bengals stakes, Mendoza debuts - The Athletic The New York Times NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn first win! NFL.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "French Ciryl Gane retains MMA heavyweaight title agianst Josh Hokit",
    "link": "https://www.france24.com/en/french-cyril-gane-retains-mma-heavyweaight-title-agianst-josh-hokit",
    "source": "France 24",
    "published": "2026-11-15T13:58:29+00:00",
@@ -380,6 +751,19 @@
     "Germany"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af99a32d47b3-1794742834.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "After Texas takes LSU out of CFP contention, Arch Manning says it 'feels good' to 'end someone else's dream' - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObmJHNUU4RnhOOU92N29rUURDdVNheDFzQlVvZkMxX0pwdmZrcDBfb0p0cm5qcWZhbGRKRjBVOHE3WTNiNEJLak9ITlpOQWczVEtBNzRmalFUaTlUay1vUndUS0stODhuWkRCUGFhdjZTMll4cjNkREJRdU9kdjkwZFpWbnhqR1dvakRheW9xemV4MUxPbEJfcGR1dFZsczlBSnB1RlFvQXpFUV9FbXQ1Tk12S3lkTDBlYUE4WldzeGJyN0U1WXBxZzNxQlpReGl3QVRtaG1BT1ZzV3FDaGNwZmRibkNSeFBGZFRhWUw2ZDlQM2VTcnBlOWUwOA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T13:52:51+00:00",
+   "summary": "After Texas takes LSU out of CFP contention, Arch Manning says it 'feels good' to 'end someone else's dream' Yahoo Sports Kiffin understands frustration as LSU's playoff hopes dashed ESPN Arch Manning on Texas eliminating LSU from CFP race: 'We talked about the chance to end some",
+   "body": "After Texas takes LSU out of CFP contention, Arch Manning says it 'feels good' to 'end someone else's dream' Yahoo Sports Kiffin understands frustration as LSU's playoff hopes dashed ESPN Arch Manning on Texas eliminating LSU from CFP race: 'We talked about the chance to end someone else's dream' CBS Sports Mandel’s Final Thoughts: Lane Kiffin loses another big game. But it’s what LSU signed up for The New York Times No. 8/8/6 Football rallies for 22-21 win at No. 24/22/14 LSU University of Texas Athletics",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -454,7 +838,7 @@
     "United States",
     "Iran"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
    "lang": "en"
   },
   {
@@ -462,8 +846,8 @@
    "link": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
    "source": "The Guardian",
    "published": "2026-11-15T13:41:01+00:00",
-   "summary": "Chain restocks stores in operation named after singer of I Will Survive after US owners release funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch",
-   "body": "Chain restocks stores in operation named after singer of I Will Survive after US owners release funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch talks with the government. In an emergency resupply effort codenamed “Operation Gloria” by senior Poundland staff, about 16m grocery items were dispatched to 600 shops in the UK and Ireland over the weekend. Continue reading...",
+   "summary": "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the r",
+   "body": "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch talks with the government. In an emergency resupply effort codenamed “Operation Gloria” by senior Poundland staff, about 16m grocery items were dispatched to 600 shops in the UK and Ireland over the weekend. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -473,12 +857,12 @@
    "lang": "en"
   },
   {
-   "title": "ASEAN, China fail to conclude South China Sea code of conduct - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkd4OU5WX0ZiOEYyVGZ6OE93ZXZ3eUJvLUhsRjQ1SFRLZy02T2picHJUSVB2NkVsTy1COG5LZEtvRXZwUHhOX2lXTWNtN0ktdzVIOWdIVGpweWJvZVQzSEducS0wQXdOVU40dENxOTM4c01DdlppRFc1NVNhMHZNZVBhS1dxRWwxcWc?oc=5",
+   "title": "ASEAN, China fail to conclude South China Sea code of conduct",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5",
    "source": "Google News · China Taiwan",
-   "published": "2026-11-15T13:38:48+00:00",
-   "summary": "ASEAN, China fail to conclude South China Sea code of conduct Yahoo",
-   "body": "ASEAN, China fail to conclude South China Sea code of conduct Yahoo",
+   "published": "2026-11-15T13:39:46+00:00",
+   "summary": "ASEAN, China fail to conclude South China Sea code of conduct Reuters",
+   "body": "ASEAN, China fail to conclude South China Sea code of conduct Reuters",
    "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
@@ -549,23 +933,6 @@
    "lang": "en"
   },
   {
-   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "source": "The Guardian",
-   "published": "2026-11-15T13:34:32+00:00",
-   "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arab",
-   "body": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity with Bahrain. The Kingdom affirms that the Iranian attacks constitute a violation of international law and the principles of good neighborliness. The Kingdom stresses the importance of an immediate halt to the blatant Iranian attacks on the countries of the region, and of taking serious steps towards achieving security and stability for the countries of the region and their peoples. The continuation of these attacks represents a dangerous escalation that will complicate efforts to contain the tension and undermine political and diplomatic endeavors aimed at achieving security and stability in the region. The Ministry of Foreign Affairs expressed the Kingdom of Bahrain’s strongest condemnation of the continued Iranian aggression against its territory, including the attack launched today, Sunday, November 15, 2026, by drones that were intercepted and destroyed by air defense systems in the Kingdom’s airspace. This comes two days after a similar attack at dawn on Friday, November 13, 2026, by two drones that were also intercepted. The Iranian Revolutionary Guard explicitly claimed responsibility for these attacks. The Ministry praised the efficiency, vigilance, and capability of the Bahrain Defense Force in confronting today’s attack and its complete readiness to deter any aggression. The Ministry considered these attacks a resumption of Iran’s heinous aggression against the Kingdom and countries in the region , disregarding the provisions of international law and the principles of the UN Charter. Continue reading...",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "Saudi Arabia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
-   "lang": "en"
-  },
-  {
    "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
    "link": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
    "source": "Al Jazeera",
@@ -608,19 +975,6 @@
    "lang": "en"
   },
   {
-   "title": "NFL Sunday Playbook: Cousins back with Vikings, Steelers-Bengals stakes, Mendoza debuts",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzdjV003R2JTVVcxWi1CYlNTa2JudHpOZnlQWWxqSEdjMk9YdDlnRVV5RV9ETmdDemkwN2tvczVMRHRjZEJzUkRWblhoNHF2dWZNNmVRSE5jRkcwa2htaVgxNFVLMzRlQ3U2TmFUeVl1RTFqc2FyUXRReWpBcnlsVDdkekUwWTVOcXBHa1NDelBKdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T13:09:04+00:00",
-   "summary": "NFL Sunday Playbook: Cousins back with Vikings, Steelers-Bengals stakes, Mendoza debuts The New York Times NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips ESPN How, where to bet on NFL Week 10: Online betting apps, over $3,000 in sportsbook promos fo",
-   "body": "NFL Sunday Playbook: Cousins back with Vikings, Steelers-Bengals stakes, Mendoza debuts The New York Times NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips ESPN How, where to bet on NFL Week 10: Online betting apps, over $3,000 in sportsbook promos for every game CBS Sports NFL Week 10 bold predictions: Fernando Mendoza shines in starting debut; Chargers earn first win! NFL.com Gerry Dulac’s 2026 NFL predictions: Week 10 Pittsburgh Post-Gazette",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
    "link": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
    "source": "The Guardian",
@@ -636,12 +990,12 @@
    "lang": "en"
   },
   {
-   "title": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
+   "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
    "link": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
    "source": "The Guardian",
    "published": "2026-11-15T13:00:14+00:00",
-   "summary": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as ",
-   "body": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe” for £25. Continue reading...",
+   "summary": "From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the not",
+   "body": "From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair? For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries. But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe” for £25. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -674,21 +1028,6 @@
    "is_war": true,
    "countries": [
     "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KY3UzNERyMENfeU5QQ3QzLWZTVE9XSjBHV2Rfa3dVSk45TzdNWDk2NFVMREpKX0pPV1pncHM1cGllOFVGVnFSNC1zSUVSYzE4Nlk5RnY2V01FakFvYXh1eDdzLVo2UWhLVzhoYkhYbEZEaGNX0gF6QVVfeXFMT1dlM0JZU3FFdmk4ZG1mdDIwR3R2TElLYlJtQllqT1BKZHBta2FjTVE4MUtqejE3REkwZnB2d2VGSVg0UzAyRDdINUJ5bERMXzF0ZFBYVXhFYWlVWGZjNzVNdWd2MzdKeGZzRnFNM1NPNUZIV3MyT3hwTGc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T12:51:28+00:00",
-   "summary": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop CNBC Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ Airspace meltdown reverberates through Washington as potential funding fight looms CNN FAA was warne",
-   "body": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop CNBC Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ Airspace meltdown reverberates through Washington as potential funding fight looms CNN FAA was warned for years about repair risks leading to nationwide ground stop The Washington Post US aviation shutdown blamed on L3 Harris installed router Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -751,16 +1090,44 @@
    "lang": "en"
   },
   {
+   "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEpyZzYwM3Y0YzMtU0h3LXZXb1RBQ00yS3lLZklVczJEOUVtcFU0MWYzRlNIMWxKN1RlMkZrSXZ3eFJkdjV4cTJuQVJBbVZob3JfYjdEbFotQ21iQzFQSHJYUE5VNUJDRDA0aV9OYy1qQTRVQ0EtOXJlSWQzWDV2VnpCRXdkQUpWSEhzUHVFWGstd2t4anhiMnZ4RHdVOHl4UjkxYjdWVmI0LTF3b2x1UTZJdGotUGU5bXkwVUF6N2IwY3g4S2lxbVNvM0kyZVBoTmR5YQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T12:49:16+00:00",
+   "summary": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says Reuters",
+   "body": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
    "source": "Google News",
    "published": "2026-11-15T12:40:00+00:00",
-   "summary": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times How the tech industry and markets have responded to Jensen Huang's resignation NPR Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Nvidia s",
-   "body": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times How the tech industry and markets have responded to Jensen Huang's resignation NPR Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep The Washington Post Over 100,000 Want Jensen Huang Back. Nvidia Stock’s Real Test Comes Tuesday. Yahoo Finance",
+   "summary": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times When the boss has an affair, the whole family business can pay the price The Guardian Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with ",
+   "body": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times When the boss has an affair, the whole family business can pay the price The Guardian Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with support CNN EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters 2 Hedge Fund Managers Want Jensen Huang Back. Could He Return as Nvidia CEO? The Motley Fool",
    "category": "Global",
    "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli Man Indicted for Spying for Iran Out of Anger Over Gaza War - Haaretz",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbWZzejNjVW82WExIRjlfdVhMOWZ6LU5DcTNvZHVjNjN6OGgzYTc2cGFlRFFDVFRuRUNtV05FcnBhU3R4ZW9FRU41VXJKSlVSZUhQSnF4QjB5VGNVdk85MUFPUmxTLUpRQnFibnE4RjRWZXlnVHBsbkluRmZUSE1kYkhvRHZnSnNwZmllajNHU2k2cGFOekFrS2lpQXBBXzNfbTRNUHFBUVRBWmtScGNMZHYwM25GdlNiN3RVd0kybklsY1NpYTVmNGs3QlRxWXA5SXhPNlk0Yk95eDUwZjdjeGh5VXRsRGh4dzYyTmlKVU01ZDM4REZFM1ZzS0JPSy14TmhnbGdrMzV2dDdMczBKQlJn?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-15T12:38:00+00:00",
+   "summary": "Israeli Man Indicted for Spying for Iran Out of Anger Over Gaza War Haaretz",
+   "body": "Israeli Man Indicted for Spying for Iran Out of Anger Over Gaza War Haaretz",
+   "category": "Middle East",
+   "is_war": true,
    "countries": [
-    "United States"
+    "Israel",
+    "Palestine",
+    "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -940,23 +1307,6 @@
    "lang": "en"
   },
   {
-   "title": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T12:10:57+00:00",
-   "summary": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit DW.com Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian South Korea should not fear China's rise, foreign minister says Reuters Trump, Putin and Xi plan historic joint me",
-   "body": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit DW.com Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian South Korea should not fear China's rise, foreign minister says Reuters Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iran Attacks Bahrain for the Second Time in Days",
    "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
    "source": "NYT World",
@@ -999,19 +1349,6 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/0f9bb8ae-e0ec-11f1-94e8-3f371022a770/w:1024/p:16x9/EN-20261115-120911-121020-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWFGVGNUaXRhbFNSeF9ZYlpCUHNIQ0loYUd0bE5UZ1VLUGNmc3F6MEdlVGVKUlRGZDNneWd2MlQ4ZDZETm1xS0hSY0JGX2YzQVloSnBzVTF4YTJDNW5mc25vT0FPQlRiQXlNUUtWM0tWWVliY3FrX3FIb3NFeEYzNVpTbjZPODJEYV90NXJSZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T12:03:00+00:00",
-   "summary": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout The Guardian Why Turning Point's 'Red Wall' crumbled against Democrat's blue wave azcentral.com and The Arizona Republic Arizona Republicans aren't extinct. Here's their path back | Opinion Sacramento",
-   "body": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout The Guardian Why Turning Point's 'Red Wall' crumbled against Democrat's blue wave azcentral.com and The Arizona Republic Arizona Republicans aren't extinct. Here's their path back | Opinion Sacramento Bee TPUSA blames McCain family for GOP losses in Arizona Baptist News Global McCains clash with Turning Point over Arizona GOP losses Arizona Daily Star",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1065,21 +1402,23 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
    "source": "Google News",
    "published": "2026-11-15T12:00:01+00:00",
-   "summary": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot CNBC The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI WSJ Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IP",
-   "body": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot CNBC The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI WSJ Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO The Decoder EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead Reuters A Human Reads the Anthropic I.P.O. Filing The New York Times",
+   "summary": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot CNBC The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI WSJ EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead Reuters A Human Reads the Anthropic I",
+   "body": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot CNBC The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI WSJ EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead Reuters A Human Reads the Anthropic I.P.O. Filing The New York Times Anthropic IPO Share Orders From China Are Said to Be Rebuffed Bloomberg.com",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "China"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Space data centers could end stargazing as we know it - Axios",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2ljTFo0bEZDRHhEbnFNNnRYT0F1TV9BT1pwX2JMM25udl9zd25mMDB4VU9sNnFTa1pHeHp3cVUyOS1DZnFLTWRDd1lxOVdyaEZPZktfSWVfZjYzbUZkaktkMktGSHMyVTY2V1hzQXo5SnI3dEw4TUhPQXp1Zi1Ddw?oc=5",
+   "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNZaGxkQUVYUjhhalJlWGdpLU9ib0xQeUlOS3AtR1ktcFRrMnhvbl9WLWpyZzBJc3F0MWlmRnhjWEZYeFMwZWRYdndlWkNLUGFYNjlmQXcwRDJZLUpLcDZ6LTBkdXAwbk1idVdOMnNaT0ZaaXFCc1F1MlBYbDVERGFCVTNQdndlOXExWDd5Y2ExZklwbmFMUjAxQ05hMlpYdGVLZmQySmxxMEtHaWhjRnFnZHE4Y1E?oc=5",
    "source": "Google News",
-   "published": "2026-11-15T11:59:00+00:00",
-   "summary": "Space data centers could end stargazing as we know it Axios How space-based data centres could permanently change the night sky CTV News New Report Urges Caution in the Race for Space-Based Data Centers Columbia University Orbital data centers could make stargazing nearly impossi",
-   "body": "Space data centers could end stargazing as we know it Axios How space-based data centres could permanently change the night sky CTV News New Report Urges Caution in the Race for Space-Based Data Centers Columbia University Orbital data centers could make stargazing nearly impossible, researchers warn Mezha.net",
+   "published": "2026-11-15T12:00:00+00:00",
+   "summary": "Women with autoimmune diseases often misdiagnosed for 4 years or more NBC News Women with autoimmune diseases took about four years to get diagnosed, survey finds Mezha.net Women With Autoimmune Diseases Wait About 4 Years for Diagnosis, Study Finds JournalArta",
+   "body": "Women with autoimmune diseases often misdiagnosed for 4 years or more NBC News Women with autoimmune diseases took about four years to get diagnosed, survey finds Mezha.net Women With Autoimmune Diseases Wait About 4 Years for Diagnosis, Study Finds JournalArta",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1099,19 +1438,6 @@
     "Israel"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad4cda62ddbe-1792331174.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T11:53:00+00:00",
-   "summary": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon AP News See more headlines & perspectives on Google News",
-   "body": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon AP News See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1141,6 +1467,38 @@
    "is_war": false,
    "countries": [],
    "image": "https://s.france24.com/media/display/ce0cd38e-e0e9-11f1-9f1d-5f54d898a954/w:1024/p:16x9/2026-11-13T173221Z-378621988-RC25NOA5EH6J-RTRMADP-3-MICROSOFT-OUTAGES.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGQwamJqbjhtTlFRWHNTSG5EZHI4ZXItamJnZlB6M0lkS2FoNS11eWpxY2s4dTVPcFVjRzVjTUVSeDhrNTJXdF9RSWtDYy16QW96YlJGWk9xdjNDZV9oNkhIa1hWcE9qZEhZLV95RHVzUFZBOHFqUDBLVGdWMHBCeUk0c0ZlTzdVakZkTnloRkFJVVdTdW5HeDgzLVFMUGZSQWdlNFQ0OHFFUFQ4a2NNaTVPQVhpdw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-15T11:36:53+00:00",
+   "summary": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant The Independent",
+   "body": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "LIVE : Gaza casualties reported as Iran-Bahrain tensions escalate - Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVNyWDlmNVRoWEVJQnNQTjd6eWRIODNZMTZXTVNSbzRodzVIS0ZWNnNRMkEzRlR3WGFDMW5vSnVoa0NIbGlhMWZ0RmlydWxGMHJyNXhtU2l4VXdvVmNYVXF0eDQyYzRCNnpqa1RvV0ZQSUxHdkdZNXRtaUdRQVlzc2gtZkVWMGtlcXpMNA?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-15T11:35:16+00:00",
+   "summary": "LIVE : Gaza casualties reported as Iran-Bahrain tensions escalate Latest news from Azerbaijan",
+   "body": "LIVE : Gaza casualties reported as Iran-Bahrain tensions escalate Latest news from Azerbaijan",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1198,6 +1556,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
+   "lang": "en"
+  },
+  {
+   "title": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony - Billboard",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUFfRzA0OWlsdUZlTmZRcF9DSEUxZ3RkOHRpTkJ2bnNXZmxZV2Nac3RfZUtDQW02QVhza0Nqdkt2NnU5TXZkeGFFMXB6YVFQR09OLW9GWXVJODRWcjJVaGRqWW1LU0dzRGVoNHRMM28yd3pjTVVJYmVLWGU1ODZTQzJyNXQzTGRnam9oOXRB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T11:12:25+00:00",
+   "summary": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony Billboard Red carpet rolled out for Rock and Roll Hall of Fame 2026 induction ceremony: Watch the full replay WKYC ‘Haven’t heard the last of me’: Tearful Phil Collins makes ",
+   "body": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony Billboard Red carpet rolled out for Rock and Roll Hall of Fame 2026 induction ceremony: Watch the full replay WKYC ‘Haven’t heard the last of me’: Tearful Phil Collins makes emotional speech at Rock & Roll Hall of Fame ceremony NBC News A look at the Rock & Roll Hall of Fame 2026 inductees and how they were honored AP News Was the 2026 Rock Hall Ceremony the Worst This Decade? Vulture",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1268,8 +1639,8 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeG54TUh4Wm5aVHNOSXVQYV85YUJuaHZ0V29nbWVDZ2JhVUs1a2R4aGhOZjZjS1hGX1JfSGtVcGtYczZDVTFhNEFIY2RRUHpsRWYxT3p6YmdGWlB4S0xIUGxGekdVaEZUd0NCZlFST0lwei1zbUNZa1VDSmZQOTZUQVhteFI0ODdoWXYxTWliNGYxRUZYamQwSkpEQzlta1F5eFVQZ2hVaUl1b0o0Y0NiVWFjcmpRUllQa0dqZmdjS2ltZ3NlM2dtSg?oc=5",
    "source": "Google News",
    "published": "2026-11-15T11:00:00+00:00",
-   "summary": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times Highlights: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX catches upp",
-   "body": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times Highlights: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX catches upper stage of Starship rocket in historic first CNBC SpaceX achieves another historic first The Economist",
+   "summary": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times ‘Almost magic’ as SpaceX craft caught mid-air: Why it matters Al Jazeera Highlights: SpaceX Starship soars in orbit, still ",
+   "body": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times ‘Almost magic’ as SpaceX craft caught mid-air: Why it matters Al Jazeera Highlights: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight CNN SpaceX makes history as Starship spacecraft caught by launch tower for first time Fox Business",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1289,22 +1660,6 @@
     "United States"
    ],
    "image": "https://s.france24.com/media/display/16926fb2-e0e8-11f1-b2bb-5f54d898a954/w:1024/p:16x9/2026-11-14T225151Z-1773168410-RC2XNOAB3YQ0-RTRMADP-3-POPE-LATAM-PERU.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-   "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T10:52:36+00:00",
-   "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-   "body": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India",
-    "Pakistan"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261115__D7HJ4XJ__v1__HighRes__CricketNzlInd-1794725094.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1337,6 +1692,21 @@
     "Iran"
    ],
    "image": "https://s.france24.com/media/display/2255b7f8-e0e0-11f1-a02e-5f54d898a954/w:1024/p:16x9/EN-20261115-100412-100553-CS-01.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ground Stop Ripples Into Third Day of Scrapped Flights - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjFjQVRuZWdRSHJtRkZCS29FSTBmdEpjRWpCMGd1ak1hQjZhaW9XLTU0STZydXltMlBqRkVISno3dEJiYjJZTGI4dndKWXRpcGFNb0xpU1YwV1BicUFVRjFnY2ZVa2JqYlRsaXFIa1RSNnlDU2dsdlg4TzNqWm9yWHJtcS1ENXlFRHRQNGdtRWJZZmx3M19PN3dSYk5Nd3dUOEE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T10:38:00+00:00",
+   "summary": "Ground Stop Ripples Into Third Day of Scrapped Flights WSJ Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ Democrats point to unspent funds as Sean Duffy seeks air traffic control upgrades The Washington Post What to Know About Continued Fl",
+   "body": "Ground Stop Ripples Into Third Day of Scrapped Flights WSJ Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ Democrats point to unspent funds as Sean Duffy seeks air traffic control upgrades The Washington Post What to Know About Continued Flight Disruptions The New York Times The systems used to keep America flying are ancient. That makes fixing the problem that much more difficult CNN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1399,32 +1769,18 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGQwamJqbjhtTlFRWHNTSG5EZHI4ZXItamJnZlB6M0lkS2FoNS11eWpxY2s4dTVPcFVjRzVjTUVSeDhrNTJXdF9RSWtDYy16QW96YlJGWk9xdjNDZV9oNkhIa1hWcE9qZEhZLV95RHVzUFZBOHFqUDBLVGdWMHBCeUk0c0ZlTzdVakZkTnloRkFJVVdTdW5HeDgzLVFMUGZSQWdlNFQ0OHFFUFQ4a2NNaTVPQVhpdw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T10:06:53+00:00",
-   "summary": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant The Independent",
-   "body": "Ukraine-Russia war latest: Kyiv drone strike sparks fire at Russia petrochemical plant The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Polls open in Cape Verde in race with first female presidential candidate",
-   "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T10:03:02+00:00",
-   "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
-   "body": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+   "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVdmZVlSVWNvNV9Tc1ZKY0t2di1hcDFBNGRiUmVjMTlPRS1oTWhlVk5tT2s2c2NfR1VXTUFHblBJMEgyTTUzWmFCdGxYMXR4cXdxbk9FS3hHbHhNTm5PbUhpZVRFdnBxcTdMVHRQT2JzclR5TjBrQ2xRcl9PQTl6ekpHcUpYVV96bUlwY1lta0FQUm1TUVZIa1UwOG1GeHpRdEl4V1FWcHkydw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T10:04:56+00:00",
+   "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda NBC News Donald Trump will get a warm welcome in the Philippines The Economist ASEAN summit: Who’s attending and what’s at stake? Al Jazeera Foreign leaders start arriving in Manil",
+   "body": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda NBC News Donald Trump will get a warm welcome in the Philippines The Economist ASEAN summit: Who’s attending and what’s at stake? Al Jazeera Foreign leaders start arriving in Manila for 49th Asean Summit Inquirer.net Trump will attend a summit of Southeast Asian countries. What does it mean for the US? NPR",
    "category": "Global",
    "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T064448Z_171364927_RC2WLOA8736U_RTRMADP_3_CAPEVERDE-ELECTION-PREVIEW-1794732338.jpg?resize=800%2C600",
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1432,30 +1788,39 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJMaFhaUUdRTmNXSll3UUlCX21rdHYxRGNpUmduVEo1Y29hcGVHazNjdE5mbDhtTlAtRnhfY3RzLWNXOTFiN254MmZOQ0pqMlFtczdwdG83QVdnbGc3alVSLWNpVXhJcTRVNEQ0RC1DUDY5c2lQbWhjM3o1TGx0UnBadk5FSXFNMlNoWE5EX2RpYnhETmx3?oc=5",
    "source": "Google News",
    "published": "2026-11-15T10:02:05+00:00",
-   "summary": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal The Hill",
-   "body": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal The Hill The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist MAGA turns on Lutnick amid China spy scandal Axios",
+   "summary": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to",
+   "body": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker CNBC Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal The Hill The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United States",
-    "China"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Vjb3BmOFROS281RURvRlRMTHZJVW0xRHMwZHpkSHRpamtsM0Fmd1cxZVZsSVk5UXdlRWJKeVpRcjFSMmJOYXpaVGxWUTBfdWc1eHpxdUpoeG1mVjItcmdxWmFaZDdKYWRZNWZkcHpOOTNpc0lwT0ZzYVNjT1JqU2tSNlrSAYoBQVVfeXFMTS11NU1oNVBmZFo0Mzd5eXBSVFNtU0dSUVBOSV9vWVozZ25FM0c1a0tlTWt3cmlEZDE2d2RYNzhVRE9xd0l1WEFOMElNRWlfNXFNMzQ5MnJYLXVUcWYwMkxmYmttMmFWN2RvWFNuTFlUSzN4d1BsdmtjUmo3bWFvY0RZOHR6QUt4VS13?oc=5",
+   "title": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NSEtKeTg3RlZWdnl4UWlhQ1BGcG9JUnJuQ2RHRjBONUZLeDNVeGFCNXRhRllub2pndDU1RnA0Z2tlRXh5d19lazJnNW10Y1J6U1I0UGtpSERtRW42ZS1Ub29HM3FaS1JqODhFampYaWlFNXM2VGFoaTVn?oc=5",
    "source": "Google News",
-   "published": "2026-11-15T10:00:42+00:00",
-   "summary": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base CNBC Iran targets US military base in Bahrain with drone attack BBC Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian ",
-   "body": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base CNBC Iran targets US military base in Bahrain with drone attack BBC Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets CBS News Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live The Guardian",
-   "category": "Middle East",
+   "published": "2026-11-15T10:00:54+00:00",
+   "summary": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them The New York Times High Desert Highlights: Mountain View, Summit, Culver in quarterfinal action Central Oregon Daily How 26 years of organizing reshaped Georgia leadership FOX 5 Atlanta Keisha Lance Bottoms ",
+   "body": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them The New York Times High Desert Highlights: Mountain View, Summit, Culver in quarterfinal action Central Oregon Daily How 26 years of organizing reshaped Georgia leadership FOX 5 Atlanta Keisha Lance Bottoms is Georgia’s Governor Elect MV Times “Blue tsunami” sweeps Georgia, Bottoms makes history The Maroon Tiger",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0x0Q3lKbHh5S0FiNnRaZVA4YzFlN3Bna1NuVEJSRm16blRkcXNieHZWMGFrU29xOHNiOHA1dUxSWVZYQUp2Z0tKVzhJM1BqU29neDJNZ1hYalZPVzZYT216QTRKSlBCamJiM1p1YWp4Zl8tREhMVFNZQVBsR3NDZV90STBELTdEX292LVN1YUc4VXd0a292UG1hdXJHOE1BWUFnUnY0ZGJVUnRLajk1QUEySUN2c3VJR2ZzcC1UWFpTVFBZNVRv0gHMAUFVX3lxTE1zcVM0dmRFa3F0bmxXTWNxQUFwanc1YjJTZWdQOWFYUmI0UmY4d1V0NU5IN1FPckx5Z1JQeUxQNzFraWIxZk11Y2U2SWRXRl9jaXhvdHZ6bGc2NUtMTWNfaUVxSUpPWk9LOEo0RFRNcWFVaWltbjVSU2RKSGxYRGwxQzBoMGptQjF5VE4tdlNLVVFyWkhiMUtId2pvdGN1NnR0cWVSMmxPUkhrbkhmX2xhTjJLOGJBMmRJT2VmOUZsMFk0c09YVGVWZWhEaw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-15T10:00:51+00:00",
+   "summary": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences Fox News",
+   "body": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences Fox News",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1472,19 +1837,6 @@
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-   "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T09:59:37+00:00",
-   "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-   "body": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261028__D4NZ2G3__v1__HighRes__SudanConflict-1794722729.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1534,37 +1886,6 @@
    "lang": "en"
   },
   {
-   "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T09:49:43+00:00",
-   "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-   "body": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine Reacts With Real Exasperation At Putin's Latest Absurd Proposal To End War - HuffPost UK",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTG5nZl9wSjl0QmtQNnlnY0VHc3o4Y1BKWXNHZUJEbE53YkhfU25fWFdVbERTdnBhNF94c2tmU2lBMFZHbGV3cmZWT3hFYUo2MmQtOXg5SnRkblNNU3BYQ3pNUC1lV1NkMDNiaEdtRjMwcmNubXZvYk9JS01sem5ydWtCMjM4Mm5Wc2YwOXA3NXhINHl5ME1KeVY2bkdMSU5ZekE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T09:45:55+00:00",
-   "summary": "Ukraine Reacts With Real Exasperation At Putin's Latest Absurd Proposal To End War HuffPost UK",
-   "body": "Ukraine Reacts With Real Exasperation At Putin's Latest Absurd Proposal To End War HuffPost UK",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "SpaceX makes rocketry history by recapturing massive reusable rocketship",
    "link": "https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship",
    "source": "France 24",
@@ -1577,22 +1898,6 @@
     "United States"
    ],
    "image": "https://s.france24.com/media/display/8c43ae00-e080-11f1-8286-f71d22e7fea9/w:1024/p:16x9/2026-11-14T213803Z-704233441-RC2XNOAR9QE8-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Iran says it targets US radar in Bahrain. What do we know?",
-   "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T09:41:27+00:00",
-   "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-   "body": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af96ad141-1794730705.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1612,61 +1917,6 @@
    "lang": "en"
   },
   {
-   "title": "Zinédine Zidane returns to Bordeaux as France take on Turkey in Nations League",
-   "link": "https://www.france24.com/en/tv-shows/sports/20261115-zin%C3%A9dine-zidane-returns-to-bordeaux-as-france-take-on-turkey-in-nations-league",
-   "source": "France 24",
-   "published": "2026-11-15T09:36:30+00:00",
-   "summary": "France will need to avoid defeat against Turkey, who they face in Bordeaux on Sunday night, to seal their spot in this season's Nations League quarter-finals. The match will see head coach Zinédine Zidane return to the city in which he spent four seasons as a player.",
-   "body": "France will need to avoid defeat against Turkey, who they face in Bordeaux on Sunday night, to seal their spot in this season's Nations League quarter-finals. The match will see head coach Zinédine Zidane return to the city in which he spent four seasons as a player.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France",
-    "Turkey"
-   ],
-   "image": "https://s.france24.com/media/display/ac4bb10e-e0a6-11f1-b66e-5f54d898a954/w:1024/p:16x9/J24-Zidane.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "One storm down, two to go: Here's what to expect this weekend in NorCal - KCRA",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3BBem1rdUFIVkNyTjBlajRvY3IxejRTUW83cU5Tal8tVThTZXVycmI0UWlLNVdQYlNudXJYVk5EX0daQUwtZmRiZy1HSjZwTURkRnlaZ3ppNUxKck5JUlMzWWRtZHktZ2UxaTFoUEh4M3Q3NGVCM1VMSmtzbDNIUVZIM3ltXzlZTFRSSDZkMA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T09:34:00+00:00",
-   "summary": "One storm down, two to go: Here's what to expect this weekend in NorCal KCRA Storms to batter West Coast with mountain snow, rain, waves The Weather Channel 10″ From Round 1, More to Come Palisades Tahoe Winter Storm Warning Remains in Effect as 20 Inches of Snow, 80 mph Winds Ap",
-   "body": "One storm down, two to go: Here's what to expect this weekend in NorCal KCRA Storms to batter West Coast with mountain snow, rain, waves The Weather Channel 10″ From Round 1, More to Come Palisades Tahoe Winter Storm Warning Remains in Effect as 20 Inches of Snow, 80 mph Winds Approach Men's Journal California Could Face 50-Foot Waves as Storms Slam Its Coast The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-   "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-15T09:26:37+00:00",
-   "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-   "body": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Arch Manning shakes off 3 interceptions, throws game-winning TD pass as Texas beats LSU - NBC Sports",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXFuTUM5VlQtUDh2V3d1ei1zRll2YjBXMnBtTzUzbUVHc2EzeldGLVFDd0hfcUNYOEJaRUhjWUVqeFRMSFhKUzFYdGlZMkpYM0YtSTlhX3Bwb3N3T21tbzcyX3FyZG9nTmZkNlZxZXlBSmdrX2NUVFVYemdBcXNYOS1RVWF3V2x2c1JJaFRUMnNZQy02ZE1Uc2NhWlJkTVJhb2ZnV1dUTmIyQW9iYWt5d2NNM0duNkpiNEpqa01FcGlFUWQxNkNmdzNWMFEyaDB5MWlqc3Bvam1TcHJWb1FqWnRB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T09:19:54+00:00",
-   "summary": "Arch Manning shakes off 3 interceptions, throws game-winning TD pass as Texas beats LSU NBC Sports Kiffin understands frustration as LSU's playoff hopes dashed ESPN After Texas takes LSU out of CFP contention, Arch Manning says it 'feels good' to 'end someone else's dream' Yahoo ",
-   "body": "Arch Manning shakes off 3 interceptions, throws game-winning TD pass as Texas beats LSU NBC Sports Kiffin understands frustration as LSU's playoff hopes dashed ESPN After Texas takes LSU out of CFP contention, Arch Manning says it 'feels good' to 'end someone else's dream' Yahoo Sports Mandel’s Final Thoughts: Lane Kiffin loses another big game. But it’s what LSU signed up for The New York Times No. 8/8/6 Football rallies for 22-21 win at No. 24/22/14 LSU University of Texas Athletics",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "နည်းပညာ သူဌေးကြီးများ လောကရဲ့ အလျော်အစား ကြီးမားတဲ့ အချစ် ဇာတ်လမ်းများ",
    "link": "https://burma.irrawaddy.com/article/2026/11/15/417658.html",
    "source": "Irrawaddy Burmese",
@@ -1678,231 +1928,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/RomanceofBillionaire15Nov26feat-900x476.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Prince Harry And Meghan Markle Reportedly Snubbed From Kate Middleton’s ‘Love And Kindness’ Christmas Event - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUndGZlNBcmQ2ZFJ4bDR6bGQyMW1KSUcyTWhFdXUxak5kQS05Z1VYcU41RmNwanBJWFUyQmFUYWY0OXpXbVF4LVpIaXQ2WnhpT0tsTk9ON2wyQi1VU2ZOTnVCTTJrSDFzRzdLbzdKOVdaVFBDdDlUTnRtUXVhdHc0aFRlTXBRckxMZFhQdEl3OS1KVzhpamRGb09aSXVkdW5tc09fWF9LcWFpMGNBTXhzV0VoZlY?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T09:00:00+00:00",
-   "summary": "Prince Harry And Meghan Markle Reportedly Snubbed From Kate Middleton’s ‘Love And Kindness’ Christmas Event Yahoo Kate Middleton announces return of her annual Christmas carol service ABC News - Breaking News, Latest News and Videos Kate Middleton Announces Return of Her Christma",
-   "body": "Prince Harry And Meghan Markle Reportedly Snubbed From Kate Middleton’s ‘Love And Kindness’ Christmas Event Yahoo Kate Middleton announces return of her annual Christmas carol service ABC News - Breaking News, Latest News and Videos Kate Middleton Announces Return of Her Christmas Carol Concert and Reveals This Year’s Theme People.com Harry and Meghan not invited to the Princess of Wales' Christmas carol service at Westminster Abbey Daily Mail Kate Middleton Reveals Theme of Her Annual Christmas Carol Concert E! News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Fewer People in Bashkortostan Are Willing to Join Russia’s Army for the War Against Ukraine - Мілітарний",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1N6ZHFFQ25YUU5vRDVfQ2dKLVQwcDVuRURTQjMwRUxlZlJxNTA1WXFRVk5QX2hUR2I5elFJd0t5WWF1UGFkTU5IX2MwcC1CZEZXTUFMX1BRVDBGX3JvRnBjeHFiMFZMWFJPUmhXZzY1X2F0NTExdW1uOTQ5WmlqU1dkbk1ESnFlak50WmNrVVNLTE5lM2NiOG05b0xfTFB6WWlsNTRScDNHYmNWRTVFLWppel9SU1ZscDdBV3F6SlU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T08:58:52+00:00",
-   "summary": "Fewer People in Bashkortostan Are Willing to Join Russia’s Army for the War Against Ukraine Мілітарний",
-   "body": "Fewer People in Bashkortostan Are Willing to Join Russia’s Army for the War Against Ukraine Мілітарний",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-   "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-   "source": "The Guardian",
-   "published": "2026-11-15T08:56:11+00:00",
-   "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven ",
-   "body": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "South Korea"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
-   "lang": "en"
-  },
-  {
-   "title": "Three sentenced to death over Jordan church attack",
-   "link": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
-   "source": "France 24",
-   "published": "2026-11-15T08:53:39+00:00",
-   "summary": "A Jordanian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
-   "body": "A Jordanian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Syria"
-   ],
-   "image": "https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04V3RucGdlaGp6dm03UnM5TmRsMTQyVTBSZ1JxOHc3ZGJDeFRMOUFMUWlFR21wR05kaXJqcENqZG5URXJrMVN4MnMxVUU4UDhYNW05X2FVbHdyVzVZa3pSZk1NZFFObk0tZThid1RSX2g?oc=5",
-   "source": "Google News",
-   "published": "2026-11-15T08:51:00+00:00",
-   "summary": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says CBS News US floated idea of Ukraine swapping land for NATO membership, Zelensky says CNN US floated idea swapping Ukrainian territory for NATO membership: Zelensky The Hill Give Donbas, take NATO seat",
-   "body": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says CBS News US floated idea of Ukraine swapping land for NATO membership, Zelensky says CNN US floated idea swapping Ukrainian territory for NATO membership: Zelensky The Hill Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-15T08:17:41+00:00",
-   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-   "body": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWtfU0tTallmSTNzSmZKOU9KVlRyalhxM1ZJaWphN3c0eHRIalJaUVNpWTdvTzRQWmZ4WHl6YW9qYmJwMUl1aDZIQlA3UGFBY21ka0xsbjNnWExMMWRJdzNkcFFjRnJpZVVoQmNLbm9xT0R0U2l0U3IzWlVEX3RENXNIQmJYWDQ0dnEyV2EzVFNVeS1rQWxMcTNuazVuODVtci02VmNvenFiSlg4em1PaWIwRkpkR0JH0gG-AUFVX3lxTE1XeVBEYmozamdmTXpQc2h1Tnp5TVZJeEU0dVVnQnd0VnRCc1dPU19FSHpjM0J1WjJVUWFLUE5SZjV5MzNnbks0R2Vmd3lXQTRsd1hLeTF2ZjdvTkNJZ1RwYi1UcGRhU09pZS0zVXlvN3NfaW92WEZ3MGdHWlJ6ek10TjZ1MzM2MzN5VXc4QlhuTXVhS0pyM0N6NmtfdTRubmkyamJabHBOVklVemM1S1dJUHZHUTYzZXpMd3k3X3c?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-15T08:17:36+00:00",
-   "summary": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather Al Jazeera",
-   "body": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather Al Jazeera",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Macron urges unity as Francophonie summit opens in Cambodia",
-   "link": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-15T08:12:00+00:00",
-   "summary": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
-   "body": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://static.dw.com/image/79951354_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Cape Verde could make election history with first female president",
-   "link": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
-   "source": "France 24",
-   "published": "2026-11-15T07:56:14+00:00",
-   "summary": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent Jose Maria Neves, who is the country's fifth president since it became independent from Portugal i",
-   "body": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent Jose Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/59c62c6c-e0d2-11f1-93d1-695cb59fade5/w:1024/p:16x9/2026-11-13T064451Z-244678143-RC2WLOAZ7WLR-RTRMADP-3-CAPEVERDE-ELECTION-PREVIEW.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli air strike kills senior Hamas commander in Gaza",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmdDLWFKempfNHV5cGpqdWU0ampmWS1iVXNKSTFkQnhxZmtlOENuV1Vfbm80VVBpNVNEZ0l4VGZYdGF0NkU1eDFsbUVmVXNEOFZCMF9Bd04xUUZVd0J1bmtvRHhBbmVad1NJMkZybFhpYVQyTGtFOEdPeGJPT1JCaERyR0RiQ2YwSDlvZ2VKQVhqZnF4ekFXRmJ4OGpZQdIBowFBVV95cUxONk9IY0QxMlRKTzVKaXJ0Rk9RMnJrczJSMUtjS3cxeGQ5cDhET0VkRDJ3eEtfWFZaOE96dGVJbllJb0duNVMyODVRcUpfMVRBWnlIQkZOVUc5OVBWalpiR1p3dGNvc0RrWUphbjVnQ29RZ0tHZ1dVRFAtMmsxQm1uN05mektmVGtpS3FMSHZ0QWdFdmppRTVVSzcwaDFBbVdhRkFV?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-15T07:27:56+00:00",
-   "summary": "Israeli air strike kills senior Hamas commander in Gaza Al Jazeera",
-   "body": "Israeli air strike kills senior Hamas commander in Gaza Al Jazeera",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "​1726 Days of russia-Ukraine War – russian Casualties in Ukraine - Defense Express",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0ZNYVlWM1h0dk12eENqR1F3cUR5NnkxSnd5TTVIeUFYZDFBRFI0dlBiU3V4QzltX3BsM1h6T0VNV2x4Qmd1anlwQ012RDhRZVc4VXNfNEVHd1U5cVk1N3hwVFVubEwwTW13UjN6MjRBQ0FvWVp4QXlydllSMFpHOHlqdGY0aUNYU1RqSDBqTkU0U2psNjduYkdqSVVfTHBuVDFaZ0R3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T07:25:51+00:00",
-   "summary": "​1726 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
-   "body": "​1726 Days of russia-Ukraine War – russian Casualties in Ukraine Defense Express",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Germany news: Germany holds national day of remembrance",
-   "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-15T07:23:00+00:00",
-   "summary": "Events are being held for 'Volkstrauertag,' a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
-   "body": "Events are being held for 'Volkstrauertag,' a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://static.dw.com/image/70804472_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-15T07:10:31+00:00",
-   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "body": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "'Friends think we're idiots for returning to Ukraine'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnR3JyS1lwanpTRzhKdVhWcEJVcmFvaDJTNWxJN3RyVUJweEllMElIamlJU0NRc3B3anNkMzVxRXJHczlxQmZBSVVBZU1GQzlwNHhibTN0Uy0tUTg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-15T07:08:49+00:00",
-   "summary": "'Friends think we're idiots for returning to Ukraine' BBC",
-   "body": "'Friends think we're idiots for returning to Ukraine' BBC",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-   "link": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
-   "source": "France 24",
-   "published": "2026-11-15T07:04:31+00:00",
-   "summary": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world’s increasingly interconnected technology systems are beginning to unravel.",
-   "body": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world’s increasingly interconnected technology systems are beginning to unravel.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/19ce78fa-e0c1-11f1-9d67-f71d22e7fea9/w:1024/p:16x9/000-D76L3L9.jpg",
-   "lang": "en"
   },
   {
    "title": "အီရန်က အမေရိကန်နဲ့ အစ္စရေး တိုက်ခိုက်မှု အတွက် သဘာဝ ပတ်ဝန်းကျင် ထိခိုက်မှု လျော်ကြေး လိုချင်လို့ ဆို",
@@ -2177,19 +2202,6 @@
     "India"
    ],
    "image": "https://www.rfa.org/resizer/v2/WTYZUMLFCVA4JB466FDNDXRUGQ.jpg?auth=c5be7f0faf9194310676d11d35f35a71acc1e6c958810c751d2e51e1363c3b3c&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "ပျောက်စေဆရာတွေကိုပါ ဒေါက်တာဘွဲ့တွေပေးနေတဲ့ခေတ်",
-   "link": "https://burma.irrawaddy.com/video/2026/11/13/417618.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-13T12:49:43+00:00",
-   "summary": "ဆေးကုသခွင့်လိုင်စင်မရှိဘဲ ဆေးကုနေကြတဲ့ သရုပ်ဆောင် ထူးခန့်ကျော်နဲ့ ဒေါ်ခင်စန်းရီတို့ကို Dayspring International University ဆိုတဲ့ အဖွဲ့တခုက နိုဝင်ဘာလ ၆ ရက်နေ့မှာ ဒေါက်တာဘွဲ့တွေ ပေးအပ်ခဲ့ပါတယ်။",
-   "body": "ဆေးကုသခွင့်လိုင်စင်မရှိဘဲ ဆေးကုနေကြတဲ့ သရုပ်ဆောင် ထူးခန့်ကျော်နဲ့ ဒေါ်ခင်စန်းရီတို့ကို Dayspring International University ဆိုတဲ့ အဖွဲ့တခုက နိုဝင်ဘာလ ၆ ရက်နေ့မှာ ဒေါက်တာဘွဲ့တွေ ပေးအပ်ခဲ့ပါတယ်။\n\nသူတို့ကို ဒေါက်တာဘွဲ့ ပေးအပ်ခဲ့တဲ့ Dayspring International University ဟာ တက္ကသိုလ် အမည်ခံထားပေမဲ့ တရားဝင် အသိအမှတ်ပြုတက္ကသိုလ်တခု မဟုတ်ဘဲ ဘာသာရေးနဲ့ လူမှုထူးချွန်သူတွေကို ချိတ်ဆက်ပေးတဲ့ အဖွဲ့အစည်းသာဖြစ်တယ်လို့ သူတို့ရဲ့ လူမှုကွန်ရက်မှာ ဖော်ပြထားပါတယ်။\n\nဒါ့အပြင် အဲဒီအဖွဲ့ရဲ့ မူလအဖွဲ့အစည်းဖြစ်တဲ့ Dayspring Christian University ဟာလည်း အိန္ဒိယအခြေစိုက် Sprout News သတင်းဌာနကဖော်ထုတ်ပြုစုထားတဲ့ တက္ကသိုလ်တု (Fake University) စာရင်းထဲမှာ ပါဝင်နေတာကြောင့် အခုလို ဘွဲ့ပေးအပ်မှုအပေါ် လူထုကြားမှာ ဝေဖန်မှုတွေ ထွက်ပေါ်နေပါတယ်။\n\nမြန်မာနိုင်ငံ ဆေးကောင်စီနဲ့ တိုင်းရင်းဆေးကောင်စီတို့ရဲ့ ဥပဒေပြဋ္ဌာန်းချက်တွေအရ တရားဝင် ဆေးကုသခွင့် လိုင်စင်မရှိဘဲ ဆေးကုသပါကထောင်ဒဏ် ၁ နှစ်ကနေ ၅ နှစ်အထိ ချမှတ်နိုင်တဲ့အပြင် ငွေဒဏ်ပါ ကျခံရမယ်လို့ တိတိကျကျ သတ်မှတ်ထားပါတယ်။\n\nဒါပေမဲ့ တရားဥပဒေစိုးမိုးမှု ကင်းမဲ့နေတဲ့ လက်ရှိအခြေအနေမှာတော့ ပြည်သူတွေရဲ့ ယုံကြည်မှုကို အလွဲသုံးစားလုပ်ပြီး လိုင်စင်မဲ့ ဆေးကုသနေသူတွေကို အာဏာပိုင်တွေဘက်က ထိရောက်စွာ အရေးမယူဘဲ လျစ်လျူရှုထားတာကြောင့် အများပြည်သူရဲ့ ကျန်းမာရေးကဏ္ဍဟာ အထူးပဲ စိုးရိမ်စရာ ဖြစ်လာနေတယ်လို့ ကျန်းမာရေးပညာရှင်တွေက သတိပေး ထောက်ပြနေကြပါတယ်။\n\nဧရာဝတီရဲ့ YouTube membership ကို Support လုပ်ချင်တဲ့ပရိတ်သတ်တွေအနေနဲ့ ဒီ https://www.youtube.com/@irrawaddynews1993 Link လေးမှ join button ကို နှိပ်ပြီးတော့ ပါဝင်နိုင်ပါပြီ။\n\nစာဖတ်သူများ၏ ပံ့ပိုးမှုက ပြည်သူများ လိုအပ်နေသည့် အကောင်းဆုံး နှင့် အရည်အသွေးမီ သတင်းများကို ဖော်ပြစေနိုင်မည်။\n\nSupport The Irrawaddy: https://www.irrawaddy.com/donation",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Dr-Yanku-Nov-13-Cover-1-900x506.jpg",
    "lang": "my"
   }
  ]
