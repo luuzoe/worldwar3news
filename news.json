@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:38:57.074017+00:00",
- "updated_yangon": "2026-11-16 21:08",
+ "updated": "2026-11-16T15:38:54.993136+00:00",
+ "updated_yangon": "2026-11-16 22:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,7 +10,7 @@
   "DW",
   "France 24",
   "Google News",
-  "Google News · Middle East",
+  "Google News · China Taiwan",
   "Google News · Ukraine",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
@@ -20,27 +20,23 @@
  ],
  "countries": [
   [
-   "Russia",
-   34
-  ],
-  [
    "Ukraine",
-   31
+   35
   ],
   [
    "United States",
-   27
+   30
+  ],
+  [
+   "Russia",
+   29
   ],
   [
    "China",
-   8
+   9
   ],
   [
    "Myanmar",
-   7
-  ],
-  [
-   "European Union",
    7
   ],
   [
@@ -48,11 +44,11 @@
    7
   ],
   [
-   "Israel",
-   7
+   "European Union",
+   6
   ],
   [
-   "Palestine",
+   "United Kingdom",
    5
   ],
   [
@@ -60,15 +56,15 @@
    4
   ],
   [
-   "United Kingdom",
-   3
-  ],
-  [
-   "Germany",
-   3
+   "Israel",
+   4
   ],
   [
    "Japan",
+   2
+  ],
+  [
+   "Turkey",
    2
   ],
   [
@@ -76,34 +72,33 @@
    2
   ],
   [
-   "Pakistan",
+   "Palestine",
    2
+  ],
+  [
+   "India",
+   1
+  ],
+  [
+   "Saudi Arabia",
+   1
+  ],
+  [
+   "Pakistan",
+   1
+  ],
+  [
+   "Germany",
+   1
   ],
   [
    "Australia",
-   2
-  ],
-  [
-   "Turkey",
-   1
-  ],
-  [
-   "NATO",
-   1
-  ],
-  [
-   "South Korea",
-   1
-  ],
-  [
-   "Syria",
    1
   ]
  ],
  "categories": [
   "Africa",
   "Asia-Pacific",
-  "Europe / NATO",
   "Global",
   "Middle East",
   "Myanmar",
@@ -111,10 +106,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 27,
+ "war_count": 25,
  "languages": {
-  "my": 24,
-  "en": 116
+  "my": 23,
+  "en": 117
  },
  "items": [
   {
@@ -238,6 +233,161 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
+   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-16T15:39:10+00:00",
+   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "source": "The Guardian",
+   "published": "2026-11-16T15:34:58+00:00",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
+   "body": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T15:31:20+00:00",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:30:58+00:00",
+   "summary": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
+   "body": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Short of time at the ASEAN - The Economist",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY01EWk1KdW41dlg4TGtnTG5nNEtQVVFzOUluOU9vNjFlQU9nY0NvVHZaM0xiWFVXQmxLRXRXZ1ZieDBaUk52cUd2SjNzVkt5dmVTdFNBOFpkc1ViaTNJUldLMy1TZG9aSHhMMlhldVp5Y0FQb1NDUkdtbEZlZFZrZVpfTVRNRkFHQ1hnTVdoSUpCNnUyRlFz?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T15:28:05+00:00",
+   "summary": "Short of time at the ASEAN The Economist In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda T",
+   "body": "Short of time at the ASEAN The Economist In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda The Washington Post Donald Trump will get a warm welcome in the Philippines The Economist",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlTSmtsWjdYMVdaaFVoZm1OXzlKSXMyd0ZmZnZYdEZBTnBHQ1c3OXpid1dnZl85M2xuUUE2dC1oWnM1cFctY1d2dUhOQWx6WmNBMXg0TVY3LTRySlFkcVRKckl3UnFZcEVzTDVtX2JYellUQ29hWk9DMGFpaUFocXZkYWVJZXVGd0U4eDJaZmd2S21nZVktNzBhNWdETWlCaDVxcDZibDM?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:27:38+00:00",
+   "summary": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
+   "body": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - San Francisco Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDhxcURiTmIyYTQ2YkFTR05JTlVTRkNsNktjeG15UU5jdGNraE1RZ3JETjliQXYwMU5LTzVVVzdJd29jSW5TYkljSk40UVdBSGVjYjJlUmNJRXRvYjAwdmlaVk9wOFBDdWJGSXZRaXlUS3RhZmtSUkpqd091OGVkWlRENmRtcHNhUVVaVjdZcW10MzcxWkpPR19ocXBvZmRQR0J6ZnJXZkhtdGhKUXdz?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:27:10+00:00",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin San Francisco Chronicle",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin San Francisco Chronicle",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Students protest as air pollution chokes New Delhi",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T15:27:07+00:00",
+   "summary": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+   "body": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794842808.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "At least 17 killed in two South Africa mass shootings",
+   "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T15:26:39+00:00",
+   "summary": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+   "body": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+   "source": "NYT World",
+   "published": "2026-11-16T15:25:21+00:00",
+   "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+   "body": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Teen volunteers in Singapore bridge generation gap through music",
    "link": "https://www.channelnewsasia.com/singapore/volunteers-teens-youth-resonance-project-music-6554531",
    "source": "CNA World",
@@ -248,6 +398,51 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--QzyLKx8T--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/screenshot_2026-11-16_150742.png?itok=3B6egqqc",
+   "lang": "en"
+  },
+  {
+   "title": "Melissa Auf Der Maur: 90s rock memoirs and photographs",
+   "link": "https://www.france24.com/en/tv-shows/arts24/20261116-melissa-auf-der-maur-90s-rock-memoirs-and-photographs",
+   "source": "France 24",
+   "published": "2026-11-16T15:17:10+00:00",
+   "summary": "Melissa Auf Der Maur grew up in Montreal, the daughter of a feminist activist mother and a journalist-turned-politician father. At just 22, she joined Courtney Love’s band Hole as its bass player, going on to become a role model for young female fans – and not only female fans – ",
+   "body": "Melissa Auf Der Maur grew up in Montreal, the daughter of a feminist activist mother and a journalist-turned-politician father. At just 22, she joined Courtney Love’s band Hole as its bass player, going on to become a role model for young female fans – and not only female fans – of alternative rock. She later joined The Smashing Pumpkins before striking out on her own as a solo artist. She dropped by FRANCE 24 to talk to Marjorie Hache about the epic decade that brought the 20th century to a close.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/f892c0ea-e1b2-11f1-b37c-695cb59fade5/w:1024/p:16x9/CULTURE-16-11-2026-11-00-ING26-CLEAN-A-frame-52769.jpeg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-16T15:14:19+00:00",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Hu",
+   "body": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
+   "lang": "en"
+  },
+  {
+   "title": "Verdict due in French trial over triple murder linked to Marseille drug wars",
+   "link": "https://www.france24.com/en/video/20261116-verdict-due-in-french-trial-over-triple-murder-linked-to-marseille-drug-wars",
+   "source": "France 24",
+   "published": "2026-11-16T15:13:21+00:00",
+   "summary": "In France, a highly anticipated verdict in a triple homicide is expected later today. Often called the Kessaci trial, the plight of the Kessaci family has drawn attention across France, the surviving brother Amine Kessaci has become an outspoken advocate against drug trafficking ",
+   "body": "In France, a highly anticipated verdict in a triple homicide is expected later today. Often called the Kessaci trial, the plight of the Kessaci family has drawn attention across France, the surviving brother Amine Kessaci has become an outspoken advocate against drug trafficking and in particular in Marseille.",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/adf5bcee-e1cc-11f1-a434-695cb59fade5/w:1024/p:16x9/EN-20261116-143925-144130-CS.jpg",
    "lang": "en"
   },
   {
@@ -264,19 +459,380 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
-   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-16T14:38:59+00:00",
-   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - Bozeman Daily Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOFpfcThabi1oa0VmWHdlUVZwUE4yWm9WSi1yb3g4eGJrYTkyVU9iSFJub09GMk5YNlRtQzRBZTNNZDFPU05MUktMaHZFRVMtcWNWU3Zwb0lzdDl0bDJkUXdTTnN5U0J5UDNTVU9RX01tSVQtR2Z2RFhRSmtQNTR0QWU4X2duYnd4NUlkaEFDV2thR0thTk11clNNLWdZVDRrN3BaYVNqRFoyQlZMcTdad1FiYi02Yi1hVjFBU21NVGw4WXlXVGNDTGRXRG9iaFBGY0JBYl9uXzU3dEhyWEJHVHhjMUtkeXpwWTBXUjM1UndDV1FsenNybnJ5ZjZ4S2NTbVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:10:40+00:00",
+   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine Bozeman Daily Chronicle",
+   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine Bozeman Daily Chronicle",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "Ukraine"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
-   "lang": "my"
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - Dayton Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNem9PV0dfSkFxTkVSVzUwejdOS0hvdEFvcHJTdjRKamY3ZjZzTHVhU0xQbTRPS01HTHY4RDRkczB1N0lScTRJR3VXZVVHUVhDQUhCVzFDaXpGY3BDd1BvaTFySGJ6OVNkX05UWlZXdnBsM19UcG1pTjN3bXpiSFBGWmRTT0VvOVdIMHhwRUVZdmU1aXkzcDZTWnllUjVrOTBDVnRQQV9uWHV6eHdoeEQyVWFtTzQ1SzJMSjNTc3FvY2VVbmtXWTBSbmtEUkZ4YVMtRjFjNUhKYjFtdTZ4YlJTTzJKZEcxUFEzZlF0RGdUSWFnOEVyZDdMVg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:10:40+00:00",
+   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine Dayton Daily News",
+   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine Dayton Daily News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - The Killeen Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzBpTnJwbE1KdmZSZFJQekRTMVJmWkNhRDJxelN5RlR4bXpJRmQ0aHJUem1aVHI0a3hKOTJyb2lYbEx3R2xYZC1hQ0ZZYmRwX0MwS0Q1ajdpZmE3QzY4LUpDX1NkVWxMbVBXeTFTNDY5MEhxTXlrazhBZFBBTjhKNmFsNk1VOVlKM1Z3dFVmLXUzWi1GMVF3aHVFdGVUSTlTMVRjV3Bocnc3LXhQVnVoRHNUbkFPVkY3dmtTQ2EyazNib0VTY0E1R2FtOHZqYlUycUM0djRlYzFHRzQycTVENldOTWdWNGtZZlE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:10:40+00:00",
+   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine The Killeen Daily Herald",
+   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine The Killeen Daily Herald",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDlvZUFsWmZ0dUp5bzg0VFZZdGg4RGo4bFotRzNuV2JfaTcxaFVueHloWFZfMFAtWWJPN1phQmNNLUZHNGtvN3VsZHRqbldtNXlsSHJnOUhVSHVwS25mZ2p1dXd3ckJpdWtjTGZqUm5yN3hrNm93ZGUxUG5RTW5vcHRBVG5CN1llSlFISUhHWmU5aW1OSTJNcEI0anEySi1DSUE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:10:00+00:00",
+   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine The Independent",
+   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Robert Pattinson cast as James Bond: Batman and 'Primetime' star to take over as 007 - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVk3UU9yeVVXLWpRdFhpMi1FVm10Yzd2VzdCWDIxcFBLYl9HbXU0eEZVbFU5amxRdGh6amtGZmJpdlVxODJNbnozWE9tQzVWWWEzQzM5eEhxRXMwX2dLT01ZZHhGRnBmTlhVQkRyZWRNMDBGUWZJbUhvX3B2ZFRnWVRkWFJiRlFxTVJDTVNiel93ZTFTa1VZVjM3SUNMc2NUUjlVb3FWbnVZZnNHVHBTQmRmeEJ6cU0yRnZRc2tTMHB5YWFzRTV4M09jYVN6aXBqaVJMN1Y2Wm4yU3NPdWV1UA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T15:05:18+00:00",
+   "summary": "Robert Pattinson cast as James Bond: Batman and 'Primetime' star to take over as 007 Yahoo Robert Pattinson named as new James Bond actor BBC New ‘James Bond’ Found As Amazon MGM Studios Taps Robert Pattinson To Play Next 007 Deadline Robert Pattinson reportedly leads James Bond ",
+   "body": "Robert Pattinson cast as James Bond: Batman and 'Primetime' star to take over as 007 Yahoo Robert Pattinson named as new James Bond actor BBC New ‘James Bond’ Found As Amazon MGM Studios Taps Robert Pattinson To Play Next 007 Deadline Robert Pattinson reportedly leads James Bond contenders The Guardian Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - Union-Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUkh5dUJMeVVWMU5hNW5EXzk3djF4R0RyUGVUWG5JbWNLVjlfMmwxbkw0bFptb2FWRlFIOHdwVzlwei1SSU1uVHQ0MVdhZHJaMXlpRGFjUGhxc0p4a2IwZUlPWDMtdzhZc09uR0pQQUhqcHVpSDVfSkJHTkZFR0FBay1sdXhZR2duc01PcDEtNU5iUUhYX3VmVzJDWV91cUpTb251NW5fUDd0bUhiS3daMTdsNzI2YmdwQnFRbFNHdklYWjJhUl9mYzFYWkF6SVh3bGhfQjZsLVYxR0VrOWR5OFhqS1lveHUybzloaFRCR2w1dm1qMXFuaUF4Y00yQTRoR2lCMA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:03:53+00:00",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Two charged after man run over by van during flags incident in Birmingham",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/16/two-charged-man-run-over-by-van-midlands",
+   "source": "The Guardian",
+   "published": "2026-11-16T15:01:35+00:00",
+   "summary": "Pair due to appear in court in December in relation to incident in May that left a man in his 30s with leg injuries Two men have been charged following an incident in Birmingham, where a man was run over by a van after flags were removed from lamp-posts. A man in his 30s was take",
+   "body": "Pair due to appear in court in December in relation to incident in May that left a man in his 30s with leg injuries Two men have been charged following an incident in Birmingham, where a man was run over by a van after flags were removed from lamp-posts. A man in his 30s was taken to hospital with leg injuries after the incident on Mayfield Road in the suburb of Stirchley, south-west Birmingham, on 14 May. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/a575013098050b5562b93e4330eb0b9e12f74d93/142_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=ab13adc9587c0f58f0757b527a6b3b91",
+   "lang": "en"
+  },
+  {
+   "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+   "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T14:58:30+00:00",
+   "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
+   "body": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUpVenVnUy1reHlScGNUR2hYNlNTUVRGcEZ3dTE1VlVGbUxMclpiY3dXSWlfbEhvMGpMSHNiZ0t3bHMxa3lxQVNIWTZ1OGt6YUtIaGFlam1GMGhvdU45Sl8yMWxqOVk2SW5ETm1takVkcHRtZlFCendoVHBBMVRoNENPbHJOaWk5OS10N2FSMFRrampR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:58:17+00:00",
+   "summary": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war Yahoo",
+   "body": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T14:58:12+00:00",
+   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "body": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Mamdani disbands controversial NYPD unit accused of using excessive force",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+   "source": "The Guardian",
+   "published": "2026-11-16T14:57:26+00:00",
+   "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a controversial city police unit that has faced criticism over the years from civil right",
+   "body": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a controversial city police unit that has faced criticism over the years from civil rights groups who have accused the unit of using excessive force and unduly aggressive tactics against protesters. In a video released Monday morning, Mamdani said the move stemmed from a campaign pledge he made to disband the New York City police department’s strategic response group (SRG). “Today, we are keeping that promise,” Mamdani said in the video. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/273f35e243f22b1c02cb8c86f61c99bd5a80cf15/644_681_2479_1983/master/2479.jpg?width=140&quality=85&auto=format&fit=max&s=08feaa2a57512f88fb6dc80dfd79ffe7",
+   "lang": "en"
+  },
+  {
+   "title": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1RwN2Y1XzdmOTRiaEJ1TmMwWTY1LVBDNVFyM0JSVWxia3ZqTTNYaFJGM3dXbndvaU9ZYXdxTDZYMnF3OU9JQnVTZTBqZ2ozOEJkaXlDUUZiOVYybURaUFZZdjlxX2QzdVZrWURRZXRKMnhsaTZhX0F3T08xbnpYTnZCZnlCcFlpdWM1MkhJcDNGM19PeGdqRVUzNy1hUEU3dzRLbE92SXp5VUxiOTRFSm52MWlTX0w5MGdQNmNGSUM1MGd1OUIwZjc2SUE1SXFCb2c?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T14:57:00+00:00",
+   "summary": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes The Campaign to Bring Back Jensen Huang as Nvidia CEO WSJ Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief The New York Times Nearly a fifth of the S&P 500 is tied to thr",
+   "body": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes The Campaign to Bring Back Jensen Huang as Nvidia CEO WSJ Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief The New York Times Nearly a fifth of the S&P 500 is tied to three men with no clear successors The Washington Post Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return Yahoo Finance",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+   "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+   "source": "NYT World",
+   "published": "2026-11-16T14:56:41+00:00",
+   "summary": "It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative.",
+   "body": "It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-roosters-gztb/00xp-roosters-gztb-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "COP31 deal draft foreshadows difficult route to consensus",
+   "link": "https://www.france24.com/en/environment/20261116-cop31-deal-draft-foreshadows-difficult-route-to-consensus",
+   "source": "France 24",
+   "published": "2026-11-16T14:56:15+00:00",
+   "summary": "COP31 negotiators in Turkey released a draft agreement on Monday to advance talks on fossil fuels and climate finance before this week's deadline. The pressure to reach a deal is intense after a year of environmental challenges including catastrophic glacier flooding in Nepal and",
+   "body": "COP31 negotiators in Turkey released a draft agreement on Monday to advance talks on fossil fuels and climate finance before this week's deadline. The pressure to reach a deal is intense after a year of environmental challenges including catastrophic glacier flooding in Nepal and European wildfires, even as global conflict and cost-of-living protests distract leaders from climate action.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Turkey"
+   ],
+   "image": "https://s.france24.com/media/display/9a0953fa-e1ca-11f1-8208-695cb59fade5/w:1024/p:16x9/000-D73X79E.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "‘Forced fighters’ are being lured into Ukraine war under false pretences - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzdoTnRHV2JHWHR4UnFRQmlEaDd2b21UWWlEcnVNWkVjcng1WFdxd0RUdkRPZV83NUhRdjlpS0tXRzZmR1FQdkh0cUQzanM4ZEpwZEJ4R1NKekk0OWF3UnFiQnpzTzNVeG4tMUg2NVhjZ0VZRFZZem90d0loLWRQaFFkWXpTaTlhT0FHM0FxUTROc2FQXzdfR1ZSRVZIeFhfYzkzMDRWdXo?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:52:59+00:00",
+   "summary": "‘Forced fighters’ are being lured into Ukraine war under false pretences The Conversation",
+   "body": "‘Forced fighters’ are being lured into Ukraine war under false pretences The Conversation",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Searching for the Last Stoats of Waiheke Island",
+   "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+   "source": "NYT World",
+   "published": "2026-11-16T14:49:58+00:00",
+   "summary": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?",
+   "body": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-nz-stoats-top-clpm/00int-nz-stoats-top-clpm-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+   "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T14:48:55+00:00",
+   "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+   "body": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee22/live/2a20af90-e1c8-11f1-99a1-253766e7ad8b.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+   "link": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+   "source": "NYT World",
+   "published": "2026-11-16T14:47:46+00:00",
+   "summary": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
+   "body": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-killer-robots-cfgz/16int-killer-robots-cfgz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:47:37+00:00",
+   "summary": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine The Washington Post",
+   "body": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine The Washington Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
+   "link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
+   "source": "France 24",
+   "published": "2026-11-16T14:42:44+00:00",
+   "summary": "Saudi Arabia has removed the commander of the Saudi-led coalition in Yemen, state media said Monday, as the Iran-backed rebels advanced on the temporary capital of Aden. The shake up comes after Houthi forces took territory on Yemen's southern coast and Saudi-backed forces fell b",
+   "body": "Saudi Arabia has removed the commander of the Saudi-led coalition in Yemen, state media said Monday, as the Iran-backed rebels advanced on the temporary capital of Aden. The shake up comes after Houthi forces took territory on Yemen's southern coast and Saudi-backed forces fell back to defend the capital.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://s.france24.com/media/display/6b41e21e-e1c8-11f1-9bf2-5f54d898a954/w:1024/p:16x9/AP24318399053564.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit - Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZnZvRkZjRU84ME4wV0Y5c0NxcllMdmU5TnpRWHUwYVdtcUJMc3Z4WTdyRGtYazlPT01rc2FUYVhGcjRSOUlnVXBqSEtWZWxOWWprTUYxY2k0c2xsNFk5S1JlTEs5WlViem05TS1KQnBLeHBxSnc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:38:17+00:00",
+   "summary": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit Boston Herald",
+   "body": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit Boston Herald",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit - The Press Democrat",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yejV4cTVrRFRoTjZ4SE9WZnJHZmNmSDNwQWFEeDcyd01OUUNQaDRjWHdfSTFqSlZHbkxqX1hQRXY1M3VialVwanNvNURlUUdyNUFTYVYxbVZnNDMxQWNZMVdReVotNTRPbHhNTmtXMVFBZ2tRR3Zn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:38:11+00:00",
+   "summary": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit The Press Democrat",
+   "body": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit The Press Democrat",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Guinea's gold rush: Arrests, deportations spark outcry",
+   "link": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T14:38:00+00:00",
+   "summary": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
+   "body": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/73457563_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US, China Negotiate Military Hotline Ahead of APEC - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUZkS3hUcm9KNDI0TnpIQkg1Mk54amtTTjktYm1vZVN2ejdiOHl3SWR4a0hxd3lsQmg1cExFU2ZSZ1FBTmRrMEYwckQxMVRuLW45SkhyMndDa2hqUy1uc0FmcTAySEZEVVAxNjYxb1VrRy1BRzNyZUpzNTlQaXZ6Ri14bms?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-16T14:34:59+00:00",
+   "summary": "US, China Negotiate Military Hotline Ahead of APEC 조선일보",
+   "body": "US, China Negotiate Military Hotline Ahead of APEC 조선일보",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T14:34:49+00:00",
+   "summary": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters Tech stocks drag US futures lower ahead of Nvidia earnings and potential market deb",
+   "body": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic Pioneer Press Stock Market Today: Dow, S&P 500 and Nasdaq open lower as tech drops ahead of Nvidia results, Anthropic IPO this week — live updates MarketWatch",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
@@ -309,19 +865,18 @@
    "lang": "en"
   },
   {
-   "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-   "source": "NYT World",
-   "published": "2026-11-16T14:31:14+00:00",
-   "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-   "body": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+   "title": "'Historical fiction is about filling in the gaps', author Ian McGuire says",
+   "link": "https://www.france24.com/en/tv-shows/perspective/20261116-historical-fiction-is-about-filling-in-the-gaps-author-ian-mcguire-says",
+   "source": "France 24",
+   "published": "2026-11-16T14:31:21+00:00",
+   "summary": "A Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel “The North Water”. His latest book, “White River Crossing”, was publish",
+   "body": "A Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel “The North Water”. His latest book, “White River Crossing”, was published earlier this year and has now been translated into French, under the shortened title “White River”.",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United States",
-    "Iran"
+    "France"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
+   "image": "https://s.france24.com/media/display/b89038f0-e1c2-11f1-852e-5f54d898a954/w:1024/p:16x9/DL00004072-VOD-00018864-CS0940.jpg",
    "lang": "en"
   },
   {
@@ -338,28 +893,12 @@
    "lang": "en"
   },
   {
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "source": "The Guardian",
-   "published": "2026-11-16T14:29:58+00:00",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
-   "body": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
-   "lang": "en"
-  },
-  {
    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
    "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
    "source": "The Guardian",
    "published": "2026-11-16T14:29:55+00:00",
-   "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The unprecedented meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking signifi",
-   "body": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The unprecedented meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cements Xi’s status as a global powerbroker as he presides over events in the glittering southern tech hub of Shenzhen. Continue reading...",
+   "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” includi",
+   "body": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s first-of-their-kind trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cements Xi’s status as a global powerbroker as he presides over events in the glittering southern tech hub of Shenzhen. Continue reading...",
    "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
@@ -368,6 +907,21 @@
     "China"
    ],
    "image": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=140&quality=85&auto=format&fit=max&s=378acfadfa258f06c2f77240b641fffe",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit - The Mercury News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbnU3WGt2dDdZN0dFbWtNRkxlM0tvaFpia2d2dWozS2JIVlRIdl9mVzhDd1ZFT1lqX3lhR21JYWdGWm4tdmtsb3lsLVZCc1ljdC01TU9VVHNNLWZGMmxCTmJyNmFWOUZWb0d0MnAzX2lMYkxyYmVz?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:28:03+00:00",
+   "summary": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit The Mercury News",
+   "body": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit The Mercury News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -381,6 +935,50 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--2RXDsnTb--/c_crop,h_1125,w_2000,x_0,y_90/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/img_7561.jpeg?itok=7OrzXGT1",
+   "lang": "en"
+  },
+  {
+   "title": "Europeans won’t join Ukraine peace talks, Russia insists",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMElzZFh1Mi1ZZzRwcDdLQS1aQTRiMk5DcmRiQ0MwV0xIRzM3X2xQanpYWm0wc1JtMHoxbHAzNzdJMmFHMmVFRmtueUtfNEpuejhaTFMwUXh3OW13b1NWbHZJSHZYYW9ob3gwQ1Bja0VjMlZxWFNvd3dTVEFhU0NZX19lRVlRMUhsakFDdm9UV3N5YXIzUlItZnUtbXZ5cUJscGNj?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:27:57+00:00",
+   "summary": "Europeans won’t join Ukraine peace talks, Russia insists The Times",
+   "body": "Europeans won’t join Ukraine peace talks, Russia insists The Times",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T14:26:49+00:00",
+   "summary": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Artist Who Just Tied Beyonce For Female With Most Grammy Noms In One Year Is ‘On Strike’ From Making New Album Forbes Grammy Awards 2027: See the list of nominees CNN Grammy Nominations 2027: The",
+   "body": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Artist Who Just Tied Beyonce For Female With Most Grammy Noms In One Year Is ‘On Strike’ From Making New Album Forbes Grammy Awards 2027: See the list of nominees CNN Grammy Nominations 2027: The Complete List (Updating Live) Variety The Biggest Snubs Of The 2027 Grammy Nominations Forbes",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russell Brand and the media that made him",
+   "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T14:25:25+00:00",
+   "summary": "A rape conviction for the British comedian and actor leads to a reckoning for the media that kept him in the spotlight.",
+   "body": "A rape conviction for the British comedian and actor leads to a reckoning for the media that kept him in the spotlight.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/YT-THUMB-LPKG-TX42-WIDE-1794839043.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -399,18 +997,19 @@
    "lang": "en"
   },
   {
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-16T14:23:46+00:00",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email One quick note on the US Senate race in Alaska. According to the state’s election laws, if no ca",
-   "body": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email One quick note on the US Senate race in Alaska. According to the state’s election laws, if no candidate manages to cross the 50% threshold, that triggers a ranked-choice run-off where the candidate with fewest votes is eliminated but their vote goes to their second choice (which they mark on their ballot) . This happens in rounds until the candidate with the most votes wins. Donald Trump will begin his day in Washington, before traveling to Manila, Philippines for the Association of Southeast Asian Nations (Asean) summit. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": true,
+   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - The Boston Globe",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoM180ZzRzeWhxZmtmZTRSd3A0dGhGbTVXMHc1WVZLSF9GdWplSHV1ZTVtRmxVakJMaUd6THdqV1VETFpVTXdOZmVxVmU3TlJvTmlHa3ZVczU1T2QzUXdJMXJuenlOSXpLRjNsemx5UV92UQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T14:22:57+00:00",
+   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
+   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
+   "category": "Ukraine / Russia",
+   "is_war": false,
    "countries": [
-    "United States"
+    "Ukraine",
+    "Russia"
    ],
-   "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -429,33 +1028,18 @@
    "lang": "en"
   },
   {
-   "title": "‘My arms are empty’: Gaza mothers brace for another winter of cold and fear",
+   "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
    "link": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-16T14:20:43+00:00",
    "summary": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
    "body": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
    "category": "Middle East",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_1742-1794835313.jpeg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Grammys 2027: the nominations in all the major categories",
-   "link": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-album-of-the-year",
-   "source": "The Guardian",
-   "published": "2026-11-16T14:18:36+00:00",
-   "summary": "With numerous nods for Raye, Rosalía, Olivia Rodrigo, Olivia Dean and others, check out the nominated artists for the 2027 Grammy awards for album of the year and more Olivia Dean – Man I Need Ella Langley – Choosin’ Texas Bruno Mars – I Just Might Raye – Where is My Husband! Oli",
-   "body": "With numerous nods for Raye, Rosalía, Olivia Rodrigo, Olivia Dean and others, check out the nominated artists for the 2027 Grammy awards for album of the year and more Olivia Dean – Man I Need Ella Langley – Choosin’ Texas Bruno Mars – I Just Might Raye – Where is My Husband! Olivia Rodrigo – The Cure Rosalía featuring Björk & Yves Tumor – Berghain Taylor Swift – The Fate of Ophelia Tame Impala & Jennie – Dracula Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/7aad77879f842b3264baf455b6f51ef0bbf7901f/390_0_3215_2572/master/3215.jpg?width=140&quality=85&auto=format&fit=max&s=05f7307f1c4e123cbae1a1b821496eb6",
    "lang": "en"
   },
   {
@@ -501,22 +1085,6 @@
     "China"
    ],
    "image": "https://s.france24.com/media/display/fcd1abf0-e1c4-11f1-86b7-695cb59fade5/w:1024/p:16x9/EN-20261116-141729-141916-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine’s Fighter Jet Blows Up Russian Assault Staging Base With US-Made GBU-39 Bombs - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObTh5enQ3UGotM29wc0pZd2hZZnp2MnNtcTJPSzJPeFJremd1R3VON0pPV05LY3JXQnhrUWkweWdsSzh1WnpORjBXM1ZhVlpDU0c5TjBQdWRJaXlXQ0MySUhuakVqMGt0ZWUtTENHNXF0bUpDOERhYnVPN05zN3pXOE1rQ2treTNkRjV2Ynh6dVlySGVlU3ZGaGY2VTRycll5WldBSTlneGR5VHAzeGdETlFqZWJwc3NhT29WTWgtRHo1a1VqX3NqYWN0QQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:03:05+00:00",
-   "summary": "Ukraine’s Fighter Jet Blows Up Russian Assault Staging Base With US-Made GBU-39 Bombs UNITED24 Media",
-   "body": "Ukraine’s Fighter Jet Blows Up Russian Assault Staging Base With US-Made GBU-39 Bombs UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -613,34 +1181,18 @@
    "lang": "en"
   },
   {
-   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - The Boston Globe",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoM180ZzRzeWhxZmtmZTRSd3A0dGhGbTVXMHc1WVZLSF9GdWplSHV1ZTVtRmxVakJMaUd6THdqV1VETFpVTXdOZmVxVmU3TlJvTmlHa3ZVczU1T2QzUXdJMXJuenlOSXpLRjNsemx5UV92UQ?oc=5",
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - News4JAX",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXlBemQ5d3lDM096ZTFqNkpsTGpMaXk2RldycHNGNGRHdlFWWV9IVGVfcVNkU05rWHhBcm9vTGxHX2N4b2czNU9MT1pVSGhKTlY3UDJzY0RZM2dxTWhHbnR5R1dBQUNrY0xCSGpfQUwzcWVqM3k0Y1NhRlV5VEU4VXA0MUhqODg5Uldqd0hYdlRhekhmUG1OV0YycmdIQ1MtdUo1OHc0ZjdUQUNMcW50YUV3WE5Cc1N6VVhLeTEzd2VTclFEWEFaQkY0VmZ5djhHZzFKeU9ENURFdzQ?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:54:46+00:00",
-   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
-   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
+   "published": "2026-11-16T13:48:31+00:00",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
    "category": "Ukraine / Russia",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yWU92TlhWYTJNSmRPc1U1cUhXZEZ0S0VzZnN4elVCdlhGWC1KcVdlaFZueDByekdBRS1sY2VIYng4a3hYS2ZCaFFIcWhxSEpXMGZrc2lnTUJnQ2h0WFlSaDZ2bnhqUmYzTG1BbDhvZmdfSTdm0gF6QVVfeXFMUHFJM25PazZPemswSExvMGFkZDdFSnliWTh3R1VDdElTbkF2d2x2ZlM2UlQ1OU5OOVVvWU91bGREaXNaRW4tamNOLURnTUFIQUJBMVp0TDBkaDdUNENDcnhUOHdZWk9Tdy1MeGlWbjJNZjhHMG5aSndhamc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T13:47:23+00:00",
-   "summary": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power CNBC US Moves to Limit Remote Access to Advanced AI Chips Bloomberg.com How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ EXCLUSIVE: Chinese AI f",
-   "body": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power CNBC US Moves to Limit Remote Access to Advanced AI Chips Bloomberg.com How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs Reuters It’s not just an affair. Nvidia’s bigger issue could be chip smuggling. The Washington Post",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
     "Russia",
-    "United States",
-    "China"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -659,22 +1211,6 @@
     "Iran"
    ],
    "image": "https://s.france24.com/media/display/10f9a716-e1c2-11f1-b72e-3f371022a770/w:1024/p:16x9/000-B8V38KJ.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlTSmtsWjdYMVdaaFVoZm1OXzlKSXMyd0ZmZnZYdEZBTnBHQ1c3OXpid1dnZl85M2xuUUE2dC1oWnM1cFctY1d2dUhOQWx6WmNBMXg0TVY3LTRySlFkcVRKckl3UnFZcEVzTDVtX2JYellUQ29hWk9DMGFpaUFocXZkYWVJZXVGd0U4eDJaZmd2S21nZVktNzBhNWdETWlCaDVxcDZibDM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:46:24+00:00",
-   "summary": "Ukraine war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
-   "body": "Ukraine war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -783,22 +1319,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine’s Ust-Luga strike destroyed five fuel tanks and may have hit a Russian warship and three helicopters. Now pro-war media are spreading claims of a plot to assassinate Zelensky. - Meduza",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOcGtsa21lWGFVd1VENjFFX1dUckQ5UzJfMGQyMGdIendKVjE3OEdYQUlYUXdUdTkxQzBRMl92RWx4SVc5NzYzUzdTVmt0ci1zRFdJZzIyX1lLdGQ1X2pIT0xZUHlLYmRqbnJYSVFyeWZ1ZGR2amRqaU9qUE1iV3FCRExxdE5PdkNWZ0FncFJGMkNCajlLb0dMMDhIclg3OTg5S1dDUkdkNGoxSzUwMkZsMlEwRkJ0RUZYNVVPSGZoQmVzZ1BKcGlnY19MNUpMNjUzTlA0OVRVZFVCWmFtQ1hPeXQzWG04VTN1YUZHcnl4eXJCQ0ZSUkc3QkpZbk1IMmN3YXVPbWwxaXEzOFZxbEEzUGZPN2ZOYlc4Y3NtWUZ5c2VseXVlTV9wYUdILWxBbTFjOTEzNUU5REcxVENzUGczMWhBc9IByAJBVV95cUxQNTNNOW85RnJRMUljc1hOT0trY0RSNWRIX3UtOTQwNTdiLUFudjAwNTBUck44Ty0wRkxram0wZ0tYeHpPN2pRc0R5WGd6RDRUb2ptajZISjlTMl9ibExGelU5dVZadHpmclFyMmZkTnZrdklFS2N6WVk2TFE4YU9ROHNvTkZKTnZnbzMtTEFKUXBBNDF3WnI5Yk1UQ1lkeTJ2dE9pS1hYYTdfZ3Z1N2hIVXVlMm13dmtMd0MwVHB5VzVDRldPZThLb1haM1JyZkpOS1hmXzhRR3g0VXk0ZkNSbHh5VGNOd3Z0X3VUVDdWbl9Odzhwa2pDNm9OOTRQVWpVOVVQdDYtNWVWNnZkSnlVeFZrNk05d1hLRjlQZjJmMExfanNfYnp2YnFxcTVwR2RzaE14ekl0dENiQlBvTEJEc3BtUEhVUjdu?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:34:00+00:00",
-   "summary": "Ukraine’s Ust-Luga strike destroyed five fuel tanks and may have hit a Russian warship and three helicopters. Now pro-war media are spreading claims of a plot to assassinate Zelensky. Meduza",
-   "body": "Ukraine’s Ust-Luga strike destroyed five fuel tanks and may have hit a Russian warship and three helicopters. Now pro-war media are spreading claims of a plot to assassinate Zelensky. Meduza",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Beyond the Horizon: Searching for Kenya’s elusive black leopard",
    "link": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
    "source": "Al Jazeera",
@@ -876,75 +1396,14 @@
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQmRmVFdYUktaS0MtczRTcVNrMUF5cVE3R3haUUFjX0pMOTJRQ194LVNwN294WTdrT3RkS29zcjdTeTU3VXN3MDc2cDluU2hoTU81RDM2R1JqZTRlSmRmbnI4V29yLTJtNGVmcUQyVmMwa3VZTm9fbkJILTNMWEZWVVhTdHY1VnZmdDlRQy14QTM1bnF0eVFPYUlxTHBLYnVoaUo4dEVaU1ZXMmNTb2ZOcV9zOG1GRElwUG9NMnpsVlJzM0pON1ZwRHpSQ2U4OTFCdnE0eDVoeFU0eTNvQ21CNmZDeFZ0enZuUGJmYjh5Sk1nWFBFY05IcUZ4eGpRNXF1aXNvRnJMcHo?oc=5",
    "source": "Google News",
    "published": "2026-11-16T13:20:48+00:00",
-   "summary": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture Yahoo Sports Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season ESPN NFL Network: Patriots QB Drake Maye could miss rest of 2026 season NF",
-   "body": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture Yahoo Sports Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season ESPN NFL Network: Patriots QB Drake Maye could miss rest of 2026 season NFL.com Patriots’ Drake Maye expected to miss extended time with serious ankle injury: Source The New York Times From torn ACLs to a headbutted wall, the worst self-inflicted NFL celebration injuries in history Fox News",
+   "summary": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture Yahoo Sports Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season ESPN Mike Vrabel comments on if sack that injured Drake Maye was illegal Y",
+   "body": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture Yahoo Sports Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season ESPN Mike Vrabel comments on if sack that injured Drake Maye was illegal Yahoo Sports NFL Network: Patriots QB Drake Maye could miss rest of 2026 season NFL.com Patriots’ Drake Maye expected to miss extended time with serious ankle injury: Source - The Athletic The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:20:35+00:00",
-   "summary": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say Reuters",
-   "body": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:17:37+00:00",
-   "summary": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine The Washington Post",
-   "body": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine The Washington Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdDVjdG43S25jU3lBN2tLQUt2YzZoNWJzZE14b0U0OHRKdHlYTzMzcUJwZU4zR3Jua3gwR1pYVjVEcmg0UEp1dmFfOXZUc281ZXdBNWhjR2VmQ0JaTFpSWHFWeXVoWmhCNDlzeDBfQXVmNW5mSmVIVFZ4THBCZ1AxcC1fZjdFX01QS1JUazYxcGFJRmw1Z3k5eVJn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:16:41+00:00",
-   "summary": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Yahoo",
-   "body": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
-   "link": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
-   "source": "The Guardian",
-   "published": "2026-11-16T13:14:58+00:00",
-   "summary": "PM’s spokesperson calls message, read out by convicted rapist’s wife on their YouTube channel, ‘clearly appalling’ The Ministry of Justice has launched an investigation into whether Russell Brand has broken prison rules after the jailed comedian shared a message claiming he is no",
-   "body": "PM’s spokesperson calls message, read out by convicted rapist’s wife on their YouTube channel, ‘clearly appalling’ The Ministry of Justice has launched an investigation into whether Russell Brand has broken prison rules after the jailed comedian shared a message claiming he is not guilty of sexual offences just days after his conviction . Brand’s wife, Laura Brand, read a message from her rapist husband in a video uploaded to their YouTube channel in which he claimed: “I am not guilty of the offences I have been jailed for.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/d57aa2b8f95231e7400a5ffa8a372cc6c25e1437/416_0_2740_2192/master/2740.jpg?width=140&quality=85&auto=format&fit=max&s=65114feb61b760d58310a6ec0f8b299d",
    "lang": "en"
   },
   {
@@ -974,6 +1433,22 @@
    "is_war": false,
    "countries": [],
    "image": "https://s.france24.com/media/display/00ce694e-e1b8-11f1-9399-5f54d898a954/w:1024/p:16x9/EN-20261116-111124-111306-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T13:12:00+00:00",
+   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1022,6 +1497,19 @@
    "lang": "en"
   },
   {
+   "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker - 9to5Mac",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnRqZU5TVmlIWmRTYXJQbGFHVGlMR2FQbko4SkU4RVh6R3ZJczk0N2RCUmdHV2RqbzVqblZ2eE9ZX3ZRRGljMDNTX20yUFJKT2xiU1o0QTg2WWg0NVdXQVgzbHJjUXM1U0hZZ1pwM3ZvaW5kTHRJdi1yQUQ2dGZLd1dINDRkeE5POVpwcG1QSWlzSUJkOVVwTlJ0QW1tN3pVVTE4MA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T13:02:00+00:00",
+   "summary": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker 9to5Mac The iPhone 20 Pro might be Apple’s least interesting release for the 20th anniversary of the iPhone PhoneArena iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor MacRumors iPhone 20 Pro will res",
+   "body": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker 9to5Mac The iPhone 20 Pro might be Apple’s least interesting release for the 20th anniversary of the iPhone PhoneArena iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor MacRumors iPhone 20 Pro will resemble a more rounded iPhone Air AppleInsider iPhone 20 Pro Redesign 2027: 8 Rumors Ranked by Evidence Memeburn",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "မင်းအောင်လှိုင်ကို ခုံရုံးပို့ပြီး ထောင်ချဖို့ အာဆီယံကို တိုက်တွန်း",
    "link": "https://burma.irrawaddy.com/video/2026/11/16/417669.html",
    "source": "Irrawaddy Burmese",
@@ -1035,12 +1523,12 @@
    "lang": "my"
   },
   {
-   "title": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History - Engadget",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmtQVXVnUEM3cEhsVkdTQXM2dk5MaTk5R3U5ODcyeGdOeU5OS01qUE90N2FIcFBoYjV4VWVvSWpvampNRjd6LTJiOVVQb1FlWUpDb0N0VWVSVWVfUTVUTm1aVUZsYmNLYS0zNnNUNE5zWkFWR0tyWkdTejlSUUNlNUZXWll4ZjdXcXVsRnFuWGdDcDF3ZXJsOEs4UnA0dw?oc=5",
+   "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 - Push Square",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHhiSUNmTWtqQVg5dXNuaEFTb3BUMkxpZklwU1d5Z1k4ZE1icGI1dVdRRUtheTBycEpKMEdVTXhGaE9kSkV3VlVCdkpmTThNZlNUc0I3eTU0UXdsYkp3VUxQNXplWFNxZnhwRnRXX0MxbnZEbVZZald4M2E2VWJseEJqZDIyZE9hbGh1eGhvVUt6WG5tSnJ0bEZBd0ZteGNSZXRpR0ZOOGRzWXJLWGxtWW50WGFoNnVpZ0JaZQ?oc=5",
    "source": "Google News",
    "published": "2026-11-16T13:00:00+00:00",
-   "summary": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History Engadget",
-   "body": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History Engadget",
+   "summary": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 Push Square PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect Mashable PlayStation Announces New Black Friday Deals On Hardware Polygon.com PlayStation DualSense Edge Controller J",
+   "body": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 Push Square PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect Mashable PlayStation Announces New Black Friday Deals On Hardware Polygon.com PlayStation DualSense Edge Controller Just Got a Secret Early Black Friday Price Cut as Sony Slashes It to Its Lowest Price Gizmodo PlayStation slashes prices on rare Collector’s Editions for Black Friday GAMINGbible",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1048,12 +1536,12 @@
    "lang": "en"
   },
   {
-   "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 - Push Square",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHhiSUNmTWtqQVg5dXNuaEFTb3BUMkxpZklwU1d5Z1k4ZE1icGI1dVdRRUtheTBycEpKMEdVTXhGaE9kSkV3VlVCdkpmTThNZlNUc0I3eTU0UXdsYkp3VUxQNXplWFNxZnhwRnRXX0MxbnZEbVZZald4M2E2VWJseEJqZDIyZE9hbGh1eGhvVUt6WG5tSnJ0bEZBd0ZteGNSZXRpR0ZOOGRzWXJLWGxtWW50WGFoNnVpZ0JaZQ?oc=5",
+   "title": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History - Engadget",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmtQVXVnUEM3cEhsVkdTQXM2dk5MaTk5R3U5ODcyeGdOeU5OS01qUE90N2FIcFBoYjV4VWVvSWpvampNRjd6LTJiOVVQb1FlWUpDb0N0VWVSVWVfUTVUTm1aVUZsYmNLYS0zNnNUNE5zWkFWR0tyWkdTejlSUUNlNUZXWll4ZjdXcXVsRnFuWGdDcDF3ZXJsOEs4UnA0dw?oc=5",
    "source": "Google News",
    "published": "2026-11-16T13:00:00+00:00",
-   "summary": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 Push Square PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect Mashable PlayStation Announces New Black Friday Deals On Hardware Polygon.com Sony has announced a major Black Friday",
-   "body": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 Push Square PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect Mashable PlayStation Announces New Black Friday Deals On Hardware Polygon.com Sony has announced a major Black Friday sale on the PlayStation Store. GameGPU PlayStation DualSense Edge Controller Just Got a Secret Early Black Friday Price Cut as Sony Slashes It to Its Lowest Price Gizmodo",
+   "summary": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History Engadget",
+   "body": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History Engadget",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1169,34 +1657,6 @@
    "lang": "en"
   },
   {
-   "title": "S&P 500, Nasdaq futures fall ahead of Nvidia earnings, Anthropic IPO",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T12:46:06+00:00",
-   "summary": "S&P 500, Nasdaq futures fall ahead of Nvidia earnings, Anthropic IPO Reuters Stock futures slide as Nvidia leads AI stocks lower: Live updates CNBC US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO Bloomberg Stock market today: Dow, S&P 500, Nasdaq slip ahead of pi",
-   "body": "S&P 500, Nasdaq futures fall ahead of Nvidia earnings, Anthropic IPO Reuters Stock futures slide as Nvidia leads AI stocks lower: Live updates CNBC US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO Bloomberg Stock market today: Dow, S&P 500, Nasdaq slip ahead of pivotal week for AI Yahoo Finance Stocks decline on tech sell-off as concerns over the Nvidia fallout persist AP News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Grammy Nominations 2027: See the Full List Here - Pitchfork",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdF95b0llbjlPN3ZiaGpHbjJBTTU3QnAxZ003ZkFaSXg0WmxNOFdnUnhORjczVTlxQ000YWpnWnVFeE1QaWFjM2d4NG43cGgxS3J3THN2YmtPU25udEEtWjQtbHVoaUc5QjYwem51UFN4Y0VXY2JubEFHQUJERUl0cQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T12:45:22+00:00",
-   "summary": "Grammy Nominations 2027: See the Full List Here Pitchfork Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Grammys 2027: the nominations in all the major categories The Guardian Grammy Nominations 2027: The Complete List (Updating Live) Variety",
-   "body": "Grammy Nominations 2027: See the Full List Here Pitchfork Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Grammys 2027: the nominations in all the major categories The Guardian Grammy Nominations 2027: The Complete List (Updating Live) Variety Noah Kahan, Taylor Swift, and more earn 2027 Grammy nominations. See the list. The Boston Globe",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
    "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
    "source": "The Guardian",
@@ -1240,7 +1700,7 @@
    "countries": [
     "United States"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X.jpg",
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
    "lang": "en"
   },
   {
@@ -1302,17 +1762,16 @@
    "lang": "en"
   },
   {
-   "title": "Russia faces largest Ukrainian drone attack of war as 1,336 drones are intercepted - Ynetnews",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVQUp0UEgxUU5SS3ktc2xTdXRXQjlhX19ZQ3g3ck02VlA4Z2hsQ0NUOVNkOFFITGVWUWppc0tRTlUxTE0xNmswbFBMMlVUdENYcm8wR2NTRQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T12:29:56+00:00",
-   "summary": "Russia faces largest Ukrainian drone attack of war as 1,336 drones are intercepted Ynetnews",
-   "body": "Russia faces largest Ukrainian drone attack of war as 1,336 drones are intercepted Ynetnews",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Fewer students are traveling from abroad to study at US universities, report shows - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXJEYVVTZEhLOWtoWDhvYTkxZVBoLTVWSTl5R0M2OGF4eHdMSE5pckE4T1ZIVFJwcndwR25icEJySmhzdFpfUU9BUmJ5MXh4YVprYS1CSVBJS3poaHhuTGUtdE1ISFhWMTRfUE9PU3RBTzI0Q2w0QzdrTHVrMmMwV3lFbzlrN0gtNFVEN2RMb1ROUV9pcVNQNk9IQkVYVFU5VmNvWElrdjJ1ODN1a2wzVTVRVQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T12:32:00+00:00",
+   "summary": "Fewer students are traveling from abroad to study at US universities, report shows AP News International Students Are Turning Away From U.S. Universities The New York Times Trump immigration moves deter foreign students Politico International student enrollment drops sharply, put",
+   "body": "Fewer students are traveling from abroad to study at US universities, report shows AP News International Students Are Turning Away From U.S. Universities The New York Times Trump immigration moves deter foreign students Politico International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy CNBC Number of new international college students in the U.S. drops 18 percent The Washington Post",
+   "category": "USA / Americas",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1347,16 +1806,19 @@
    "lang": "en"
   },
   {
-   "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T12:20:49+00:00",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4318/live/458f6840-e1c1-11f1-99b6-a35a62fa4264.jpg",
+   "title": "Ukraine Targeted Moscow in Largest Single Attack of War – Sobyanin - Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsT2M2ZnlnTlFvVG9lejR3Ri1OQm11R1NiUDVSTjI2ZHhfdTFnY2hIYmdoQXcySVE1aS1UNk5YMkoxcm5VTUE1OWhCdw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T12:20:09+00:00",
+   "summary": "Ukraine Targeted Moscow in Largest Single Attack of War – Sobyanin Kyiv Post",
+   "body": "Ukraine Targeted Moscow in Largest Single Attack of War – Sobyanin Kyiv Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1364,8 +1826,8 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2JlT3ROaWpMRlBDN2Q2MzJfVWZDYTZJT3RlaG5iblpaS2JBQm40eWh0c0dENmh3U2k3QWlzNzBxME1UNW51NGxYUkh0VHBWUnFMYl93b2h3bXJBbmtPSGxWSjVGWHRlbHcyZGpFQ1FmWWs3eFNzTWNleXVLckp3UlVIaFFJZG8?oc=5",
    "source": "Google News",
    "published": "2026-11-16T12:20:00+00:00",
-   "summary": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety Willie Geist Announces Departure From MS NOW for Expanded Role at TODAY TODAY.com ‘Morning Joe’ co-anchor Willie Geist is leaving MS NOW Los Angeles Times Willie Geist T",
-   "body": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety Willie Geist Announces Departure From MS NOW for Expanded Role at TODAY TODAY.com ‘Morning Joe’ co-anchor Willie Geist is leaving MS NOW Los Angeles Times Willie Geist To Depart MS NOW’s ‘Morning Joe,’ Will Expand NBC News Role And Continue To Host ‘Sunday Today’ Deadline Willie Geist to Exit MS NOW’s ‘Morning Joe’ for Expanded Role at NBC’s ‘Today’ Show The Hollywood Reporter",
+   "summary": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety ‘Morning Joe’ co-anchor Willie Geist is leaving MS NOW Los Angeles Times Willie Geist Announces Departure From MS NOW for Expanded Role at TODAY TODAY.com ‘Today’ star W",
+   "body": "Willie Geist Will Exit MS NOW’s ‘Morning Joe’ After Nearly 20 Years for Expanded Role at NBC’s ‘Today’ Variety ‘Morning Joe’ co-anchor Willie Geist is leaving MS NOW Los Angeles Times Willie Geist Announces Departure From MS NOW for Expanded Role at TODAY TODAY.com ‘Today’ star Willie Geist announces major new career move: ‘Bittersweet goodbye’ Page Six Willie Geist leaving ‘Morning Joe’ The Hill",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1373,12 +1835,12 @@
    "lang": "en"
   },
   {
-   "title": "What to know about measles outbreaks as the US faces losing its elimination status - WCVB",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1MzMXQ5a2tJY1NxZWJDUUlvQ05RaWhVeTE3bncxSHROVnptOF9ILU52YVdRdVByekw1elZ3aU1tLUtGZHplcTVtcTV0aGlFQVBQcXlKSzlGRnBkZERZc2c0LThYc2g1d0V4Q1JVd3ozVHRqTGdmbmZITUVvZlpxX25adw?oc=5",
+   "title": "What to know about measles outbreaks as the US faces losing its elimination status - KCCI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM19seS1EaS02UGV5M01sa1R2SmxjMEE2YWNjTmNCOG5sMDYwRVlKV3A5OGo5WVZaTHdORHEyT2tCLUpvNHdSV3F2WFNUeGpGYm9BX2xLeWdzWll1a3A3czlPMTdNQmlpd081cTZla3lJWU1TRmVSRWJlUWRvcjhmaE1LOA?oc=5",
    "source": "Google News",
    "published": "2026-11-16T12:19:00+00:00",
-   "summary": "What to know about measles outbreaks as the US faces losing its elimination status WCVB See more headlines & perspectives on Google News",
-   "body": "What to know about measles outbreaks as the US faces losing its elimination status WCVB See more headlines & perspectives on Google News",
+   "summary": "What to know about measles outbreaks as the US faces losing its elimination status KCCI See more headlines & perspectives on Google News",
+   "body": "What to know about measles outbreaks as the US faces losing its elimination status KCCI See more headlines & perspectives on Google News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1419,353 +1881,15 @@
    "lang": "en"
   },
   {
-   "title": "Francophonie summit avoids 'major disaster' after clash over leadership",
-   "link": "https://www.france24.com/en/video/20261116-francophonie-summit-avoids-major-disaster-after-clash-over-leadership",
-   "source": "France 24",
-   "published": "2026-11-16T12:13:08+00:00",
-   "summary": "A summit of French-speaking nations attended by France's Emmanuel Macron postponed the election of a new chief Monday after a row between African neighbours the Democratic Republic of Congo and Rwanda. The postponement appears to have staved off a threatened walkout by DR Congo, ",
-   "body": "A summit of French-speaking nations attended by France's Emmanuel Macron postponed the election of a new chief Monday after a row between African neighbours the Democratic Republic of Congo and Rwanda. The postponement appears to have staved off a threatened walkout by DR Congo, avoiding what would have been a \"major disaster\", says France 24's Philip Turle.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/782d9d64-e1b5-11f1-8ca5-f71d22e7fea9/w:1024/p:16x9/EN-20261116-101822-102325-CS-01.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "What is the International Organisation of la Francophonie?",
-   "link": "https://www.france24.com/en/video/20261116-what-is-the-international-organisation-of-la-francophonie",
-   "source": "France 24",
-   "published": "2026-11-16T12:11:02+00:00",
-   "summary": "With the 20th Francophonie Summit underway in Phnom Penh, Cambodia, all eyes are on the International Organisation of la Francophonie (OIF). But what is the OIF? Resembling the Commonwealth, this post-colonial bloc unites around 90 nations, from 53 full members to friendly states",
-   "body": "With the 20th Francophonie Summit underway in Phnom Penh, Cambodia, all eyes are on the International Organisation of la Francophonie (OIF). But what is the OIF? Resembling the Commonwealth, this post-colonial bloc unites around 90 nations, from 53 full members to friendly states drawn by political and economic ties. Liza Kaminov breaks down what the organisation is all about.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/8f62fdcc-e1af-11f1-8023-29048b396e03/w:1024/p:16x9/EN-20261116-103901-104055-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Convicted Nemtsov Killers Secretly Freed Under Guise of Ukraine War Service – Proekt - The Moscow Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3pGMUpoTzVKQk5aQ0NFSThnYWdFdmM5dk11ZXhnWGxjNlVXUzFZaHNfMms5bG1yNXB4aFRxWlY4NlRWaTk2SjZiWWRjM2lZVjVPUE5SUW5QOG01TlpNVWlodXV3VkpvWVZTMU5FY0g3ZERNSXJybkJPUHFZUDlkMmZoenJFVnl1SlpwNkFEV19Ic1hKNUFpdi1yVmFTanFrYVY0TFlNQUQ3cEhvRUFfUjBveXJlM0tUU0wxWm1hZWZ0bklHRFBRR213WQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T12:10:39+00:00",
-   "summary": "Convicted Nemtsov Killers Secretly Freed Under Guise of Ukraine War Service – Proekt The Moscow Times",
-   "body": "Convicted Nemtsov Killers Secretly Freed Under Guise of Ukraine War Service – Proekt The Moscow Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5",
+   "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5",
    "source": "Google News",
-   "published": "2026-11-16T12:10:18+00:00",
-   "summary": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return Yahoo Finance Jensen Huang discusses comeback as Nvidia CEO with allies Financial Times Why neoclouds like CoreWeave probably want to see Jensen Huang return to Nvidia Yahoo Finance Nearly a fift",
-   "body": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return Yahoo Finance Jensen Huang discusses comeback as Nvidia CEO with allies Financial Times Why neoclouds like CoreWeave probably want to see Jensen Huang return to Nvidia Yahoo Finance Nearly a fifth of the S&P 500 is tied to three men with no clear successors The Washington Post The Campaign to Bring Back Jensen Huang as Nvidia CEO WSJ",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Germany to join other EU states in announcing Rwanda deportation hub",
-   "link": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-16T12:10:00+00:00",
-   "summary": "The move follows approval of EU regulations that ease deportations and allow hubs to be set up outside the bloc. A similar scheme by the UK government fell apart over legal issues.",
-   "body": "The move follows approval of EU regulations that ease deportations and allow hubs to be set up outside the bloc. A similar scheme by the UK government fell apart over legal issues.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Germany",
-    "European Union"
-   ],
-   "image": "https://static.dw.com/image/73146230_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Tickets for Disney's D23 Asia event in Singapore go on sale from Nov 24, prices start at S$69",
-   "link": "https://www.channelnewsasia.com/entertainment/d23-asia-singapore-2027-tickets-prices-klook-presale-6554076",
-   "source": "CNA World",
-   "published": "2026-11-16T12:09:00+08:00",
-   "summary": "The three-day Disney fan event will take place at Marina Bay Sands from Jun 25 to 27, 2027, with previews, live entertainment, merchandise and experiences spanning Marvel, Pixar, Star Wars and more.",
-   "body": "The three-day Disney fan event will take place at Marina Bay Sands from Jun 25 to 27, 2027, with previews, live entertainment, merchandise and experiences spanning Marvel, Pixar, Star Wars and more.",
-   "category": "Global",
+   "published": "2026-11-16T12:15:00+00:00",
+   "summary": "At least 17 people killed in 2 mass shootings on the same day in South Africa AP News See more headlines & perspectives on Google News",
+   "body": "At least 17 people killed in 2 mass shootings on the same day in South Africa AP News See more headlines & perspectives on Google News",
+   "category": "Africa",
    "is_war": false,
    "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--uPmciIF8--/c_crop,h_562,w_1000,x_0,y_1/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2_26_D23_33353.jpg?itok=msQLVPwT",
-   "lang": "en"
-  },
-  {
-   "title": "Ukrainian Drones Hunt Two Russian Soldiers—Then Discover Something Bigger Hidden in the Ruins - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMlZLenljSUQwV1JYUlZWcXFMcGphcHA3WkIzMk5pdGVSQ2JrVDQ2VHk3cl9lT0lzMlUyV1hCb01pTHg1TXJyMVVKMzA1dW9OT0ZFOEZveVZ0RjJUS3NOaHJqa2FhY0hNV0cyeGlaMmpxaUlNSGZkZzdrb2tMak9ka3pRM1BudVlJa1BManlCSnA1X1NyWmRYRG01UmdoWk1kZ0pzaGt6eVZLUGlEbGxzMk9xR1E4UXdJRnNtU0FFd01FRGRoakhmN2dBWGdBNngyZ0RLYjN6bw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T12:08:30+00:00",
-   "summary": "Ukrainian Drones Hunt Two Russian Soldiers—Then Discover Something Bigger Hidden in the Ruins UNITED24 Media",
-   "body": "Ukrainian Drones Hunt Two Russian Soldiers—Then Discover Something Bigger Hidden in the Ruins UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "3 Palestinians killed in Israeli attacks across Gaza - Muslim Network TV",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0UwM2FsWm5PWnk5cFJoVF9jVVI2UUhwdW0zZWlpcDRuWm9UOTRzUlgzSHNoaG9XWFIwZzBlUkNrMzRqSFV2b3Nyc0R3VmFfWjFvZXowNHljRW84OEp6ZlppenY1Tm5FVEg3NFBUM29VTjlnYkxDcS0wdVlhU1FLS0x6N0NEM09HRXc?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-16T12:06:09+00:00",
-   "summary": "3 Palestinians killed in Israeli attacks across Gaza Muslim Network TV",
-   "body": "3 Palestinians killed in Israeli attacks across Gaza Muslim Network TV",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Zelensky says Starlink restrictions aiding Russian energy strikes",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGs3OHZDODVJUUN3ekRTWjBESlJzSVhRNmVzaUZWT3pnY0tsU1dZZ1dORjdTblRDNUJnRE8yX1N2dW5iLTM1cVF2ZTY1b2tqNHZpQzZjblhSRFA2VWJEQWJ3OUVLbThUX3ZOeE81T3NoZEo5cVhtUDZGRGFjeUlVeTR3QkpZRzdjbl9MalpibHFTN1V5NVRLb3JWSDdxRkRpVHJ2UjkwS2l5cjE0MmZaV1h0Q0pyX3NseVE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T12:04:31+00:00",
-   "summary": "Ukraine war latest: Zelensky says Starlink restrictions aiding Russian energy strikes The Independent",
-   "body": "Ukraine war latest: Zelensky says Starlink restrictions aiding Russian energy strikes The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Gérard Depardieu: Cinema icon drops appeal and apologises to victims",
-   "link": "https://www.france24.com/en/video/20261116-g%C3%A9rard-depardieu-cinema-icon-drops-appeal-and-apologises-to-victims",
-   "source": "France 24",
-   "published": "2026-11-16T12:02:43+00:00",
-   "summary": "French actor Gérard Depardieu on Monday withdrew his appeal against his 2025 conviction for sexual assault, acknowledging his guilt and apologising to his victims. He has also been indicted in a separate case following a rape complaint, with a decision expected on November 26.",
-   "body": "French actor Gérard Depardieu on Monday withdrew his appeal against his 2025 conviction for sexual assault, acknowledging his guilt and apologising to his victims. He has also been indicted in a separate case following a rape complaint, with a decision expected on November 26.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France",
-    "European Union"
-   ],
-   "image": "https://s.france24.com/media/display/e0dc6042-e1b6-11f1-8d98-3f371022a770/w:1024/p:16x9/EN-Depardieu-thumbnail.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Before air travel meltdown, federal transportation officials received years of questions and warnings, records show",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcGpwWVlsRVdYY09VMHgzV3lzUS0yMVNMVmR3Q1h4dFFYSmx4Vlo2R204VXN0blVUYzNzMlI2OW1XUFZkWS1rbEYycU5CR29id1RFeFNKdjVjQVFna3lqV2xUTzJIWUhWUDYycWh0cw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T12:02:32+00:00",
-   "summary": "Before air travel meltdown, federal transportation officials received years of questions and warnings, records show CBS News How Could a Router Lead to a Nationwide Ground Stop? The New York Times Monday air travel faces key test after FAA ground stop as possible cause emerges Fo",
-   "body": "Before air travel meltdown, federal transportation officials received years of questions and warnings, records show CBS News How Could a Router Lead to a Nationwide Ground Stop? The New York Times Monday air travel faces key test after FAA ground stop as possible cause emerges Fox Business L3Harris: The Defense Contractor at the Center of the Ground Stop WSJ 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense 9News",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The Kremlin’s demands for ending the war reach far beyond Ukraine — from NATO to Moldova to Finland - Meduza",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZldrT1R5bnE5UEtRRGJnZFVEV001VkZvS2pYS3NRR3hoYnJIXzdnbkNNOWxQSlpXZUJvaE9lSWsyNUo2RElrTVJvZ2hMMmFmYVNSR3p2cE0wRlJjZGZYUzNaM3pYbk01eklNTXpaNUMzcnFBUVFyZGdnTk5Sdi1HdFZJNE5EVmFoeXduTUNSbVg5d01jTlpGeUdtTmMyRlBIS1BaT2VFTHYwY2ZIZUJqN2JwYWFUa0NuUTBpZWZuRzAwSmg2ajFfaC1PV0xqRllZdkcw0gHYAUFVX3lxTE1MT0lUQW45YXZnWS1neE9kSmltcEFqZUZqMlI0d1lCblROY0JUU1ZvVVRSOEZRQ3dZNU45S0hDdnZ1cERuU0R2c3NBcDlZSDBOb0Z2Z0ZZTFJOcUVlTzlhRk94c1FsQjJlZ2lTQXlCWVN6Tk5TYk1NUG5sWHd1N2FqRWIwOEtWYlVxY2F0XzBuU1VyTFNDVTlGVjdfOXhrR1VNMnotNTJYZHZYRGRMQTdLRmgzVnJIbEl6a0pqZDZKR0ZDOW05Uk5KNkE5bW5JSjZrZUdQWWhsVg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T12:01:00+00:00",
-   "summary": "The Kremlin’s demands for ending the war reach far beyond Ukraine — from NATO to Moldova to Finland Meduza",
-   "body": "The Kremlin’s demands for ending the war reach far beyond Ukraine — from NATO to Moldova to Finland Meduza",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
-   "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
-   "source": "The Guardian",
-   "published": "2026-11-16T12:00:59+00:00",
-   "summary": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustain",
-   "body": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustainable development . The 41-year-old was living in Dera Ghazi Khan , a city in south-western Punjab, when floods devastated provinces across Pakistan . Climate change made the monsoon rainfall that caused the floods more intense . Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Pakistan"
-   ],
-   "image": "https://i.guim.co.uk/img/media/03df085cea47ca4df586d23872f7663cb2637137/320_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=be9cf0165f7c1947cf79549d974164c6",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore’s Communicable Diseases Agency named WHO collaborating centre for infection prevention and control",
-   "link": "https://www.channelnewsasia.com/singapore/cda-who-collaborating-centre-infection-prevention-ong-ye-kung-6554061",
-   "source": "CNA World",
-   "published": "2026-11-16T12:00:00+08:00",
-   "summary": "The designation will see Singapore share its expertise in infection prevention with other countries, while drawing on global expertise to strengthen practices at home.",
-   "body": "The designation will see Singapore share its expertise in infection prevention with other countries, while drawing on global expertise to strengthen practices at home.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--orZF-0vh--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/dsc_5896.jpg?itok=npFNKBOT",
-   "lang": "en"
-  },
-  {
-   "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
-   "link": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-   "source": "NYT World",
-   "published": "2026-11-16T11:51:31+00:00",
-   "summary": "The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.",
-   "body": "The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "South Korea"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine unleashes record drone barrage on Russia, damages Crimea bridge - The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlJ4RTF0RHhJb19pZC1SSS04NkVicW84Vl9hZGl2cXpWbnM1ZHc0RjQxOHNnRXpGeXl6dTk4V01kUThxMTJMMk83RVZ0eWY3Z2wxS1FEb0o1eERfSWZOZ2VIdkV6NUo3QVMzcVlGQmdqMFRNRHlMdzdiZ29uUkViZDlRU3dZZDhnREE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:50:53+00:00",
-   "summary": "Ukraine unleashes record drone barrage on Russia, damages Crimea bridge The Jerusalem Post",
-   "body": "Ukraine unleashes record drone barrage on Russia, damages Crimea bridge The Jerusalem Post",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Heavy traffic expected at Singapore-Malaysia land checkpoints during year-end school holidays",
-   "link": "https://www.channelnewsasia.com/singapore/heavy-traffic-woodlands-tuas-checkpoints-malaysia-year-end-school-holidays-6554001",
-   "source": "CNA World",
-   "published": "2026-11-16T11:44:36+08:00",
-   "summary": "The Immigration and Checkpoints Authority (ICA) encourages travellers to consider travelling during non-peak hours, such as early morning and late evenings.",
-   "body": "The Immigration and Checkpoints Authority (ICA) encourages travellers to consider travelling during non-peak hours, such as early morning and late evenings.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--LsOyZr7t--/c_crop,h_900,w_1600,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/05/30/sya_0602.jpeg?itok=VozaiwX7",
-   "lang": "en"
-  },
-  {
-   "title": "Trump, Putin and Xi to Meet Without Set Agenda as Ukraine War Likely Off Table - Kyiv Post",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqa2ZkcWQ2V1B2UGtOS0FJc2xHclgxRTFrNDMxd3hZR3ZoWWZOQjlZTDNNenlQc1EzMzFpM0E0ZjRuUDM0NlNrLXB0bw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:44:09+00:00",
-   "summary": "Trump, Putin and Xi to Meet Without Set Agenda as Ukraine War Likely Off Table Kyiv Post",
-   "body": "Trump, Putin and Xi to Meet Without Set Agenda as Ukraine War Likely Off Table Kyiv Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
-   "link": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
-   "source": "France 24",
-   "published": "2026-11-16T11:43:54+00:00",
-   "summary": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday, following a suspected sabotage attack on an Estonian drone maker that Tallinn blamed on Moscow.",
-   "body": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday, following a suspected sabotage attack on an Estonian drone maker that Tallinn blamed on Moscow.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://s.france24.com/media/display/b67152b6-e1ae-11f1-9ccf-5f54d898a954/w:1024/p:16x9/EN-20261116-103646-103821-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Macron to inaugurate Cambodia temple after 14-year restoration",
-   "link": "https://www.france24.com/en/video/20261116-macron-to-inaugurate-cambodia-temple-after-14-year-restoration",
-   "source": "France 24",
-   "published": "2026-11-16T11:41:02+00:00",
-   "summary": "In Cambodia, French President Emmanuel Macron and King Norodom Sihamoni are expected to inaugurate a newly restored temple at the world-famous Angkor archaeological site on Monday. After 14 years of painstaking work, the Western Mebon, a thousand-year-old monument, has been resto",
-   "body": "In Cambodia, French President Emmanuel Macron and King Norodom Sihamoni are expected to inaugurate a newly restored temple at the world-famous Angkor archaeological site on Monday. After 14 years of painstaking work, the Western Mebon, a thousand-year-old monument, has been restored to its former glory. A monumental restoration effort, bringing together Cambodian and French expertise. Alix Ostian, Aruna Popuri and Constantin Simon report.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/438af9a6-e1ad-11f1-a126-3f371022a770/w:1024/p:16x9/EN-20261116-102356-102604-CS-01.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-   "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T11:40:25+00:00",
-   "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-   "body": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine May Have Hit Russia’s Giant Il-76 Military Transport Plane in Airfield Strike - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd01TaTQ3TUV4dUdMZjg0aUtJUS1TZDlqdkROZnZMUEJuN0lfV19mRFA4MXNfRXZ3aXhyZUdpU3NxUGl3NHdvSm1OSHhVcXYyRm8yRi15YTNZSGhHTFZaNWhhd2J5MXc1Z1lVa3VPekRpdHdmT2lwZDl4bllzWlB3WndNbTJKMXhxQ05SNmdEOFctaWc0cmtDTnotUnY5SnVpdVA5RkpKZEc4SGZOdHByRlJKaE5jbURndk5JQzVWZFBtVUNGOXVLZG52RQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:38:23+00:00",
-   "summary": "Ukraine May Have Hit Russia’s Giant Il-76 Military Transport Plane in Airfield Strike UNITED24 Media",
-   "body": "Ukraine May Have Hit Russia’s Giant Il-76 Military Transport Plane in Airfield Strike UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US-Israel-Iran War Latest News: Israel Says It Struck ‘Hezbollah Weapons Shipment’ on Syria-Lebanon Border Amid Escalating Regional Tensions - The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaU1Va2VKWER4dGdPZkRrT013ZFc1V3Y4cVRBQmhXRWxSTm84V1NzbHVmUDh6RmtvaGtLTE1iOHlQNHlEMW9xa2NQQk00cjQ0NWYtaUd5VEpXckR3QldVbDNIandSQVlJQVlsOU5wbXpvcm94dWpmZHJuZkdWMXRfREt3aFg0ZkpWTU85N1BxV1dJb3owdzB5UHF2N0Z3ZWY0cjB4SF9qd2RVcDVyZzEwa3VHUVpnVHNOWUJRQUpoLWtmUUpTX3JjSC1zVGlfSW5LT0V1NV9Dc0pKOG4ybjF0cnlndVM5VnFNX2ZvcXN3dzdHQjNWcDc0a2tMMXFRZm5QNnVWNkduajR6Q1c1N1Aw0gGUAkFVX3lxTE12bGRyaTY3ZFlJaEJ4Z295ZWMyYzBpOGc1dUo3YVc4ak9LLUptSUpVZ3NRT2pIU25YLWJLOEpSVExrbHpEVmlzczZOWHBlVTVPbTczZWlrV3ZnVWtDbjVGT2dKejVMb3lTTExVaUdkeUliQXlEc3VjVEFCa2xpQ2t0VUVHdXJRNmFScTJEcmtWZmlnc2VqNExnWDFJMzZ0MnFVRFNhT3V0YjBaNkJGWXEtUG4yZlV1Q3RaeXd1b0RRY1IzNFR1VklQM0FoNlJrcTNxSGtHVlU5VFk3UGpuakxyVEVfR2NXYlcyRnBKMzdzMUZwb1lyVFFjNF93Z1VpYlBKSU5Sdm54T1lnWHE0MnhZRG5wVA?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-16T11:38:15+00:00",
-   "summary": "US-Israel-Iran War Latest News: Israel Says It Struck ‘Hezbollah Weapons Shipment’ on Syria-Lebanon Border Amid Escalating Regional Tensions The Sunday Guardian",
-   "body": "US-Israel-Iran War Latest News: Israel Says It Struck ‘Hezbollah Weapons Shipment’ on Syria-Lebanon Border Amid Escalating Regional Tensions The Sunday Guardian",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Iran",
-    "Syria"
-   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1783,128 +1907,6 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Yemen's Houthis advance on Aden as govt bolsters defences",
-   "link": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
-   "source": "France 24",
-   "published": "2026-11-16T11:36:38+00:00",
-   "summary": "Yemen's Houthis were advancing on the interim seat of the internationally recognised government on Sunday, positioned just 60 kilometres from Aden, according to military sources, as government forces rushed to defend the city.",
-   "body": "Yemen's Houthis were advancing on the interim seat of the internationally recognised government on Sunday, positioned just 60 kilometres from Aden, according to military sources, as government forces rushed to defend the city.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen"
-   ],
-   "image": "https://s.france24.com/media/display/278b0c00-e1ad-11f1-b157-695cb59fade5/w:1024/p:16x9/EN-20261116-101050-101247-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Mystery as Putin’s loyalist MPs ‘told to prepare for end of war & sudden return of ALL Russian troops from frontline’ - The Sun",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10NVdNNWhlYXZkVWFSVVBMMThSVENqb05HajN4ZHRzVW5LWERmU1ptLUxxN3FPSVJFdTVOTGVSMzkzVUpoamV5eDB1S29YR0taTFZBZE8zWHFyN2JTNTZ4QUVqVjRuS3Y2WEpLdWQzVWhxY3M?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:35:00+00:00",
-   "summary": "Mystery as Putin’s loyalist MPs ‘told to prepare for end of war & sudden return of ALL Russian troops from frontline’ The Sun",
-   "body": "Mystery as Putin’s loyalist MPs ‘told to prepare for end of war & sudden return of ALL Russian troops from frontline’ The Sun",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGItdEl6UENBRVRlZjlDODRFSlFLeHN0VGVmUEhrRERyLWlkeWFNWmlVbTdaUjIyX3RaX2pvZm1WSnB2MWduOEpnT1hXcXhFUGhXaDlUczNqc0JHZHhDY05rNkF4em92M0xuRXJzV2VUNThtUVNQdWFpdF95STlEVnltUDBBT0hFUnk2VHVyVzFfSm85ZHFONjNVNWw4OWlNaURJRkNCTTRSRXVJV1Z1c3U5cTBja3o1a0lhZmRUNVpzdEhobGo1TVhR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:33:34+00:00",
-   "summary": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs UNITED24 Media",
-   "body": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "This deal could actually mean an end to the war in Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUljUk9vQ1RnVlZzajJiT3NrMjhYREJZRVBLekZBUHZqdWZtOFhqejdicnJDdEJsZ0J2cHNUSGhlclZ2NFVGSnEzTEVyVkpNd1JhWm56TDBEcE1MRnZUdXc5RzZXWEQ4N3duQ2k0WjJVbFoycEdGM2QzVEpkbzBIOHRmZ1V0aTdpMVpHV1J6X1U1WXpH?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T11:31:00+00:00",
-   "summary": "This deal could actually mean an end to the war in Ukraine The Telegraph",
-   "body": "This deal could actually mean an end to the war in Ukraine The Telegraph",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Klopp says Infantino worse than Blatter",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T11:27:08+00:00",
-   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-   "body": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "What to Know About Trump’s Trip to Asia",
-   "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-   "source": "NYT World",
-   "published": "2026-11-16T11:26:59+00:00",
-   "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-   "body": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Canary Islands struggle to cope after massive influx of migrants",
-   "link": "https://www.france24.com/en/video/20261116-canary-islands-struggle-to-cope-after-massive-influx-of-migrants",
-   "source": "France 24",
-   "published": "2026-11-16T11:24:10+00:00",
-   "summary": "Nearly 2,200 migrants have reached Spain’s Canary Islands by boat over the past two days, Spain’s maritime rescue service said on Sunday. The archipelago off northwest Africa is a major entry point for migrants, mainly from West Africa, attempting the dangerous Atlantic crossing ",
-   "body": "Nearly 2,200 migrants have reached Spain’s Canary Islands by boat over the past two days, Spain’s maritime rescue service said on Sunday. The archipelago off northwest Africa is a major entry point for migrants, mainly from West Africa, attempting the dangerous Atlantic crossing in makeshift boats.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/eb4e0198-e1ac-11f1-b099-3f371022a770/w:1024/p:16x9/EN-20261116-100814-101013-CS-01.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
-   "link": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T11:23:43+00:00",
-   "summary": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
-   "body": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-15-at-2.46.34-PM-1794743437.png?resize=800%2C600",
-   "lang": "en"
   },
   {
    "title": "စီးပွားရေးမြို့တော် ရန်ကုန်တွင် ကျားဖြန့်တရုတ်များ၏ အခြေချလုပ်ငန်းများ ဖမ်းမိ",
@@ -2172,19 +2174,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/50B-1-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "အာဆီယံမှာ ပြဿဒါးကြုံနေတဲ့ မင်းအောင်လှိုင်",
-   "link": "https://burma.irrawaddy.com/video/2026/11/14/417624.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-14T04:53:09+00:00",
-   "summary": "EditorialTalk",
-   "body": "ဧရာဝတီ၊ နိုဝင်ဘာ ၁၄၊ ၂၀၂၆\n\n#မြန်မာ #ဧရာဝတီ #အာဆီယံ #ပြဿဒါး #မင်းအောင်လှိုင် #EditorialTalk #WhatsHappensInMyanmar\n\nဧရာဝတီရဲ့ YouTube membership ကို Support လုပ်ချင်တဲ့ပရိတ်သတ်တွေအနေနဲ့ ဒီ https://www.youtube.com/@irrawaddynews1993 Link လေးမှ join button ကို နှိပ်ပြီးတော့ ပါဝင်နိုင်ပါပြီ။\n\nစာဖတ်သူများ၏ ပံ့ပိုးမှုက ပြည်သူများ လိုအပ်နေသည့် အကောင်းဆုံး နှင့် အရည်အသွေးမီ သတင်းများကို ဖော်ပြစေနိုင်မည်။\n\nSupport The Irrawaddy: https://www.irrawaddy.com/donation",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/EDT-NOV13-Design-900x506.jpg",
    "lang": "my"
   }
  ]
