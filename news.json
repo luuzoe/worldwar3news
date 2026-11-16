@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:38:58.558917+00:00",
- "updated_yangon": "2026-11-17 05:08",
+ "updated": "2026-11-16T23:38:52.523315+00:00",
+ "updated_yangon": "2026-11-17 06:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,8 +10,8 @@
   "DW",
   "France 24",
   "Google News",
-  "Google News · China Taiwan",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,46 +21,38 @@
  "countries": [
   [
    "United States",
-   40
+   46
   ],
   [
    "Ukraine",
-   21
+   23
   ],
   [
    "Russia",
-   17
+   20
+  ],
+  [
+   "European Union",
+   9
+  ],
+  [
+   "France",
+   9
   ],
   [
    "Myanmar",
    8
   ],
   [
-   "Iran",
-   7
-  ],
-  [
-   "European Union",
-   7
-  ],
-  [
    "China",
    6
-  ],
-  [
-   "France",
-   5
   ],
   [
    "United Kingdom",
    5
   ],
   [
-   "Israel",
-   5
-  ],
-  [
-   "Palestine",
+   "Iran",
    4
   ],
   [
@@ -72,11 +64,15 @@
    3
   ],
   [
+   "Israel",
+   3
+  ],
+  [
    "Australia",
    2
   ],
   [
-   "Japan",
+   "Palestine",
    2
   ],
   [
@@ -84,15 +80,19 @@
    2
   ],
   [
+   "Syria",
+   1
+  ],
+  [
    "India",
    1
   ],
   [
-   "Pakistan",
+   "Japan",
    1
   ],
   [
-   "Lebanon",
+   "Pakistan",
    1
   ]
  ],
@@ -109,21 +109,22 @@
  ],
  "war_count": 24,
  "languages": {
-  "my": 24,
-  "en": 116
+  "my": 25,
+  "en": 115
  },
  "items": [
   {
-   "title": "Singapore studying details of new US export controls on advanced semiconductors",
+   "title": "Singapore assessing impact of new US chip export controls aimed at curbing China’s access",
    "link": "https://www.channelnewsasia.com/singapore/us-export-controls-ai-chips-6556831",
    "source": "CNA World",
    "published": "2026-11-17T06:19:00+08:00",
    "summary": "Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.",
    "body": "Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.",
-   "category": "USA / Americas",
+   "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
-    "United States"
+    "United States",
+    "China"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--UMbkwYpV--/c_crop,h_448,w_796,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-03-18T044900Z_1_LYNXMPEM2H061_RTROPTP_3_NVIDIA-CHINA.JPG?itok=Y7Kh2G4c",
    "lang": "en"
@@ -158,7 +159,7 @@
    "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
    "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-16T22:38:53+00:00",
+   "published": "2026-11-16T23:38:34+00:00",
    "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Myanmar",
@@ -168,6 +169,307 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T23:32:56+00:00",
+   "summary": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
+   "body": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:23:57+00:00",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
+   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "lang": "en"
+  },
+  {
+   "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:21:46+00:00",
+   "summary": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan The federal government is backpedaling on its plan to cut backpacker numbers following criticism from regional stakeholder groups who rely on the",
+   "body": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan The federal government is backpedaling on its plan to cut backpacker numbers following criticism from regional stakeholder groups who rely on the travellers for labour. The Albanese government is expected on Tuesday to lift the proposed cap on third-year working holiday visas, boost regional work requirements and delay the start of a new ballot system. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0dd2eeed61e663cd491ab565b48f5786bc1785f5/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d34543da9d0df423ee29cd8d14222b99",
+   "lang": "en"
+  },
+  {
+   "title": "Five EU countries announce migrant deportation centre in Rwanda",
+   "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T23:20:45+00:00",
+   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "body": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Band of baby sea turtles swims out to sea after historic California nesting",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:19:11+00:00",
+   "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group ",
+   "body": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have been released into the Pacific. The eggs incubated at the Aquarium of the Pacific in Long Beach after the historic discovery of two separate nests in September at southern California beaches, a shift likely driven by this year’s El Niño conditions. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/4861d06aace7cca64a1450b2e61fb90d86e1600a/243_0_2431_1945/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=12b0764cfaa73133ca97044e6dbc0d99",
+   "lang": "en"
+  },
+  {
+   "title": "Police raid fails to locate three stolen Melbourne Cup trophies worth $1m each",
+   "link": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:15:07+00:00",
+   "summary": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourse Get our breaking news email , free app or daily news podcast A police raid has failed to locate three Melbourne Cup trophies belonging",
+   "body": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourse Get our breaking news email , free app or daily news podcast A police raid has failed to locate three Melbourne Cup trophies belonging to champion horse Makybe Diva after a smash and grab at Flemington racecourse. A Mount Waverley home in Melbourne’s east was raided on Monday evening after thieves smashed their way into a glass display case at the racecourse about 6.30am. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/e49f8bece2e7b1d85728a821a413a8a1eab7bcad/432_0_5917_4734/master/5917.jpg?width=140&quality=85&auto=format&fit=max&s=928772887ec5806a71f3328e0b226f1f",
+   "lang": "en"
+  },
+  {
+   "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:14:41+00:00",
+   "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released. On Monday, the Lafourche parish coroner’s office in Louisiana determined",
+   "body": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released. On Monday, the Lafourche parish coroner’s office in Louisiana determined that Kenan “Ken” Urker, 34, died from accidental polysubstance drug toxicity on 1 October, USA Today reports . The coroner’s office also said the case is complete. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3a6a4f29c56b4a191ed3da3414876b4445abca78/167_0_1665_1333/master/1665.jpg?width=140&quality=85&auto=format&fit=max&s=172f19b59b58970c9485d703ea95104f",
+   "lang": "en"
+  },
+  {
+   "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T23:14:35+00:00",
+   "summary": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade CNBC Stocks slide to kick off major week for Wall Street CNN Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold — Live Updates WSJ Stock market today: Dow and S&P 500 dro",
+   "body": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade CNBC Stocks slide to kick off major week for Wall Street CNN Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold — Live Updates WSJ Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms Yahoo Finance Stock market drops amid continued Nvidia fallout The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "United Airlines reports widespread tech outage affecting departures",
+   "link": "https://www.dw.com/en/united-airlines-reports-widespread-tech-outage-affecting-departures/a-79964387?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T23:13:00+00:00",
+   "summary": "Hundreds of departing flights have been delayed. The issue comes just days after an air traffic control outage caused major disruption to US airlines.",
+   "body": "Hundreds of departing flights have been delayed. The issue comes just days after an air traffic control outage caused major disruption to US airlines.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79964386_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "မန္တလေးမြို့ခံတွေကို ပြည်သူ့စစ်တပ်ဖွဲ့ဝင်တချို့ ဖမ်းဆီးငွေညှစ်နေ",
+   "link": "https://rfa.org/burmese/news/2026/11/16/mandalay-residents-fear-militias/",
+   "source": "RFA Burmese",
+   "published": "2026-11-16T23:01:38+00:00",
+   "summary": "မန္တလေးမြို့မှာ ဖမ်းဆီးငွေတောင်းတာတွေ မကြာခဏ ကြားနေရတယ်လို့ မြို့ခံတွေက ပြောပါတယ်။",
+   "body": "စစ်တပ်လက်အောက်ခံ ပြည်သူ့စစ်အဖွဲ့ဝင်တွေဟာ မန္တလေးမြို့ပေါ်မှာ အုပ်ချုပ်ရေးအဖွဲ့တွေ၊ ရဲတွေနဲ့ ပူးပေါင်းပြီး လုံခြုံရေးအကြောင်းပြချက်နဲ့ လမ်းသွားလမ်းလာတွေကို စစ်ဆေးတာ၊ လူငယ်တွေကို ဖမ်းဆီးငွေတောင်းတာ၊ စစ်မှုထမ်းဖို့ အတင်းအကျပ်ဖမ်းဆီးတာတွေ ရှိနေတယ်လို့ မြို့ခံတွေက ပြောပါတယ်။\n\nမြို့တွင်း လမ်းမတွေပေါ်မှာတင်မကဘဲ ပွဲလမ်းသဘင်တွေမှာပါ ဒီလိုဖြစ်ရပ်တွေ ကြုံနေရတယ်လို့ လုံခြုံရေးအရ အမည်မဖော်လိုတဲ့ မန္တလေးမြို့ခံတစ်ဦးက RFA ကို ပြောပါတယ်။\n\n“ပွဲခင်းဧရိယာကနေ အပြင်ထွက်သွားတယ်။ သူတို့ အပြင်စည်း ရှိတယ်။ အပြင်စည်းလုံခြုံရေး ဧရိယာထဲ ရောက်လို့ ပွဲခင်းနဲ့လွတ်တဲ့၊ မှောင်တဲ့နေရာသွားရင် သူတို့ မသင်္ကာလို့ ဖမ်းခေါ်သွားပြီးတော့ ငွေညှစ်ရင်ညှစ်၊ မညှစ်ရင် စစ်တပ် စစ်မှုထမ်းထဲ ပို့ပေါ့ဗျာ အဲဒီလိုမျိုးတွေပေါ့”\n\nပြည်သူ့စစ်အဖွဲ့ဝင်တွေနဲ့ နီးစပ်သူတွေရဲ့ ပြောပြချက်အရ စစ်တပ်လက်အောက်ခံ ပြည်သူ့စစ်တွေဟာ ရှေ့တန်းလိုက်ရတာတွေ ရှိသလို တချို့ကတော့ မန္တလေးမြို့တွင်းလုံခြုံရေး တာဝန်ယူရသူတွေလည်း ရှိပါတယ်။\n\nပြီးခဲ့တဲ့ စက်တင်ဘာလက မန္တလေးမြို့မှာ လူငယ်တစ်ဦးကို ဖမ်းဆီးပြီး မိသားစုဆီက ကျပ်သိန်း ၃၅၀ တောင်းခံခဲ့သူ နှစ်ဦးကို တခြား ပြည်သူ့စစ်အဖွဲ့တဖွဲ့က ဖမ်းဆီးလိုက်တယ်လို့ မိသားစုနဲ့ နီးစပ်သူတစ်ဦးက RFA ကို ပြောပါတယ်။\n\nအမရပူရမြို့နယ်မှာနေတဲ့ အဲဒီလူငယ်ကို ပြည်ကြီးတံခွန်မြို့နယ် အခြေစိုက် ပြည်သူ့စစ် အဖွဲ့ဝင်တွေက ဖမ်းဆီးခဲ့တာပါ။\n\nအဖမ်းခံရသူရဲ့ မိသားစုက တခြားပြည်သူ့စစ်အဖွဲ့ တစ်ဖွဲ့ကို အကူအညီတောင်းပြီး ငွေတောင်းသူတွေကို ဖမ်းဆီးခဲ့တာလို့ မိသားစုနဲ့ နီးစပ်သူတစ်ဦးက ပြောပါတယ်။\n\n“ဒီဘက်က ကလေးမိဘတွေကို ပိုက်ဆံသွားပေးခိုင်းတာ သိန်း ၃၅၀။ သွားပေးခိုင်းရင်းနဲ့ နောက်ကနေ နောက်ယောင်ခံ လိုက်သွားပြီးတော့မှ အဲဒီ ငွေလက်ခံတဲ့နှစ်ယောက်ကို ဖမ်းလိုက်တာ။ အဲဒီကို လိုက်တဲ့ ပျူစောထီးအဖွဲ့တွေကို ဖမ်းခိုင်းလိုက်တာ။ ငွေတွေနဲ့အတူ လက်ပူးလက်ကြပ်မိလို့ အမရပူရပျူစောထီးအဖွဲ့က မြစ်ငယ်ရဲစခန်းမှာ အမှုဖွင့်ထားတာ”\n\nမန္တလေးမြို့မှာ ဒီလို ဖမ်းဆီးငွေတောင်းတာတွေ မကြာခဏ ကြားနေရတယ်လို့ မြို့ခံတွေက ပြောပါတယ်။\n\nဒီလိုလုပ်ရပ်တွေကြောင့် မြို့ခံတွေ လုံခြုံရေး စိုးရိမ်နေရတယ်လို့ လုံခြုံရေးအရ အမည်မဖော်လိုတဲ့ မန္တလေးမြို့ခံတစ်ဦးက RFA ကို ပြောပါတယ်။\n\n“အခုလုပ်နေတဲ့ ပျူတွေတို့၊ ဇိုးတွေတို့၊ ဒါတွေက သက်သက်မဲ့ကို လူပါးဝဖို့ ဖွဲ့ထားတယ်လို့ ပြောလို့ရတယ်။ လုံးဝ မရှိစေချင်တာ။ လူဟာ လူလူချင်းပဲ ဂုဏ်သိက္ခာရှိရှိပဲ နေထိုင်သွားချင်တာ။ မလိုလားအပ်တဲ့ လူမိုက်တွေ စိုးမိုးထားတာတော့ ကြားခံတစ်ခုအနေနဲ့ မရှိသင့်ဘူးလို့ ပြောချင်ပါတယ်”\n\nပြည်သူ့စစ်အဖွဲ့ဝင်တချို့ရဲ့ လုပ်ရပ်တွေကို စစ်တပ်ထောက်ခံသူတွေကပါ ဝေဖန်နေကြပါတယ်။\n\nစစ်တပ်ထောက်ခံသူ ပေါက်ကိုယ်တော်က မန္တလေးမြို့မှာ ပြည်သူ့စစ်အမည်ခံပြီး လက်နက်ကိုင် ရမ်းကားတာတွေကို ဝေဖန်ထားသလို ရဲမွန်တောင် ပြည်သူ့စစ် ခေါင်းဆောင်လုပ်ခဲ့ဖူးသူ၊ လက်ရှိ ချမ်းမြသာစည်မြို့နယ် တိုင်းကိုယ်စားလှယ် တရားလွှတ်တော်ရှေ့နေ ဦးနေမျိုးကျော်ကလည်း ဒီလို ပြည်သူ့စစ်အမည်ခံပြီး ကိုယ်ကျိုးရှာနေသူတွေကို စုံစမ်းဖော်ထုတ် အရေးယူသင့်တယ်လို့ သူ့ရဲ့ TikTok လူမှုကွန်ရက်ကနေ ပြောဆိုထားပါတယ်။\n\n“မန္တလေးမြို့ပေါ်မှာ ပြည်သူ့စစ်အပိုင်းနှစ်ပိုင်းရှိတယ်။ တိုက်ခိုက်ရေးလုပ်နေတဲ့ ပြည်သူ့စစ်ဆိုတာနဲ့ မြို့ပေါ်မှာ လုံခြုံရေးယူနေတဲ့ပြည်သူ့စစ်ဆိုပြီး နှစ်ပိုင်းရှိတယ်”\n\nပြည်သူ့စစ်အဖွဲ့ဝင်တချို့ရဲ့ ဒီလိုလုပ်ရပ်တွေကို အာဏာပိုင်တွေဆီ တိုင်ပေမဲ့ ထိထိရောက်ရောက် အရေးယူတာ မရှိဘူးလို့ မန္တလေးမြို့က ရှေ့နေတစ်ဦးက RFA ကို ပြောပါတယ်။\n\n“လုပ်ပေါက်တွေက ဥပဒေလက်လွတ် လုပ်နေတာ။ အဲတော့ တိုင်လည်း အုပ်ချုပ်ရေးအဖွဲ့က လျစ်လျူရှုထားသလို ဖြစ်နေတာဗျ။ သမ္မတက ဥပဒေနဲ့ အညီ လုပ်တယ်လို့သာ ပြောနေတာ သူ့လူတွေက တစ်ခုမှ မလုပ်ဘူးဗျ။ လျှောက်လုပ်နေတာ။ တိုင်တဲ့သူကိုတောင် သူတို့က ရန်လုပ်ချင်သေးတာဗျ။ ခြိမ်းခြောက်မှုလို့ ပြောမလား ဟိုကောင် (ပြည်သူ့စစ်) တွေကို အားပေးအားမြှောက်လုပ်တယ်လို့ပဲ ကျွန်တော် ပြောချင်တယ်။ ကျွန်တော် နှစ်ခါ သုံးခါရှိပြီ တိုင်တာ၊ မရှင်းပေးဘူးဗျ”\n\nပြီးခဲ့တဲ့ ခြောက်လအတွင်း ပြည်သူ့စစ်အဖွဲ့ဝင်တွေရဲ့ လုပ်ရပ်တွေနဲ့ ပတ်သက်တဲ့ အမှုနှစ်ခုကို အာဏာပိုင်အဆင့်ဆင့်ကို တိုင်ကြားခဲ့ပေမဲ့ အရေးယူတာ မရှိသေးဘူးလို့ သူက ဆက်ပြောပါတယ်။\n\nဒီစွပ်စွဲချက်တွေနဲ့ပတ်သက်ပြီး မန္တလေးမြို့က ပြည်သူ့စစ်အဖွဲ့တွေကို RFA က ဆက်သွယ်မေးမြန်းနိုင်ခြင်း မရှိသေးပါဘူး။ စစ်တပ်ခန့်အစိုးရရဲ့ ပြောရေးဆိုခွင့်ရှိသူ မန္တလေးတိုင်း၊ စီမံကိန်းစီးပွားရေး နှင့်ဘဏ္ဍာရေးဝန်ကြီး ဦးသိန်းဌေးကို RFA က တယ်လီဖုန်းနဲ့ ဆက်သွယ်မေးမြန်းခဲ့ပေမဲ့လည်း လက်ခံဖြေဆိုတာ မရှိပါဘူး။\n\nအာဏာပိုင်တွေအနေနဲ့ အခုလို ပြည်သူ့စစ်အဖွဲ့ဝင်တချို့ရဲ့ ဖမ်းဆီးခြိမ်းခြောက်မှုတွေကို ထိထိရောက်ရောက် အရေးယူပေးစေချင်တယ်လို့ မန္တလေးမြို့ခံတွေက ပြောကြပါတယ်။",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://www.rfa.org/resizer/v2/2FZED7ADRBBRHJQ33GOBMCBBME.jpg?auth=9a0fda35187bd7912b50965939b2916fcb3ae17ff440bac07f6290d7a4d0b88c&smart=true&width=1500",
+   "lang": "my"
+  },
+  {
+   "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
+   "source": "The Guardian",
+   "published": "2026-11-16T23:01:28+00:00",
+   "summary": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic ",
+   "body": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic that pro athletes from around the world are making last-minute journeys to experience them. Big wave surfers converged on northern California this Saturday to ride massive, storm-driven swells at the famously dangerous Mavericks Beach, an event some surf fans called “Monster Day.” Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d83994c899f06f6b3c9e6f669ab4527ee48b60fb/158_0_1583_1267/master/1583.jpg?width=140&quality=85&auto=format&fit=max&s=da0d5e6b0e06bec73903d85fa994f040",
+   "lang": "en"
+  },
+  {
+   "title": "EU agrees to resurrect cooperation deal with Syria",
+   "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T23:00:36+00:00",
+   "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+   "body": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Syria",
+    "European Union"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "California braces for more towering waves as powerful storms approach",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+   "source": "The Guardian",
+   "published": "2026-11-16T22:59:52+00:00",
+   "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-ft swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weathe",
+   "body": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-ft swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50ft to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south of San Francisco. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/8422e8cb3514c2947140cef811c4eb5a72ac4a10/0_0_8192_5464/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0e4f64bf587d1caf0cde36c74e6a7ca",
+   "lang": "en"
+  },
+  {
+   "title": "Nationwide outage impacts Chase banking online and at some branches",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:43:49+00:00",
+   "summary": "Nationwide outage impacts Chase banking online and at some branches NBC News Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports The New York Times Customers report outages at Chase, Bank of America and Wells Fargo BBC A technical issue at JPMorgan Chase tr",
+   "body": "Nationwide outage impacts Chase banking online and at some branches NBC News Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports The New York Times Customers report outages at Chase, Bank of America and Wells Fargo BBC A technical issue at JPMorgan Chase triggers online banking delays for major US banks AP News Some US banks reporting technical issues, delays with online transactions ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Chase outage disrupts online banking and Zelle payments in United States",
+   "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+   "source": "France 24",
+   "published": "2026-11-16T22:40:51+00:00",
+   "summary": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and ",
+   "body": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money transfer app Zelle.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/0b34ad5e-e20c-11f1-ace7-3f371022a770/w:1024/p:16x9/AP26320767161907.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+   "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T22:40:07+00:00",
+   "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+   "body": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250718__678C3LY__v2__HighRes__UsIsraelDiplomacyDefense-1794860753.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion | Why the Ukraine War Is Working for Putin - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXFQZkNUaEZXZlVWY3JuX05XSWpzOHFtQ3hrZE92WFdqYTg3ZVhFejJwT01BbUlmZ25xMmg2MmQtSE53NER1OUluOHR5cllRNTFjZjRQR1BLV3ZmaHMwNUtqRjdtbG5xRXdoMWM4Q3F1TkpZQWRFNl91d0g0OXVPRU9rVQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T22:38:00+00:00",
+   "summary": "Opinion | Why the Ukraine War Is Working for Putin WSJ",
+   "body": "Opinion | Why the Ukraine War Is Working for Putin WSJ",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+   "link": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+   "source": "The Guardian",
+   "published": "2026-11-16T22:30:55+00:00",
+   "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund guaranteed jobs support for young people to offset a radical c",
+   "body": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund guaranteed jobs support for young people to offset a radical cut in benefits. In a watershed report on Britain’s youth jobs crisis , Alan Milburn, the Tony Blair-era health secretary, said the country was at a “fork in the road” after a surge in the number of young people not in education, employment or training (Neet) to almost a million. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a86708b5e4debf383f4b49fc72cc08d1c91043ac/869_0_4344_3475/master/4344.jpg?width=140&quality=85&auto=format&fit=max&s=aa717b7cb0ab5d88b64ff5552b4978d9",
+   "lang": "en"
+  },
+  {
+   "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:30:11+00:00",
+   "summary": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Opinion | Measles is here. That demands a ‘zero dose.’ The Washington Post More than 100",
+   "body": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Opinion | Measles is here. That demands a ‘zero dose.’ The Washington Post More than 100 pregnant women confirmed to have measles, new report finds NBC News New Public Health Alerts report spotlights how pregnant women with measles and their babies fare CIDRAP",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261116-la-francophonie-waning-in-global-influence-linguistic-institutions-becoming-less-important",
+   "source": "France 24",
+   "published": "2026-11-16T22:29:45+00:00",
+   "summary": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom Penh for all to see has exposed an unexpe",
+   "body": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom Penh for all to see has exposed an unexpected shift in their relations. Clark says that \"nobody expected Rwanda to back down in this way\" following President Macron's request that Paul Kagame withdraw Louise Mushikiwabo's candidacy for a third term.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/2c7ebce6-e209-11f1-a83b-3f371022a770/w:1024/p:16x9/EN-20261116-181805-182744-CS.jpg",
+   "lang": "en"
   },
   {
    "title": "မန္တလေးက ဖမ်းဆီးခြိမ်းခြောက်မှုတွေအကြောင်းနဲ့ နိုဝင်ဘာ ၁၇ RFA အထူးအစီအစဥ်",
@@ -181,6 +483,21 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/3K43AOMKTJB5TO5FHUYYQG2PQU.jpg?auth=ceff79716414123b82deb8b8c38b97e473edecfb3af3ebe19ddc4e9cd4504b1b&smart=true&width=1500",
    "lang": "my"
+  },
+  {
+   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:25:20+00:00",
+   "summary": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Grammy Nominations: Raye Leads, Olivia Rodrigo, Ella Langley, Rosalia Variety WA folk-rock hero gets four nominations for 2027 Grammy Awards The Seattle Times Women lead Grammy nominations as Noa",
+   "body": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Grammy Nominations: Raye Leads, Olivia Rodrigo, Ella Langley, Rosalia Variety WA folk-rock hero gets four nominations for 2027 Grammy Awards The Seattle Times Women lead Grammy nominations as Noah Kahan gets snubbed The Washington Post Grammy nominations snub Harry Styles and hip-hop, while surprises include Dolly Parton AP News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
@@ -202,42 +519,12 @@
    "link": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
    "source": "The Guardian",
    "published": "2026-11-16T22:21:10+00:00",
-   "summary": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Jim Chalmers has promised next month’s mid-year budget update “will cut enough, but not too much”, as he flagged “substantial sa",
-   "body": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Jim Chalmers has promised next month’s mid-year budget update “will cut enough, but not too much”, as he flagged “substantial savings” to help in the fight against inflation. The treasurer has come under growing pressure to sell the government’s economic strategy after five interest rate hikes , and amid rising unemployment and cost of living pressures. Continue reading...",
+   "summary": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Get our breaking news email , free app or daily news podcast Jim Chalmers has promised next month’s mid-year budget update “will",
+   "body": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Get our breaking news email , free app or daily news podcast Jim Chalmers has promised next month’s mid-year budget update “will cut enough, but not too much”, as he flagged “substantial savings” to help in the fight against inflation. The treasurer has come under growing pressure to sell the government’s economic strategy after five interest rate hikes , and amid rising unemployment and cost-of-living pressures. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/0f10e0a245449557757da5e695d170a3df66fbde/1109_0_5520_4419/master/5520.jpg?width=140&quality=85&auto=format&fit=max&s=0dbbb8a06c2f036cc766fecb07638969",
-   "lang": "en"
-  },
-  {
-   "title": "United Airlines says it is working to fix ‘widespread’ system outage",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-   "source": "The Guardian",
-   "published": "2026-11-16T22:19:48+00:00",
-   "summary": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights United ⁠Airlines said on ⁠Monday ⁠that it was ​experiencing ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwi",
-   "body": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights United ⁠Airlines said on ⁠Monday ⁠that it was ​experiencing ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We’re ‌aware of the widespread system outage, ‌and our teams are working ​hard to get ⁠things back ​up and ​running ​as soon ​as possible,” ‌United ​said in a post ​on X. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07",
-   "lang": "en"
-  },
-  {
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-16T22:19:14+00:00",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
-   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
    "lang": "en"
   },
   {
@@ -272,29 +559,49 @@
    "lang": "en"
   },
   {
-   "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
-   "source": "The Guardian",
-   "published": "2026-11-16T22:10:51+00:00",
-   "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, a",
-   "body": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, according to the Boston Globe . Only 11 known Pearl Harbor survivors are still living, all of whom are centenarians. Continue reading...",
+   "title": "United Airlines experiencing a widespread system outage, airline says",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdVNQc3RhVm1FaTNNOXdkNXlfaHZ3NE10blRxN215NUNwbW1KdmlqOWRmQlZrY0RtbDJmaC1OeUpVU3ptTDZTWUF6anZMbmRScEd0YTA1NVhIMGNwc01uLXU4ZlhVRGc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:12:23+00:00",
+   "summary": "United Airlines experiencing a widespread system outage, airline says CNN United Halts Flights as It Addresses ‘Widespread System Outage’ The New York Times United Airlines reports system outage affecting departing flights CNBC United Airlines says technology issue affecting depa",
+   "body": "United Airlines experiencing a widespread system outage, airline says CNN United Halts Flights as It Addresses ‘Widespread System Outage’ The New York Times United Airlines reports system outage affecting departing flights CNBC United Airlines says technology issue affecting departing flights Reuters United Airlines has a widespread system outage just days after nationwide ground stop AP News",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://i.guim.co.uk/img/media/ca4a6ad01c461dea796bbceb345f9fb016d6ec74/175_0_2885_2308/master/2885.jpg?width=140&quality=85&auto=format&fit=max&s=7cc6a368ba9616034acdac3312e64696",
+   "image": "",
    "lang": "en"
   },
   {
-   "title": "California braces for more towering waves as powerful storms approach",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
-   "source": "The Guardian",
-   "published": "2026-11-16T22:06:55+00:00",
-   "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weat",
-   "body": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50 to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south of San Francisco. Continue reading...",
-   "category": "Global",
+   "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+   "link": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+   "source": "France 24",
+   "published": "2026-11-16T22:07:47+00:00",
+   "summary": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. FRANCE 24's Sharon Gaffney speaks with A",
+   "body": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. FRANCE 24's Sharon Gaffney speaks with Arthur Holland Michel, journalist and researcher specialising in emerging military technologies.",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/8422e8cb3514c2947140cef811c4eb5a72ac4a10/0_0_8192_5464/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0e4f64bf587d1caf0cde36c74e6a7ca",
+   "countries": [
+    "United States",
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US to curb China's access to AI chips as Trump heads to Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:06:04+00:00",
+   "summary": "US to curb China's access to AI chips as Trump heads to Asia Reuters China confirms Xi-Trump-Putin historic summit. What will be on the agenda? CNBC What Trump, Putin, and Xi Each Want From a Summit Time Magazine How Trump is hoping to use an Asia trip to reassert his authority C",
+   "body": "US to curb China's access to AI chips as Trump heads to Asia Reuters China confirms Xi-Trump-Putin historic summit. What will be on the agenda? CNBC What Trump, Putin, and Xi Each Want From a Summit Time Magazine How Trump is hoping to use an Asia trip to reassert his authority CNN Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting AP News",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -313,18 +620,19 @@
    "lang": "en"
   },
   {
-   "title": "Customers report difficulty accessing online services at major US banks",
-   "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-   "source": "The Guardian",
-   "published": "2026-11-16T22:01:40+00:00",
-   "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a techni",
-   "body": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online. Continue reading...",
+   "title": "Trump says he needs funding for air traffic control after ground stop",
+   "link": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+   "source": "France 24",
+   "published": "2026-11-16T22:01:19+00:00",
+   "summary": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson,",
+   "body": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson, Professor of Computer Science at the University of Illinois. He explains that \"the Republicans have had full control of the House and the Senate since the President came in. They controlled everything. If they needed the money and wanted the money they could have approved the money. The fact that they didn't, in the the different bills that have been passed, suggests that it's more than just money that is going on here\".",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "United States"
+    "United States",
+    "France"
    ],
-   "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242",
+   "image": "https://s.france24.com/media/display/a84d7300-e1fd-11f1-b1a8-29048b396e03/w:1024/p:16x9/EN-20261116-210837-211856-CS.jpg",
    "lang": "en"
   },
   {
@@ -355,21 +663,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--iM3fY--G--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/yishun_nee_soon_zero_waste_hub.png?itok=GQ3j9nfR",
-   "lang": "en"
-  },
-  {
-   "title": "Grammy Awards 2027: The Full List of Nominees",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnlxVDVDdXpNaVFVY25mb3UtNzNkaGFKdm1ZTFUxTms2WXNQOE1KM2xtcGhHMGthR185clhSZVFKSGdWMWs3RjRrbEZLYWFxcHdoSU13WmVzeVFMVFdPWGNTNUcxRlpMb0tzYU84SFVXMG5LNmJUTEFVWUozeEdSZQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T21:42:08+00:00",
-   "summary": "Grammy Awards 2027: The Full List of Nominees The New York Times Grammy Nominations 2027: Raye Leads With 11 Noms as Rosalía, Olivia Rodrigo, Ella Langley and Other Female Artists Dominate Variety Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Time",
-   "body": "Grammy Awards 2027: The Full List of Nominees The New York Times Grammy Nominations 2027: Raye Leads With 11 Noms as Rosalía, Olivia Rodrigo, Ella Langley and Other Female Artists Dominate Variety Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Grammy Awards for Song of the Year: Meet the 2027 Nominees Grammy Women lead Grammy nominations as Noah Kahan gets snubbed The Washington Post",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
    "lang": "en"
   },
   {
@@ -433,15 +726,17 @@
    "lang": "en"
   },
   {
-   "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+   "title": "US must intensify vaccination effort to regain measles-free status lost after 26 years",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmxSQ1dCSWpGRG03d3RnQnBtX0kxUGRvQUtMLU4xN3pHN3NXeDhCSWEtbFBEUW1wQ2k3dTYwZ3ZzVXBpa2VTdENKRzNmM19NbUhBVFd6SmVhMjZiUThOZlZSUWEwSlFVZ3A1SUN2NUt6R0I1NERGU05tYWs3WGpqNzlqV3lpWk00Mk1VUXdfZERycDhXa0IxbTNKS0ZNT1RLUnc?oc=5",
    "source": "Google News",
-   "published": "2026-11-16T21:18:00+00:00",
-   "summary": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade CNBC Stocks slide to kick off major week for Wall Street CNN Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms Yahoo Finance Stoc",
-   "body": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade CNBC Stocks slide to kick off major week for Wall Street CNN Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms Yahoo Finance Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops Reuters Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap Bloomberg.com",
-   "category": "Global",
+   "published": "2026-11-16T21:20:43+00:00",
+   "summary": "US must intensify vaccination effort to regain measles-free status lost after 26 years Reuters What It Took for America to Wipe Out Measles The New York Times What to know about measles outbreaks as the US faces losing its elimination status KOCO US braces for loss of measles eli",
+   "body": "US must intensify vaccination effort to regain measles-free status lost after 26 years Reuters What It Took for America to Wipe Out Measles The New York Times What to know about measles outbreaks as the US faces losing its elimination status KOCO US braces for loss of measles elimination status amid worst outbreak in decades The Hill As the U.S. reportedly loses its measles elimination status, RFK Jr. has some explaining to do MS NOW",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -504,22 +799,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T21:07:23+00:00",
-   "summary": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times New rule aims to close loophole on chip exports NPR Nvidia fallout: Commerce targets loophole for China's data center use CNBC How Jensen Huang Built the Backdoor Route That Keeps Beijin",
-   "body": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times New rule aims to close loophole on chip exports NPR Nvidia fallout: Commerce targets loophole for China's data center use CNBC How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ Trump administration tightens restrictions on flow of AI chips ahead of China trip CNN",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
    "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
    "source": "Al Jazeera",
@@ -578,19 +857,6 @@
    "lang": "en"
   },
   {
-   "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nMnlBZk82U0Q2YmlqRVF2Sm5iM0R6THRrZDBVWkEwVWs5dnVyZEVMRGdwRXFHZXVYQ1RLNkJnd2ktX250V2RWYldkREQtWWhhczgzVFpMX0JJY1l2N1pYNm8yOU44S1JKaE83dDJHcnlyT01IZUo3VVdlQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T20:55:29+00:00",
-   "summary": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times See more headlines & perspectives on Google News",
-   "body": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "November 17 blackout hoax: How a conspiracy theory went viral around the world",
    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
    "source": "France 24",
@@ -619,6 +885,21 @@
     "United States"
    ],
    "image": "https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTV5aF85dWhoWS1PZ0p6SDRiYzZueEdsb3FSc0hZTWp5U1NjNFI0SFVMd0RkZnBZeFFSbW95Tm1mcDR4TWNkTzktYzNRcmpVaHI1YXN0MUpGUVdyLUF0TkQ0QnFYdm9kdE1Gc0NNOEJmdDVnUlFBSGZJOXplOEd4R1NuQmxTZmRaRjhYWGdRUWRZeE5xV1BWS1UtSFdqU3ZtOWxTVTlqam8zZFNicVRN?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T20:47:00+00:00",
+   "summary": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson The Guardian Robert Pattinson Named as the Next James Bond The New York Times A Moody Vampire Makes a Bad James Bond The Atlantic Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Anal",
+   "body": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson The Guardian Robert Pattinson Named as the Next James Bond The New York Times A Moody Vampire Makes a Bad James Bond The Atlantic Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Analysis | We have a new James Bond. But are we happy about it? The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
    "lang": "en"
   },
   {
@@ -659,6 +940,22 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/MZ3ZVMU4ONEYNDJOPFN45ADISE.jpg?auth=a351de583bcdfe795a078c3ca0e50ebae99e551a8cc58ea0696ae339f7ebec7a&smart=true&width=1500",
    "lang": "my"
+  },
+  {
+   "title": "Russia says Ukrainian aerial attack involved more than 1,300 drones - CBC",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZM1JqVDg4emE5NjVVZEdpYnNpV3dfRk1sVGpDVzl3TmtEeE96SnduUUVibTduOEtJWDNKT2tzdXBURmlaTVIzWjg5VnJOZ28yNURTQXgxOW5OcVVyVHRZSjVkNVRRanZ3bGFTOGtnckg0VHI5R280?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T20:39:39+00:00",
+   "summary": "Russia says Ukrainian aerial attack involved more than 1,300 drones CBC",
+   "body": "Russia says Ukrainian aerial attack involved more than 1,300 drones CBC",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "The new faces of the US Congress",
@@ -719,21 +1016,6 @@
    "lang": "en"
   },
   {
-   "title": "Nationwide outage impacts Chase banking online and at some branches",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T20:25:59+00:00",
-   "summary": "Nationwide outage impacts Chase banking online and at some branches NBC News Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports The New York Times Thousands of customers report trouble with online banking services CNN A technical issue at JPMorgan Chase tr",
-   "body": "Nationwide outage impacts Chase banking online and at some branches NBC News Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports The New York Times Thousands of customers report trouble with online banking services CNN A technical issue at JPMorgan Chase triggers online banking delays for major US banks AP News Chase Says Its Outage Wasn't Systemic. Zelle Explains Why Other Banks' Customers Could Still Feel It Inc.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "US envoy Kushner claims progress made towards agreement to end war in Ukraine - The Irish Times",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUZmeFZ6Y1NUMFhRTGxRWlJfTFU5VVZselI2RWJLMklCM01fRXZTZlJHLXN2UUhXS3FhVGRSY045VVVYQTJhcjk2ZEJDaUZQd2xzZUNMMVNUcHFDMzNGczZ5S1J2X1F5R2RMS0tEcC1IcG9fY05aaW5RUElqU0sxa1JBcEVfVGhrcGtiVW5STWRlekFLQm5zOE9zQ2NqcGN1UWs1T2tsQkI?oc=5",
    "source": "Google News · Ukraine",
@@ -750,12 +1032,12 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - CBS17.com",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1NiNVpsckJmeGhRelE2a18tdXVEV3hEa0hDRFhJLUo0bUs2LTRjVFBoUWpvSG9HU05HTnB4VWJFbWNvU1QxSktPeklKM2dJMkFGV3VSSXFPa2x4LUFXekV0T3doUDZBenZabHNhNXlVSVJqOU1OelhZd1l5UXBGNnNPaXF6OE0wUXlYMWtSZ0hVQjAwdWc4ODFMM1NqQ0w0RTJrV2tGa2dFYXFxZlEweDZ4YjZkcnkzMjNBa2VIdXJtcWRDVUFxV0hKLUNlWjNpMUNpc2w4Y9IB3AFBVV95cUxPTHR0eExkbldLNlpOcEVBTTdMRk1UVWN1Tzh0My01b3U2SFg5dEtKWHpEcWdMUjR0ZDdSQ1l3dDlRR0s2VDNkN09BbTdON1p6NU1xR2F5UmE3YjhVNktLWmlWTVR6bmNkYXZSTEdnZERHMy0yQnJ0SzdPel82VTR5QlNmLVVQSGFEOGV5MXhZSXluZzVWSGhUb1loenhPeDQ2TGFINld6TnhjYUJ0bW8wSmxTX3JFSFU0MzdTd0lRRktXb1FSUlhna2RvbmNBRDZKQmRSV3ZDamhveUlz?oc=5",
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - Union-Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUkh5dUJMeVVWMU5hNW5EXzk3djF4R0RyUGVUWG5JbWNLVjlfMmwxbkw0bFptb2FWRlFIOHdwVzlwei1SSU1uVHQ0MVdhZHJaMXlpRGFjUGhxc0p4a2IwZUlPWDMtdzhZc09uR0pQQUhqcHVpSDVfSkJHTkZFR0FBay1sdXhZR2duc01PcDEtNU5iUUhYX3VmVzJDWV91cUpTb251NW5fUDd0bUhiS3daMTdsNzI2YmdwQnFRbFNHdklYWjJhUl9mYzFYWkF6SVh3bGhfQjZsLVYxR0VrOWR5OFhqS1lveHUybzloaFRCR2w1dm1qMXFuaUF4Y00yQTRoR2lCMA?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-16T20:14:40+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin CBS17.com",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin CBS17.com",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -763,7 +1045,7 @@
     "Russia",
     "United States"
    ],
-   "image": "",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -788,8 +1070,8 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbnhJWExFZWtYcnJWYkstZXFIN0VrZEk0bHZ2ZEFiQWl1RDQyQUwzb0N5b0NXSzFrUzFhNjVqWUNlV2tYYVJRdmhXSnVVc082X3JwRW9uOWlKaUk5UlNfMlNCbGtIMTNwd1VGU01oeWJZSmhWODVMTlZyTjVFXzd1alZmeF9BdkN6Z2c?oc=5",
    "source": "Google News",
    "published": "2026-11-16T20:08:09+00:00",
-   "summary": "Challenging Consensus, Scientist Says Photos Show Epstein Was Killed The New York Times Forensic expert says his analysis raises doubts about how Epstein died BBC Jeffrey Epstein's death may not have been suicide, new analysis by leading forensics expert suggests CBS News Epstein",
-   "body": "Challenging Consensus, Scientist Says Photos Show Epstein Was Killed The New York Times Forensic expert says his analysis raises doubts about how Epstein died BBC Jeffrey Epstein's death may not have been suicide, new analysis by leading forensics expert suggests CBS News Epstein may have been killed in his New York cell, says leading forensic expert The Independent Forensic Expert Challenges Suicide Ruling in Epstein Death Newser",
+   "summary": "Challenging Consensus, Scientist Says Photos Show Epstein Was Killed The New York Times ‘More Than Likely a Homicide’: Forensics Expert Concludes Jeffrey Epstein Did Not Die By Suicide Yahoo Forensic expert says his analysis of autopsy photos suggests Epstein was killed BBC Jeffr",
+   "body": "Challenging Consensus, Scientist Says Photos Show Epstein Was Killed The New York Times ‘More Than Likely a Homicide’: Forensics Expert Concludes Jeffrey Epstein Did Not Die By Suicide Yahoo Forensic expert says his analysis of autopsy photos suggests Epstein was killed BBC Jeffrey Epstein's death may not have been suicide, new analysis by leading forensics expert suggests CBS News ‘Zero chance’ Epstein died by suicide, forensic expert says The Times",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -841,36 +1123,6 @@
    "lang": "en"
   },
   {
-   "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVzhPVmQtS1dYd0txaGRUR2hkazl1dXVwVGVUN3ktSmdOdnNLd1Q4WmdFWW9iOE9BdlN6NEhRb0FxOENFdWdsQm9YYVJkcWpvR0QwR0l3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T20:02:56+00:00",
-   "summary": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime' BBC Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety If Robert Pattinson is James Bond, 007 needs to get a little weird NPR All James Bond actors ranked from worst to first as ne",
-   "body": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime' BBC Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety If Robert Pattinson is James Bond, 007 needs to get a little weird NPR All James Bond actors ranked from worst to first as new 007 is revealed USA Today Robert Pattinson Named New James Bond IMDb",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Trump says Putin ‘backing down’ from invasion",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T20:02:56+00:00",
-   "summary": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "body": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "EU nations unveil Rwanda deal for migrant return hub",
    "link": "https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub",
    "source": "France 24",
@@ -916,6 +1168,23 @@
     "United Kingdom"
    ],
    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+   "lang": "en"
+  },
+  {
+   "title": "Trump: Putin is holding back somewhat in Ukraine war, could have been much tougher - Nacionale",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnY5R1VNY01haUhVRzRIRFhOaTJmNzRrRWxhYXYzWjRWOTktbkNJYW9GaXNJdG1hZ1h6UlFxcFNzM0pja2ttTHctR2JJckgxTTI4LXQzMVpseWFhRFFZVjZYNXNuRjhnVW5LVXpzV25GejZPTkZEY3pvZ0w5V3VMVmhxSmJwVnZSZ0J1VGY0V0VIM2h6Y3ZHTjRpclVUbDQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:58:14+00:00",
+   "summary": "Trump: Putin is holding back somewhat in Ukraine war, could have been much tougher Nacionale",
+   "body": "Trump: Putin is holding back somewhat in Ukraine war, could have been much tougher Nacionale",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "",
    "lang": "en"
   },
   {
@@ -1016,6 +1285,19 @@
    "lang": "en"
   },
   {
+   "title": "What we know about what caused the FAA's nationwide ground stop - Axios",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW8xRjJ5aVF4T09CZHdOUjd1eGpPZDY4NHFsLW9FVHc3NXl4M0hLV1dWMGlpeTlseFZzZ2dUUEZWRXF0dUhmaTZwTnVLWjFST3pqdUtmdlduTjZpNGpTLWVSUFR6ZnRFV1REQmF5dTdPMXlUOVBrWE1rNnNEblNFSlhXWQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:32:07+00:00",
+   "summary": "What we know about what caused the FAA's nationwide ground stop Axios Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress The Hill How Could a Router Lead to a Nationwide",
+   "body": "What we know about what caused the FAA's nationwide ground stop Axios Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress The Hill How Could a Router Lead to a Nationwide Ground Stop? The New York Times 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense 9News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Ukraine Just Launched a Massive Airstrike on Kerch Bridge - The National Interest",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHdJc2xsbmJwU2V1QUhEbnQyUU5QSzNjMDY2bG1wU1ZhTWpzTkFIMm9TbnlFYzNZMFhXYjZCR3N1c3BsYXFFVGktUlQ5X1ZOb0hsLTNIMDJlRC1LOUt0NEpSQWE2U0lTYTRiczlCMjd6TUFnVlkwTlhRRzdOVTdIek9zVF8zQTlLR1ZDVGVPOEtFUnlVRGJuYS03bXE?oc=5",
    "source": "Google News · Ukraine",
@@ -1064,11 +1346,13 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweWFpbm9kbmUtMGF4VnhNX1BUZ1FMaFFrSGRWZTNlV0wwTWRnREFkUzhmZm0tQ0ZFUEJWQWZRU0otRnZKQ1pFaDdMaS1EcnFQZjJQTGNZSUc1TW8?oc=5",
    "source": "Google News",
    "published": "2026-11-16T19:30:30+00:00",
-   "summary": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy’s retrial scheduled for March 2027 CNN Date set for second Lindsay Clancy trial in brief but heated hearing NBC Boston Judge sets March date for Lindsay Clancy retrial in the killings",
-   "body": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy’s retrial scheduled for March 2027 CNN Date set for second Lindsay Clancy trial in brief but heated hearing NBC Boston Judge sets March date for Lindsay Clancy retrial in the killings of her three children The Boston Globe Lindsay Clancy to face second trial in deaths of her 3 children WCVB",
+   "summary": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy’s retrial scheduled for March 2027 CNN New trial is set in Lindsay Clancy case over the killing of her 3 children The Washington Post Judge sets March date for Lindsay Clancy retrial ",
+   "body": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy’s retrial scheduled for March 2027 CNN New trial is set in Lindsay Clancy case over the killing of her 3 children The Washington Post Judge sets March date for Lindsay Clancy retrial in the killings of her three children The Boston Globe Date set for second Lindsay Clancy trial in brief but heated hearing NBC Boston",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1089,6 +1373,19 @@
    "lang": "en"
   },
   {
+   "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekpGRmtJNDhnTF9LWWVOdTE3dS1Wd2xHdmFma3dzVGZoQkg3bWJqN2dlYVQySTRoU1V0R3c1OWE4MzA4RVV3cjNfWTh4VTZUS19BS2h5RHQtbHBFd0FhYUtqd2dHTU9JZ0JPVFJQc2RKQlpVVjBtZE5id01qSUY1NEJfQnNvOENOQmpOSVRsbEs4VERmZm9uOUFWQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:26:55+00:00",
+   "summary": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID TechCrunch Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback Bloomberg.com Apple adds face unlock to its foldable iPhone Duo in iOS 27.3 beta Quartz How iPhone Duo’s Unlock With Front Camera Works (",
+   "body": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID TechCrunch Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback Bloomberg.com Apple adds face unlock to its foldable iPhone Duo in iOS 27.3 beta Quartz How iPhone Duo’s Unlock With Front Camera Works (and How It’s Different Than Face ID) PetaPixel Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3 MacRumors",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1101,6 +1398,22 @@
     "European Union"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261116__D7LY8P7__v1__HighRes__AustriaEuPoliticsMigration-1794857577.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "US envoy Kushner says progress made in Ukraine talks",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:21:53+00:00",
+   "summary": "US envoy Kushner says progress made in Ukraine talks Reuters",
+   "body": "US envoy Kushner says progress made in Ukraine talks Reuters",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1129,6 +1442,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--wPVCx76b--/c_crop,h_847,w_1507,x_1,y_45/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/134081.jpg?itok=uiuKnjbY",
+   "lang": "en"
+  },
+  {
+   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1BjLWR1WGZBajVUbFVjSzRHbW9MbDFiTkM5ZXdYNzZxbHIxdmR2OHpKX2tZWVREcVJLZjlERG0ybE5QTFJCYWo2SkVSQzZ1bm1ieFVKNkxSZjhiejVSQVZPT2pORGdqNnVaR0ZVaWJfeExqeE1pQ1JCczZjSFFZQlBaZTZzaFhleDNkeFdrRmFOUmtHd0NlQmRtOGx6ZG1fRms4b0s5RdIBrAFBVV95cUxPUXZzRjVHRGtjYWxHY25YVGk4YlVWY2hCSTlhRmd5N2lHNUFqUUgxc1NkeGxZWmdVa3RhRkQxSUJLOU1jMnBwQ1kwblRJdVdZTHdNaHp0THc0ejc2aHhXU3JVWnpSUjFYV2lvQWVoT0FzRlBYTGREaG03M2JzX25LNFRzcGhVNmZjSEtveEMxWWx2ODZEMWtPYmR5cmJfaVEtekZoSGhKY2hydVlK?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-16T19:19:51+00:00",
+   "summary": "Army airstrike kills at least 13 in West Kordofan, says rights group ABC News - Breaking News, Latest News and Videos",
+   "body": "Army airstrike kills at least 13 in West Kordofan, says rights group ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1229,8 +1555,8 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
    "source": "Google News",
    "published": "2026-11-16T19:16:52+00:00",
-   "summary": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched BBC Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times These Billionaires Want Jensen Huang Back At Nvidia Forbes Nvidia board is not considering bringing ",
-   "body": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched BBC Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. The New York Times These Billionaires Want Jensen Huang Back At Nvidia Forbes Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC CNBC Nvidia not considering reinstating Huang, despite support from Trump, Musk The Washington Post",
+   "summary": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched BBC Nvidia rules out Huang comeback as campaign for his return grows Reuters Billionaire CEO Resigned amid Sex Scandal. Trump, Elon Musk and More Are Already Pushing for Him to Get Job Back People.co",
+   "body": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched BBC Nvidia rules out Huang comeback as campaign for his return grows Reuters Billionaire CEO Resigned amid Sex Scandal. Trump, Elon Musk and More Are Already Pushing for Him to Get Job Back People.com Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC CNBC Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief The New York Times",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1280,6 +1606,19 @@
     "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker - WDSU",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2t2Zm4tZXh0anJiNjI3OXpsRENINk14b0FQQ19EVC1KeGZrMGxpNjVsbnhrQ0dkLWczaEZzUkpiNS1NM01RZlVsTk1PMzVFb2wzUVRJa2lfQzZwS3B0azJ2Y1hmQ3dtMFZ0RklwMkFjZlVUNUFnekVqMzFRRXp3QlpmajY0RDhnQUE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:14:00+00:00",
+   "summary": "Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker WDSU Gypsy-Rose Blanchard’s Ex-Fiancé Ken Urker’s Cause of Death Revealed After His Death at 34 People.com Cause of death released for partner of Gypsy Rose Blanchard The Guardian Ken Urker's Mom Says He Took H",
+   "body": "Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker WDSU Gypsy-Rose Blanchard’s Ex-Fiancé Ken Urker’s Cause of Death Revealed After His Death at 34 People.com Cause of death released for partner of Gypsy Rose Blanchard The Guardian Ken Urker's Mom Says He Took Heroin Laced With Fentanyl Before Fatal Overdose Yahoo Ken Urker’s Cause of Death Confirmed by Louisiana Coroner’s Office TODAY.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "",
    "lang": "en"
   },
   {
@@ -1358,31 +1697,29 @@
    "lang": "en"
   },
   {
-   "title": "Man appears in court over deaths of two people in Leeds police pursuit crash",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
-   "source": "The Guardian",
-   "published": "2026-11-16T18:55:14+00:00",
-   "summary": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23 A man has appeared in court charged with causing the deaths of two people in a car crash in Leeds. Leigh Ross, 39, was charged in connection with an incident in which Cameron",
-   "body": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23 A man has appeared in court charged with causing the deaths of two people in a car crash in Leeds. Leigh Ross, 39, was charged in connection with an incident in which Cameron Bell, 22, and Jade Langton, 23, were killed in the early hours of Sunday. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/19d0c0379729b3ff7062983ea32abdcc2ef78628/975_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9d4b29a889a4bcae842caafcb0bd6f91",
-   "lang": "en"
-  },
-  {
    "title": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit - ABC7 New York",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGNVVk40aXN4dlBjQUhaSnFvQkxvUWxOZXY3dHBycWRheDh3cEFsQXVWMU81R2xrUzlNTndnRE5YWjQwWEtfUFB3bkZBUzRwQjlVSjU5bHFKaUF3STdBaUxndUN1V2s1R1lldXhGbnZEN29vRHJsTmhlbVdIR0cwSFprdDNsQjc1YkJGSDQ4QmV2dDNlTktiV29UOWdSNm5HYnpTa0ZURUwtdk81ZGppNHJnd3Q5R0tXTWlndmpwSlB0RWZvSWVYX2V4TFRGcTc5TUY2U1RBTHA2VE5N0gHiAUFVX3lxTE9wWER3dDRBZXZLb1pXUWl2cHNLRkVtc2diU29Xd3pneXJBMm4xTWVfQVMxVm9jR2lVYW8waEtLTG9KNHFIamdyOUJIc1JzRm9ZSGE3RDIzVFVYUWJ4Z3p6bXlpRmRHdTF5Ulp5QjFXUGdTdjZzcjdxLVFrSlV6a2tZRnl0cExva1FGenBTblRXOXRGRjhPamZGc0dmOEE1R0tpWG9rdFd6SHR1cTE2ZEl1NnBuYmhGejNqZDl2cjRKU2VxNlRxcUdEdWVxeTBhQTBWdlFKNGVScUh4SmhvenJ4cUE?oc=5",
    "source": "Google News",
    "published": "2026-11-16T18:55:00+00:00",
-   "summary": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN Mamdani’s Move to Disband N.Y.P.D. Unit Provokes Praise, Anger and Spin The New York Times Mayor Mamdani and Police Commissioner Tis",
-   "body": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN Mamdani’s Move to Disband N.Y.P.D. Unit Provokes Praise, Anger and Spin The New York Times Mayor Mamdani and Police Commissioner Tisch Disband NYPD’s Strategic Response Group NYC.gov SRG fallout Politico",
+   "summary": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters Reuters SRG fallout Politico Mayor M",
+   "body": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters Reuters SRG fallout Politico Mayor Mamdani and Police Commissioner Tisch Disband NYPD’s Strategic Response Group NYC.gov",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever - CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPay1wcXdIMEJEUGwwWnVSMHhLdE9ZaFhscmViZ2R4VUZxbDYyNHNxQ2U3U1h0Tmo4d1FLcnJLT3hVXzZ3Z3pLYnB0UHZpVzIyUjJhWkU3elotdElPUDg3VkY0SU5RcGd5b3N2V01LTVZYbVRtazU5TzFkRzM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T18:53:00+00:00",
+   "summary": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever CBS Sports Joe Burrow's 4-TD night puts QB in company of Tom Brady, Peyton Manning ESPN Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy The New York Times Around the AFC North: Jo",
+   "body": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever CBS Sports Joe Burrow's 4-TD night puts QB in company of Tom Brady, Peyton Manning ESPN Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy The New York Times Around the AFC North: Joe Burrow on Historic Roll as Bengals Take Division Lead Baltimore Ravens The night Joe Burrow's MVP case became undeniable NFL.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "",
    "lang": "en"
   },
   {
@@ -1402,25 +1739,12 @@
    "lang": "en"
   },
   {
-   "title": "Apple is adding face unlock to the iPhone Duo — without new hardware - The Verge",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0xWaG5qajZNNHpjdm43dlFFUnBxV01DdHhQV1VYSWZ6ZExYN1lITEpiZTJBU1BPenphWktPbHJPUDd1amdGZDFtT3FWVTVpMGxQRU1YV3E2NU5DTllfU0Q0T0xRSGV4SHZCMVBoUFJNajk4d1NDaXBFb28yZ3hTck1JVVhhdjA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T18:44:16+00:00",
-   "summary": "Apple is adding face unlock to the iPhone Duo — without new hardware The Verge Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback Bloomberg.com Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3 MacRumors iPhone Duo 2 could get the iPhone 18 Pro's Face ID, ",
-   "body": "Apple is adding face unlock to the iPhone Duo — without new hardware The Verge Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback Bloomberg.com Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3 MacRumors iPhone Duo 2 could get the iPhone 18 Pro's Face ID, but Apple is running out of time PhoneArena The iPhone Duo Gets Face Unlock With The Latest iOS 27 Beta. Engadget",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "",
-   "lang": "en"
-  },
-  {
    "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts - NFL.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
    "source": "Google News",
    "published": "2026-11-16T18:42:05+00:00",
-   "summary": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts NFL.com 2026 NFL season, Week 10: What We Learned from Sunday's games NFL.com NFL Week 10 winners and losers: Texans crumble against Browns, Kirk Cousins trade pays dividends for Vikin",
-   "body": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts NFL.com 2026 NFL season, Week 10: What We Learned from Sunday's games NFL.com NFL Week 10 winners and losers: Texans crumble against Browns, Kirk Cousins trade pays dividends for Vikings CBS Sports Fantasy Football: Joe Burrow stamps MVP case in Week 10 while Christian McCaffrey turns back the clock Yahoo Sports NFL Wake-up Call: From Sin City to Titletown, Week 10 felt like the start of a new era The New York Times",
+   "summary": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts NFL.com Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more ESPN Fantasy Football: Joe Burrow stamps MVP case in Week 10 while Christian McCaffrey turns ",
+   "body": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts NFL.com Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more ESPN Fantasy Football: Joe Burrow stamps MVP case in Week 10 while Christian McCaffrey turns back the clock Yahoo Sports NFL Week 10 winners and losers: Texans crumble against Browns, Kirk Cousins trade pays dividends for Vikings CBS Sports NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10 The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1469,17 +1793,15 @@
    "lang": "en"
   },
   {
-   "title": "US braces for loss of measles elimination status amid worst outbreak in decades",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdrT3QwSm9QTVNDUkRmZFhZb2tieU9zRzhra1lBM3dTZ0dTejYtY1RsQVFjLWpyUm82eDBaYzhlWXBjWmZvS2VkMU16blZSaVB0OEVQajNDaWtIOUNlSGhNM0dzNWFFa0l4cld2YU1mNGF4NjJYbU5PVWhLVU80bEVMWENuRDRndU5j0gGQAUFVX3lxTE1xN2RVMDN3RjRTRkdobFM4TmFzWW1pYzZHZmZrUFpkcm8yOFhIVFc1YUFYU21vUk9OY01rbE9fTUZJeTZCU0VIeXNWRHhfeFE2RC0xTlJrcHRYbWpIbS0wX2txdmp3Q1VVdXpBVjFsYUEweUFQNS10NC1OS29Ua3ZIZi1waFVUYnY4c1VvekN6RA?oc=5",
+   "title": "'Broadview 6' prosecutors say they won't take the Fifth as potentially explosive hearing looms - Chicago Sun-Times",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRV9ia3ZnbGNuWHlOMjNlZTJGVW40d1JJS0RHRWZENVVuWmhtVC1zUEN5dUJCY0xNSDh5cVpjU1AzTThxU2JfZldpYk5sZm5EMFNoSmF6MWI4cngzNnZ2OVI1ekNTMjR4Q3FQS1ktVmo0QkdzcHIyX19hbFo2aXNVNkFsV0lRcEVHMDJWY050aW54b01MaUJLdU1n?oc=5",
    "source": "Google News",
-   "published": "2026-11-16T18:27:00+00:00",
-   "summary": "US braces for loss of measles elimination status amid worst outbreak in decades The Hill What It Took for America to Wipe Out Measles The New York Times US poised to lose measles-free status. How we got here USA Today What to know about measles outbreaks as the US faces losing it",
-   "body": "US braces for loss of measles elimination status amid worst outbreak in decades The Hill What It Took for America to Wipe Out Measles The New York Times US poised to lose measles-free status. How we got here USA Today What to know about measles outbreaks as the US faces losing its elimination status KOCO The U.S. Loses Measles Elimination Status—Here’s What That Means And The Path Forward Forbes",
-   "category": "USA / Americas",
+   "published": "2026-11-16T18:26:00+00:00",
+   "summary": "'Broadview 6' prosecutors say they won't take the Fifth as potentially explosive hearing looms Chicago Sun-Times Judge challenges DOJ’s privilege claims in ‘Broadview Six’ case Chicago Tribune Biden judge rejects DOJ bid to halt probe of prosecutors in botched ICE protest case Fo",
+   "body": "'Broadview 6' prosecutors say they won't take the Fifth as potentially explosive hearing looms Chicago Sun-Times Judge challenges DOJ’s privilege claims in ‘Broadview Six’ case Chicago Tribune Biden judge rejects DOJ bid to halt probe of prosecutors in botched ICE protest case Fox News The DOJ’s Failure in Chicago Will Have Nationwide Consequences Bloomberg.com Judge Skeptical of DOJ Privilege Claims in ICE Protester Scandal Bloomberg Law News",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "",
    "lang": "en"
   },
@@ -1509,6 +1831,22 @@
     "United Kingdom"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb36bf-1794848447.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T18:04:50+00:00",
+   "summary": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow NPR US and Russia to oppose talks on limiting autonomous weapons Reuters What will it take for the world's superpowers to agree on AI regulations in war? CBC U.N. Starts Uncertain Effort to Regulate Lethal A",
+   "body": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow NPR US and Russia to oppose talks on limiting autonomous weapons Reuters What will it take for the world's superpowers to agree on AI regulations in war? CBC U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons The New York Times US Will Say ‘No’ To Global Ban on Killer Robots Newsweek",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "",
    "lang": "en"
   },
   {
@@ -1551,331 +1889,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--q1r0TCxO--/c_crop,h_843,w_1500,x_0,y_59/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2022/02/21/cal_0791_0.jpg?itok=CF1UL4ad",
-   "lang": "en"
-  },
-  {
-   "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-   "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:54:31+00:00",
-   "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-   "body": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320546823827-1794851994.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:49:16+00:00",
-   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "body": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:37:25+00:00",
-   "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-   "body": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:36:21+00:00",
-   "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "body": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Former project manager handling West Coast Town Council tenders gets jail for taking S$50,000 bribe",
-   "link": "https://www.channelnewsasia.com/singapore/west-coast-town-council-tender-bribe-project-manager-6554866",
-   "source": "CNA World",
-   "published": "2026-11-16T17:34:32+08:00",
-   "summary": "He accepted S$50,000 in cash from a contractor, whose firm later won a S$3.3 million project covering 41 blocks in Teban Gardens, Pandan Gardens, West Coast Drive and Jurong West.",
-   "body": "He accepted S$50,000 in cash from a contractor, whose firm later won a S$3.3 million project covering 41 blocks in Teban Gardens, Pandan Gardens, West Coast Drive and Jurong West.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--hi2M1Qwi--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/img_4642.jpg?itok=3cCC-Nzt",
-   "lang": "en"
-  },
-  {
-   "title": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzRRaFBuSk9TS3lsM3BFWlBTbS1JdllRcWdPY3JPVUUyRG9SWkFIMnBBaXg0RkFjZllCZ2JYdGYwRlplaHRGNmlrY1phUmhfX1NMSFI2SE5rdU5PREZsX1Z3VzBTUWI5XzVCUnRWd013M0lJR0FFN2tqeDBSdUl1MjlWYTlQcUhjNDUtYlhEMXNOQm1s?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T17:32:42+00:00",
-   "summary": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case CBS News Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations BBC Russell Brand was 30. I was 16. He called me ‘the child’ The Times Russell Brand Accuser Wa",
-   "body": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case CBS News Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations BBC Russell Brand was 30. I was 16. He called me ‘the child’ The Times Russell Brand Accuser Waives Anonymity, Alleging She Was Raped By Star At Age Of 16 Deadline Russell Brand accuser waives anonymity to call for consent law change The Guardian",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-   "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:24:26+00:00",
-   "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-   "body": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afb1ed172-1794842321.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:24:04+00:00",
-   "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "body": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "NASA's Voyager 1 reaches a light-day away from Earth",
-   "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-16T17:24:00+00:00",
-   "summary": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-   "body": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79958286_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "When will we see Robert Pattinson as Bond in cinemas?",
-   "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T17:18:54+00:00",
-   "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-   "body": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-   "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:18:14+00:00",
-   "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
-   "body": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran",
-    "Lebanon"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abdc317db24-1790821143.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Trump denies responsibility for FAA nationwide ground stop",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:08:10+00:00",
-   "summary": "Trump denies responsibility for FAA nationwide ground stop",
-   "body": "Trump denies responsibility for FAA nationwide ground stop",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794848876.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "What has changed in James Bond films over the decades",
-   "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-16T17:07:00+00:00",
-   "summary": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here's how the films evolved.",
-   "body": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here's how the films evolved.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79961930_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "China has ‘normalized’ naval presence near Japan since political spat of 2025 - Defense News",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGRfNmZDZDVJY3ZiQzRPQ1I4eUFDUDlUSjMxMHlkZlIxLWtkLUhsb1JVaGtYYUJ0OHlSVEQzVmx4Mi03N3phNnk4ZXVoaDRKNlZMQkFJWnhpTGd4SGE0MFFCdlgtQktkNFItbFBqNUF3RUR6aEtDNmZnY1lUQjdlMVhfRG84VlNIX0QxZWRpdnpjVklVZmxsa2FEOUowdTcwOE1tMENfMjV4MjBackRTdzA5TU96cUI2dzNBZzZqcFpQZThmbGNrNkZfTzdUeUJE?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-16T17:02:51+00:00",
-   "summary": "China has ‘normalized’ naval presence near Japan since political spat of 2025 Defense News",
-   "body": "China has ‘normalized’ naval presence near Japan since political spat of 2025 Defense News",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Japan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries - EA WorldView",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU16dk9iUGFzMldZazZIQnRlM0s5MFBEOUR2VjJoME1IYmdGS2VlQTZUcnBKUGtrbnJPel90UjR4VnF4R1VGWGY0Mm55TlctSzVGNmVtX0JyT3g1am9CbHJaT3QyNUQ0eUtIdHFhU1BGUDMteVRBYmxzY09na1pVNGFxeWVDYXZValRlUU81M29EcVhfekh1bG1haHU4VktuYldJSA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:59:21+00:00",
-   "summary": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries EA WorldView",
-   "body": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries EA WorldView",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Iran braces for natural gas shortages during winter energy imbalance",
-   "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T16:58:46+00:00",
-   "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-   "body": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb20d010cdd-1794842832.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T16:56:54+00:00",
-   "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
-   "body": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794848199.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Too Many Chips in One Basket?",
-   "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-   "source": "NYT World",
-   "published": "2026-11-16T16:56:44+00:00",
-   "summary": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
-   "body": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-   "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-   "source": "The Guardian",
-   "published": "2026-11-16T16:54:42+00:00",
-   "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and disagreement, Australia’s presid",
-   "body": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and disagreement, Australia’s president of the talks has said. Many countries were surprised to see a first draft of a potential “cover decision” from the fortnight-long talks early on Monday afternoon, with more than four days of negotiation still to go. The text includes several proposals regarded as highly contentious by some countries, including a call to “immediately transition away from fossil fuels”. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=140&quality=85&auto=format&fit=max&s=7659af382f72d9cbbbdcbf0d29fde307",
-   "lang": "en"
-  },
-  {
-   "title": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors - 9to5Google",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnJCTkdJX0lkdFFQZWpKNUVPQ1ZXMnA2ZWM5V3JiWTdaa19qNlYxb3pLNHBnZE41b1dCbTYxR0E4ODhWNEhhY2RRZG5xdU1NQkpZYmxWWlR0eTg5dGNzMXA5dElPd20zSlR0QU53b2Z5VTctMnB1aXlNZnF0N2RJMGZBXzQ5NmNjeHZ1SWo1OXprQ0tIWV9lVEZVR2VmMnpmUHo2WGhTOA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:45:00+00:00",
-   "summary": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors 9to5Google Here's a closer look at Samsung's upcoming Galaxy Studio headphones SamMobile Galaxy Studio headphones design may have leaked, as Samsung prepares its AirPods Max rival Notebookcheck Images may r",
-   "body": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors 9to5Google Here's a closer look at Samsung's upcoming Galaxy Studio headphones SamMobile Galaxy Studio headphones design may have leaked, as Samsung prepares its AirPods Max rival Notebookcheck Images may reveal the design of Samsung’s rumored Galaxy Studio headphones Mezha.net Samsung to unveil Galaxy Studio alongside Galaxy S27 at Unpacked NewsBytes",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion: Ukraine Hits St. Petersburg’s Oil Lifeline – and Russian Helicopters Fall From the Sky - Kyiv Post",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDUC1CWW1FV0x0cExOY0dpRkRRS0l1T1dPT29CbTVhOFlEOXZ0WlFrZ1NnMklPcV9aOWljdWhmR01CbHppSEZXMGV6UDNMb2M?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:44:11+00:00",
-   "summary": "Opinion: Ukraine Hits St. Petersburg’s Oil Lifeline – and Russian Helicopters Fall From the Sky Kyiv Post",
-   "body": "Opinion: Ukraine Hits St. Petersburg’s Oil Lifeline – and Russian Helicopters Fall From the Sky Kyiv Post",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Robert Pattinson: British actor will be the next James Bond",
-   "link": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
-   "source": "France 24",
-   "published": "2026-11-16T16:39:36+00:00",
-   "summary": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
-   "body": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg",
    "lang": "en"
   },
   {
