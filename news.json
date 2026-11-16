@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:38:52.800486+00:00",
- "updated_yangon": "2026-11-16 23:08",
+ "updated": "2026-11-16T17:38:57.528144+00:00",
+ "updated_yangon": "2026-11-17 00:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -12,6 +12,7 @@
   "Google News",
   "Google News · China Taiwan",
   "Google News · Ukraine",
+  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -21,26 +22,26 @@
  "countries": [
   [
    "United States",
-   38
+   42
   ],
   [
    "Ukraine",
-   37
+   32
   ],
   [
    "Russia",
-   30
+   28
   ],
   [
-   "France",
-   10
+   "Iran",
+   8
   ],
   [
    "China",
-   9
+   8
   ],
   [
-   "European Union",
+   "France",
    8
   ],
   [
@@ -48,12 +49,8 @@
    7
   ],
   [
-   "United Kingdom",
+   "European Union",
    7
-  ],
-  [
-   "Iran",
-   6
   ],
   [
    "Germany",
@@ -61,7 +58,15 @@
   ],
   [
    "Israel",
-   3
+   5
+  ],
+  [
+   "United Kingdom",
+   5
+  ],
+  [
+   "Palestine",
+   2
   ],
   [
    "Turkey",
@@ -76,15 +81,23 @@
    1
   ],
   [
+   "Lebanon",
+   1
+  ],
+  [
+   "Australia",
+   1
+  ],
+  [
    "India",
    1
   ],
   [
-   "Saudi Arabia",
+   "NATO",
    1
   ],
   [
-   "Palestine",
+   "Saudi Arabia",
    1
   ],
   [
@@ -102,10 +115,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 32,
+ "war_count": 31,
  "languages": {
-  "my": 22,
-  "en": 118
+  "my": 21,
+  "en": 119
  },
  "items": [
   {
@@ -216,6 +229,36 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
+   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-16T17:39:09+00:00",
+   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+   "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+   "source": "NYT World",
+   "published": "2026-11-16T17:36:21+00:00",
+   "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
+   "body": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany"
+   ],
+   "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Former project manager handling West Coast Town Council tenders gets jail for taking S$50,000 bribe",
    "link": "https://www.channelnewsasia.com/singapore/west-coast-town-council-tender-bribe-project-manager-6554866",
    "source": "CNA World",
@@ -229,19 +272,431 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
-   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-16T16:38:58+00:00",
-   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "title": "Ukraine war live: Trump says Putin ‘backing down’ from invasion",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:32:56+00:00",
+   "summary": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
+   "body": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' - KOMO",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT3EyNmgwb0pydjdwZ3pBLXJabGRSMmtfVEZsRUpnTWlFbUFQZTNtSV9MN1Q3bkJVR0FMdzZhTGFqd0JQS1lDVDZwWk9zRG1PakhpMEsxMFQ3cHZrVkdmQ0R6RmdLdFJuVlJDaGpjZ2RZRnhJYUZDOGhEbkRxS1RvWnpmOTRXcTQ5eVBWV2J2dXdjNFJOZVZMWUp4a2pVRUFkaVkwR3FyREtDYW1rYzM4RXV0V2h1eW9NVkRuYjkzSzcydzE0VElPb0txTnpVc0FxaFhpRkNKeFhyY1d3RDczbzY4UWp1bUE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:28:44+00:00",
+   "summary": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KOMO",
+   "body": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KOMO",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' - WSET",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMDlfYnkySDhLandvWWR1TEU0Tk41c0VXSUZUaUNTVnpSVTVpd3d4T2VOTF9RT0UxNDhtZmVfaTUyVWRLMGNzdXlOeW54QmVWeF9XU0d6eTlYM002Q09BRGVlRlZrZ1oxVDRlMFdpOTFwLVVValE5eU80TWxaRWw3NF9ab2RkWHZGb1JJMTdVR2NOZmVEQ1E0SWZHek1KbnF2bGRDVHY4dmtBdEItSTRLUnlqeE4xbXgxb0IwUmV6cjdGcFZUcWM3Q3hQeDdEdldmSUE2REdUanJic0prRGpTclB3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:28:04+00:00",
+   "summary": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' WSET",
+   "body": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' WSET",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' - KBOI",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2Z3M3hydl9TNnlCSjZKZG1VUC1LbVVXNXVfTWRJc0FBWmpjQWtOb3RrN2JNTl90WU00QkgyY3RTcnJjWVFOOUY1OE05cXlnMXlsNm0wa3pLUEVqbmRBNTR2ZUlQRllBLThkcEdrRnRkV2Z6Z1Rjak1od2hjd3Y4ZUFfWlE4VEE3RjFEYm5fTjNMVmV2TWNtQ2hTeGRmY25UOF9wRDZOOTlJQzlVZGNRcHF4ZDRhazBuU1dVeFNES0dqXzNEd3dLbHhDWWY5Zi1leDlveG5nSW1IOUJUdWVRY2pJaFJKT3RL?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:27:45+00:00",
+   "summary": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KBOI",
+   "body": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KBOI",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "James Bond live updates: Robert Pattinson named as new 007",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVzhPVmQtS1dYd0txaGRUR2hkazl1dXVwVGVUN3ktSmdOdnNLd1Q4WmdFWW9iOE9BdlN6NEhRb0FxOENFdWdsQm9YYVJkcWpvR0QwR0l3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T17:26:49+00:00",
+   "summary": "James Bond live updates: Robert Pattinson named as new 007 BBC There’s a New James Bond, Again. How Did the Last Ones Fare? The New York Times Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Robert Pattinson Is the New James Bond With MGM Planning Reboot",
+   "body": "James Bond live updates: Robert Pattinson named as new 007 BBC There’s a New James Bond, Again. How Did the Last Ones Fare? The New York Times Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Robert Pattinson Is the New James Bond With MGM Planning Reboot Bloomberg Robert Pattinson would have made a better Bond villain The Boston Globe",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-16T17:24:31+00:00",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
+   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "United States"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
-   "lang": "my"
+   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "lang": "en"
+  },
+  {
+   "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+   "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T17:24:26+00:00",
+   "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+   "body": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afb1ed172-1794842321.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+   "source": "NYT World",
+   "published": "2026-11-16T17:24:04+00:00",
+   "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+   "body": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "NASA's Voyager 1 reaches a light-day away from Earth",
+   "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T17:24:00+00:00",
+   "summary": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
+   "body": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/79958286_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+   "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T17:18:14+00:00",
+   "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+   "body": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran",
+    "Lebanon"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abdc317db24-1790821143.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "For Putin, foreign troops in Ukraine are unacceptable — unless they're fighting for Russia - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnRlM1lwSTRaV1BOdjEtUjltS0Zza1l6S2cwR2YtTDgtem5FZEZJU01OUlNzN1dRLXZiS2o1WXpzMElzZjB0S2JnR0QtS0lDQ1QtVmVublBLVzVqV1ZXZER6bXQ2MVF5ZW9DbTVhVXBaNkloenR1ajdUdEdGWC1iRUVVN25ITHp0VWkxZE9vbnVnb1pCbHlsNEI5RE5CSzJHWUtDWF9yVnZCeE5sUVRxMldBRXFlZTB5?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:13:13+00:00",
+   "summary": "For Putin, foreign troops in Ukraine are unacceptable — unless they're fighting for Russia The Kyiv Independent",
+   "body": "For Putin, foreign troops in Ukraine are unacceptable — unless they're fighting for Russia The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "source": "The Guardian",
+   "published": "2026-11-16T17:11:21+00:00",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
+   "body": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine launches its biggest airstrike of the war against Russia - WBUR",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV2JGMENkZFpxZFZsM3N1bnBabk1qT3VxNXBRVEV4UVdaeUhQakVqUUszb1FTZEVQVGMzLVV4LS1FNV9JSnpTSjlOaDd0M1ByNk45TkFNMU45d0R1SFZrNmNNZ1FsakZ2M0o2dDhnOHFLZmh0Mmc?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-16T17:08:12+00:00",
+   "summary": "Ukraine launches its biggest airstrike of the war against Russia WBUR",
+   "body": "Ukraine launches its biggest airstrike of the war against Russia WBUR",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump denies responsibility for FAA nationwide ground stop",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T17:08:10+00:00",
+   "summary": "Trump denies responsibility for FAA nationwide ground stop",
+   "body": "Trump denies responsibility for FAA nationwide ground stop",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794848876.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T17:07:55+00:00",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+   "source": "The Guardian",
+   "published": "2026-11-16T17:07:54+00:00",
+   "summary": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy ’s second trial in the killings of her three young children for late March, over the objections of prose",
+   "body": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy ’s second trial in the killings of her three young children for late March, over the objections of prosecutors. Clancy was charged with three counts of first-degree murder. Her first trial ended in a mistrial after jurors were unable to reach a unanimous verdict on whether she was criminally responsible for the killings. Eleven jurors favored acquittal on the grounds of insanity, while one disagreed. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/48612869f527ad64a47895bf8b003e95eece7943/219_0_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=b1a559ad70cff0ded6827f9e1f5d93ec",
+   "lang": "en"
+  },
+  {
+   "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSU4xMnFkczJQLUFvUkxyZHJvMlV6eDJ6ZU9QNWNnUGNKRHN4NG1id2R1elJtbHlXRUpIV1pxVTZNS3R1SmhoVkZwN2lfb09QamdiUDliZmlRUVB1RFRsV1NiUm5qSjRhRUZkRTJKcVJnS0FrcTUzbUxFUXV2cWxlX2FpTGl5WTktbmp4cDd0ZWpjX3F0Q3FpaGRwcTRIVGJId2FIN3FvUVRma2_SAbABQVVfeXFMTjNuSUhjN0RFdkhBYlpwcGpSMGxoMEVXWVJLVFZPaWRwajRzaG5ZNVcwM3htQ09IYm9mX1VibGc5VjVkNDFYTXZTMl81VmtQSHljY09CdlhydTI5TTdsdDFRLTlPNzIxUTRCLWdSOUlJNXkyeXBxaUI2WWdScms5d3JROFoxVmJKLW9BQzhvbXBmWDBXUU5ncnRLQzAwdm9YYjdCRmhxQ29mYXEwT3p2Z2I?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:07:21+00:00",
+   "summary": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears ABC News - Breaking News, Latest News and Videos",
+   "body": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears ABC News - Breaking News, Latest News and Videos",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What has changed in James Bond films over the decades",
+   "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T17:07:00+00:00",
+   "summary": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here's how the films evolved.",
+   "body": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here's how the films evolved.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/79961930_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:02:08+00:00",
+   "summary": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
+   "body": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran braces for natural gas shortages during winter energy imbalance",
+   "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T16:58:46+00:00",
+   "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+   "body": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb20d010cdd-1794842832.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli forces demolish the homes of two Palestinian prisoners",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T16:56:54+00:00",
+   "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
+   "body": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794848199.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T16:56:46+00:00",
+   "summary": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
+   "body": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/16-9-1794848180.png?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Too Many Chips in One Basket?",
+   "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+   "source": "NYT World",
+   "published": "2026-11-16T16:56:44+00:00",
+   "summary": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
+   "body": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+   "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+   "source": "The Guardian",
+   "published": "2026-11-16T16:54:42+00:00",
+   "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and disagreement, Australia’s presid",
+   "body": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and disagreement, Australia’s president of the talks has said. Many countries were surprised to see a first draft of a potential “cover decision” from the fortnight-long talks early on Monday afternoon, with more than four days of negotiation still to go. The text includes several proposals regarded as highly contentious by some countries, including a call to “immediately transition away from fossil fuels”. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=140&quality=85&auto=format&fit=max&s=7659af382f72d9cbbbdcbf0d29fde307",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1VQTG1hRDNYVFZZQ1pITkxUb1p6MVdYTkpKZjhRblI0NXBWT3F2ck9JVG9EWDBzNXZRbGpnRUVhRjd5S1phekl2T21QdVF6Wno1T3BHRTdPMG5BcVJmRTBkVVVEbjk5RDE3XzBmTlNKNmpNeWE2bjdCeUxVWDVKV05VbVZLNkV5WG9XNFRxdXUzZ3FscXlCRFJkN3BBNG5iUndpNjZ6a2pLaGF2ZFB1N1htUFJDUlZjcDh3YXl2dw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T16:54:00+00:00",
+   "summary": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates NBC News See more headlines & perspectives on Google News",
+   "body": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates NBC News See more headlines & perspectives on Google News",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "source": "The Guardian",
+   "published": "2026-11-16T16:48:47+00:00",
+   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figur",
+   "body": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913",
+   "lang": "en"
+  },
+  {
+   "title": "Robert Pattinson: British actor will be the next James Bond",
+   "link": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
+   "source": "France 24",
+   "published": "2026-11-16T16:39:36+00:00",
+   "summary": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
+   "body": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T16:35:00+00:00",
+   "summary": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times Trump administration seeks to restrict China’s remote chip access after Nvidia scandal The Hill How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ Trump admi",
+   "body": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times Trump administration seeks to restrict China’s remote chip access after Nvidia scandal The Hill How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal The Washington Post Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power CNBC",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
@@ -257,21 +712,6 @@
     "China"
    ],
    "image": "https://static.dw.com/image/75246435_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Robert Pattinson named as new James Bond actor",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVzhPVmQtS1dYd0txaGRUR2hkazl1dXVwVGVUN3ktSmdOdnNLd1Q4WmdFWW9iOE9BdlN6NEhRb0FxOENFdWdsQm9YYVJkcWpvR0QwR0l3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:29:55+00:00",
-   "summary": "Robert Pattinson named as new James Bond actor BBC Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Robert Pattinson cast as James Bond: 'Batman' and 'Primetime' star to take over as 007 Yahoo British actor Robert Pattinson named new James Bond Reuters Ro",
-   "body": "Robert Pattinson named as new James Bond actor BBC Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Robert Pattinson cast as James Bond: 'Batman' and 'Primetime' star to take over as 007 Yahoo British actor Robert Pattinson named new James Bond Reuters Robert Pattinson Is the New James Bond With MGM Planning Reboot Bloomberg",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -321,6 +761,21 @@
    "lang": "en"
   },
   {
+   "title": "Robert Pattinson named as new James Bond",
+   "link": "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
+   "source": "France 24",
+   "published": "2026-11-16T16:22:25+00:00",
+   "summary": "British actor ​Robert Pattinson will be the next James Bond, Amazon MGM Studios announced on Monday, ​taking on the role after Daniel Craig's departure from the long-running spy series.",
+   "body": "British actor ​Robert Pattinson will be the next James Bond, Amazon MGM Studios announced on Monday, ​taking on the role after Daniel Craig's departure from the long-running spy series.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://s.france24.com/media/display/94603932-e1d9-11f1-8f4e-f71d22e7fea9/w:1024/p:16x9/EN-20261116-170834-171207-CS.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
    "source": "The Guardian",
@@ -334,21 +789,6 @@
     "European Union"
    ],
    "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
-   "lang": "en"
-  },
-  {
-   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-   "source": "NYT World",
-   "published": "2026-11-16T16:19:23+00:00",
-   "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "body": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -368,67 +808,16 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - San Antonio Express-News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXJkSFZCejB1VWpyMkFYajJmY0pfMGxpbGhuWmo2aE50OExiVmpBMm0zYmJIdWs5REt2WGkxX2tZUXR6Z2JhQU04RmotUlJDUTdkOU9oVGJUMjN2bmU0bGx5dFlIQTVsQlJzYW83WnpHNDUzdjZDd0pNWkR4eUFJSllwM3l6OThVemd1ZkVqWWNlOXRCQ0lDWTJMcW04N3ZNZXJtUzhXN3E5NVdsbngw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:16:19+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin San Antonio Express-News",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin San Antonio Express-News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:13:18+00:00",
-   "summary": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
-   "body": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "source": "The Guardian",
-   "published": "2026-11-16T16:11:32+00:00",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
-   "body": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
+   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T16:16:13+00:00",
+   "summary": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Durand Bernarr, Cleveland Orchestra among 2027 Grammy hopefuls Axios Grammy Nominations 2027: The Complete List (Updating Live) Variety Grammy Awards 2027: See the list of nominees CNN The bigges",
+   "body": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Durand Bernarr, Cleveland Orchestra among 2027 Grammy hopefuls Axios Grammy Nominations 2027: The Complete List (Updating Live) Variety Grammy Awards 2027: See the list of nominees CNN The biggest takeaways from the 2027 Grammy nominations: Raye reigns, Olivia Rodrigo takes on her former idol and men go missing Yahoo",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
-   "lang": "en"
-  },
-  {
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-16T16:10:52+00:00",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Hu",
-   "body": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -436,13 +825,11 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
    "source": "Google News",
    "published": "2026-11-16T16:09:51+00:00",
-   "summary": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters More drops for Nvidia and other AI stocks drag the US market lower AP News Wall St f",
-   "body": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters More drops for Nvidia and other AI stocks drag the US market lower AP News Wall St falls as Nvidia jitters cloud sentiment ahead of results The Detroit News",
+   "summary": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Wall Street falls as Nvidia jitters cloud sentiment ahead of results The Detroit News Stock market today: Dow, S&P 500, Nasdaq drop ahead of pi",
+   "body": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stocks slide as Nvidia leads AI names lower: Live updates CNBC Wall Street falls as Nvidia jitters cloud sentiment ahead of results The Detroit News Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI Yahoo Finance Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -492,39 +879,6 @@
     "Ukraine",
     "Russia",
     "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "French troops training Ukrainian forces inside Ukraine: Report - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa05oeUVQdGdVelhzcFpCUXg2SVczNkNDZmdhZGNsWDlaSUZnVDJIV1hhX1hzRG1BemZ5OEtMdC05THVaYmFFWlBpNG9mcWlFeUV1QUdPa1loNXMwUHc4VFNVNGhIZWZ5S2V3Y0F6WVM4LUEyakFKbHdHaUlrMnFaY2VqcHlyY2FJSDdtbFZ3djk4YlZza2FIOUIyeXZlQVc2dkc0?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:02:57+00:00",
-   "summary": "French troops training Ukrainian forces inside Ukraine: Report Anadolu Ajansı",
-   "body": "French troops training Ukrainian forces inside Ukraine: Report Anadolu Ajansı",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Trump says Putin ‘backing down’ from invasion",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:02:00+00:00",
-   "summary": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "body": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -607,21 +961,6 @@
    "lang": "en"
   },
   {
-   "title": "Robert Pattinson named as new James Bond",
-   "link": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond",
-   "source": "France 24",
-   "published": "2026-11-16T15:43:18+00:00",
-   "summary": "British actor Robert Pattinson, star of three mega-franchises, \"The Batman\", \"Harry Potter\" and \"Twilight\", has been named as the seventh 007. The announcement ends years of speculation about who would inherit the beloved role from Daniel Craig and comes five years after the last",
-   "body": "British actor Robert Pattinson, star of three mega-franchises, \"The Batman\", \"Harry Potter\" and \"Twilight\", has been named as the seventh 007. The announcement ends years of speculation about who would inherit the beloved role from Daniel Craig and comes five years after the last Bond release, \"No Time to Die\".",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://s.france24.com/media/display/56be3f90-e1d2-11f1-92c9-3f371022a770/w:1024/p:16x9/000-C7FC3U6.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Trump believes Putin \"could be tougher\" in war against Ukraine - Українська правда",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyckFaeFh6NEVBOXpEVWpPTDBIeHcwTmMwZlZKLXF2QXQwM1Q2RlhEb3pNMzJ1SHNvMnNHSi1XcklQbFMyU0I3N2JULXRuOTY5MFJ0UW9NQ2JSZXNyc3ZqVFpKWFjSAXBBVV95cUxOT29KSmJnRWpRaC00OHctSEtFekgzd1A3WUZSLVpMZWwtQ3hEcVpudlFtLU5HNTg3amd4TmpNWEk1ZUdOLW5mSm9RVmNjU19oZWVVME8yNllOX0ZmVnVxNFBMZ0xSZXZzS1NQc2xSTm1H?oc=5",
    "source": "Google News · Ukraine",
@@ -654,22 +993,6 @@
    "lang": "en"
   },
   {
-   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-   "source": "NYT World",
-   "published": "2026-11-16T15:39:09+00:00",
-   "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "body": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Oil tankers hit sea mines in the Strait of Hormuz",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
@@ -683,18 +1006,19 @@
    "lang": "en"
   },
   {
-   "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T15:31:20+00:00",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "category": "USA / Americas",
+   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:32:00+00:00",
+   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "United States"
+    "Ukraine",
+    "Russia"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -702,29 +1026,13 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY01EWk1KdW41dlg4TGtnTG5nNEtQVVFzOUluOU9vNjFlQU9nY0NvVHZaM0xiWFVXQmxLRXRXZ1ZieDBaUk52cUd2SjNzVkt5dmVTdFNBOFpkc1ViaTNJUldLMy1TZG9aSHhMMlhldVp5Y0FQb1NDUkdtbEZlZFZrZVpfTVRNRkFHQ1hnTVdoSUpCNnUyRlFz?oc=5",
    "source": "Google News",
    "published": "2026-11-16T15:28:05+00:00",
-   "summary": "Short of time at the ASEAN The Economist In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda T",
-   "body": "Short of time at the ASEAN The Economist In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda The Washington Post Donald Trump will get a warm welcome in the Philippines The Economist",
+   "summary": "Short of time at the ASEAN The Economist Donald Trump will get a warm welcome in the Philippines The Economist World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ Southeast Asian ",
+   "body": "Short of time at the ASEAN The Economist Donald Trump will get a warm welcome in the Philippines The Economist World Leaders at Manila Summit Seek Trade to Offset US Risks Bloomberg In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression WSJ Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda The Washington Post",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States",
     "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlTSmtsWjdYMVdaaFVoZm1OXzlKSXMyd0ZmZnZYdEZBTnBHQ1c3OXpid1dnZl85M2xuUUE2dC1oWnM1cFctY1d2dUhOQWx6WmNBMXg0TVY3LTRySlFkcVRKckl3UnFZcEVzTDVtX2JYellUQ29hWk9DMGFpaUFocXZkYWVJZXVGd0U4eDJaZmd2S21nZVktNzBhNWdETWlCaDVxcDZibDM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:27:38+00:00",
-   "summary": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
-   "body": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -774,6 +1082,22 @@
    "lang": "en"
   },
   {
+   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - PBS",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0lvanNybHZRUk1ocDl1Nk1rZTkyU25PMGpodmJTVFJpb2NwcjNKM1U1T04zVENvTlo1cXdSa1RCVWNWR29POF8xN0xZbVRwcnR1TFdxM1hiQk5UdUV6Z19YbkdRZlFHRUtiZTBUTV9zSjdEeTBjbkFJS3JOQkZHQkloUnYxYW9IRklsVGVFSHRjSXU4WXEzUWRyNzZfRzhaYjZfS0tkcldEWUFRRTV0OVhEQ3h1NlHSAbwBQVVfeXFMUHhvc1Z6M3JuR2ZUdTVrZzNSSmFNbE9HTlgwaTFGaWIyeGk0WjRQUy0tZngtU2lURk9ySnRyeU9wMk5UMTBhaFYzRE8ycHpCTExwY0xTZXFQbTBQN1h5MTRPcUJ1MHdWVzI2Rjh5ekVSX0FCUldTdmVqakJSZjZRTGt1aWxoR0R4aWNpOExqaWJRR2JaaVFhSVhtVG5nSHlicTNORTNrTmxudTlIVEVHZGs3ajY0LVE3N3pvMGo?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T15:20:20+00:00",
+   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack PBS",
+   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack PBS",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Teen volunteers in Singapore bridge generation gap through music",
    "link": "https://www.channelnewsasia.com/singapore/volunteers-teens-youth-resonance-project-music-6554531",
    "source": "CNA World",
@@ -791,27 +1115,12 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweWFpbm9kbmUtMGF4VnhNX1BUZ1FMaFFrSGRWZTNlV0wwTWRnREFkUzhmZm0tQ0ZFUEJWQWZRU0otRnZKQ1pFaDdMaS1EcnFQZjJQTGNZSUc1TW8?oc=5",
    "source": "Google News",
    "published": "2026-11-16T15:19:35+00:00",
-   "summary": "US woman Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy returns to court as potential murder retrial looms Reuters Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Watch Live: Lindsay Clancy to be retri",
-   "body": "US woman Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy returns to court as potential murder retrial looms Reuters Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Watch Live: Lindsay Clancy to be retried on first-degree murder charges CBS News Judge Could Set New Trial Date for Lindsay Clancy The New York Times",
+   "summary": "US woman Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy faces March retrial over killing of her children in Massachusetts Reuters Judge sets March retrial f",
+   "body": "US woman Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy to face retrial next year for deaths of her three children BBC Lindsay Clancy faces March retrial over killing of her children in Massachusetts Reuters Judge sets March retrial for Massachusetts mother accused of killing her 3 children The Independent Lindsay Clancy to be retried for children’s murder The Telegraph",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - WTOP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0NJckxxeWV6YVdGN3lnbS1ob1YxbEpyeC1CZHVxMGxGdDRKOUpwcTd5M21XekNFaXY4Mk9wbUhta29CZk02bzhzazBReW9HZnBhZEVZTWh1R2RjTEN6N0VEa0FHeExMcGJudldiSVpLLXBUajZLcjVNR0dTNnh0dTA5ZXF0WHFFS1JiZHNHMmhQMEx1Z3doaFVBZGpScDZwb19rQ2MyMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:18:53+00:00",
-   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine WTOP News",
-   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine WTOP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -829,6 +1138,19 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/f892c0ea-e1b2-11f1-b37c-695cb59fade5/w:1024/p:16x9/CULTURE-16-11-2026-11-00-ING26-CLEAN-A-frame-52769.jpeg",
+   "lang": "en"
+  },
+  {
+   "title": "SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdFZXMjhUVzFUR2pmVWJmRjBWT0QycHBUeGdhREZkMWg3Ymd5Ny01UTY3bDJBYVlHRmMzSS1aamlqM0M4azlpLWx3eVRTanhWMWNybVh4RDVhUWV0WWNBMEs0VHdRMV9PQXUxYlFGVlBfQ3JjTHJ5ZXlGTDdVM21mQm9saEViTXdpd1E4REhETWdWNE02TE9iT1ZGRTRHbW9hd2pHeU5jVmhTdm5WVDhnTFhIZmplTk9SS3E1eDJBdTh2azk2UkFpTzh6TjJrMXJ2bE0xWmFwNUhEdnJvNHFBdnE5Tzd3bXZTeTlGS3RwZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T15:16:04+00:00",
+   "summary": "SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder Yahoo Finance Awesome The Atlantic What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New Y",
+   "body": "SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder Yahoo Finance Awesome The Atlantic What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times Elon Musk Says SpaceX’s Recovered Starship Could Fly Again After Weeks of Refurbishment Yahoo Finance",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -875,21 +1197,6 @@
    "lang": "en"
   },
   {
-   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - The Killeen Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzBpTnJwbE1KdmZSZFJQekRTMVJmWkNhRDJxelN5RlR4bXpJRmQ0aHJUem1aVHI0a3hKOTJyb2lYbEx3R2xYZC1hQ0ZZYmRwX0MwS0Q1ajdpZmE3QzY4LUpDX1NkVWxMbVBXeTFTNDY5MEhxTXlrazhBZFBBTjhKNmFsNk1VOVlKM1Z3dFVmLXUzWi1GMVF3aHVFdGVUSTlTMVRjV3Bocnc3LXhQVnVoRHNUbkFPVkY3dmtTQ2EyazNib0VTY0E1R2FtOHZqYlUycUM0djRlYzFHRzQycTVENldOTWdWNGtZZlE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:10:40+00:00",
-   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine The Killeen Daily Herald",
-   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine The Killeen Daily Herald",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "California donates 1,300 hospital beds and medical supplies to Ukraine",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDlvZUFsWmZ0dUp5bzg0VFZZdGg4RGo4bFotRzNuV2JfaTcxaFVueHloWFZfMFAtWWJPN1phQmNNLUZHNGtvN3VsZHRqbldtNXlsSHJnOUhVSHVwS25mZ2p1dXd3ckJpdWtjTGZqUm5yN3hrNm93ZGUxUG5RTW5vcHRBVG5CN1llSlFISUhHWmU5aW1OSTJNcEI0anEySi1DSUE?oc=5",
    "source": "Google News · Ukraine",
@@ -905,23 +1212,6 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - Union-Bulletin",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUkh5dUJMeVVWMU5hNW5EXzk3djF4R0RyUGVUWG5JbWNLVjlfMmwxbkw0bFptb2FWRlFIOHdwVzlwei1SSU1uVHQ0MVdhZHJaMXlpRGFjUGhxc0p4a2IwZUlPWDMtdzhZc09uR0pQQUhqcHVpSDVfSkJHTkZFR0FBay1sdXhZR2duc01PcDEtNU5iUUhYX3VmVzJDWV91cUpTb251NW5fUDd0bUhiS3daMTdsNzI2YmdwQnFRbFNHdklYWjJhUl9mYzFYWkF6SVh3bGhfQjZsLVYxR0VrOWR5OFhqS1lveHUybzloaFRCR2w1dm1qMXFuaUF4Y00yQTRoR2lCMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:03:53+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Two charged after man run over by van during flags incident in Birmingham",
    "link": "https://www.theguardian.com/uk-news/2026/nov/16/two-charged-man-run-over-by-van-midlands",
    "source": "The Guardian",
@@ -932,19 +1222,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/a575013098050b5562b93e4330eb0b9e12f74d93/142_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=ab13adc9587c0f58f0757b527a6b3b91",
-   "lang": "en"
-  },
-  {
-   "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NTV8xWHZabEZ0ZkdWQ3NLVVJ4cWVZM1d1RjRhSUNUSjFJLUVXbzdkVWJ2Z0FUUEJ6N0k2UWlFWkJEMHY0X3NzNjlLd3h5c0dES1pQaFNMcGxkYksydkE5dE04X0hoSG9yR1R3bjBMdWIzdGdrOFdRbGxkc9IBgAFBVV95cUxNNEt3NjNlTmY5c1VTX2lsTmR4QjhDUjc0RXl5QVRrMkhjbHA3Um85eTZBeTZTV2VfUFRHY3NaQlRzdldUUXJmODQ2aXlqd3ZFb0FGZ2dzTHlleVhDaTd4NFMxek1aek9QYVp0MlNDMXlRQUFjWXlLamZFdmEzamNlTA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T15:00:01+00:00",
-   "summary": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial CNBC New Data Paves the Way for Weight-Loss Drugs in Children as Young as 6 The New York Times Weight-Loss Drugs for Elementary-Age Children Succeed in Study WSJ Six-year-olds: Novo’s new frontier for we",
-   "body": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial CNBC New Data Paves the Way for Weight-Loss Drugs in Children as Young as 6 The New York Times Weight-Loss Drugs for Elementary-Age Children Succeed in Study WSJ Six-year-olds: Novo’s new frontier for weight-loss drugs Financial Times Wegovy® resulted in a BMI reduction of 10% or more in almost 80% of children with obesity aged 6 to under 12, compared to 0% with placebo in STEP Young trial, published in The New England Journal of Medicine PR Newswire",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -980,17 +1257,18 @@
    "lang": "en"
   },
   {
-   "title": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick",
+   "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVZuVWJHaTJ6elZWYk81VFhVenZSVVJVa1NHb0lycThIQVBXZFNyNHZpNHVzZnNib28tOGt0XzdOMmotZkxCVXhnNFlrMk9wb09uRTZxdVBkSkNYbDVUcDFWV0M2czFlNmd2MzQ3RGMxdmp4elBTeGY1aGpteVB2TTNKeG9FUUpCaVBwRHAzbmNCUdIBlwFBVV95cUxPeDdvNW94aFJlaVExSzIyR19OWERVUGV2SWdiNUFkWWxQSF80U1VzTU90Z0FVX3BKMDl5LTJKZGRoNDl0MzNNWVdfX2t5R19KV0ZueGh5aU1zQ1FVTDduRXlIVTZLdV9tdFJBcmJ5VVlIbU9PdFVjT2tmaXlDV194NUY3UmF1Y3R4UGhteVdmUWo5eUUtSlBJ?oc=5",
    "source": "Google News",
    "published": "2026-11-16T14:58:09+00:00",
-   "summary": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick CNBC Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips The Hill Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while c",
-   "body": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick CNBC Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips The Hill Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN ‘Five-alarm fire’: Nvidia’s fall from grace sets off Washington AI industry scramble Politico Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times",
+   "summary": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk CNBC Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live The Guardian Cantwell urges Lutnick to stop AI chip sales to China ahead of X",
+   "body": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk CNBC Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live The Guardian Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting CNBC Senator accuses US Commerce Department of failing to stem flow of AI chips to China Reuters Trump says he is not firing Lutnick Politico",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States",
-    "China"
+    "China",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1006,21 +1284,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/273f35e243f22b1c02cb8c86f61c99bd5a80cf15/644_681_2479_1983/master/2479.jpg?width=140&quality=85&auto=format&fit=max&s=08feaa2a57512f88fb6dc80dfd79ffe7",
-   "lang": "en"
-  },
-  {
-   "title": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1RwN2Y1XzdmOTRiaEJ1TmMwWTY1LVBDNVFyM0JSVWxia3ZqTTNYaFJGM3dXbndvaU9ZYXdxTDZYMnF3OU9JQnVTZTBqZ2ozOEJkaXlDUUZiOVYybURaUFZZdjlxX2QzdVZrWURRZXRKMnhsaTZhX0F3T08xbnpYTnZCZnlCcFlpdWM1MkhJcDNGM19PeGdqRVUzNy1hUEU3dzRLbE92SXp5VUxiOTRFSm52MWlTX0w5MGdQNmNGSUM1MGd1OUIwZjc2SUE1SXFCb2c?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T14:57:00+00:00",
-   "summary": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes The Campaign to Bring Back Jensen Huang as Nvidia CEO WSJ Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief The New York Times Nearly a fifth of the S&P 500 is tied to thr",
-   "body": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes The Campaign to Bring Back Jensen Huang as Nvidia CEO WSJ Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief The New York Times Nearly a fifth of the S&P 500 is tied to three men with no clear successors The Washington Post Musk, Uber Co-founder Join Call For Jensen Huang's Return To Nvidia Barron's",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1089,8 +1352,8 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzA4YjZKSEZHMVJXUU8tQzF3Si1sZ0I3U1hZd2lzY2FSZXBuYWY5c1VTbFNQbzk5dXN4TWM3ejhVcHM5Z2EwLW1IcDlUSHFUQlEwb1VqOTBJUXRkRUJyWUNWVS1DLTBpQVQwblYtVk1JR01wRFFvQjJ0bUIxaTZSbWpSRC0ycExpczhVT2k1MEdHaThnU1FWSWtMdEU5X045WEJ6T1JwakJxZ3BJZTJhYQ?oc=5",
    "source": "Google News",
    "published": "2026-11-16T14:52:32+00:00",
-   "summary": "Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court declines Trump administration’s DEI research grant appeal The Hill Trump Rejected by Supreme Court in Bid to Cu",
-   "body": "Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court declines Trump administration’s DEI research grant appeal The Hill Trump Rejected by Supreme Court in Bid to Cut Off ‘DEI’ Grants Bloomberg Supreme Court rejects Trump bid to revive UC research grant cuts Politico",
+   "summary": "Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court rejects Trump appeal defending diversity-related grant cuts Reuters Supreme Court rejects Trump bid to revive U",
+   "body": "Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court rejects Trump appeal defending diversity-related grant cuts Reuters Supreme Court rejects Trump bid to revive UC research grant cuts Politico Trump Rejected by Supreme Court in Bid to Cut Off ‘DEI’ Grants Bloomberg",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1113,7 +1376,7 @@
    "lang": "en"
   },
   {
-   "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+   "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
    "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-16T14:48:55+00:00",
@@ -1148,8 +1411,8 @@
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXp4LTlVemxGdHAxX2h3dEtuSXFsS0I5Yjg1WkFCM0ZIM0x0VGp6Mm40LWJwM0lFX2hJZmxWWUw0OU5MWHZ5UEdoeE9LQ04tcGN5NjF2QWd6d01rdDFoTnBqYnd2dXJldEdLNkd0LVV3Zmkxb0JxQW5KY1c3YmhJY0psV3lwSF92UUd4Tld0ZlNDZnBzRm5EWjRMdlNpbnBrR192dGd5dlotZzVaTUVPRGxUb1MzXzBDazJwRmVoWmwzd3dlbkt4UVFmRWhRZk5GMFVYVy05Qmo3bFRHRWZPR2J2U1RoV2Z5ckdiLVFuTEk?oc=5",
    "source": "Google News",
    "published": "2026-11-16T14:43:14+00:00",
-   "summary": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN Final Drive: How does Aidan Hutchinson's injury impact Lions' Super Bowl hopes? The Detroit News Aidan ",
-   "body": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN Final Drive: How does Aidan Hutchinson's injury impact Lions' Super Bowl hopes? The Detroit News Aidan Hutchinson joins list of NFL players injured while celebrating - The Athletic The New York Times From torn ACLs to a headbutted wall, the worst self-inflicted NFL celebration injuries in history Fox News",
+   "summary": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports NFL Network: Lions' Aidan Hutchinson out for 2026 season with torn ACL NFL.com Lions’ Hutchinson reportedly out for season with knee injury sustained celebrating sack The Gu",
+   "body": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports NFL Network: Lions' Aidan Hutchinson out for 2026 season with torn ACL NFL.com Lions’ Hutchinson reportedly out for season with knee injury sustained celebrating sack The Guardian Aidan Hutchinson joins list of NFL players injured while celebrating - The Athletic The New York Times From torn ACLs to a headbutted wall, the worst self-inflicted NFL celebration injuries in history Fox News",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1171,21 +1434,6 @@
     "Saudi Arabia"
    ],
    "image": "https://s.france24.com/media/display/6b41e21e-e1c8-11f1-9bf2-5f54d898a954/w:1024/p:16x9/AP24318399053564.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit - Boston Herald",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZnZvRkZjRU84ME4wV0Y5c0NxcllMdmU5TnpRWHUwYVdtcUJMc3Z4WTdyRGtYazlPT01rc2FUYVhGcjRSOUlnVXBqSEtWZWxOWWprTUYxY2k0c2xsNFk5S1JlTEs5WlViem05TS1KQnBLeHBxSnc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:38:17+00:00",
-   "summary": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit Boston Herald",
-   "body": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit Boston Herald",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1217,33 +1465,16 @@
    "lang": "en"
   },
   {
-   "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
-   "source": "The Guardian",
-   "published": "2026-11-16T14:34:17+00:00",
-   "summary": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided Democrats and environmentalists",
-   "body": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided Democrats and environmentalists, Al Gore said. The legislation, known as the Bipartisan American Affordability and Jobs Act (Baaja), will make it easier to build large infrastructure projects in the US, from oil and gas pipelines and datacenters to crucial clean energy components such as solar and wind power and transmission lines, scaling back environmental protections and legal challenges in order to do so. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=140&quality=85&auto=format&fit=max&s=ad190354a5b6655256d150586a7a1daf",
-   "lang": "en"
-  },
-  {
-   "title": "Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
-   "link": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists",
-   "source": "The Guardian",
-   "published": "2026-11-16T14:31:37+00:00",
-   "summary": "The race is led by a number of female artists, also including Phoebe Bridgers and Ella Langley, with Beyoncé receiving her record-breaking 100th nomination Grammys 2027: the nominations in all the major categories Raye is leading this year’s female-heavy Grammys race with 11 nomi",
-   "body": "The race is led by a number of female artists, also including Phoebe Bridgers and Ella Langley, with Beyoncé receiving her record-breaking 100th nomination Grammys 2027: the nominations in all the major categories Raye is leading this year’s female-heavy Grammys race with 11 nominations. The British singer-songwriter, who has received four nominations in the past, picked up nods in categories including song of the year, songwriter of the year and album of the year. Continue reading...",
+   "title": "Air travel starts to normalize after ground stop caused weekend of unprecedented disruption",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1BfV19QMDFadUlzSzY0Y2VmWlByZEpQeld0QjZaeWJVS0lNTTRwbzlwMUVRelkycmF0QndXSHpIdVBodHBfN0dYV2pkeU5kd0hKS3ZpMnhYdjV5RVZ2X0NzMDRfTUFtS2trcmZVa1V2TVZ5MDJwYzYxVmtZdUxqbGVCQk5QbDBmaVhUVnE2a2JObzliSVRhSEl3Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T14:33:53+00:00",
+   "summary": "Air travel starts to normalize after ground stop caused weekend of unprecedented disruption NBC News How Could a Router Lead to a Nationwide Ground Stop? The New York Times Monday air travel faces key test after FAA ground stop as possible cause emerges Fox Business 'Baffling to ",
+   "body": "Air travel starts to normalize after ground stop caused weekend of unprecedented disruption NBC News How Could a Router Lead to a Nationwide Ground Stop? The New York Times Monday air travel faces key test after FAA ground stop as possible cause emerges Fox Business 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense 9News With the busiest travel season ahead, how likely is it that another FAA ground stop happens? CNN",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d53d3d8597b3d6fdb5bd263fce26483a0f4c267b/288_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=f5b6769b15ebc54d374ddc409e466d97",
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1336,17 +1567,16 @@
    "lang": "en"
   },
   {
-   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - The Boston Globe",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoM180ZzRzeWhxZmtmZTRSd3A0dGhGbTVXMHc1WVZLSF9GdWplSHV1ZTVtRmxVakJMaUd6THdqV1VETFpVTXdOZmVxVmU3TlJvTmlHa3ZVczU1T2QzUXdJMXJuenlOSXpLRjNsemx5UV92UQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:22:57+00:00",
-   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
-   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack The Boston Globe",
-   "category": "Ukraine / Russia",
+   "title": "Jennifer Lopez pokes fun at her 4-time divorcée status as she shares thoughts on fifth marriage - Page Six",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZjFRX0thdHBYMkY1Q3h4SkxTbW1aSFluOFFJOHFJYUhNMFd4U3k5bTJpbjVyOHExekxzQUxldFZJUTVOdDZTekpUVHlwTktMQV9rZHBnM0dEM1JET21FVm11RlRNLVFONElQMlJFQ0ZLNmFBN2pHZHJRLWY5SEQxVzBZYUQ1Y1JteGpYR3JLY0VTTTNhdDBrMWRtMEZYR2ZoaTRTM1BtUG10VmVqOWJUOHpNZWFrUmhZNmstUkpZdk5sOFloa1MwdDFldw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T14:25:00+00:00",
+   "summary": "Jennifer Lopez pokes fun at her 4-time divorcée status as she shares thoughts on fifth marriage Page Six When J. Lo Joked About Her 4 Divorces, a Fan’s Witty Response Left Her Cackling: ‘Funniest Thing I Ever Heard’ TODAY.com Jennifer Lopez laughs on stage after fan shouts joke a",
+   "body": "Jennifer Lopez pokes fun at her 4-time divorcée status as she shares thoughts on fifth marriage Page Six When J. Lo Joked About Her 4 Divorces, a Fan’s Witty Response Left Her Cackling: ‘Funniest Thing I Ever Heard’ TODAY.com Jennifer Lopez laughs on stage after fan shouts joke about her divorces: ‘Funniest thing I’ve ever heard’ Yahoo Jennifer Lopez Reacts to Cheeky Comment About Her 4 Marriages and Divorces E! News Fan jokes about JLo's 4 marriages; she bursts out laughing | Tap to know more | Inshorts Inshorts",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1394,21 +1624,6 @@
     "United States"
    ],
    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:08:05+00:00",
-   "summary": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say Reuters",
-   "body": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1535,28 +1750,12 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:53:57+00:00",
-   "summary": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Reuters",
-   "body": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - News4JAX",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXlBemQ5d3lDM096ZTFqNkpsTGpMaXk2RldycHNGNGRHdlFWWV9IVGVfcVNkU05rWHhBcm9vTGxHX2N4b2czNU9MT1pVSGhKTlY3UDJzY0RZM2dxTWhHbnR5R1dBQUNrY0xCSGpfQUwzcWVqM3k0Y1NhRlV5VEU4VXA0MUhqODg5Uldqd0hYdlRhekhmUG1OV0YycmdIQ1MtdUo1OHc0ZjdUQUNMcW50YUV3WE5Cc1N6VVhLeTEzd2VTclFEWEFaQkY0VmZ5djhHZzFKeU9ENURFdzQ?oc=5",
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - KSAT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb21GYVpnaXBWTjBkZ080UUhDeDBnblJmcTR4b2dyc1Vrd1M2V0pQcGVRT21pSnA0U1FQRG5ia0VjSXY0bGtPOTl5MGl4NDhMTjhXS0RRYTQtb2ZMRVVlQmRPU3N3ZjdBSkZ0ZmJ2enptdkplYUgwTmhEQzIzbmxPLWx2OW9nZklfSHdKTUpQYzFWSnl6OHUtbDM3a0todzRqSHFhek9yM2stLU9SSlBtY1ltYWl0RW5wcWFzcVg2TDZSRDdJV25SSjRGempVMVhFdzBWZUJR?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-16T13:48:31+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin KSAT",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin KSAT",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -1568,12 +1767,12 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - KSAT",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb21GYVpnaXBWTjBkZ080UUhDeDBnblJmcTR4b2dyc1Vrd1M2V0pQcGVRT21pSnA0U1FQRG5ia0VjSXY0bGtPOTl5MGl4NDhMTjhXS0RRYTQtb2ZMRVVlQmRPU3N3ZjdBSkZ0ZmJ2enptdkplYUgwTmhEQzIzbmxPLWx2OW9nZklfSHdKTUpQYzFWSnl6OHUtbDM3a0todzRqSHFhek9yM2stLU9SSlBtY1ltYWl0RW5wcWFzcVg2TDZSRDdJV25SSjRGempVMVhFdzBWZUJR?oc=5",
+   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - News4JAX",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXlBemQ5d3lDM096ZTFqNkpsTGpMaXk2RldycHNGNGRHdlFWWV9IVGVfcVNkU05rWHhBcm9vTGxHX2N4b2czNU9MT1pVSGhKTlY3UDJzY0RZM2dxTWhHbnR5R1dBQUNrY0xCSGpfQUwzcWVqM3k0Y1NhRlV5VEU4VXA0MUhqODg5Uldqd0hYdlRhekhmUG1OV0YycmdIQ1MtdUo1OHc0ZjdUQUNMcW50YUV3WE5Cc1N6VVhLeTEzd2VTclFEWEFaQkY0VmZ5djhHZzFKeU9ENURFdzQ?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-16T13:48:31+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin KSAT",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin KSAT",
+   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
+   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin News4JAX",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -1636,6 +1835,23 @@
    "lang": "en"
   },
   {
+   "title": "The Latest: Trump Says He Plans to Talk About War in Ukraine During Meeting With Xi and Putin - U.S. News & World Report",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOG12REU3TGxBaGdPdF94TDRXSnIyaTl3Rk52enZlRU5MdVlPT19hOHA1UkloeExSWWZHcVFNMFBOeXZ1ZmIxSlRLZG05SDFmcTlHTU5LcjNzbTV2VjNxd2hPWkJTZjc2dU1XX0cyZlF0OF9uSWUxOFQ4aERjMS13UngwX1YtZU9OV2Y0TlpBMnRDbUdEN1Z1MG1aSE9EV1hxV3YzZm13SldYbjBnRWdDNlRpeG1FdncxU2MxVTFDN2pPV2NqQ0NGUzVaZw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T13:48:00+00:00",
+   "summary": "The Latest: Trump Says He Plans to Talk About War in Ukraine During Meeting With Xi and Putin U.S. News & World Report",
+   "body": "The Latest: Trump Says He Plans to Talk About War in Ukraine During Meeting With Xi and Putin U.S. News & World Report",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Iran blocks UN nuclear site visits until war ends",
    "link": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends",
    "source": "France 24",
@@ -1649,6 +1865,22 @@
     "Iran"
    ],
    "image": "https://s.france24.com/media/display/10f9a716-e1c2-11f1-b72e-3f371022a770/w:1024/p:16x9/000-B8V38KJ.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlTSmtsWjdYMVdaaFVoZm1OXzlKSXMyd0ZmZnZYdEZBTnBHQ1c3OXpid1dnZl85M2xuUUE2dC1oWnM1cFctY1d2dUhOQWx6WmNBMXg0TVY3LTRySlFkcVRKckl3UnFZcEVzTDVtX2JYellUQ29hWk9DMGFpaUFocXZkYWVJZXVGd0U4eDJaZmd2S21nZVktNzBhNWdETWlCaDVxcDZibDM?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T13:46:24+00:00",
+   "summary": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
+   "body": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1686,58 +1918,14 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-16T13:44:43+00:00",
-   "summary": "Ukraine launches biggest drone attack on Russia since war began NBC News",
-   "body": "Ukraine launches biggest drone attack on Russia since war began NBC News",
+   "summary": "Ukraine launches biggest drone attack on Russia since war began NBC News Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war BBC Ukraine launches its biggest airstrike of the war against Russia WBUR",
+   "body": "Ukraine launches biggest drone attack on Russia since war began NBC News Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war BBC Ukraine launches its biggest airstrike of the war against Russia WBUR",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
     "Russia"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "A Ukrainian drone maker says that if it had to do business facing Western levels of bureaucracy, it wouldn't exist - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGlsTjlFN0JCZ1B4SUhMNXBZeVNPcnFaeGVrREJ0WEVxNVpiZVhSY01nLWluMFdhQUV4SGlsOVE2cDhhekxoTTI3aVcyQ19fbzhaYUJ1aHUwS0F2UDFNaUVzc0s1dVhpRC1vMVhKV0h0enJtMTZSTU96Slc5Z3lZZVRJb3hjOVplMWFzd3gyQXhEZmt3V1ZReERvTFh5Z3BVVk1QNGowNlVfMGs?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:44:00+00:00",
-   "summary": "A Ukrainian drone maker says that if it had to do business facing Western levels of bureaucracy, it wouldn't exist Business Insider",
-   "body": "A Ukrainian drone maker says that if it had to do business facing Western levels of bureaucracy, it wouldn't exist Business Insider",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-   "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T13:40:56+00:00",
-   "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-   "body": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France",
-    "European Union"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1hWbFBFWVhJWjdUMlRhU2p1S2k5N18zb25HTzI0Sng0ODJTd01OZkZLYTBQMFl0ZFRYbFg1WDNfTUtMd2dJZnJ6QTJQMU5qT1NQX25sVW1lWGtQOTloN2lzSHVCNkdWNXJadjJPbklZUlY0eXk0aDFoWTdfUVllN3U4MA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T13:40:33+00:00",
-   "summary": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air MacRumors Next year’s iPhone Pro redesign gets new update via leaker 9to5Mac iPhone 20 Pro camera rumored to use a faster 17nm imaging processor AppleInsider The iPhone 20 Will Be Great at Something Narrower Than Apple Fans Want V",
-   "body": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air MacRumors Next year’s iPhone Pro redesign gets new update via leaker 9to5Mac iPhone 20 Pro camera rumored to use a faster 17nm imaging processor AppleInsider The iPhone 20 Will Be Great at Something Narrower Than Apple Fans Want Vocal The iPhone 20 Pro might be Apple’s least interesting release for the 20th anniversary of the iPhone PhoneArena",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1753,168 +1941,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/MAL-asean-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
-   "link": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
-   "source": "The Guardian",
-   "published": "2026-11-16T13:35:49+00:00",
-   "summary": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPs Andy Burnham is setting up a public fund to rebuild the UK’s lidos after a revival in outdoor swimming. Outdoor pools were built across the UK in the 1930s. The often beautiful, art ",
-   "body": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPs Andy Burnham is setting up a public fund to rebuild the UK’s lidos after a revival in outdoor swimming. Outdoor pools were built across the UK in the 1930s. The often beautiful, art deco constructions were made as a cheap way to provide access to healthy activity during the summer. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/aa60d9ca769129b85ffb3080fdd35fc29b38374b/566_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c74d0cf7b0b3b4125a1b02c1879c194e",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond the Horizon: Searching for Kenya’s elusive black leopard",
-   "link": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T13:30:00+00:00",
-   "summary": "Maasai photographer Latei Moses searches Kenya for the rare wild cat, telling his own story through his lens.",
-   "body": "Maasai photographer Latei Moses searches Kenya for the rare wild cat, telling his own story through his lens.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/beyond-the-horizon-1-1794833654.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-   "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T13:28:23+00:00",
-   "summary": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
-   "body": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "European Union"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Beckham firm sues after fragrance found for sale in Poundland",
-   "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-   "source": "The Guardian",
-   "published": "2026-11-16T13:26:35+00:00",
-   "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in petrol stations and in ",
-   "body": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in petrol stations and in Poundland, court documents have revealed. The former England football captain’s brand, DB Ventures, has launched a lawsuit against the distributor of the products, arguing it allowed them to be sold in stores that had not been agreed upon. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=140&quality=85&auto=format&fit=max&s=5f3ca0f86022053fc18d97cfa7ce756f",
-   "lang": "en"
-  },
-  {
-   "title": "Excitement builds ahead of GTA VI release",
-   "link": "https://www.france24.com/en/video/20261116-excitement-builds-ahead-of-gta-vi-release",
-   "source": "France 24",
-   "published": "2026-11-16T13:25:18+00:00",
-   "summary": "After eight years of development by Rockstar Games and multiple delays, the 6th installment of the world's most talked-about game Grand Theft Auto is being released this Thursday, November 19. The game, founded nearly three decades ago and built around stealing cars and outrunnin",
-   "body": "After eight years of development by Rockstar Games and multiple delays, the 6th installment of the world's most talked-about game Grand Theft Auto is being released this Thursday, November 19. The game, founded nearly three decades ago and built around stealing cars and outrunning the police, boasts some 500 million sales, and this time is preparing for yet another big score, as millions of fans around the world get ready for its launch.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/35bd8322-e1bf-11f1-b4ca-29048b396e03/w:1024/p:16x9/EN-20261116-111332-111519-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
-   "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-   "source": "NYT World",
-   "published": "2026-11-16T13:22:53+00:00",
-   "summary": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
-   "body": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Cape Verde President Neves wins second term",
-   "link": "https://www.france24.com/en/video/20261116-cape-verde-president-neves-wins-second-term",
-   "source": "France 24",
-   "published": "2026-11-16T13:12:22+00:00",
-   "summary": "Cape Verde President José Maria Neves has won a second five-year term, according to provisional results from Sunday's election, besting five challengers ​including the archipelago's ‌first female candidate after a campaign focused on the need to create more ⁠jobs for young people",
-   "body": "Cape Verde President José Maria Neves has won a second five-year term, according to provisional results from Sunday's election, besting five challengers ​including the archipelago's ‌first female candidate after a campaign focused on the need to create more ⁠jobs for young people.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/00ce694e-e1b8-11f1-9399-5f54d898a954/w:1024/p:16x9/EN-20261116-111124-111306-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:12:00+00:00",
-   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
-   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine launches biggest drone attack on Russia since war began: Defence ministry - CBC",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZM1JqVDg4emE5NjVVZEdpYnNpV3dfRk1sVGpDVzl3TmtEeE96SnduUUVibTduOEtJWDNKT2tzdXBURmlaTVIzWjg5VnJOZ28yNURTQXgxOW5OcVVyVHRZSjVkNVRRanZ3bGFTOGtnckg0VHI5R280?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:10:23+00:00",
-   "summary": "Ukraine launches biggest drone attack on Russia since war began: Defence ministry CBC",
-   "body": "Ukraine launches biggest drone attack on Russia since war began: Defence ministry CBC",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Hundreds of thousands protest Czech government's media funding plan",
-   "link": "https://www.france24.com/en/video/20261116-hundreds-of-thousands-protest-czech-government-s-media-funding-plan",
-   "source": "France 24",
-   "published": "2026-11-16T13:09:59+00:00",
-   "summary": "Hundreds of thousands of Czechs rallied in Prague on Sunday against a government plan to cut a public media fee and move funding to the state budget — a policy critics say would dent the broadcasters' independence and viability.",
-   "body": "Hundreds of thousands of Czechs rallied in Prague on Sunday against a government plan to cut a public media fee and move funding to the state budget — a policy critics say would dent the broadcasters' independence and viability.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/a59b852e-e1b3-11f1-8222-29048b396e03/w:1024/p:16x9/EN-20261116-110552-110739-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3owSHVqaFpmYndPVDdyYzNIajZpTElDTUJEdi1QVHZ0ZjZHdEwwUV9QU25uZzJCY3ktcVpNRDRmUDMxUzRtVDdTNDFPaVRvdGJ1YU54TTBYbHp0MTRLRmFOeW9qQW1RbnAwXzg2T1FrTENSancwaUZkNko2ZWZaRDVtNE95M2FfYkgxSmtyY0ZvbXU0dHdobkdUNjU5RGUtMWpjVlVsYjBjUdIBrwFBVV95cUxOM29Fdy05Q0FEcFJibFAxTDZxcUhOYTI5ZDREcVliNzY0c1d0YnhTb2lzaHE0dkNwSlM2Ml8xUVZESm9wcmNld0V0VzZKTEYzcVZCNlZBZ2VoOWhneHcwLXZZM3YzQ2FIQzcxRld0YlJzX2pqRVdXZzNXY2hHOVhhbnRBLUZWWTBLME4yZGYyeHZnWGxCVG1fdUFzNWtiQ1BvYm85OXhmLTg0QlRubWtR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T13:07:32+00:00",
-   "summary": "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says ABC News - Breaking News, Latest News and Videos",
-   "body": "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says ABC News - Breaking News, Latest News and Videos",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "မင်းအောင်လှိုင်ကို ခုံရုံးပို့ပြီး ထောင်ချဖို့ အာဆီယံကို တိုက်တွန်း",
@@ -2182,21 +2208,6 @@
     "United States"
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/rob14nof-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "နိုင်ငံတော်ဘတ်ဂျက်မူလချေးငွေအပြင် ကျပ် ၁ ထရီလီယံ ထပ်တိုးဖို့ မင်းအောင်လှိုင် အတည်ပြု",
-   "link": "https://burma.irrawaddy.com/news/short-news/2026/11/14/417640.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-14T05:13:33+00:00",
-   "summary": "စစ်စရိတ်နှင့် တရုတ်ချေးငွေပြန်ဆပ်ရန် ငွေလိုနေသော အာဏာသိမ်းအစိုးရသည် ယခင်ကလည်း ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်အတွက် ဘတ်ဂျက်လိုငွေနှင့် ထပ်တိုးဘတ်ဂျက်အသုံးစရိတ်များ ဖြည့်ဆည်းဖို့ ဗဟိုဘဏ်ထံမှ ငွေကျပ် ၂,၁၀၀ ဘီလီယံ (ကျပ် ၂ ဒသမ ၁ ထရီလီယံ) ကျော် ချေးယူရန် ပြည်ထောင်စုလွှတ်တော်က အတည်ပြုထားပြီးဖြစ်ရာ",
-   "body": "၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်အတွက် နိုင်ငံတော် ထပ်တိုးဘတ်ဂျက် (ပြည်ထောင်စုဘတ်ဂျက်)အသုံးစရိတ်ကို ဖြည့်ဆည်းဖို့ မူလခွင့်ပြုထားသည့် ချေးငွေအပြင် နောက်ထပ် ကျပ်သန်းပေါင်း ၁၀ သိန်း (ကျပ် ၁ ထရီလီယံ)ကို ထပ်မံ တိုးမြှင့် လျာထားကြောင်း အာဏာသိမ်းသမ္မတ မင်းအောင်လှိုင်လက်မှတ်ရေးထိုး၍ ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်၏ နောက်ထပ် ဘဏ္ဍာငွေခွဲဝေသုံးစွဲရေး ဥပဒေပြဋ္ဌာန်းရာတွင် ထည့်သွင်းဖော်ပြသည်။\n\nနိုဝင်ဘာလ ၁၂ ရက်တွင် ကျင်းပသည့် ပြည်ထောင်စုလွှတ်တော် အစည်းအဝေး၌ ငွေကျပ် ၇,၄၆၈ ဒသမ ၇၀၂ ဘီလီယံ ပါဝင်သည့် အဆိုပါ ပြည်ထောင်စု၏ နောက်ထပ်ဘဏ္ဍာငွေခွဲဝေသုံးစွဲရေး ဥပဒေကြမ်းကို အတည်ပြုခဲ့ပြီး ယခင် ပြဋ္ဌာန်းထားသော၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ် ပြည်ထောင်စု၏ ဘဏ္ဍာငွေအရအသုံးဆိုင်ရာဥပဒေ ပုဒ်မ ၁၂ အရ ငွေချေးစာချုပ်များ ချုပ်ဆိုပြီးနောက် အမှန်တကယ် ချေးယူရရှိမည့် ငွေပမာဏအပြင် နောက်ထပ်ကျပ်သန်းပေါင်း ၁၀သိန်း (၁ ထရီလီယံ)ကို တိုးမြှင့်လျာထားလိုက်သည်ဟု ဆိုသည်။\n\nစစ်စရိတ်နှင့် တရုတ်ချေးငွေပြန်ဆပ်ရန် ငွေလိုနေသော အာဏာသိမ်းအစိုးရသည် ယခင်ကလည်း ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ် အတွက် ဘတ်ဂျက်လိုငွေနှင့် ထပ်တိုးဘတ်ဂျက်အသုံးစရိတ်များ ဖြည့်ဆည်းဖို့ ဗဟိုဘဏ်ထံမှ ငွေကျပ် ၂,၁၀၀ ဘီလီယံ (ကျပ် ၂ ဒသမ ၁ ထရီလီယံ) ကျော် ချေးယူရန် ပြည်ထောင်စုလွှတ်တော်က အတည်ပြုထားပြီးဖြစ်ရာ ယခု ၁ ထရီလီယံမှာ အတည်မပြုရသေးသော ထပ်တိုးလျာထားငွေဖြစ်သည်။ ထို့အပြင် အစိုးရငွေတိုက်စာချုပ်နှင့် ငွေတိုက်လက်မှတ်များ ရောင်းချခြင်းမှလည်း ငွေကျပ် ၁၄ ထရီလီယံနီးပါး ချေးယူထားသည်။\n\nကာကွယ်ရေးအသုံးစရိတ်မှာ ၂၀၂၆-၂၇ ဘဏ္ဍာနှစ်အတွက် ဘီလီယံ ရှစ်ထောင်နီးပါးခွင့်ပြုထားပြီး ဘီလီယံ ၂၅၀၀ကျော် ထပ်တိုးတောင်းခံမှုကြောင့် ကျပ်ဘီလီယံ တသောင်းကျော်အထိရှိနေကြောင်း ပြည်ထောင်စု၏ နောက်ထပ်ဘဏ္ဍာငွေ ခွဲဝေသုံးစွဲရေးဥပဒေကြမ်းအရ သိရသည်။\n\nနိုဝင်ဘာ ၁၂ ရက်က ပြုလုပ်သည့် ပြည်ထောင်စုလွှတ်တော်၌ ဘဏ္ဍာရေးနှင့်အခွန်ဝန်ကြီး ဒေါက်တာကံဇော်က အာဏာသိမ်းအစိုးရ၏ ပို့ဆောင်ရေးဝန်ကြီးဌာနအောက်ရှိ မြန်မာ့မီးရထား၊ ပြည်တွင်းရေကြောင်းသယ်ယူပို့ဆောင်ရေးနှင့် မြန်မာအမျိုးသားလေကြောင်းတို့ အရှုံးပေါ်နေကြောင်း၊ ထို့ပြင် သတင်းနှင့်စာနယ်ဇင်းလုပ်ငန်း၊ မြန်မာ့သစ်လုပ်ငန်း၊ အကြီးစားစက်မှုလုပ်ငန်း ၁၊ ၂၊ ၃ တို့လည်း အရှုံးပေါ်နေကြောင်းလည်း ပြောသွားသည်။\n\nနိုဝင်ဘာ ၁၄ ရက်ထုတ် သတင်းစာများတွင် ဖော်ပြသော ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်၏ နောက်ထပ်ဘဏ္ဍာငွေခွဲဝေသုံးစွဲရေး ဥပဒေ/MOI ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်အတွက် မူလခွင့်ပြုချက်ထက် ၁၀ ရာခိုင်နှုန်းကျော်လွန်၍ ဖြည့်စွက်ခွင့်ပြုငွေ တောင်းခံလာသည့် ဝန်ကြီးဌာန ၁၂ ခုနှင့် နိုင်ငံပိုင်စီးပွားရေးအဖွဲ့အစည်းအနေဖြင့် လိုငွေနှင့် GDP အချိုး ၅ ရာခိုင်နှုန်းအတွင်း ရှိစေရေး၊ အသုံးစရိတ်များ လျော့ချဆောင်ရွက်ရေး လိုအပ်ကြောင်း မလှိုင်မဲဆန္ဒနယ်မှ ဦးအောင်ကျော်သူ၏ ဆွေးနွေးမှုအပေါ် ထည့်သွင်းဖြေကြားခဲ့ခြင်း ဖြစ်သည်။\n\nမြန်မာ့မီးရထား၊ ပြည်တွင်းရေကြောင်းသယ်ယူပို့ဆောင်ရေးနှင့် မြန်မာအမျိုးသားလေကြောင်းလိုင်းများမှာ ဘဏ္ဍာရေးအရ အရှုံးပေါ်နေသော်လည်း လမ်းပန်းဆက်သွယ်ရေးနှင့် ကုန်စည် စီးဆင်းမှုမှန်ကန်ရေးအတွက် အားထားရာဖြစ်သည့်အတွက် ပြည်သူ့ဝန်ဆောင်မှုလုပ်ငန်းဖြစ်သောကြောင့် အရှုံးလျော့နည်း၍ လုပ်ငန်းစွမ်းဆောင်ရည် ကောင်းမွန်ရေးကိုသာ ဆောင်ရွက်လျက်ရှိသည်ဟုလည်း ဆိုသည်။\n\nအာဏာသိမ်းအစိုးရ ဖွဲ့စည်းထားသည့် နိုင်ငံပိုင် စီးပွားရေးအဖွဲ့အစည်း ၃၀ ရှိသည့်အနက် အရှုံးပေါ်နေသော အဖွဲ့အစည်း ၈ ခုရှိပြီး အရှုံးသက်သာစေရန် သက်ဆိုင်ရာဝန်ကြီးဌာနများက နိုင်ငံပိုင်စက်ရုံအချို့ကို ပုဂ္ဂလိကသို့ ငှားရမ်းခြင်း၊ အကျိုးတူပူးပေါင်းဆောင်ရွက်ခြင်း၊ အကျိုးတူပူးပေါင်းဆောင်ရွက်ရန်ဖိတ်ခေါ်ခြင်းများကို ဆောင်ရွက်နေကြောင်း သိရသည်။\n\nထို့အတူ ဘဏ္ဍာရေးနှင့် အခွန်ဝန်ကြီးဌာန၏ စာရင်းအောက်တွင် ကြွေးမြီနှင့် ပြန်ဆပ်ငွေများ ထည့်သွင်းလျာထားသဖြင့် လူ့အခွင့်အရေးကော်မရှင်၊ အဂတိလိုက်စားမှုကော်မရှင်တို့၏ ငွေလုံးငွေရင်းသာမန်အသုံးစရိတ်ကိုပါ ထည့်သွင်းတောင်းခံရသောကြောင့် ဘဏ္ဍာရေးနှင့် အခွန်ဝန်ကြီးဌာန၏စာရင်းတွင် ငွေကျပ် ၂၀၃၃ ဘီလီယံ ပေါ်ပေါက်နေခြင်းဟုလည်း ထည့်သွင်းပြောကြားသည်။\n\nထိုသို့ အစိုးရဌာနများ၏ ဘတ်ဂျက်လိုငွေဖြည့်ရန် ၂၀၂၆-၂၇ ဘဏ္ဍာရေးနှစ်အတွက် ငွေကျပ် ၇၄၆၈ ဒသမ ၇ဝ၂ ဘီလျံ ဖြည့်စွက်တောင်းခံသည့် ပြည်ထောင်စု၏ နောက်ထပ်ဘဏ္ဍာငွေခွဲဝေသုံးစွဲရေး ဥပဒေကြမ်းကို မဲခွဲဆုံးဖြတ်ခဲ့ရာ ထောက်ခံမဲ ၄၈၁ မဲ၊ ကန့်ကွက်မဲ ၁၉ မဲ၊ ကြားနေမဲ ၂၈ မဲဖြင့် နိုဝင်ဘာ ၁၂ ရက်နေ့က ပြည်ထောင်စုလွှတ်တော်၌ အတည်ပြုပေးခဲ့ခြင်း ဖြစ်သည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/malb14nof-900x476.jpg",
    "lang": "my"
   }
  ]
