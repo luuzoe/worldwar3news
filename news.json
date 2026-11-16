@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:38:54.456946+00:00",
- "updated_yangon": "2026-11-17 01:08",
+ "updated": "2026-11-16T19:38:53.301826+00:00",
+ "updated_yangon": "2026-11-17 02:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,8 +9,6 @@
   "CNA World",
   "DW",
   "France 24",
-  "Google News",
-  "Google News · China Taiwan",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
@@ -21,27 +19,27 @@
  ],
  "countries": [
   [
-   "United States",
-   43
+   "Ukraine",
+   33
   ],
   [
-   "Ukraine",
-   27
+   "United States",
+   31
   ],
   [
    "Russia",
-   21
+   24
+  ],
+  [
+   "France",
+   9
   ],
   [
    "Myanmar",
    7
   ],
   [
-   "United Kingdom",
-   7
-  ],
-  [
-   "China",
+   "European Union",
    7
   ],
   [
@@ -49,12 +47,8 @@
    7
   ],
   [
-   "France",
+   "United Kingdom",
    7
-  ],
-  [
-   "European Union",
-   6
   ],
   [
    "Israel",
@@ -66,7 +60,23 @@
   ],
   [
    "Palestine",
+   4
+  ],
+  [
+   "China",
    3
+  ],
+  [
+   "Australia",
+   2
+  ],
+  [
+   "Yemen",
+   2
+  ],
+  [
+   "Saudi Arabia",
+   2
   ],
   [
    "Turkey",
@@ -77,27 +87,15 @@
    1
   ],
   [
+   "Pakistan",
+   1
+  ],
+  [
    "Lebanon",
    1
   ],
   [
-   "Australia",
-   1
-  ],
-  [
    "India",
-   1
-  ],
-  [
-   "NATO",
-   1
-  ],
-  [
-   "Yemen",
-   1
-  ],
-  [
-   "Saudi Arabia",
    1
   ]
  ],
@@ -107,10 +105,11 @@
   "Global",
   "Middle East",
   "Myanmar",
+  "South Asia",
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 24,
+ "war_count": 29,
  "languages": {
   "my": 21,
   "en": 119
@@ -127,6 +126,64 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--iM3fY--G--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/yishun_nee_soon_zero_waste_hub.png?itok=GQ3j9nfR",
+   "lang": "en"
+  },
+  {
+   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
+   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-16T19:39:07+00:00",
+   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-16T19:32:06+00:00",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
+   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine Just Launched a Massive Airstrike on Kerch Bridge - The National Interest",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHdJc2xsbmJwU2V1QUhEbnQyUU5QSzNjMDY2bG1wU1ZhTWpzTkFIMm9TbnlFYzNZMFhXYjZCR3N1c3BsYXFFVGktUlQ5X1ZOb0hsLTNIMDJlRC1LOUt0NEpSQWE2U0lTYTRiczlCMjd6TUFnVlkwTlhRRzdOVTdIek9zVF8zQTlLR1ZDVGVPOEtFUnlVRGJuYS03bXE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:32:06+00:00",
+   "summary": "Ukraine Just Launched a Massive Airstrike on Kerch Bridge The National Interest",
+   "body": "Ukraine Just Launched a Massive Airstrike on Kerch Bridge The National Interest",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+   "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T19:30:30+00:00",
+   "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+   "body": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
    "lang": "en"
   },
   {
@@ -159,6 +216,19 @@
    "lang": "en"
   },
   {
+   "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+   "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T19:19:18+00:00",
+   "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+   "body": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Jail for man who flew to Cambodia for 'customer service' job but found scam syndicate targeting Singaporeans",
    "link": "https://www.channelnewsasia.com/singapore/cambodia-job-scam-syndicate-singaporean-6555016",
    "source": "CNA World",
@@ -169,6 +239,206 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--vIrXL9tB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/jia_4419.jpg?itok=2t6XS_cg",
+   "lang": "en"
+  },
+  {
+   "title": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
+   "link": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T19:18:00+00:00",
+   "summary": "Wildberries, Russia's largest online retailer, has been the target of Ukrainian attacks for its role in supplying the Russian military. The EU has now frozen its owner's assets and banned her from travel to the bloc.",
+   "body": "Wildberries, Russia's largest online retailer, has been the target of Ukrainian attacks for its role in supplying the Russian military. The EU has now frozen its owner's assets and banned her from travel to the bloc.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://static.dw.com/image/79962277_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion | The Russian Orthodox Church is waging a war against one word - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:17:37+00:00",
+   "summary": "Opinion | The Russian Orthodox Church is waging a war against one word The Washington Post",
+   "body": "Opinion | The Russian Orthodox Church is waging a war against one word The Washington Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Pakistan: Former leader Khan pleads for medical care",
+   "link": "https://www.dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-16T19:17:00+00:00",
+   "summary": "Imran Khan appealed to judges to be treated \"before it's too late.\" His wife was also included in the request.",
+   "body": "Imran Khan appealed to judges to be treated \"before it's too late.\" His wife was also included in the request.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "Pakistan"
+   ],
+   "image": "https://static.dw.com/image/79538547_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T19:16:52+00:00",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "How Milburn won over Labour on tackling rising youth unemployment",
+   "link": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+   "source": "The Guardian",
+   "published": "2026-11-16T19:16:19+00:00",
+   "summary": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1 million young people out of work and ed",
+   "body": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1 million young people out of work and education, said he would be “unafraid to shine a light on uncomfortable truths”. The Labour grandee, who held three cabinet jobs under Tony Blair, warned there was a “downward escalator” taking young people into a “world of benefits” and vowed to provide radical solutions. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/61785efa43a9a7250b2d43d3918c53814ed1a016/1519_6_3077_2461/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=6db88b05b5e321e10adfc2b9e104ec4d",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkZseFdKMWN4R0xWMU8zZzlnZTg3QlRTc0pobVNwc2xsNTVZTWRCaDZBeWt1dklkLXJyY2sxaGNjT1owWktrcEJiaENrdXhRQTZTQXZVcWs0Xzh2V19PRy1vVFpsYWFFSGZESUVDa3owS21zVXNTSURlRDd6ZmlqOFRPNGwyZXFQRTNMamFIM1FDYzV3RVdkY3N2OFhRUVNmcWU3QmdxUkNXaEV3OFdmS3owd2c?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:15:13+00:00",
+   "summary": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed The Kyiv Independent",
+   "body": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDJJdU9mSlVDR1BCRk9QTXZxMWFSbTBpVmh3dkJKQ1BmeXROZnBxZEo1MmlTeEpOdTZCSUJhdUE4NnFBZGd5SXVjZ1ZaU3pFTWUtWlRvRXhOWUR2YTd4MkdjTmF3VG9xQkE5VzE1b0xLQTRPWVpMemZ3dmpjVnpZVWNqcVhQd1NHUFdFREtHZVVFdGpZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:15:13+00:00",
+   "summary": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed Yahoo",
+   "body": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
+   "link": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots",
+   "source": "France 24",
+   "published": "2026-11-16T19:10:36+00:00",
+   "summary": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Bo",
+   "body": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Boulanin to find out just what is at stake.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1024/p:16x9/000-D68W7VD.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Cornell announces full review of Greek life after scrutiny over sexual assault case",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
+   "source": "The Guardian",
+   "published": "2026-11-16T19:09:36+00:00",
+   "summary": "The university will conduct a series of measures after a former student was gang-raped at a fraternity house two years ago Cornell University is set to announce a “full review” of fraternities and sororities determining their future on campus after an alleged sexual assault there",
+   "body": "The university will conduct a series of measures after a former student was gang-raped at a fraternity house two years ago Cornell University is set to announce a “full review” of fraternities and sororities determining their future on campus after an alleged sexual assault there has brought scrutiny to the system at the Ivy League school. University president Michael Kotlikoff announced the review on Monday in an update outlining several steps the institution has taken after a woman said she was gang raped at an on-campus fraternity’s house. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/dd55f0b17bae604abd04113df0e32ba22dcf9124/682_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=9b581c3ec0da8d3bd567685975d97b0e",
+   "lang": "en"
+  },
+  {
+   "title": "Is Israel’s opposition less right wing than Netanyahu?",
+   "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T19:09:09+00:00",
+   "summary": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+   "body": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war, latest news. EU Council approves a further 8 billion for Kyiv. Kushner: progress has been made, but difficult decisions lie ahead for an agreement - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:08:32+00:00",
+   "summary": "Ukraine war, latest news. EU Council approves a further 8 billion for Kyiv. Kushner: progress has been made, but difficult decisions lie ahead for an agreement Il Sole 24 ORE",
+   "body": "Ukraine war, latest news. EU Council approves a further 8 billion for Kyiv. Kushner: progress has been made, but difficult decisions lie ahead for an agreement Il Sole 24 ORE",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+   "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+   "source": "NYT World",
+   "published": "2026-11-16T19:05:52+00:00",
+   "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+   "body": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "Australia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+   "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+   "source": "The Guardian",
+   "published": "2026-11-16T19:04:07+00:00",
+   "summary": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait an",
+   "body": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority was to break the attritional siege on Taiz , Yemen’s third city, and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised government is now based. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0",
    "lang": "en"
   },
   {
@@ -185,19 +455,155 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
-   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-16T18:38:57+00:00",
-   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "title": "Ukraine war live: Trump says Putin ‘backing down’ from invasion",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T19:02:56+00:00",
+   "summary": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
+   "body": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+   "source": "NYT World",
+   "published": "2026-11-16T18:58:10+00:00",
+   "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+   "body": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "United States",
+    "Iran"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
-   "lang": "my"
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Man appears in court over deaths of two people in Leeds police pursuit crash",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+   "source": "The Guardian",
+   "published": "2026-11-16T18:55:14+00:00",
+   "summary": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23 A man has appeared in court charged with causing the deaths of two people in a car crash in Leeds. Leigh Ross, 39, was charged in connection with an incident in which Cameron",
+   "body": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23 A man has appeared in court charged with causing the deaths of two people in a car crash in Leeds. Leigh Ross, 39, was charged in connection with an incident in which Cameron Bell, 22, and Jade Langton, 23, were killed in the early hours of Sunday. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/19d0c0379729b3ff7062983ea32abdcc2ef78628/975_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9d4b29a889a4bcae842caafcb0bd6f91",
+   "lang": "en"
+  },
+  {
+   "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+   "source": "The Guardian",
+   "published": "2026-11-16T18:48:51+00:00",
+   "summary": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says US Immigration and Customs Enforcement (ICE) agents pepper-sprayed a pregnant US citizen and threw her to the ground during a protest in California on Sunday, ac",
+   "body": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says US Immigration and Customs Enforcement (ICE) agents pepper-sprayed a pregnant US citizen and threw her to the ground during a protest in California on Sunday, according to her family’s attorney, who shared footage of the incident. Lizbeth Vargas Andrade, 23, was filming and protesting the presence of several ICE officers outside the Stanislaus county jail in Modesto, in California’s central valley, before she was taken down by officers and arrested on her stomach during a chaotic encounter. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f",
+   "lang": "en"
+  },
+  {
+   "title": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says - The Irish Times",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUtscEtSSUZ3Q1lRdmxlVDN5U1FPMHB3OHRoZnhhdDgtX0tBd054TDNGVFozcmdHcUVaRzFpVjlPbEZ2cUNQZ2RpVjlpanJ1eHBfR0JyNWVFU19uNGZsbFNoR3B4dzE2WjVRN1BkT2owNXhQenFiU3hhZmdjemU2Q3lQMW50T3pONHo2LV9wSnMtMEhhLTRCSkgteHhqWldqQ3BJdGJ0SmpIcEdDVkdIdVlzMjB5cFNTRlhYSw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T18:48:38+00:00",
+   "summary": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says The Irish Times",
+   "body": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says The Irish Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Devon police renewed shotgun licence of known abuser who later killed his wife",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/16/domestic-abuser-john-perkins-shotguns-kathryn-devon-police",
+   "source": "The Guardian",
+   "published": "2026-11-16T18:46:53+00:00",
+   "summary": "Ex-marine John Perkins, who also killed himself, had been violent to Kathryn Perkins over 42-year marriage, Exeter inquests hear A “controlling and violent” former Royal Marine who shot his wife dead after she told him she was leaving was allowed to keep two licensed shotguns des",
+   "body": "Ex-marine John Perkins, who also killed himself, had been violent to Kathryn Perkins over 42-year marriage, Exeter inquests hear A “controlling and violent” former Royal Marine who shot his wife dead after she told him she was leaving was allowed to keep two licensed shotguns despite police knowing he had a history of domestic abuse. John Perkins shot Kathryn Perkins at their home in Devon with a double-barrelled shotgun before killing himself with his second weapon. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/d9591f80abef826d3c7f669b01ee750ea052fd8c/859_41_4608_3685/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=bc747475177189b44dced71158f70bd5",
+   "lang": "en"
+  },
+  {
+   "title": "Russia fends off swarms of Ukrainian drones a day across its vast territory. But some get through - Bozeman Daily Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPajdWNEpQcVppWnJyQ1JoMHgwd1RvOURxVXFqcEdYVkFaTHdUR21hV3BfU2gtcFVPMHVvcS16Z0hpMDhLV2RPOEdPeXR0Sl9fQmpqMkZzSjhQRmNjaFNIRHc5Ty1PVEFsbXl0N3NHUU1uMHpLZExabzg3cU5qdlRjUGQ0TDFBazJPOG9nY01pN1dSSlplYkhSQzkydVZwcmFxY0FveUh3MFF0ekN6aDJuWW1wWEhGdDl4YVprSVB6SnVqOThveFR1NU11Q2QydTlyVnVMRmppZkVERWYyam9OLXd3RHVfT3ZwTlQtaUxBUGR4OFRUNThsaVczOFF3ek5xZUhpMEM1UC1uVnpTNjZZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T18:42:18+00:00",
+   "summary": "Russia fends off swarms of Ukrainian drones a day across its vast territory. But some get through Bozeman Daily Chronicle",
+   "body": "Russia fends off swarms of Ukrainian drones a day across its vast territory. But some get through Bozeman Daily Chronicle",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+   "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-16T18:38:16+00:00",
+   "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+   "body": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "The wounds that cannot be bandaged: Ukraine’s veterans and the search for healing - www.lvivherald.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFltaWVVcjB1TnZ6VEhQMnZMQnowb3BBVmVQdlBfYS1wT3pGTTBUTGhMQjJVRWNsX0V1MWU3V3ZhbXd3VUg5aGQwSXQ2cnJ0dDQzZm51ZE15QVA1Z29jUk1VMXRmVWVuZFZWS0oyeW1YM1FiOW4zRVNtRlgxTGtPWXlOTXFpM3ZwVm1GZ0RBLWJpQXEzQl9GNHhDb05FcC10TlQ2MGpVTkxMY053M3dzMlR3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T18:34:12+00:00",
+   "summary": "The wounds that cannot be bandaged: Ukraine’s veterans and the search for healing www.lvivherald.com",
+   "body": "The wounds that cannot be bandaged: Ukraine’s veterans and the search for healing www.lvivherald.com",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Czech mass protests: Media is the first casualty 'when you want to attack democracy'",
+   "link": "https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy",
+   "source": "France 24",
+   "published": "2026-11-16T18:33:00+00:00",
+   "summary": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the prop",
+   "body": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the proposed changes offer \"no real safeguards\" against political influence, pointing to developments in Slovakia and Hungary. She also drew a parallel with the Velvet Revolution of 1989, recalling that \"we didn't have a free media and we only had a state media\" under communist rule. \"Media is the first (line of) attack when you want to attack democracy,\" she said. With the legislation expected to reach Parliament in January, Stárek believes the demonstrations will continue if the government refuses to engage in any discussions.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/16a10508-e1e3-11f1-a5b1-3f371022a770/w:1024/p:16x9/EN-20261116-161050-161723-CS.jpg",
+   "lang": "en"
   },
   {
    "title": "MSC Cruises to launch Singapore-based sailings from 2028, with voyages across Southeast Asia",
@@ -232,8 +638,8 @@
    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
    "source": "The Guardian",
    "published": "2026-11-16T18:30:20+00:00",
-   "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused by multiple women of using his p",
-   "body": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused by multiple women of using his power and celebrity status to prey on young women and teenagers for sex, a joint investigation by the Guardian and ITV News has found. Support for anyone affected by sexual abuse issues is available in the UK from Rape Crisis on 0808 500 2222 in England and Wales, 0808 801 0302 in Scotland , or 0800 0246 991 in Northern Ireland . The National Association for People Abused in Childhood ( Napac ) offers support for adult survivors on 0808 801 0331. Samaritans can be contacted on freephone 116 123. Other international helplines are available for people affected by sexual abuse , childhood abuse , and people in crisis . The ITV News documentary David Walliams: Power and Silence is available to watch on YouTube and ITVX. Continue reading...",
+   "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused of using his power and celebrity",
+   "body": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused of using his power and celebrity status to prey on young women and teenagers for sex, a joint investigation by the Guardian and ITV News has found. Support for anyone affected by sexual abuse issues is available in the UK from Rape Crisis on 0808 500 2222 in England and Wales, 0808 801 0302 in Scotland , or 0800 0246 991 in Northern Ireland . The National Association for People Abused in Childhood ( Napac ) offers support for adult survivors on 0808 801 0331. Samaritans can be contacted on freephone 116 123. Other international helplines are available for people affected by sexual abuse , childhood abuse , and people in crisis . The ITV News documentary David Walliams: Power and Silence is available to watch on YouTube and ITVX. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -256,21 +662,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-16T18:24:22+00:00",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
-   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
-   "lang": "en"
-  },
-  {
    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
    "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
    "source": "The Guardian",
@@ -285,21 +676,6 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/258_0_1247_998/master/1247.jpg?width=140&quality=85&auto=format&fit=max&s=467ddee3ef831069555f8878a508dd2f",
-   "lang": "en"
-  },
-  {
-   "title": "James Bond live updates: Robert Pattinson named as new 007",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVzhPVmQtS1dYd0txaGRUR2hkazl1dXVwVGVUN3ktSmdOdnNLd1Q4WmdFWW9iOE9BdlN6NEhRb0FxOENFdWdsQm9YYVJkcWpvR0QwR0l3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T18:20:31+00:00",
-   "summary": "James Bond live updates: Robert Pattinson named as new 007 BBC There’s a New James Bond, Again. How Did the Last Ones Fare? The New York Times British actor Robert Pattinson named as new James Bond Al Jazeera Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Varie",
-   "body": "James Bond live updates: Robert Pattinson named as new 007 BBC There’s a New James Bond, Again. How Did the Last Ones Fare? The New York Times British actor Robert Pattinson named as new James Bond Al Jazeera Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety Robert Pattinson cast as James Bond: 'Batman' and 'Primetime' star to take over as 007 Yahoo",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -331,68 +707,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T18:13:01+00:00",
-   "summary": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
-   "body": "Ukraine war: latest news. EU Council gives the go-ahead for a further 8 billion payment to Kyiv Il Sole 24 ORE",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - WTOP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0NJckxxeWV6YVdGN3lnbS1ob1YxbEpyeC1CZHVxMGxGdDRKOUpwcTd5M21XekNFaXY4Mk9wbUhta29CZk02bzhzazBReW9HZnBhZEVZTWh1R2RjTEN6N0VEa0FHeExMcGJudldiSVpLLXBUajZLcjVNR0dTNnh0dTA5ZXF0WHFFS1JiZHNHMmhQMEx1Z3doaFVBZGpScDZwb19rQ2MyMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T18:12:43+00:00",
-   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine WTOP News",
-   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine WTOP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-16T18:06:26+00:00",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "body": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "source": "The Guardian",
-   "published": "2026-11-16T18:02:54+00:00",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
-   "body": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
-   "lang": "en"
-  },
-  {
    "title": "EU’s mandate on Russia-Ukraine peace talks takes shape, as Putin escalates war - EUobserver",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJiMXp2UzJkMHdFTjV6eC02b1JEWnZDbW05cVdjRXRnNkNJSzd1R0ZYejVqR3FSS196amExeEZxdkxwV3hmMXU1ZThyVURxTW40UmY5X3k5S3FTYlNqcndxN1FnSnJkUEttN2hKN2Yxb09VRWtxdlltODRDeEs3WjNsNmhvQUxOUE1aNnU0MGJNQTIzYUtQS0hjelkwX1NzZGFEOWpIOG9XeXM?oc=5",
    "source": "Google News · Ukraine",
@@ -406,32 +720,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Army Airstrike Kills at Least 13 in West Kordofan, Says Rights Group - Newsmax",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVRZDdrT1lNN0FJNDhGbjZUNUpHa3o5cGxfM0ptNGRRbUNxTERPZU9qNWFHdlQxQU9CaWxORGNudlRqdWdBYUpNWFJiNEwwS1FGQVZFY3VuMzlZQUc3cHFCWnc0SmhZcjJjZktKdm9XUzloZ0gwWURnUE9oVUdMcFl1QXVCdVB1allEYkdSZUszd2ZpQk4yOXJYSER4bWk2?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-16T18:01:02+00:00",
-   "summary": "Army Airstrike Kills at Least 13 in West Kordofan, Says Rights Group Newsmax",
-   "body": "Army Airstrike Kills at Least 13 in West Kordofan, Says Rights Group Newsmax",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Police ‘retreating from streets’ due to major funding crisis, chief constables say",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales",
-   "source": "The Guardian",
-   "published": "2026-11-16T18:00:50+00:00",
-   "summary": "Forces across England and Wales struggle amid financial pressures described as worst for decades Police chiefs say officers are “retreating from the streets” amid the worst financial crisis in decades, which has left nine forces seeking exceptional financial support (EFS) from th",
-   "body": "Forces across England and Wales struggle amid financial pressures described as worst for decades Police chiefs say officers are “retreating from the streets” amid the worst financial crisis in decades, which has left nine forces seeking exceptional financial support (EFS) from the government. Paul Sanford, the chief constable of Norfolk police and the finance lead for the National Police Chiefs’ Council (NPCC), said exceptional financial support was needed if forces across England and Wales were to remain operationally viable. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/4063038e12cd12af9983d3da80722504710011c2/625_167_3799_3039/master/3799.jpg?width=140&quality=85&auto=format&fit=max&s=a8ff917eaf493563aa004faf985c7f0c",
    "lang": "en"
   },
   {
@@ -461,22 +749,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T17:59:59+00:00",
-   "summary": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit PBS How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ Nvidia fallou",
-   "body": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit PBS How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ Nvidia fallout: Commerce targets loophole for China's data center use CNBC US Moves to Curb Remote Access to Nvidia’s Advanced AI Chips Bloomberg",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
    "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
    "source": "Al Jazeera",
@@ -490,18 +762,16 @@
    "lang": "en"
   },
   {
-   "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-   "source": "The Guardian",
-   "published": "2026-11-16T17:52:13+00:00",
-   "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump’s tariffs have put those funds towards corporate bonuses instead of reimbursing consumers, an investigation ",
-   "body": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump’s tariffs have put those funds towards corporate bonuses instead of reimbursing consumers, an investigation from ProPublica has found. After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who are said they are receiving tariff refunds and noted they are directing some of those funds to their leadership. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=0a9deff8c98976654963a86fb1198129",
+   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWxqajg3ZDVETUhUMWROSVkwc3lJY3U1M2dmc0hTNTdFaFFiREQwcW5oRkFjWk44QUVoeEVkMDZWSkM4ajl2RnVUc3FKdGhSZWh2emJrRGJhLVhHczZIcGdMWkszTFRBUEEzX05wMDZNT203dVJsdmM1ZTZSNjA2ZnRuZjRmSnM2MmRGNFMtUHZCWUg5WXhpRGhyYWlxc3dxcGVFbWRZMkRULWRydTZ6Z055V0dPV0FNU2RZVXZJNG1GQdIBwgFBVV95cUxPVWxqajg3ZDVETUhUMWROSVkwc3lJY3U1M2dmc0hTNTdFaFFiREQwcW5oRkFjWk44QUVoeEVkMDZWSkM4ajl2RnVUc3FKdGhSZWh2emJrRGJhLVhHczZIcGdMWkszTFRBUEEzX05wMDZNT203dVJsdmM1ZTZSNjA2ZnRuZjRmSnM2MmRGNFMtUHZCWUg5WXhpRGhyYWlxc3dxcGVFbWRZMkRULWRydTZ6Z055V0dPV0FNU2RZVXZJNG1GQQ?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-16T17:50:50+00:00",
+   "summary": "Army airstrike kills at least 13 in West Kordofan, says rights group The Hill",
+   "body": "Army airstrike kills at least 13 in West Kordofan, says rights group The Hill",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -521,54 +791,6 @@
    "lang": "en"
   },
   {
-   "title": "Opinion | The Russian Orthodox Church is waging a war against one word - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T17:47:37+00:00",
-   "summary": "Opinion | The Russian Orthodox Church is waging a war against one word The Washington Post",
-   "body": "Opinion | The Russian Orthodox Church is waging a war against one word The Washington Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Near-philistine’: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
-   "link": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
-   "source": "The Guardian",
-   "published": "2026-11-16T17:45:02+00:00",
-   "summary": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus “Near-philistine”, “ignorant”, “unbelievably stupid”, “terrible”, “extraordinarily sad and shortsighted”, “an appalling act of cultural vandalism”, “a disaster” and ",
-   "body": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus “Near-philistine”, “ignorant”, “unbelievably stupid”, “terrible”, “extraordinarily sad and shortsighted”, “an appalling act of cultural vandalism”, “a disaster” and “an absolute disgrace”. Such has been the furious reaction to news that the Shakespeare Institute, a much-loved and internationally renowned centre of scholarship, is to leave its home in Stratford-upon-Avon, the playwright’s place of birth, and move to Birmingham. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9d94da0097c2bd4ba768b43c01719b8b8e0e62df/157_0_4497_3598/master/4497.jpg?width=140&quality=85&auto=format&fit=max&s=0456323eeb0ac5b6182d8aa76f695a0c",
-   "lang": "en"
-  },
-  {
-   "title": "Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - Yahoo News Canada",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IUzFaOUpIZ1lzbURLWGw3RUQ5VXM3VXllRkFOMVFTbVJINXhiYWRkRlZIclFCZHk4aUsxNm9kck9WdzFZU0FiTm12MG5JSTNKR1dFVmttU3NDSkF1M2pSdDZ5ZzV5SGlVdVZZNVU5OTFjdkxU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T17:39:05+00:00",
-   "summary": "Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Yahoo News Canada",
-   "body": "Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Yahoo News Canada",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
    "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
    "source": "NYT World",
@@ -581,6 +803,23 @@
     "United States"
    ],
    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Von Der Leyen Says Europe Will Closely engage in U.S.-Russia Ukraine Peace Talks: how 5 outlets framed it - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMXdlREIySTl4TlBEXzN6ZUU3Q0hXc0hiVUdad0k3NnlleU0zenVRVnlEdFctY3NCRVZXQmRQNEhpZ3JMdjJDZmZwVmxWeUF4N2FEQmp0OGVfZmFvbm1pMnVVYlVFYlJZaDZTNkVHWENPM0xiSzNwUU91bjR4ZnJZMlQ4Z2djMFhpU05adlNxRHN6WkRWNWVIZzdFNnpWLXA5S19ZcXA1V2NUQVhyQ180WGJVaURWM1Y5dFp6RVJpODNIckNhaVdFUHpueGNVRWhUMGxkazVvNHJCQldRQUY2TjZEU3EyVzZLUE5abXl2SFVES3B3dDZ0Uw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:36:53+00:00",
+   "summary": "Von Der Leyen Says Europe Will Closely engage in U.S.-Russia Ukraine Peace Talks: how 5 outlets framed it NewsCord",
+   "body": "Von Der Leyen Says Europe Will Closely engage in U.S.-Russia Ukraine Peace Talks: how 5 outlets framed it NewsCord",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -599,6 +838,22 @@
    "lang": "en"
   },
   {
+   "title": "French Troops Train Ukrainian Forces and Maintain Equipment in Ukraine, RFI Reports: 14 outlets compared - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazgwVmc2cUYtRzYzUm0wM0k4Y3F5TWZfYnNyTDV0R3E4eU1kRlJxakU2V3hoNFlDNk05TW5qZGhaR1k5NUJ1Yk1lUGVhcVVIVV9IQ0NvRG1ySUM5VlFWVmROWHdscTZXaXV2S0QxTjlYd3k5QXRjN0dXLXZVajhXZ1JNOERsRXdUVlcwc1VKVllPWFlsemNZWlpnek05d1NWak5lekNNTVFXSHVkYm1zbXNqbmtmXzlFdkl6YnVIOElHMjNwYmIyRFQyQ1FoRW00dm1NTmNib3NNMVJOM3Vub3hYVnZoVEdTUFE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T17:35:29+00:00",
+   "summary": "French Troops Train Ukrainian Forces and Maintain Equipment in Ukraine, RFI Reports: 14 outlets compared NewsCord",
+   "body": "French Troops Train Ukrainian Forces and Maintain Equipment in Ukraine, RFI Reports: 14 outlets compared NewsCord",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "France"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
    "title": "Former project manager handling West Coast Town Council tenders gets jail for taking S$50,000 bribe",
    "link": "https://www.channelnewsasia.com/singapore/west-coast-town-council-tender-bribe-project-manager-6554866",
    "source": "CNA World",
@@ -612,39 +867,7 @@
    "lang": "en"
   },
   {
-   "title": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' - KFOX",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbjlLYjlYbGF0NEZIUm8wVXU4V0p4V3o1NkVFREZYbGx6dGx4NldEWllQQkRZeGxiejREOGlQeS1DZ0NTVGpYZE93UTBabF9fa1lmVDc1SEtHeHlyV1BtWnBTV1NSS01vMjdmQ3Y1MmdmazN6VVREVWxJNkhMRnRMS3pmS21tYVduNnUxLUsyNmNnZFZoQ0xhSTdOZmhkLXdQZExYLTZUc3ZOUnRZZGVPMVUwUnU1cGNldGZ6YkFYYW5UWDdnWWQ1MjJkb2w3UzBLcFZHUGpoRzFOc3ppMUJFVXExUVNNM2dmVnFORE1kWVBpOXdzTkpETkUzOEZ1aElvQWhidQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T17:33:57+00:00",
-   "summary": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KFOX",
-   "body": "Prince Harry tells wounded Ukrainian veterans, 'You're going to win the war' KFOX",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Trump says Putin ‘backing down’ from invasion",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T17:32:56+00:00",
-   "summary": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "body": "Ukraine war live: Trump says Putin ‘backing down’ from invasion The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+   "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
    "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-16T17:24:26+00:00",
@@ -686,6 +909,19 @@
    "lang": "en"
   },
   {
+   "title": "When will we see Robert Pattinson as Bond in cinemas?",
+   "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T17:18:54+00:00",
+   "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+   "body": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
    "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
    "source": "Al Jazeera",
@@ -705,7 +941,7 @@
   {
    "title": "Ukraine launches its biggest airstrike of the war against Russia - WBUR",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV2JGMENkZFpxZFZsM3N1bnBabk1qT3VxNXBRVEV4UVdaeUhQakVqUUszb1FTZEVQVGMzLVV4LS1FNV9JSnpTSjlOaDd0M1ByNk45TkFNMU45d0R1SFZrNmNNZ1FsakZ2M0o2dDhnOHFLZmh0Mmc?oc=5",
-   "source": "Google News · Ukraine",
+   "source": "Google News · War",
    "published": "2026-11-16T17:08:12+00:00",
    "summary": "Ukraine launches its biggest airstrike of the war against Russia WBUR",
    "body": "Ukraine launches its biggest airstrike of the war against Russia WBUR",
@@ -734,21 +970,6 @@
    "lang": "en"
   },
   {
-   "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-   "source": "The Guardian",
-   "published": "2026-11-16T17:07:54+00:00",
-   "summary": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy ’s second trial in the killings of her three young children for late March, over the objections of prose",
-   "body": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy ’s second trial in the killings of her three young children for late March, over the objections of prosecutors. Clancy was charged with three counts of first-degree murder. Her first trial ended in a mistrial after jurors were unable to reach a unanimous verdict on whether she was criminally responsible for the killings. Eleven jurors favored acquittal on the grounds of insanity, while one disagreed. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/48612869f527ad64a47895bf8b003e95eece7943/219_0_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=b1a559ad70cff0ded6827f9e1f5d93ec",
-   "lang": "en"
-  },
-  {
    "title": "What has changed in James Bond films over the decades",
    "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -762,15 +983,18 @@
    "lang": "en"
   },
   {
-   "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T17:03:05+00:00",
-   "summary": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI Yahoo Finance Stocks fall ahead of Nvidia earnings and Anthropic IPO Reuters The perfect sell-off Financial Times Anthropic Holds t",
-   "body": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI Yahoo Finance Stocks fall ahead of Nvidia earnings and Anthropic IPO Reuters The perfect sell-off Financial Times Anthropic Holds the Key to the Future of the AI Trade Bloomberg",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
+   "title": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries - EA WorldView",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU16dk9iUGFzMldZazZIQnRlM0s5MFBEOUR2VjJoME1IYmdGS2VlQTZUcnBKUGtrbnJPel90UjR4VnF4R1VGWGY0Mm55TlctSzVGNmVtX0JyT3g1am9CbHJaT3QyNUQ0eUtIdHFhU1BGUDMteVRBYmxzY09na1pVNGFxeWVDYXZValRlUU81M29EcVhfekh1bG1haHU4VktuYldJSA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T16:59:21+00:00",
+   "summary": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries EA WorldView",
+   "body": "Ukraine War, Day 1,726: Zelensky — We Have Neutralized 55% of Russia’s Refineries EA WorldView",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -852,33 +1076,17 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - WIVB News 4",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajNTMFE2dUVxYWNKRnlielB3XzRadWFqazFqQnRibjVqblBzM09wcFNVNFB5RzlTNmV1UVhKMUtkY2VrbXNuWm1WSkp2UU9USFg1NlZCd2xfUDMtd1kyX25WU2hrS2g5dGVCM2hlcm9waG9yM2xtQUJyTlNLVzVLZG00dEdsRkdwNVJiTUZFWEZYZ0NvcVVMdHdobzRLekEtVW82Z18yYi03cXBxNjlaSWdTdjhWa1VBREVBdWlYTdIBxAFBVV95cUxPR2czdHFBUTkwbGt5RHc3MFIxR2lMaWxFRGMtZHNfdzVNVEJzbmNvNkc4UzE1RDhoXzNHQm1PdUpvdGw3dFFTdlJ1NU1RazY1ZWRnSFdVZ3o1ZmxSeEwzRFVRRzRucnZlY3hqUHRhZE5DTi1uU3luZVJTNEZtTXVQQ0dmSXdBbVZRNWFTZG1fWHl0c3R5RE1WZW1aRXcwNUpIRVZZcjBhMWpPQndsdkJCc0o5RVp5X19OUGZjQUlQaXNFQ0tO?oc=5",
+   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:50:02+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin WIVB News 4",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin WIVB News 4",
+   "published": "2026-11-16T16:54:00+00:00",
+   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
    "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump says FAA ground stop due to old equipment, denies responsibility",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRzaG8wWE1PaXRrbkdweGxGQ3prU3JpWjduRExfd01NYURoaUFkaThWZG95dDVVZFkweUYzVWdWZFNkNmMwb3J1WnF4b3BWOVUza1hXU1I4VWZOY05mQVdEWGdVMUxrOURCeHdkN2UyR3hDYzlvRkE4S285YjUyU1Jfang5LXBOeUdIemFRTmJSX1VOQkZZSWd6eFJDeU5qaWFaamVTSjN0Q1dVcDIwX04yNUU1UW5JMlNqeU5xYzJNRHh5cFRwamMzNA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:45:00+00:00",
-   "summary": "Trump says FAA ground stop due to old equipment, denies responsibility USA Today Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Trump on FAA outage: ‘I don’t take any responsibility’ The Hill Trump breaks silence about FAA nationwide ground stop, b",
-   "body": "Trump says FAA ground stop due to old equipment, denies responsibility USA Today Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Trump on FAA outage: ‘I don’t take any responsibility’ The Hill Trump breaks silence about FAA nationwide ground stop, blames Biden administration CNBC First Thing: Trump administration blames travel chaos on former presidents and Congress The Guardian",
-   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "United States"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -915,15 +1123,33 @@
    "lang": "en"
   },
   {
-   "title": "Lindsay Clancy to face a new trial in spring of 2027 over children’s killing",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZENNTzhnc1htbHhFeDMyak1Zc25Yam1WelZtWGZGOTV0cWJuWE5BS0FHZERsV0F4VnA3YVNwR1AtRHVBMEdiOWk5d3piMWdlVmtiaE9adTRnTUpNeVdKb2ZWdk85WVFxYlN5MjFzRHpqaWk5TWE1RUI5bjdmWUYxSnNmRTdVZTQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:28:19+00:00",
-   "summary": "Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Lindsay Clancy’s retrial scheduled for March 2027 CNN Judge Sets Spring Retrial for Lindsay Clancy The New York Times Date set for second Lindsay Clancy trial in brief but heated hearing NBC Boston L",
-   "body": "Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Lindsay Clancy’s retrial scheduled for March 2027 CNN Judge Sets Spring Retrial for Lindsay Clancy The New York Times Date set for second Lindsay Clancy trial in brief but heated hearing NBC Boston Lindsay Clancy faces March retrial over killing of her children in Massachusetts Reuters",
-   "category": "Global",
+   "title": "California donates 1,300 hospital beds and medical supplies to Ukraine - NBC Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1UxeHZ0LTRIZzREWE53b0dpOU10VkI0WS1ENFpQUXFfcUdDRkZ3TWpqRmVBbE5EbnRLbHh6bFh3UEhUb1E3MU1sN1Bsc0VWZUxhM01LZVc4Y2JFWC1iX1c5WTJxUkZLdXRWNmtpbjJ3VHl6U21OYkZYZFBhSzMxOW5uNXBQZ0hFZkxlZ1lncnFoU3hWMm5IdVhZWTVFUFdFenU1VWR6S3BvT25MZUHSAbYBQVVfeXFMTlJobUpBX1N1REF4MG85bVdEX0pwWGtzQ1hIUUdtSElFQUFaamF6MDBFeWtVOFVpdVZxNnM5YWtzeGZSWm9KLWVQbGhjeHBVZXdsU25MVE5Na1AxS0Z3VTBnMy12ZzdDVnFFSGFRQlZRd294U3g4QmNjYkJ4Uk9zUE52UWIwVFNDZEZaM20xVG5tTmV4bEtrazZFb0ZmM0FCa1dXSmRQdFJOZW9Hb0hEcHJjRHZSZnc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T16:30:55+00:00",
+   "summary": "California donates 1,300 hospital beds and medical supplies to Ukraine NBC Bay Area",
+   "body": "California donates 1,300 hospital beds and medical supplies to Ukraine NBC Bay Area",
+   "category": "Ukraine / Russia",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Record Drone Attack: Ukraine Strikes Russia in Largest Raid Since War Began - Modern Diplomacy",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWJGWWtnT2MzS1FVZEJRTmxYUEtseURzTXpVTm1qNm53VW5kVm9fLTc0OFMxd3hfcklXYmNSRmYxSHNjTkJPSHRnRC15ampzb3dSSGpOekFuLWVaMGtVTjVTTW9WSFZ1b05HUUdxNkZHclFnZ0lRNDlyUWpTY1NfdWtlQUhtc3E4V2FhNHI1aS1qWm1hQkVVSGVFZXhxcmxOQ3M1NUZyQXktTWVjcVpod3VjRQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T16:30:11+00:00",
+   "summary": "Record Drone Attack: Ukraine Strikes Russia in Largest Raid Since War Began Modern Diplomacy",
+   "body": "Record Drone Attack: Ukraine Strikes Russia in Largest Raid Since War Began Modern Diplomacy",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -974,6 +1200,23 @@
    "lang": "en"
   },
   {
+   "title": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
+   "link": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe",
+   "source": "France 24",
+   "published": "2026-11-16T16:22:49+00:00",
+   "summary": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the next round of Ukraine peace talks, Roos questions whether having five European representatives could we",
+   "body": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the next round of Ukraine peace talks, Roos questions whether having five European representatives could weaken their negotiating position. \"The other option is to realize that it dilutes the negotiating power of Europe. And I would lean towards that,\" he says, proposing Finnish President Alexander Stubb as a possible representative. Roos also points to differences between Washington and European governments over negotiations with Russia. While \"the Americans do absolutely want to have a deal whatever the cost for both Ukraine and Europe,\" he argues that European governments have little choice but to maintain pressure on Moscow, which has yet to abandon its \"maximalist demands.\"",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://s.france24.com/media/display/07f9db52-e1d8-11f1-97d4-695cb59fade5/w:1024/p:16x9/EN-20261116-150823-151954-CS.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Robert Pattinson named as new James Bond",
    "link": "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
    "source": "France 24",
@@ -1021,51 +1264,6 @@
    "lang": "en"
   },
   {
-   "title": "2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXlhaC1VVEdNaXBvcWRVSEpqZ0tpQ3hHdU9lWU0wSTd0X2ZPU1cxVE40ckNmMDllUG1mbTlVaWE4ZGE0Vkk3UFlGcHAxM29ucFpiVnJCaTZodjItMGNvU1oteXFiRzhnMk00bnctZExobVl1ckNpNGg1em9pXzdETGJDMmN6NWsyYU1QUHdpRklsME9zNnFRaVNjOGFuMmotQVh4ZW55Zw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:17:16+00:00",
-   "summary": "2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More The New York Times Rosalía, Shakira & More: These Are the Latino Artists Nominated for the 2027 Grammys Yahoo Rosalía's Spanish-language album makes Grammy history as Latin artists dominate major categor",
-   "body": "2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More The New York Times Rosalía, Shakira & More: These Are the Latino Artists Nominated for the 2027 Grammys Yahoo Rosalía's Spanish-language album makes Grammy history as Latin artists dominate major categories Latin Times Rosalía Looks to Cap Off Triumphant LUX Era at 2027 Grammys, Vies for Nine Awards Including Album of the Year Consequence of Sound Rosalía Makes History at the Grammys: She is the Most Nominated Spanish Artist and the First Spanish Woman to Compete in Major Categories El Mundo America",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:16:13+00:00",
-   "summary": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Here’s How Ella Langley Reacted to Her Seven Grammy Nominations Yahoo Grammy Awards 2027: See the list of nominees CNN Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
-   "body": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times Here’s How Ella Langley Reacted to Her Seven Grammy Nominations Yahoo Grammy Awards 2027: See the list of nominees CNN Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations The Guardian Grammy Nominations 2027: The Complete List (Updating Live) Variety",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1NwSVd2bTZ2SHdhRUIxc2NTc2dMUE4xZXRQczM1ZFFXRXYxR1RtYTBZYU1JRzhOMkNuN1hyZ2dtYlQ3Snh4dGJDZDZzQ3BURlFlNkVBZmpFMF9rN0FuYnVvZUNJdTRLSTdGNVNkekFWZ2dmSkNmNmtxN2JWdVdfTkNUalJub2lmSDBGc0k1WkI5UENjLW1KazRQZVRVQldYMlVsV2RISDRmWEFMQjc0aDE3eTVFRWVMZDE4OU5OZ1Q?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T16:09:07+00:00",
-   "summary": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe' France 24",
-   "body": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe' France 24",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iran's growing exodus of young talent",
    "link": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1099,16 +1297,17 @@
    "lang": "en"
   },
   {
-   "title": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDZUanZ5VHY1clo3UlZyOURxV2pBb2dTUnRXZHRfdVZzLU5sc0NyVENBeTdDN3ByVmZIak1UQ1A2d0dOTUFGcGstNHp4clNWLUp2M2U3TUVscFp5YnR6U2JtYkV1U2VDU1VQeDhILUVMQ1V5SzFIS1hBZkJicjk4cXhsYnJWUlY0eGlFbGJJMXhuTmFSNVFmTlRmZ2lsYmRFUDdYVGhhWE95ZnBkV21nVVB3aks3bXItLVE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T16:02:33+00:00",
-   "summary": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America NBC News Pope bids farewell to South America with a grand Mass in Lima Yahoo Pope bids ‘hasta luego’ to his second homeland of Peru as he wraps up marathon South American trip Anchorage Daily News Pope in P",
-   "body": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America NBC News Pope bids farewell to South America with a grand Mass in Lima Yahoo Pope bids ‘hasta luego’ to his second homeland of Peru as he wraps up marathon South American trip Anchorage Daily News Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon Crux: Covering all things Catholic The Holy Father Calls for Faith in Action Through Care for the Elderly Relevant Radio",
-   "category": "USA / Americas",
-   "is_war": false,
+   "title": "French troops training Ukrainian forces inside Ukraine: Report - Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa05oeUVQdGdVelhzcFpCUXg2SVczNkNDZmdhZGNsWDlaSUZnVDJIV1hhX1hzRG1BemZ5OEtMdC05THVaYmFFWlBpNG9mcWlFeUV1QUdPa1loNXMwUHc4VFNVNGhIZWZ5S2V3Y0F6WVM4LUEyakFKbHdHaUlrMnFaY2VqcHlyY2FJSDdtbFZ3djk4YlZza2FIOUIyeXZlQVc2dkc0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-16T16:02:57+00:00",
+   "summary": "French troops training Ukrainian forces inside Ukraine: Report Anadolu Ajansı",
+   "body": "French troops training Ukrainian forces inside Ukraine: Report Anadolu Ajansı",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "United States"
+    "Ukraine",
+    "France"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1159,36 +1358,6 @@
    "lang": "en"
   },
   {
-   "title": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77% - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdElENzIwb3lTTTR2UUZaZUFzS3VsWkZIbGlPZFR6aXpUeHVHUmhTZmlfTGNIdDc5LUhwSVdoZW82RFhRbl95d2Z0MVJDX19OZVJIU1F1VnVNczdENXg0eXhMMjgzOWhjWk9nVXRkYW9UOF8wSGlnOHVZZUYwZk1JYTNVQjVKWWlEWmlHc3pHWmxtaS1aSDk1S3Z3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T15:48:59+00:00",
-   "summary": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77% Yahoo Finance Awesome The Atlantic SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder Yahoo Finance What's next for SpaceX",
-   "body": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77% Yahoo Finance Awesome The Atlantic SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder Yahoo Finance What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? Space SpaceX Makes History With Successful Rocket Catch in Texas The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump believes Putin \"could be tougher\" in war against Ukraine - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalBpQlRXRG92X21HR1l2eENZSVdwSUE0cFRiV1FUZXZnS3gzNGk1V3c2UDZKWVM0QnIyTkxJek5hc2ZMb2VfclRSQVducmlHaGhpLVlTOFJjUlhod0VPLXZVaUNiZjVtMDhmRXphWFZMaE13ZG1fQUlJVXRkRkU4b3FNdnFUakNOZE1ReWZINU5sV2p4NTBnUU13?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:43:00+00:00",
-   "summary": "Trump believes Putin \"could be tougher\" in war against Ukraine Yahoo",
-   "body": "Trump believes Putin \"could be tougher\" in war against Ukraine Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Trump believes Putin \"could be tougher\" in war against Ukraine - Українська правда",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyckFaeFh6NEVBOXpEVWpPTDBIeHcwTmMwZlZKLXF2QXQwM1Q2RlhEb3pNMzJ1SHNvMnNHSi1XcklQbFMyU0I3N2JULXRuOTY5MFJ0UW9NQ2JSZXNyc3ZqVFpKWFjSAXBBVV95cUxOT29KSmJnRWpRaC00OHctSEtFekgzd1A3WUZSLVpMZWwtQ3hEcVpudlFtLU5HNTg3amd4TmpNWEk1ZUdOLW5mSm9RVmNjU19oZWVVME8yNllOX0ZmVnVxNFBMZ0xSZXZzS1NQc2xSTm1H?oc=5",
    "source": "Google News · Ukraine",
@@ -1201,22 +1370,6 @@
     "Ukraine",
     "Russia",
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "China, security, tariffs: Trump’s three days in an anxious Asia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHU2NFpoWnN1U29SMVNxMmZQNXZLLWhFR3Z3MWg1d1Zlb0xjZ0JLcFRHcGZTajRVVGpzRVBWNExoWjZWem5GeEJMdkQ4S2pzVEtfTmdONU05MkRrd2RzaVRMbXE0RXA4UFgwS3NYTjVjcm9kS3BUYVhZLUU4X3RYR19BOFA3b3FUYkZnY3hkbE9XekFxeXN3NndqLWtRa05HbzUw?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-16T15:42:48+00:00",
-   "summary": "China, security, tariffs: Trump’s three days in an anxious Asia The Times",
-   "body": "China, security, tariffs: Trump’s three days in an anxious Asia The Times",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1237,6 +1390,22 @@
    "lang": "en"
   },
   {
+   "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T15:40:16+00:00",
+   "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "body": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom",
+    "European Union"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Oil tankers hit sea mines in the Strait of Hormuz",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1250,14 +1419,14 @@
    "lang": "en"
   },
   {
-   "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
+   "title": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlTSmtsWjdYMVdaaFVoZm1OXzlKSXMyd0ZmZnZYdEZBTnBHQ1c3OXpid1dnZl85M2xuUUE2dC1oWnM1cFctY1d2dUhOQWx6WmNBMXg0TVY3LTRySlFkcVRKckl3UnFZcEVzTDVtX2JYellUQ29hWk9DMGFpaUFocXZkYWVJZXVGd0U4eDJaZmd2S21nZVktNzBhNWdETWlCaDVxcDZibDM?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:32:00+00:00",
-   "summary": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
-   "body": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack AP News",
+   "published": "2026-11-16T15:27:38+00:00",
+   "summary": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
+   "body": "Ukraine-Russia war latest: Kyiv strikes Crimean bridge as it launches huge assault on Moscow The Independent",
    "category": "Ukraine / Russia",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Ukraine",
     "Russia"
@@ -1294,37 +1463,6 @@
    "lang": "en"
   },
   {
-   "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-   "source": "NYT World",
-   "published": "2026-11-16T15:25:21+00:00",
-   "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-   "body": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Supreme Court turns down Trump’s plan to cut off UC research grants that promote DEI",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnRmYlhSRFR2X0tWR0VZcF9DUmVPcF8wdFJqb1hCT3NyZXZ6ak55SmhrYUEzbDFYS2ZsaFd1R1RjUUJqMkRZNHRseWxqR3hmek5VTy16WlVnWmhJTERZVThqX3FKOHZNT1NMOG0wYnlTQ0JaUmo2NzhPaEFxc3A5X3FWTjdEZWUyQ3B2endwN2YyQWtQX1NHMHpaR3FJMExWYzJRb05rYU5WNkRCS3BCd2FlWUtmOFI2YmVMYm4zdFliT2UwYzZZRm1ZeEpzUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T15:22:12+00:00",
-   "summary": "Supreme Court turns down Trump’s plan to cut off UC research grants that promote DEI Los Angeles Times Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court rejects ",
-   "body": "Supreme Court turns down Trump’s plan to cut off UC research grants that promote DEI Los Angeles Times Supreme Court rejects Trump over academic funding cuts related to DEI NBC News Supreme Court declines Trump push to cut research grants related to DEI CNN Supreme Court rejects Trump bid to revive UC research grant cuts Politico Supreme Court rejects Trump appeal defending diversity-related grant cuts Yahoo",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Teen volunteers in Singapore bridge generation gap through music",
    "link": "https://www.channelnewsasia.com/singapore/volunteers-teens-youth-resonance-project-music-6554531",
    "source": "CNA World",
@@ -1350,21 +1488,6 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/f892c0ea-e1b2-11f1-b37c-695cb59fade5/w:1024/p:16x9/CULTURE-16-11-2026-11-00-ING26-CLEAN-A-frame-52769.jpeg",
-   "lang": "en"
-  },
-  {
-   "title": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZU9ydjE1OUxOZUpic1A4NGEyZENnajBadkM5UFhZbmpwOUhpSnVoaThzc2FtZVhaZ3I1eFdBRFMteE8zaE9WdG83dFhBVTh0NkxrWWFuaUhRRFNlRk9jTFZid2RCQzEtMGprZ2U2cmNzOVFMSU5OcFR1S1pqSmJIaFBBYkRIWHRCeERxcFF2MzZvQm04MHp0cHhqRE0wdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T15:16:11+00:00",
-   "summary": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do? The New York Times Midterm voters ended the long-running GOP dominance in state legislatures NPR After blue wave, three-quarters of Americans will be governed by Democrats CNN Democratic sweep opens the door f",
-   "body": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do? The New York Times Midterm voters ended the long-running GOP dominance in state legislatures NPR After blue wave, three-quarters of Americans will be governed by Democrats CNN Democratic sweep opens the door for major policy changes at state level The Washington Post What Democrats’ Big State Gains Make Possible New York Magazine",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1441,20 +1564,16 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - Union-Bulletin",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUkh5dUJMeVVWMU5hNW5EXzk3djF4R0RyUGVUWG5JbWNLVjlfMmwxbkw0bFptb2FWRlFIOHdwVzlwei1SSU1uVHQ0MVdhZHJaMXlpRGFjUGhxc0p4a2IwZUlPWDMtdzhZc09uR0pQQUhqcHVpSDVfSkJHTkZFR0FBay1sdXhZR2duc01PcDEtNU5iUUhYX3VmVzJDWV91cUpTb251NW5fUDd0bUhiS3daMTdsNzI2YmdwQnFRbFNHdklYWjJhUl9mYzFYWkF6SVh3bGhfQjZsLVYxR0VrOWR5OFhqS1lveHUybzloaFRCR2w1dm1qMXFuaUF4Y00yQTRoR2lCMA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T15:03:53+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin Union-Bulletin",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "title": "Robert Pattinson: How the Twilight star became 007",
+   "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T15:02:41+00:00",
+   "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+   "body": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg",
    "lang": "en"
   },
   {
@@ -1490,23 +1609,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVZuVWJHaTJ6elZWYk81VFhVenZSVVJVa1NHb0lycThIQVBXZFNyNHZpNHVzZnNib28tOGt0XzdOMmotZkxCVXhnNFlrMk9wb09uRTZxdVBkSkNYbDVUcDFWV0M2czFlNmd2MzQ3RGMxdmp4elBTeGY1aGpteVB2TTNKeG9FUUpCaVBwRHAzbmNCUdIBlwFBVV95cUxPeDdvNW94aFJlaVExSzIyR19OWERVUGV2SWdiNUFkWWxQSF80U1VzTU90Z0FVX3BKMDl5LTJKZGRoNDl0MzNNWVdfX2t5R19KV0ZueGh5aU1zQ1FVTDduRXlIVTZLdV9tdFJBcmJ5VVlIbU9PdFVjT2tmaXlDV194NUY3UmF1Y3R4UGhteVdmUWo5eUUtSlBJ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T14:58:09+00:00",
-   "summary": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick CNBC Trump says he is not firing Lutnick Politico Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Senator accuses US Commerce Departm",
-   "body": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick CNBC Trump says he is not firing Lutnick Politico Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped CNN Senator accuses US Commerce Department of failing to stem flow of AI chips to China Reuters What to know about Howard Lutnick and Scott Bessent feud The Hill",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
    "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
    "source": "NYT World",
@@ -1535,21 +1637,6 @@
     "Turkey"
    ],
    "image": "https://s.france24.com/media/display/9a0953fa-e1ca-11f1-8208-695cb59fade5/w:1024/p:16x9/000-D73X79E.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Western special forces are training without their 'high-tech wizardry’ to survive a kill zone like the one in Ukraine - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDdwNlpUcDEtTTJKZW00dVBXOHVsNjdhZ1lrUVZPMTdjSkhtZlBRLUhObTdoLW5ZYnVLVUh1RWpleXVTOFJVVXJJdFBueUs4RnRnMDlyXzNBMk83bjkyZ3lZUWNSSlpoNmN1dG13cFlaQmwtVHk0S3J4X2c3UElQNG1XYTNReVVLQVJpUlh5cG1feW9zNlpqajdsZnlacll1SVVURE80ZkM5aEl0UGlIeA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:56:00+00:00",
-   "summary": "Western special forces are training without their 'high-tech wizardry’ to survive a kill zone like the one in Ukraine Business Insider",
-   "body": "Western special forces are training without their 'high-tech wizardry’ to survive a kill zone like the one in Ukraine Business Insider",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1612,34 +1699,6 @@
    "lang": "en"
   },
   {
-   "title": "Gypsy Rose Blanchard's Partner Ken Urker’s Cause of Death Confirmed - E! News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemFFNVJ2OHZ0Q1FnWnE2RXNobE52TmZkeVVIdGVTbEhQSDh6YjhlVThHdk9uX2RHZGZZYVlUWk9tU1ZTeldvZ1VPYWkzWlpOYXhKdW93LUdWbFYwalBDajhkdEtwZmlsVnEwTEFoYk9hbkxsZGhjakpWOXZxNUF2Yzk2S3RZdm02MU9mS0V2YkczN3owd3pzWG9tVnVBbmJONDJQNw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T14:47:00+00:00",
-   "summary": "Gypsy Rose Blanchard's Partner Ken Urker’s Cause of Death Confirmed E! News Gypsy-Rose Blanchard’s Ex-Fiancé Ken Urker’s Cause of Death Revealed After His Death at 34 People.com Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker WDSU Gypsy Rose Blanchard speaks",
-   "body": "Gypsy Rose Blanchard's Partner Ken Urker’s Cause of Death Confirmed E! News Gypsy-Rose Blanchard’s Ex-Fiancé Ken Urker’s Cause of Death Revealed After His Death at 34 People.com Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker WDSU Gypsy Rose Blanchard speaks out in first interview about partner's death USA Today Gypsy Rose says leaked prison phone calls with ex were a 'turning point' for Ken Urker before his death Page Six",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXp4LTlVemxGdHAxX2h3dEtuSXFsS0I5Yjg1WkFCM0ZIM0x0VGp6Mm40LWJwM0lFX2hJZmxWWUw0OU5MWHZ5UEdoeE9LQ04tcGN5NjF2QWd6d01rdDFoTnBqYnd2dXJldEdLNkd0LVV3Zmkxb0JxQW5KY1c3YmhJY0psV3lwSF92UUd4Tld0ZlNDZnBzRm5EWjRMdlNpbnBrR192dGd5dlotZzVaTUVPRGxUb1MzXzBDazJwRmVoWmwzd3dlbkt4UVFmRWhRZk5GMFVYVy05Qmo3bFRHRWZPR2J2U1RoV2Z5ckdiLVFuTEk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T14:43:14+00:00",
-   "summary": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN NFL Network: Lions' Aidan Hutchinson out for 2026 season with torn ACL NFL.com 5 momentous plays in Wee",
-   "body": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye Yahoo Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN NFL Network: Lions' Aidan Hutchinson out for 2026 season with torn ACL NFL.com 5 momentous plays in Week 10: Hutchinson’s fateful celebration, Cousins’ timely sack shift power in the NFC North Yahoo Sports From torn ACLs to a headbutted wall, the worst self-inflicted NFL celebration injuries in history Fox News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
    "link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
    "source": "France 24",
@@ -1667,21 +1726,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/73457563_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US, China Negotiate Military Hotline Ahead of APEC - 조선일보",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUZkS3hUcm9KNDI0TnpIQkg1Mk54amtTTjktYm1vZVN2ejdiOHl3SWR4a0hxd3lsQmg1cExFU2ZSZ1FBTmRrMEYwckQxMVRuLW45SkhyMndDa2hqUy1uc0FmcTAySEZEVVAxNjYxb1VrRy1BRzNyZUpzNTlQaXZ6Ri14bms?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-16T14:34:59+00:00",
-   "summary": "US, China Negotiate Military Hotline Ahead of APEC 조선일보",
-   "body": "US, China Negotiate Military Hotline Ahead of APEC 조선일보",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1723,22 +1767,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--2RXDsnTb--/c_crop,h_1125,w_2000,x_0,y_90/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/img_7561.jpeg?itok=7OrzXGT1",
-   "lang": "en"
-  },
-  {
-   "title": "Europeans won’t join Ukraine peace talks, Russia insists",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMElzZFh1Mi1ZZzRwcDdLQS1aQTRiMk5DcmRiQ0MwV0xIRzM3X2xQanpYWm0wc1JtMHoxbHAzNzdJMmFHMmVFRmtueUtfNEpuejhaTFMwUXh3OW13b1NWbHZJSHZYYW9ob3gwQ1Bja0VjMlZxWFNvd3dTVEFhU0NZX19lRVlRMUhsakFDdm9UV3N5YXIzUlItZnUtbXZ5cUJscGNj?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T14:27:57+00:00",
-   "summary": "Europeans won’t join Ukraine peace talks, Russia insists The Times",
-   "body": "Europeans won’t join Ukraine peace talks, Russia insists The Times",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1876,35 +1904,6 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/5494a72e8930f4165bdf3c88b12e6d7118cdedb9/797_557_3241_2593/master/3241.jpg?width=140&quality=85&auto=format&fit=max&s=79f17114d8c41e988d9daf9a1eb33ce6",
-   "lang": "en"
-  },
-  {
-   "title": "Google Maps can now create trip itineraries for you - The Verge",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFUGVUSTZZVnZCallCS3c1bENEZDM5cDRrOVlPa21XSExrSld0cDFMcEhZR0lKeWo3SWVtUFAyOXlmTmVqUlhnT0FQbTFKeXQxRzJnQnhMWXM0RWZtNllIY0x5SVhXM3Q1LXN4bzhiSEt4a2c2eTdhcENB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-16T14:00:00+00:00",
-   "summary": "Google Maps can now create trip itineraries for you The Verge New Ask Maps features to help with holiday travel and prep blog.google 4 new Google Maps features to try on your next holiday road trip ZDNET Google Maps can now build trip itineraries with real-time details about each",
-   "body": "Google Maps can now create trip itineraries for you The Verge New Ask Maps features to help with holiday travel and prep blog.google 4 new Google Maps features to try on your next holiday road trip ZDNET Google Maps can now build trip itineraries with real-time details about each stop TechCrunch Four Things You Can Do With Google Maps' New 'Ask Maps' Feature Lifehacker",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israel's Netanyahu accused of electoral interference",
-   "link": "https://www.france24.com/en/video/20261116-israel-s-netanyahu-accused-of-electoral-interference",
-   "source": "France 24",
-   "published": "2026-11-16T13:58:41+00:00",
-   "summary": "Israeli prime ministerial hopeful Gadi Eisenkot said on Sunday caretaker premier Benjamin Netanyahu must leave office immediately following reports of alleged electoral interference by a Netanyahu aide. France 24's Noga Tarnopolsky has the details.",
-   "body": "Israeli prime ministerial hopeful Gadi Eisenkot said on Sunday caretaker premier Benjamin Netanyahu must leave office immediately following reports of alleged electoral interference by a Netanyahu aide. France 24's Noga Tarnopolsky has the details.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/b2f13624-e1c2-11f1-9e53-695cb59fade5/w:1024/p:16x9/EN-20261116-140130-140512-CS.jpg",
    "lang": "en"
   },
   {
