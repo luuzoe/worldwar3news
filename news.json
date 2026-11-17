@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:38:57.144154+00:00",
- "updated_yangon": "2026-11-17 07:08",
+ "updated": "2026-11-17T01:38:52.191557+00:00",
+ "updated_yangon": "2026-11-17 08:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,8 +9,8 @@
   "CNA World",
   "DW",
   "France 24",
+  "Google News",
   "Google News · Ukraine",
-  "Google News · War",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
   "NYT World",
@@ -20,11 +20,11 @@
  "countries": [
   [
    "United States",
-   43
+   45
   ],
   [
    "Ukraine",
-   25
+   21
   ],
   [
    "Russia",
@@ -32,26 +32,26 @@
   ],
   [
    "European Union",
-   10
-  ],
-  [
-   "France",
-   9
-  ],
-  [
-   "Myanmar",
-   8
-  ],
-  [
-   "Iran",
-   6
-  ],
-  [
-   "China",
-   5
+   15
   ],
   [
    "Germany",
+   8
+  ],
+  [
+   "France",
+   8
+  ],
+  [
+   "China",
+   7
+  ],
+  [
+   "Myanmar",
+   7
+  ],
+  [
+   "Iran",
    5
   ],
   [
@@ -59,23 +59,19 @@
    5
   ],
   [
-   "Yemen",
-   4
-  ],
-  [
-   "Israel",
-   4
-  ],
-  [
-   "Palestine",
+   "Australia",
    3
   ],
   [
-   "Australia",
+   "Yemen",
+   3
+  ],
+  [
+   "India",
    2
   ],
   [
-   "Saudi Arabia",
+   "Israel",
    2
   ],
   [
@@ -83,11 +79,15 @@
    1
   ],
   [
-   "India",
+   "Palestine",
    1
   ],
   [
    "Japan",
+   1
+  ],
+  [
+   "Saudi Arabia",
    1
   ],
   [
@@ -106,7 +106,7 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 26,
+ "war_count": 17,
  "languages": {
   "my": 25,
   "en": 115
@@ -196,19 +196,307 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာ့အရေးအကျပ်အတည်းပြင်းထန်နေဆဲ - ကုလအတွင်းရေးမှူးချုပ်",
-   "link": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss",
+   "title": "သမ္မတ ထရမ့်ရဲ့ အာရှခရီးစဉ် စတင်၊ အာဆီယံနဲ့ တရုတ်၊ရုရှားခေါင်းဆောင်တွေနဲ့ တွေ့မယ်",
+   "link": "https://www.bbc.co.uk/burmese/live/ckm2mlvn2129t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-17T00:39:08+00:00",
-   "summary": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ဘင်္ဂလားပင်လယ်အော် မုန်တိုင်းငယ်ကြောင့် မြန်မာတောင်ပိုင်းဒေသတွေမှာ မိုးများနိုင်၊ ကြက်သွန်နီ တပိဿာ ကျပ် ၂ သောင်းနီးပါးနဲ့ စံချိန်တင်စျေးဆက်တက် စတဲ့ မြန်မာနဲ့ကမ္ဘာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Myanmar",
+   "published": "2026-11-17T01:39:02+00:00",
+   "summary": "ထရမ့်ရဲ့ အာရှခရီးမှာ ယူကရိန်းအရေး၊ကုန်သွယ်ရေးနဲ့ ဒေသတွင်းလုံခြုံရေး ဆွေးနွေးမယ်၊ ဒေါ်အောင်ဆန်းစုကြည်ကိုလွှတ်ပေးဖို့ ကုလအကြီးအကဲတောင်းဆိုတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ထရမ့်ရဲ့ အာရှခရီးမှာ ယူကရိန်းအရေး၊ကုန်သွယ်ရေးနဲ့ ဒေသတွင်းလုံခြုံရေး ဆွေးနွေးမယ်၊ ဒေါ်အောင်ဆန်းစုကြည်ကိုလွှတ်ပေးဖို့ ကုလအကြီးအကဲတောင်းဆိုတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "Ukraine",
+    "Russia",
+    "China"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c148/live/e52aed20-e1b2-11f1-9a3f-99aca912798e.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb00/live/ce8ea8d0-e221-11f1-99a1-253766e7ad8b.jpg",
    "lang": "my"
+  },
+  {
+   "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T01:30:11+00:00",
+   "summary": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Doctors are raising concerns about US babies born with measles AP News New Public Health",
+   "body": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Doctors are raising concerns about US babies born with measles AP News New Public Health Alerts report spotlights how pregnant women with measles and their babies fare CIDRAP Opinion | Measles is here. That demands a ‘zero dose.’ The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+   "link": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-17T01:25:08+00:00",
+   "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard Get our breaking news email , free app or daily news podcast A Toll truck driver was fired from work in Victoria a",
+   "body": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard Get our breaking news email , free app or daily news podcast A Toll truck driver was fired from work in Victoria after using smartglasses to snap photos at an LPG terminal, in what was described as an “intrinsically unsafe” incident. It is the first reported case in Australia of a worker dismissed for using smartglasses in a workplace. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/1bb8d30dcd78052afadd5695ad1cf81a973b10fe/1115_380_2101_1680/master/2101.jpg?width=140&quality=85&auto=format&fit=max&s=fce1026769e0fc3453ed7d39b48fdf28",
+   "lang": "en"
+  },
+  {
+   "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+   "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T01:19:56+00:00",
+   "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+   "body": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261116__D7LQ8CQ__v1__HighRes__FilesIrelandAlgeriaUnrestCrimeChildren-1794874440.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+   "source": "The Guardian",
+   "published": "2026-11-17T01:18:28+00:00",
+   "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff The Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after sw",
+   "body": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff The Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after swallowing a knit hat that got into her enclosure. Zoo veterinarians and staff are monitoring Fiona and working to help her pass the hat, the zoo said in a statement Monday. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8",
+   "lang": "en"
+  },
+  {
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-17T01:18:08+00:00",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
+   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "lang": "en"
+  },
+  {
+   "title": "EU countries announce migrant deportation centre in Rwanda",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T01:12:28+00:00",
+   "summary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+   "body": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794877935.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+   "source": "The Guardian",
+   "published": "2026-11-17T01:10:59+00:00",
+   "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is ",
+   "body": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
+   "lang": "en"
+  },
+  {
+   "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+   "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+   "source": "NYT World",
+   "published": "2026-11-17T01:09:52+00:00",
+   "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+   "body": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVV6WkxCR1dHSldhS0kzVjI3OTVhUzk3MmxXVnlBX2RLSVhoeGI0cXlaQ3VDelF5NzdweUtqOUpxY1FKdGpLTW50Rm5YZlU0ZlBiUHpOY3RXWDFLOS1JOHp0LUVIU2VYRFN4N0czYTNsd3pvMk8xQ1lBVnVIVFhiTmxUTQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T01:06:00+00:00",
+   "summary": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop CBS News United Airlines Flights Resume After ‘Widespread System Outage’ The New York Times United Airlines says it resolved system outage that delayed flights CNN 1.5-hour-long syste",
+   "body": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop CBS News United Airlines Flights Resume After ‘Widespread System Outage’ The New York Times United Airlines says it resolved system outage that delayed flights CNN 1.5-hour-long system outage forces United Airlines to delay departing flights AP News United Airlines says technology outage that delayed departures has been resolved Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T01:02:56+00:00",
+   "summary": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
+   "body": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+   "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+   "source": "France 24",
+   "published": "2026-11-17T00:58:33+00:00",
+   "summary": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and m",
+   "body": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+   "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T00:45:11+00:00",
+   "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+   "body": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T121935Z_304489647_RC2DMOAZ63PZ_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TALKS-1794870040.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. loses measles-elimination status, erasing decades of progress",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T00:41:00+00:00",
+   "summary": "U.S. loses measles-elimination status, erasing decades of progress NBC News What to know about measles outbreaks as the US faces losing its elimination status KOCO US braces for loss of measles elimination status amid worst outbreak in decades The Hill US loses measles eliminatio",
+   "body": "U.S. loses measles-elimination status, erasing decades of progress NBC News What to know about measles outbreaks as the US faces losing its elimination status KOCO US braces for loss of measles elimination status amid worst outbreak in decades The Hill US loses measles elimination status – an epidemiologist explains what it will take to regain it The Conversation US has lost measles elimination status, global health authorities say NPR",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "‘SNL’ alum Heidi Gardner’s director boyfriend dead at 43 - Page Six",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2IzT1FJSW5UTlk2WDcwUy14bzgwbkNZRkZla1hmMkVuTS1xMXliUE5FWHAwbWdlY1pOVmszbm9oSGRGNHJXNzlzY2Z2R3A5Q2ZrUTQtYXdzUzBPanY1bGtmNGV2YVYwVVB0SjZkTHlMNWlsZmxsZkRMV255aHJvNXd6NDNvTEZoekRSNTZzTFF1TTJU?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T00:39:00+00:00",
+   "summary": "‘SNL’ alum Heidi Gardner’s director boyfriend dead at 43 Page Six 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43 TMZ Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43 People.com Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as pro",
+   "body": "‘SNL’ alum Heidi Gardner’s director boyfriend dead at 43 Page Six 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43 TMZ Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43 People.com Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as probe launched Daily Mail Ray Tintori, Music Video Director and Filmmaker, Dies at 43 Variety",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Third U.S. aircraft carrier arrives in Middle East as Iran blockade continues - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVlLQzhTNkp4OVh5aWIwYllRRjRpOU9jM3FDQUM5eDc1eVhXVk9jai1ibFEzSTU0TzdjeFJLS05VdkpNZTVVN2EydGRQVldwcEQyeGNsXzZfcWQwRU5JdEFHai1sc2IxSWFxRk9WbzF3UDkzRHlVMzNkWVJIOFpmM2JqY01nR29tRVJlVFMwcUFwSXZUX0xNLWkydzk2WEdoZy13aXptUG9FZlEydVVhcHhOcW1hT3d6S0NUX3g2NXMta080U1VwVS1n?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T00:38:55+00:00",
+   "summary": "Third U.S. aircraft carrier arrives in Middle East as Iran blockade continues The Washington Post How Russia is preparing Iran for the next escalation Al Jazeera Third US aircraft carrier brings thousands more troops to Middle East The Guardian Watch What U.S. Aircraft Carriers B",
+   "body": "Third U.S. aircraft carrier arrives in Middle East as Iran blockade continues The Washington Post How Russia is preparing Iran for the next escalation Al Jazeera Third US aircraft carrier brings thousands more troops to Middle East The Guardian Watch What U.S. Aircraft Carriers Bring to the Iran War WSJ USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home USNI News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T00:36:00+00:00",
+   "summary": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO Bloomberg.com Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? Yahoo Finance Jensen Huang Wants To Come Back — Nvidia Board Needs To Stand Firm Forbes Trump backs campaign to reinstate ",
+   "body": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO Bloomberg.com Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? Yahoo Finance Jensen Huang Wants To Come Back — Nvidia Board Needs To Stand Firm Forbes Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy AP News NVIDIA Announces CEO Transition NVIDIA Newsroom",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UK seeks closer ties with EU after Brexit fail",
+   "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T00:30:21+00:00",
+   "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+   "body": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T213551Z_1833612859_RC26POAJK359_RTRMADP_3_BRITAIN-EU-BURNHAM-1794870258.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+   "source": "The Guardian",
+   "published": "2026-11-17T00:27:29+00:00",
+   "summary": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedalled on its plan to cut backpacker numbers, arguing the cha",
+   "body": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedalled on its plan to cut backpacker numbers, arguing the change is the “best possible outcome” for regional industries who had criticised the crackdown because they rely on travellers for labour. On Tuesday, the Albanese government announced it would lift the proposed cap on third-year working holiday visas, boost regional work requirements and delay the start of a new ballot system. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bdff9c57b687d49e9eb3c34f48dc8058f94fd3ca/736_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=bbb2031ff4cb1b35ee99a259de4c670b",
+   "lang": "en"
+  },
+  {
+   "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T00:23:00+00:00",
+   "summary": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks AP News JPMorgan Chase systems recovering following hourslong nationwide technical outage Fox Business Thousands of Chase Bank customers report trouble with online banking services CNN JPMorgan ",
+   "body": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks AP News JPMorgan Chase systems recovering following hourslong nationwide technical outage Fox Business Thousands of Chase Bank customers report trouble with online banking services CNN JPMorgan Chase says temporary software bug is affecting consumer banking CNBC Customers at major banks report difficulty accessing accounts online KSAT",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
+   "lang": "en"
   },
   {
    "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
@@ -226,18 +514,16 @@
    "lang": "en"
   },
   {
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-17T00:19:28+00:00",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s re",
-   "body": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-   "category": "USA / Americas",
+   "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+   "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T00:21:19+00:00",
+   "summary": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+   "body": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+   "category": "Africa",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2018/12/0eecccdfcbd04ca2b42a70466e904940_18.jpeg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -317,37 +603,33 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war latest: Kyiv mayor warns ballistic missile attack is under way - after Trump made Putin claim",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN194QW0tb1BJblZuN0dybWtuLVIwdVNmdVgxWE9Kb1paNlFGWmFpSmk1QXg0RW1id0tBV1hXYldsMkdYZlZuanQxc2dVTXZRYk1jRGNZTjR3NVFTVzBJQWpBSXJVYXoyaDZ0cEdISnZRdDBJZ3lmTGJjaV9ibEdOcllDSmhfUzc5Si1sdDVTQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T23:38:28+00:00",
-   "summary": "Ukraine war latest: Kyiv mayor warns ballistic missile attack is under way - after Trump made Putin claim Sky News",
-   "body": "Ukraine war latest: Kyiv mayor warns ballistic missile attack is under way - after Trump made Putin claim Sky News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Trump bristles at criticism over grounding of planes, blaming old tech and Biden for the problems - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEt5Qmw1b2g3dmlvTmZ4ME9CeWt4RlBadWs3UTdNYkNJTExyX2JPRXJYZy04SndvUjFSUi1wZFdBM0IxdFpTbHI3Y1R6aU9yeExuRmJSU0lyT2d1TGlDWnFZYVI1ZlFnWE5ZM1Jxb1U3VURrVkhEaW1yeWxWNkVxVGlSb3VUY05CbkhabUc1ZGZWNkRWa2ZjTE5RTGI0T1Q4UWdBMjNn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T23:40:00+00:00",
+   "summary": "Trump bristles at criticism over grounding of planes, blaming old tech and Biden for the problems AP News Showdown looms between Trump and Democrats over air traffic control meltdown CNN Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Koh blames Tru",
+   "body": "Trump bristles at criticism over grounding of planes, blaming old tech and Biden for the problems AP News Showdown looms between Trump and Democrats over air traffic control meltdown CNN Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop The New York Times Koh blames Trump for blocking Biden-era infrastructure, FAA funding The Hill First Thing: Trump administration blames travel chaos on former presidents and Congress The Guardian",
+   "category": "USA / Americas",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "",
    "lang": "en"
   },
   {
-   "title": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3BhOWZxdUNZd3BrQXA1STV6cnFEbVBFVlRqSTJnVTQ1dGZsb1I3V1FqbWdIUTJUMUt4dEV0VmZMNnFJRFdEZHdiOVBfbVEzcl9kbDl4ekNFSXI4MnZGcGZNQmNZMC0wNi1tbVNqSG90aVEzaFVSOWNkX2M0M253MElkbnZERklEMmxGMzJMcTg4dXZSRU9TVFNDM2ZCQkMyS2hFc0NhTlVIY0xrelFZ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T23:32:56+00:00",
-   "summary": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
-   "body": "Ukraine war live: Explosions in Kyiv hours after Trump says Putin ‘backing down’ The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male” - The Hollywood Reporter",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlpGNDZPWWwzb01mbmVBNXh4cWduTGFWMmg0aXlxcTFfTHlYQ05xWS1YcE9vdmd0WG9jR2JIakotR3o3UWNwN29GOG5PMzhmRFBOQlBUcHRqS05vZ3hlWTl3azFXVExsUWtPQzNUR0c0cG9Hc1JDSG9KU0laaHpvSndwMUpUQTI3MEFWbzE4ZHNYNlpxa1MwcmtDdHNQVFBObWZCNzZQOA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T23:35:29+00:00",
+   "summary": "James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male” The Hollywood Reporter Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety King Charles Weighs in on Robert Pattinson’s Casting as James Bond with 8 Words People.com Robert Pattinso",
+   "body": "James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male” The Hollywood Reporter Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety King Charles Weighs in on Robert Pattinson’s Casting as James Bond with 8 Words People.com Robert Pattinson is the new James Bond. A look back at his other franchises Good Morning America Why Robert Pattinson Could Be a Great James Bond The New York Times",
+   "category": "Global",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "",
    "lang": "en"
   },
   {
@@ -356,7 +638,7 @@
    "source": "The Guardian",
    "published": "2026-11-16T23:26:23+00:00",
    "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare n",
-   "body": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” United said in a statement. “There is no indication that this was a cybersecurity-related issue.” Continue reading...",
+   "body": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” Chicago-based United said in a statement. “There is no indication that this was a cybersecurity-related issue.” Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -366,18 +648,18 @@
    "lang": "en"
   },
   {
-   "title": "Labor announces policy backflip to allow more backpackers to work in regional Australia",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-   "source": "The Guardian",
-   "published": "2026-11-16T23:21:46+00:00",
-   "summary": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker numbers, arguing the cha",
-   "body": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker numbers, arguing the change is the “best possible outcome” for regional industries who had criticised the crackdown because they rely on travellers for labour. On Tuesday, the Albanese government announced it would lift the proposed cap on third-year working holiday visas, boost regional work requirements and delay the start of a new ballot system. Continue reading...",
-   "category": "Asia-Pacific",
+   "title": "Report: Aidan Hutchinson has torn ACL but no additional damage - NBC Sports",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSU1HOVM4cWZyaXZwb3V2SEFzalRCTGI3OXhKV2ZYVlozRWV1aVdiYUNrYmR3aDJKWFZJZ185WmgxZHUwTlJScnpGNkZOZzhZMGlHTDJRdTVlYXlTbllVNEVHa2xNVlNsZEJra2lzVUZVRXBxa0d5MWc4VmZXUV9Td3QyaG5UeVVLVmg3VDNpajZKcWliVmpQemtEdnRKcXJqSDdnOWtYdlZDS0RCeGlFcjNLUV9nWG9CNE56RlIwQUY?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T23:24:45+00:00",
+   "summary": "Report: Aidan Hutchinson has torn ACL but no additional damage NBC Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10 The New York Times Instead of celebrating wi",
+   "body": "Report: Aidan Hutchinson has torn ACL but no additional damage NBC Sports Sources: Lions' Aidan Hutchinson out for season with knee injury ESPN NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10 The New York Times Instead of celebrating winning trip to Germany, Lions must push ahead without Aidan Hutchinson Yahoo Sports Lions edge rusher Aidan Hutchinson has a torn ACL in his right knee, AP source says WRAL",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Australia"
+    "Germany"
    ],
-   "image": "https://i.guim.co.uk/img/media/bdff9c57b687d49e9eb3c34f48dc8058f94fd3ca/736_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=bbb2031ff4cb1b35ee99a259de4c670b",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -397,7 +679,7 @@
    "lang": "en"
   },
   {
-   "title": "Band of baby sea turtles released into ocean after historic California nesting",
+   "title": "Band of baby sea turtles swims into ocean after historic California nesting",
    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
    "source": "The Guardian",
    "published": "2026-11-16T23:19:11+00:00",
@@ -484,21 +766,6 @@
    "lang": "my"
   },
   {
-   "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
-   "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
-   "source": "The Guardian",
-   "published": "2026-11-16T23:01:28+00:00",
-   "summary": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic ",
-   "body": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic that pro athletes from around the world are making last-minute journeys to experience them. Big wave surfers converged on northern California this Saturday to ride massive, storm-driven swells at the famously dangerous Mavericks Beach, an event some surf fans called “Monster Day.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d83994c899f06f6b3c9e6f669ab4527ee48b60fb/158_0_1583_1267/master/1583.jpg?width=140&quality=85&auto=format&fit=max&s=da0d5e6b0e06bec73903d85fa994f040",
-   "lang": "en"
-  },
-  {
    "title": "EU agrees to resurrect cooperation deal with Syria",
    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
    "source": "Al Jazeera",
@@ -513,6 +780,22 @@
     "European Union"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Brexit diminished us, Burnham says as he tees up closer EU ties - POLITICO.eu",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDk0RllKODNYcWtIaDhfZlltaVYwd2toNEtDaC1sY1FrMHBaOUJaWE0wdU1xSVA3NEhTTF9zWjZ2SkYzY0xGWUJRUUwxU1psY3lWQm1XN28zR2lNOU1GcWUtZXRmNjJlUVZoNDYwbW1QSlhRTEJoczBXR0szc2lUd0RpSUdLcVlkdm5oWHkzMmZ3LTRyRU1IdURaSmx0ZlcyUjQ1MnJfZnlLNWt5TFEtai1R?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:48:00+00:00",
+   "summary": "Brexit diminished us, Burnham says as he tees up closer EU ties POLITICO.eu UK seeks closer ties with EU after Brexit fail Al Jazeera U.K. leader Andy Burnham says Brexit hasn’t worked ahead of a reset summit with the EU NBC News The Guardian view on Europe and Burnham: a future ",
+   "body": "Brexit diminished us, Burnham says as he tees up closer EU ties POLITICO.eu UK seeks closer ties with EU after Brexit fail Al Jazeera U.K. leader Andy Burnham says Brexit hasn’t worked ahead of a reset summit with the EU NBC News The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial The Guardian Andy Burnham has ignited the Rejoin debate The Economist",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -606,6 +889,21 @@
    "lang": "my"
   },
   {
+   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:25:20+00:00",
+   "summary": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times The biggest takeaways from the 2027 Grammy nominations: Raye reigns, Olivia Rodrigo takes on her former idol and men go missing Yahoo WA folk-rock hero gets 4 nominations for 2027 Grammy Awards T",
+   "body": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field The New York Times The biggest takeaways from the 2027 Grammy nominations: Raye reigns, Olivia Rodrigo takes on her former idol and men go missing Yahoo WA folk-rock hero gets 4 nominations for 2027 Grammy Awards The Seattle Times Women lead Grammy nominations as Noah Kahan gets snubbed The Washington Post Grammy nominations snub Harry Styles and hip-hop, while surprises include Dolly Parton AP News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -653,7 +951,7 @@
    "title": "10 Numbers That Might Change How You See Asia",
    "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
    "source": "NYT World",
-   "published": "2026-11-16T22:14:09+00:00",
+   "published": "2026-11-16T22:14:10+00:00",
    "summary": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
    "body": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
    "category": "Global",
@@ -678,6 +976,23 @@
     "France"
    ],
    "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US to curb China's access to AI chips as Trump heads to Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T22:06:04+00:00",
+   "summary": "US to curb China's access to AI chips as Trump heads to Asia Reuters Live updates: Trump on the way to Asia for historic nuclear talks AP News Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China The Guardian Pres. Trump travels for Asia summits WBBJ-TV Live upd",
+   "body": "US to curb China's access to AI chips as Trump heads to Asia Reuters Live updates: Trump on the way to Asia for historic nuclear talks AP News Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China The Guardian Pres. Trump travels for Asia summits WBBJ-TV Live updates: Trump en route to Asia in advance of meeting with Xi and Putin NBC News",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -712,10 +1027,25 @@
    "lang": "en"
   },
   {
+   "title": "Judge issues order blocking Indiana Senate GOP leader Chris Garten from starting new term - Indiana Capital Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejlNUjdVeHp5LUEwWS1IV0lOUl9QZ211ZlA5TlZsWEthMnAwWlc1Y042dkdaYjlEYUh0V2UxMXFIanE4TVJFWm1ickJ5R253WWpFSEdVV2t3SEw4b1VCNWNwMEpzMFpnSUFqVndOeVkyWEZYeTVpQlJfQmUwN1ZCMTNvcE9uZ3BHZWYwd0RWU0ZOUnBWOUVzZEJ4VTNqYkxlQmtDaE9PdWRRX21ha0s1Z3RsdERoNUE2eWhUNUk4TmcyNlBSejVGc3M3WGtnemdiUVVR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T21:51:55+00:00",
+   "summary": "Judge issues order blocking Indiana Senate GOP leader Chris Garten from starting new term Indiana Capital Chronicle Democrats sue to block Senate leader from taking seat Axios Judge intervenes in Indiana Senate race; halts Republican candidate from being sworn-in WHAS11 ‘No other",
+   "body": "Judge issues order blocking Indiana Senate GOP leader Chris Garten from starting new term Indiana Capital Chronicle Democrats sue to block Senate leader from taking seat Axios Judge intervenes in Indiana Senate race; halts Republican candidate from being sworn-in WHAS11 ‘No other option\": Indiana Democrats sue to force recount of Garten's state senate win Yahoo Judge approves temporary order preventing Indiana Sen. Garten from being seated amid race challenge Louisville Public Media",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
    "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
    "source": "NYT World",
-   "published": "2026-11-16T21:42:51+00:00",
+   "published": "2026-11-16T21:42:52+00:00",
    "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
    "body": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
    "category": "USA / Americas",
@@ -903,6 +1233,19 @@
    "lang": "my"
   },
   {
+   "title": "Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T21:01:02+00:00",
+   "summary": "Apple reveals new Mac security controls as AI agents raise privacy risks TechCrunch macOS 27.3 Warns Against Giving AI Apps Full Mac Control MacRumors macOS 27.3 beta 2 now available, here's what's coming 9to5Mac macOS 27.3 beta 2 lets you limit what AI automation apps can see an",
+   "body": "Apple reveals new Mac security controls as AI agents raise privacy risks TechCrunch macOS 27.3 Warns Against Giving AI Apps Full Mac Control MacRumors macOS 27.3 beta 2 now available, here's what's coming 9to5Mac macOS 27.3 beta 2 lets you limit what AI automation apps can see and do AppleInsider macOS could make Full Disk Access harder for apps to get Yahoo Tech",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Manchester United’s Endless Loop",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
    "source": "Al Jazeera",
@@ -913,23 +1256,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794862814.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "source": "The Guardian",
-   "published": "2026-11-16T21:00:21+00:00",
-   "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relation",
-   "body": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the two leaders meet on Tuesday, as Australia signed on to a US-led pact to secure the technologies ​and critical infrastructure for artificial intelligence supply chains. The Quad leaders’ summit in the Philippines’ capital of Manila will be Trump’s first, in either of his presidencies. The US president, fresh from a crushing midterms result, will take centre stage in gatherings of Asian leaders and prepare for historic three-way talks with Xi Jinping of China and Russia’s Vladimir Putin this week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
    "lang": "en"
   },
   {
@@ -1219,19 +1545,15 @@
    "lang": "en"
   },
   {
-   "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin - WRAL",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLThFakVWY2lwRFJ6WUJ3OWlXazFfam5kLUctV3NEUG42elYwazlCS3ZWMlZ2NWRLNVFXZjdMQk9fNklLZVMybmdYMjN3UmVfOFI3YVF6cXItYTI3YUwtelhHRzJsUkdveS1NaFR5T2RPck83TFJiS1o1UUNSZHYzWkVBWnBpMUZ1cWZoa0FYazI4dE1QX0hNUHZ5UlVoaldFUUEzcUpET0dMZDhXdVAwZ25iM0lHZnM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T19:52:30+00:00",
-   "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin WRAL",
-   "body": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin WRAL",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
+   "title": "Mamdani disbands NYPD unit accused of using excessive force",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk5LLWszTzQ3RlRsY29zeUNyMHJzVWg2Q2JXaENVZWNuUncwcDJlc1E1NjZ6RUd1VlVVaDVkZXRwclJ6a0tmU0VzWXdWYlZZaGJaUXFCNFJ0Z2xYRjFLM3c3TGhiVzFDdHdfTlh3MGlVX2xxT2kyUENjX3cwa2NiNFNyNXROWEp0eWFvZWJR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:51:00+00:00",
+   "summary": "Mamdani disbands NYPD unit accused of using excessive force The Guardian SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York New York Mayor Mamdani disbands 'notorious' police unit tha",
+   "body": "Mamdani disbands NYPD unit accused of using excessive force The Guardian SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters Reuters Mayor Mamdani and Police Commissioner Tisch Disband NYPD’s Strategic Response Group NYC.gov",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1288,7 +1610,7 @@
    "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
    "link": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
    "source": "NYT World",
-   "published": "2026-11-16T19:43:53+00:00",
+   "published": "2026-11-16T19:43:54+00:00",
    "summary": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
    "body": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
    "category": "Ukraine / Russia",
@@ -1313,6 +1635,35 @@
     "European Union"
    ],
    "image": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a140700e5c4084accbf996e012cb1bc3",
+   "lang": "en"
+  },
+  {
+   "title": "Germany, EU states open talks on Rwanda deportation scheme - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVBHUVNoRWJuS19ORGc1dmVPV0V2a3JEODV6cjl5clhZVkh1Q1AxYms0MkVQMlU4T3YxUkZ2QlV3Y3E2RkV4LVJwc2pnYi1wNjNYX2xqS3BSU1ZWT1R1UzhaRkU0SEdOaEJGRFRXc3RoWnc0aFNGREo2LUpVREJVVS02WTJKWF9lNEZ0VmtOUW01OFJRa2I4bUhoMF9rUdIBngFBVV95cUxQLXFfSzdfdXFvZGtNMWpURE01QWo5dS1Wc2x5Y2VSR3hQa0lma2pWYzlRLUpWa2dJSVZkSWN2ZVAyMGtIV1ZIZmM5U25MTVRDZzJna2NXQkExci0xTG1pbGxjaldXOTJ3Z0pNdEw3X3lKSndkTXFHNUFOLXdyaENyeTFuSTMxM2FmMVc0SzBjOWdNUFB5UlVDTjB5Nmg3QQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:37:50+00:00",
+   "summary": "Germany, EU states open talks on Rwanda deportation scheme DW.com Five EU countries announce migrant deportation centre in Rwanda BBC 5 European countries aim to send rejected asylum seekers to center in Rwanda NBC News Five European Countries Plan to Deport Migrants to Rwanda Th",
+   "body": "Germany, EU states open talks on Rwanda deportation scheme DW.com Five EU countries announce migrant deportation centre in Rwanda BBC 5 European countries aim to send rejected asylum seekers to center in Rwanda NBC News Five European Countries Plan to Deport Migrants to Rwanda The New York Times Five EU states announce plans for immigration ‘return hubs’ in Rwanda | European Union The Guardian",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What we know about what caused the FAA's nationwide ground stop - Axios",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW8xRjJ5aVF4T09CZHdOUjd1eGpPZDY4NHFsLW9FVHc3NXl4M0hLV1dWMGlpeTlseFZzZ2dUUEZWRXF0dUhmaTZwTnVLWjFST3pqdUtmdlduTjZpNGpTLWVSUFR6ZnRFV1REQmF5dTdPMXlUOVBrWE1rNnNEblNFSlhXWQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:32:07+00:00",
+   "summary": "What we know about what caused the FAA's nationwide ground stop Axios Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ ‘Working on floppy disks’: FAA has fielded years of warnings about old systems CNN Pilots Kept Contact With Controllers Du",
+   "body": "What we know about what caused the FAA's nationwide ground stop Axios Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt WSJ ‘Working on floppy disks’: FAA has fielded years of warnings about old systems CNN Pilots Kept Contact With Controllers During Nationwide Halt to Flights The New York Times Flight disruptions expected to last into Monday NPR",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1360,6 +1711,32 @@
    "lang": "en"
   },
   {
+   "title": "Lindsay Clancy to face retrial for deaths of her three children in March 2027",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweWFpbm9kbmUtMGF4VnhNX1BUZ1FMaFFrSGRWZTNlV0wwTWRnREFkUzhmZm0tQ0ZFUEJWQWZRU0otRnZKQ1pFaDdMaS1EcnFQZjJQTGNZSUc1TW8?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:30:30+00:00",
+   "summary": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy to be retried on first-degree murder charges in 2027 CBS News Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Judge Sets Spring Retrial for Lindsay Cl",
+   "body": "Lindsay Clancy to face retrial for deaths of her three children in March 2027 BBC Lindsay Clancy to be retried on first-degree murder charges in 2027 CBS News Lindsay Clancy to face a new trial in spring of 2027 over children’s killing NPR Judge Sets Spring Retrial for Lindsay Clancy The New York Times Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children PBS",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Jim Miller apologizes for accepting fight against Terrance McKinney after ‘complete bullsh*t’ missing weight - MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemJReDJsY3dtRWhDTzItZHJOOVpuT1pNcW40UHpuYlp2Yzh3czktTU5JZFVyTk9DYmlVVWRSODRaOTdQR1p5MUxxRWFhVFN6TFBmMXhYbUZPNk4yVEVONUR3dHRHNklfT0NXQVNGVlFOY1MwNlQ2QnVOTGROcFZuYVRKQ0hSV0VpN1JpQ3hqdENqM2MzVG9URGJKUktKMGVOSEdIMURoem51MnVZWk1yandndVk3dUZsXzZVVGpYWjd1aFNha29MOF80Q3JqblFHRzZNZzUwVG1uUHZ5?oc=5",
+   "source": "Google News",
+   "published": "2026-11-16T19:30:00+00:00",
+   "summary": "Jim Miller apologizes for accepting fight against Terrance McKinney after ‘complete bullsh*t’ missing weight MMA Fighting Jim Miller Upset He Fought Terrance McKinney at UFC 334 Yahoo Sports The Tao of Jim Miller UFC.com \"I'll Put That Old Man To Sleep\" - Terrance McKinney Fires ",
+   "body": "Jim Miller apologizes for accepting fight against Terrance McKinney after ‘complete bullsh*t’ missing weight MMA Fighting Jim Miller Upset He Fought Terrance McKinney at UFC 334 Yahoo Sports The Tao of Jim Miller UFC.com \"I'll Put That Old Man To Sleep\" - Terrance McKinney Fires Back as Conor McGregor Goes Scorched Earth MMA Sucka VIDEO: Terrance McKinney Destroys Jim Miller With Savage First-Round Knockout At UFC 334 BVM Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Lions won't be intimidated by Brazil, will focus on what's within control: Gavin Lee",
    "link": "https://www.channelnewsasia.com/singapore/singapore-brazil-football-mizuho-blue-challenge-carlo-ancelotti-vinicius-junior-gavin-lee-6555221",
    "source": "CNA World",
@@ -1391,22 +1768,6 @@
    "lang": "en"
   },
   {
-   "title": "US envoy Kushner says progress made in Ukraine talks",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T19:21:53+00:00",
-   "summary": "US envoy Kushner says progress made in Ukraine talks Reuters",
-   "body": "US envoy Kushner says progress made in Ukraine talks Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "'Forced fighters' are being lured into Ukraine war under false pretenses - Phys.org",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yc0ppQ0lqTWlhbnBhNFJHc1ZjSUp6VHFOUFpaZUVjWVB1cll2Q0J6N28zRlYtcmc5TWplWERGdkZkTmlOU0hTU29yTGdFZXh3UzZNcGxrUnNwN25TUm9IOGNJaGhEZnVpVW9ubTZ3eHJ3UFloV2c?oc=5",
    "source": "Google News · Ukraine",
@@ -1432,19 +1793,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--wPVCx76b--/c_crop,h_847,w_1507,x_1,y_45/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/134081.jpg?itok=uiuKnjbY",
-   "lang": "en"
-  },
-  {
-   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1BjLWR1WGZBajVUbFVjSzRHbW9MbDFiTkM5ZXdYNzZxbHIxdmR2OHpKX2tZWVREcVJLZjlERG0ybE5QTFJCYWo2SkVSQzZ1bm1ieFVKNkxSZjhiejVSQVZPT2pORGdqNnVaR0ZVaWJfeExqeE1pQ1JCczZjSFFZQlBaZTZzaFhleDNkeFdrRmFOUmtHd0NlQmRtOGx6ZG1fRms4b0s5RdIBrAFBVV95cUxPUXZzRjVHRGtjYWxHY25YVGk4YlVWY2hCSTlhRmd5N2lHNUFqUUgxc1NkeGxZWmdVa3RhRkQxSUJLOU1jMnBwQ1kwblRJdVdZTHdNaHp0THc0ejc2aHhXU3JVWnpSUjFYV2lvQWVoT0FzRlBYTGREaG03M2JzX25LNFRzcGhVNmZjSEtveEMxWWx2ODZEMWtPYmR5cmJfaVEtekZoSGhKY2hydVlK?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-16T19:19:51+00:00",
-   "summary": "Army airstrike kills at least 13 in West Kordofan, says rights group ABC News - Breaking News, Latest News and Videos",
-   "body": "Army airstrike kills at least 13 in West Kordofan, says rights group ABC News - Breaking News, Latest News and Videos",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1551,352 +1899,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/61785efa43a9a7250b2d43d3918c53814ed1a016/1519_6_3077_2461/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=6db88b05b5e321e10adfc2b9e104ec4d",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkZseFdKMWN4R0xWMU8zZzlnZTg3QlRTc0pobVNwc2xsNTVZTWRCaDZBeWt1dklkLXJyY2sxaGNjT1owWktrcEJiaENrdXhRQTZTQXZVcWs0Xzh2V19PRy1vVFpsYWFFSGZESUVDa3owS21zVXNTSURlRDd6ZmlqOFRPNGwyZXFQRTNMamFIM1FDYzV3RVdkY3N2OFhRUVNmcWU3QmdxUkNXaEV3OFdmS3owd2c?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T19:15:13+00:00",
-   "summary": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed The Kyiv Independent",
-   "body": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDJJdU9mSlVDR1BCRk9QTXZxMWFSbTBpVmh3dkJKQ1BmeXROZnBxZEo1MmlTeEpOdTZCSUJhdUE4NnFBZGd5SXVjZ1ZaU3pFTWUtWlRvRXhOWUR2YTd4MkdjTmF3VG9xQkE5VzE1b0xLQTRPWVpMemZ3dmpjVnpZVWNqcVhQd1NHUFdFREtHZVVFdGpZ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T19:15:13+00:00",
-   "summary": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed Yahoo",
-   "body": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
-   "link": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots",
-   "source": "France 24",
-   "published": "2026-11-16T19:10:36+00:00",
-   "summary": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Bo",
-   "body": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Boulanin to find out just what is at stake.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1024/p:16x9/000-D68W7VD.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-   "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T19:09:09+00:00",
-   "summary": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
-   "body": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-   "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-   "source": "The Guardian",
-   "published": "2026-11-16T19:04:07+00:00",
-   "summary": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait an",
-   "body": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority was to break the attritional siege on Taiz , Yemen’s third city, and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised government is now based. Continue reading...",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0",
-   "lang": "en"
-  },
-  {
-   "title": "Safer, smoother, more fun: Joo Chiat's Shibuya-style crossing gets warm welcome from pedestrians, businesses",
-   "link": "https://www.channelnewsasia.com/singapore/joo-chiat-scramble-crossing-trial-businesses-pedestrians-6555216",
-   "source": "CNA World",
-   "published": "2026-11-16T19:04:00+08:00",
-   "summary": "Residents and pedestrians are celebrating a faster, easier walk at the busy Joo Chiat Road junction, but some motorists are bemoaning longer waits and detours.",
-   "body": "Residents and pedestrians are celebrating a faster, easier walk at the busy Joo Chiat Road junction, but some motorists are bemoaning longer waits and detours.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--8LfLfWRw--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/ayt_1097.jpg?itok=bmty16K6",
-   "lang": "en"
-  },
-  {
-   "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-   "source": "NYT World",
-   "published": "2026-11-16T18:58:10+00:00",
-   "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-   "body": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says - The Irish Times",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUtscEtSSUZ3Q1lRdmxlVDN5U1FPMHB3OHRoZnhhdDgtX0tBd054TDNGVFozcmdHcUVaRzFpVjlPbEZ2cUNQZ2RpVjlpanJ1eHBfR0JyNWVFU19uNGZsbFNoR3B4dzE2WjVRN1BkT2owNXhQenFiU3hhZmdjemU2Q3lQMW50T3pONHo2LV9wSnMtMEhhLTRCSkgteHhqWldqQ3BJdGJ0SmpIcEdDVkdIdVlzMjB5cFNTRlhYSw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T18:48:38+00:00",
-   "summary": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says The Irish Times",
-   "body": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says The Irish Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
-   "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T18:38:16+00:00",
-   "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
-   "body": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Czech mass protests: Media is the first casualty 'when you want to attack democracy'",
-   "link": "https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy",
-   "source": "France 24",
-   "published": "2026-11-16T18:33:00+00:00",
-   "summary": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the prop",
-   "body": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the proposed changes offer \"no real safeguards\" against political influence, pointing to developments in Slovakia and Hungary. She also drew a parallel with the Velvet Revolution of 1989, recalling that \"we didn't have a free media and we only had a state media\" under communist rule. \"Media is the first (line of) attack when you want to attack democracy,\" she said. With the legislation expected to reach Parliament in January, Stárek believes the demonstrations will continue if the government refuses to engage in any discussions.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/16a10508-e1e3-11f1-a5b1-3f371022a770/w:1024/p:16x9/EN-20261116-161050-161723-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "MSC Cruises to launch Singapore-based sailings from 2028, with voyages across Southeast Asia",
-   "link": "https://www.channelnewsasia.com/travel/msc-cruises-singapore-homeport-2028-southeast-asia-voyages-6555101",
-   "source": "CNA World",
-   "published": "2026-11-16T18:32:54+08:00",
-   "summary": "Under a three-year partnership with the Singapore Tourism Board, MSC Orchestra will begin operating eight- to 12-night cruises from Singapore in late 2028, with stops in countries including Thailand, Vietnam and Indonesia.",
-   "body": "Under a three-year partnership with the Singapore Tourism Board, MSC Orchestra will begin operating eight- to 12-night cruises from Singapore in late 2028, with stops in countries including Thailand, Vietnam and Indonesia.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--wTw9_vCs--/c_crop,h_1125,w_2000,x_0,y_63/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/msc_cruises_-_singapore_homeport_caa16nov.jpeg?itok=3aYe0NDw",
-   "lang": "en"
-  },
-  {
-   "title": "Grammy Awards: Raye and Rosalia lead nominations",
-   "link": "https://www.dw.com/en/grammy-awards-raye-and-rosalia-lead-nominations/a-79961198?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-16T18:14:00+00:00",
-   "summary": "The nominations for the 2027 Grammy Awards are in and women dominated the top categories for the highest accolade in the music industry.",
-   "body": "The nominations for the 2027 Grammy Awards are in and women dominated the top categories for the highest accolade in the music industry.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://static.dw.com/image/79962143_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "British actor Robert Pattinson named as new James Bond",
-   "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T18:13:14+00:00",
-   "summary": "The actor called the studio's decision a 'dream come true'.",
-   "body": "The actor called the studio's decision a 'dream come true'.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb36bf-1794848447.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Europe’s mandate on Russia-Ukraine peace talks takes shape, as Putin escalates war - EUobserver",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJiMXp2UzJkMHdFTjV6eC02b1JEWnZDbW05cVdjRXRnNkNJSzd1R0ZYejVqR3FSS196amExeEZxdkxwV3hmMXU1ZThyVURxTW40UmY5X3k5S3FTYlNqcndxN1FnSnJkUEttN2hKN2Yxb09VRWtxdlltODRDeEs3WjNsNmhvQUxOUE1aNnU0MGJNQTIzYUtQS0hjelkwX1NzZGFEOWpIOG9XeXM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-16T18:01:24+00:00",
-   "summary": "Europe’s mandate on Russia-Ukraine peace talks takes shape, as Putin escalates war EUobserver",
-   "body": "Europe’s mandate on Russia-Ukraine peace talks takes shape, as Putin escalates war EUobserver",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "SFA lifts suspension of Deli Hub Catering after gastroenteritis cases at two MOE kindergartens",
-   "link": "https://www.channelnewsasia.com/singapore/deli-hub-catering-sfa-lifts-suspension-gastroenteritis-moe-kindergarten-6555011",
-   "source": "CNA World",
-   "published": "2026-11-16T18:00:02+08:00",
-   "summary": "The caterer has complied with measures stipulated by the Singapore Food Agency, including cleaning and sanitising its premises and having food workers undergo food safety training again.",
-   "body": "The caterer has complied with measures stipulated by the Singapore Food Agency, including cleaning and sanitising its premises and having food workers undergo food safety training again.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--VkZzFkpK--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/27/screenshot-2026-10-27-225151.png?itok=_vq6DeS9",
-   "lang": "en"
-  },
-  {
-   "title": "More than half of households that left ComCare assistance in 2022 returned within 3 years: MSF",
-   "link": "https://www.channelnewsasia.com/singapore/households-comcare-return-within-3-years-msf-6554271",
-   "source": "CNA World",
-   "published": "2026-11-16T18:00:00+08:00",
-   "summary": "Households with stable employment were less likely to return to ComCare assistance, while caregiving responsibilities and health issues remained barriers to financial independence.",
-   "body": "Households with stable employment were less likely to return to ComCare assistance, while caregiving responsibilities and health issues remained barriers to financial independence.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--q1r0TCxO--/c_crop,h_843,w_1500,x_0,y_59/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2022/02/21/cal_0791_0.jpg?itok=CF1UL4ad",
-   "lang": "en"
-  },
-  {
-   "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-   "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:54:31+00:00",
-   "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-   "body": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320546823827-1794851994.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:49:16+00:00",
-   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "body": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:37:25+00:00",
-   "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-   "body": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-   "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:36:21+00:00",
-   "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "body": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Former project manager handling West Coast Town Council tenders gets jail for taking S$50,000 bribe",
-   "link": "https://www.channelnewsasia.com/singapore/west-coast-town-council-tender-bribe-project-manager-6554866",
-   "source": "CNA World",
-   "published": "2026-11-16T17:34:32+08:00",
-   "summary": "He accepted S$50,000 in cash from a contractor, whose firm later won a S$3.3 million project covering 41 blocks in Teban Gardens, Pandan Gardens, West Coast Drive and Jurong West.",
-   "body": "He accepted S$50,000 in cash from a contractor, whose firm later won a S$3.3 million project covering 41 blocks in Teban Gardens, Pandan Gardens, West Coast Drive and Jurong West.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--hi2M1Qwi--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/img_4642.jpg?itok=3cCC-Nzt",
-   "lang": "en"
-  },
-  {
-   "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-   "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-16T17:24:26+00:00",
-   "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-   "body": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afb1ed172-1794842321.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-   "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-   "source": "NYT World",
-   "published": "2026-11-16T17:24:04+00:00",
-   "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "body": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "NASA's Voyager 1 reaches a light-day away from Earth",
-   "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-16T17:24:00+00:00",
-   "summary": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-   "body": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/79958286_6.jpg",
    "lang": "en"
   },
   {
