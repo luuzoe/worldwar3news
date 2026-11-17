@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T10:38:52.952925+00:00",
- "updated_yangon": "2026-11-17 17:08",
+ "updated": "2026-11-17T11:38:52.474019+00:00",
+ "updated_yangon": "2026-11-17 18:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -23,7 +23,7 @@
  "countries": [
   [
    "United States",
-   34
+   37
   ],
   [
    "Russia",
@@ -35,31 +35,43 @@
   ],
   [
    "China",
-   20
+   21
   ],
   [
    "Myanmar",
    12
   ],
   [
-   "France",
+   "Israel",
    6
   ],
   [
-   "Israel",
-   4
+   "European Union",
+   6
   ],
   [
    "Iran",
-   4
+   6
+  ],
+  [
+   "France",
+   5
+  ],
+  [
+   "Palestine",
+   3
+  ],
+  [
+   "Turkey",
+   3
+  ],
+  [
+   "United Kingdom",
+   3
   ],
   [
    "Germany",
-   4
-  ],
-  [
-   "Australia",
-   4
+   3
   ],
   [
    "North Korea",
@@ -67,38 +79,30 @@
   ],
   [
    "India",
-   3
-  ],
-  [
-   "Turkey",
    2
   ],
   [
-   "European Union",
+   "Australia",
    2
   ],
   [
-   "Palestine",
-   2
-  ],
-  [
-   "South Korea",
-   2
-  ],
-  [
-   "NATO",
-   1
-  ],
-  [
-   "Taiwan",
-   1
-  ],
-  [
-   "United Kingdom",
+   "Pakistan",
    1
   ],
   [
    "Japan",
+   1
+  ],
+  [
+   "Yemen",
+   1
+  ],
+  [
+   "Saudi Arabia",
+   1
+  ],
+  [
+   "NATO",
    1
   ]
  ],
@@ -113,17 +117,17 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 22,
+ "war_count": 24,
  "languages": {
-  "my": 23,
-  "en": 117
+  "my": 22,
+  "en": 118
  },
  "items": [
   {
    "title": "Singapore to push for single ASEAN market, closer energy and digital links as 2027 chair: PM Wong",
    "link": "https://www.channelnewsasia.com/singapore/asean-chairmanship-lawrence-wong-philippines-6556511",
    "source": "CNA World",
-   "published": "2026-11-17T18:29:20+08:00",
+   "published": "2026-11-17T18:29:00+08:00",
    "summary": "Prime Minister Lawrence Wong received the ceremonial gavel from the Philippines at the close of the 49th summit, and also reviewed the bloc’s progress over the past year.",
    "body": "Prime Minister Lawrence Wong received the ceremonial gavel from the Philippines at the close of the 49th summit, and also reviewed the bloc’s progress over the past year.",
    "category": "Global",
@@ -275,6 +279,22 @@
    "lang": "en"
   },
   {
+   "title": "မနီလာမြို့ရောက်တဲ့သမ္မတထရမ့် ‘Quad’ ခေါင်းဆောင်တွေနဲ့ချက်ချင်းသွားတွေ့",
+   "link": "https://www.bbc.co.uk/burmese/live/ckm2mlvn2129t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-17T11:38:50+00:00",
+   "summary": "မနီလာမြို့ကိုရောက်တဲ့အမေရိကန်သမ္မတ ဒေါ်နယ်ထရမ့်ဟာ အဲဒီမှာ အာဆီယံထိပ်သီးဆွေးနွေးပွဲတက်နေတဲ့လုံခြုံရေးမဟာမိတ် (Quad)အဖွဲ့၀င်နိုင်ငံတွေက ခေါင်းဆောင်တွေနဲ့ချက်ချင်းတွေ့ဆုံတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မနီလာမြို့ကိုရောက်တဲ့အမေရိကန်သမ္မတ ဒေါ်နယ်ထရမ့်ဟာ အဲဒီမှာ အာဆီယံထိပ်သီးဆွေးနွေးပွဲတက်နေတဲ့လုံခြုံရေးမဟာမိတ် (Quad)အဖွဲ့၀င်နိုင်ငံတွေက ခေါင်းဆောင်တွေနဲ့ချက်ချင်းတွေ့ဆုံတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/8f0d86d0-e277-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "my"
+  },
+  {
    "title": "PSLE results to be released on Nov 24",
    "link": "https://www.channelnewsasia.com/singapore/psle-results-release-nov-24-moe-seab-6557596",
    "source": "CNA World",
@@ -288,21 +308,657 @@
    "lang": "en"
   },
   {
-   "title": "သမ္မတ ထရမ့်ရဲ့ အာရှခရီးစဉ် စတင်၊ အာဆီယံနဲ့ တရုတ်၊ရုရှားခေါင်းဆောင်တွေနဲ့ တွေ့မယ်",
-   "link": "https://www.bbc.co.uk/burmese/live/ckm2mlvn2129t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-17T10:38:53+00:00",
-   "summary": "ထရမ့်ရဲ့ အာရှခရီးမှာ ယူကရိန်းအရေး၊ကုန်သွယ်ရေးနဲ့ ဒေသတွင်းလုံခြုံရေး ဆွေးနွေးမယ်၊ ဒေါ်အောင်ဆန်းစုကြည်ကိုလွှတ်ပေးဖို့ ကုလအကြီးအကဲတောင်းဆိုတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ထရမ့်ရဲ့ အာရှခရီးမှာ ယူကရိန်းအရေး၊ကုန်သွယ်ရေးနဲ့ ဒေသတွင်းလုံခြုံရေး ဆွေးနွေးမယ်၊ ဒေါ်အောင်ဆန်းစုကြည်ကိုလွှတ်ပေးဖို့ ကုလအကြီးအကဲတောင်းဆိုတဲ့သတင်းအပါအဝင် နိုဝင်ဘာ ၁၇ ရက် မြန်မာနဲ့ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "title": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
+   "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+   "source": "NYT World",
+   "published": "2026-11-17T11:29:28+00:00",
+   "summary": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
+   "body": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-header-zjth/17trump-summits-header-zjth-mediumSquareAt3X-v2.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Here’s the latest.",
+   "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
+   "source": "NYT World",
+   "published": "2026-11-17T11:28:59+00:00",
+   "summary": "",
+   "body": "",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-videoSixteenByNine3000.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump says Russia-Ukraine war 'very close' to being resolved - Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0RQUWNsd213Qno3Wnc3ZzhTUk02THZBWVBBeHlWTEowT2FaaWVlY3hRSzdDaV8zWHpmZXRDLU94RkhrbHRVZWRvV3VHdjltQlpfT1hqc1IzbmtDM0xDSUg3YzJBSm9nWnc0c1pTQmEzVjlPNHJ4V29LTldvNk9lQnZKalFvWVVEcjlGQzdfUHhKWGpIWHY3WmlXTzVSMEJJS3c?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:27:45+00:00",
+   "summary": "Trump says Russia-Ukraine war 'very close' to being resolved Anadolu Ajansı",
+   "body": "Trump says Russia-Ukraine war 'very close' to being resolved Anadolu Ajansı",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine Accuses Russia of Double-Tap Strike After Komyshuvakha Aid Centre Kills 72: how 9 outlets framed it - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORTQtemN3NUhHcVJkMjFPZlF2M3Y1aHA5MXJTTkt6bzVRNXVpSjBXd3ZFX3FxZTFhejVjQWRKajR4ODRPOTd1dVNwY3JsLWdETVlHS3gxeW91emdOTWFUbl90T2pYNk12TDNrQUNPb1hVYmFJd29vamVWN0JpWkF3WWlkWXU5ZzhRVFpXLWd6MnJldVQ4VlJTLU1oMG0tRV8tSXQ5bXh2dEFwR2dEejhvM3NBU2p6MjRQXzhyU00tWWo1RDNvaWVVMDdQNnN3bEZmc25fTldvVVMyMjdCSVl1c2xFMnFicWhr?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:27:13+00:00",
+   "summary": "Ukraine Accuses Russia of Double-Tap Strike After Komyshuvakha Aid Centre Kills 72: how 9 outlets framed it NewsCord",
+   "body": "Ukraine Accuses Russia of Double-Tap Strike After Komyshuvakha Aid Centre Kills 72: how 9 outlets framed it NewsCord",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "More Than Half of Russian Men Under 40 Who Died in 2025 Were Killed in the War Against Ukraine - UNITED24 Media",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGpUaGpjRmF5dTRtR2ZsLW53Yy1ET1RBYW1WM2Q5Vk1GeGRsY21jZWRnTVlsbV9uXzFlYXY3RVJMSlRvNmJQVWZRaFktVFpJbVozQ0l1bnZCNU5JUzFKSXhLczRuaXY4amdfLUo3Y0Z3bS1zdDJvcnltVGV3ZXQ1QmZYX1RJM2FWVEtSSGlabUp6eXBfQjhOTDFacFQ4M1Jhd3FfMGtHblQtRmhBODI4aF92NGZIMWZUY1B1WThzRDYyQVpKcll6bFZtRXZlSXF1ejViZHAxTHo?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:26:26+00:00",
+   "summary": "More Than Half of Russian Men Under 40 Who Died in 2025 Were Killed in the War Against Ukraine UNITED24 Media",
+   "body": "More Than Half of Russian Men Under 40 Who Died in 2025 Were Killed in the War Against Ukraine UNITED24 Media",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "'Weirdo specialist' is the new Bond: Papers react to Robert Pattinson as 007",
+   "link": "https://www.france24.com/en/tv-shows/press-review/20261117-weirdo-specialist-is-the-new-bond-papers-react-to-robert-pattinson-as-007",
+   "source": "France 24",
+   "published": "2026-11-17T11:24:30+00:00",
+   "summary": "PRESS REVIEW – Tuesday, November 17: European papers react to five EU countries' plan for a migrant expulsion centre in Rwanda. In other news, the Guardian reveals Israel's use of Amazon's cloud system for facial recognition in Gaza. Plus: the wait for the new James Bond is final",
+   "body": "PRESS REVIEW – Tuesday, November 17: European papers react to five EU countries' plan for a migrant expulsion centre in Rwanda. In other news, the Guardian reveals Israel's use of Amazon's cloud system for facial recognition in Gaza. Plus: the wait for the new James Bond is finally over.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "European Union"
+   ],
+   "image": "https://s.france24.com/media/display/d37770b6-e276-11f1-9b0e-ff16da94d1fe/w:1024/p:16x9/capture-daf1d395.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "French presidential debate: 'Le Pen exposed xenophobic and authoritarian aspects of her policies'",
+   "link": "https://www.france24.com/en/french-presidential-debate-le-pen-exposed-xenophobic-and-authoritarian-aspects-of-her-policies",
+   "source": "France 24",
+   "published": "2026-11-17T11:20:47+00:00",
+   "summary": "Eve Irvine is pleased to welcome Damien Lecomte, French political scientist, researcher, and lecturer at the University of Paris 1 Panthéon-Sorbonne. With five months to go before France's presidential election, Marine Le Pen leads the opinion polls, while Jean-Luc Mélenchon emer",
+   "body": "Eve Irvine is pleased to welcome Damien Lecomte, French political scientist, researcher, and lecturer at the University of Paris 1 Panthéon-Sorbonne. With five months to go before France's presidential election, Marine Le Pen leads the opinion polls, while Jean-Luc Mélenchon emerges as her most likely second-round opponent. Lecomte says that \"the other candidates are basically fighting for the second spot\" and that the center and right are \"desperately trying to find a way to avoid a second round\" between the two. He also warns that a Le Pen presidency could \"really change the political life with more xenophobic and nationalistic policies,\"even if her ability to secure a parliamentary majority remains uncertain.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://s.france24.com/media/display/810c8592-e270-11f1-a2e0-5f54d898a954/w:1024/p:16x9/EN-20261117-081059-081720-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+   "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:18:26+00:00",
+   "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan a",
+   "body": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Economic Cooperation summit is a dream showcase for one of China’s most advanced cities, and the country’s leader, Xi Jinping, is basking in its neon glow. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=140&quality=85&auto=format&fit=max&s=ed6d728039eaaf2cd4498d9ce9ba4655",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - chronicleonline.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlp0RVJkb1BqLXF4S0xkWkhtN1pnR2hUT1JfVmZGNjd4THJBTnFrMEdUNXZqWEE3NkVsZ1YyaXdzMV9sMDAtU1hUczJmRml5UEpWSzhoaUY5UndPeG5PSXhISl9LMkhmZnlwTmdUQWZQOS00Q0N0YWkxTW52dXIwakNORHlhckpNVEZVT1hTYV9BckNsX29PcndGVWs4QVRRbFlkM3lUbHZJc21Hc1E?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:18:19+00:00",
+   "summary": "Russia Ukraine War chronicleonline.com",
+   "body": "Russia Ukraine War chronicleonline.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+   "link": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T11:17:07+00:00",
+   "summary": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
+   "body": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "Pakistan"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP24060300538335-1762792567.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T11:16:53+00:00",
+   "summary": "Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap Bloomberg.com Stock futures fall after Nvidia pressures tech to start the week: Live updates CNBC US Stock Futures Edge Lower After Tech Sell-Off — NVDA Earnings, AMD, SPCX, DIS In Focus Yahoo Finance Stocks slide to k",
+   "body": "Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap Bloomberg.com Stock futures fall after Nvidia pressures tech to start the week: Live updates CNBC US Stock Futures Edge Lower After Tech Sell-Off — NVDA Earnings, AMD, SPCX, DIS In Focus Yahoo Finance Stocks slide to kick off major week for Wall Street CNN Nvidia Earnings, Trump in China, Anthropic IPO: What to Watch This Week WSJ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "COP31: Corporate interests gain access to govt delegations participating in climate negotiations",
+   "link": "https://www.france24.com/en/cop31-corporate-interests-gain-access-to-govt-delegations-participating-in-climate-negotiations",
+   "source": "France 24",
+   "published": "2026-11-17T11:16:04+00:00",
+   "summary": "Eve Irvine is pleased to welcome Siphesihle Mvundla, South African Climate and Energy Justice Campaigner at groundWork, a non-profit environmental justice organization. At COP31 in Turkey, representatives of major polluting industries have gained access to climate negotiations th",
+   "body": "Eve Irvine is pleased to welcome Siphesihle Mvundla, South African Climate and Energy Justice Campaigner at groundWork, a non-profit environmental justice organization. At COP31 in Turkey, representatives of major polluting industries have gained access to climate negotiations through government delegations, accredited organisations and other participation arrangements, according to research by the Kick Big Polluters Out coalition. Mvundla questions the extent of their involvement: \"This year particularly, it's not just about the numbers, but it's about the influence that these private interests would have on the negotiations.\" While businesses have a role in implementing climate action, he questions their access to negotiations intended to regulate their industries and is calling for \"an end to big polluter sponsorship and partnership at climate conferences\" and insisted: \"No more allowing big polluters to write the rules of climate action.\"",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Turkey"
+   ],
+   "image": "https://s.france24.com/media/display/347d5332-e275-11f1-a120-ff16da94d1fe/w:1024/p:16x9/EN-20261116-081001-081659-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:15:00+00:00",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
+   "body": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn) to help fund ​pensions in the long term, she added. It ⁠would take a generation ​to ​build up ​the fund, ​she added. Continue reading...",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
     "Ukraine",
     "Russia",
+    "France"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d",
+   "lang": "en"
+  },
+  {
+   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:14:59+00:00",
+   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people More than 300,000 children across Britain are no longer defined as living in poverty, followi",
+   "body": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people More than 300,000 children across Britain are no longer defined as living in poverty, following the government’s decision to scrap the two-child limit for one of the main types of welfare, figures show. The Press Association says: Under previous rules, families could only receive the child element of universal credit for their first two children. Universal credit (UC) is the main form of means-tested social security in the UK and is intended to help with living costs for people in work who are on low incomes, as well as those who are unemployed or cannot work. This is about changing the story of children’s lives. Children who grow up in poverty are more likely to have mental health difficulties, to be Neet and to earn less as adults. Conservatives agree with Alan Milburn on the problem, and we want his review to succeed. Where Milburn gets it right, we’ll back him. Especially where he adopts our proposals like shifting from cash sickness benefits to support for milder conditions and cutting national insurance for young people. Alan Milburn is right to criticise the tax and regulation burdens Labour have imposed on businesses. But his review is too cautious on reversing that damage and too often his answer is the big and expensive hand of the state. Overall, it fails to bring down the welfare bill, proposes billions more in government spending and won’t make the slightest difference for young people stuck on welfare now - because nothing will happen for at least three years. Successive governments have allowed a generation to fall through the cracks. Nearly a million young people are now out of work or training, which is more than there are job vacancies in the entire country. ‘Work not welfare’ means nothing when the work simply isn’t there. If ministers want to halve the number of Neets by 2036, they need a plan for growth. That means scrapping Labour’s jobs tax, joining the EU single market and cutting the cost of doing business, so firms can afford to hire young people again. No target or guarantee can conjure up jobs that don’t exist. Alan Milburn’s call to cut the cost of hiring for employers is a glaring admission Labour’s jobs tax has failed. It destroyed opportunities for workers, and particularly youngsters. Huge amounts of damage could have been avoided if Labour listened to the warnings. Waiting 10 years to fix the youth jobs crisis is a huge missed opportunity. We would be consigning another generation to the scrap heap. What we’ve seen so far from the Blair-era minister and adviser to private equity firms is extremely concerning. There is an alternative to threatening vulnerable people with benefits they need, an alternative to unsuitable short-term work. Andy Burnham promised an end to 40 years of neoliberalism, but this is more of the same tired proposals. The Green party’s true alternative is proper work and training for proper pay, so young people can reach their full potential without the threat of poverty and homelessness. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=140&quality=85&auto=format&fit=max&s=b8541c9ec33f74701205daabc3e8f833",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHNZOGNtN0RUaTBZVllkU2ZQUnNVZHUwaXlIN0F6QkNONGx3RFIycmlZNTByXy1DdFYyUmZ2eWs2WXQyZ3F6OUlnX2xMUUh2dTM1WTZzc01pVzJvUkl4dEs1UmVkejBZejluMDNnMDBOY0dfckdIbDgySVhWZV9Ea3cyMG40bTl4SXhJc2k4SzEtbE1Fbmprb2lqTUF6RUM4NHlEQlVFMjFNTS1MaC1ZRUVCU05nOUY5dUpqUVZwaDI4ZEVzTFJmOHBkYk9PUERQNFFDcU54VEM5ZlhJ?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-17T11:13:29+00:00",
+   "summary": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow Il Sole 24 ORE",
+   "body": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow Il Sole 24 ORE",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - WV News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkxkUTV3U3h3dnp1cFI3S1FGTFoxYVZ0OEZRUVk5S293VW9XdTlYWW4zNDczeFdrRkJfQUlfZUFVTHozdW5XQkhVeVlzOXBVSFdQelh1N3hzeFltNHc2YkZkbHEzWEpJWlUtN3JIT0hCc3BKbTJvTllPUTFQeV9ZRmd6X2pMRjBsbzNkWExQNHlWMjRSdFF4bUVhZ1dUZGo1NEZfdDRlTQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:13:13+00:00",
+   "summary": "Russia Ukraine War WV News",
+   "body": "Russia Ukraine War WV News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
+   "link": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:13:07+00:00",
+   "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said are the highest in Europe. As its annual UK",
+   "body": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said are the highest in Europe. As its annual UK sales little more than flatlined at the Swedish flatpack furniture retailer, its UK boss, David McCabe, said: “There are locations where we were planning to open a new unit, and those plans have been abandoned due to the cost that we experience and the complexity within the market. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=118d38f6964ee29f9f67c9ccd6bdadbe",
+   "lang": "en"
+  },
+  {
+   "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
+   "link": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:12:54+00:00",
+   "summary": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn Major tours by Oasis, Robbie Williams and Dua Lipa, as well as hit albums by the likes of Olivia Dean, have helped to push the UK music industry to record revenues. But ",
+   "body": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn Major tours by Oasis, Robbie Williams and Dua Lipa, as well as hit albums by the likes of Olivia Dean, have helped to push the UK music industry to record revenues. But there are concerns over a widening gulf in income between A-listers such as these, and the less well-known artists that form the bulk of the UK’s music community. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/7e4032f39fee208832ef739bc05b73e1acf76a72/76_227_2135_1709/master/2135.jpg?width=140&quality=85&auto=format&fit=max&s=c80387d9021dbe95bfd188ef2715c346",
+   "lang": "en"
+  },
+  {
+   "title": "🔴 Live: Kerch Bridge to occupied Crimea closed after Ukrainian strikes collapse road section",
+   "link": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+   "source": "France 24",
+   "published": "2026-11-17T11:11:20+00:00",
+   "summary": "",
+   "body": "",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "Bangladesh police clash with garment workers amid protests over wages",
+   "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T11:06:12+00:00",
+   "summary": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+   "body": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine updates: Key bridges in Kyiv, Crimea hit in strikes - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmZDQ1dNVFQzTEtBSVlmMmNCdzBuaGNjVzlfbGlud0FGMTE4S0VETF9FVm1vc2xsSWtKanVZU0wycVhPeVZSU242STBWLWNzTVV2N1dFQW1HQ2UzdVJtbVVIcDhrVHJuOExISHA3cTFoVGplbU5FMkN2d1E2dzNPakxfUHd4QWdqZVJsWnBWZF85TDhYNUhTeQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:03:23+00:00",
+   "summary": "Ukraine updates: Key bridges in Kyiv, Crimea hit in strikes DW.com",
+   "body": "Ukraine updates: Key bridges in Kyiv, Crimea hit in strikes DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+   "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:00:39+00:00",
+   "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in ",
+   "body": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit. The crowds were expected to try to march to the summit site. Continue reading...",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
+   "lang": "en"
+  },
+  {
+   "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:00:35+00:00",
+   "summary": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight The Democrats’ midterm “blue wave” wins gave them strong majorities in both chambers of Congress, new governors’ mansions and power in some u",
+   "body": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight The Democrats’ midterm “blue wave” wins gave them strong majorities in both chambers of Congress, new governors’ mansions and power in some unexpected places. Voters dealt a stunning rebuke to Donald Trump – and his ruthless deportation campaign and violent ICE raids across the country were among the key issues that cost Republicans support. But what will Democrats do about the immigration crackdown? Ultimately, the president and his subordinates have given no signs that policies will be easing - and they plan to continue deportations. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/348a69448387c2ea2ec024ee0dd0d209e02dbf12/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7d6a0e872dffe4a30e57dda463ab60e0",
+   "lang": "en"
+  },
+  {
+   "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:00:34+00:00",
+   "summary": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attack A man who was unhoused and “unable to defend himself due to health issues” was recently beaten to death and had his prescription medication taken outside a pha",
+   "body": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attack A man who was unhoused and “unable to defend himself due to health issues” was recently beaten to death and had his prescription medication taken outside a pharmacy in New Orleans , according to authorities. The killing of 68-year-old David Hyde led police to arrest Antonio Myles, 19, on a count of second-degree murder, with investigators alleging that they came to suspect the much younger man after he had bragged to others about fatally beating an unhoused person. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/be6001b3ad1b5bfbe3de398413e6d4e2be1cb098/289_124_1667_1335/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=d90b6365a3d3ec0eef4c550ee31f1fb1",
+   "lang": "en"
+  },
+  {
+   "title": "Tracking China’s War of Words Against Japan",
+   "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+   "source": "NYT World",
+   "published": "2026-11-17T11:00:17+00:00",
+   "summary": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+   "body": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+   "category": "Asia-Pacific",
+   "is_war": true,
+   "countries": [
+    "China",
+    "Japan"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "The Contradictions of the Ukraine Peace Process - Geopolitical Futures",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWYxR29fTm5vdDVQUkxIQVQyX2RKQXVsZkl5cFRDc2NGc0FkV0MxOUMyejl2WmhPdGJtaEVZLVBxMHJHVTJMc0tSZjIxdm1HV05wM1dOUGk5S0p1UnlTeTFFR2Zrc21wYTdrQWZlMkZnRDZRczkweF8tOXR2ODh5V1JJMV9nVVU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:00:15+00:00",
+   "summary": "The Contradictions of the Ukraine Peace Process Geopolitical Futures",
+   "body": "The Contradictions of the Ukraine Peace Process Geopolitical Futures",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine would trade territory for NATO membership, but Russia wouldn’t agree - Washington Examiner",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFJM2lGZXFFWVFmYVNoM2J1ZEVmc29sMURET05kUG8tTmtoVmNJUzdOVFFQd0IxZkk5MUVCWE5UVlFfQzN1ME5LUWhCR2FmNnpCRXVFX2pLRGJSUTlFSW1YZWxMRThLOUhRM2I1SlNHQ29mMFB0anFoZjFYQXQ3QVZseE9aS0pOT0lPUTJOY1VaWHJfdkwwUnNob0MwQlZTblpIZXJMM3Q0SWY5Z0hjVWxyV3lVZ0NZMnVYdkRvTQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T11:00:00+00:00",
+   "summary": "Ukraine would trade territory for NATO membership, but Russia wouldn’t agree Washington Examiner",
+   "body": "Ukraine would trade territory for NATO membership, but Russia wouldn’t agree Washington Examiner",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US challenges Airbus €3 billion EIB financing, raising fears of renewed transatlantic trade tensions",
+   "link": "https://www.dw.com/en/us-challenges-airbus-€3-billion-eib-financing-raising-fears-of-renewed-transatlantic-trade-tensions/a-79943075?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-17T11:00:00+00:00",
+   "summary": "The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based rules.",
+   "body": "The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based rules.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "European Union"
+   ],
+   "image": "https://static.dw.com/image/56101919_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+   "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T10:53:42+00:00",
+   "summary": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+   "body": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Israel"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-2.49.43-PM-1794907247.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
+   "link": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
+   "source": "NYT World",
+   "published": "2026-11-17T10:52:23+00:00",
+   "summary": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
+   "body": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-philippines-protest-tfvg/17trump-summits-philippines-protest-tfvg-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate | National News | 2news.com - KTVN",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU2YyMnBwU3Q3aHpjd1NFY3hPY0ZrVmFuY3lrSHJ1YjluYllCYWdncFlNdTNIYXlyanA2QnRsQi1fN25yNnZkc212RlpHSHFESnlQWTh6NGFiWTM0WWV2NFV4Um9SY2pPcHB1dm4yZkgteWhlZDhDM0ZSQTZrRWpHSURWX3JWalltM1RYSW96X0lYVGtMV0N1aWVGb3hpUlVUMzdUVUM4RTN0Wl9ndG5PTW9FQnljcGhhSVhBWGNCYXQzdG5UNDlQZUlESGZjS2U4YkF4RW5lSW5HYXFVbmZfdlU5eXo3QUI1SGZkZmhOQ2k1WHZ6MjZBeGNUbVhWOVJWOHc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T10:51:26+00:00",
+   "summary": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate | National News | 2news.com KTVN",
+   "body": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate | National News | 2news.com KTVN",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate - Dayton Daily News",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ3o3XzF3UVczOXFPbzJDOEpqejR2VVZudXMwYi1QejlDYUYwUVJZS04teVA1dUJDSVNMRXZmY004N1IwUmlhR3c5dnJZaDc1NGRPMGI0cnd4TkdORFNiQmdkdUkzSGQ0eUptZWlDOVZCVDRhb1V4enVvdVEzaHlXcWhxUFo0STBCYXM2eF9oTHhmNjJYT0NyeF9zaVRIXzc4a1Rmc2l3YjZQbC1RckFwbzNBWS1OSWxiN0hBWkNSUU5jeDduMi00V1dWMXc4N3VEaWFrM2wzNU11cGtHdWRWTFJuRm9WdmptYzZraGQzb3ZDRzY1QnA1V01iNkRfcUU3N1BwNUhPOWs1UzFFZFVjTw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T10:51:26+00:00",
+   "summary": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate Dayton Daily News",
+   "body": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate Dayton Daily News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate - The Killeen Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZHJTY0FTa2k5Mks4dkU2dXdGVFBOamJGZ3RhaVFQVGxaUmRrVC00ak9oZlRXVUI2cnd6WFNjUmIwcnNtaTY5bG1sYTI2VUc5YWtwYmxLZ0VkcWtuM1QycVRvaGE4cTRQc2hqZkktc1E4ZGhqSHdwQ21HTHYwXzFkM2x2Sm12Z1NKV0l1TGVVZmdnLWNqdFZTRmJOcnNzMVgtU19iSXRCX0tfTnV1TTctNHVnLWhnXzF1eFRSMzJxYUtZWGlTeV9NSEVpWGF1azZ3b255dGE5bl92Z0pKajFla0V3akMxMk1GcFItcmNCU0JhZk1NOUZLTllLNWVlYmM?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T10:51:26+00:00",
+   "summary": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate The Killeen Daily Herald",
+   "body": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate The Killeen Daily Herald",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Will Miss Most of the ASEAN Summit",
+   "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+   "source": "NYT World",
+   "published": "2026-11-17T10:51:02+00:00",
+   "summary": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+   "body": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
     "China"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb00/live/ce8ea8d0-e221-11f1-99a1-253766e7ad8b.jpg",
-   "lang": "my"
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+   "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+   "source": "NYT World",
+   "published": "2026-11-17T10:48:38+00:00",
+   "summary": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+   "body": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+   "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+   "source": "The Guardian",
+   "published": "2026-11-17T10:47:18+00:00",
+   "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements ",
+   "body": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent settlements that destroy the chances of a two-state solution. The UK foreign secretary also announced he was placing sanctions on a rightwing activist Israeli group involved in trying to block aid into Gaza as recently as last month. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0c6c3abea16d477d745d8d4ce121385b428ce6a3/1393_0_7030_5624/master/7030.jpg?width=140&quality=85&auto=format&fit=max&s=a182de5f7254a578cc0222d205e6ba7c",
+   "lang": "en"
+  },
+  {
+   "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+   "link": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
+   "source": "France 24",
+   "published": "2026-11-17T10:46:27+00:00",
+   "summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donald Trump keeps his options open for next steps in the Iran war. It comes as Tehran said Sunday that i",
+   "body": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donald Trump keeps his options open for next steps in the Iran war. It comes as Tehran said Sunday that its forces carried out a drone attack on a US radar system at a helicopter base in the Gulf kingdom of Bahrain.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T10:45:55+00:00",
+   "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+   "body": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi Arabia replaces military commander after Yemen setbacks",
+   "link": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks",
+   "source": "France 24",
+   "published": "2026-11-17T10:44:27+00:00",
+   "summary": "Saudi Arabia replaced the commander overseeing its coalition against Yemen's Iran-allied Houthis on Monday after Riyadh's Yemeni allies were forced to withdraw from swathes of territory in a major setback for their campaign against the group.",
+   "body": "Saudi Arabia replaced the commander overseeing its coalition against Yemen's Iran-allied Houthis on Monday after Riyadh's Yemeni allies were forced to withdraw from swathes of territory in a major setback for their campaign against the group.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US-Israel-Iran War Latest News: Iran’s IRGC Says Supertanker, LNG Vessel Catch Fire After Hitting Mines in Strait of Hormuz; Accuses Ships of Violating Protocols - The Sunday Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNGtjaUNWeUNXakhOWVEyN0VRNkQtM05EMXRWejVVTU5idEhvR0d5ZGsyQUhYbEk4dWlWM3pMSV9hM3RfMG9EODlrNjA3b205Q0p1VVBSN2xqblF5ZGg5dDFjLVRPaXo2UEtWcTBxa3NqYmRtaUszQ2h0c3VHQmdndkYwbUpPMHBkMmgyeVY1Tk5ZVFVUUmpSNVFITjJscDRUT1RzbkxuX1lyOFdMR1NUYVFvMUJKS1pUbUNHUDZPSEpzY1FURkxueVM3RkJiVmo1YzZKS2s3N3Q4Y1BDU3ZSLWhweVhjRW5iVGJYVTZpRGlNOEh0LW5ZR0F5Q0NCLUhuekRTNm5JQXBkZmphZFB0c0Y2dTczZ0lkWmlzQ29WWlNZSXFlR1h5OXdR0gGvAkFVX3lxTE83RzB3X2hjakFPWHF0bGRDdktEa3dtbVpXaEZTWUt5NGVXSFVWTnhLVmh4cXduMVNaQjVweDYwUkpBOFBvWTY0SVFlbThXMkFFSG4wZzNBbUNmSzJmT1BCM3IxcGFhZ3pGNHZpQlktM194YXlKdm9mOWVFcjZIa01rVHBMaXRPVXItRmZYRGhwcGhzbXVIMl9zMW9CSnNERks0TVJ2R1k0YWdFRFk2OURnNXp1U2JfQzNqMmFKdFFuYUJlNzkwSkFaaDhReEJOZE5GS3N1NW9iX3A5c0t1X2c0MUZtZ3BNSXJPNzhQVE9nX0x4UzMwbjN2NVdPamRuaDl1cVhoTHd2dFBjaXJNaVZhdm5oT1JPZVRSNHkwbU5lWVlkRzlaMjhyYThmZUNnaw?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-17T10:44:23+00:00",
+   "summary": "US-Israel-Iran War Latest News: Iran’s IRGC Says Supertanker, LNG Vessel Catch Fire After Hitting Mines in Strait of Hormuz; Accuses Ships of Violating Protocols The Sunday Guardian",
+   "body": "US-Israel-Iran War Latest News: Iran’s IRGC Says Supertanker, LNG Vessel Catch Fire After Hitting Mines in Strait of Hormuz; Accuses Ships of Violating Protocols The Sunday Guardian",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+   "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T10:42:42+00:00",
+   "summary": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+   "body": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-05T180156Z_1490333501_UP1EMB51E36GL_RTRMADP_3_MOTOR-F1-BRAZIL-1794910190.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "5 European countries aim to send rejected asylum seekers to Rwanda",
+   "link": "https://www.france24.com/en/video/20261117-5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda",
+   "source": "France 24",
+   "published": "2026-11-17T10:41:53+00:00",
+   "summary": "A group of European countries announced Monday that they aim to set up a “return hub” in Rwanda where rejected asylum seekers could be sent from next year, a move that they hope will also deter more people from coming. The plan by Austria, Denmark, Germany, Greece and the Netherl",
+   "body": "A group of European countries announced Monday that they aim to set up a “return hub” in Rwanda where rejected asylum seekers could be sent from next year, a move that they hope will also deter more people from coming. The plan by Austria, Denmark, Germany, Greece and the Netherlands, which have spearheaded negotiations with non-EU countries, drew immediate criticism from human rights groups.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://s.france24.com/media/display/c03fe188-e26f-11f1-b5ff-5f54d898a954/w:1024/p:16x9/EN-20261117-103334-103526-CS.jpg",
+   "lang": "en"
   },
   {
    "title": "Singapore’s non-oil exports surge 79.8% in October, driven by pharmaceuticals and ship structures",
@@ -321,39 +977,6 @@
    "lang": "en"
   },
   {
-   "title": "Live Updates: Trump’s Begins Whirlwind Asia Trip in the Philippines",
-   "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-   "source": "NYT World",
-   "published": "2026-11-17T10:35:13+00:00",
-   "summary": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
-   "body": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Crimean Bridge badly damaged as Zelensky hails 'unprecedented' attack by Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-17T10:34:29+00:00",
-   "summary": "Zelensky says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-   "body": "Zelensky says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
-   "lang": "en"
-  },
-  {
    "title": "What to Know About APEC, ASEAN and the Quad",
    "link": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html",
    "source": "NYT World",
@@ -369,12 +992,41 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine strikes major Crimea bridge while Russia retaliates on Kyiv ahead of Putin-Trump-Xi summit",
+   "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
+   "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+   "source": "The Guardian",
+   "published": "2026-11-17T10:33:01+00:00",
+   "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smit",
+   "body": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smith. Modella Capital, which also owns businesses including Hobbycraft, completed a deal to buy the 233-year-old business for £76m in June last year. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/c1ff7b89a9d54d285510bb6163d009d76d0c2bb9/128_0_7733_6186/master/7733.jpg?width=140&quality=85&auto=format&fit=max&s=71b48d2bb5b1544f8bacb29fce7db1a3",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+   "source": "The Guardian",
+   "published": "2026-11-17T10:30:22+00:00",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zel",
+   "body": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation. Footage showed a Ukrainian Flamingo cruise missile seconds before it hit the road and railway crossing, followed by an explosion. The strike follows an earlier attack on Monday that targeted an arch across its central section. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10STZVMjlwekNqNzdzaTNockl6aUFRaWZ1MkkwU3ZVSzh1a1JMQXBqWVphTEFRTWNXWTNIVHlsdE9lWENIdVo1SWc2ckFSbVZmQVpkQVpNT1E2VXN3U2xhLW95VW85Rkp5THBnT2Fib2pWRFl2YmJfMlBwSnpHdw?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-17T10:30:22+00:00",
-   "summary": "Ukraine strikes major Crimea bridge while Russia retaliates on Kyiv ahead of Putin-Trump-Xi summit CBS News",
-   "body": "Ukraine strikes major Crimea bridge while Russia retaliates on Kyiv ahead of Putin-Trump-Xi summit CBS News",
+   "published": "2026-11-17T10:30:00+00:00",
+   "summary": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit CBS News",
+   "body": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit CBS News",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -386,17 +1038,18 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHNZOGNtN0RUaTBZVllkU2ZQUnNVZHUwaXlIN0F6QkNONGx3RFIycmlZNTByXy1DdFYyUmZ2eWs2WXQyZ3F6OUlnX2xMUUh2dTM1WTZzc01pVzJvUkl4dEs1UmVkejBZejluMDNnMDBOY0dfckdIbDgySVhWZV9Ea3cyMG40bTl4SXhJc2k4SzEtbE1Fbmprb2lqTUF6RUM4NHlEQlVFMjFNTS1MaC1ZRUVCU05nOUY5dUpqUVZwaDI4ZEVzTFJmOHBkYk9PUERQNFFDcU54VEM5ZlhJ?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-17T10:30:05+00:00",
-   "summary": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow Il Sole 24 ORE",
-   "body": "Ukraine war, latest news. Ukrainian air strike destroys part of the Crimean Bridge; emergency meeting in Moscow Il Sole 24 ORE",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T10:28:00+00:00",
+   "summary": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies AP News Trump Will Miss Most of the ASEAN Summit The New York Times Apec and Asean summits live: protests greet Trump’s arrival in Manila as he meets ‘Quad’ leaders The Guardian Trump arr",
+   "body": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies AP News Trump Will Miss Most of the ASEAN Summit The New York Times Apec and Asean summits live: protests greet Trump’s arrival in Manila as he meets ‘Quad’ leaders The Guardian Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses Fox News Trump about to land in Manila ahead of meeting with India, Japan and Australia leaders - follow live BBC",
+   "category": "Asia-Pacific",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States",
+    "China",
+    "India"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -448,16 +1101,20 @@
    "lang": "en"
   },
   {
-   "title": "Here’s the latest.",
-   "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
-   "source": "NYT World",
-   "published": "2026-11-17T10:22:34+00:00",
-   "summary": "",
-   "body": "",
-   "category": "Global",
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T10:22:09+00:00",
+   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "body": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "category": "Asia-Pacific",
    "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-videoSixteenByNine3000.jpg",
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
    "lang": "en"
   },
   {
@@ -542,8 +1199,8 @@
    "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-17T10:13:27+00:00",
-   "summary": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
-   "body": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+   "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+   "body": "President Trump says he would be keen to meet the North Korea leader in China.",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -570,48 +1227,31 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-17T10:12:24+00:00",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge Meanwhile, the Kremlin said its bridge linking occupied Crimea to Russia will be “even better” after it is ",
-   "body": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge Meanwhile, the Kremlin said its bridge linking occupied Crimea to Russia will be “even better” after it is rebuilt following a large-scale Ukrainian attack that caused significant damage. “There is, of course, no doubt that the bridge will be restored and will be even better than before,” Kremlin spokesperson Dmitry Peskov said, quoted by Russian state media. Continue reading...",
-   "category": "Ukraine / Russia",
+   "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiS250WVBudFdmNWhHOXQ0ekRxT0ZpY1lPWm9UZzR1NExvck5UeGl0OUNRb1NJbURNdThoUndYVGVmRC1kSnpZSkx5Y01OSU5mclVYcUZqTXFoTk0?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T10:11:00+00:00",
+   "summary": "Woman who accuses Russell Brand of rape says prison message 'upsetting' BBC Russell Brand accuser reveals shock at convicted rapist's YouTube prison message: 'It was an insult' Yahoo Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty The",
+   "body": "Woman who accuses Russell Brand of rape says prison message 'upsetting' BBC Russell Brand accuser reveals shock at convicted rapist's YouTube prison message: 'It was an insult' Yahoo Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty The Guardian Russell Brand Faces Investigation Over ‘Appalling’ Message from Prison Shared by Wife, U.K. Official Says People.com UK authorities investigating after Russell Brand's message from prison Reuters",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United Kingdom"
    ],
-   "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "What makes 'GTA VI' more than just a game",
-   "link": "https://www.dw.com/en/what-makes-gta-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-top-1022-xml-mrss",
+   "title": "What makes 'Grand Theft Auto VI' more than just a game?",
+   "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-17T10:09:00+00:00",
-   "summary": "When \"Grand Theft Auto VI\" is released on November 19, millions of people around the world will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
-   "body": "When \"Grand Theft Auto VI\" is released on November 19, millions of people around the world will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
+   "summary": "When \"GTA VI\" is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
+   "body": "When \"GTA VI\" is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/79932845_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-17T10:08:26+00:00",
-   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people The UK has sanctioned firms building settlements in the West Bank and a group blocking aid to",
-   "body": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people The UK has sanctioned firms building settlements in the West Bank and a group blocking aid to Gaza in the first penalties since its shift in policy towards Israel’s actions in the territory, the Press Association reports. PA says: The sanctions package announced today follows Ed Miliband’s pledge in September to respond to the expansion of illegal Israeli settlements in the occupied West Bank, which has been marred by rising violence against Palestinians. Miliband, the foreign secretary, has argued that the plans for the E1 development in the West Bank would render a two-state solution unviable. What we need to do is make it more worthwhile for employers to take on more young people. So we say in this report, if you’re a small business, for example, the government should give you a £5,000 payment for taking on a young person who is Neet to help you absorb the costs of their hiring. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344",
    "lang": "en"
   },
   {
@@ -662,21 +1302,6 @@
    "lang": "en"
   },
   {
-   "title": "Zelenskyy Reveals What Missiles and Drones Struck the Crimean Bridge—and How the Attack Unfolded - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSi1JSTREQUtzdVIwcU1jZHlQSTF1S0tweThKZFFSbXJLdVU1ZEdTa1dDYWtURmhYSHNiRWdTYjlTbFhsU0JHUzMyMjNhZUZjREZGQURvZ2t1Xy1HN3I4OEs0TXZRLXh5Mkh1TXB2ZWhjMWZZUXRFa0xhUmtzQ0hyakYxRGdldUFNTjQzV3Q2MDBXT3NmRDRmVmFySTZ1R01uTDBqa2dSQllCQ2ZpdmJaalZLYmtOOXp6RE54Z0JwazlfVEk2N0Z0TE1KLWUwZHljbV9oZHBzSEFwT2c?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T10:03:45+00:00",
-   "summary": "Zelenskyy Reveals What Missiles and Drones Struck the Crimean Bridge—and How the Attack Unfolded UNITED24 Media",
-   "body": "Zelenskyy Reveals What Missiles and Drones Struck the Crimean Bridge—and How the Attack Unfolded UNITED24 Media",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "2 killed in Crimea, 2 in Zaporizhzhia as Russia, Ukraine trade accusations over strikes - Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWxlYmNBWjVjajNMRlBJTWFoV0dzcGRnM0VQWnpXMjBxbGVpbzNvQ0JvZ2tUb09ENHdXcXNONzlmeG1iTUdSOGRMdEdDc1ZaUERnaENlQ0R2RV9LTm54Mms0TUxvQ1I1Wi1wN281bVVHXzNaVnZJUEZXbkZjM3pXTlBsa3lqbUx4LTFQVXpqcDVlVXk5MHhyU3YtQzZjejBwOVRiUC1kUVQ4a3FaMUNoUVRlN3hrQmpNc3RoZl9Gc216Sjc5R3lNV29lWC1jUQ?oc=5",
    "source": "Google News · Ukraine",
@@ -724,18 +1349,34 @@
    "lang": "en"
   },
   {
-   "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-   "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
-   "source": "NYT World",
-   "published": "2026-11-17T10:00:23+00:00",
-   "summary": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
-   "body": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+   "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMF83ZTdUNE52eE5pRjI4M2JXYmtqUTl5dTJfeHBjTDF4MHZKbUhsMEc2SjNoTW5XTnJwbnJ6R1RfZ3ljMEZmSmtBVW5fS0JHWFBUaWVmWEJXQWlaSE9aTklWbGZtQzd1S2xqclJJRkhLeTVvMVh4cDh3anA5X1QwSERhSmtuejFveGNfTHVPZE1Hc0RGMmJGa3Jn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T10:00:00+00:00",
+   "summary": "Do school cellphone bans work? New study says yes – but it's complicated NPR New Evidence Shows School Phone Bans Are Gradually Improving Test Scores The New York Times Do school phone bans help students learn? So far, gains are 'modest' 10TV Is It the Phones? Boston Review U.S. ",
+   "body": "Do school cellphone bans work? New study says yes – but it's complicated NPR New Evidence Shows School Phone Bans Are Gradually Improving Test Scores The New York Times Do school phone bans help students learn? So far, gains are 'modest' 10TV Is It the Phones? Boston Review U.S. 8th Graders Gradually Lost Equivalent of a Year's Learning Since 2013; New Research Implies In-School Cell Phone Use May Account for Half of the Historical Loss PR Newswire",
    "category": "Global",
-   "is_war": true,
+   "is_war": false,
    "countries": [
-    "Ukraine"
+    "United States"
    ],
-   "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEx2YXZCZ2tkQTQ1b09lV0dXMWdFYjFuc2ktakVJUDJWVWh3LVZEdlgzLU16eWpVenJ1QUI5VFFIRjVOYnEwS2pxamowZUhYTmdBcUp2VklWNWdRZVJUQ0N0TnRSRFQ3cjFxOC1UeUsxdjVzRlYwWGpnOUZjSVQxRnQ5d0FPeWREWWhnSl9fM2JONDBQRnlpY3FaaWNTTjVRSTYyWGNOUmt3VUw0OXFqaGNISmp1a2c4aDQ5SFdYMlhRcXlfNkphQTZQOUQ4aDVickE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T09:59:37+00:00",
+   "summary": "Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? Yahoo Finance Alice Huang’s Husband and the Data-Center Network Backed by China WSJ Push to reinstate Jensen Huang tests superstar tech CEO accountability Axios Nvidia board is not considering bringin",
+   "body": "Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? Yahoo Finance Alice Huang’s Husband and the Data-Center Network Backed by China WSJ Push to reinstate Jensen Huang tests superstar tech CEO accountability Axios Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC CNBC The critical new geopolitical truth that explains Trump’s defense of ex-Nvidia chief CNN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -802,10 +1443,10 @@
   {
    "title": "Putin’s prized bridge is partially destroyed in Ukrainian strike",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjlyREctVlhIbFZKYlFsRFBDOEcyZzlnQnJIWVllVFk1SXN4dlBaVkZhajNZV2ZLU0MtS1hMUG5Nd1NGREFaV1pzbHZET2hPQTFIV25aWXhRTzkxX2hsY1lqanpvTmUyQmhKUV9oRGk5ck9ldUFoeVdtX3JZT05QcmlCd09DUXNDa2lPaGdOWnBOOEpjbWU0bF9OVDFtRTV0WE1USnhISGw?oc=5",
-   "source": "Google News · Ukraine",
+   "source": "Google News",
    "published": "2026-11-17T09:51:05+00:00",
-   "summary": "Putin’s prized bridge is partially destroyed in Ukrainian strike NBC News",
-   "body": "Putin’s prized bridge is partially destroyed in Ukrainian strike NBC News",
+   "summary": "Putin’s prized bridge is partially destroyed in Ukrainian strike NBC News Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings BBC Ukraine damages Putin’s prized Crimea bridge as Russia strikes vital Kyiv crossings CNBC Russian Offensive Campaign Asse",
+   "body": "Putin’s prized bridge is partially destroyed in Ukrainian strike NBC News Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings BBC Ukraine damages Putin’s prized Crimea bridge as Russia strikes vital Kyiv crossings CNBC Russian Offensive Campaign Assessment, November 16, 2026 Institute for the Study of War Ukrainian Strike Severs Part of Russia’s Crimean Bridge WSJ",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -813,19 +1454,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
-   "link": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
-   "source": "The Guardian",
-   "published": "2026-11-17T09:51:03+00:00",
-   "summary": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents The expert behind a major review into children’s gender services has said she can no longer support proposed legislation to ban conversion practices related to sex",
-   "body": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents The expert behind a major review into children’s gender services has said she can no longer support proposed legislation to ban conversion practices related to sexual orientation and transgender identity. Hilary Cass, a paediatrician who now sits in the House of Lords, initially indicated her support when the conversion practices bill was announced in the summer. However, she has now said the proposed ban is having a “chilling effect” on healthcare professionals and could pose a risk to parents. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/10cc7f42ff1e37c35d3a89b3299e3585acb25c5c/163_0_3173_2539/master/3173.jpg?width=140&quality=85&auto=format&fit=max&s=92e4485e2aa27afd4aa621c2769fbc19",
    "lang": "en"
   },
   {
@@ -861,7 +1489,7 @@
    "title": "Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack - The Moscow Times",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM1I0NFl3bXFyaEwxUkdBTjY2YlkxemRlaFJoS3BzcHc4bDJOSzUxbk5EOENaa3loZ1g4RENuc3ZrUGd3X3dlZlVoRHVOV0I3YmpyMU16QmJ1WkdIUTBUaS1md1NhSG9paVdNdldrYl9BTmQySGpPMFd0ZFRobzNnZTFWRTA5LVFJdzlfQVhfU0ZiTk9LTm83VDVKWlljVWo1ZWs2SExIX0hBdnFNb25nZGZabXhyYmJvTGJCTnByeGhDMndTci1pZUpaZFRpaU1PNnZR?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-17T09:50:33+00:00",
+   "published": "2026-11-17T09:50:00+00:00",
    "summary": "Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack The Moscow Times",
    "body": "Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack The Moscow Times",
    "category": "Global",
@@ -921,16 +1549,17 @@
    "lang": "en"
   },
   {
-   "title": "Deutsche Bank shares drop after reports on mass data leak",
+   "title": "Data leak exposes Deutsche Bank ties to Russian oligarchs, Epstein and Trump",
    "link": "https://www.france24.com/en/live-news/20261117-deutsche-bank-shares-drop-after-reports-on-mass-data-leak",
    "source": "France 24",
    "published": "2026-11-17T09:45:25+00:00",
-   "summary": "Shares in Deutsche Bank plunged on Tuesday after international media outlets published reports based on millions of leaked emails and other documents that shine a light on questionable past business practices at the German banking giant.",
-   "body": "Shares in Deutsche Bank plunged on Tuesday after international media outlets published reports based on millions of leaked emails and other documents that shine a light on questionable past business practices at the German banking giant.",
-   "category": "Global",
+   "summary": "Shares in Deutsche Bank plunged Tuesday after international media outlets published reports detailing the bank's questionable business practices over the past 20 years, including its ties to Russian oligarchs, convicted sex offender Jeffrey Epstein and Donald Trump before he beca",
+   "body": "Shares in Deutsche Bank plunged Tuesday after international media outlets published reports detailing the bank's questionable business practices over the past 20 years, including its ties to Russian oligarchs, convicted sex offender Jeffrey Epstein and Donald Trump before he became the US president.",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "Germany"
+    "Russia",
+    "United States"
    ],
    "image": "https://s.france24.com/media/display/9d39c8d8-e26b-11f1-8a0d-f71d22e7fea9/w:1024/p:16x9/6597867e619fbec5d361e81bac59edcd25bf3247.jpg",
    "lang": "en"
@@ -979,18 +1608,15 @@
    "lang": "en"
   },
   {
-   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T09:27:41+00:00",
-   "summary": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings BBC",
-   "body": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings BBC",
-   "category": "Ukraine / Russia",
+   "title": "We Now Know What Robert Pattinson Was Doing When the James Bond Casting News Broke - The Hollywood Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjgtVlRJM1J4RzRVN2FQNTVvZHZwWjZMbjVSemJDUTBBa0hEVk9MaVpFRWdlQjBZYTlrYmxhZm5VaFo3bWV4bnEzdlkwU1JCUkkxMzdrbGd0aUVLM0ZsbXpHczlOal81cm4zY2UxQlNyYWpKVVd0V3A2V0ZKWEo5U2NmSDRkWFd1Zmk3M1Z0STdiLTNUWDBMVzZHZ0NCVTFrTHBYTjFRamdobjZuOXhtcDh5UEJKNEZKQTdSLV9EX2s?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T09:22:09+00:00",
+   "summary": "We Now Know What Robert Pattinson Was Doing When the James Bond Casting News Broke The Hollywood Reporter Why Robert Pattinson Could Be a Great James Bond The New York Times The Palace Has Spoken: King Charles and Queen Camilla Welcome Robert Pattinson to the Secret Service IMDb ",
+   "body": "We Now Know What Robert Pattinson Was Doing When the James Bond Casting News Broke The Hollywood Reporter Why Robert Pattinson Could Be a Great James Bond The New York Times The Palace Has Spoken: King Charles and Queen Camilla Welcome Robert Pattinson to the Secret Service IMDb Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety From Connery to Craig — and Now Robert Pattinson — See All the Actors Who’ve Played James Bond People.com",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1007,22 +1633,6 @@
     "Ukraine",
     "Russia",
     "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Germany Puts $300 Million Toward Ukraine’s Air Defense, With Patriot Missiles at the Top of the List - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWlg5bUI5eW10eElSNnhCbkphTGZ1cjU3NFEyOHZJV3NUZkNBRWJJYkJPME8zazEzRDExMFI3MHY0UFhlby11REQtb1ZnVEYwVl9PVlVvcWV4dHZMY0NiRk1SbUlCaXEzNURJaHd4bS1EckR2eEdhOWxvT3BLU3BzT2N0bG01cGtZLXlLTV81WFFGX252Sk84UC1ZRC1ORzV3dkRra2RSRVY0X1hWSXZGLXpzMnQ5RUpwcTdDVklrOWh0VHZycW9yOTMyRE1jUU1vcEpPM3lXc2lhdUl4?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T09:20:40+00:00",
-   "summary": "Germany Puts $300 Million Toward Ukraine’s Air Defense, With Patriot Missiles at the Top of the List UNITED24 Media",
-   "body": "Germany Puts $300 Million Toward Ukraine’s Air Defense, With Patriot Missiles at the Top of the List UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Germany"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1064,6 +1674,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794907038.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "New York Mayor Mamdani disbands divisive NYPD unit",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTNhTGpTckNDV21YRXphaDFuM2w5MVZ2cTdsOHJOaUxGTGVDVXN4d0N2UEN5TkpoN1pLTWZ3T2RVZ2xMakVZVl9UdzRBd1cyNVlQbFMzQmg4elZoTDFxSE1hU3pXVEpnMFNoNmVhZk5YaGJZd3c1RDlyLVhfTFpoR2pEVlJFOGZfdVlpaFoxVXZPSExLMnZrOVk5NlZZTUE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-17T09:12:52+00:00",
+   "summary": "New York Mayor Mamdani disbands divisive NYPD unit NBC News SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York New York Mayor Mamdani disbands 'notorious' police unit that used excess",
+   "body": "New York Mayor Mamdani disbands divisive NYPD unit NBC News SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise CNN NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit ABC7 New York New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters Reuters Opinion | Mamdani Disbands the NYPD Unit Keeping Crazies Away From Synagogues WSJ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1126,32 +1749,6 @@
    "lang": "en"
   },
   {
-   "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
-   "link": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
-   "source": "The Guardian",
-   "published": "2026-11-17T09:01:25+00:00",
-   "summary": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI an",
-   "body": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI and other technologies. The Bristol-based company said this year 2,100 roles would go globally, and it plans a further reduction of between 2,100 and 2,500 jobs by the end of 2030. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/27552738004164c7dde492ffdc58cef3b61776f6/615_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=36f699f8d6cae90a04da6a0d09ae5f70",
-   "lang": "en"
-  },
-  {
-   "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
-   "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
-   "source": "The Guardian",
-   "published": "2026-11-17T09:00:08+00:00",
-   "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growin",
-   "body": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growing on-set backlash. Under a wide-ranging new deal secured by Equity, the actors’ union, performers will have the rights to be paid when their digital replicas are used and to consent to whether their digital replica is used or not. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/2d31aed85ca3f201888a254162c8581486077abf/1288_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cd56336d8d859a4863441af71d58a",
-   "lang": "en"
-  },
-  {
    "title": "Germany, Norway to buy more US air defenses for Ukraine - Al Arabiya English",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDE4ZEFyOUhVQXlEeDc2NmQ2eElvMzRSWm9WdVJ0bmxZVk43c1A5ajAyM0JILUkybnVteld4ekxTdmJKT2NkRmJ4WkEwZl95SVh2NTJwdDNwZC1VVmFVSWNhWV9ZaUdHank4T3hDZUEtbXBTZF9lT1JIUWZTVjdBSnVvMW9lMEdHaE1DRjJFVENTS29DZHlyeXdMeUREVVBqcmx6eDI0bzVPd9IBrwFBVV95cUxPbHp3eXlSTWVjcFVnRm5tWEpVYTdQRmpiWFZESG5Fczh0MzVOczRwT0hTa3Jma3g5WExickFBbUtsQ2p6Mm9CSDVjdG1pejFGS2tNVjc0Q0Q1WXBkTmNjYXh4WGxhUGZfT0IycHY2OUt3d2gyLURjWUVVRXhmQkNva21iN1RZNUdjUnZmRnVQR2J1cWxJRmZsV3NWbXVhZ2xKOU12aVN4ZXJKY1V1VUV3?oc=5",
    "source": "Google News · Ukraine",
@@ -1199,6 +1796,21 @@
    "lang": "en"
   },
   {
+   "title": "Putin’s self-defeating narrative - Comment is Freed | Sam Freedman",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xaDRNeDlka2JXZzd6RWd4bHlTRy1oUHc5UWxZZjhfS291ZUhxNmh3eGV4WnpnaW9ONzI4aThTeWdtUmZLRDdiZ0d3VTJHNkR2S2JxaXJYaVdPR0h3SV82OF96VG5oZzh6R1NJ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-17T08:52:45+00:00",
+   "summary": "Putin’s self-defeating narrative Comment is Freed | Sam Freedman",
+   "body": "Putin’s self-defeating narrative Comment is Freed | Sam Freedman",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
    "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
    "source": "The Guardian",
@@ -1226,19 +1838,6 @@
     "Ukraine",
     "Russia"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions - The Hollywood Reporter",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDlJTU9jc0dmdkRDU1kyWFYycGNHaHlLaUpfZ0EySHMwYldjM05FbEZaZC1hV05FVUVubG9CYWk2Q0RDZHFjNWlwY3dpZkpJRmhIdEJaT3pmdmlwcHV6eWlRbWVhRUFmVGRVNHktTWN1Tm1QQ1dYZXRhTGxoWEN0aDZlOVgtc1l4NGQ5cjA5Zy1DNWpBeG5CaGlpUkZlV2szM0tfbzVGRnl2czZnR0RiNVRNNEtWZw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-17T08:46:38+00:00",
-   "summary": "David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions The Hollywood Reporter 'The Further Mis-Adventures of Cliff Booth' First Reactions IndieWire 'Cliff Booth' First Reactions: Brad Pitt, Fincher and Tarantino Excite Variety 'The Further Mis-Adventures Of ",
-   "body": "David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions The Hollywood Reporter 'The Further Mis-Adventures of Cliff Booth' First Reactions IndieWire 'Cliff Booth' First Reactions: Brad Pitt, Fincher and Tarantino Excite Variety 'The Further Mis-Adventures Of Cliff Booth' Premiere Red Carpet Photos: Brad Pitt & More Deadline Brad Pitt Gets Girlfriend Ines de Ramon’s Support at ‘Cliff Booth’ L.A. Red Carpet Premiere! Yahoo",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1286,18 +1885,17 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine, Russia exchange strikes on key bridges ahead of Putin-Xi-Trump summit - TRT World",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Td0xEWXE3eW9aMnlpZkcxZGtRZ1J5VkNHMGhNVlEtS3dXU0hvT3pTMnh1Rmx0bFc4OEFlOS1OSjl4VWpGXzBwaVhKVUFmUm5CWmtYYkNhamo?oc=5",
+   "title": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges - The Moscow Times",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHpIbW9nWVl3THVnMndnMEk5czBBY0QwSWdBRjRGUzhwUVdqNDdYVTJrcjNSRm1kTW8zUmo4OGJaeXJxSUVVUlJoSUUxSjhHa1ZMRDF6ZDN4ZFU5QnlOeVByZVlsRk1QSXI4dUJzX3A2bVQwRmQ0Vm9MV3lsby04VG42VDNSR21nZmdhTWp2UUEybVNPc2RUSjZCV0FnLUFjQ01QX0hSRXhQMUZZcXFqRUd1c3RlNEcwdm45WUxBeU5wZw?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-17T08:29:50+00:00",
-   "summary": "Ukraine, Russia exchange strikes on key bridges ahead of Putin-Xi-Trump summit TRT World",
-   "body": "Ukraine, Russia exchange strikes on key bridges ahead of Putin-Xi-Trump summit TRT World",
+   "published": "2026-11-17T08:31:00+00:00",
+   "summary": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges The Moscow Times",
+   "body": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges The Moscow Times",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia",
-    "United States"
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1350,326 +1948,6 @@
    "lang": "en"
   },
   {
-   "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-   "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T08:15:32+00:00",
-   "summary": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-   "body": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "South Korea"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320265886735-1794904238.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-   "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T08:12:06+00:00",
-   "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-   "body": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc02983f38-1794900632.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "AI models abandon climate facts to please users, UNESCO report finds",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T08:10:26+00:00",
-   "summary": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
-   "body": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-08.02.11-1794902665.png?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T08:04:35+00:00",
-   "summary": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
-   "body": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-wide-1794902614.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "From Russia's Infamous Gold-Mining Region, A Ready Supply Of Men For Ukraine War - Radio Free Europe/Radio Liberty",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGs4RjEtOEFQazFtc2djRUFkVTljTlMxTG5GZEwtQnZlcFp1aVN6anhIZ2xJY0o5cVRMZFQyMzNWRElhajVFNnZZSUFBUE1mZWVUS0l4T2kyTzFiRm5RTlJrTFppM0hER21NZWNQaDV6X2hvSmNtWEZCNkMtVHpxcUFPNktDbG1S0gGLAUFVX3lxTE5CYnNXS09OLXZZNC1hRnRVMGZ4UTI4VmFTLW41Wm1udWxKbmwweWtwNGJuVmRIYWtudXZYNEh1VnpvanhuNmstRzF0ZDdqRzVuSDBYRUJWa095Z2hBYmhXRDFfVC00RXFPXzI1aFVFVFlja0xreExtOThQSmpsMDZCcmljVk12bHJuNWM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T08:02:43+00:00",
-   "summary": "From Russia's Infamous Gold-Mining Region, A Ready Supply Of Men For Ukraine War Radio Free Europe/Radio Liberty",
-   "body": "From Russia's Infamous Gold-Mining Region, A Ready Supply Of Men For Ukraine War Radio Free Europe/Radio Liberty",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-17T07:44:17+00:00",
-   "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-   "body": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "Taiwan",
-    "South Korea"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "source": "The Guardian",
-   "published": "2026-11-17T07:42:26+00:00",
-   "summary": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what",
-   "body": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. Footage showed a Ukrainian Flamingo cruise missile seconds before it hit the road and railway crossing, followed by an explosion. The strike follows an earlier attack on Monday that targeted an arch across its central section. Continue reading...",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463",
-   "lang": "en"
-  },
-  {
-   "title": "Taking leave, buying PS5s and getting their partners' approval: How Singapore gamers are preparing for GTA 6",
-   "link": "https://www.channelnewsasia.com/living/gta-6-singapore-gamers-launch-grand-theft-auto-vi-6553211",
-   "source": "CNA World",
-   "published": "2026-11-17T07:42:00+08:00",
-   "summary": "After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.",
-   "body": "After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--O0adJHD---/c_crop,h_576,w_1024,x_0,y_42/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/16/gta_6_advertisement.jpg?itok=GJBoC6Yw",
-   "lang": "en"
-  },
-  {
-   "title": "Simba does not contest unauthorised spectrum use, other licence breaches; director set to resign",
-   "link": "https://www.channelnewsasia.com/singapore/simba-potential-breach-unauthorised-spectrum-use-imda-tuas-6554686",
-   "source": "CNA World",
-   "published": "2026-11-17T07:41:00+08:00",
-   "summary": "Simba has informed Singapore's regulatory authorities of the circumstances surrounding the unauthorised use of the spectrum bands and the remediation steps to prevent recurrence.",
-   "body": "Simba has informed Singapore's regulatory authorities of the circumstances surrounding the unauthorised use of the spectrum bands and the remediation steps to prevent recurrence.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--qFeAxKDu--/c_crop,h_1125,w_1999,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/10/72198.jpg?itok=EUC92Hb9",
-   "lang": "en"
-  },
-  {
-   "title": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-17T07:40:19+00:00",
-   "summary": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks CNN Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges Reuters Russian Offensive Campaign Assessment, November 16, 2026 Institute for the Study of War Crimea br",
-   "body": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks CNN Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges Reuters Russian Offensive Campaign Assessment, November 16, 2026 Institute for the Study of War Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings BBC Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea The New York Times",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T07:40:19+00:00",
-   "summary": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea CNN",
-   "body": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea CNN",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "How women scavenge scraps from lithium to earn a living in Nigeria",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/how-women-scavenge-scraps-from-lithium-to-earn-a-living-in-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T07:36:21+00:00",
-   "summary": "Dozens of women sift through the waste left behind by lithium miners in Nigeria, digging for traces of ore to resell.",
-   "body": "Dozens of women sift through the waste left behind by lithium miners in Nigeria, digging for traces of ore to resell.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-07.29.25-1794900705.png?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-   "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T07:35:54+00:00",
-   "summary": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
-   "body": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2303891286-1-1794902140.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
-   "link": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-17T07:34:00+00:00",
-   "summary": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live.",
-   "body": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://static.dw.com/image/79964815_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
-   "link": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
-   "source": "The Guardian",
-   "published": "2026-11-17T07:30:06+00:00",
-   "summary": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in his famous work The Wonders of Creation and Rarities of Existen",
-   "body": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in his famous work The Wonders of Creation and Rarities of Existence, which drew on accounts of a distant land filled with “rarities par excellence”. For al-Qazwini, as Helen Pfeifer writes in the London Review of Books, wonder was not an emotion but an intellectual method of making sense of the world and acquiring knowledge. India has long occupied such a space in the global imagination, as a land of extraordinary riches; spirituality, customs, chaos and contradictions. This has shaped how the country is perceived from afar, but it can often flatten its complexities. Continue reading...",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "India"
-   ],
-   "image": "https://i.guim.co.uk/img/media/4cdd84133510738974db495a193fc868b59b2361/540_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=13b5f5a75084a4469af2c2a0171a206e",
-   "lang": "en"
-  },
-  {
-   "title": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
-   "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T07:21:25+00:00",
-   "summary": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
-   "body": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-01-02T195046Z_829596584_UP1EM121J4K41_RTRMADP_3_SOCCER-SAUDI-AHL-NSR-1794896885.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Japan’s Suica Penguin Mascot Is Retiring. Fans Are Taking It Hard.",
-   "link": "https://www.nytimes.com/2026/11/17/world/asia/japan-penguin-suica-card.html",
-   "source": "NYT World",
-   "published": "2026-11-17T07:18:57+00:00",
-   "summary": "The Suica penguin has been a familiar presence on prepaid transit cards for more than 20 years. Its imminent retirement has prompted a wave of nostalgia.",
-   "body": "The Suica penguin has been a familiar presence on prepaid transit cards for more than 20 years. Its imminent retirement has prompted a wave of nostalgia.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Japan"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-transportcard-02/17xp-transportcard-02-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Live: France braces for new day of protests as unions call for nationwide strike",
-   "link": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
-   "source": "France 24",
-   "published": "2026-11-17T07:16:51+00:00",
-   "summary": "France braced for another day of protests Tuesday as unions called for a nationwide strike by public sector workers in a bid to secure pay rises. Youth organisations and Yellow Vest activists are also set to join the demonstrations. Follow our liveblog for the latest updates.",
-   "body": "France braced for another day of protests Tuesday as unions called for a nationwide strike by public sector workers in a bid to secure pay rises. Youth organisations and Yellow Vest activists are also set to join the demonstrations. Follow our liveblog for the latest updates.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/a1081aa0-e252-11f1-b1a9-695cb59fade5/w:1024/p:16x9/000-D6JM7MR.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Putin’s War on Ukraine Is Ravaging a Generation of Russian Men - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWJnYkZKU2FqbW5RNUswTlJVSUZFVl9SYzlSMXprQk9NZmZxNWxGSUxSZ1czb0E1ZHVQRHVoTVFVZ0lfZnUtdDJ0UEtGeVlTbkVMZDJvVWFtOUY3SlhRTnZUOWUyQTdVSUxsQVF1TGZleUJIc3g2YVVoTGRWeHlXM1B2WUQ1TU8zaDhnOFNRYkFvRW43VU82VnhCcU15Y1piZ1RCdFFVSS1WZDhucTNJZXB6Yw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T07:15:00+00:00",
-   "summary": "Putin’s War on Ukraine Is Ravaging a Generation of Russian Men Bloomberg.com",
-   "body": "Putin’s War on Ukraine Is Ravaging a Generation of Russian Men Bloomberg.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-17T07:12:34+00:00",
-   "summary": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Opinion | Measles is here. That demands a ‘zero dose.’ The Washington Post At least 167 ",
-   "body": "CDC declined to alert risk of measles in pregnancy. A journal released the data. The Washington Post Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors The New York Times Opinion | Measles is here. That demands a ‘zero dose.’ The Washington Post At least 167 pregnant Americans have been infected with measles since 2025 CIDRAP Newborn measles cases alarm US doctors amid vaccine decline The Independent",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Canada, China agree to ease tariffs amid trade rows with US",
-   "link": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-17T07:12:00+00:00",
-   "summary": "The Canadian and Chinese leaders have vowed closer cooperation as both nations seek to reduce reliance on the US. Canada's government said it had agreed to further reduce tariffs on a range of products.",
-   "body": "The Canadian and Chinese leaders have vowed closer cooperation as both nations seek to reduce reliance on the US. Canada's government said it had agreed to further reduce tariffs on a range of products.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://static.dw.com/image/79965002_6.jpg",
-   "lang": "en"
-  },
-  {
    "title": "ကချင် ခေါင်လန်ဖူးပြည်သူ့စစ် အရာရှိအပါအဝင် ၃ ဦးကို ဖမ်းမိ၊ KIA ထံ လွှဲပေးမည်",
    "link": "https://myanmar-now.org/mm/news/82283/",
    "source": "Myanmar Now Burmese",
@@ -1684,251 +1962,6 @@
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/DSC_4368-scaled-1-1024x683.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-17T07:07:35+00:00",
-   "summary": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC CNBC U.S. companies from Nvidia to Apple face a growing China dilemma CNBC How new US chip restrictions on South East Asia will hit China BBC U.S. closes loophole that let Chinese companies use top",
-   "body": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC CNBC U.S. companies from Nvidia to Apple face a growing China dilemma CNBC How new US chip restrictions on South East Asia will hit China BBC U.S. closes loophole that let Chinese companies use top AI chips through foreign data centers NBC News US Chip Curbs Force Xi to Weigh Response Before Trump Summit Bloomberg.com",
-   "category": "Asia-Pacific",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia, Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit - AFP.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm1oRVExdEtVWHB6dWMtb2kzN01waDZ0dDZMOXhNTFR4TDVSUlI0WWpqYmhiMTFHeWxZR2pzZkRzNmxBSUJXSGNpVks4UmQtM1hETm1qRDcxWmNTOGRReU9WZXh3UVRSM2ZGUTRQNDBUUTBwR1NtSXhROGRvakM0eGRkT0Z0aFp5c0ZsWEZOWHpyWk15?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T07:04:12+00:00",
-   "summary": "Russia, Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit AFP.com",
-   "body": "Russia, Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit AFP.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The new French malaise",
-   "link": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T07:03:12+00:00",
-   "summary": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
-   "body": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae3ec62bb94-1793322082_d05345-1793322186.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-   "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-17T07:01:00+00:00",
-   "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-   "body": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Will Netanyahu lose this time?",
-   "link": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T06:53:23+00:00",
-   "summary": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-   "body": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af341040cae-1794326788_795ac6-1794898337.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T06:49:00+00:00",
-   "summary": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges The Guardian Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war BBC Russian Offensive Campaign Assessment, November 16, 2026 Institute for the Study of War U",
-   "body": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges The Guardian Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war BBC Russian Offensive Campaign Assessment, November 16, 2026 Institute for the Study of War Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia Al Jazeera Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war Reuters Ukraine launches biggest drone attack on Russia since war began NBC News Ukraine destroys major bridge connecting Russia to Crimea The Telegraph Ukraine strikes Crimean Bridge in record drone attack Financial Times Ukraine Strikes Crimean Bridge Again—This Time an Entire Road Section Falls Into the Sea UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Deutsche Bank’s Halliburton financing linked to Myanmar military ‘should have been rejected’: leaked documents",
-   "link": "https://myanmar-now.org/en/news/deutsche-banks-halliburton-financing-linked-to-myanmar-military-should-have-been-rejected-leaked-documents/",
-   "source": "Myanmar Now",
-   "published": "2026-11-17T06:47:15+00:00",
-   "summary": "Leaked documents reveal that Deutsche Bank provided financing related to an offshore gas project linked to the Myanmar military, despite its own sanctions team claiming that it shouldn’t have approved the transaction. In January 2022, almost a year after the military coup that de",
-   "body": "Leaked documents reveal that Deutsche Bank provided financing related to an offshore gas project linked to the Myanmar military, despite its own sanctions team claiming that it shouldn’t have approved the transaction. In January 2022, almost a year after the military coup that deposed the democratically elected government of Myanmar, Deutsche Bank received a request …",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/Deutsche-Bank1-1024x683.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine War: Russia Wants a New European Security Order from a War It Has Failed to Win - TheWire.in",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd29BN1duVzFEMGJhakF2LVlBVjlwSURYOHdYbE5rOFFWSl9nNDVSVGp2Vm96ajV4d3Q3LWFwNmxtOVp1N1oxZmtDZ3FsNlZDMW5Gbl9KMkdzb1g4OW5USlFsdkZmd3cxNURpOXlkbWlRY2NyZm5RY1plbTdIcE1wQ3R5R2FrN1A1aWxPUXFpREhHcUo4cVRPT2R3NHdmaThuMkR0RWNXZ2M3LWhFNlRxSkZMQ3BrV2cwWkpWUFJ30gHDAUFVX3lxTE1yRmQ3STJWSXIxbnplUGw1QU1RNDdHZXlkalpyTjNPdFlQelNxalEwelUyVm9MTW5LM050QS1mT2pDRU5jWDRaLVJjSWFZRWhfbElQd2Nxa2hKRVZyN0ZJQkhueUY3a19mWXJ1ckFXV0FoaWJNTGJHTTkzUTBrZDc1aWhkY2p5bFBGbHNOTGRhQWpsRGNZUVZ1VXY2a2VqaXQwTGxwQWh5SVl4WUxVRmV5UllHc3BEMEJ5bnBrYktUVFk2cw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-17T06:45:00+00:00",
-   "summary": "Ukraine War: Russia Wants a New European Security Order from a War It Has Failed to Win TheWire.in",
-   "body": "Ukraine War: Russia Wants a New European Security Order from a War It Has Failed to Win TheWire.in",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "India news: Modi to attend ASEAN, Quad meet in Manila",
-   "link": "https://www.dw.com/en/india-news-modi-to-attend-asean-quad-meet-in-manila/live-79964913?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-17T06:45:00+00:00",
-   "summary": "This is the first time Modi and US President Donald Trump are meeting since the US midterm elections, which changed the political scene in the US.",
-   "body": "This is the first time Modi and US President Donald Trump are meeting since the US midterm elections, which changed the political scene in the US.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "India"
-   ],
-   "image": "https://static.dw.com/image/79958185_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "New mass protests expected in France Tuesday as presidential election approaches",
-   "link": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
-   "source": "France 24",
-   "published": "2026-11-17T06:41:10+00:00",
-   "summary": "Unions in France are calling for a strike Tuesday to demand wage increases, with students also expected to join. With under five months to go before the presidential election, FRANCE 24's Monte Francis asks Ariane Bogain, Senior Lecturer in French Politics at Northumbria Universi",
-   "body": "Unions in France are calling for a strike Tuesday to demand wage increases, with students also expected to join. With under five months to go before the presidential election, FRANCE 24's Monte Francis asks Ariane Bogain, Senior Lecturer in French Politics at Northumbria University, what role the widespread discontent will play in the upcoming vote.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/8dab9a30-e20d-11f1-b0c0-5f54d898a954/w:1024/p:16x9/EN-20261116-213120-214015-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-17T06:39:24+00:00",
-   "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently fell ill has been found ",
-   "body": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently fell ill has been found dumped in skip bin in Sydney. The horse So You Are, a five-year-old gelding, was put down after it suffered from a severe bout from colic and was taken to hospital on Monday for surgery. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=31270a1214954a3ec58fd6b946ef4c61",
-   "lang": "en"
-  },
-  {
-   "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-   "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-   "source": "The Guardian",
-   "published": "2026-11-17T06:37:35+00:00",
-   "summary": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, a",
-   "body": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers claim as many as 10,000 people will join protests against Trump in the Philippine capital on Tuesday, when he will attend the Association of Southeast Asian Nations (Asean) summit. The crowds are expected to try to walk to the summit site. Continue reading...",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
-   "lang": "en"
-  },
-  {
-   "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-17T06:33:13+00:00",
-   "summary": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour af",
-   "body": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of four babies born in free births or home births who died in the northern rivers region between 2022 and 2024. It will consider whether the care was reasonable in the circumstances and whether care by an unregistered support worker was reasonable and appropriate before, during and after the birth. Free births are when a person gives birth without a registered health professional present. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/6f2f5f79b230afbd1349d9a2efe3436da90ab4dc/655_0_3790_3033/master/3790.jpg?width=140&quality=85&auto=format&fit=max&s=feb915597ad3a87178a8fb0ad355a7ae",
-   "lang": "en"
-  },
-  {
-   "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
-   "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
-   "source": "The Guardian",
-   "published": "2026-11-17T06:26:08+00:00",
-   "summary": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff Get our breaking news email , free app or daily news podcast Upmarket retailer David Jones owed hundreds of millions of dollars when it collapsed into",
-   "body": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff Get our breaking news email , free app or daily news podcast Upmarket retailer David Jones owed hundreds of millions of dollars when it collapsed into administration, after accelerating financial losses and reputational damage threatened its ability to stock shelves for Christmas. About 500 creditors attended its first meeting on Tuesday, where administrators McGrathNicol started to break down who is owed what, when those left out of pocket will know where they stand, and what ultimately went wrong. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/0a2db8d77868f5135bedecc8258c52c399a9d09d/240_154_3881_3107/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=664046d8d658a9148945fec68d4245b7",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore assessing impact of new US chip export controls aimed at curbing China’s access",
-   "link": "https://www.channelnewsasia.com/singapore/us-export-controls-ai-chips-6556831",
-   "source": "CNA World",
-   "published": "2026-11-17T06:19:00+08:00",
-   "summary": "Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.",
-   "body": "Under the new US restrictions, a licence will be required to export, re-export, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--UMbkwYpV--/c_crop,h_448,w_796,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-03-18T044900Z_1_LYNXMPEM2H061_RTROPTP_3_NVIDIA-CHINA.JPG?itok=Y7Kh2G4c",
-   "lang": "en"
-  },
-  {
-   "title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-17T06:09:00+00:00",
-   "summary": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO Bloomberg.com Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State WSJ Nvidia scandal and CEO's resignation rock Silicon Valley NPR Nvidia board is not considering bringing Jensen Huang back as CE",
-   "body": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO Bloomberg.com Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State WSJ Nvidia scandal and CEO's resignation rock Silicon Valley NPR Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC CNBC Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding? Yahoo Finance",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "တိုင်းပြည်အနာဂတ်ကို မြော်မြင်",
@@ -2197,19 +2230,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/DWVPOIQRAVHUVIQJWFECXP3OGA.JPG?auth=3875bd89c3f7375e685965ba632eb1f1ca08b131c2008c88e095480519defe7a&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "ICJ အမှုမှာ ဂမ်ဘီယာ ဘယ်လောက် ယုံကြည်မှုရှိလဲ",
-   "link": "https://www.bbc.com/burmese/articles/cm5y1gd4g6yzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-15T17:28:22+00:00",
-   "summary": "ဂမ်ဘီယာ ရှေ့နေအဖွဲ့ကို ဦးဆောင်သူ အာဆလန် ဆူလေမန်နဲ့ သီးသန့်မေးမြန်းခန်း",
-   "body": "ဂမ်ဘီယာ ရှေ့နေအဖွဲ့ကို ဦးဆောင်သူ အာဆလန် ဆူလေမန်နဲ့ သီးသန့်မေးမြန်းခန်း",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f99/live/fec970f0-e16f-11f1-a2d0-ff163dc3689d.jpg",
    "lang": "my"
   }
  ]
