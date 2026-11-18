@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T19:38:52.832491+00:00",
- "updated_yangon": "2026-11-19 02:08",
+ "updated": "2026-11-18T20:38:54.359549+00:00",
+ "updated_yangon": "2026-11-19 03:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -8,8 +8,8 @@
   "BBC News",
   "CNA World",
   "DW",
-  "France 24",
   "Google News",
+  "Google News · Middle East",
   "Google News · Ukraine",
   "Irrawaddy Burmese",
   "Myanmar Now Burmese",
@@ -20,58 +20,50 @@
  "countries": [
   [
    "United States",
-   48
+   47
   ],
   [
    "Russia",
-   31
+   36
   ],
   [
    "Ukraine",
-   27
+   30
   ],
   [
    "Myanmar",
    13
   ],
   [
-   "China",
-   11
-  ],
-  [
    "Israel",
-   11
+   12
   ],
   [
    "Palestine",
-   8
+   11
   ],
   [
-   "France",
-   7
+   "China",
+   11
   ],
   [
    "European Union",
    5
   ],
   [
-   "NATO",
-   5
-  ],
-  [
-   "Germany",
-   3
-  ],
-  [
    "Iran",
-   3
+   4
+  ],
+  [
+   "France",
+   4
   ],
   [
    "United Kingdom",
-   2
+   3
   ],
   [
-   "Lebanon",
+   "Germany",
    2
   ],
   [
@@ -79,21 +71,16 @@
    1
   ],
   [
-   "Yemen",
+   "NATO",
    1
   ],
   [
-   "North Korea",
-   1
-  ],
-  [
-   "Iraq",
+   "Lebanon",
    1
   ]
  ],
  "categories": [
   "Asia-Pacific",
-  "Europe / NATO",
   "Global",
   "Middle East",
   "Myanmar",
@@ -101,7 +88,7 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 24,
+ "war_count": 30,
  "languages": {
   "my": 22,
   "en": 118
@@ -124,7 +111,7 @@
    "title": "မြန်မာမှာ အိုဗာတင်းဖြန့်နေတဲ့ DKSH လုပ်ငန်းဖြန့်ဖြူးမှု ရပ်ဆိုင်း",
    "link": "https://www.bbc.co.uk/burmese/live/c6vg288q5l2jt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-18T19:38:53+00:00",
+   "published": "2026-11-18T20:39:09+00:00",
    "summary": "အာဆီယံနဲ့ရှေ့ဆက် ဆက်ဆံဖို့ ပြန်သုံးသပ်မယ်လို့ ဦးမင်းအောင်လှိုင်ပြောတဲ့သတင်းအပါအ၀င် နို၀င်ဘာ ၁၈ ရက်နောက်ဆုံးရ မြန်မာနဲ့ကမ္ဘာ့သတင်းတွေကို အခုစာမျက်နှာမှာ တိုက်ရိုက်တင်ဆက်ပေးသွားမှာဖြစ်ပါတယ်။",
    "body": "အာဆီယံနဲ့ရှေ့ဆက် ဆက်ဆံဖို့ ပြန်သုံးသပ်မယ်လို့ ဦးမင်းအောင်လှိုင်ပြောတဲ့သတင်းအပါအ၀င် နို၀င်ဘာ ၁၈ ရက်နောက်ဆုံးရ မြန်မာနဲ့ကမ္ဘာ့သတင်းတွေကို အခုစာမျက်နှာမှာ တိုက်ရိုက်တင်ဆက်ပေးသွားမှာဖြစ်ပါတယ်။",
    "category": "Myanmar",
@@ -136,10 +123,214 @@
    "lang": "my"
   },
   {
+   "title": "Latest news on the Middle East conflict. Media: ‘Israel is considering an attack on Iran in the coming days’. IDF carries out operation in central Gaza to ‘dismantle a Hamas tunnel’ - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-18T20:31:27+00:00",
+   "summary": "Latest news on the Middle East conflict. Media: ‘Israel is considering an attack on Iran in the coming days’. IDF carries out operation in central Gaza to ‘dismantle a Hamas tunnel’ Il Sole 24 ORE",
+   "body": "Latest news on the Middle East conflict. Media: ‘Israel is considering an attack on Iran in the coming days’. IDF carries out operation in central Gaza to ‘dismantle a Hamas tunnel’ Il Sole 24 ORE",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "What the Crimean bridge attack means for Russia",
+   "link": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-18T20:30:00+00:00",
+   "summary": "Ukraine's latest strike on the Kerch Bridge has disrupted a key transport link between Russia and Crimea. Beyond the damage, the attack could have serious consequences for Russian military logistics and Putin's prestige.",
+   "body": "Ukraine's latest strike on the Kerch Bridge has disrupted a key transport link between Russia and Crimea. Beyond the damage, the attack could have serious consequences for Russian military logistics and Putin's prestige.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79968219_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+   "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+   "source": "NYT World",
+   "published": "2026-11-18T20:29:31+00:00",
+   "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+   "body": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Trump’s team warn Putin that time is running out",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHM1UGUwY0dTVmlZZjR1STJLcFRBdFJvR0w4TmpDTFdzWHJIay1EcHlZZU8zTzgzeHJaUUhhQVlwRkJsS0Fqdjk5SldBRjd2RUR6eC1qV0hWdFNfWGotTUZRRWpuTkN3cjcyb1dtclNyRTFKa2liakRXTXgxVzJTcGwtSjdHX3BfNXM2UW52NGhyMjVGRGJ4VV8tT1R3R2hyMHVWLVZZcURidDIxMkdlcFBPS2I5d1ZOa0JYTg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T20:25:08+00:00",
+   "summary": "Ukraine war live: Trump’s team warn Putin that time is running out The Independent",
+   "body": "Ukraine war live: Trump’s team warn Putin that time is running out The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:24:50+00:00",
+   "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+   "body": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "China"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033480.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+   "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+   "source": "The Guardian",
+   "published": "2026-11-18T20:24:19+00:00",
+   "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’",
+   "body": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
+   "lang": "en"
+  },
+  {
+   "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+   "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+   "source": "NYT World",
+   "published": "2026-11-18T20:22:46+00:00",
+   "summary": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
+   "body": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Muslims projected to overtake Christians as world’s largest religious group",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:21:34+00:00",
+   "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+   "body": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-20.18.13-1795033197.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+   "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+   "source": "NYT World",
+   "published": "2026-11-18T20:21:11+00:00",
+   "summary": "The Colombian president said his nation would not allow Americans forces to take part in anti-cartel operations on its soil.",
+   "body": "The Colombian president said his nation would not allow Americans forces to take part in anti-cartel operations on its soil.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
+   "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-18T20:19:00+00:00",
+   "summary": "On a visit to Caracas, Pete Hegseth signed a deal that signifies the \"reestablishment of our defense partnership.\" US-Venezuela ties were strained for years until US troops ousted ex-President Nicolas Maduro in January.",
+   "body": "On a visit to Caracas, Pete Hegseth signed a deal that signifies the \"reestablishment of our defense partnership.\" US-Venezuela ties were strained for years until US troops ousted ex-President Nicolas Maduro in January.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/79985353_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US loses measles-free status after 26 years in historic setback",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:18:25+00:00",
+   "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+   "body": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033098.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T20:14:57+00:00",
+   "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "body": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+   "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:14:04+00:00",
+   "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+   "body": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afdcf24-1795018532.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
    "source": "NYT World",
-   "published": "2026-11-18T19:31:39+00:00",
+   "published": "2026-11-18T20:13:01+00:00",
    "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
    "body": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
    "category": "Asia-Pacific",
@@ -150,6 +341,197 @@
     "China"
    ],
    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump and Putin to meet one-on-one in China Thursday",
+   "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:12:20+00:00",
+   "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+   "body": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T114442Z_790680677_RC2BQOAGHXCC_RTRMADP_3_APEC-SUMMIT-1795002390.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+   "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+   "source": "NYT World",
+   "published": "2026-11-18T20:08:35+00:00",
+   "summary": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
+   "body": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "William and Kate meet PM Modi as they wrap up India tour",
+   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T20:07:08+00:00",
+   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+   "body": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+   "source": "The Guardian",
+   "published": "2026-11-18T20:03:50+00:00",
+   "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing ",
+   "body": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing . Although she said there was no systematic or routine two-tier policing, the home secretary said “a new impartiality standard” was necessary to reverse the fall in the public’s faith in law enforcement. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/fe32e8fff64ccad51c80ae6cbee03e277ab28439/170_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=f3803d60f09103d48c5683bac96d774d",
+   "lang": "en"
+  },
+  {
+   "title": "Heated debate escalates into on-air fight on Armenian TV",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T19:56:17+00:00",
+   "summary": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
+   "body": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795031764.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army - The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZk1sWlRxTWZ4S1lqalk0aHNVOU42ZWJGWXRRVkdpX2sxazdKM0hFT29VLWZZbnk3WDFBQ2oySVJzNXZmbUp3YUJhQUVILUQ0czhZT2wtbC1CeW0tRnV1ay1ERWc4X0ZsZC1NcGVTZW14aXJBdXBBN2RmR00zejJHanhLTWViRExqOEE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T19:52:48+00:00",
+   "summary": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army The Jerusalem Post",
+   "body": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army The Jerusalem Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0ozZTJwRFgzZXh0bjNoUHdyNFZGOXE4TFJ0aU9yOE9HZ0hfSnpHaE1oaW8zcE1qeE81UWZaYjVCX0ZOX1UzaXZXTkpOQmljSHE1NExfdDRqTFZYUWZUTDluRU1xcGtLT3NZRzk0U19kTUhKcTlzT3dkaG8tRjVxMnpoakRYaWxZVUhZdEpTU0JHY2Z6Y1JEdVJqR1ZDRTJsTEZIQ25VaWI0SVY0SjFBN1U2X3VDYW0wNWZVdkNFVko?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T19:50:44+00:00",
+   "summary": "Leading House Democrat targets Trump’s inner circle for first investigations The Washington Post House Democrats Cast Wide Net as They Prepare Trump Investigations The New York Times House Democrat targets Trump family and top officials in early steps toward promised investigatio",
+   "body": "Leading House Democrat targets Trump’s inner circle for first investigations The Washington Post House Democrats Cast Wide Net as They Prepare Trump Investigations The New York Times House Democrat targets Trump family and top officials in early steps toward promised investigations Post-Gazette Democrats send letters to dozens of Trump officials and allies putting them on notice CNN House Democrat warns 13 Trump allies to save their records for upcoming investigations NPR",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUtlOVpGUm1CT2Zlbl9UalNtYjZwbnBLcGpXQ3pJR1VPOVJsc3lJWl9vMEFMY0hxWnNjLVFhNmVqUk5OQWo3MXRPb1pVX0J5VkNYeXRDaHJqdVVPYUVMZDB4QVBpZndybzVvQjVIUDhDazVRUFZ3OVRYVW5PU1A1aDJ4TkJZR1lPWlpKSTl4UFRiMkFic2RydlNVZFNrSWw5X05V?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T19:50:00+00:00",
+   "summary": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences The Guardian",
+   "body": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+   "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
+   "source": "The Guardian",
+   "published": "2026-11-18T19:45:30+00:00",
+   "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illeg",
+   "body": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the wealthy activist and philanthropist that were not in the original. Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Palestine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cc38d0284f108bb45abb2f0de8259ad8",
+   "lang": "en"
+  },
+  {
+   "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "source": "The Guardian",
+   "published": "2026-11-18T19:34:31+00:00",
+   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of t",
+   "body": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140",
+   "lang": "en"
+  },
+  {
+   "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T19:31:31+00:00",
+   "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
+   "body": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030284.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T19:30:51+00:00",
+   "summary": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
+   "body": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030140.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T19:27:42+00:00",
+   "summary": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+   "body": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030045.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -181,19 +563,36 @@
    "lang": "en"
   },
   {
-   "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+   "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
    "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
    "source": "The Guardian",
    "published": "2026-11-18T19:17:19+00:00",
-   "summary": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decid",
-   "body": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said. European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed. Continue reading...",
+   "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided w",
+   "body": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said. European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States",
+    "United Kingdom",
     "European Union"
    ],
    "image": "https://i.guim.co.uk/img/media/f7ad60a116dae04179547396d95174f6a9e9f4d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f5cf8619c3e847045eddc8cc1b23273b",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - chronicleonline.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHVyRUJuZVFuTS1ZaS0xaWNtYTJPT0t0Y2JmT1JHYXVISWNjRW9Oc3V0aGpkYkxiTXA1QS13a21QQWVmb0NZLWVTNGMtdzYxaTV5XzZ6Rm10NEkzZ2ZBX3l6VVFwaTBSWDVMd2ZhU3o5ZnlkRG9JRjdIenpvVkFwY2NwUzNETmF1OWtaYlR2dHBzMFN5Q2VDWTRyNXpUeWt6VGNZdXdiS3ZxWFl0WGc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T19:16:50+00:00",
+   "summary": "Russia Ukraine War chronicleonline.com",
+   "body": "Russia Ukraine War chronicleonline.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -213,12 +612,29 @@
    "lang": "en"
   },
   {
+   "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T19:15:00+00:00",
+   "summary": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany The Guardian",
+   "body": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
    "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
    "source": "The Guardian",
    "published": "2026-11-18T19:14:38+00:00",
-   "summary": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that impacted more than 12,400 flights on Friday, urging peo",
-   "body": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that impacted more than 12,400 flights on Friday, urging people to “lay off” Sean Duffy, the transportation secretary. “I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an event featuring aviation officials and lawmakers on Wednesday, Politico reported. Continue reading...",
+   "summary": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging peo",
+   "body": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging people to “lay off” Sean Duffy, the transportation secretary. “I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an event featuring aviation officials and lawmakers on Wednesday, Politico reported. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -228,30 +644,17 @@
    "lang": "en"
   },
   {
-   "title": "Dow slides 500 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T19:10:00+00:00",
-   "summary": "Dow slides 500 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates CNBC Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call Yahoo Finance Four takeaways from Nvidia’s first earnings report after Jensen Huang scandal CNN Stock ",
-   "body": "Dow slides 500 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates CNBC Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call Yahoo Finance Four takeaways from Nvidia’s first earnings report after Jensen Huang scandal CNN Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves WSJ Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up CNBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Cassidy slams White House for pulling FDA nominee who ‘probably had the votes’",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGJSenlDNXRRTVFVMlkza2N0XzdKSVJBUlprdWlvTkpCbS1HTkZvOHRqeFRvbXlnUFRYdDhzTVNDaTFTUDg2S0FlaURtZUFYaENBbUlaMEJZMVNsNGRFQkJ3dW1KZkRILXJjZlNaeTlOdHVFNWxhZWZNREpKVGU4d2NtNkJOX0MzU0kwWVd1TDhmeFJUNXcyQlV4eHVRaE5PbTU3Ql9vMzFwd2hQSDVqNzRBUl83TW5PUHF0SmZRY1RvZ2pwX212UERCMUI5TF91aGdRYkdB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T19:06:33+00:00",
-   "summary": "Cassidy slams White House for pulling FDA nominee who ‘probably had the votes’ Politico White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner The New York Times Trump withdraws Heidi Overton's nomination to lead FDA Reuters White House drops Trump’s FDA pick",
-   "body": "Cassidy slams White House for pulling FDA nominee who ‘probably had the votes’ Politico White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner The New York Times Trump withdraws Heidi Overton's nomination to lead FDA Reuters White House drops Trump’s FDA pick amid senators’ opposition and ‘icy’ relationship with RFK Jr. CNN White House withdraws nominee for FDA commissioner : Trump's Terms NPR",
-   "category": "USA / Americas",
-   "is_war": false,
+   "title": "Russia Ukraine War - Idaho State Journal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcTMyRVpuUzRXN2x2bWZQaTV3RXJfRHE2RDgyUlVrM2dOaUJjdGdtcHBybkRIWGVQRzJpN2Npd2YzcXRCQ1dUTkdhM1ZScDVrQ2RMbTRkZERvVHFyYVZHa3M4R21tR0JrQTJOd0d1VHNmWk9lTEFIUXR6SVdxTW1KbnNoc1ptYnlMS2RjWFU1aDFVRUh5WmptRlRqYTJVSERETUlhdU5lZWRQS2hzaWdRdA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T19:13:59+00:00",
+   "summary": "Russia Ukraine War Idaho State Journal",
+   "body": "Russia Ukraine War Idaho State Journal",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "United States",
-    "NATO"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -261,13 +664,11 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZTRoVUJjdWdKZU1ELURWWUhKT0REZEF6NURkNnByMnNkV29BZHphOWpHcUZjbF9fa0Z3bG1MZFFEWGRwdTM4ci1HLWYxckJ3SURCQkpkU1ZHbTZ1YXk4c0hVaERmVnQxeHFxMk1LZ1BxbmxCUlJlR09ZajcwVUdQQnV3NUhxaFZVb0pfVG9RWTlnX0pQcmpYS3pPM3JmdmRyV1hSbXZ6TW5jNmxRN1psWG5scHN1Nmh5M1NnT3VuV0Q?oc=5",
    "source": "Google News",
    "published": "2026-11-18T19:02:55+00:00",
-   "summary": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker NBC News Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives CNN Jeffries wins Democratic nomination for House speaker, paving way f",
-   "body": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker NBC News Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives CNN Jeffries wins Democratic nomination for House speaker, paving way for historic election CBS News Hakeem Jeffries re-elected to lead US House Democrats BBC The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House Time Magazine",
+   "summary": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker NBC News Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History The New York Times Rep.-elect Frederick Haynes III holds back support for Jeffries as House spea",
+   "body": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker NBC News Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History The New York Times Rep.-elect Frederick Haynes III holds back support for Jeffries as House speaker Dallas News Hakeem Jeffries could become the first Black House speaker after Democratic nomination AP News Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives CNN",
    "category": "USA / Americas",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -289,6 +690,22 @@
    "lang": "en"
   },
   {
+   "title": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T19:00:00+00:00",
+   "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes CBS News Iran widens Gulf attacks after US strikes missile launch site CNN Iran war live: US says it hits IRGC Qeshm site; Iran says US drone downed Al Jazeera Iran Attacks Kuwa",
+   "body": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes CBS News Iran widens Gulf attacks after US strikes missile launch site CNN Iran war live: US says it hits IRGC Qeshm site; Iran says US drone downed Al Jazeera Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait WSJ Iran widens Gulf attacks by targeting US air base in Kuwait and sites in Bahrain Anchorage Daily News",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
    "link": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
    "source": "The Guardian",
@@ -302,33 +719,18 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war live: Trump’s team warn Putin that time is running out",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHM1UGUwY0dTVmlZZjR1STJLcFRBdFJvR0w4TmpDTFdzWHJIay1EcHlZZU8zTzgzeHJaUUhhQVlwRkJsS0Fqdjk5SldBRjd2RUR6eC1qV0hWdFNfWGotTUZRRWpuTkN3cjcyb1dtclNyRTFKa2liakRXTXgxVzJTcGwtSjdHX3BfNXM2UW52NGhyMjVGRGJ4VV8tT1R3R2hyMHVWLVZZcURidDIxMkdlcFBPS2I5d1ZOa0JYTg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-18T18:55:08+00:00",
-   "summary": "Ukraine war live: Trump’s team warn Putin that time is running out The Independent",
-   "body": "Ukraine war live: Trump’s team warn Putin that time is running out The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW1PRm53Ti1nVTlRejJTV3loQl9QbkxGWVdoVTFucEVid1BXZjJYbFpVc2RPVjhLRndBc1pyeVpmNk52Wl9lTnBCZUFpUFVGdy1PdkJteVA0Y05rbXNQX3VRVjVnSTMyenBOaTF5TlE5THBBYURRNkZhRk9taGJLem9LaVFBZFA2a1JYcQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T18:49:00+00:00",
+   "summary": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown AP News Illinois' incoming Democrats question Trump's $50 billion FAA request Axios Ground Stop Came as Duffy Pushed to Rapidly Upgrade Aviation Systems The New York Times Sean Du",
+   "body": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown AP News Illinois' incoming Democrats question Trump's $50 billion FAA request Axios Ground Stop Came as Duffy Pushed to Rapidly Upgrade Aviation Systems The New York Times Sean Duffy's $50 billion demand for air travel fixes met with yelling, skepticism in Congress NBC4 Washington Investigators make progress in hunt for cause of FAA ground stop CNBC",
+   "category": "Global",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
-   "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "source": "The Guardian",
-   "published": "2026-11-18T18:50:40+00:00",
-   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of t",
-   "body": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140",
    "lang": "en"
   },
   {
@@ -336,8 +738,8 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEk1VDl3UGZObmJIY1FYd1pHT1lsQVd0bm4ydzQ3RXpGRU1Rc1R5WGR2Z3hHaF9QdU5pMFpVaXZBOHJYTWEzeVJzb0JkRl9OSkpwRERVMjduYURFOEFYZk43a3pWX2N3eUx5Y2hwNzZlb21ic0hZc2VvSHdqYlJYYVlZZGlnQlRqMXB2dkdGd25YTzB2RVJVZ0tpcDFwYlhKbjJJbA?oc=5",
    "source": "Google News",
    "published": "2026-11-18T18:45:00+00:00",
-   "summary": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests The Guardian Opinion | Don’t Expect Robert Pattinson’s James Bond to Say He’s Sorry The New York Times What Watch Will Robert Pattinson Wear as James Bond? It's Complicated. Esquire Bat, ",
-   "body": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests The Guardian Opinion | Don’t Expect Robert Pattinson’s James Bond to Say He’s Sorry The New York Times What Watch Will Robert Pattinson Wear as James Bond? It's Complicated. Esquire Bat, Bond and Beyond: How Robert Pattinson Landed 007 (and What Comes Next) The Hollywood Reporter Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Variety",
+   "summary": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests The Guardian How Robert Pattinson Could Shape a New James Bond Style The New York Times The Pattinson paradox: Why Robert Pattinson is both the riskiest and safest James Bond casting Fort",
+   "body": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests The Guardian How Robert Pattinson Could Shape a New James Bond Style The New York Times The Pattinson paradox: Why Robert Pattinson is both the riskiest and safest James Bond casting Fortune Bat, Bond and Beyond: How Robert Pattinson Landed 007 (and What Comes Next) The Hollywood Reporter Amazon's Bezos says he helped pick Pattinson as Bond Reuters",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -350,11 +752,40 @@
    "source": "The Guardian",
    "published": "2026-11-18T18:43:37+00:00",
    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said he would consider cuts to national insur",
-   "body": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said he would consider cuts to national insurance for young people “very carefully”. The prime minister also believes his proposed changes to welfare are a “very different proposition” from his predecessor, Keir Starmer, and the former chancellor Rachel Reeves in the last government. Continue reading...",
+   "body": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said he would consider cuts to national insurance for young people “very carefully”. The prime minister also believes his proposed changes to welfare are a “very different proposition” from those of his predecessor, Keir Starmer, and the former chancellor Rachel Reeves in the last government. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=a230d7eb0898ce7934bbc9fcff858e2a",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli tanks roll into central Gaza in first ground operation since ceasefire began",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXNuV0liYTFjVTV5bnVKQ1huSnJYcDBPcklJMWd5enVtMWlGU244aGRMWkFlTkF6cWpHLXk3S0hmVl91d0YxRFVFaXQwdjRXZVZjOXFtUWFpVkhBSjc1dzNfUm9DbVFXTGFuNjNYdjdpWDBfd05IYUtiRmN5YlFzREl3R2Q5d1haOG9IQlJ5c2RBZW5qV3ZENkZOVmE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T18:40:48+00:00",
+   "summary": "Israeli tanks roll into central Gaza in first ground operation since ceasefire began NBC News Israeli military launches rare ground operation in Gaza beyond Yellow Line BBC Israel launches ground operation in central Gaza, dozens flee Reuters Israeli Tanks Advance Across Gaza Cea",
+   "body": "Israeli tanks roll into central Gaza in first ground operation since ceasefire began NBC News Israeli military launches rare ground operation in Gaza beyond Yellow Line BBC Israel launches ground operation in central Gaza, dozens flee Reuters Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion The New York Times Three killed as Israel launches first ground push since ‘ceasefire’ began Al Jazeera",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "DOJ charges former Penn State student at center of fraternity drug bust",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcEZIZHZuV3NFQW1GbGI0RlBqSkl1ZGFBcl9UMmpNWi1IVG5HVWI5TTBWOTQyWHF3X2t0SzRRRUoxU1JNNGJzUlhpdjV1YjUwRHpvNmhtd3Njb3VNa0ZJYWxGZDMtWGNGZXlfaVhVMGJ1bGl5MnRPODBxR0dJWGpHODN0WHBWd0xmUFRTck51cTdTZGdubFYxWl9KbEg2MUJjSVFTNl9FVk1TdmpnRzE3RnphMA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T18:40:12+00:00",
+   "summary": "DOJ charges former Penn State student at center of fraternity drug bust NBC News Alleged kingpin of cocaine ring at Penn State facing new charges after indictment Centre Daily Times Former Penn State frat brother indicted by federal grand jury in cocaine trafficking scheme Fox Ne",
+   "body": "DOJ charges former Penn State student at center of fraternity drug bust NBC News Alleged kingpin of cocaine ring at Penn State facing new charges after indictment Centre Daily Times Former Penn State frat brother indicted by federal grand jury in cocaine trafficking scheme Fox News Alleged ringleader in Penn State fraternity cocaine ring case now facing federal charges CBS News Former Penn State student indicted on federal charges related to cocaine ring Post-Gazette",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -453,36 +884,16 @@
    "lang": "en"
   },
   {
-   "title": "Israel launches ground operation in central Gaza, dozens flee",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+   "title": "Warner Bros. TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2ozb0trWi1kbVV1RWdLa3B0V2NQaFI4YnlSTmtaSnFrZEc1dFJoVzR5SFplXzZfOUlsc3NfSGNyNVRWVkpBVkpaaGxqdXhUcTI1bHh4WXg3MGFkRHBtV3ZXR2RRcTdnYjUzdUR5cE9zamhGaldDekZnM0Y5T2pLRWNnSlozNDc0NVBjZTdJUm9BN09ubXNZZDFfSzhBQQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-18T18:17:51+00:00",
-   "summary": "Israel launches ground operation in central Gaza, dozens flee Reuters Israeli tanks roll into central Gaza in first ground operation since ceasefire began NBC News IDF launches rare operation beyond ‘Yellow Line’ in central Gaza The Times of Israel Israel launches ground operatio",
-   "body": "Israel launches ground operation in central Gaza, dozens flee Reuters Israeli tanks roll into central Gaza in first ground operation since ceasefire began NBC News IDF launches rare operation beyond ‘Yellow Line’ in central Gaza The Times of Israel Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down Drop Site News Three killed as Israel launches first ground push since ‘ceasefire’ began Al Jazeera",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
+   "published": "2026-11-18T18:15:00+00:00",
+   "summary": "Warner Bros. TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents Deadline Skydance shakes up TV by collapsing two prominent studios into one Los Angeles Times Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio The Hollywood R",
+   "body": "Warner Bros. TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents Deadline Skydance shakes up TV by collapsing two prominent studios into one Los Angeles Times Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio The Hollywood Reporter Skydance to Fold Paramount TV Studios Into Warner Bros. TV Under Channing Dungey and Matt Thunell Variety Skydance to Merge Paramount and Warner Bros TV. What Comes Next. Barron's",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-   "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
-   "source": "France 24",
-   "published": "2026-11-18T18:17:34+00:00",
-   "summary": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing ",
-   "body": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing its strength against an infrastructure project that has become synonymous with Russian President Vladimir Putin’s 2014 seizure of the peninsula.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/6b1cf78a-e374-11f1-ae39-1ba7ddfab527/w:1024/p:16x9/2026-11-17T132708Z-373589621-RC2PPOA5FXQR-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CRIMEA-SBU.jpg",
    "lang": "en"
   },
   {
@@ -517,15 +928,17 @@
    "lang": "en"
   },
   {
-   "title": "The early reviews for the Madden movie aren’t good - NBC Sports",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnRJcnRyRm0tdnZIek16MWJzUWRCR2ZDYndiYTVORnkyOG5PNWo2YW9qUVY5dkFzUzdBRDN5Z25oWklvRFR2SXFNUFA2T2lPWkR0d0VzTzU1SXBVZHVpVmNBc2VBVk9ST2dTMmU3Z1hCSzBSSS1IdktmS0dOdjVNNG9ZWVhRSU13RkxNdEdaM19RTkdYdnZzaDdfN0o1U3IxM0QtS1cwbWQwdGFyXzlIXw?oc=5",
+   "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status | US news",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0RLNnY4WmFTeG5LcHFXOXBNQW1PME8tMzhSWTJCVEpva2JQcWpWeHc0RVVjcGx0eUlodmNsQXByX2lSbFBGTlNwcEpiVXhWQVJNcjI0OXdFdFJHenA2YUhIcUcyUHpHZ2hZSWhLREF6dzJPVmFfc3VtNmoxWU5SMC1UY0EzQmZIbk4xUVZB?oc=5",
    "source": "Google News",
-   "published": "2026-11-18T18:08:43+00:00",
-   "summary": "The early reviews for the Madden movie aren’t good NBC Sports The ‘Madden’ movie whiffed on the title character, even if it has redeeming qualities The New York Times John Madden role pushes Nicolas Cage to dramatic physical transformation with ‘brutal’ diet, prosthetics Fox News",
-   "body": "The early reviews for the Madden movie aren’t good NBC Sports The ‘Madden’ movie whiffed on the title character, even if it has redeeming qualities The New York Times John Madden role pushes Nicolas Cage to dramatic physical transformation with ‘brutal’ diet, prosthetics Fox News Did Nicolas Cage Really Gain 60 Pounds to Play NFL Coach John Madden? He Says... E! News Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker The Guardian",
-   "category": "Global",
+   "published": "2026-11-18T18:09:00+00:00",
+   "summary": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status | US news The Guardian Four ways the U.S. measles status could affect you The Washington Post U.S. Rep. Morrison calls for accountability after measles milestone reversed MPR News Opinion | The R",
+   "body": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status | US news The Guardian Four ways the U.S. measles status could affect you The Washington Post U.S. Rep. Morrison calls for accountability after measles milestone reversed MPR News Opinion | The Return of Measles: Tracing the Cause The New York Times The \"shameful\" measles data that lost the US its elimination status Ars Technica",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -664,21 +1077,6 @@
    "lang": "en"
   },
   {
-   "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-18T17:51:47+00:00",
-   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-   "body": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "India"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
    "source": "Al Jazeera",
@@ -692,32 +1090,16 @@
    "lang": "en"
   },
   {
-   "title": "Republican Senator Cornyn blocks Trump judicial nominee in Texas",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0NHZWwycF85Y1NfZ1lEV01yWEpOUWJacnJPRlhBeXNReGR5VXlBODhDMzF3di00amFSNjFVVkNZSGViMkxYWFg2WTBxU0kwdEN5c0FReTZoZk9rVTltSEs5Ym9vRlVQMXVVRkNVSFRXNXBjQnJsV21KVTdGWWhLNUxOMkxseE1kQ29ZOUNBTWdDUnQ1VXNQMDNiM2FHTnBMYlZYY3RiT2s2SGlBeGdjSnJWQjk?oc=5",
+   "title": "The Fed's next moves come into focus - Axios",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmF6LXJjeHdMZ1c5SHl1d0FreWlmM1NHX1NKbkhFR0EzV3NnSXlZaVgyNXNmbGdBeERPQ2xPaUNRN2lhX3VLOTJfaF9XTmpFS3BQcDlfaU9vMExQeEYxbmJ3U1hlYTZOUkNaUw?oc=5",
    "source": "Google News",
-   "published": "2026-11-18T17:49:24+00:00",
-   "summary": "Republican Senator Cornyn blocks Trump judicial nominee in Texas Reuters Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas AP News Trump Judicial Pick Pushed Abortion Memo That Blanche Nixed (1) Bloomberg Law News On the Gaiser Nomination Just ",
-   "body": "Republican Senator Cornyn blocks Trump judicial nominee in Texas Reuters Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas AP News Trump Judicial Pick Pushed Abortion Memo That Blanche Nixed (1) Bloomberg Law News On the Gaiser Nomination Just Security The Texas Endgame: Cornyn, Tillis and Judicial Picks National Review",
-   "category": "Europe / NATO",
+   "published": "2026-11-18T17:48:48+00:00",
+   "summary": "The Fed's next moves come into focus Axios Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike CNBC Fed minutes: Higher interest rates needed in December as inflation worries mount Anchorage Daily News Fed's Waller doubles down on a jumbo rate hike",
+   "body": "The Fed's next moves come into focus Axios Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike CNBC Fed minutes: Higher interest rates needed in December as inflation worries mount Anchorage Daily News Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come Yahoo Finance Fed Minutes Show Almost All Officials Expect More Rate Hikes Bloomberg.com",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUxjeXQ3ZkpFa0ROaG1lWTl4QTBEUWk5aVktc3ZYeGdZakVqUm1IczNFNWFjN090NWNNZkUzNmJ5Z2dYX0JBZDNRLWJad3NzbWtQeUR3VEVUQm1DYWduMmRvLWhwZmN6cjlOazlzMUlOaC1YWUQ4dWJkaDlwczNRY3laSDIxbVBBUDlKMi03b2psZWlpcF8ycDZ3MTZfd2t5MGNpSVJPeG9nU0FncEZVQXFFUUdrczlsNEI0NEVYZ2NORllWaFVjS3hQS0lfend2NjVnRFVLcUZlX09WUF9wMVJ3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T17:49:00+00:00",
-   "summary": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes Nvidia’s roaring results can’t hide its troubles The Economist Nvidia rules out Jensen Huang’s return as CEO, tells investors ‘we’ve got this’ CNN Jensen Huang and the Myth of Indispensabilit",
-   "body": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes Nvidia’s roaring results can’t hide its troubles The Economist Nvidia rules out Jensen Huang’s return as CEO, tells investors ‘we’ve got this’ CNN Jensen Huang and the Myth of Indispensability The Atlantic Mellanox founder confirms speaking with Jensen Huang since resignation, says 'definitely possible to consider' his return as Nvidia CEO The Times of Israel",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -738,23 +1120,6 @@
    "lang": "en"
   },
   {
-   "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
-   "link": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
-   "source": "France 24",
-   "published": "2026-11-18T17:48:38+00:00",
-   "summary": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's",
-   "body": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's two largest economies, China's growing diplomatic influence and the competition over artificial intelligence.“China is the diplomatic center of the world,” says Brown, pointing to Beijing's ability to bring together leaders from Russia, the United States, Europe and elsewhere. He argues that China now has “extraordinary convening power\" and significant influence over Russia.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://s.france24.com/media/display/2bed0054-e370-11f1-905e-7908c4e1a3c7/w:1024/p:16x9/EN-20261118-150609-151600-CS-01.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
    "source": "The Guardian",
@@ -769,22 +1134,6 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-   "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-   "source": "NYT World",
-   "published": "2026-11-18T17:47:13+00:00",
-   "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
-   "body": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -833,19 +1182,6 @@
    "lang": "en"
   },
   {
-   "title": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
-   "link": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
-   "source": "The Guardian",
-   "published": "2026-11-18T17:42:22+00:00",
-   "summary": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’ A man known as the “Lip King” who carried out a “Brazilian butt lift” (BBL) on a woman who later died injected her with seven times the amount of filler tha",
-   "body": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’ A man known as the “Lip King” who carried out a “Brazilian butt lift” (BBL) on a woman who later died injected her with seven times the amount of filler that he had been taught to use, an inquest jury has been told. Traces of the filler that Jordan Parke injected into Alice Webb, 33, were discovered in her heart, lungs, brain and kidneys, the inquest heard. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/248e205d8cc4f1cf2be6fca41947917c7be01709/91_185_745_596/master/745.jpg?width=140&quality=85&auto=format&fit=max&s=861dc64a4f394e2a9093e8c71c76a45f",
-   "lang": "en"
-  },
-  {
    "title": "Zelenskyy says Xi and Trump have power to end Ukraine war",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGpCVDZBSkUwRmsyTjR0bFNJQmxIaVMwT3c2RGN1S0FKLVFSbmlDUFlpcFlOX1BoZEYyRUE0WGhTdmJXRnFzRENPQS1uR3RyX2cxekNYZTdORjVVZ3dxWDU3a09SeXFrYkdaTGYtX1JZZ3kwUlBCOGtlMVFVcnZqdzdSVjhaOTNUMXhpYUtKUmUzUUN6MTE2S3h2bkVZT1ZmMzltZmk3M25COVU?oc=5",
    "source": "Google News · Ukraine",
@@ -875,19 +1211,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Man charged in connection with bomb threat at Illinois ethanol plant",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges",
-   "source": "The Guardian",
-   "published": "2026-11-18T17:37:09+00:00",
-   "summary": "Andrew M Kozak, 41, pleaded not guilty to two charges in federal court after an explosive device was found at facility A 41-year-old man has been charged in connection to last week’s bomb threat at an ethanol plant in Peoria, Illinois. On Tuesday, the justice department charged A",
-   "body": "Andrew M Kozak, 41, pleaded not guilty to two charges in federal court after an explosive device was found at facility A 41-year-old man has been charged in connection to last week’s bomb threat at an ethanol plant in Peoria, Illinois. On Tuesday, the justice department charged Andrew M Kozak, 41, of Chillicothe, Illinois, with one count of transmitting a threat through interstate or foreign commerce to unlawfully damage or destroy the plant using fire and an explosive, as well as one count of making threatening interstate communications. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/331ca93396a5c80784133ac7c3dfbd182ea9ca68/650_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=dbb597bbe12cf4df0a344d475a5af636",
    "lang": "en"
   },
   {
@@ -921,13 +1244,11 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYzNLR182dmNxMWNGNGItTVNHZ1l2UjRPRkY1WGt6WkxBUHZXYkktZmhjekl5M01lUHdicHhCZ1FPRjh1bERTWFBwWldsMWQ0LURiUG9EdHFMdzg?oc=5",
    "source": "Google News",
    "published": "2026-11-18T17:34:25+00:00",
-   "summary": "GTA 6 reviews say highly-anticipated game is a masterpiece BBC ‘Grand Theft Auto VI’ is an astonishing American epic The Washington Post Grand Theft Auto VI Enters the Gaming Pantheon With Rapturous Reviews The New York Times Grand Theft Auto VI review – gaming’s most depraved wo",
-   "body": "GTA 6 reviews say highly-anticipated game is a masterpiece BBC ‘Grand Theft Auto VI’ is an astonishing American epic The Washington Post Grand Theft Auto VI Enters the Gaming Pantheon With Rapturous Reviews The New York Times Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian Grand Theft Auto VI Is a Masterpiece Bloomberg.com",
+   "summary": "GTA 6 reviews say highly-anticipated game is a masterpiece BBC GTA 6 Review: One of The Most Impressive Games Ever Made IGN ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time Variety 'Grand Theft Auto VI' could be the biggest entert",
+   "body": "GTA 6 reviews say highly-anticipated game is a masterpiece BBC GTA 6 Review: One of The Most Impressive Games Ever Made IGN ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time Variety 'Grand Theft Auto VI' could be the biggest entertainment launch in history, preorders top $1.65 billion Yahoo Finance Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -944,19 +1265,6 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-   "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-   "source": "NYT World",
-   "published": "2026-11-18T17:30:27+00:00",
-   "summary": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
-   "body": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -1025,21 +1333,6 @@
    "lang": "en"
   },
   {
-   "title": "French ex-PM Philippe pledges to slash spending, hike retirement age as Elysée bid falters",
-   "link": "https://www.france24.com/en/france/20261118-french-ex-pm-philippe-pledges-to-slash-spending-hike-retirement-age-as-elys%C3%A9e-bid-falters",
-   "source": "France 24",
-   "published": "2026-11-18T17:16:05+00:00",
-   "summary": "Former prime minister Édouard Philippe pledged on Wednesday to slash public spending, scrap France’s statutory 35-hour workweek and raise the retirement age to 65 from the current 62.9 years as he unveiled a slew of measures aimed a staving off economic \"catastrophe\" for France. ",
-   "body": "Former prime minister Édouard Philippe pledged on Wednesday to slash public spending, scrap France’s statutory 35-hour workweek and raise the retirement age to 65 from the current 62.9 years as he unveiled a slew of measures aimed a staving off economic \"catastrophe\" for France. An early frontrunner in next year's presidential election, Philippe is now trailing rivals in opinion polls and at risk of missing out on the second-round runoff.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/1bccebde-e353-11f1-bf1a-6d75ed565170/w:1024/p:16x9/000-D7UY3G7.jpg",
-   "lang": "en"
-  },
-  {
    "title": "What makes 'Grand Theft Auto VI' more than just a game?",
    "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1100,33 +1393,17 @@
   {
    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
-   "source": "Google News · Ukraine",
+   "source": "Google News",
    "published": "2026-11-18T17:00:04+00:00",
-   "summary": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC",
-   "body": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "War in Ukraine: Is France in direct conflict with Russia?",
-   "link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
-   "source": "France 24",
-   "published": "2026-11-18T16:57:36+00:00",
-   "summary": "An investigation published by the French public radio channel RFI on November 17 revealed that a confidential mission by the French army known as \"Volia\" has been used for months to conceal the presence of French personnel in Ukraine. Russia was prompt to accuse France of direct ",
-   "body": "An investigation published by the French public radio channel RFI on November 17 revealed that a confidential mission by the French army known as \"Volia\" has been used for months to conceal the presence of French personnel in Ukraine. Russia was prompt to accuse France of direct involvement in the conflict. Is this true?",
+   "summary": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC Ukrainian troops say they battled through underground gas pipeline to launch attack behind Russian lines CBS News In Frigid Pipeline, Ukrainians Launched 'Operation Impossible' Newser Ukraine’s new under",
+   "body": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC Ukrainian troops say they battled through underground gas pipeline to launch attack behind Russian lines CBS News In Frigid Pipeline, Ukrainians Launched 'Operation Impossible' Newser Ukraine’s new underground battlefield as troops fight in maze of pipelines The Sun",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia",
-    "France"
+    "Russia"
    ],
-   "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1162,18 +1439,15 @@
    "lang": "en"
   },
   {
-   "title": "EU proposes fresh $49 billion loan for Ukraine as war costs mount - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnNBTlRkcndaMGVEQ3JmQnlKRTRuLUswRkFDLUpnRGc4WjJaMS1ncElFckhSZi1COExqay1qM2ZqbEJaVnhEVWotQ2JPUTUwQXotSlJFcms2NDJnVVUzLUFSRzMybVAyOGY2RXNqZmF3NEh3WE5vSHp5OVpqYUhvTkhGWGN6Ty1lVDk0ekpaWVVKN2JOb052a1I2TWh2Rld40gGmAUFVX3lxTE9HcG9fVEd5ZVJFVnJUYS03VFBaeHYwZEtqbkd2UTV2eFNYTTNQWjJTLTVXOW9qWjVwQlBPY2NoM1MxMnBlVzMxTXBTTzBJa012MEN4dGdrbnZtNU43UHlQQjZuazE2NDdJbFp1UzgtdHUwZmlBYjVZX2poU25EaDg3V081cm5PcUFybm5oZ29ZbkdlemZNY1BIaFNEbmdpZkV5NFdMbFE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-18T16:51:05+00:00",
-   "summary": "EU proposes fresh $49 billion loan for Ukraine as war costs mount ABC News - Breaking News, Latest News and Videos",
-   "body": "EU proposes fresh $49 billion loan for Ukraine as war costs mount ABC News - Breaking News, Latest News and Videos",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "European Union"
-   ],
+   "title": "YouTube Music rolling out corner Gemini icon to launch Ask Music - 9to5Google",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQ2xVSmhIWmdBWTkyQzh4Vnl2dHMyVExsV3ZvQkRWUkpVYkRTaEhPNzBhdVRyMUd6RjB6ZWFqZzhhZDhuRzdEUVNiZ0dRNGdmbDZ5bkF0LTNuN0tXRVNjMlhiNW56a29rQUtfVml3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T16:49:00+00:00",
+   "summary": "YouTube Music rolling out corner Gemini icon to launch Ask Music 9to5Google YouTube Music is Ditching its TikTok-Like Samples Feed on Mobile Thurrott.com YouTube Music makes Ask Music easier to reach with a dedicated Gemini button Mezha.net YouTube Music removes Samples tab from ",
+   "body": "YouTube Music rolling out corner Gemini icon to launch Ask Music 9to5Google YouTube Music is Ditching its TikTok-Like Samples Feed on Mobile Thurrott.com YouTube Music makes Ask Music easier to reach with a dedicated Gemini button Mezha.net YouTube Music removes Samples tab from its bottom bar on Android and iOS Android Authority YouTube Music removes the Samples tab RouteNote",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1227,37 +1501,6 @@
    "lang": "en"
   },
   {
-   "title": "Senate leadership challenge exposes divisions among Democrat",
-   "link": "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat",
-   "source": "France 24",
-   "published": "2026-11-18T16:39:14+00:00",
-   "summary": "As Democrats prepare to take control of the Senate, incumbent minority leader Chuck Schumer is facing an insurgent leadership bid from Senator Chris Van Hollen and disputes over party leadership are exposing divisions over what direction to take the Democratic party after their m",
-   "body": "As Democrats prepare to take control of the Senate, incumbent minority leader Chuck Schumer is facing an insurgent leadership bid from Senator Chris Van Hollen and disputes over party leadership are exposing divisions over what direction to take the Democratic party after their midterms sweep.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "NATO"
-   ],
-   "image": "https://s.france24.com/media/display/553e2200-e36e-11f1-9b21-6d75ed565170/w:1024/p:16x9/EN-20261118-171318-171504-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - Post Register",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZldtVGFibFRiZy1SS094NGN6STNlTi10R2FDZkZpMHNkTmV1SmtVVjlrT3gtUWVKSmZEQ3A1WHFxNDRsQzZGM2FRcXEzR21nanVQb1l6akd5cFJyeEJ4cjNKTmZWWi15U3dDTERxRVlkbFpVZnNFRGhnbm1tX3kzaHhVYlhFT2tEeTRoOHhQRUVEUF9HOXJ3QTNGcjB6Vmd4SmVZT2ZFOW9RQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-18T16:34:08+00:00",
-   "summary": "Russia Ukraine War Post Register",
-   "body": "Russia Ukraine War Post Register",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Julio Iglesias facing court investigation over alleged sexual offences",
    "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1271,17 +1514,28 @@
    "lang": "en"
   },
   {
-   "title": "Christine Quinn on Returning to ‘Selling Sunset,’ Her Messy Divorce and Falling in Love Again - Us Weekly",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDFYS1NDRGI1X2pkanhSREN1R0F0WHc0Z1QySk54S19iYTJkTWZZSVdxSHptV1QwN1ZHeVBnVGFVQ3dwdi1iQ3FhVWlrVHBocFpTS09CaTVhb094TzV1enVmZnppRnFjQ2E0ZXBlVm1ZNXdvNFNHblNxYzRuVnJkVG9mMDhGTDdnMXR5WTB0TFB5TkpPRGRYeWVnYTRaTjFQeHRUMlFSaw?oc=5",
+   "title": "A TV host announced she's pregnant at 59. How motherhood is changing",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPemVfcU9vNGk3SUY2Y2hsLU9JODlTUDZpZXA1YTZSMTdTQ21DMUZCUWlJOC1RR0o4U05sOXA3UklTSXFaNERtQkI4aDZUNHl1cWZubzdJLXM0ZEx0ZjdLazR5V2FoTHVqUWZmSi1aeGpjbkljY1VoeXN1U1ZJRW9NQjRlYlVrWGJVeVBERnpqS3kyTHY5SVVqNXBsN2dkWGZja3NJY3N1RGsxS0JWYlYtci1CaEY2NWRWRFZ0SHdfTmlsN0dhbHFQOWtuMTNSUQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-18T16:31:12+00:00",
-   "summary": "Christine Quinn on Returning to ‘Selling Sunset,’ Her Messy Divorce and Falling in Love Again Us Weekly ‘Selling Sunset’ Season 10 Has a Release Date—and So Many Major Cast Changes Cosmopolitan ‘Selling Sunset’ Reveals 4 New Cast Members for Season 10 People.com Selling Sunset Se",
-   "body": "Christine Quinn on Returning to ‘Selling Sunset,’ Her Messy Divorce and Falling in Love Again Us Weekly ‘Selling Sunset’ Season 10 Has a Release Date—and So Many Major Cast Changes Cosmopolitan ‘Selling Sunset’ Reveals 4 New Cast Members for Season 10 People.com Selling Sunset Season 10 Cast: Meet the New Agents Shaking Up The O Group Netflix ‘Selling Sunset’ Season 10 Cast Confirmed: Who’s Joining, Who’s Leaving, & When It’s Premiering on Netflix Yahoo",
-   "category": "USA / Americas",
+   "published": "2026-11-18T16:31:00+00:00",
+   "summary": "A TV host announced she's pregnant at 59. How motherhood is changing USA Today TV Host, 59, Announces Pregnancy Nearly 40 Years After Giving Birth to Her First Baby People.com Why I'm NOT selfish for getting pregnant at 59: Dr RENEE HOENDERKAMP Daily Mail Doctor and TV host, 59, ",
+   "body": "A TV host announced she's pregnant at 59. How motherhood is changing USA Today TV Host, 59, Announces Pregnancy Nearly 40 Years After Giving Birth to Her First Baby People.com Why I'm NOT selfish for getting pregnant at 59: Dr RENEE HOENDERKAMP Daily Mail Doctor and TV host, 59, slams 'double standard' after announcing pregnancy ABC News - Breaking News, Latest News and Videos This GB News presenter is pregnant at 59, but who are we to judge? The Independent",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia retreats, weighs on AI stocks as strong outlook fails to dispel Huang uncertainty",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-18T16:30:00+00:00",
+   "summary": "Nvidia retreats, weighs on AI stocks as strong outlook fails to dispel Huang uncertainty Reuters Nvidia’s roaring results can’t hide its troubles The Economist Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes Exclusive | Nvidia Board Warned",
+   "body": "Nvidia retreats, weighs on AI stocks as strong outlook fails to dispel Huang uncertainty Reuters Nvidia’s roaring results can’t hide its troubles The Economist Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback Forbes Exclusive | Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter WSJ Jensen Huang Says He Would Return as Nvidia CEO if Asked The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1301,17 +1555,33 @@
    "lang": "en"
   },
   {
-   "title": "Iran attacks US air base in Kuwait",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHpmSHlDSi1ndFFSVmhoMnFfM3RrZVpxa0JLOWFWbTZTUEItT2ozT0ZuRW9rNkU3cUZOenJldm91cEhUcEI5cHhiWTQ4VDZvcDY1WndHRGJxRWFfUGF6MVl0V05Fam05eHp1Uk4zVXVtZlVoMFg4OHlyRk5STmpFb9IBhgFBVV95cUxQaVJDY0RQY0VHOENNQ0FSdV9MU2lIaUNWanFDSGFZMHV0SlJBV3h3N3d6akRqVWFxdzRhanExcXRZOWhBSVVjX25SRlFfZGpzd3VUclZseWJiQ1N1WUR2THFuazZQYVVybUdVa1psRm1fYVMwS18wSUFPTGR2eVNadlFGbXBEQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T16:24:00+00:00",
-   "summary": "Iran attacks US air base in Kuwait The Hill Iran widens Gulf attacks after US strikes missile launch site CNN Iran war live: US says it hits IRGC Qeshm site; Iran says US drone downed Al Jazeera Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain AP",
-   "body": "Iran attacks US air base in Kuwait The Hill Iran widens Gulf attacks after US strikes missile launch site CNN Iran war live: US says it hits IRGC Qeshm site; Iran says US drone downed Al Jazeera Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain AP News Kuwait says it repelled first Iranian attack in two months after US strikes island BBC",
+   "title": "The current approach to peace talks won't end Russia's war in 2027 - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSENJOXhLcy11N2JBakJVSzFaZlc2UGx6ZUFoOXRxSzhFQWZ2ZjY4QUFDOU50RTZ5RmNfUXhNckZnT28wbEFtSGFEWmNwMk15b2RMWGM4dXE4dlJlRVJ0UEpvdGZpSU5pbk1yRi1oREZTQ21RelJNVDJxZjVIZk4yU21kQ05mRGJxRW9tOEJoQ2ZxcFBCM013SA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T16:28:42+00:00",
+   "summary": "The current approach to peace talks won't end Russia's war in 2027 The Kyiv Independent",
+   "body": "The current approach to peace talks won't end Russia's war in 2027 The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down - Drop Site News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT29kYUMwZ1U2ZXhCSUNGQjRDUUhNSDNTWGl0SzBBN0xLWG9hZUw4Y2wwZ1FSeWVFWFRndDZkLVkydTRGMVhUdHJqU2Z3YzF5YlpTREt2OEJtTVZFRzdGanFIRmNhdUoyV2hvWGZNXzRzamR5cEhrb0I0Y2NvWE9JVHh5bEFqME41VEM5ZTBCZw?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-18T16:24:41+00:00",
+   "summary": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down Drop Site News",
+   "body": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down Drop Site News",
    "category": "Middle East",
    "is_war": false,
    "countries": [
-    "United States",
-    "Iran"
+    "Israel",
+    "Palestine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1349,22 +1619,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia’s new low-cost munitions pose a fresh threat to Ukraine",
-   "link": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
-   "source": "France 24",
-   "published": "2026-11-18T16:19:08+00:00",
-   "summary": "Dan-T, Filin and Geran-5 might not mean anything to you, but in Ukraine, everyone is talking about these munitions. These new Russian weapons are small, fast and cheap – and a major threat, as they were specially designed to get around Ukrainian anti-aircraft defences and strike ",
-   "body": "Dan-T, Filin and Geran-5 might not mean anything to you, but in Ukraine, everyone is talking about these munitions. These new Russian weapons are small, fast and cheap – and a major threat, as they were specially designed to get around Ukrainian anti-aircraft defences and strike deep within the country.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://s.france24.com/media/display/87fb8c48-ddf9-11f1-b48e-3f371022a770/w:1024/p:16x9/cou1.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Pregnant teen appeals against reformative training for bank account offences, seeks probation",
    "link": "https://www.channelnewsasia.com/singapore/pregnant-teen-appeal-reformative-training-bank-account-relinquish-6561871",
    "source": "CNA World",
@@ -1390,22 +1644,6 @@
     "Russia"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Israel begins new military operation in Gaza",
-   "link": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-   "source": "France 24",
-   "published": "2026-11-18T16:12:30+00:00",
-   "summary": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its ​forces were targeting ‌Hamas infrastructure outside the \"Yellow Line\" that sets the boundary of the part of the enclave controlled by Israel \"The IDF launc",
-   "body": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its ​forces were targeting ‌Hamas infrastructure outside the \"Yellow Line\" that sets the boundary of the part of the enclave controlled by Israel \"The IDF launched a precise operation within the Gaza Strip earlier today west of the Yellow Line... to remove a threat posed to IDF troops operating in the Gaza Strip,\" the military said.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg",
    "lang": "en"
   },
   {
@@ -1467,22 +1705,6 @@
    "lang": "en"
   },
   {
-   "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
-   "link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
-   "source": "France 24",
-   "published": "2026-11-18T16:03:21+00:00",
-   "summary": "Palestinians fled their tents and shelters in central Gaza on Wednesday after Israel launched a rare ground operation in an area it withdrew ​from under a ‌2025 ceasefire. The Israeli army said it crossed the Yellow Line separating Israeli and Hamas-controlled areas \"to remove a ",
-   "body": "Palestinians fled their tents and shelters in central Gaza on Wednesday after Israel launched a rare ground operation in an area it withdrew ​from under a ‌2025 ceasefire. The Israeli army said it crossed the Yellow Line separating Israeli and Hamas-controlled areas \"to remove a threat posed to IDF troops operating in the Gaza Strip\".",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://s.france24.com/media/display/291a44ea-e375-11f1-8738-6d75ed565170/w:1024/p:16x9/2026-11-18T145851Z-876917872-RC2DQOALE3WH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
    "link": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1530,36 +1752,6 @@
    "lang": "en"
   },
   {
-   "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
-   "link": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
-   "source": "France 24",
-   "published": "2026-11-18T15:55:41+00:00",
-   "summary": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government. Amid territorial ambitions, regional rivalries, and divisions within government forces,",
-   "body": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government. Amid territorial ambitions, regional rivalries, and divisions within government forces, the potential fall of this stronghold could permanently alter the balance of power in the country.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen"
-   ],
-   "image": "https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkZkRVdESVU1UERiQmhZWmp5cl9Vel9VQlJOOWtLM3ZfVjFVVU5rYUZVWk5UVF8xU0t3SU0ybEF4UDNBOWFNeVI3RjlGMzZVdUhMbnV4UU9JQXpqM1FxZk1reHJGbFM5Qm1VcTMwTl81SEtvWVRYNjJRa0JPZ2xkamZfR3I2elFGWnhlNUFsMWNYMW5MeWJYR3o4SFg5NWhxa0tjYzJtMVpaelVhMUREQnZJa0huN1pzSlUzdTBHWm9ackd6Q0w4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T15:52:05+00:00",
-   "summary": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump Reuters Opinion | The Anthropic I.P.O. Will Change the Future of A.I. The New York Times One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO CNBC Anthropic promises to pursue",
-   "body": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump Reuters Opinion | The Anthropic I.P.O. Will Change the Future of A.I. The New York Times One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO CNBC Anthropic promises to pursue humanity’s benefit. Its IPO filing gives it wiggle room AP News Why the Anthropic IPO could be a trap for investors Yahoo Finance",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Never played, already gone. JJ Gabriel leaves Man United",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1570,19 +1762,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795016950.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Targets Huge Debut Above $100 Million - Variety",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEhtMVpnbWp0VGw3NXlZQ0RITWZkZFdyYWFKek95dUtaNEwwdkdfekdlTUlzb1lsTGpiMWZybVRmbXppV3VmelA3UGZ1bUhfTHJuVC1JYjQtdmxCdDZjbzBOQ1QwcHNDR0o0TDhWQXY5eU5lZ1hPUVhvUFVxUWdudzZ6WWc1aTdLNFNVd1I3cWhyRnhWRVREblFRY3hDSEhINEVMT1ZYTnVHYmkwd1hLRQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T15:47:00+00:00",
-   "summary": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Targets Huge Debut Above $100 Million Variety The Hunger Games: Sunrise on the Reaping First Reviews: A Familiar but Thrilling Return to Form Rotten Tomatoes 'Hunger Games: Sunrise on the Reaping' Eyes $160M-$190M Global Box Offi",
-   "body": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Targets Huge Debut Above $100 Million Variety The Hunger Games: Sunrise on the Reaping First Reviews: A Familiar but Thrilling Return to Form Rotten Tomatoes 'Hunger Games: Sunrise on the Reaping' Eyes $160M-$190M Global Box Office Opening Deadline ‘The Hunger Games: Sunrise on the Reaping’ Review: Another Tribute The New York Times ‘Hunger Games: Sunrise on the Reaping’ Tries a Vibe Shift Vulture",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1601,52 +1780,6 @@
    "lang": "en"
   },
   {
-   "title": "🔴 US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
-   "link": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
-   "source": "France 24",
-   "published": "2026-11-18T15:45:39+00:00",
-   "summary": "",
-   "body": "",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Americans misled on Social Security for decades as clock counts down on benefits, explosive report reveals",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0E4Qk1WcjZaVnNobXAwWnJRcXR3clBTbVc0MnlNVGRBcWdsQUJEN29fT3J0UmE0UDhHS3BkV3Nvck04amJnQTkwRDlRcFljUVItLVBtWVh5aVQ5bWlCdU83SnJUYnBiUEEwTHNxZXc4OHNwbXQ0bVFINEZtYkJuSmloUDF6TGNtVXNlSEV3amFoZW95SWI1aHJ1cVJUdWtSbUdVQUJLRWZ6UnhwajVwQkV1MWl5ZjIzQlRJOdIBwgFBVV95cUxQak8yNW04VTJOTDBXS0JaZWgyS0JaV0lXY1g4UlJPYU1UYS1RcVZGUFh3SkxGOGxYSVRsYzU2VUpiZmdQV05QWWt6WVJRd1JXYjBvRGNzT2NYOXBoVUM1M1dnTEtVX19icExBX3RwMUNTX0wxRmMycXBYNXc2SmkxbFlCNnNVM3dEVC1ETXppeHZiSU1QbTlPaFQwS0Eta2VodlRQUFliY0U1bk9yZ09PTEdHTG91OGg0QVdPaVBCMnhiQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T15:44:46+00:00",
-   "summary": "Americans misled on Social Security for decades as clock counts down on benefits, explosive report reveals Fox News Social Security should be shut down, this Republican senator says MarketWatch Ron Johnson: Remark about shutting down Social Security was ‘imprecise’ The Hill GOP’s",
-   "body": "Americans misled on Social Security for decades as clock counts down on benefits, explosive report reveals Fox News Social Security should be shut down, this Republican senator says MarketWatch Ron Johnson: Remark about shutting down Social Security was ‘imprecise’ The Hill GOP’s Ron Johnson condemns Social Security, says he wants to ‘shut it down’ MS NOW Senate Hearing on Social Security Set for Nov. 18 Amid GOP Push to Cut Benefits Forth.News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
-   "link": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
-   "source": "France 24",
-   "published": "2026-11-18T15:44:18+00:00",
-   "summary": "Democrats nominated Hakeem Jeffries on Wednesday to be the next speaker of the House of Representatives, putting him on track to make history as the nation’s first Black American with the gavel.",
-   "body": "Democrats nominated Hakeem Jeffries on Wednesday to be the next speaker of the House of Representatives, putting him on track to make history as the nation’s first Black American with the gavel.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/e98be6bc-e365-11f1-99b1-1ba7ddfab527/w:1024/p:16x9/AP26322520989523.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1662,6 +1795,23 @@
    "lang": "en"
   },
   {
+   "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
+   "source": "The Guardian",
+   "published": "2026-11-18T15:39:11+00:00",
+   "summary": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture Get our daily political email , free app or daily news podcast Anthony Albanese has appeared in a leaders’ photo with Vladimir Putin at the Apec summit in China, desp",
+   "body": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture Get our daily political email , free app or daily news podcast Anthony Albanese has appeared in a leaders’ photo with Vladimir Putin at the Apec summit in China, despite Australia’s Ukrainian community urging the prime minister to protest against Russia’s war. After arriving in the Chinese tech capital, Shenzhen, on Wednesday, Albanese said he would respect the wishes of China as the hosts of this week’s Asia-Pacific Economic Cooperation summit and take part in the photo. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0f51934b63e062c5243308f8cf7a169870c88c42/867_0_6420_5136/master/6420.jpg?width=140&quality=85&auto=format&fit=max&s=de1de406530e7ce48756d262b6ca975a",
+   "lang": "en"
+  },
+  {
    "title": "France rejects 'absurd' Russian claims of direct involvement in Ukraine war - RFI",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVNYenNiZjhWWTRwU2pVcnpEZTZISkJHMnJSeF85cDg4OS1yTVJpT1d6VkFUcG9EdXZqdXVmSzI1S1hMdEI3VmpZRHlnSlZDQS1zbWV4M0I3XzZmNmVRM2RtWnZkbk42UTNBUG4weWx0bWo1X3lSS0dxNkZLZEc4cVloQUVDUG9ZZk9DTThJNVFicDdCVnRRUUhHUnJkSDhMVEt3YXpRbmVBNUFQWnRSNA?oc=5",
    "source": "Google News · Ukraine",
@@ -1674,6 +1824,22 @@
     "Ukraine",
     "Russia",
     "France"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Putin Wants to Keep Fighting Through Winter – Regardless of Talk Results - Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FVVBmUVpLSmItdGFhdUUxSzUzbUhWUDRNdUdOTC15SGwyS1BhbER2U3Z2LU4tenRjeUhKblVGX19DRDl3a3hMS3IwYw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-18T15:39:08+00:00",
+   "summary": "Putin Wants to Keep Fighting Through Winter – Regardless of Talk Results Kyiv Post",
+   "body": "Putin Wants to Keep Fighting Through Winter – Regardless of Talk Results Kyiv Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1724,26 +1890,10 @@
    "lang": "en"
   },
   {
-   "title": "Russian attacks on Ukraine kill at least five people",
-   "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T15:32:01+00:00",
-   "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
-   "body": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "Russia Just Got Yet Another Batch of New Su-34 Fighter-Bombers for the Ukraine War - The National Interest",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3Y0NjJOZWFYOGRMUTlRbE9YeGxjcWNlUTlGWXJPUEQzdUxwYTZjTG1LVVJiZkNhemRnUS1RZzk1VUtmUkVmejR3R1c0VVVBQU1LdlJWdEd3Mm1wRzVldGtJdWhhR3JuanBLVGdmNThGekw2OER1UUVSdzZMajhXOGFILXVEV3VpcjBBeHpKcWRhNTQwNEIzYnBwLVdoNml4aHRwSjVNYkc4YXBqa1NmWWpWMjZWdw?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-18T15:31:40+00:00",
+   "published": "2026-11-18T15:37:11+00:00",
    "summary": "Russia Just Got Yet Another Batch of New Su-34 Fighter-Bombers for the Ukraine War The National Interest",
    "body": "Russia Just Got Yet Another Batch of New Su-34 Fighter-Bombers for the Ukraine War The National Interest",
    "category": "Ukraine / Russia",
@@ -1753,170 +1903,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-   "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-18T15:15:00+00:00",
-   "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-   "body": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "North Korea"
-   ],
-   "image": "https://static.dw.com/image/79965795_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-18T15:10:58+00:00",
-   "summary": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say Reuters",
-   "body": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Here’s the latest.",
-   "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-   "source": "NYT World",
-   "published": "2026-11-18T15:05:28+00:00",
-   "summary": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
-   "body": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summit-promo-jcfk/18trump-summit-promo-jcfk-videoSixteenByNine3000.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "'Coalition of the Willing' meets in Berlin: Europe remains committed to Ukraine",
-   "link": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-18T15:03:00+00:00",
-   "summary": "The \"Coalition of the Willing\" supporting Ukraine is gathering in Berlin. One of the key issues under discussion is whether Europe will be able to play a role in future negotiations over the country's future.",
-   "body": "The \"Coalition of the Willing\" supporting Ukraine is gathering in Berlin. One of the key issues under discussion is whether Europe will be able to play a role in future negotiations over the country's future.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Germany"
-   ],
-   "image": "https://static.dw.com/image/77949257_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "French presidential elections 2027: More candidates, more confusion (Episode 2)",
-   "link": "https://www.france24.com/en/tv-shows/france-in-focus/20261118-french-presidential-elections-2027-more-candidates-more-confusion-episode-2",
-   "source": "France 24",
-   "published": "2026-11-18T15:01:00+00:00",
-   "summary": "France will head to the polls to vote for its next president in the spring of 2027. Thirty-eight candidates are currently vying to make it onto the final ballot and have until March 12 to gather backing from 500 elected officials. One figure currently stands out: Marine Le Pen. T",
-   "body": "France will head to the polls to vote for its next president in the spring of 2027. Thirty-eight candidates are currently vying to make it onto the final ballot and have until March 12 to gather backing from 500 elected officials. One figure currently stands out: Marine Le Pen. The far-right National Rally leader has a significant lead in the latest polls.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/4e62cfbc-e337-11f1-b040-c5c0357b2a0c/w:1024/p:16x9/confused-french.png",
-   "lang": "en"
-  },
-  {
-   "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
-   "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T15:00:34+00:00",
-   "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
-   "body": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Lebanon",
-    "Iraq"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7RP8QD__v1__HighRes__IraqIranConflict-1795001391.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "NETS to pilot tap-to-pay for QR payments, with nationwide rollout planned",
-   "link": "https://www.channelnewsasia.com/singapore/nets-pilot-tap-pay-qr-payments-6561386",
-   "source": "CNA World",
-   "published": "2026-11-18T15:00:00+08:00",
-   "summary": "The payment provider will pilot a new QR payment feature as part of its refreshed app, allowing users to initiate payments by tapping their smartphones instead of scanning a code.",
-   "body": "The payment provider will pilot a new QR payment feature as part of its refreshed app, allowing users to initiate payments by tapping their smartphones instead of scanning a code.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--W8LiVGfK--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/18/_wal4663_1.jpg?itok=bR-FDMAM",
-   "lang": "en"
-  },
-  {
-   "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-   "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-   "source": "NYT World",
-   "published": "2026-11-18T14:59:03+00:00",
-   "summary": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
-   "body": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Key House Republican pours cold water on $50 billion FAA funding ask",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDhDNkhTby1HRk4wYXFybmNVaXdjRFY5dUhHOWw2aTIzTjMwR29aUjlwbjh3YUhKSG92Umdybk41Z3M2OFplem1adVRjd1lDUldXTGJ5blZrbDhiUmVhZ3VfVTV0M1NqaWlqSVhrTkhybkNCMHFiZ1FqemFjYlVxTDhjUkpCREcwR1Y2RWpGeE1IQmFCUnAxUjVzd9IBoAFBVV95cUxQMjdOenp4TmthRGFzN1ZjVVJWZEVNdGRJaTdqS0QydjRXRjg1eFdrOG1JeDZaZTNMMmxFZmVpd2NDbVdMR2hqWmx1YlhIdktfcUhqSUU2RU5TWElvQi1UYWdYQjBIMW0yQkVfMV9UOUt1SkNkQzlRN1JJV0ZzYVF2ODRPMHByUzZoSDJWalRGMFRiQW9WMHpvNkRQTEg0RDBk?oc=5",
-   "source": "Google News",
-   "published": "2026-11-18T14:56:00+00:00",
-   "summary": "Key House Republican pours cold water on $50 billion FAA funding ask The Hill Investigators make progress in hunt for cause of FAA ground stop CNBC L3Harris: The Defense Contractor at the Center of the Ground Stop WSJ Sean Duffy’s $50 billion demand for air travel fixes is met wi",
-   "body": "Key House Republican pours cold water on $50 billion FAA funding ask The Hill Investigators make progress in hunt for cause of FAA ground stop CNBC L3Harris: The Defense Contractor at the Center of the Ground Stop WSJ Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress NBC News How a culture of ‘move fast and break things’ led to the FAA ground stop Bulletin of the Atomic Scientists",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "WHO sounds alarm over antibiotic resistance",
-   "link": "https://www.france24.com/en/video/20261118-who-sounds-alarm-over-antibiotic-resistance",
-   "source": "France 24",
-   "published": "2026-11-18T14:55:46+00:00",
-   "summary": "The World Health Organization sounded the alarm Monday over antimicrobial resistance, saying the world is off pace to meet key 2030 targets. Many countries have long neglected funding to track and detect dangerous microbes that resist antibiotic treatment, according to a report b",
-   "body": "The World Health Organization sounded the alarm Monday over antimicrobial resistance, saying the world is off pace to meet key 2030 targets. Many countries have long neglected funding to track and detect dangerous microbes that resist antibiotic treatment, according to a report by the body.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/0f910216-e35c-11f1-9a4c-1ba7ddfab527/w:1024/p:16x9/EN-20261118-144245-144427-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Xi embraces Trump in China: 'Diplomacy playing out in real time'",
-   "link": "https://www.france24.com/en/video/20261118-xi-embraces-trump-in-china-diplomacy-playing-out-in-real-time",
-   "source": "France 24",
-   "published": "2026-11-18T14:54:17+00:00",
-   "summary": "President Xi Jinping personally greeted US counterpart Donald Trump on the tarmac at a Chinese airport on Wednesday, with the two leaders briefly hugging ahead of their highly anticipated meeting with Russia's Vladimir Putin. Reporting from Shenzhen, France 24's Jan Camenzind Bro",
-   "body": "President Xi Jinping personally greeted US counterpart Donald Trump on the tarmac at a Chinese airport on Wednesday, with the two leaders briefly hugging ahead of their highly anticipated meeting with Russia's Vladimir Putin. Reporting from Shenzhen, France 24's Jan Camenzind Broomby says the warm greeting was a \"big sign of respect\" from Xi but also a calculated component of diplomatic efforts.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://s.france24.com/media/display/f342fb8e-e35e-11f1-b077-1ba7ddfab527/w:1024/p:16x9/EN-20261118-150141-150604-CS.jpg",
    "lang": "en"
   },
   {
