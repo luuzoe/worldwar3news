@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:38:51.673879+00:00",
- "updated_yangon": "2026-11-20 01:08",
+ "updated": "2026-11-19T19:38:53.068177+00:00",
+ "updated_yangon": "2026-11-20 02:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,6 +10,7 @@
   "DW",
   "France 24",
   "Google News",
+  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
   "Irrawaddy Burmese",
@@ -21,54 +22,58 @@
  "countries": [
   [
    "United States",
-   40
+   50
   ],
   [
    "Russia",
-   34
+   36
   ],
   [
    "Ukraine",
-   24
+   29
   ],
   [
    "Myanmar",
-   23
+   24
   ],
   [
    "China",
-   11
+   12
   ],
   [
-   "France",
+   "Palestine",
    9
   ],
   [
    "Israel",
-   6
-  ],
-  [
-   "Palestine",
-   6
-  ],
-  [
-   "Germany",
-   5
+   8
   ],
   [
    "Iran",
-   5
+   7
   ],
   [
    "United Kingdom",
    5
   ],
   [
-   "European Union",
+   "NATO",
    4
   ],
   [
+   "Germany",
+   4
+  ],
+  [
+   "European Union",
+   3
+  ],
+  [
    "Yemen",
+   3
+  ],
+  [
+   "France",
    3
   ],
   [
@@ -80,23 +85,23 @@
    2
   ],
   [
-   "Iraq",
-   1
-  ],
-  [
-   "NATO",
-   1
-  ],
-  [
    "Poland",
    1
   ],
   [
-   "Turkey",
+   "India",
    1
   ],
   [
-   "Australia",
+   "Taiwan",
+   1
+  ],
+  [
+   "Iraq",
+   1
+  ],
+  [
+   "Turkey",
    1
   ],
   [
@@ -113,7 +118,7 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 22,
+ "war_count": 24,
  "languages": {
   "my": 22,
   "en": 118
@@ -146,6 +151,212 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာဟာ ရခိုင်မှာ ရိုဟင်ဂျာတွေကို ဂျီနိုဆိုက်ကျူးလွန်တယ်လို့ ICJ အမိန့်ချ",
+   "link": "https://www.bbc.co.uk/burmese/live/c5742m0l72z8t?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-19T19:38:56+00:00",
+   "summary": "ICJ ရဲ့ မြန်မာအပေါ် စီရင်ချက်နဲ့ အဲဒီစီရင်ချက်အပေါ် မြန်မာအာဏာပိုင်တွေ၊ ရိုဟင်ဂျာအဖွဲ့အစည်းတွေ၊ ဘင်္ဂလားဒေ့ရှ်နဲ့ နိုင်ငံတကာအသိုင်းအဝိုင်းရဲ့ တုံ့ပြန်မှုတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ICJ ရဲ့ မြန်မာအပေါ် စီရင်ချက်နဲ့ အဲဒီစီရင်ချက်အပေါ် မြန်မာအာဏာပိုင်တွေ၊ ရိုဟင်ဂျာအဖွဲ့အစည်းတွေ၊ ဘင်္ဂလားဒေ့ရှ်နဲ့ နိုင်ငံတကာအသိုင်းအဝိုင်းရဲ့ တုံ့ပြန်မှုတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e1/live/bf979000-e33c-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Lowry: Trump's Ukraine-war realpolitik isn't realistic - seMissourian",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZOMHc2MXl6TW04R1h6YjlPckV1dG0zZW1KWDNhNWpkYllDWTJzVDEyNGQ1Z2VlMnRnSGNhdERNeDJnSXZLQ01vX1I5Q2xRQXJBYjBsTFpHblRxQjV0ZTg4Mk9QTEQ1b01QOWVvZmpMOV9wZVBRT1RfdVpndnJnVXA3dGhfZktiSFZuQUhZeTdwc2FyZXFtZEgtcXdWQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:35:28+00:00",
+   "summary": "Lowry: Trump's Ukraine-war realpolitik isn't realistic seMissourian",
+   "body": "Lowry: Trump's Ukraine-war realpolitik isn't realistic seMissourian",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T19:31:00+00:00",
+   "summary": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut CNBC Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5T valuation Yahoo Finance Anthropic opens at $111.50 per share after largest IPO ever The Hill Ret",
+   "body": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut CNBC Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5T valuation Yahoo Finance Anthropic opens at $111.50 per share after largest IPO ever The Hill Retail Investor Interest Lags Behind SpaceX, Coinbase—So Far WSJ Anthropic’s IPO could deliver $156 billion to charity TechCrunch",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Uganda minister at COP: 'We need a just transition'",
+   "link": "https://www.dw.com/en/uganda-minister-at-cop-we-need-a-just-transition/a-79997209?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-19T19:31:00+00:00",
+   "summary": "Funding from wealthy countries to help deal with the impacts of climate change hasn't materialized, says Uganda's environment minister. The East African country is hoping oil and carbon credits will help boost finances.",
+   "body": "Funding from wealthy countries to help deal with the impacts of climate change hasn't materialized, says Uganda's environment minister. The East African country is hoping oil and carbon credits will help boost finances.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/79994867_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "The Ukrainians weighed down by grief in war with Russia - Channel 4 News | Substack",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9heFBmZW5XQVFhZmV1enBZUVpjS1dSWUVodTJTN055c2lENUZTd2FkYW9FYkhYTFNISWUtNHpjSGJ0bzFOUEEyYUV3bkwyTjNmWG95VkxLLW5Zbml2ZXowMjZNeGhGX3pGN3gxdmV4TnRuWWN4R1JFWlBUZ2M?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:29:12+00:00",
+   "summary": "The Ukrainians weighed down by grief in war with Russia Channel 4 News | Substack",
+   "body": "The Ukrainians weighed down by grief in war with Russia Channel 4 News | Substack",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas - ABC7 Los Angeles",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T19:28:00+00:00",
+   "summary": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas ABC7 Los Angeles Los Angeles Flood Threat Builds as El Niño Storm Sweeps South Bloomberg.com Heavy rain drenches Southern California, triggers flash flood, evacuation warnings Los Angeles Times Col",
+   "body": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas ABC7 Los Angeles Los Angeles Flood Threat Builds as El Niño Storm Sweeps South Bloomberg.com Heavy rain drenches Southern California, triggers flash flood, evacuation warnings Los Angeles Times Cold storm moving into Southern California will bring rain, snow and hazards LAist Powerful storm targets Southern California, triggers flood threat KTLA",
+   "category": "Global",
+   "is_war": true,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "NASA's Voyager 1 phones home from record one light-day away, 49 years after launch",
+   "link": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+   "source": "France 24",
+   "published": "2026-11-19T19:26:18+00:00",
+   "summary": "The Voyager 1 probe launched by NASA nearly a half century ago has reached a distance from Earth of one light day (more than 26 billion kilometres), the farthest any human artifact has ever ventured from our planet. The space agency received a signal from the spacecraft Thursday,",
+   "body": "The Voyager 1 probe launched by NASA nearly a half century ago has reached a distance from Earth of one light day (more than 26 billion kilometres), the farthest any human artifact has ever ventured from our planet. The space agency received a signal from the spacecraft Thursday, exactly 24 hours after it was sent.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://s.france24.com/media/display/667c80bc-e444-11f1-afff-13439ca2fe89/w:1024/p:16x9/AP24166764529324.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-19T19:24:04+00:00",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to ",
+   "body": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "NATO"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82",
+   "lang": "en"
+  },
+  {
+   "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:24:00+00:00",
+   "summary": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs AP News",
+   "body": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs AP News",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+   "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T19:23:45+00:00",
+   "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+   "body": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aff19443a-1795103044.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+   "link": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T19:19:06+00:00",
+   "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+   "body": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff3298dcfd-1795109528.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+   "source": "The Guardian",
+   "published": "2026-11-19T19:18:56+00:00",
+   "summary": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’ Politicians have described an attack on a councillor who was canvassing in Bradford as “horrific” and “deeply disturbing”, after a man was arrested on suspicion of att",
+   "body": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’ Politicians have described an attack on a councillor who was canvassing in Bradford as “horrific” and “deeply disturbing”, after a man was arrested on suspicion of attempted murder. A 32-year-old man is in custody suspected of attacking Ibrar Ali at about 11am on Thursday as the independent councillor was door-knocking in his Bradford Moor ward, leaving him with a stab wound in the leg. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/d5d63a095a45669cc7ca9471cec50901a1e1863d/0_580_1796_1436/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=8590614252da3675f2dc459184b8f412",
+   "lang": "en"
+  },
+  {
+   "title": "European leaders present a united front with US in push for peace in Ukraine - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3BTa3VFZk12bEdJN2M1Q2l2OTBTRDdHQVRueFdfeFcwaUpsQkZxbkpqeWZFT2o2MERXSU42TEV3LTI4WTBsWUtZRnAwZHRsRkh1RUNILTJ3anBOS2JZTzdEZnlnMGRLZzBhSTlWUlFGSzE5UDRtYm1mM3RKTFdqUy1YbDRpZHFsMmlzM00waGtma0lTRW8ydlNzS0hsRUdMaGh4Ug?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:18:45+00:00",
+   "summary": "European leaders present a united front with US in push for peace in Ukraine DW.com",
+   "body": "European leaders present a united front with US in push for peace in Ukraine DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump raised Ukraine war at Shenzhen summit, Witkoff says - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0pyelNkNlpRbmpHQnVDaG1XWGJodmlfSUk5VHdSbFluVmd2RDhFd1lyeWRBQS0wdXJvdEtIcWhITG5wcjVmWndmdVdkcUxROUliNTF4ODJOLWx5dmV3eXFCZ21MTm0wZno0R3hxT2NLdXNsYUU3dmdSX3ZKMWpqc2tqN3NCdzc0bjZDaXdLdW9pSWRVbE5tVQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:18:34+00:00",
+   "summary": "Trump raised Ukraine war at Shenzhen summit, Witkoff says Yahoo",
+   "body": "Trump raised Ukraine war at Shenzhen summit, Witkoff says Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "2 men charged with keeping deregistered vehicles in Singapore, making false export declarations",
    "link": "https://www.channelnewsasia.com/singapore/men-charged-keep-deregistered-vehicles-6565586",
    "source": "CNA World",
@@ -159,19 +370,461 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာဟာ ရခိုင်မှာ ရိုဟင်ဂျာတွေကို ဂျီနိုဆိုက်ကျူးလွန်တယ်လို့ ICJ အမိန့်ချ",
-   "link": "https://www.bbc.co.uk/burmese/live/c5742m0l72z8t?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-19T18:38:56+00:00",
-   "summary": "ICJ ရဲ့ မြန်မာအပေါ် စီရင်ချက်နဲ့ အဲဒီစီရင်ချက်အပေါ် မြန်မာအာဏာပိုင်တွေ၊ ရိုဟင်ဂျာအဖွဲ့အစည်းတွေ၊ ဘင်္ဂလားဒေ့ရှ်နဲ့ နိုင်ငံတကာအသိုင်းအဝိုင်းရဲ့ တုံ့ပြန်မှုတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ICJ ရဲ့ မြန်မာအပေါ် စီရင်ချက်နဲ့ အဲဒီစီရင်ချက်အပေါ် မြန်မာအာဏာပိုင်တွေ၊ ရိုဟင်ဂျာအဖွဲ့အစည်းတွေ၊ ဘင်္ဂလားဒေ့ရှ်နဲ့ နိုင်ငံတကာအသိုင်းအဝိုင်းရဲ့ တုံ့ပြန်မှုတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T19:16:34+00:00",
+   "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
+   "body": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
    "category": "Myanmar",
    "is_war": false,
    "countries": [
     "Myanmar"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e1/live/bf979000-e33c-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFh1a25MT0F1STR6clB3cFFvYnJxeE8tbHd3WlhGRlFDNFE4X3NaZ1k4c3ZfQkRuM3l3QlV1N2wwRzBETGkwYVdySndfT3czNGxPbFk2akNIMG1fRC1ieUcwbEVTcHhmb01Za01iVEdabUs0b09rbU9GU2dDS21FbFBldkx5Ym9BY1VheGNzcUxkMjg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:16:27+00:00",
+   "summary": "Europe ready for talks with Russia on ending war in Ukraine, leaders say Yahoo",
+   "body": "Europe ready for talks with Russia on ending war in Ukraine, leaders say Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-19T19:16:21+00:00",
+   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "body": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "Germany"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T19:15:10+00:00",
+   "summary": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+   "body": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Fierce storm lashes southern California after record rain in San Francisco",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
+   "source": "The Guardian",
+   "published": "2026-11-19T19:08:35+00:00",
+   "summary": "Atmospheric river first hit the north of the state, leaving tens of thousands of households without power An atmospheric river pounded southern California with heavy rain and winds, one day after the fierce storm set records for rainfall in the north of the state. Los Angeles aut",
+   "body": "Atmospheric river first hit the north of the state, leaving tens of thousands of households without power An atmospheric river pounded southern California with heavy rain and winds, one day after the fierce storm set records for rainfall in the north of the state. Los Angeles authorities had urged residents in the Palisades, Hurst and Sunset burn scar areas to be prepared to leave before the storm’s arrival on Thursday, and warned of a risk of debris flows and flooding. Flash flood warnings were issued from Eastern Malibu to Beverly Hills to Hollywood, with heightened risk until noon on Thursday, while flood warnings were issued across the region through Thursday afternoon. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ca97dfe3a023b223313b98dd745a7a946b57ade7/0_900_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=4d5272d163374039500fd13462163b3c",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+   "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+   "source": "NYT World",
+   "published": "2026-11-19T19:07:18+00:00",
+   "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+   "body": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Most Americans disapprove of Trump's Russia-Ukraine handling—poll - TVP World",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlRlN21peW9FQXZxbFNzejBxd1pCVXhJQUU4T1plZTR6SnBlMnYxYV81T0o1UlBhSXk3VkpZTTVnNVZYTGZTTmFuYzVLTG1zbnZTY1NBTEtfWnRUem5mbHZqMGlrZmZTcTRvamhBVTlzTGNQQjFfekNJTW9fYzRqWmQ3aWlaX1BRUUZkSDB2aWVEUFNPdGc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T19:07:00+00:00",
+   "summary": "Most Americans disapprove of Trump's Russia-Ukraine handling—poll TVP World",
+   "body": "Most Americans disapprove of Trump's Russia-Ukraine handling—poll TVP World",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+   "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+   "source": "NYT World",
+   "published": "2026-11-19T19:06:33+00:00",
+   "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+   "body": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+   "source": "The Guardian",
+   "published": "2026-11-19T19:02:45+00:00",
+   "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda The UK and the EU plan to establish formal talks for the first time about sending rejected asylum seekers to third-country hubs, according to a leaked document. A draft ",
+   "body": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda The UK and the EU plan to establish formal talks for the first time about sending rejected asylum seekers to third-country hubs, according to a leaked document. A draft of a joint statement expected to be signed by Andy Burnham and Ursula von der Leyen at a summit on Friday morning states that both sides will establish “a structured dialogue” to discuss “returns to third countries”. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/751d97ed396bc08de15e2bc52aafe1c378b97113/522_0_2646_2117/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=d6213840590015e6a55253ca45266450",
+   "lang": "en"
+  },
+  {
+   "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T19:01:00+00:00",
+   "summary": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "body": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795114853.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "ICJ တရားရုံးဆုံးဖြတ်ချက်မှာပါတဲ့ အဓိကအချက် ၅ ချက်",
+   "link": "https://rfa.org/burmese/news/2026/11/19/myanmar-military-icj-verdict-key-five-points-reactions/",
+   "source": "RFA Burmese",
+   "published": "2026-11-19T18:59:33+00:00",
+   "summary": "ICJ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) ၃ နာရီကြာ ဖတ်ကြားတဲ့ ဆုံးဖြတ်ချက်မှာ အဓိကအချက် ၅ ချက် ပါဝင်ပါတယ်။",
+   "body": "မြန်မာစစ်တပ်က ရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်အကြောင်း ဂမ်ဘီယာနိုင်ငံရဲ့ စွဲချက်ကို အပြည်ပြည်ဆိုင်ရာ တရားရုံး (ICJ)ရဲ့ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) က ပြစ်မှုကျူးလွန်ကြောင်း ၃ နာရီကြာ ဖတ်ကြားတဲ့ တရားရုံးဆုံးဖြတ်ချက်မှာ အဓိကအချက် ၅ ချက် ပါဝင်ပါတယ်။\n\n၁။ လူမျိုးတုံးသတ်ဖြတ်မှုကျူးလွန်ကြောင်း ပြစ်မှုထင်ရှားတယ်\n\nမြန်မာနိုင်ငံဟာ ရခိုင်ပြည်နယ်မြောက်ပိုင်းက ရိုဟင်ဂျာမူဆလင်လူနည်းစုတွေအပေါ် လူမျိုးတုံး ပျောက်ကွယ်သွားအောင် ရည်ရွယ်ချက်ရှိရှိနဲ့ သတ်ဖြတ်မှုတွေကျူးလွန်ကြောင်း နိုင်ငံတကာ တရားသူကြီးတွေက ၉ မဲ ၆ မဲနဲ့ ဆုံးဖြတ်ချက်ချတယ်။\n\n(မှတ်ချက်။ ။ မြန်မာအစိုးရရဲ့ အဆင့်မြင့် ရာထူးကြီး ဝန်ထမ်းတစ်ဦးဖြစ်တဲ့ မြန်မာစစ်တပ်အကြီးအကဲက ဦးဆောင်ပြီး ဒီပြစ်မှုကို ကျူးလွန်တာမို့ မြန်မာလို့ ကိုယ်စားပြုသုံးနှုန်းတာဖြစ်ပါတယ်။)\n\n၉ မဲ ၆ မဲနဲ့ပဲ ၁၉၄၈ ကုလသမဂ္ဂ လူမျိုးတုံးသတ်ဖြတ်မှုများ အကာကွယ်ပေးရေးဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာ သဘောတူစာချုပ်ကို လိုက်နာဖို့ ပျက်ကွက်ကြောင်း တရားရုံးက ဆုံးဖြတ်တယ်။\n\nမြန်မာနိုင်ငံအနေနဲ့ လူမျိုးတုံးသတ်ဖြတ်မှုမှာ ပါဝင်ကျူးလွန်တဲ့သူတိုင်းကို အမြန်ဆုံးနဲ့ ထိရောက်တဲ့နည်းတွေနဲ့ အရေးယူ၊ အပြစ်‌ပေးရမယ်။\n\nနောင်အနာဂတ်မှာလည်း အလားတူ လူမျိုးတုံးသတ်ဖြတ်မှုတားမြစ်ရေးဆိုင်ရာ ကုလသမဂ္ဂသဘောတူစာချူပ် ကို ချိုးဖောက်တဲ့ လုပ်ရပ်တွေ၊ ကျူးလွန်မှုတွေကို တစ်ခုမကျန် ရပ်တန့်ရမယ်။\n\nလူမျိုးတုံးသတ်ဖြတ်မှုကျူးလွန်တယ်ဆိုတာ အထောက်အထားပြနိုင်ဖို့ ကျူးလွန်ရာရောက်ကြောင်း နောက်ခံတွေကို စစ်ဆေးဆုံးဖြတ်ရသလို တစ်ဖက်မှာလည်း လူမျိုးစုတစ်ခုကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလိုတဲ့ ရည်ရွယ်ချက်ရှိနေတာ ထင်ရှားကြောင်းလည်း ရှည်ရှည်ဝေးဝေး သက်သေပြပါတယ်။\n\nမြန်မာစစ်တပ်ဟာ မြန်မာနိုင်ငံမှာရှိတဲ့ ရိုဟင်ဂျာအားလုံးကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလိုတဲ့ ရည်ရွယ်ချက်မရှိတောင် အရေအတွက်ပမာဏ ကြီးကြီးမားမားကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလို တဲ့ ရည်ရွယ်ချက် ရှိခဲ့တယ်ဆိုတာကိုပဲ ပြသကောက်ချက်ချခဲ့တာဖြစ်တယ်။\n\n၂။ ဘေးကင်းလုံခြုံစွာ နေရပ်ပြန်ခွင့်ပေးရမယ်\n\nပြစ်မှုကျူးလွန်တယ်လို့ ဆုံးဖြတ်တဲ့အတွက် ကျူးလွန်တဲ့ မြန်မာနိုင်ငံက နောက်ဆက်တွဲ အကျိုးဆက်တွေ လိုက်နာရမှာဖြစ်တယ်။ ဒီနေရာမှာ တရားရုံးက ဥပဒေသဘာစကားအရ ထိခိုက်နစ်နာမှုတွေအတွက် ကုစားပေး (remedies) ရမယ်လို့ သုံးပါတယ်။\n\nမြန်မာနိုင်ငံက လိုက်နာရမယ့်အချက်တွေအများအပြားပါပါတယ်။\n\nမြန်မာအာဏာပိုင်တွေအနေနဲ့ မြန်မာပြည်တွင်းမှာဖြစ်စေ၊ ပြည်ပနိုင်ငံတွေမှာဖြစ်စေ ထွက်ပြေးတိမ်းရှောင်ရောက်ရှိနေတဲ့ (ရိုဟင်ဂျာ) ဒုက္ခသည်တွေကို မိမိဆန္ဒအရ၊ ဂုဏ်သိက္ခာရှိရှိ၊ ဘေးကင်း လုံခြုံစွာ ပြန်လာခွင့်ပြုရယ်။ ကူညီဆောင်ရွက်ပေးရမယ်။\n\nတစ်ဦးတစ်ယောက်ချင်း ပုဂ္ဂလိကပိုင်ဖြစ်စေ၊ အများနဲ့ စုပေါင်း ပိုင်တဲ့ ပိုင်ဆိုင်မှုဖြစ်စေ ပစ္စည်းဥစ္စာ နေအိမ်အဆောက်အအဦမြေယာတွေကို ပြန်ပေးရမယ်။ ဒါမှမဟုတ် အစားပြန်ပေးရပါမယ်။\n\nရုပ်ပိုင်း၊ ကိုယ်ပိုင်းဆိုင်ရာ ထိခိုက်နစ်နာခဲ့ရတဲ့ ရိုဟင်ဂျာတွေကို ကိုယ်ရောစိတ်ပါ ကုစားပေးတဲ့ အစီအစဥ် တွေ ဆောင်ရွက်ပေးရမယ်။\n\n၃။ လျော်ကြေးပေးရမယ်\n\nလူမျိုးတုံးသတ်ဖြတ်မှု အကျူးလွန်ခံရတဲ့ အတွက် ထိခိုက်နစ်နာရသူ ရိုဟင်ဂျာတွေဟာ သင့်တင့်လျောက် ပတ်တဲ့ နစ်နာကြေး ရသင့်တယ်။\n\nICJ အနေနဲ့ ‌ငွေကြေးပမာဏကို အခု တရားရုံးဆုံးဖြတ်ချက်မှာ အတိအကျ ဆုံးဖြတ်ပြောကြားတာမရှိပေမယ့် နောက်တစ်ဆင့်မှာ စဥ်းစားဆုံးဖြတ်မယ်လို့ အမိန့်စာမှာ ပါပါတယ်။\n\nမြန်မာအာဏာပိုင်တွေအနေနဲ့ ဘယ်ပမာဏ၊ ဘယ်လိုပုံစံနဲ့ လျော်ကြေးပေး ဆောင်ရွက်မယ်ဆိုတာကို တရားရုံးကို ပြန်တင်ပြဖို့ နှစ်နှစ် အချိန်ပေးပါတယ်။\n\nအဲဒီအစီရင်ခံချက်ရပြီးမှသာ မြန်မာနိုင်ငံက တင်ပြတဲ့ အဆိုဟာ လုံလောက်မှုရှိမရှိ တရားရုံးက ဆုံးဖြတ်မယ်။\n\nICJ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) (Screenshot from ICJ live) ၄။ စုံစမ်းစစ်ဆေးအရေးယူရမယ်\n\nICJ ဟာ အပြည်ပြည်ဆိုင်ရာ ရာဇဝတ်ခုံရုံး (ICC) နဲ့ မတူဘဲ နိုင်ငံတွေအချင်းချင်း တရားဥပဒေအရ အငြင်းပွားတာတွေကို ဖြေရှင်းတဲ့ တရားရုံးဖြစ်တဲ့အတွက် ICC လို ဘယ်သူဘယ်ဝါ တစ်ဦးတစ်ယောက်မှာ အပြစ်ရှိတယ်လို့ အမည်တပ် စီရင်ချက်ချလေ့ရှိတဲ့ ရုံးမဟုတ်ပါဘူး။\n\nဒါပေမယ့် ရိုဟင်ဂျာ လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ရာမှာ ပါဝင်ပတ်သက်တယ်လို့ သံသယရှိတဲ့ လူတိုင်းကို အမြန် စုံစမ်းစစ်ဆေးအရေးယူဖို့ မြန်မာနိုင်ငံအာဏာပိုင်တွေကို တရားရုံးအမိန့်နဲ့ တာဝန်ပေးပါတယ်။\n\nရခိုင်မြောက်ပိုင်း နယ်မြေရှင်းလင်းရေးစစ်ပွဲမှာ ဥပဒေမဲ့ ကျူးလွန်ခဲ့သူတစ်ချို့ကို အရေးယူအပြစ်ပေးခဲ့တဲ့ လုပ်ရပ်တွေဟာ လုံလောက်မှုမရှိဘူးလို့ တရားသူတွေက ဆုံးဖြတ်ပါတယ်။\n\n“မြန်မာအာဏာပိုင်တွေဟာ ပြစ်မှုကျူးလွန်သူတွေကို အမှန်တကယ် စုံစမ်းစစ်ဆေးအရေးယူတာမျိုး မလုပ်ခဲ့သလို၊ လုပ်ခဲ့တယ်ဆိုတဲ့ တပ်သားတွေနဲ့ တပ်မှူးတွေကို အပြစ်ပေးတာအရေးယူခဲ့တာတွေဟာလည်း အစစ်အမှန် အပြစ်ပေးအရေးယူတာတွေမဟုတ်ဘူးလို့ တရားရုံးက ပြောပါတယ်။\n\n၅။ သတ်ဖြတ်ခဲ့တဲ့ လူ အရေအတွက်ပမာဏ\n\nရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်မှုမှာ လွတ်လပ်တဲ့ ကုလသမဂ္ဂ အချက်အလက်ရှာဖွေရေးအဖွဲ့ရဲ့ တင်ပြချက်တွေဟာ အထောက်အထားမှတ်တမ်းတွေနဲ့တကွ တင်ပြတာတွေဖြစ်ပြီး သေဆုံးခဲ့ရသူ အနည်းဆုံး ၁၀,၀၀၀ ကျော်တယ်လို့ တရားရုံးက ပြောပါတယ်။\n\n“ရုံးတော်ကို တင်ပြလာတဲ့ အထောက်အထားတွေအရ (လုံခြုံရေးတပ်ဖွဲ့တွေက) ဆောင်ရွက်ခဲ့တဲ့ အကြမ်းဖက်မှုတွေဟာ ပြင်းထန် ရက်စက်တဲ့ သဘောသဘာဝ ပါဝင်နေတာ ထင်ရှားပြီး ထောင်နဲ့ချီတဲ့ ရိုဟင်ဂျာ အရပ်သားတွေဟာ မြန်မာလုံခြုံရေးတပ်သားတွေရဲ့ သတ်ဖြတ်မှုကြောင့် သေဆုံးခဲ့ရတယ်ဆိုတာ ထင်ရှားတယ်လို့ တရားရုံးက ဆိုပါတယ်။\n\n၂၀၁၇ နယ်မြေရှင်းလင်းရေး စစ်ဆင်နေချိန်မှာ ရခိုင်မြောက်ပိုင်းမှာ ရိုဟင်ဂျာ ၈ သိန်း ၁ သောင်းကျော်ခန့် နေထိုင်နေခဲ့ကြပြီး ဒီအထဲက ၁ သောင်းခန့် သေဆုံးရတဲ့အတွက် ရိုဟင်ဂျာလူဦးရေရဲ့ ၁.၂ ရာခိုင်နှုန်းကို သတ်ဖြတ်ခံရတယ်လို့ အဓိပ္ပာယ်ရကြောင်းလည်း တရားရုံး ပြောပါတယ်။\n\nဒီအထဲက အသက်မသေဘဲ ကျန်ခဲ့တဲ့ အများစုဟာ နယ်စပ်ကနေ ဘင်္ဂလားဒေ့ရှ် နိုင်ငံထဲကို ထွက်ပြေးခိုလှုံခဲ့ရတယ်။\n\n၂၀၁၇ စစ်တပ်ရဲ့ နယ်မြေရှင်းလင်းရေး စစ်ပွဲအတွင်း မုဒိမ်းမှု ၁၈၃၄ မှု ကျူးလွန်ခဲ့တယ်လို့လည်း ICJ ရဲ့ ဆုံးဖြတ်ချက်မှာ ပြောကြားထားပါတယ်။\n\nနိုင်ငံတကာ တုံ့ပြန်ချက်များ\n\nဗြိတိန် နိုင်ငံခြားရေးဝန်ကြီး အက်ဒ် မီလီဘန်း (Ed Miliband)\n\n“အပြည်ပြည်ဆိုင်ရာတရားရုံးရဲ့ဆုံးဖြတ်ချက်နဲ့ နိုင်ငံတကာဥပဒေ စိုးမိုးရေး ဗြိတိန်နိုင်ငံက အပြည့်အဝ ထောက်ခံကြောင်း ထပ်လောင်းပြောကြားလိုသလို မြန်မာစစ်အာဏာပိုင်တွေက ရိုဟင်ဂျာတွေအပေါ် ဆိုးဆိုးဝါးဝါး ပြစ်မှုကျူးလွန်ခဲ့တာတွေကိုလည်း ဝေဖန်ရှုံ့ချပါတယ်။ ဗြိတိန်နိုင်ငံအနေနဲ့ ဒီဆိုးဝါးအကျည်းတန်တဲ့ ရာဇဝတ်မှုတွေ ကျူးလွန်သူတွေကို အရေးယူရေးအတွက် လိုက်နာဆောင်ရွက်ဖို့လည်း ဆုံးဖြတ်ထားပါတယ်။ ဒီနေ့ ချက်ချင်းအရေးယူမှုတစ်ခုအနေနဲ့ နဂိုရှိပြီးသား မြန်မာစစ်အစိုးရအပေါ် ပိတ်ဆို့အရေးယူမှုတွေကို ထပ်ဆောင်းပြီး မြန်မာစစ်တပ် စစ်သံအရာရှိကို ဗြိတိန်နိုင်ငံက ထွက်ခွါသွားဖို့ အမိန့်ပေးညွှန်ကြားထားသလို ICJ ဆုံးဖြတ်ချက်နဲ့ပတ်သက်လို့ ဆောင်ရွက်နိုင်အောင် ကုလသမဂ္ဂလုံခြုံရေးကောင်စီ အစည်းအဝေးကို အမြန်ခေါ်ဖို့လည်း အရေးပေါ် တောင်းဆိုပါတယ်။”\n\nဗြိတိန် နိုင်ငံခြားရေးဝန်ကြီး အက်ဒ် မီလီဘန်း (Ed Miliband) (Ed Miliband via Facebook) ကုလသမဂ္ဂ အတွင်းရေးမှူးချုပ် အန်တိုနီယို ဂူတားရက်စ် ( António Guterres)\n\n“ICJ က ဂမ်ဘီယာနဲ့ မြန်မာအမှု ဒီနေ့ ဆုံးဖြတ်ချက်ချတာကို ကြိုဆိုပါတယ်။ ဒါဟာ ထိခိုက်နစ်နာသူ ရိုဟင်ဂျာတွေအတွက် အင်အားကြီးမားတဲ့ အသိအမှတ်ပြုမှုဖြစ်ပြီး ဒီဆုံးဖြတ်ချက်ဟာ ဥပဒေအရ တရားဝင်မှုရှိပြီး အယူခံမရှိတဲ့ နောက်ဆုံးဆုံးဖြတ်ချက်ဖြစ်ပါတယ်။ ဒီတရားရုံးအမိန့်ဟာ နိုင်ငံတကာ တရားစီရင်ရေးနဲ့ ဒီလိုဆိုးဝါးတဲ့ လူ့အခွင့်အရေးချိုးဖောက်မှုတွေ ကျူးလွန်နေတာတွေကို ပြစ်ဒဏ်မရှိဘဲ ကင်းလွတ်နေတာမျိုးဟာ နိုင်ငံတကာက လက်မခံဘူးဆိုတာကို ပြသလိုက်တာလည်းဖြစ်ပါတယ်။ မြန်မာနိုင်ငံအနေနဲ့ တရားရုံးအမိန့်အတိုင်း ဆုံးဖြတ်တာကို လိုက်နာဆောင်ရွက်ရမယ့် တာဝန်ဝတ္တရားရှိပါတယ်။ မြန်မာနိုင်ငံမှာ ပြစ်မှုကျူးလွန်သူတွေက အရေးယူမှုမခံရဘဲ ကင်းလွတ်နေတဲ့ သံသရာကို ရပ်တန့်ဖို့လိုပြီး တာဝန်ခံမှုတာဝန်ယူမှုရှိရေးဟာ အမျိုးသားပြန်လည်သင့်မြတ်ရေးနဲ့ ရေရှည်တည်တံ့တဲ့ ငြိမ်းချမ်းရေးအတွက် မရှိမဖြစ်အရေးကြီးပါတယ်။”\n\nကုလသမဂ္ဂ အတွင်းရေးမှူးချုပ် အန်တိုနီယို ဂူတားရက်စ် ( António Guterres) (UN) နော်ဝေ ဝန်ကြီးချုပ် အက်စပင် ဘာ့သ် အိတ်(Espen Barth Eide)\n\n“ICJ ဆုံးဖြတ်ချက်ဟာ အလွန်အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်ဖြစ်ပြီး မတရားမှုကို ထိခိုက်နစ်နာခံစား ရသူ ရိုဟင်ဂျာတွေအတွက် ထင်ရှားတဲ့ အသိအမှတ်ပြုမှုဖြစ်ပါတယ်။ နိုင်ငံတိုင်းဟာ လူမျိုးတုံးသတ်ဖြတ်မှု မကျူးလွန်အောင် ကာကွယ်ရမှာဖြစ်ပြီး ကျူးလွန်သူတွေကိုလည်း အရေးယူအပြစ်ပေးရမှာဖြစ်ပါတယ်။”\n\nနော်ဝေ ဝန်ကြီးချုပ် အက်စပင် ဘာ့သ် အိတ်(Espen Barth Eide) (ATTILA KISBENEDEK/AFP)",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.rfa.org/resizer/v2/FZHWJ26ATBA5ZNYZ7ZGLP34WYU.jpg?auth=4088887517e677928edb7c18b6849ba8709c675177ed6da8123a0a91f9f44d11&smart=true&width=1500",
    "lang": "my"
+  },
+  {
+   "title": "Germany news: Pistorius visits Auschwitz memorial in Poland trip",
+   "link": "https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-19T18:59:00+00:00",
+   "summary": "Germany's defense minister's first stop in Poland was the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
+   "body": "Germany's defense minister's first stop in Poland was the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Germany",
+    "Poland"
+   ],
+   "image": "https://static.dw.com/image/46480523_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
+   "link": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-19T18:59:00+00:00",
+   "summary": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
+   "body": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran",
+    "Lebanon"
+   ],
+   "image": "https://static.dw.com/image/79996371_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Mamdani signs bill to ban horse-drawn carriages in New York City",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/nyc-horse-drawn-carriage-ban-mamdani",
+   "source": "The Guardian",
+   "published": "2026-11-19T18:56:23+00:00",
+   "summary": "Animal rights activists back the new law while workers’ unions oppose the ban over concerns about lost livelihoods Zohran Mamdani, New York City’s mayor, has signed a bill that will bring the city’s horse-drawn carriage industry to an end by 1 June 2028. Known as Romanch’s Law, t",
+   "body": "Animal rights activists back the new law while workers’ unions oppose the ban over concerns about lost livelihoods Zohran Mamdani, New York City’s mayor, has signed a bill that will bring the city’s horse-drawn carriage industry to an end by 1 June 2028. Known as Romanch’s Law, the legislation is named after 18-year-old Indian tourist, Romanch Mahajan, who was killed in June after being thrown from a carriage in Central Park when a horse became startled. The law marks the end of an industry that has operated in the city for more than a century. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://i.guim.co.uk/img/media/26ecab120b89bd4cf67ee664376b3f0565358d67/318_0_3178_2543/master/3178.jpg?width=140&quality=85&auto=format&fit=max&s=4400c8f8c65e47d58158520ddbd4bd55",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+   "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+   "source": "NYT World",
+   "published": "2026-11-19T18:55:36+00:00",
+   "summary": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
+   "body": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Woman raped by strangers after being drugged by husband calls for consent law changes",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+   "source": "The Guardian",
+   "published": "2026-11-19T18:54:01+00:00",
+   "summary": "Four men convicted of sexual assault and rape of Joanne Young, whose husband advertised her on UK swinging websites • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years A woman who was raped by strangers after being drugged by he",
+   "body": "Four men convicted of sexual assault and rape of Joanne Young, whose husband advertised her on UK swinging websites • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years A woman who was raped by strangers after being drugged by her husband has warned of “serious questions about how the law deals with consent”, as four men who abused her were convicted on Thursday. Philip Young, 50, advertised his then wife, Joanne Young, on dating and swinging websites, presenting it as a “kink” for both of them, Winchester crown court heard. In fact, he had been sedating her, plunging her into an “inanimate state” in which anything could be done to her by the men who answered the adverts, jurors were told. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/edd007ef250e5a313f69749cd145e584cf626ff9/75_0_3657_2926/master/3657.jpg?width=140&quality=85&auto=format&fit=max&s=b672070fc85a9488d181c30126950558",
+   "lang": "en"
+  },
+  {
+   "title": "France awaits verdict six years after police beat Black music producer",
+   "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T18:51:50+00:00",
+   "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+   "body": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff354510bb-1795110213.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHNobHVhRFB3TnlwNG8tUXBNSjkwNnUwSU9meDRlVk5mU0NScndhbUh0TGhndzVESFFiYllWcUp0OUtxVndNLWNsZEg1QnVMZ1BNam1PX1FlVXZhelFlUWdNNXIwTVFEN2pmaWdrdnU0QzF0QlduUnQ0U2hpSGo0M0swVlI2eEhFTHRjMmNFWUNOTWVNQlBBdHlpOHU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T18:51:11+00:00",
+   "summary": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens Time Magazine",
+   "body": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens Time Magazine",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+   "link": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+   "source": "The Guardian",
+   "published": "2026-11-19T18:49:54+00:00",
+   "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capab",
+   "body": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by the US space agency Nasa concluded, after they succeeded in growing them in simulated lunar soil. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/1b58e880a26d75fd8535eee7f2a2ed104e5db70c/174_0_2314_1853/master/2314.jpg?width=140&quality=85&auto=format&fit=max&s=defdc78a97f85098fcf5641469a003ae",
+   "lang": "en"
+  },
+  {
+   "title": "Some leaders flew private to the APEC summit, but not Mexico’s president.",
+   "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
+   "source": "NYT World",
+   "published": "2026-11-19T18:48:51+00:00",
+   "summary": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
+   "body": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+   "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+   "source": "NYT World",
+   "published": "2026-11-19T18:47:57+00:00",
+   "summary": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+   "body": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+   "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T18:46:10+00:00",
+   "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+   "body": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe04c1c782-1795032257.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "European leaders present united front in push for peace in Ukraine",
+   "link": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-19T18:44:00+00:00",
+   "summary": "Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for European representation at future peace talks to end Russia's invasion of Ukraine. DW has more.",
+   "body": "Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for European representation at future peace talks to end Russia's invasion of Ukraine. DW has more.",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "Germany"
+   ],
+   "image": "https://static.dw.com/image/79996986_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Susan Smith is denied parole again 32 years after drowning her sons in a South Carolina lake - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzdkV1hlaEVkQWk0Q3lSdWlTdUdHbEZ2U2xnZTZiVmJhSTNyOU1VVjFZcmxaejQwT1NsQmc2bmJKUVFjWTgtRnJvU3hGS1NOUmN1SENCNlhoSlhpaFN3TFYwRDVtc3BZOXpWUmJyYS1oM0M3ekRyNGpfaDdaUGZZUUFFN01naF9adF9URGhnSTJXeXZDa3RMTlFR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T18:42:00+00:00",
+   "summary": "Susan Smith is denied parole again 32 years after drowning her sons in a South Carolina lake AP News Susan Smith to ask for parole again 32 years after drowning her sons in a South Carolina lake ABC News - Breaking News, Latest News and Videos Susan Smith denied parole again in d",
+   "body": "Susan Smith is denied parole again 32 years after drowning her sons in a South Carolina lake AP News Susan Smith to ask for parole again 32 years after drowning her sons in a South Carolina lake ABC News - Breaking News, Latest News and Videos Susan Smith denied parole again in deaths of her two sons by unanimous decision. WCIV Susan Smith, who killed her young boys 3 decades ago in a South Carolina lake, is denied parole CNN LIVE: Susan Smith faces parole board again, 32 years after killing sons in Upstate lake FOX Carolina News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran Calls for Urgent Gaza Action, Sets Conditions on Hormuz and Nuclear Inspections - Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDNYUF9kRFJBZERpRDVBeS13VjVDZElZNEJ2NmpXUUZtcWNILUgzY1pVVUduZUZSRWlQV2tNN0l0RGdVbEdlaktQNWNQMVVvVGhxb0czSV9WMkFLWklDVHU0UDFkdnpiUTV5YjBNRm1KQ2w3NS1FbklvejNnZDF3SXRiNzFINkQtNDFYU1FUT3p5RDNGQ2U5M1VURG9POVZ1WG9IaDFDeDZkSlVkQ0ZqcDNKTkl3S092ckdr?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-19T18:40:35+00:00",
+   "summary": "Iran Calls for Urgent Gaza Action, Sets Conditions on Hormuz and Nuclear Inspections Palestine Chronicle",
+   "body": "Iran Calls for Urgent Gaza Action, Sets Conditions on Hormuz and Nuclear Inspections Palestine Chronicle",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T18:39:46+00:00",
+   "summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters How Nvidia Chips Ended Up Within Reach of China’s Military The New York Times Opinion | The Jensen Huang doctrine loses in Washington The Washington Post America must get serious a",
+   "body": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters How Nvidia Chips Ended Up Within Reach of China’s Military The New York Times Opinion | The Jensen Huang doctrine loses in Washington The Washington Post America must get serious about Chinese chip spying The Economist The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks WSJ",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEpxWHFQT0I1d2xFamllVUtRVThMdFE0X3hfbEZIVWVBNmowYll5SmxFekl2U2dKOE9zQ2NGSmZVcEx2dV83U2hMb1BzOS15a0g2eG5TeEhhV1BsMV84MEwyOFdWbG5WelAxNUFIZXlOZ3VGR0RDbENkRUlXand6QzJxSFhBdDNlaU55ajJsU0I2ckRrNkIyS3hyLW5XU3hDdkFDT09Ldno5enFYTl92Zk1zbWF0NjRCUmh0N2lhc3I3aldib2hlSWFmWlJncV9U?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T18:36:00+00:00",
+   "summary": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return The Guardian 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Is Back The Hollywood Reporter Movie review: 'Cliff Booth' revives Brad Pitt's effortles",
+   "body": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return The Guardian 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Is Back The Hollywood Reporter Movie review: 'Cliff Booth' revives Brad Pitt's effortless cool Yahoo ‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointing Compromise Between Great Directors IndieWire Elizabeth Debicki Lights Up THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH Netflix",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Hours After Meeting Putin, Trump Presses Europe Over Military Aid to Ukraine - UNITED24 Media",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRC0xVmtKT3JFdU9xelJNcnB5VzhsX20xQURsTEVvVW13MUdUaEM4T0tRWmJobGpPN1NtX0duUVNGQVhUV3hWcWdld2w0ZnU1am5vcUZHYmxHUVJXSm1ybV9fR3lzTHBSTzRWcTFZT2hnbUhSU1hsNF9rWmF3a1FDcXB5VzdHVm1WUUpYTjFEMkpkYmdocDRNNFkzbmtFakZiTUdFTFdSRGNYQk1VUUZIMHJNUGpMNTdXQVlXSG5uQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T18:35:03+00:00",
+   "summary": "Hours After Meeting Putin, Trump Presses Europe Over Military Aid to Ukraine UNITED24 Media",
+   "body": "Hours After Meeting Putin, Trump Presses Europe Over Military Aid to Ukraine UNITED24 Media",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Kushner says Russia is 'comfortable' with NATO-like security guarantees for Ukraine to end war after Trump talks with Putin - PBS",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZGtncEo5UWFCS09PLVJ5Rlk0RDJiQkpHSUJTQmVoeTVyX3F4N3gyTk4xeXA4NWE4ck15X0htT0FxRkc5dGp6b0pvRDVqWURRSldmSXEzaGJSZDV2dHd0ZnZaYzJSZUxxZUhqbHJNNUhLTnV1MHZjV0NFUVBMVURvdU15TDhOMm05NFhnU29pd3cwSmtGNThSYVlBQ2JqM001bUdsdE04N2VTOUYyekw1d3EySHR4U2RTNnFmeXBGYnlRMDdvc1hqSmJBb0NGVkluNzhGUFVXWnlOV01uRWc4Y3I2MWNhTmRyNlhKbNIB8gFBVV95cUxOR3dkTWZRMzdtWk1FMFpZdXNlckQzMk90RUhGaGF6SzFmRjJXNXozRmQ3bWMwUWlHSzk5alRMZFQ3RXNTeTJzT21HWXZNX2VMSGlUdDVJMF81Mk1PZEJab2h1YXpwRFAyR3RVOGpXVHVRVk1rNkhKdEVVZHZRT2pXZl85UlhkSzN2Zmx1WFNyclAzaGw3dXZmck80THZpdHNuRnJpWkM2LXFUak5qU3JoS29UNUozUnFLcGR4ckx1eWUxbzNXbWl4MkQ1UFB1Ui1Oa09WcUlkVXhmcHhVMGlQeVBvdXlKbGxrMDBvX0lPeURzZw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T18:32:34+00:00",
+   "summary": "Kushner says Russia is 'comfortable' with NATO-like security guarantees for Ukraine to end war after Trump talks with Putin PBS",
+   "body": "Kushner says Russia is 'comfortable' with NATO-like security guarantees for Ukraine to end war after Trump talks with Putin PBS",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
@@ -189,30 +842,47 @@
    "lang": "en"
   },
   {
-   "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T18:24:00+00:00",
-   "summary": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut CNBC Anthropic keeps the AI party swinging, but the atmosphere is bubbly The Guardian Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI AP New",
-   "body": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut CNBC Anthropic keeps the AI party swinging, but the atmosphere is bubbly The Guardian Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI AP News Anthropic live: Claude maker’s shares soar in Wall Street debut Financial Times Anthropic Opens Trading on Wall Street as a $2 Trillion Company The New York Times",
+   "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+   "link": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+   "source": "The Guardian",
+   "published": "2026-11-19T18:21:59+00:00",
+   "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications ",
+   "body": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications due to surgery. Dr Mohammed Habib, a consultant at Aberdeen Royal Infirmary, said he had repeatedly reported concerns about the hospital’s liver and pancreatic surgery from 2021 onwards and believed dozens of patients may have died unnecessarily there. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ca78c3be95c76a7e3af936cb3b43af2b09910e0f/163_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=ab738f63c23e544cfab0b0bf1a56b9cd",
+   "lang": "en"
+  },
+  {
+   "title": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence' - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYTNvUXlRNG1ZcGxpWTU1anIxLUd2eTU1UkgzT0ZUTXJHSHh6clVlLVJYSjN1V1JYTGgyZXZNWDlHSFRlb1JKVUF2Qm9vOXp4SWViMUlaaHA1c09QbWpRSGtrSS1vSzZXcnl6Zi1ibDNYWHJhZ3RCR0tSYlhKQzZ0Tm9qNHR6NmM3Vnc?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-19T18:18:37+00:00",
+   "summary": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence' Yahoo",
+   "body": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence' Yahoo",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Taiwan"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+   "title": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war - Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmgyVkxKT0JnU0VIamllcW5CTnU1QjNzZE84NFZLYmMzaVkyTkJkeG5QOHBfczJQV3YtQ1NqQ3d5OFd2cmNDejFKTHdkVUVuLXBnRW13VWhVSG1CcXpuUUhBajdfTVdkVnNtbWR5NG9SS2k5alRYbDczN1BvNHBBMjBUM3pDZGNwbW5F?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-19T18:24:00+00:00",
-   "summary": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs AP News",
-   "body": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs AP News",
-   "category": "USA / Americas",
-   "is_war": false,
+   "published": "2026-11-19T18:18:20+00:00",
+   "summary": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war Boston Herald",
+   "body": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war Boston Herald",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
+    "Ukraine",
     "Russia",
-    "United States"
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -250,6 +920,23 @@
    "lang": "en"
   },
   {
+   "title": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war - Anchorage Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWE00VC1BdFlOMVBBdDdURHNwbWVnQlJOU3JFNzBscnZIb1NRbndxNnc5YWxNNHlySlFkeXFlUEM2YjFmdjg0LTNOMXFfNEZQQUxsVTlKcUFJYzl0bnhaWFFBbTgtRHg0Y1F2VC1JaVBnclBGWE1ldVBVRkZnZXUzdnpvRjR0cUppdXQ2bTBhWEstZ3g2TDkxb3ZPME45VDJzYkJJRmJreW15bjg5R1NlbzRPbnlmMDl4M2U3cmZHOG84eERWZ1ZEbW9Qbndqelo3RHhn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T18:15:08+00:00",
+   "summary": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war Anchorage Daily News",
+   "body": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war Anchorage Daily News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump-Xi-Putin summit: Five things you need to know",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
    "source": "Al Jazeera",
@@ -282,23 +969,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-   "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-   "source": "NYT World",
-   "published": "2026-11-19T18:06:02+00:00",
-   "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-   "body": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Iran Calls for Global Action to Stop Israeli Crimes - WANA News Agency",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KVmExRmY2SjB6WWpNNUxxMFU4Zl9qMHhiUWpSMkdiN3VRYU04Und2VjdFRVQxT1JaVnM5NTBad2taVzJKUGlBRkR6Tl9sUy1LUTA4UlljNUhZWnIyVEl0RDY3emFraVZORDFCTEdvYllqWjh6M3N5OXpSOA?oc=5",
    "source": "Google News · Middle East",
@@ -312,22 +982,6 @@
     "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-19T18:05:08+00:00",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to ",
-   "body": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82",
    "lang": "en"
   },
   {
@@ -377,20 +1031,35 @@
    "lang": "en"
   },
   {
-   "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
-   "link": "https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-19T18:01:00+00:00",
-   "summary": "Germany's defense minister's first stop in Poland will be at the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
-   "body": "Germany's defense minister's first stop in Poland will be at the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
-   "category": "Europe / NATO",
+   "title": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T18:00:00+00:00",
+   "summary": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war AP News",
+   "body": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war AP News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UK to provide Ukraine with long-range drones as part of £260m package",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T17:59:01+00:00",
+   "summary": "UK to provide Ukraine with long-range drones as part of £260m package BBC",
+   "body": "UK to provide Ukraine with long-range drones as part of £260m package BBC",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
-    "United States",
-    "Germany",
-    "Poland"
+    "Ukraine"
    ],
-   "image": "https://static.dw.com/image/46480523_6.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -486,7 +1155,7 @@
     "Russia",
     "United States"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
    "lang": "en"
   },
   {
@@ -553,23 +1222,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump dials into a meeting of European allies to discuss Ukraine after he spoke with Putin, Xi - Yakima Herald-Republic",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNFBmSy1nU1FTaU10ekVrX0VvYjI2TDcxeUJKT05WMGlWVndqTnRNSVRsNi1UUWdfMWJ6RXdkWHdRaEFnQzJSWTlaMlNzTnM4bVBYbHFjeExOQ040YnV0Wmk1ODJlQnp6VWZZNm94Q2xqbkRrWUtYcFZRWXhvNGdJRXFTZmlRM2E5Mnk5czBOT0F6ZlB4NE1ldEpEZGFsS21fTmtsTWJ3d2Qwck1WZ0IzU1dvenEtaS1CNUNjQjB3ZVUzby1OcF9WWklnY0g3Tlc1M1IwcUg3TS1PWDUycktxRXphM3J1cC16NWxiMXpiby0xV1h4NVlza0wtY0JYR3pwbWtfQ3U1eUxEMVhWNVVtellmbGhSNU1nQlFrdtIBogJBVV95cUxQcmlYZzJBZjRjNVFwNEw2Mmd6clZ2UEx0c29xQTRqeTJzc1VuYTVHVnZxTEJqcE43cVluQkduS0FkWUtSR2R3U3UtVE44dXQwelhOVEF0NHRQRFN0Y0toUEJEV0dFWUN4TzdzTzdUTHEtSWdtbUh5WlNJcDlVRkVjZGtoUXZKS1RsV2ZxZmE3YUItYnFqQ0hZTUNCaUc4djhxSTMySWdDUk54eF85amxELTRsaVFIcHUxVzlTZ0liVnhmTXBxV3cyQUVvOWNDSV9mRVBKbFlkSm0xNFRRMW9YQlFxTkU1cG9lbmprVUkxeE9MbHJiTUo4MnNMY2ZMRVRtSEt4am9xRjcza1VxdDRRcm5xWmxOVlJRQWtja0twdEdldw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T17:24:13+00:00",
-   "summary": "Trump dials into a meeting of European allies to discuss Ukraine after he spoke with Putin, Xi Yakima Herald-Republic",
-   "body": "Trump dials into a meeting of European allies to discuss Ukraine after he spoke with Putin, Xi Yakima Herald-Republic",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
    "link": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
    "source": "The Guardian",
@@ -627,22 +1279,6 @@
    "countries": [
     "Ukraine",
     "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Germany Ukraine War - chronicleonline.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTM3dDhHM0VQY2NpZ1JILTA0Sk9SMEpSVE44ZFZzMW5MOEQybjZWTGc0MWg5SEJnbXVjOFlUUXUyVUpKZ3loU0JIbzFlZ0IxcWFZcXJBZUxkZ3ZHVGJNb1dFVEVsVmN5ZWliZjdfVk96NXg2NTF1TG11dG9aaGJIMjhZVzZieFA5VmxUYmh6cVhsc2gwVzhYQ0l3Ym0ydWxSb3VpYmZRNzZZU3FBSlc4?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T17:21:30+00:00",
-   "summary": "Germany Ukraine War chronicleonline.com",
-   "body": "Germany Ukraine War chronicleonline.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Germany"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -710,22 +1346,6 @@
    "lang": "en"
   },
   {
-   "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea - Boston Herald",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmgyVkxKT0JnU0VIamllcW5CTnU1QjNzZE84NFZLYmMzaVkyTkJkeG5QOHBfczJQV3YtQ1NqQ3d5OFd2cmNDejFKTHdkVUVuLXBnRW13VWhVSG1CcXpuUUhBajdfTVdkVnNtbWR5NG9SS2k5alRYbDczN1BvNHBBMjBUM3pDZGNwbW5F?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T17:15:00+00:00",
-   "summary": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea Boston Herald",
-   "body": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea Boston Herald",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
    "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
    "source": "The Guardian",
@@ -772,21 +1392,6 @@
    "lang": "en"
   },
   {
-   "title": "US zoo staff monitor Fiona the hippo’s rear end for signs of hat she ate",
-   "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-   "source": "The Guardian",
-   "published": "2026-11-19T17:12:57+00:00",
-   "summary": "Colonoscopy, ultrasound, Vibration plate and patience deployed 11 days after beloved beast ingested knitted hat Fiona the hippo, one of America’s most famous zoo animals, has undergone a colonoscopy amid efforts to remove a knitted hat which she swallowed after it fell into her e",
-   "body": "Colonoscopy, ultrasound, Vibration plate and patience deployed 11 days after beloved beast ingested knitted hat Fiona the hippo, one of America’s most famous zoo animals, has undergone a colonoscopy amid efforts to remove a knitted hat which she swallowed after it fell into her enclosure . With surgery too risky for a full-grown hippos like Fiona, who weighs in the region of 2,500 pounds (1,113kg), veterinarians tried an alternative method of getting the hat to pass through her system. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8",
-   "lang": "en"
-  },
-  {
    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
    "source": "The Guardian",
@@ -800,50 +1405,6 @@
     "China"
    ],
    "image": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e7dbd1a9b4c3dc24afe5bacd823fc0dc",
-   "lang": "en"
-  },
-  {
-   "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
-   "source": "The Guardian",
-   "published": "2026-11-19T17:11:11+00:00",
-   "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court considers the lawful",
-   "body": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court considers the lawfulness of the ban on Palestine Action. In its first comprehensive guidance on freedom of association, the committee criticises vaguely worded laws targeting “extremism” or “undesirable” organisations. Continue reading...",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Palestine"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=0ab09b13bd84297995abb4add8135cd4",
-   "lang": "en"
-  },
-  {
-   "title": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas - ABC7 Los Angeles",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T17:07:00+00:00",
-   "summary": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas ABC7 Los Angeles Heavy rain hits SoCal, flooding threat puts LA burn areas on alert NBC Los Angeles Powerful storm targets Southern California, triggers flood threat KTLA Cold storm moving into Sou",
-   "body": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas ABC7 Los Angeles Heavy rain hits SoCal, flooding threat puts LA burn areas on alert NBC Los Angeles Powerful storm targets Southern California, triggers flood threat KTLA Cold storm moving into Southern California will bring rain, snow and hazards LAist Los Angeles Flood Threat Builds as El Niño Storm Sweeps South Bloomberg.com",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemI5QkZDNUlldjVMZHNwb3hVZFp0bXI1RHRRMHhwUmhac1JtRzlPZURvUkNZdng3d3FlTGJjWWJYc05YbGx3eDUxQ2dweGtkdVhMaTJicDRKS1UycDlZTm1ONTBrUTlRV2xzTWhTNnZYOWNvSFVhNFgyT0NLYnVPR3R5OEd3dl85OGlqUkg3WmFNN184aWloN084R0pPRFp4N28yY1BYU2kxMHVX?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T17:07:00+00:00",
-   "summary": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge The Guardian",
-   "body": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge The Guardian",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -897,34 +1458,6 @@
    "lang": "en"
   },
   {
-   "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0QxUDY4Ykx6Um1udDNTX1h5dFRIQ2VncGVYaGsyaUFmSmVrenN3bXp5cFF4eDVPUzZjNXhBdUdGM3p1VWJyTmM5SkphZlFnYmdza3RRcERsYXFpa2dUQ0RzMXlyd3dvOUtURFN5SVhZLTZFX1hENmNyZXEwWnNJbm5yeXFtZHROS3RwbWJ3WUFGQ0lDc0gyRi13?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T17:02:00+00:00",
-   "summary": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says AP News How the War in Iran Will Remake the Global Energy Order The New York Times Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns NBC News Energy markets ",
-   "body": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says AP News How the War in Iran Will Remake the Global Energy Order The New York Times Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns NBC News Energy markets are not going back to the way they were, says Fatih Birol The Economist The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says WSJ",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Cap all political donations, not only those from overseas, Burnham told",
-   "link": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
-   "source": "The Guardian",
-   "published": "2026-11-19T17:01:40+00:00",
-   "summary": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the “insanely complex” £100,000 l",
-   "body": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the “insanely complex” £100,000 limit on overseas donors. It is uncertain whether the £72m worth of donations recently received by Reform UK will be affected. The Labour former home secretary David Blunkett is one of many peers to have tabled an amendment calling for an overall cap, proposing a £500,000 annual limit per donor, with his plan believed to have broad support. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/afcace2eaa57d4ac7dadfa329eb234b690964067/214_0_6553_5246/master/6553.jpg?width=140&quality=85&auto=format&fit=max&s=b0c7242d561524b442b3ac89d31b05fa",
-   "lang": "en"
-  },
-  {
    "title": "NEA expands surveillance camera scheme with town councils to tackle high-rise littering",
    "link": "https://www.channelnewsasia.com/singapore/nea-town-council-more-surveillance-camera-high-rise-littering-6565271",
    "source": "CNA World",
@@ -935,6 +1468,21 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--T_K8kcwU--/c_crop,h_466,w_830,x_0,y_67/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/tdy/image/2022/10/20/image4_6.jpeg?itok=jmiwlY-5",
+   "lang": "en"
+  },
+  {
+   "title": "Mortgage rates move higher again as inflation jitters mount: Mortgage and refinance interest rates today, Thursday, November 19, 2026 - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZWxzVFZ5V29kVEJ4emJ6NndBMGZWLWVIWXVMS0ZrUS1xX1o2dk1jM3FtUTdaalVqal80cVVmNmNvMGVBRDlDdmFGVmh1WWxrUWhZSEU4U0pYUTY1eGNBZ2dXeWpzRkpmeHNPYjJXQjdndC1qSHRTM1JseVY5RlF5bXJra25XY0pIcWUybUprREpoZHFKYV9GNXpxaGZxWGcwRzM2OVlQelY0Z256VlQ5ZVVYZjFDck9feUc0VkRNR2xUaG0yR2FuRlE5QTlCbElaWm02U2g5V1ozcVVtUGx3SVRSdW1SVUplV2FxMnVYYlZWc0J5d3NtSzhQdUxiZzRaazVVQU5EYk1xdENRQ3FnU0xMeS1rY1M3U3RfRmtjamF2N3lsZ1dOcDZhMjVkZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T17:00:00+00:00",
+   "summary": "Mortgage rates move higher again as inflation jitters mount: Mortgage and refinance interest rates today, Thursday, November 19, 2026 Yahoo Finance US FREDDIE MAC 15-YEAR MORTGAGE RATE AVERAGES 6.66% IN LATEST WEEK VS. 6.45% LAST WEEK, 5.54% A YEAR AGO TradingView Going Up: Sharp",
+   "body": "Mortgage rates move higher again as inflation jitters mount: Mortgage and refinance interest rates today, Thursday, November 19, 2026 Yahoo Finance US FREDDIE MAC 15-YEAR MORTGAGE RATE AVERAGES 6.66% IN LATEST WEEK VS. 6.45% LAST WEEK, 5.54% A YEAR AGO TradingView Going Up: Sharp Uptick in Rates After Four Weeks of Declines RISMedia Hot CPI ends rate slide; budget for 3.5% drop in sales National Mortgage News US mortgage rates rise for the first time in five weeks CNN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1043,8 +1591,8 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnc2eXU1cFI1cWtBNndicFRjd3dkcWxXYlV3cl9ZMzdnV2pWbkU4T0pxUVFRdDlSSVlzbzE2ZU9jTzVQRjZyaDJyRW1idUE0YzFRNWdjamlYZm9HWU9RbktGVDhVSGxxVWJwczFuTFZFc3F1dXdaSTBSajRGSjVzR09YYzRFRXozZk1udUpYWkFPYTdsVHF1S3duMF82WkdL?oc=5",
    "source": "Google News",
    "published": "2026-11-19T16:45:42+00:00",
-   "summary": "Trump responds to Elon Musk’s ‘I’m not MAGA’ comments NBC News Elon Musk says he regrets midterm spending The Washington Post Trump backs Elon Musk in latest MAGA breakup Axios Elon Musk backs away from Trump's MAGA brand after Republicans' midterm election washout AP News Musk r",
-   "body": "Trump responds to Elon Musk’s ‘I’m not MAGA’ comments NBC News Elon Musk says he regrets midterm spending The Washington Post Trump backs Elon Musk in latest MAGA breakup Axios Elon Musk backs away from Trump's MAGA brand after Republicans' midterm election washout AP News Musk regrets nearly $500 million midterm elections spending, says he’s not MAGA ABC News - Breaking News, Latest News and Videos",
+   "summary": "Trump responds to Elon Musk’s ‘I’m not MAGA’ comments NBC News Elon Musk says he is 'not MAGA,' in departure from past comments Fox Business Trump brushes off Musk distancing from MAGA The Hill DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’",
+   "body": "Trump responds to Elon Musk’s ‘I’m not MAGA’ comments NBC News Elon Musk says he is 'not MAGA,' in departure from past comments Fox Business Trump brushes off Musk distancing from MAGA The Hill DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ The New York Times Musk regrets nearly $500 million midterm elections spending, says he’s not MAGA ABC News - Breaking News, Latest News and Videos",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1119,8 +1667,8 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkZPZ1NQdzRHNmY2QW9yNHduLUNyNWM4bUJLZ2tuZWxlZWlGZDhTUGNQS0lHX08xS3doNjRlNGlZaUgzeGdUQTZseVpfYmtuaWh2UEptRGlKX0hwc2FYWVVmY3hmZXJRVGZxZnpva0VOS3Z0VXlTNjVuUXQ3eGdMZHllTWg2TjBVSGVfMDl3U1JOS1E?oc=5",
    "source": "Google News",
    "published": "2026-11-19T16:38:00+00:00",
-   "summary": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine The Guardian Opinion | The Return of Measles: Tracing the Cause The New York Times The return of measles in America The Economist PAHO urges countries to step up efforts to stop measle",
-   "body": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine The Guardian Opinion | The Return of Measles: Tracing the Cause The New York Times The return of measles in America The Economist PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas Pan American Health Organization (PAHO) Measles comeback puts daycares, schools on the front lines The Hill",
+   "summary": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine The Guardian After US officially loses measles elimination status, RFK Jr. says will 'work to regain' it ABC News - Breaking News, Latest News and Videos Maine health organizations rea",
+   "body": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine The Guardian After US officially loses measles elimination status, RFK Jr. says will 'work to regain' it ABC News - Breaking News, Latest News and Videos Maine health organizations react to loss of measles elimination status WGME The return of measles in America The Economist PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas Pan American Health Organization (PAHO)",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1157,64 +1705,6 @@
     "Myanmar"
    ],
    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "‘Take temperature down’ over guidance on single-sex spaces, head of UK equalities body urges",
-   "link": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
-   "source": "The Guardian",
-   "published": "2026-11-19T16:27:10+00:00",
-   "summary": "EHRC chair says ‘misinformation’ about guidance issued after supreme court ruling has created ‘more anxiety’ The head of the UK’s equalities watchdog has urged people to “take the temperature down” on reaction to guidance issued on single-sex spaces. Mary-Ann Stephenson, the chai",
-   "body": "EHRC chair says ‘misinformation’ about guidance issued after supreme court ruling has created ‘more anxiety’ The head of the UK’s equalities watchdog has urged people to “take the temperature down” on reaction to guidance issued on single-sex spaces. Mary-Ann Stephenson, the chair of the Equality and Human Rights Commission (EHRC), appearing before MSPs in Holyrood, said “misinformation” over the body’s guidance had created “more anxiety among people”. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=140&quality=85&auto=format&fit=max&s=54599bc4cd15d8a22e55bdd3249c5050",
-   "lang": "en"
-  },
-  {
-   "title": "Drone Hits Dutch Embassy Compound in Kyiv, Ukrainian Officials Say",
-   "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-   "source": "NYT World",
-   "published": "2026-11-19T16:21:40+00:00",
-   "summary": "Dutch officials said a projectile hit just behind the embassy compound, and that no one was harmed. Russia launched a wave of attacks into Ukraine’s capital on Thursday.",
-   "body": "Dutch officials said a projectile hit just behind the embassy compound, and that no one was harmed. Russia launched a wave of attacks into Ukraine’s capital on Thursday.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Southern California braced for fierce storm after record rain in San Francisco",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-   "source": "The Guardian",
-   "published": "2026-11-19T16:21:07+00:00",
-   "summary": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of state Southern California braced for the arrival of a fierce winter storm that already set records for rainfall in the north of the state. Los Angeles authorities urged resid",
-   "body": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of state Southern California braced for the arrival of a fierce winter storm that already set records for rainfall in the north of the state. Los Angeles authorities urged residents in the Palisades, Hurst and Sunset burn scar areas to leave before the storm’s arrival on Thursday, and warned of a risk of debris flows and flooding. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/ca97dfe3a023b223313b98dd745a7a946b57ade7/0_900_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=4d5272d163374039500fd13462163b3c",
-   "lang": "en"
-  },
-  {
-   "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-   "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-   "source": "NYT World",
-   "published": "2026-11-19T16:17:54+00:00",
-   "summary": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
-   "body": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -1279,38 +1769,6 @@
    "lang": "en"
   },
   {
-   "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
-   "source": "The Guardian",
-   "published": "2026-11-19T16:08:17+00:00",
-   "summary": "Sonia Exelby’s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering her Prosecutors in Ocala, Florida , have been laying out an extraordinary criminal case against Dwain C Hall, an auto repair and tow truck driver accused of kidnapping and ",
-   "body": "Sonia Exelby’s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering her Prosecutors in Ocala, Florida , have been laying out an extraordinary criminal case against Dwain C Hall, an auto repair and tow truck driver accused of kidnapping and murdering Sonia Exelby, of Portsmouth, England. Prosecutors allege that Hall lured Exelby to the US before killing her in October last year and burying her body in a shallow grave in Marion Oaks. Hall has pleaded not guilty to the charges. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52",
-   "lang": "en"
-  },
-  {
-   "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T16:08:00+00:00",
-   "summary": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea AP News",
-   "body": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea AP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
    "source": "NYT World",
@@ -1356,35 +1814,6 @@
    "lang": "en"
   },
   {
-   "title": "Susan Smith seeks parole again 32 years after drowning her two sons",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tUV9fbENoTzZGTGxjSm1zb3dVT0t3b1d3cU9xVHJNcWJfNTRsZ2FHbHEtLWhUM0pWWUV1bEU1MjlYTk1iSDB4SkhrZkxhOW9pejNwSGVSM251WFU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T15:59:30+00:00",
-   "summary": "Susan Smith seeks parole again 32 years after drowning her two sons BBC Susan Smith, who killed her young boys 3 decades ago in a South Carolina lake, is denied parole CNN Susan Smith Is Denied Parole Again 32 Years After Drowning Her Sons in a South Carolina Lake TODAY.com 'I ha",
-   "body": "Susan Smith seeks parole again 32 years after drowning her two sons BBC Susan Smith, who killed her young boys 3 decades ago in a South Carolina lake, is denied parole CNN Susan Smith Is Denied Parole Again 32 Years After Drowning Her Sons in a South Carolina Lake TODAY.com 'I have a lot of remorse': Killer mom Susan Smith begs for release as more than 10,000 people petition for her to stay in prison Yahoo Susan Smith's Ex Fears Her Time in Prison Is Nearly Up Newser",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Saudi Public Investment Fund’s Riyadh Headquarters Damaged - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEw3N05iRHRYajhscWVvNGpPMVBKWnVwMXNmVV96X25VeWd4dnI2eW9UdWxIS3F1ZkcyU202Y2J0cm1oX01mQ0VkUXg0Vk9Yb2Frb2otY0oyNWdBNkdLSTItci13R1lFcUh2aUc5Q2NzcXRCTnRQWFpRck9qcFd0MnpQVU1MVlhEeHZ6akl3MndVUC1Lbjh5QXV0QktmcXlGQzE5MUFpck5XODUtREE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T15:58:53+00:00",
-   "summary": "Saudi Public Investment Fund’s Riyadh Headquarters Damaged Bloomberg.com Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ LIVE: Tower in Riyadh hit by Houthi attack, Saudi authorities say Al Jazeera Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ R",
-   "body": "Saudi Public Investment Fund’s Riyadh Headquarters Damaged Bloomberg.com Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ LIVE: Tower in Riyadh hit by Houthi attack, Saudi authorities say Al Jazeera Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ Reuters Damage from missile attack reported in Riyadh’s financial district, and other Mideast news AP News",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
    "link": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice",
    "source": "France 24",
@@ -1419,8 +1848,8 @@
    "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-19T15:52:00+00:00",
-   "summary": "Shares in Anthropic have started trading on the Nasdaq after its record $81 billion IPO. Its performance will put investor confidence in AI and the Claude maker's $1.5 trillion valuation to the test.",
-   "body": "Shares in Anthropic have started trading on the Nasdaq after its record $81 billion IPO. Its performance will put investor confidence in AI and the Claude maker's $1.5 trillion valuation to the test.",
+   "summary": "Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.",
+   "body": "Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1432,8 +1861,8 @@
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
    "source": "Google News",
    "published": "2026-11-19T15:42:00+00:00",
-   "summary": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says Forbes Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI : The Ars Technica review Ars Technica Will people skip work and hurt the U.S. economy to",
-   "body": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says Forbes Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI : The Ars Technica review Ars Technica Will people skip work and hurt the U.S. economy to play Grand Theft Auto 6? PBS ‘GTA 6’ release live updates: Reviews, memes and more as gamers explore and react to Vice City after 13 long years Yahoo Tech",
+   "summary": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says Forbes Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian Wi",
+   "body": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says Forbes Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian Will people skip work and hurt the U.S. economy to play Grand Theft Auto 6? PBS 'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Vice City after 13 long years Yahoo Tech",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1509,6 +1938,23 @@
    "lang": "en"
   },
   {
+   "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-19T15:32:00+00:00",
+   "summary": "Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ LIVE: Tower in Riyadh hit by Houthi attack, Saudi authorities say Al Jazeera Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund Fox News Riyadh’s tallest skyscraper ",
+   "body": "Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ LIVE: Tower in Riyadh hit by Houthi attack, Saudi authorities say Al Jazeera Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund Fox News Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ Reuters Damage from missile attack reported in Riyadh’s financial district, and other Mideast news AP News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Iran demands emergency OIC ministerial meeting on Gaza - Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3prREFnVGpzVkVuNlRlaDFlcXl1Y1hBN3pNOW5KR2JNN1JJOEowRHJ0T1E1bWg3bU45bWNLM1hSSUNSY3JxSjRjcmp5NlFPdFpBYi05VFEwOF9XcGVkelFzQV9lSVhvNFZQSG12bVgyLURweVpqSUFWZTgzc0pFQXAwU2RkSkZKUk5NR1ZUV0RYX3ZwSFBJRl92aU56ZXp6?oc=5",
    "source": "Google News · Middle East",
@@ -1522,96 +1968,6 @@
     "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Mamdani officially bans horse carriages, ending century-old Central Park tradition - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlZ2YlEwSFc4Wjg4TWNJWC1tUGVjZ2VkVmJOWGVUeEJibTRyN3NEOFh2aGszLWM0cWh0dy0wb1Qtd2NKU190aTc3WHptZ0ZaNWZ1RlRPRXJMNWU4amdCcXMyR2ZpY291YXlMYnA2d2wxMFNGLWFsSldGUmxWd25sVXFNenlXd0w1M04xZm90VzRHdmpEWTQyMEtrbU93UnltVFlkQ1hzYmo2clQ5?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T15:25:00+00:00",
-   "summary": "Mamdani officially bans horse carriages, ending century-old Central Park tradition New York Post Mayor Mamdani to sign Romanch's Law ending NYC horse-drawn carriage industry ABC7 New York Mayor Mamdani signs NYC's carriage horse ban after decades of animal rights activism Gothami",
-   "body": "Mamdani officially bans horse carriages, ending century-old Central Park tradition New York Post Mayor Mamdani to sign Romanch's Law ending NYC horse-drawn carriage industry ABC7 New York Mayor Mamdani signs NYC's carriage horse ban after decades of animal rights activism Gothamist NYC Mayor Mamdani signs bill banning horse carriage industry into law CBS News Mayor Mamdani Mulls Motor Vehicles In Central Park Streetsblog New York City",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Vladimir Putin invites European leaders to Moscow - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T15:24:55+00:00",
-   "summary": "Vladimir Putin invites European leaders to Moscow Financial Times Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks Reuters Europe argued over who would talk to Russia. Agreeing what to say is even tougher. POLITICO.eu One chair, seven leaders Bru",
-   "body": "Vladimir Putin invites European leaders to Moscow Financial Times Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks Reuters Europe argued over who would talk to Russia. Agreeing what to say is even tougher. POLITICO.eu One chair, seven leaders Brussels Signal Putin Says Russia Invited Europeans to Moscow to Discuss Ukraine Bloomberg.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-   "link": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T15:24:51+00:00",
-   "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-   "body": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "European Union"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Gender pay gap: French women work \"for free” from today",
-   "link": "https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today",
-   "source": "France 24",
-   "published": "2026-11-19T15:24:32+00:00",
-   "summary": "Women in Europe are still paid less than men, with the gap falling from 15.1% in 2016 to 11.1% in 2024, according to Eurostat. In France, women symbolically start working for free from 10:51 am on Thursday, 19 November, and at the current pace equality would not be reached until ",
-   "body": "Women in Europe are still paid less than men, with the gap falling from 15.1% in 2016 to 11.1% in 2024, according to Eurostat. In France, women symbolically start working for free from 10:51 am on Thursday, 19 November, and at the current pace equality would not be reached until 2062. Experts warn that AI could make things worse by eliminating administrative and legal jobs where many women work, while childbirth and short paternity leave continue to slow women’s careers.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/c258a9ba-e42b-11f1-a355-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-153611-153735-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "'GTA VI': A masterpiece? Fans react to gaming's biggest release",
-   "link": "https://www.france24.com/en/tv-shows/arts24/20261119-gta-vi-a-masterpiece-fans-react-to-gaming-s-biggest-release",
-   "source": "France 24",
-   "published": "2026-11-19T15:23:21+00:00",
-   "summary": "Critics are calling the new \"Grand Theft Auto VI\" a masterpiece. In this edition of arts24, we hear what fans make of one of the biggest video game releases in history. We also look at U2's new album and tour marking 50 years of the band, discover the French comic book that Pope ",
-   "body": "Critics are calling the new \"Grand Theft Auto VI\" a masterpiece. In this edition of arts24, we hear what fans make of one of the biggest video game releases in history. We also look at U2's new album and tour marking 50 years of the band, discover the French comic book that Pope Leo is reading and meet the women redefining Mexico's Mariachi tradition.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/1f6b4ef4-e41e-11f1-aff2-e56ab3dc0809/w:1024/p:16x9/capture-ab6ebe3c.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Alexander Zverev faces fresh lawsuit from ex-girlfriend",
-   "link": "https://www.dw.com/en/alexander-zverev-faces-fresh-lawsuit-from-ex-girlfriend/a-79990005?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-19T15:18:00+00:00",
-   "summary": "World No. 1 tennis player Alexander Zverev is facing a new lawsuit related to a domestic abuse trial. The lawyer for his ex-girlfriend, Brenda Patea, told DW what the allegations are against the German player.",
-   "body": "World No. 1 tennis player Alexander Zverev is facing a new lawsuit related to a domestic abuse trial. The lawyer for his ex-girlfriend, Brenda Patea, told DW what the allegations are against the German player.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Germany"
-   ],
-   "image": "https://static.dw.com/image/79253569_6.jpg",
    "lang": "en"
   },
   {
@@ -1629,315 +1985,6 @@
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/914598109_2976160056094193_1449446299748555158_n-1-1024x679.jpeg",
    "lang": "my"
-  },
-  {
-   "title": "Putin pitches Arctic route, calls for investment: Will it work?",
-   "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T15:16:43+00:00",
-   "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-   "body": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2022/06/2012-07-20T120000Z_747181912_GM1E87K1G1W01_RTRMADP_3_TRAVEL-SVALBARD.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "The chocolate countdown: The art of the advent calendar",
-   "link": "https://www.france24.com/en/tv-shows/entre-nous/20261119-the-chocolate-countdown-the-art-of-the-advent-calendar",
-   "source": "France 24",
-   "published": "2026-11-19T15:12:49+00:00",
-   "summary": "The holiday season is almost upon us and with it come advent calendars. The annual physical countdown originated in 19th-century Germany as a Christian tradition to count down the days until Christmas. Eugénie Pont from the magazine Fou de Pâtisserie tells us more about what we c",
-   "body": "The holiday season is almost upon us and with it come advent calendars. The annual physical countdown originated in 19th-century Germany as a Christian tradition to count down the days until Christmas. Eugénie Pont from the magazine Fou de Pâtisserie tells us more about what we can expect from the biggest chocolate makers in France.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France",
-    "Germany"
-   ],
-   "image": "https://s.france24.com/media/display/6cb2903a-e41b-11f1-9e2c-e56ab3dc0809/w:1024/p:16x9/capture-bb11e8b7.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Trump, Xi, Putin summit: What was it all about?",
-   "link": "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about",
-   "source": "France 24",
-   "published": "2026-11-19T15:12:10+00:00",
-   "summary": "Donald Trump has left China after a historic first meeting with Xi Jinping and Vladimir Putin on the sidelines of the APEC summit. Ukraine was discussed without Kyiv or European leaders in the room, which raised eyebrows, though Trump defended dialogue with rivals and Putin said ",
-   "body": "Donald Trump has left China after a historic first meeting with Xi Jinping and Vladimir Putin on the sidelines of the APEC summit. Ukraine was discussed without Kyiv or European leaders in the room, which raised eyebrows, though Trump defended dialogue with rivals and Putin said the talks created conditions for future agreements. Xi warned major powers against conflict, and topics included reducing nuclear risks, reforming the UN and increasing energy flows.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://s.france24.com/media/display/97e2df72-e429-11f1-807c-13439ca2fe89/w:1024/p:16x9/EN-20261119-151641-151854-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-   "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-   "source": "NYT World",
-   "published": "2026-11-19T15:08:16+00:00",
-   "summary": "",
-   "body": "",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-archival-tbmv/19myanmar-icj-archival-tbmv-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Behind the UK's use of AI in asylum applications",
-   "link": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
-   "source": "France 24",
-   "published": "2026-11-19T15:07:23+00:00",
-   "summary": "The UK is increasingly turning to artificial intelligence to manage its immigration system, from analysing migrants’ phones to processing asylum applications. But what happens when AI gets involved in deciding how an asylum seeker's story is understood? Stella Elgersma, journalis",
-   "body": "The UK is increasingly turning to artificial intelligence to manage its immigration system, from analysing migrants’ phones to processing asylum applications. But what happens when AI gets involved in deciding how an asylum seeker's story is understood? Stella Elgersma, journalist at InfoMigrants, explains how the UK Home Office is testing AI tools to process asylum applications, including a system that generates summaries of asylum interviews. With errors, limited human oversight and concerns over transparency, could AI put asylum seekers’ lives at risk?",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/2e36442a-e428-11f1-a386-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-143639-144049-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Haiti: Salvador’s Bukele publishes video of attack on gang leader’s house",
-   "link": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
-   "source": "France 24",
-   "published": "2026-11-19T15:06:06+00:00",
-   "summary": "Salvadoran President Nayib Bukele said Wednesday that his troops demolished the lavish home of a prominent gang leader in Haiti known as Jeff Gwo Lwa. \"My gift to the Haitian people on the anniversary of the Battle of Vertières,\" Bukele wrote on X - referencing a 1803 battle crit",
-   "body": "Salvadoran President Nayib Bukele said Wednesday that his troops demolished the lavish home of a prominent gang leader in Haiti known as Jeff Gwo Lwa. \"My gift to the Haitian people on the anniversary of the Battle of Vertières,\" Bukele wrote on X - referencing a 1803 battle critical in helping secure Haiti's independence from France.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/dc8a445e-e428-11f1-bef0-1bac47ab2f5d/w:1024/p:16x9/Bukele-Haiti-2nd-attack0.png",
-   "lang": "en"
-  },
-  {
-   "title": "Circle Line reliability falls 23% in October as overall MRT performance dips from record high",
-   "link": "https://www.channelnewsasia.com/singapore/mrt-rail-reliability-nov-2026-lta-6564726",
-   "source": "CNA World",
-   "published": "2026-11-19T15:04:00+08:00",
-   "summary": "The overall MRT network's 12-month mean kilometres between failure fell 7 per cent to 3.14 million train-km, but stayed above 2 million train-km for a seventh straight month.",
-   "body": "The overall MRT network's 12-month mean kilometres between failure fell 7 per cent to 3.14 million train-km, but stayed above 2 million train-km for a seventh straight month.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--qkq2HVr---/c_crop,h_898,w_1597,x_1,y_3/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2023/10/24/jem_0064.jpg?itok=etZfOmQe",
-   "lang": "en"
-  },
-  {
-   "title": "Woman loses suit against driver over incident caused by chicken crossing the road",
-   "link": "https://www.channelnewsasia.com/singapore/woman-lose-suit-chicken-cross-road-6565046",
-   "source": "CNA World",
-   "published": "2026-11-19T15:04:00+08:00",
-   "summary": "In dismissing the suit, the judge said the incident was caused by a chicken crossing the road and it was unfortunately \"part of the vicissitudes of life\".",
-   "body": "In dismissing the suit, the judge said the incident was caused by a chicken crossing the road and it was unfortunately \"part of the vicissitudes of life\".",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--wQTIVVFw--/c_crop,h_843,w_1500,x_0,y_87/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2022/10/28/img_3304.jpg?itok=hafjGdmt",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine strikes Putin’s prized Crimean bridge for third time in a week",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T15:00:08+00:00",
-   "summary": "Ukraine strikes Putin’s prized Crimean bridge for third time in a week NBC News",
-   "body": "Ukraine strikes Putin’s prized Crimean bridge for third time in a week NBC News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
-   "link": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-19T14:58:00+00:00",
-   "summary": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
-   "body": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "European Union"
-   ],
-   "image": "https://static.dw.com/image/79958544_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Beaujolais Nouveau: A French tradition uncorked",
-   "link": "https://www.france24.com/en/tv-shows/entre-nous/20261119-beaujolais-nouveau-a-french-tradition-uncorked",
-   "source": "France 24",
-   "published": "2026-11-19T14:44:33+00:00",
-   "summary": "Every year on the third Thursday of November, France raises a glass to one of its most joyful traditions: Le Beaujolais Nouveau! That means that this Thursday, millions of bottles of the 2026 young red wine will be uncorked around the world, from Lyon to New York. Olivier Badoure",
-   "body": "Every year on the third Thursday of November, France raises a glass to one of its most joyful traditions: Le Beaujolais Nouveau! That means that this Thursday, millions of bottles of the 2026 young red wine will be uncorked around the world, from Lyon to New York. Olivier Badoureaux, wine expert and director of the French trade organisation Inter Beaujolais, tells us what we should expect from this year's vintage.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/63378348-e426-11f1-a003-ebb478925cf0/w:1024/p:16x9/capture-21efc65b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
-   "link": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T14:41:38+00:00",
-   "summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
-   "body": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Lebanon"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afefaa21e3b3-1795095202.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Sky News Presenter Effortlessly Debunks Putin's Claim Russia Never Started Ukraine War - HuffPost UK",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWRveWxVTXNIZjlsNHlNWHBhbkNZcFA3UmEwRVB5RHk5MS04ZU5jbExpRWFYOEVsUFgwcHZETmktSXJoZ1lKMG1CQkZuSGFQNi1wamJRZER1S19IZmNqUzlTR0RKTHpta0pDZ0NHREZYeUZwcEdvYXZzOVdwSER6X01jdDdZNXROUHNIQ3lvVWtsbjZOSXEzNUNXS2NZeGdCYWRNRWplVW1fVlZTN2V3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T14:39:22+00:00",
-   "summary": "Sky News Presenter Effortlessly Debunks Putin's Claim Russia Never Started Ukraine War HuffPost UK",
-   "body": "Sky News Presenter Effortlessly Debunks Putin's Claim Russia Never Started Ukraine War HuffPost UK",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
-   "link": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T14:34:22+00:00",
-   "summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
-   "body": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afefa2a0e3db-1795095082.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Putin says 'compromises' are possible in talks to end Ukraine war - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUxndE1acEZCdUM3VENGd2ZoaEtLZDFMd3JnRGxmOV9qTDV4ZFREdUtxUndYZ2tDWnJ0Y1JzN04wekdHN2o0RmFoREJPT0lrYlVDOWhXRGNSb19uQUU3OWpsZ1VrVDNRYU8xSlVFY0JoYzREcUJYMjREeV9XZDRBaHBONXVaZUpwMS12T1BuWGlBbVNzMDRzZHhR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-19T14:33:39+00:00",
-   "summary": "Putin says 'compromises' are possible in talks to end Ukraine war Yahoo",
-   "body": "Putin says 'compromises' are possible in talks to end Ukraine war Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajg1eGtUX2N1TmNwT2plLVVZS3JjcWNMaUpZQU1zdzJCNDlMQWtDNE9CRzdSczFTQkJCM2pNTjd4YzJETmlLRGxsRUl2ZzVrYVpTeDY0M0JtVjBZb3NIYjMwLTNocHlkUlhqYW00VlJMQWZaVllfSnN0Y1lONHFxbEhlRmlCY0pZZ2QySl9nNFNkZTUwV2lEdXRmZ1h3dlVWcE5DeGVUcFlncUN0ZXlfeEY0MlU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-19T14:33:31+00:00",
-   "summary": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals Bloomberg.com Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs CNBC Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores WSJ Walmart Stock Falls as Forecast Le",
-   "body": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals Bloomberg.com Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs CNBC Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores WSJ Walmart Stock Falls as Forecast Leaves Wall Street Asking for More Barron's Ahead of Walmart Earnings, Here's What Barchart Data Says Comes Next for WMT Stock Yahoo Finance",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "France: Retirees march against 2027 budget cuts",
-   "link": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
-   "source": "France 24",
-   "published": "2026-11-19T14:32:57+00:00",
-   "summary": "More than a thousand people marched in Paris on Thursday, called by a union alliance joined by student and high-school groups, to protest social and tax measures targeting retirees in the 2027 budgets. The government wants retirees to contribute about €5.4 billion, by freezing th",
-   "body": "More than a thousand people marched in Paris on Thursday, called by a union alliance joined by student and high-school groups, to protest social and tax measures targeting retirees in the 2027 budgets. The government wants retirees to contribute about €5.4 billion, by freezing the indexation of pensions above €1,260 and reforming their 10% income tax allowance. Union leaders say the money should not come from retirees’ pockets, as FRANCE 24's Luke Shrago explains.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://s.france24.com/media/display/156a74da-e422-11f1-aa5d-13439ca2fe89/w:1024/p:16x9/EN-20261119-141030-141233-CS.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "What the ICJ genocide ruling means for the Rohingya people",
-   "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T14:31:47+00:00",
-   "summary": "This is the first time the court has ruled that a state committed genocide.",
-   "body": "This is the first time the court has ruled that a state committed genocide.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T073149Z_286826429_RC2VQOA5KMPN_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795076043.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "🔴 AI firm Anthropic begins trading on Nasdaq, aiming to raise $81 billion in biggest IPO on record",
-   "link": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
-   "source": "France 24",
-   "published": "2026-11-19T14:31:00+00:00",
-   "summary": "",
-   "body": "",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Anthropic blows past $2 trillion in Nasdaq debut, beating SpaceX's June listing",
-   "link": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
-   "source": "France 24",
-   "published": "2026-11-19T14:29:03+00:00",
-   "summary": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the world's first publicly traded frontier AI company. Shares began trading at $111.5, 34% higher than the I",
-   "body": "Anthropic hit $2 trillion in market value as its shares soared in their Nasdaq debut on Thursday, with investors rushing to own a stake in the maker of the Claude chatbot, the world's first publicly traded frontier AI company. Shares began trading at $111.5, 34% higher than the IPO price of $83.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://s.france24.com/media/display/3f3e1f26-e41f-11f1-91f8-1bac47ab2f5d/w:1024/p:16x9/2026-11-19T132245Z-254191681-RC21ROAVBBO1-RTRMADP-3-ANTHROPIC-IPO-DEBUT.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Chef Rachel Khoo: 'You don't need fancy kitchen gadgets to cook delicious food'",
-   "link": "https://www.france24.com/en/tv-shows/perspective/20261119-chef-rachel-khoo-you-don-t-need-fancy-kitchen-gadgets-to-cook-delicious-food",
-   "source": "France 24",
-   "published": "2026-11-19T14:24:12+00:00",
-   "summary": "One of the world's best-known chefs has spoken to FRANCE 24 about her new book that proves you certainly don't need fancy kitchen gadgets to cook delicious meals. The book \"The Smallest Restaurant in Paris\" tells her own story of starting out in a tiny Parisian flat cooking food ",
-   "body": "One of the world's best-known chefs has spoken to FRANCE 24 about her new book that proves you certainly don't need fancy kitchen gadgets to cook delicious meals. The book \"The Smallest Restaurant in Paris\" tells her own story of starting out in a tiny Parisian flat cooking food just for two people at a time. That then led to a BBC series and a decade of writing and filming cooking stories. Rachel Khoo is now a judge on \"The Great Australian Bake Off\". She spoke to us in Perspective.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France",
-    "Australia"
-   ],
-   "image": "https://s.france24.com/media/display/1c7be816-e423-11f1-8aba-1bac47ab2f5d/w:1024/p:16x9/capture-edfa4db0.jpg",
-   "lang": "en"
   },
   {
    "title": "ICJ စီရင်ချက် မလိုက်နာရင် ဘာဆက်ဖြစ်နိုင်လဲ",
@@ -2212,19 +2259,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/mwd18nof-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ကြက်ဥစားချင်ရင် ကြက်မွေးလို့ မင်းအောင်လှိုင်ပြော",
-   "link": "https://burma.irrawaddy.com/video/2026/11/18/417712.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-18T12:38:52+00:00",
-   "summary": "ဧရာဝတီရဲ့ နေ့စဉ်သတင်းအစီအစဉ်ကနေ နိုဝင်ဘာ ၁၈ ရက်နေ့ နောက်ဆုံးရသတင်းတွေကို တင်ဆက်ပေးသွားတာ ဖြစ်ပါတယ်။",
-   "body": "• ကြက်ဥစားချင်ရင် ကြက်မွေးလို့ မင်းအောင်လှိုင်ပြော\n\n• ရိုဟင်ဂျာလူမျိုးတုန်း သတ်ဖြတ်မှုအတွက် မနက်ဖြန် ICJ အမိန့်ချမယ်\n\n• မြေယာပြဿနာနဲ့ ခရိုနီ မောင်ဝိတ် စစ်ဆေးခံနေရ\n\n• AA ထိန်းချုပ်ဒေသတွေ ဗုံးကြဲခံရမှု ကိုယ်ဝန်ဆောင်မိခင် အပါ ၁၄ ဦးသေဆုံး\n\n• အိုဗာတင်း ဖြန့်ဖြူးရေးကုမ္ပဏီ မြန်မာကထွက်ခွာ\n\n• အမေရိကန်ကို ရာနှုန်းပြည့် အခွန်ကင်းလွတ်ခွင့်ပေးမှာ မဟုတ်ဘူးလို့ ထိုင်းပြန်ဖြေရှင်း\n\nနေ့စဉ်သတင်း၊ နိုဝင်ဘာ ၁၈၊ ၂၀၂၆\n\n#မြန်မာ #ဧရာဝတီ #ကြက်ဥ #ကြက်မ #မင်းအောင်လှိုင် #ပြည်ထောင်စုလွှတ်တော် #ရိုဟင်ဂျာ #ICJ #မြေယာ #ခရိုနီ #မောင်ဝိတ် #ကိုယ်ဝန်ဆောင် #AA #အိုဗာတင်း #အခွန် #အာဆီယံ #နေ့စဉ်သတင်း #DailyNews #WhatsHappeningInMyanmar",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Sequence-01.00_11_48_09.Still006-900x506.png",
    "lang": "my"
   }
  ]
