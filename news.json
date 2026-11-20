@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-20T22:38:51.902896+00:00",
- "updated_yangon": "2026-11-21 05:08",
+ "updated": "2026-11-20T23:38:52.904228+00:00",
+ "updated_yangon": "2026-11-21 06:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
   "CNA World",
   "Google News",
+  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
@@ -17,42 +18,46 @@
  "countries": [
   [
    "United States",
-   39
+   37
   ],
   [
    "Russia",
-   38
+   36
   ],
   [
    "Ukraine",
    33
   ],
   [
-   "Poland",
-   10
-  ],
-  [
    "Myanmar",
    10
   ],
   [
-   "China",
-   7
+   "Poland",
+   9
   ],
   [
    "Palestine",
-   7
+   8
+  ],
+  [
+   "China",
+   8
   ],
   [
    "Israel",
-   5
+   6
+  ],
+  [
+   "European Union",
+   4
   ],
   [
    "United Kingdom",
    4
   ],
   [
-   "NATO",
+   "India",
    3
   ],
   [
@@ -60,27 +65,19 @@
    3
   ],
   [
-   "European Union",
-   3
-  ],
-  [
    "Iran",
    3
-  ],
-  [
-   "India",
-   2
   ],
   [
    "France",
    2
   ],
   [
-   "Turkey",
+   "NATO",
    2
   ],
   [
-   "Lebanon",
+   "Turkey",
    2
   ],
   [
@@ -92,7 +89,15 @@
    1
   ],
   [
-   "Germany",
+   "Lebanon",
+   1
+  ],
+  [
+   "Yemen",
+   1
+  ],
+  [
+   "Saudi Arabia",
    1
   ]
  ],
@@ -109,8 +114,8 @@
  ],
  "war_count": 35,
  "languages": {
-  "my": 25,
-  "en": 115
+  "my": 24,
+  "en": 116
  },
  "items": [
   {
@@ -142,6 +147,113 @@
    "lang": "en"
   },
   {
+   "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+   "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+   "source": "NYT World",
+   "published": "2026-11-20T23:29:24+00:00",
+   "summary": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
+   "body": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "White Police Officers Are Convicted of Beating a Black Man in France",
+   "link": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+   "source": "NYT World",
+   "published": "2026-11-20T23:21:51+00:00",
+   "summary": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+   "body": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T23:20:50+00:00",
+   "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+   "body": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+   "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T23:06:41+00:00",
+   "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+   "body": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+   "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+   "source": "NYT World",
+   "published": "2026-11-20T23:05:46+00:00",
+   "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+   "body": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russian cruise missile strikes Poland as Nato scrambles jets: Live",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T23:05:19+00:00",
+   "summary": "Russian cruise missile strikes Poland as Nato scrambles jets: Live The Independent",
+   "body": "Russian cruise missile strikes Poland as Nato scrambles jets: Live The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "Poland",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1NQXJuWDVfc1RyeUFDaEJZWGlJV2NaYVNwY24wel8xMGpTOUhha3BadFZGNnRDanMzbDJRWk9EazBPQ09pRXFpUDZOaXZTWnkwRE9RNWFvNXg5WjZzcWlvLTc4dlhuYTVsOG1LVmJTcE1OSmlEaFpid3ppU0xzZFNKN0V2OHhIcmxjYmhRbkNvTWp0czlnWVY1dkdyQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T22:43:04+00:00",
+   "summary": "New York City unveils a bold plan to move its jails off Rikers Island NPR Mayor Mamdani proposes delaying Rikers Island closure deadline to 2032 ABC7 New York Zohran Mamdani unveils plan to close Rikers Island jail complex The Guardian Mayor Mamdani Releases City’s First Comprehe",
+   "body": "New York City unveils a bold plan to move its jails off Rikers Island NPR Mayor Mamdani proposes delaying Rikers Island closure deadline to 2032 ABC7 New York Zohran Mamdani unveils plan to close Rikers Island jail complex The Guardian Mayor Mamdani Releases City’s First Comprehensive Plan to Close Rikers Island NYC.gov Mamdani’s vow to close Rikers Island jail rekindles hope and some skepticism NBC News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
    "source": "NYT World",
@@ -170,23 +282,6 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/Q3ZCDZCH75C2NP6624IMMH5KHM.jpg?auth=3cd9c54b653933460955598a9ac6585816cfae534508d7547134036f0a549faa&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "Russian cruise missile strikes Poland as Nato scrambles jets: Live",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T22:26:27+00:00",
-   "summary": "Russian cruise missile strikes Poland as Nato scrambles jets: Live The Independent",
-   "body": "Russian cruise missile strikes Poland as Nato scrambles jets: Live The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "Poland",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
@@ -225,8 +320,8 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
    "source": "Google News",
    "published": "2026-11-20T22:15:00+00:00",
-   "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation AP News Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk BBC Russian missiles and drone hit Poland during attacks on Ukraine The Guardian Poland accu",
-   "body": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation AP News Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk BBC Russian missiles and drone hit Poland during attacks on Ukraine The Guardian Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine CBS News Poland condemns Russian 'provocation' after three airspace violations Reuters",
+   "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation AP News Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk BBC NATO calls Russian missiles landing in Poland a 'grave violation' of airspace PBS Russia",
+   "body": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation AP News Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk BBC NATO calls Russian missiles landing in Poland a 'grave violation' of airspace PBS Russian missiles and drone hit Poland during attacks on Ukraine The Guardian Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine CBS News",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -275,8 +370,8 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5",
    "source": "Google News",
    "published": "2026-11-20T21:44:33+00:00",
-   "summary": "Anthropic stock drops 8% after rip-roaring IPO Yahoo Finance Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Nvidia shares plunge as Anthropic can't stop the AI selloff Axios Almost all of Anthropic’s employees are now millionaires CNN Why stock",
-   "body": "Anthropic stock drops 8% after rip-roaring IPO Yahoo Finance Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Nvidia shares plunge as Anthropic can't stop the AI selloff Axios Almost all of Anthropic’s employees are now millionaires CNN Why stock market is tanking despite massive Anthropic IPO The Hill",
+   "summary": "Anthropic stock drops 8% after rip-roaring IPO Yahoo Finance Almost all of Anthropic’s employees are now millionaires CNN Anthropic’s record IPO puts pensions and 401(k) plans closer to AI boom-and-bust risk 13WHAM-TV Anthropic IPO live: Anthropic stock drops after first day of t",
+   "body": "Anthropic stock drops 8% after rip-roaring IPO Yahoo Finance Almost all of Anthropic’s employees are now millionaires CNN Anthropic’s record IPO puts pensions and 401(k) plans closer to AI boom-and-bust risk 13WHAM-TV Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Why stock market is tanking despite massive Anthropic IPO The Hill",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -298,6 +393,19 @@
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/IMG_2218-e1795211265553-1024x879.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1ZlMG5tNllhS3BjYUtiTzdsZmlCMW5VSE5qVUw0SUx6bU1xbmp4V2pKV1BkZ2tua0R6R3NxUGdfcjVmMEJTYTRwNTVFOFVhMllhbTNpSEY3M3ZNUFJZVTQ0QlA1alZwLTJzNnlHYVBYX0RFVng3c0dTVzhPOGF4akNrSTlCc0ppc1lSZEJ6QWJGT3VpWV9rcGtR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T21:36:07+00:00",
+   "summary": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy The New York Times ‘Songs in the Key of Life’ at 50: Stevie Wonder Brings a Miracle to Madison Square Garden Rolling Stone Stevie Wonder to take over UMusic Shop NY The Music Universe Stevie Wonder Celebrates ‘Song",
+   "body": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy The New York Times ‘Songs in the Key of Life’ at 50: Stevie Wonder Brings a Miracle to Madison Square Garden Rolling Stone Stevie Wonder to take over UMusic Shop NY The Music Universe Stevie Wonder Celebrates ‘Songs in the Key of Life’ 50th Anniversary with Madison Square Garden Performance The Chenab Times Stevie Wonder Chicago tickets: Get last-minute seats to sold-out Nov. 21 show Cleveland.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says - DW.com",
@@ -348,8 +456,8 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
    "source": "Google News",
    "published": "2026-11-20T21:23:00+00:00",
-   "summary": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam CNBC S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year NPR Stocks Head For Grim Milestone as Worry Over A.I. Rattles Big Tech The New York Times Stocks enter correction ter",
-   "body": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam CNBC S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year NPR Stocks Head For Grim Milestone as Worry Over A.I. Rattles Big Tech The New York Times Stocks enter correction territory, driven by a deepening tech rout CBS News Wall Street Nears Breaking Point as Fear Grips Global Markets Bloomberg.com",
+   "summary": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam CNBC Stocks Skid Into a Correction, as A.I. Worries Intensify The New York Times S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year NPR 6 reasons stocks are falling, and wha",
+   "body": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam CNBC Stocks Skid Into a Correction, as A.I. Worries Intensify The New York Times S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year NPR 6 reasons stocks are falling, and what you should do about it CBS News Wall Street rout pushes S&P 500, Dow into correction Honolulu Star-Advertiser",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -373,19 +481,6 @@
    "lang": "en"
   },
   {
-   "title": "Bo Derek, 70, Admits She ‘Didn’t Always Make the Right Career Moves’ - People.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVI2SkNWbW9NUXNNbncybDJBWl9Lc0hHdS1Td3hfWmluQ1ByMGFHWDZDb09oWFhPSV84WkdmU0dLRmVnWDZla0hTR0RoVm5wNFpKR2ZHNE9tZXF1Sml2eDVxdy1KSVBrb29IX1Bxdmt1MGstcE1QZ0JaazYxblA3bmhFaG11NEtjdTd6OHNrYUEyUXM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T21:11:29+00:00",
-   "summary": "Bo Derek, 70, Admits She ‘Didn’t Always Make the Right Career Moves’ People.com This day in history: Happy birthday, Bo Derek! AOL.com ‘10’ Star Bo Derek Turns 70 — Inside Her Quiet Ranch Life With John Corbett Yahoo Bo Derek Makes Rare Comments About John Corbett Marriage IMDb B",
-   "body": "Bo Derek, 70, Admits She ‘Didn’t Always Make the Right Career Moves’ People.com This day in history: Happy birthday, Bo Derek! AOL.com ‘10’ Star Bo Derek Turns 70 — Inside Her Quiet Ranch Life With John Corbett Yahoo Bo Derek Makes Rare Comments About John Corbett Marriage IMDb Bo Derek turns 70 – see her today 47 years on from iconic '10' beach moment HELLO!",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Trump threatens tax on US tech firms building AI data centres abroad",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
    "source": "Al Jazeera",
@@ -401,18 +496,15 @@
    "lang": "en"
   },
   {
-   "title": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise - Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjdpRkpWT3F0b2lESHdXWXY5QlVaRlMxbFYzaWh4ZmVNWnNWdW5Pb2Y4VHQ0a3FXN1E2M1VRcE5QYnRGejVBd3A5eTUxOWc5b2Y5bFpSRklTUURWTmo5VWRyOTFXZkFDZGFHT0doT0tjOWt0LXVsUU1SWk93ZzNXeHlRZDFKM3A2bVlYYldtb3ZXN0xTUGJYeG9XWUlSUDFkckgzdmFUSi1qUnMtVkgwS19tMlRXWTc2amFVLTU0bHhFT1VLLU9JSzA5TDNjWGJNaHF2cA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T21:10:11+00:00",
-   "summary": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise Facebook",
-   "body": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian “provocation.” The incident came as Poland was hosting a two-week military exercise Facebook",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "Poland"
-   ],
+   "title": "Grand Theft Auto VI smashes records with $3.8bn in sales - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFhGWWF4LVY5N212bWtEU3BzRVFqRGpoQXFmRk1vNjNvMFplVG9xbjdPY09pb3hoM0dCUDRRWThZT1d0Si1MUHhGT1JxUjgzQVNsd19WTmlWUGRKcEU3aGRobFh0ZWxTUDRsY0x0aUVHWEVmOVQyWGt0bk5tU1hha3gwVTM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T21:05:48+00:00",
+   "summary": "Grand Theft Auto VI smashes records with $3.8bn in sales Financial Times Grand Theft Auto VI Made $3.79 Billion in a Single Day The New York Times ‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales Variety Grand Theft Auto VI Is Really Weird The Atlantic Grand Theft Auto VI re",
+   "body": "Grand Theft Auto VI smashes records with $3.8bn in sales Financial Times Grand Theft Auto VI Made $3.79 Billion in a Single Day The New York Times ‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales Variety Grand Theft Auto VI Is Really Weird The Atlantic Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -505,6 +597,21 @@
    "lang": "en"
   },
   {
+   "title": "Watching as a giant star swallowed its neighbor and exploded - Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWhEX0xuSzU0QjN5dE0ycWpxY2NCRnlLU2NwdnptT2EtaGZCblhiRFZWeEJTNk1YWVl5QkZDNVotaWdmY2Q5OVZ6YUlEaklZZ3dEZTEzeWk4LTBweHJKdDBkUkpvMEJxT21pVzVuMGdWcVVVbWpReHFpMEVBV0c4SW95VHk1Ty1CandKV0x3bkVBZFRZcGpsMlBTMXhjNjVnUWJCWm9McVJsdXc3NXBMaWhn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T20:41:17+00:00",
+   "summary": "Watching as a giant star swallowed its neighbor and exploded Ars Technica An inspiral of a star inside a common envelope with its giant companion Nature Astronomers Watch One Star Swallow Another Sky & Telescope NASA Data Clinches First-of-Its-Kind Stellar Merger NASA Science (.g",
+   "body": "Watching as a giant star swallowed its neighbor and exploded Ars Technica An inspiral of a star inside a common envelope with its giant companion Nature Astronomers Watch One Star Swallow Another Sky & Telescope NASA Data Clinches First-of-Its-Kind Stellar Merger NASA Science (.gov) Astronomers just witnessed a dying star gobble up its neighbor in real time Scientific American",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
    "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
    "source": "NYT World",
@@ -554,6 +661,19 @@
    "lang": "en"
   },
   {
+   "title": "Harry Kane forced off with early injury as Bayern Munich held to draw - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObndkRmpvTEpQd3JZNVU0UC1GTUdIQTlpTmo3YXVxdG9JYXI3LTV4b09ISFNQRlRPOFNjYzNGOTB4Rmd5M0JVbjlBcnpIemNySDFXaTFYS1loUkl2Ykk2UHFEdkJaV0xnQ0pBaHBvQnNyaFAtODd0dllqMUtlOHlYbzFGTm5hQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T20:21:00+00:00",
+   "summary": "Harry Kane forced off with early injury as Bayern Munich held to draw ESPN Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw The Guardian Harry Kane: England and Bayern Munich striker set to miss three months with ankle injury Sky Sports Harry",
+   "body": "Harry Kane forced off with early injury as Bayern Munich held to draw ESPN Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw The Guardian Harry Kane: England and Bayern Munich striker set to miss three months with ankle injury Sky Sports Harry Kane Suffers Massive Injury Setback, Recovery Timeline Revealed Sports Illustrated Match report: Bundesliga, FC Bayern v 1. FC Köln FC Bayern",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
    "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
    "source": "Al Jazeera",
@@ -567,19 +687,6 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe4b7f56bb-1795050367.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Andie MacDowell on aging, beauty trends: 'I wish Ozempic would go away'",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0hTWG91VnByNEFrMHA0VzJOU3l4OVV6Sk15MnRDalRzN3d0ZHpucHFQR1RDM0JsZHA3azh4OFRUaEllMDdidmNmNmwzeEt3X3d2UDRjVWxYbGIwNTBaN25uaDFSU2V3cXJvencxaEE1alVKWVRZVFRGOHRmTV9rcGpfMlNPSmJKUWM0XzB3NVJseVluN1I0SUxEVzRsUmVJdmJjMEhtaGFxeTJMR3Jwb2Z0ZENJX1RscjZhTEFYNG11em92?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T20:03:00+00:00",
-   "summary": "Andie MacDowell on aging, beauty trends: 'I wish Ozempic would go away' USA Today",
-   "body": "Andie MacDowell on aging, beauty trends: 'I wish Ozempic would go away' USA Today",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -631,13 +738,14 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
    "source": "Google News",
    "published": "2026-11-20T19:51:52+00:00",
-   "summary": "Trump threatens ban on US firms building AI data centres overseas BBC Trump defends Putin relationship and says he’ll stop US companies from building data centers abroad CNN Trump to Punish Companies that Build Data Centers Overseas WSJ Trump threatens ‘tremendous penalties’ on U",
-   "body": "Trump threatens ban on US firms building AI data centres overseas BBC Trump defends Putin relationship and says he’ll stop US companies from building data centers abroad CNN Trump to Punish Companies that Build Data Centers Overseas WSJ Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad The Guardian Freewheeling Trump Promotes Data Centers, Asia Trip and His Veto Power The New York Times",
+   "summary": "Trump threatens ban on US firms building AI data centres overseas BBC Live updates: Trump defends relationship with Putin but says he ‘can’t speak to America’ | CNN Politics CNN Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers The New York Times Trump thre",
+   "body": "Trump threatens ban on US firms building AI data centres overseas BBC Live updates: Trump defends relationship with Putin but says he ‘can’t speak to America’ | CNN Politics CNN Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers The New York Times Trump threatens ‘tremendous penalties’ on companies that build AI data centers overseas NBC News Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad The Guardian",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "Russia",
-    "United States"
+    "United States",
+    "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -691,33 +799,16 @@
    "lang": "en"
   },
   {
-   "title": "Rockstar says GTA VI made $3.79 billion in its first day - The Verge",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Td09iWVlhSmRHLUhDaWgwZEdzMC1lc1ROeUZHU0pVc1kzT1hDSUdGVU9qaXZHcFVPajd1c3otMGZsZ0RVMzdZNU1EOU16SEtrTjdKLTVyd2N3M0pjOThqcw?oc=5",
+   "title": "Fiona the hippo had hat lodged in small intestine, post-mortem exam shows - WMTW",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXoxamFXcVVFOUNXZW00Y1VyV2JQX3NNbmgteVpiQ21kZ1FuYVpqUXAwWDJVdXZhM3VrZkFWZm9aZnVXbjNLTEJXRDY1Y1d0cThKV1dmLUVMeUVKQXB4UGtUVEZxT2JtOGdXcWRpMjI1aW5uczBtREFBR1QyUWxqOVM0Sm9Jelg5M3c?oc=5",
    "source": "Google News",
-   "published": "2026-11-20T19:35:06+00:00",
-   "summary": "Rockstar says GTA VI made $3.79 billion in its first day The Verge Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales Take-Two In",
-   "body": "Rockstar says GTA VI made $3.79 billion in its first day The Verge Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales Take-Two Interactive Software, Inc. ‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales Variety Grand Theft Auto VI Is Really Weird The Atlantic",
+   "published": "2026-11-20T19:34:00+00:00",
+   "summary": "Fiona the hippo had hat lodged in small intestine, post-mortem exam shows WMTW Beloved Cincinnati Zoo hippo Fiona has died WVXU How a hat became a fatal, inoperable obstacle for Fiona the hippo NBC News Post-mortem exam sheds new light on Fiona the hippo’s death WLWT Why surgery ",
+   "body": "Fiona the hippo had hat lodged in small intestine, post-mortem exam shows WMTW Beloved Cincinnati Zoo hippo Fiona has died WVXU How a hat became a fatal, inoperable obstacle for Fiona the hippo NBC News Post-mortem exam sheds new light on Fiona the hippo’s death WLWT Why surgery wasn’t an option to save Fiona the hippo CNN",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
-   "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
-   "source": "NYT World",
-   "published": "2026-11-20T19:23:31+00:00",
-   "summary": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
-   "body": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -792,31 +883,31 @@
    "lang": "en"
   },
   {
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T19:03:56+00:00",
+   "summary": "White House removes cyber-security chief after series of tech outages BBC White House Replaces Cybersecurity Official After Tech Outages WSJ Trump shakes up cybersecurity leadership The Hill Scoop: Trump names Kirsten Davies as new national cyber director Axios US appoints new cy",
+   "body": "White House removes cyber-security chief after series of tech outages BBC White House Replaces Cybersecurity Official After Tech Outages WSJ Trump shakes up cybersecurity leadership The Hill Scoop: Trump names Kirsten Davies as new national cyber director Axios US appoints new cybersecurity chief after series of tech failures Al Jazeera",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "IDF refuses ABC requests for evidence journalist was Hamas operative - ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlg1MjFZaWk0VUpoMHZtSDVUYkNhRFNvcnRXRGZycEtyWG4xRUJVb1gzM1cxb0JNVzdpc2tyUTNPUmZ1YV9RRktndE9lN3pzRko4cWlnLWtWbWJ0TDRaTG4xLTNWZDRLZHVIVlhXbG54UzFIbEIyTW03X3FlSm5iZWxHdENfRWtKdXlScDg1TzVGU00yZkpVODBwSjYtUWdHRnpLUTBhYVJMbnc?oc=5",
    "source": "Google News · War",
-   "published": "2026-11-20T19:05:16+00:00",
+   "published": "2026-11-20T19:03:53+00:00",
    "summary": "IDF refuses ABC requests for evidence journalist was Hamas operative ABC News & Headlines – Australian Broadcasting Corporation",
    "body": "IDF refuses ABC requests for evidence journalist was Hamas operative ABC News & Headlines – Australian Broadcasting Corporation",
    "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
     "Australia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T19:03:56+00:00",
-   "summary": "White House removes cyber-security chief after series of tech outages BBC Top White House Cybersecurity Official Is Replaced The New York Times Who is Kirsten Davies, Trump’s new cyber chief? The Hill White House Replaces Cybersecurity Official After Tech Outages WSJ Scoop: Trump",
-   "body": "White House removes cyber-security chief after series of tech outages BBC Top White House Cybersecurity Official Is Replaced The New York Times Who is Kirsten Davies, Trump’s new cyber chief? The Hill White House Replaces Cybersecurity Official After Tech Outages WSJ Scoop: Trump names Kirsten Davies as new national cyber director Axios",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -842,8 +933,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
    "source": "Google News",
    "published": "2026-11-20T19:02:00+00:00",
-   "summary": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference CBS News Live updates: Trump defends Xi and Putin relationships after returning from Asia trip NBC News The latest from Trump's press conference NPR Trump's personalized diplomacy hits its limits",
-   "body": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference CBS News Live updates: Trump defends Xi and Putin relationships after returning from Asia trip NBC News The latest from Trump's press conference NPR Trump's personalized diplomacy hits its limits with 3-way summit Reuters Live updates: Trump, Vance and Rubio brief reporters on China summit The Hill",
+   "summary": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference CBS News Trump defends Putin, floats a Stephen Miller presidential run and says he’d work with Dems: News briefing takeaways CNN Trump's personalized diplomacy hits its limits with 3-way summit R",
+   "body": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference CBS News Trump defends Putin, floats a Stephen Miller presidential run and says he’d work with Dems: News briefing takeaways CNN Trump's personalized diplomacy hits its limits with 3-way summit Reuters Trump touts relationships with Putin and Xi after historic Asia trip ABC News - Breaking News, Latest News and Videos Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin The Economist",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -891,8 +982,8 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5",
    "source": "Google News",
    "published": "2026-11-20T19:00:00+00:00",
-   "summary": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. The Washington Post U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health The New York Times The return of measles in America The Economist Vermont grapples with measles as US lo",
-   "body": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. The Washington Post U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health The New York Times The return of measles in America The Economist Vermont grapples with measles as US loses elimination status VTDigger The return of endemic measles is a likely harbinger of future crises CIDRAP",
+   "summary": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. The Washington Post The return of measles in America The Economist Vermont grapples with measles as US loses elimination status VTDigger The return of endemic measles is a likely harbinger of future crises ",
+   "body": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. The Washington Post The return of measles in America The Economist Vermont grapples with measles as US loses elimination status VTDigger The return of endemic measles is a likely harbinger of future crises CIDRAP Minnesota measles cases hit 36-year high as U.S. loses elimination status MPR News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -902,12 +993,12 @@
    "lang": "en"
   },
   {
-   "title": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily' - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3lSQ2ZUbktLZG8wdUE5eV8zcUtfa3BqblQyOHYwVk1wU3BFZWJzZ3NmWEM0SXRFM1NjdjZzVS00cFF4bE5ldUZQMXpPSHVmUmRRWlNRal8yb2loNFZDT1ZITHpReFNCb1E3MjhfbmNJeDRNbC1BZVd1RUZ0QnZld2NRcE1vZw?oc=5",
+   "title": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily'",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aTnQxZjc0M1pEUDRrekJmWXlnTzd6UlZHTWFvQXA1YkFxV0FPU2xGWVBXWUNKcFQ0R2pxVF8xMzIwb0dENjhPQUtDNHpFNnlFRGMweUhB?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-20T18:58:58+00:00",
-   "summary": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily' Yahoo",
-   "body": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily' Yahoo",
+   "summary": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily' Fox News",
+   "body": "Amb. Michael Waltz sounds alarm over stakes of Russia-Ukraine war: 'No winning militarily' Fox News",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -1010,29 +1101,12 @@
    "lang": "en"
   },
   {
-   "title": "Trump says Putin expressed desire to end war with Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzlnanpEaTRMMEM5Q2UyR3R1LWNQRTN6SVFfb0ZfV1JGZFlxNzN6aXB0NXQtc25BLUZoeEF1ZHc4SWdZV205UlNBWUwtYnFmOW1yRS1pQ1JvRW9TRE9pMGdILXMtbG0xZlZWNTdScC13clVaaDhrVUxzMmZpSHZYSks4OFRLQ0dEMVdzR0RjMk5ILUNrNlFaR3RDZnZtblhCOXVWcm5EcWRmZ1E?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T18:25:10+00:00",
-   "summary": "Trump says Putin expressed desire to end war with Ukraine NBC News",
-   "body": "Trump says Putin expressed desire to end war with Ukraine NBC News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pY2JlNTFkQUZUZm9NVDRyUHNrbHNVM1FoZ0JHbFYyUnhqYXFNUDdaSXBpYlBmaV9Ld1V0Mm1GcmVKRTB5U0lCYUxvWjFnT3VTbC1DWFZicEtNd2lHdm5XQW1sTXNGbjVUMkI5dURUMm90ZUpHY250LTZxNXMzQQ?oc=5",
    "source": "Google News",
    "published": "2026-11-20T18:25:09+00:00",
-   "summary": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court NPR A 2nd federal judge blocks construction of Trump's memorial arch in DC WJLA For families of the fallen, Trump’s proposed arch casts a shadow over Arlington National Cemetery AP News Second judge bloc",
-   "body": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court NPR A 2nd federal judge blocks construction of Trump's memorial arch in DC WJLA For families of the fallen, Trump’s proposed arch casts a shadow over Arlington National Cemetery AP News Second judge blocks Trump’s triumphal arch, saying it lacks congressional approval CNN Another judge blocks Trump’s arch construction in second blow to project The Washington Post",
+   "summary": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court NPR For families of the fallen, Trump’s proposed arch casts a shadow over Arlington National Cemetery AP News Second judge blocks Trump’s triumphal arch, saying it lacks congressional approval CNN Constr",
+   "body": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court NPR For families of the fallen, Trump’s proposed arch casts a shadow over Arlington National Cemetery AP News Second judge blocks Trump’s triumphal arch, saying it lacks congressional approval CNN Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge The Guardian Judge indefinitely blocks Trump’s arch MS NOW",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1063,8 +1137,8 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0t4OVYwWGhwM1pwUnEyNTBKZGdQVHg3Rl9CNUxVbDBITnBxUk9BNWNwUWpFVlZkMGo2V1RFR29uX3lIT1didi00RWF6OThZaTlmSjNDcmJ5aUxfTHpkZnBiQ0RMSlpFWDR0RkVreEU4M2ZSRVpyTWJnODdSRnkwRXl5RUFJdC1FVmdQZGhTVkVvUVlWV1V0NFJwZW9qNjZES1hVWnJiUlhiMXJJMGRBMXBDVUJRLXpTbUlrWg?oc=5",
    "source": "Google News",
    "published": "2026-11-20T18:19:02+00:00",
-   "summary": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters. The Motley Fool 7 reasons why tech stocks are getting hammered again Yahoo Finance AI Is Testing What Economists Know About Bubbles Bloomberg.com COMMENTARY: Morning Bid: AI’s last stand? Reuters The ",
-   "body": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters. The Motley Fool 7 reasons why tech stocks are getting hammered again Yahoo Finance AI Is Testing What Economists Know About Bubbles Bloomberg.com COMMENTARY: Morning Bid: AI’s last stand? Reuters The AI fever in markets is breaking Financial Times",
+   "summary": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters. The Motley Fool 7 reasons why tech stocks are getting hammered again Yahoo Finance Opinion | The AI Correction Trade Arrives WSJ AI Is Testing What Economists Know About Bubbles Bloomberg.com COMMENTA",
+   "body": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters. The Motley Fool 7 reasons why tech stocks are getting hammered again Yahoo Finance Opinion | The AI Correction Trade Arrives WSJ AI Is Testing What Economists Know About Bubbles Bloomberg.com COMMENTARY: Morning Bid: AI’s last stand? Reuters",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1110,8 +1184,8 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVdwY1psbTh1aXpvaDBLU09hWjg2OFZTZldmdmhHRWFJZmVIc0pWT1NiQXIxQ1pQMzJQeE4zek1XbnU2eUJhbVFPb3dla1UxMFIxQmYyUXNtNjJVdnRPZVBxWXpSLTRMcFRsY2JkdHp1dHFSSHRUUUJIZlBKMVNZd2NEOGVLSE41dHhqLWFvU0FZM2JMNWxPSUZB?oc=5",
    "source": "Google News",
    "published": "2026-11-20T18:12:00+00:00",
-   "summary": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start ESPN Shane Steichen explains Colts' decision to start Anthony Richardson Sr., waive Daniel Jones Colts.com Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-gues",
-   "body": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start ESPN Shane Steichen explains Colts' decision to start Anthony Richardson Sr., waive Daniel Jones Colts.com Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess CBS Sports Colts release QB Daniel Jones NBC Sports Eagles' Saquon Barkley Reacts to Daniel Jones' Surprise Release by Colts, 'It Sucks' Bleacher Report",
+   "summary": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start ESPN The Colts cut QB Daniel Jones. Should the Cardinals make a claim? Yahoo Sports Colts to start Anthony Richardson Sr. at quarterback, release Daniel Jones Colts.com Colts officially place Daniel Jones on",
+   "body": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start ESPN The Colts cut QB Daniel Jones. Should the Cardinals make a claim? Yahoo Sports Colts to start Anthony Richardson Sr. at quarterback, release Daniel Jones Colts.com Colts officially place Daniel Jones on waivers NBC Sports Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess CBS Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1132,12 +1206,29 @@
    "lang": "en"
   },
   {
-   "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027 - 9to5Google",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bFljbGg2WGZXSUVrMzRYMjhhVGdPczM5Z2ZqZUkxdjdBN2xWaTdxQzlQT1VPSWxpYjlvSXMzck5MQy1GT3pFdE1faGZEZzNMdWpvMkRhMzRQeUtxMFdkM1c5c0oyRnJVb0RoZA?oc=5",
+   "title": "Trump says Putin ‘expressed his desire’ for end of Ukraine war - Arab News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlZHNWVuQy0zRHNDQy1SVGkyM0hDOENHZ2xpZG95S2FEcjZ6RFFGb2ZxZ3NnQkNEZmoyS2dBeHVPMmtrVnlUS1JSWlJ5MFRES2F3eHZtRDZiMVVPVUNsZW1OWmc5dDZlNnhaV0VmamctY1hScGxFTWZBQ1J3SFVvMjlzM3RaSE1lelFxeUZfTDd6ZDM3SDNNckh3WS05alJp?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T18:09:56+00:00",
+   "summary": "Trump says Putin ‘expressed his desire’ for end of Ukraine war Arab News",
+   "body": "Trump says Putin ‘expressed his desire’ for end of Ukraine war Arab News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Google says it’s going to shut off Google Assistant on smart speakers next year - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1NxS3B1TVlPLWRxRFczVHVpSm0wVXBJLXhsYWVLRTJYSlpQODBWRWZxakh4enAtSXltaUlpT0NjVlNTVFA3akFlQjRYRXFvZFd4ck92YWtaRXNfYzUwVjFBVFctNEQyNkVZYXRMLTZOOXhMTTRCYmctVlRRX1drUHM3Vm9XMXVpQWpVdEVmUFc3TVlTd0lmaldFSQ?oc=5",
    "source": "Google News",
    "published": "2026-11-20T18:00:00+00:00",
-   "summary": "Google retiring Nest app and Google Assistant on speakers, displays in 2027 9to5Google Google says it’s going to shut off Google Assistant on smart speakers next year The Verge Google Officially Killing Off Nest App and Google Assistant on Home Devices Droid Life Pixel users say ",
-   "body": "Google retiring Nest app and Google Assistant on speakers, displays in 2027 9to5Google Google says it’s going to shut off Google Assistant on smart speakers next year The Verge Google Officially Killing Off Nest App and Google Assistant on Home Devices Droid Life Pixel users say Google made a huge blunder with this decision PhoneArena Google Assistant will stop working on smart speakers and displays in August 2027 Android Authority",
+   "summary": "Google says it’s going to shut off Google Assistant on smart speakers next year The Verge Google Is Killing the Nest App. Here’s What Comes Next CNET Google retiring Nest app and Google Assistant on speakers, displays in 2027 9to5Google Google Officially Killing Off Nest App and ",
+   "body": "Google says it’s going to shut off Google Assistant on smart speakers next year The Verge Google Is Killing the Nest App. Here’s What Comes Next CNET Google retiring Nest app and Google Assistant on speakers, displays in 2027 9to5Google Google Officially Killing Off Nest App and Google Assistant on Home Devices Droid Life The Nest app is shutting down, and your saved clips won't make the move MakeUseOf",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1235,25 +1326,12 @@
    "lang": "en"
   },
   {
-   "title": "Puka Nacua will undergo knee surgery and likely miss the rest of the season - NBC Sports",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLU9YbDdyYi1qNlZNMHFkSk8weDI3emZMQWx1M3FfTWIwb1N6cHNaMHZoX3FYOUFsWUh6S0RIbUZuXzhHeGlUZm42Zlh3YjctR1p3YVhrRTdkbTItTGVCdFZnRkxUdHZ1TEFwTHJ1c2dJNHRXYjl6a2paRVMzMUFpYWZHUzNlWGgzY0FORWp3ZjFYajNnR2cxRUFTUlRmWjkzSElLQmJzZVRkQjRRY2thU0JTcUxpTVdYdTIwTVJSeHR2bVBzUUEtXzQxS2VkbGJNMVBB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T17:27:17+00:00",
-   "summary": "Puka Nacua will undergo knee surgery and likely miss the rest of the season NBC Sports Rams WR Puka Nacua to serve 3-game suspension while on IR ESPN Commentary: Without Puka Nacua, the Rams are done Los Angeles Times Rams WR Puka Nacua likely out for season after undergoing knee",
-   "body": "Puka Nacua will undergo knee surgery and likely miss the rest of the season NBC Sports Rams WR Puka Nacua to serve 3-game suspension while on IR ESPN Commentary: Without Puka Nacua, the Rams are done Los Angeles Times Rams WR Puka Nacua likely out for season after undergoing knee surgery NFL.com Injury Updates: Puka Nacua out for 'couple months' as he will undergo MCL surgery; Kobie Turner expected to return to practice; latest on Terrance Ferguson, Davante Adams and Justin Dedich Rams",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5",
    "source": "Google News",
    "published": "2026-11-20T17:26:00+00:00",
-   "summary": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ The Guardian Massive hope for pancreatic cancer pill after trial saw tumours vanish BBC New pancreatic cancer drug halts tumour growth in 90% of patients Financial Times Breakthrough pancreatic cancer pil",
-   "body": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ The Guardian Massive hope for pancreatic cancer pill after trial saw tumours vanish BBC New pancreatic cancer drug halts tumour growth in 90% of patients Financial Times Breakthrough pancreatic cancer pill is ‘closest thing to a cure’ The Telegraph RevMed pads Rasonque’s first-line survival advantage in pancreatic cancer with early data BioSpace",
+   "summary": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ The Guardian Massive hope for pancreatic cancer pill after trial saw tumours vanish BBC Jenks man with stage 4 pancreatic cancer shares how new treatment changed his life KTUL New pancreatic cancer drug h",
+   "body": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ The Guardian Massive hope for pancreatic cancer pill after trial saw tumours vanish BBC Jenks man with stage 4 pancreatic cancer shares how new treatment changed his life KTUL New pancreatic cancer drug halts tumour growth in 90% of patients Financial Times Breakthrough pancreatic cancer pill is ‘closest thing to a cure’ The Telegraph",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1291,22 +1369,6 @@
    "lang": "en"
   },
   {
-   "title": "Opinion | Ukraine’s Long Russian War - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T17:14:37+00:00",
-   "summary": "Opinion | Ukraine’s Long Russian War WSJ",
-   "body": "Opinion | Ukraine’s Long Russian War WSJ",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
    "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
    "source": "NYT World",
@@ -1322,63 +1384,17 @@
    "lang": "en"
   },
   {
-   "title": "Teenage Engineering’s first CD player puts the spinning disc on display - The Verge",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWtzUmY5ZUFJOUJ5OHpEa2FlSkQxUjBNeGdiRDROcjlzYmVxdk54Qk9BZkt1SWo3WlhNbjUxM2staTV1UDVoQmhGZWpiQlRTYllZNmdOSEp2OGgxQWFZbXVKek1MdkJiTU5wV2Nub3FKVG13Q2dhMk16amY4akJTWU5pblRJV0U1eDZGQ3E3bEdDeE51bFY4eFJ6Z25zdVpuU3NSN2kwUGF3N2VzaENKV0Z0VGhQdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T17:05:52+00:00",
-   "summary": "Teenage Engineering’s first CD player puts the spinning disc on display The Verge Teenage Engineering Announces EP-BC-1 CD Player Gizmodo Teenage Engineering's First CD Player Kind Of Looks Like A Turntable Engadget Teenage Engineering's first CD player lets the discs spin and sh",
-   "body": "Teenage Engineering’s first CD player puts the spinning disc on display The Verge Teenage Engineering Announces EP-BC-1 CD Player Gizmodo Teenage Engineering's First CD Player Kind Of Looks Like A Turntable Engadget Teenage Engineering's first CD player lets the discs spin and shine with a gorgeous retro design Stuff Teenage Engineering EP/BC-1: the EP series gets a CD player with hidden talents synth anatomy",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Top US Democrat warns Trump admin against destroying records",
-   "link": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T17:05:42+00:00",
-   "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-   "body": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-   "category": "USA / Americas",
+   "title": "Opinion | Ukraine’s Long Russian War - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T17:12:00+00:00",
+   "summary": "Opinion | Ukraine’s Long Russian War WSJ",
+   "body": "Opinion | Ukraine’s Long Russian War WSJ",
+   "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
-   "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T17:05:32+00:00",
-   "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
-   "body": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2278780993-1789562315.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTVkaW82MGx1SWNybXFWVUtWWUZQM2hGcmVMVkNqNW5LOG1EUk5ENUpNVTNGcUJvVUJxTVRkREVhbkQwcVZLMDNmZ1J4VUI1UkliMDZELTZkTWU4TTRta195dTFvbW1FRFhzVVdfRlhPSDdaTWNMQlJkZE9IQ3oxd1RVM2JhUnFTOUlEZEstYjRZeUxTa3pHZHBhOVVPTjh1Y2VEZjBR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T17:01:20+00:00",
-   "summary": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash NBC News Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’ The New York Times Trump vs. America The Atlantic Trump defends Putin relationship, warns AI data centres must stay in US Al Jazeera WATCH: After calling Putin his",
-   "body": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash NBC News Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’ The New York Times Trump vs. America The Atlantic Trump defends Putin relationship, warns AI data centres must stay in US Al Jazeera WATCH: After calling Putin his friend, Trump 'can't speak to' whether Putin is a friend to America PBS",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1388,8 +1404,8 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lQU9XS2I5YkRtakpEUmFGRWM4YnBDaGRwaEptMzk2QUdBMnZnejVId1ZvUEdPZ1d4MTdkN2lfVFpWR2FlNkRhYnZWeUp6LVpjTzFlMHpKS3NSYl9wVklTQjVxMmRLUzlWa2VTeUdhaG1TalNJNFlSMA?oc=5",
    "source": "Google News",
    "published": "2026-11-20T16:55:45+00:00",
-   "summary": "Pete Davidson Dating Brooks Nader's Sister Sarah Jane TMZ Are Pete Davidson and Sarah Jane Nader Officially Dating? The Truth E! News Who is Sarah Jane Nader? The ‘Love Thy Nader’ star linked to Pete Davidson The Express Tribune Pete Davidson and Brooks Nader’s Sister Sarah Jane ",
-   "body": "Pete Davidson Dating Brooks Nader's Sister Sarah Jane TMZ Are Pete Davidson and Sarah Jane Nader Officially Dating? The Truth E! News Who is Sarah Jane Nader? The ‘Love Thy Nader’ star linked to Pete Davidson The Express Tribune Pete Davidson and Brooks Nader’s Sister Sarah Jane Spotted Together Again Months After First Date Yahoo Former SNL Star Revealed to Be Dating Reality Star Sarah Jane Nader The Daily Beast",
+   "summary": "Pete Davidson Dating Brooks Nader's Sister Sarah Jane TMZ Are Pete Davidson and Sarah Jane Nader Officially Dating? The Truth E! News Pete Davidson’s Latest Romance Is a Nader Family Affair — Source AOL.com Pete Davidson and Brooks Nader’s Sister Sarah Jane Spotted Together Again",
+   "body": "Pete Davidson Dating Brooks Nader's Sister Sarah Jane TMZ Are Pete Davidson and Sarah Jane Nader Officially Dating? The Truth E! News Pete Davidson’s Latest Romance Is a Nader Family Affair — Source AOL.com Pete Davidson and Brooks Nader’s Sister Sarah Jane Spotted Together Again Months After First Date Yahoo Former SNL Star Revealed to Be Dating Reality Star Sarah Jane Nader The Daily Beast",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1443,32 +1459,16 @@
    "lang": "en"
   },
   {
-   "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYi1ZZG5NSXVnME9yZ3h3bmZzWGx3Q0hVX2lVOW1xa1cwbFhMU3dlZWRsVDdtWTIzWXB1OEsteEpzcUo2Um9OakpBb0FwR1N4RnlqYnh6TnZXS3JlMmlMVVpyd2xmRlJncVdHaG9ZSHhBSHdja3k0RklwaEFBbHF3c2tGUERSZi1kNFIwejFTZWlEbi1fZ1E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T16:46:00+00:00",
-   "summary": "Fired White House press secretary Katie Zacharia under California state bar investigation The Guardian California Bar investigating ex-White House press secretary Katie Zacharia The Washington Post Trump Ex–Press Secretary’s Claim to Be Lawyer Comes Back to Bite Her The New Repub",
-   "body": "Fired White House press secretary Katie Zacharia under California state bar investigation The Guardian California Bar investigating ex-White House press secretary Katie Zacharia The Washington Post Trump Ex–Press Secretary’s Claim to Be Lawyer Comes Back to Bite Her The New Republic Katie Zacharia under investigation over legal work in California, state bar says The Independent Katie Zacharia faces bar investigation, adding to ex-White House press secretary’s woes MS NOW",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDdELUI3RVJITHJubkdreVZyVEVNSGFjV0hZRnZ6WlMzRG03NXBOclVuaktKX2ZHTVBNSEJXeUpmOE13ejhxdE1WUXQ3bl9VckVBbkhBdUt2Y1JoLVpWSEtIQmNMcEpOY0QwTlFqdFhYTEt6bDh2RWdfelhQcWFsdEpYY1BHVVgtUXdCQ29jWGdQVEx4TlAwdWRMZW13bElkaFVtSVJMZGNzbXk5anBGSWxaQdIBuAFBVV95cUxPd1dodnduMjZCVVl6VWFCOElnZWRTeFpEbjBhSmlVWkFVeDR2M2pEVkNzOGxTYmVtcWp5OWxyX2M2OTRyUG1xaGsyTlNxZWV3VE1Sb2xrWFNzLTU0RnpGQXR1ZHZrTzRfYkdBdFZRS1BSWHkxeUNUdV9UUG1kQjFFTEdIbEs0TUEyZzN3YVFreG1nQVRkZVpUQWN1SVh5UHpXeDJuZnJCcXB5dzktZFg4TWZ3QU1jNVVG?oc=5",
    "source": "Google News",
    "published": "2026-11-20T16:43:36+00:00",
-   "summary": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group Al Jazeera Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia The New York Times Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold Al Jazeera Iraqi security forces deploy ",
-   "body": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group Al Jazeera Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia The New York Times Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold Al Jazeera Iraqi security forces deploy in Iran-backed militia stronghold Reuters Iraq's Oil Crackdown Sparks New Showdown With Kurdistan Crude Oil Prices Today | OilPrice.com",
+   "summary": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group Al Jazeera Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia The New York Times Iraqi security forces deploy in Iran-backed militia stronghold NBC News Iraq begins taking back town held for a deca",
+   "body": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group Al Jazeera Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia The New York Times Iraqi security forces deploy in Iran-backed militia stronghold NBC News Iraq begins taking back town held for a decade by Iran’s strongest militia ally Iran International Iraqi forces strike compromise with powerful pro-Iran militia, security officials say Reuters",
    "category": "Middle East",
    "is_war": false,
    "countries": [
     "Iran",
-    "Lebanon",
     "Iraq"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1479,11 +1479,12 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmVjTjdkNHlOblhnb2VXeEs0cDJIRXJDVld1cGxReUt1M0hZa2xTaERxTm9UalVMaWJvdFFDaVB0ZUVYZ09OOFc1Z1dQai1WdXQxangxcmd2US1jWmJWUFN2V191M29xN3pQWExPRU1HU3BONVQ3ZmcxY0NuWVRNcl90bk9fMV9uSDA1Q1pyaW4zMUtYSG9BWGctdmI?oc=5",
    "source": "Google News",
    "published": "2026-11-20T16:34:28+00:00",
-   "summary": "Scalise backs Senate-passed permitting bill Politico Senate Passes Major Permitting Bill to Speed Up Energy Projects The New York Times These 14 Democratic senators voted to loosen environmental laws to speed up energy build-out The Hill Senate passes bipartisan energy bill amid ",
-   "body": "Scalise backs Senate-passed permitting bill Politico Senate Passes Major Permitting Bill to Speed Up Energy Projects The New York Times These 14 Democratic senators voted to loosen environmental laws to speed up energy build-out The Hill Senate passes bipartisan energy bill amid environmental concerns NPR Senate passes BAAJA permitting reform bill backed by AI, energy sectors CNBC",
+   "summary": "Scalise backs Senate-passed permitting bill Politico Senate Passes Major Permitting Bill to Speed Up Energy Projects The New York Times Opinion | America is one vote away from getting back to building The Washington Post These 14 Democratic senators voted to loosen environmental ",
+   "body": "Scalise backs Senate-passed permitting bill Politico Senate Passes Major Permitting Bill to Speed Up Energy Projects The New York Times Opinion | America is one vote away from getting back to building The Washington Post These 14 Democratic senators voted to loosen environmental laws to speed up energy build-out The Hill Senate passes bipartisan energy bill amid environmental concerns NPR",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
+    "United States",
     "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1585,8 +1586,8 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5",
    "source": "Google News",
    "published": "2026-11-20T16:17:15+00:00",
-   "summary": "Donald Trump seeks Ukraine peace deal before January Financial Times Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine CNBC Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner The Guardian Kush",
-   "body": "Donald Trump seeks Ukraine peace deal before January Financial Times Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine CNBC Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner The Guardian Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine AP News Russia Rejects Any Deal Letting Ukraine Join NATO, Ryabkov Says Bloomberg.com",
+   "summary": "Donald Trump seeks Ukraine peace deal before January Financial Times Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine CNBC Donald Trump latest: 'Stupid' to criticise my relationship with Xi and Putin, says US president Sky News Ukraine war ",
+   "body": "Donald Trump seeks Ukraine peace deal before January Financial Times Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine CNBC Donald Trump latest: 'Stupid' to criticise my relationship with Xi and Putin, says US president Sky News Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner The Guardian Russia Rejects Any Deal Letting Ukraine Join NATO, Ryabkov Says Bloomberg.com",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -1602,29 +1603,14 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTB6R0ZhbXhNWkRWbUkxTkZHbGttbTRkb1dVOTdpSGhjZVVqLWFUbmxLVDVHN0NRRlRWV2VtZmVLdUcxQTV6NEloaEYtOW54bGs1aXI2R3NqNlMxVkZuV21sYWthLXJyZmdVR0hlUkg0RGZCYVVwOURQMmt6NzB2R2pDcDZrX2Q5RXRtZVZFT0Frem9ncnl0OU0wOE5PY1JqWHFOX2k5dlozZWh4VHIxWU1Bel9pNE9takQ0?oc=5",
    "source": "Google News",
    "published": "2026-11-20T16:11:00+00:00",
-   "summary": "'Potent' storm will hit a huge stretch of the East Coast USA Today Thanksgiving weather forecast: Coastal storm could bring rain to Tri-State ABC7 New York As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast The New York Times Tropical wind and rainstorm to streak ",
-   "body": "'Potent' storm will hit a huge stretch of the East Coast USA Today Thanksgiving weather forecast: Coastal storm could bring rain to Tri-State ABC7 New York As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast The New York Times Tropical wind and rainstorm to streak north near US East Coast this weekend into next week AccuWeather East Coast storm could become 'Kyle' this weekend The Weather Channel",
+   "summary": "'Potent' storm will hit a huge stretch of the East Coast USA Today Thanksgiving weather forecast: Coastal storm could bring rain to Tri-State ABC7 New York Tropical wind and rainstorm to streak north near US East Coast this weekend into next week AccuWeather As a Storm Floods Flo",
+   "body": "'Potent' storm will hit a huge stretch of the East Coast USA Today Thanksgiving weather forecast: Coastal storm could bring rain to Tri-State ABC7 New York Tropical wind and rainstorm to streak north near US East Coast this weekend into next week AccuWeather As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast The New York Times East Coast storm could become 'Kyle' this weekend The Weather Channel",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-   "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-   "source": "NYT World",
-   "published": "2026-11-20T16:05:55+00:00",
-   "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-   "body": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
@@ -1639,6 +1625,21 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/4K7RJKTN4RBA7EVVQPWIIZPVYQ.jpg?auth=eb2c3aab19fc7be2ced4ec37f65f6a5464581e48c53e42ac5773f0278b42628c&smart=true&width=1500",
    "lang": "my"
+  },
+  {
+   "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUZMem9UVUdZSHhwNXRZQmZPYUtMdWJ4ZXJ5bnBaZEFyLWxqeXBKdUZrQlBqRVNnaHJWOUU4Vkh2bXcxZDdzbDhPVjRFRk1NbnRhaTc1dWRyeEJ4VUFyR1RfYktpYmZJSDhvQ3ZBdmtEVTkyNW4zOTA4OTRTcEdTZU9aUFNHWE9XV0laMHMxQzNSeGd2WUdjOU5KWGl2dEdSb2pia0FjQy0xTE5PWUhFNGFjSEo3U0h0RHJzbV8ybFNfWTEwTkdvZmlJRjJ2QXFId29XYWlIbFVlSEdEa2ZVTGxzV19TZUNlc29kbjV3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-20T16:00:00+00:00",
+   "summary": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe Barron's EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say Reuters Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting Yahoo Finance Jensen Huang'",
+   "body": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe Barron's EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say Reuters Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting Yahoo Finance Jensen Huang's — and Nvidia's — legal exposure balloons CNBC Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang WSJ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "GIC, one of Anthropic’s largest investors, to stay invested beyond IPO",
@@ -1659,7 +1660,7 @@
    "source": "Google News",
    "published": "2026-11-20T15:46:00+00:00",
    "summary": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge CBS Sports 5 games, storylines that could alter the next College Football Playoff rankings NCAA.com College football picks: Predictions against the spread, odds, betting lines for top 25 ga",
-   "body": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge CBS Sports 5 games, storylines that could alter the next College Football Playoff rankings NCAA.com College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 12 CBS Sports College football score projections Week 12: Model predicts every FBS vs. FBS game The New York Times CFB Week 12 best bets: Breaking down the numbers for Texas Tech, Kentucky and more ESPN",
+   "body": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge CBS Sports 5 games, storylines that could alter the next College Football Playoff rankings NCAA.com College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 12 CBS Sports College football score projections Week 12: Model predicts every FBS vs. FBS game The New York Times KSL Sports Pick'em: Staff picks for Week 12 of college football KSL",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1777,6 +1778,37 @@
    "lang": "en"
   },
   {
+   "title": "As war drags on, former Ukrainian president asks what’s next - University of Chicago News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTZ3TFBmRksxN2l1SktwRnh1VDRaTzMyallyX2tqWENLVEV3eDlfdVhwaExyMUdGZDJtSTJFTDE1UEZXRF9Fc2VpSEt3LWhSWjNHcWlGdmQzZGx5dGxFQjZwYzlEaFRacDRQcEVKdFBkcTlUcmczR2xkN1Iydkx3R1FSY3RucUFoTnFLbw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T15:01:34+00:00",
+   "summary": "As war drags on, former Ukrainian president asks what’s next University of Chicago News",
+   "body": "As war drags on, former Ukrainian president asks what’s next University of Chicago News",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0lyUzFUbGtKdUpJRmQ5eE1DT3c1QmE1RFdHOTdDNjRHNkVQSEIwSTN6eXVtUllIMFJWM3pWd0g0RTRRRUhhazlIVlY1Y29nelc5Sk93X3hyVng0b1BmV3ZOMWN3bnhNU0NNaGJoaV8wWnNRc01lakY2Zy1ZSWRILXdid2U1cW1Kby05ZkxDTW9XWWNJTG0zMVFEdjk1ZGdURktjODJkWdIBrAFBVV95cUxQUzJzcWRXOGZtQU81NmZYaFNzaklQYzhtdHNUZWVWMUFjVHlPa1dmb0RCN1AxSVZEV0plazBYS09oYmhGNXY4WFZvcVZKU05JT1JMekpfR2pFNWpnUVJ5bHpsbl8xZFRreGdtUkhkWkE2cWZnVEYtbmc0X2VpeldEc21LaXdwU0cteVYtaUlSeFk4bmNYekpXYVc5UUdxd01SMVhGXy1BMXhJcXNx?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-20T14:59:12+00:00",
+   "summary": "Saudi coalition and Houthis exchange threats to bomb key ports Al Jazeera",
+   "body": "Saudi coalition and Houthis exchange threats to bomb key ports Al Jazeera",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump speaking to press after historic Xi-Putin talks questions over Ukraine War linger - New York Post",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUFYZGFEbEZUMVVLMmd0YjhxZy1jUEtJNENLVEdvZ1ZEQU51MklmbVZwRWtrcjQtczFGaTY2VklETnlqMl9rTk9FRXhtV2pKTHZ3MFRqaU9YbTdyMGk3VzZwb0tjOTUyRkc2WjduR2ZmRlMwMlo4TmVDNDRuNjNfV0lfaktfQTFncXE2XzBfR2xDdnNUcjlKTlQyOU1ZRnVnMlRvc3MyRFhHMV9jZ3N5ZWlpQ0ZweC1jbTRnUVJlYUhVQQ?oc=5",
    "source": "Google News · Ukraine",
@@ -1798,8 +1830,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
    "source": "Google News",
    "published": "2026-11-20T14:20:05+00:00",
-   "summary": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More MacRumors I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN Apple AirPods Max 2 Just Got Cheaper Overnight as Amazon Pushes Its Black Friday Discount Even Furth",
-   "body": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More MacRumors I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN Apple AirPods Max 2 Just Got Cheaper Overnight as Amazon Pushes Its Black Friday Discount Even Further Gizmodo Best Black Friday Apple deals 2026: 14 early deals on AirPods, MacBooks Mashable Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More MacRumors",
+   "summary": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More MacRumors I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More MacRumors Apple AirPods ",
+   "body": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More MacRumors I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More MacRumors Apple AirPods Max 2 Just Got Cheaper Overnight as Amazon Pushes Its Black Friday Discount Even Further Gizmodo Best Black Friday Apple deals 2026: 14 early deals on AirPods, MacBooks Mashable",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1840,10 +1872,42 @@
    "source": "Google News",
    "published": "2026-11-20T14:05:00+00:00",
    "summary": "A supermoon is on the way. Why it will be extra impressive Detroit Free Press A Rare Streak of Supermoons Is About to Begin National Geographic First of 3 ‘supermoons’ to peak soon over Kansas. When to catch a glimpse Wichita Eagle Supermoon could worsen king tide flooding before",
-   "body": "A supermoon is on the way. Why it will be extra impressive Detroit Free Press A Rare Streak of Supermoons Is About to Begin National Geographic First of 3 ‘supermoons’ to peak soon over Kansas. When to catch a glimpse Wichita Eagle Supermoon could worsen king tide flooding before Thanksgiving AccuWeather I Have Chased a Dozen Supermoons. Here Is the Exact Time You Should Look Up Next Week. Outside Magazine",
+   "body": "A supermoon is on the way. Why it will be extra impressive Detroit Free Press A Rare Streak of Supermoons Is About to Begin National Geographic First of 3 ‘supermoons’ to peak soon over Kansas. When to catch a glimpse Wichita Eagle Supermoon could worsen king tide flooding before Thanksgiving AccuWeather Big supermoon energy this winter in Middle Tennessee WSMV",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV05IRUNlamU5MEozb3hNeWtqMG5ja2lLbVdBME0wTVppd0VYZjdzMEZxanZzQmRZb3piaU1la3AxVDdiLWsxUDYwVk96Y1RwcHZ3UzhrMzdlYXRGTE54MUE1bE82SGNab0lTcEtSTVI4WXB0N0NqakUzMTctTUtyTnlhUHl6Q2lrSUJTaGEyOVRBb2ZMWkhheTFwUUtJSS1kZ0NfTmU1TzM0X2tENU1kY2NERDVDWVNsRjNNc3JQM3hFVXJ5SFphcHBCS3dPUXBEY1FkVXZBNWJHQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T14:04:00+00:00",
+   "summary": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland Sky News",
+   "body": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland Sky News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "How Beijing’s South China Sea stance benefits from rare joint warning to the ICC - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmxzU3hmeGZlSWMxZ1gwUGNQTWsxOXlMZUFYa2hucFg0N3E5UnU2cUZXNGZ4WFpieURGN1lHYVhNMTM5Z0FMdU5yLTgxQjB1cHhiLVN3VXZmUERuMXZ3M2FiVTJHRVVJVDd1QVh4T1h6VmhJX0Fma3JYRHpqbElTTXZFZUFhVFFSYWNwMWFBZ2VfbTJzalc4QkdZRmRtaVNvMEFfYUJoUmpxQU9mbW1zZEJUUU9ncVVMa1dCd2VSWEZhODDSAcMBQVVfeXFMT3RoZVdlLXc5d1d1Wk5JNDZCMW9ZMGxqOWJWNGdaRFE3SEN4RDVuWVdfSU03MnhzMVNlbUhrcFlEcDJYTDVhYkwwcHJ0Y1NOd09UUVhfZ2lyOWM0SzhOWVdhalUyNTg3THRDNmFmY2RVLVNOODQyRjFRQXFLNlRoLTZTNWNxdF8wMnp1VV9wSGxuWWR0QXpQcjZqY2NBbVdmMEhURTdBYTJsSld2SjhHVlpZaS1FRFdnV1NsZXZYNjlOb2NJ?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-20T14:00:05+00:00",
+   "summary": "How Beijing’s South China Sea stance benefits from rare joint warning to the ICC South China Morning Post",
+   "body": "How Beijing’s South China Sea stance benefits from rare joint warning to the ICC South China Morning Post",
+   "category": "Asia-Pacific",
+   "is_war": true,
+   "countries": [
+    "China"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1876,53 +1940,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/money20Nov26feat-900x476.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Massie says GOP ‘already in a minority’ due to absences",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTJOVDMzdFdlRy0zOS12NTd1TkdjS3ZQdzg4aGM5WGR3cmx3T1BSQWcyTUxlcTE4R1pIZmh5ZVhfNEcxZ2c1S0FOWmVWUUgweU5qSkJkUWhEWk8yc2kxVVJyYXBqRlRyMi1taDVReVBXOVFPRnJRTmM2SENoYWIzTEtjSVZ5Y2FmYlpYVHZxUVVJUDBHM19Ucjd6TnBqQdIBowFBVV95cUxNeGM1SjhSYU5oYkNVajVzekd3TlBSUVdEbG5md2VzU3k3ank0UllORTNZZHEyVWV5a0Z3YTM4U0VqcEc0VzVNY2xONDUyUEtGVWpkTnZjNHpkemZCTGdfVEV1RGplU1cyQjBrTkN1c1N6T2dLY0dXR3ZoZjFOcFZFYnREeU1FMGxKei1jU09CYXlYS2JFdEFWRWRTQWdmd3RRaGh3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T13:48:00+00:00",
-   "summary": "Massie says GOP ‘already in a minority’ due to absences The Hill GOP leaders fume after members who lost reelection are no-shows CNN Mike Johnson Begs Deadbeat House Republicans to Come to Work New York Magazine The House has a new lame-duck challenge: Attendance Roll Call Mike J",
-   "body": "Massie says GOP ‘already in a minority’ due to absences The Hill GOP leaders fume after members who lost reelection are no-shows CNN Mike Johnson Begs Deadbeat House Republicans to Come to Work New York Magazine The House has a new lame-duck challenge: Attendance Roll Call Mike Johnson’s message to House Republicans: Show up for work Politico",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Gen. Jack Keane on Trump administration's push to end Russia-Ukraine war",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Yak9Eb0FOYjZjYlR6QVhIQmRjQS1wa1NQa2RyZUYzeVQzNUJaUl96R3RiT2lGWVRKYmxGV1hMeHhTNGR2bDVHOGZWSGN6TFZnTjNpNUhB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T13:47:42+00:00",
-   "summary": "Gen. Jack Keane on Trump administration's push to end Russia-Ukraine war Fox News",
-   "body": "Gen. Jack Keane on Trump administration's push to end Russia-Ukraine war Fox News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UEdES3RsVmhXQzVxOEhGV3Z1c3BnRWNvNngta3FsMkxpU1c4TXlsYXNibjFHYWNUUE4wNElCazdvQUlyVWROSU5Pb0ZINTJZWWpwY3cxRWRyMkNoQlZsZi0wNGlNWGVX?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T13:38:01+00:00",
-   "summary": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
-   "body": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "China",
-    "Germany"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "ICJ စီရင်ချက် အမှန်တရားဘက် ရပ်တည်မယ်လို့ AA ပြော",
@@ -2188,19 +2205,6 @@
     "Myanmar"
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/signal-2026-11-19-15-42-47-335_002-1024x708.jpeg",
-   "lang": "my"
-  },
-  {
-   "title": "ငွေတန်ဖိုးကျခြင်းက နယ်စပ်ကုန်သွယ်ရေး ပိုခက်ခဲပြီး ထိုင်းကုန် ၃၀ ရာခိုင်နှုန်း ဈေးတက်နိုင်",
-   "link": "https://burma.irrawaddy.com/news/2026/11/19/417726.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-19T11:22:49+00:00",
-   "summary": "မနေ့ကလည်း မင်းအောင်လှိုင်က လစာတိုးပေးမှာတွေ ဘာတွေပြောထားသေးတော့ ကျပ်ဈေးထပ်ကျနိုင် သေးတယ်။ ဘတ်တက်နေတဲ့အချိန် သူက အဲလိုပြောတော့ ပိုဆိုးသွားတယ်။ ဒိုင်တွေကတော့ မနက်ပိုင်းဆို နည်းနည်းဝယ်တယ်။ နေ့လယ်လောက်ဆို ပိတ်သွားပြီ။ လိုမှပဲ ရှာဝယ်တဲ့အခြေအနေဖြစ်နေပြီ” ဟု ၎င်းက လက်ရှိငွေကြေးဈေးကွက် အ",
-   "body": "အမေရိကန်ဒေါ်လာ၊ ထိုင်းဘတ်၊ တရုတ်ယွမ် ငွေလဲနှုန်း အတက်ကြမ်းကာ မြန်မာကျပ်ငွေတန်ဖိုး ဆက်ကျလာနေသဖြင့် နယ်စပ်ကုန်သွယ်ရေးအခက်အခဲနှင့် ရင်ဆိုင်ရပြီး ထိုင်းကုန်များ ၃၀ ရာခိုင်နှုန်းခန့် တက်လာနိုင်ကြောင်း ကုန်သည်တို့က သတိပေးသည်။\n\nယနေ့ နိုဝင်ဘာ ၁၉ ရက် အမေရိကန်တဒေါ်လာ ၅၀၇၀ကျပ်၊ တရုတ်ငွေ တယွမ် ကျပ် ၇၇၀၊ ကျပ် ၁သိန်းကို ၆၆၀ ဘတ်အထိ မြန်မာငွေက ကျဆင်းခဲ့သည်။\n\nနေ့စဉ်ငွေလဲလှယ်နှုန်းက အပြောင်းအလဲ မြန်ဆန်နေသဖြင့် နယ်စပ်ကုန်သည်တို့ ကုန်ဝယ်ရာ ငွေချေရန် ခက်လာပြီး ကုန် များပြန်ဖြည့်ဖို့ အရင်းအနှီးပိုထုတ်လာရသဖြင့် အရောင်းအဝယ်ထိခိုက်လာနေကြောင်း သိရသည်။\n\nရန်ကုန်ဈေးကွက်တွင် အရင်ထက် အရောင်းအဝယ်အေးကာ ထိုင်းမှသွင်းသည့် စားသုံးဆီ၊ ဆပ်ပြာမှုန့် အခြားလူသုံးကုန် ပစ္စည်းများမှာ ငွေဈေးအပြောင်းအလဲကြောင့် ဈေးမတည်ငြိမ်မှုများ ဖြစ်ပေါ်နေကြောင်း ထိုင်းကုန်လက်လီ လက်ကားဖြန့် နေသည့် ကုန်သည်တဦးက ဧရာဝတီသို့ ပြောသည်။\n\n“ရန်ကုန်ဈေးကွက်မှာ အရောင်းအဝယ် မကောင်းတော့ဘူး။ ထိုင်းပစ္စည်းတွေက ဒီနေ့ဝယ်တဲ့ဈေးနဲ့ နောက်နေ့ပြန်ဝယ်တဲ့ ဈေး မတူတော့ဘူး။ ဒီနေ့ဝယ်ထားတဲ့ပစ္စည်းကို နောက်နေ့ ပြန်ဝယ်ဖို့ဆိုရင် ဈေးပိုပေးရတဲ့အတွက် အမြတ်ထဲကနေ အရင်း ပါ ပြန်ဖြည့်နေရတဲ့ အခြေအနေ၊ ဆီ၊ ဆပ်ပြာမှုန့်အပါအဝင် လူသုံးကုန်ပစ္စည်း အမျိုးမျိုးမှာ ဒီလိုဖြစ်နေတယ်။ ဘတ်ဈေးခုန် တက်လာတော့ ကုန်ပစ္စည်းဝယ်ယူဖို့တောင် မလွယ်တော့ဘူး။ ငွေဈေးအပြောင်းလဲက ကုန်ဈေးနှုန်းတွေ ၃၀ ရာခိုင်နှုန်း လောက်အထိ ထပ်တက်လာနိုင်တယ်” ဟု ၎င်းက ပြောသည်။\n\nအလားတူ ထိုင်း- မြန်မာနယ်စပ်ရှိ ငွေလဲဒိုင်ကြီးများလည်း မနက်ပိုင်းသာ ငွေလဲလှယ်မှုအချို့လုပ်ကြပြီး နေ့လယ်ပိုင်းမဖြစ် မနေလိုအပ်မှ ကျပ်ငွေကို လက်ခံလဲလှယ်ပေးနေကြောင်း မြဝတီမြို့ရှိ ငွေလဲလုပ်ငန်း လုပ်ကိုင်သူ တဦးက ဧရာဝတီသို့ ပြောသည်။\n\n“မနေ့ကလည်း မင်းအောင်လှိုင်က လစာတိုးပေးမှာတွေ ဘာတွေပြောထားသေးတော့ ကျပ်ဈေးထပ်ကျနိုင်သေးတယ်။ ဘတ်တက်နေတဲ့အချိန် သူက အဲလိုပြောတော့ ပိုဆိုးသွားတယ်။ ဒိုင်တွေကတော့ မနက်ပိုင်းဆို နည်းနည်းဝယ်တယ်။ နေ့လယ်လောက်ဆို ပိတ်သွားပြီ။ လိုမှပဲ ရှာဝယ်တဲ့အခြေအနေဖြစ်နေပြီ” ဟု ၎င်းက လက်ရှိငွေကြေးဈေးကွက် အခြေ အနေကို ရှင်းပြသည်။\n\nငွေလဲနှုန်းအတက်အကျကြမ်းပြီး ဈေးကွက်တွင်းကွာဟချက် ကြီးသည့်အတွက် ကုန်သည်အများအပြားမှာ ငွေကြေး ဆုံးရှုံး နိုင်ခြေကို လျှော့ချရန် အရေးတကြီး မလိုအပ်သည့် ကုန်အမှာနှင့် ငွေပေးချေမှုများကို ယာယီဆိုင်းငံ့ထားခြင်း၊ ငွေပေးချေမှု များကို အရစ်ကျခွဲဆောင်ရွက်ခြင်းတို့ လုပ်ကြရကြောင်း မွန်ပြည်နယ်ရှိ ပို့ကုန်၊ သွင်းကုန်လုပ်ငန်းရှင်တဦးက ဧရာဝတီသို့ ပြောသည်။\n\nယင်းအခြေအနေများကြောင့် ကုန်တင်သွင်းမှုနှင့် အရောင်းအဝယ်လုပ်ငန်းများ နှေးကွေးလာနိုင်သလို ကုန်ပြန်ဖြည့်တင်း ရန်လည်း ကြန့်ကြာလာနိုင်ကြောင်း ၎င်းက ဆိုသည်။\n\nတရုတ်နယ်စပ်တွင်လည်း ယွမ်ငွေလဲနှုန်း မြင့်လာမှုကြောင့် ငွေလဲလုပ်ငန်းများနှင့် ကုန်သွယ်ရေးလုပ်ငန်းများ အခက်အခဲ ရှိနေပြီး တယွမ်လျှင် ကျပ် ၇၇၀ ကျော်အထိ ရောက်ရှိနေကြောင်း တရုတ်နယ်စပ် ငွေလဲလုပ်ငန်း လုပ်သူများထံက သိရသည်။\n\nနယ်စပ်ငွေလဲလုပ်ငန်းလုပ်သူ အမျိုးသမီးတဦးက “တယွမ်ကို ၇၆၉ ကျပ်နဲ့ ဝယ်ပြီး ၇၇၀ ကျပ်နဲ့ ပြန်ရောင်းလိုက်ပေမဲ့ နောက်တကြိမ် ပြန်ဝယ်တဲ့အခါ ၇၇၂ ကျပ်ဖြစ်သွားရင် အရှုံးပေါ်သွားပြီ။ ကျပ်ငွေကိုင်ထားလေလေ ရှုံးလေလေဖြစ်နေ တယ်။ ငွေလဲဒိုင်တွေက လုပ်ငန်းရပ်ထားတာမျိုး မရှိပေမဲ့ ငွေဈေးက အဆမတန်တက်နေတော့ ဈေးနှုန်းထိန်းသိမ်းဖို့ ခက်ခဲလာတယ်။ ဒီတော့ တနေရာနဲ့တနေရာ ဈေးနှုန်းမတူတော့ဘဲ ကြိုက်ရောင်း ကြိုက်ဝယ်ပုံစံမျိုး ဖြစ်နေတယ်” ဟု ပြောသည်။\n\n၂၀၂၄ ခုနှစ်က ယွမ် ၁၀၀ ကျပ်တသိန်းပေးလဲခဲ့ရသည့် အခြေအနေမျိုး ပြန်ဖြစ်နိုင်သည့်အထိ ယွမ်ငွေလဲနှုန်းက ဆက်မြင့် နိုင်ပြီး ငွေဈေးမတည်ငြိမ်မှုကြောင့် တရုတ်နယ်စပ်ကုန်သည်များလည်း မဖြစ်မနေလိုအပ်သည့် ကုန်ပစ္စည်းများကိုသာ ဝယ်ယူခြင်းလုပ်လာသည်။\n\nအထက်ပါ ငွေလဲလုပ်ငန်းလုပ်ကိုင်သူ အမျိုးသမီးက “အခုလို ငွေဈေးတက်နေတဲ့အချိန်မှာ ကုန်သည်တွေက ဝယ်ယူမှုကို လျှော့ချလာကြတယ်။ ကုန်ပစ္စည်းဈေးနှုန်းတွေကတော့ ထပ်တက်ဖို့ သေချာသလောက်ရှိနေပြီး တရုတ်ဘက်က သယ်ယူ ပို့ဆောင်ရေး တန်ဆာခတွေလည်း မြင့်တက်လာနိုင်တယ်။ ဥပမာ အရင်က ၁,၀၀၀ ကျပ်တန်တဲ့ ပစ္စည်းတခုဟာ ၂၅၀၀ ကျပ်လောက်အထိ ဖြစ်သွားနိုင်တဲ့ အခြေအနေမျိုးရှိတယ်” ဟု ဆိုသည်။\n\nအာဏာသိမ်းသမ္မတ မင်းအောင်လှိုင်ကမူ ကုန်ဈေးနှုန်းများ မြင့်တက်နေခြင်းမှာ ထုတ်လုပ်မှုနှင့် စားသုံးမှု မမျှတခြင်း၊ ထုတ်လုပ်မှုကုန်ကျစရိတ် မြင့်မားခြင်းတို့ကြောင့် ကုန်ဈေးနှုန်းကြီးမြင့်နေခြင်းဖြစ်ကြောင့် ဖြစ်သည်ဟု ယမန်နေ့ ပြည်ထောင်စုလွှတ်တော်အစည်းအဝေးတွင် ပြောဆိုထားသည်။\n\nတရုတ်နှင့် ထိုင်းကုန်ပစ္စည်းများအပေါ် မှီခိုနေရသည့် ပြည်တွင်းဈေးကွက်တွင် နိုင်ငံခြားငွေဈေး မြင့်တက်မှု၏ သက်ရောက် မှုကို စားသုံးသူများကပါ ခံစားရနိုင်ပြီး ကုန်ပစ္စည်းဈေးနှုန်းများ ဆက်လက်မြင့်တက်လာပါက အခြေခံစားသုံးသူများ၏ ဝယ်ယူနိုင်စွမ်းအားကို ပိုမိုထိခိုက်လာနိုင်ကြောင်း ကုန်သည်များက သုံးသပ်သည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/dollorthaitrade19Nov26feat-900x476.jpg",
    "lang": "my"
   }
  ]
