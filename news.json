@@ -1,11 +1,10 @@
 {
- "updated": "2026-11-20T13:38:53.622637+00:00",
- "updated_yangon": "2026-11-20 20:08",
+ "updated": "2026-11-20T14:38:53.672908+00:00",
+ "updated_yangon": "2026-11-20 21:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
   "CNA World",
-  "Google News",
   "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
@@ -18,62 +17,58 @@
  "countries": [
   [
    "Ukraine",
-   36
-  ],
-  [
-   "United States",
-   35
+   39
   ],
   [
    "Russia",
-   30
+   35
+  ],
+  [
+   "United States",
+   28
   ],
   [
    "Myanmar",
-   17
+   22
   ],
   [
    "China",
-   9
+   12
+  ],
+  [
+   "Palestine",
+   7
+  ],
+  [
+   "Iran",
+   7
+  ],
+  [
+   "Israel",
+   7
+  ],
+  [
+   "NATO",
+   6
+  ],
+  [
+   "United Kingdom",
+   5
   ],
   [
    "Poland",
    5
   ],
   [
-   "Iran",
-   5
-  ],
-  [
-   "United Kingdom",
-   4
-  ],
-  [
-   "Palestine",
-   4
-  ],
-  [
-   "Israel",
-   4
-  ],
-  [
    "India",
-   3
-  ],
-  [
-   "European Union",
-   3
-  ],
-  [
-   "NATO",
-   3
-  ],
-  [
-   "Iraq",
    2
   ],
   [
-   "Taiwan",
+   "European Union",
+   2
+  ],
+  [
+   "Iraq",
    2
   ],
   [
@@ -81,7 +76,7 @@
    2
   ],
   [
-   "Pakistan",
+   "Germany",
    2
   ],
   [
@@ -89,19 +84,23 @@
    2
   ],
   [
-   "Japan",
-   2
-  ],
-  [
    "Turkey",
    1
   ],
   [
-   "Germany",
+   "Taiwan",
    1
   ],
   [
    "Lebanon",
+   1
+  ],
+  [
+   "Pakistan",
+   1
+  ],
+  [
+   "Japan",
    1
   ]
  ],
@@ -116,17 +115,17 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 32,
+ "war_count": 33,
  "languages": {
-  "my": 30,
-  "en": 110
+  "my": 33,
+  "en": 107
  },
  "items": [
   {
    "title": "Greater share of national servicemen to shoulder leadership roles as cohorts shrink: Chan Chun Sing",
    "link": "https://www.channelnewsasia.com/singapore/national-servicemen-leadership-cohorts-shrink-chan-chun-sing-6569211",
    "source": "CNA World",
-   "published": "2026-11-20T21:30:25+08:00",
+   "published": "2026-11-20T21:30:00+08:00",
    "summary": "SAF units are expected to become smaller, more technologically enabled and fight in a more decentralised manner, says the defence minister.",
    "body": "SAF units are expected to become smaller, more technologically enabled and fight in a more decentralised manner, says the defence minister.",
    "category": "Global",
@@ -242,6 +241,220 @@
    "lang": "en"
   },
   {
+   "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+   "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+   "source": "NYT World",
+   "published": "2026-11-20T14:33:23+00:00",
+   "summary": "Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain left the European Union.",
+   "body": "Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain left the European Union.",
+   "category": "Europe / NATO",
+   "is_war": false,
+   "countries": [
+    "United Kingdom",
+    "European Union"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Grand Theft Auto: An American Icon, Born in Scotland",
+   "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+   "source": "NYT World",
+   "published": "2026-11-20T14:32:41+00:00",
+   "summary": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
+   "body": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gta-america-fmvw/18int-gta-america-fmvw-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
+   "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+   "source": "NYT World",
+   "published": "2026-11-20T14:17:02+00:00",
+   "summary": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
+   "body": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+   "link": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+   "source": "NYT World",
+   "published": "2026-11-20T14:16:51+00:00",
+   "summary": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+   "body": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russian missiles explode miles from British troops in Poland",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX09FaVVsbU5qSXhfeXc1cUhiaTliQndvZkxYZXhRV3VxTUItUnF6WTR2T0F2U3k0Zm4wWEpaTDJXcV9PdXN2Y3dLX1pPNjNKSXl2M25MbDZFSGJuU09OTzhoUUN1dUExR1NsR3NJbVd5YUlJWXoxQ3NTQnZsVkhhTmdfZkpkUkpSWnNZcnl0NTEyM1N5TjFyZ1VTWmY?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T14:13:42+00:00",
+   "summary": "Russian missiles explode miles from British troops in Poland The Times",
+   "body": "Russian missiles explode miles from British troops in Poland The Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "United Kingdom",
+    "Poland"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Xi’s greatest power is what he chooses not to do",
+   "link": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T14:03:08+00:00",
+   "summary": "As Trump and Putin struggle to end their wars, China is gaining influence through restraint.",
+   "body": "As Trump and Putin struggle to end their wars, China is gaining influence through restraint.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b000e9f-1795165855.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+   "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+   "source": "NYT World",
+   "published": "2026-11-20T14:01:44+00:00",
+   "summary": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+   "body": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Turkey"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T13:59:17+00:00",
+   "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
+   "body": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0036685618d-1795176040.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+   "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+   "source": "NYT World",
+   "published": "2026-11-20T13:56:56+00:00",
+   "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+   "body": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "ပြည်ပလုပ်သားငွေလွှဲနှုန်းကို တိုးပေးကာ ငွေလွှဲရန် မိသားစုခံဝန်ဖြင့် ဖိအားပေး",
+   "link": "https://burma.irrawaddy.com/news/2026/11/20/417761.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-20T13:54:05+00:00",
+   "summary": "ဧရာဝတီဘဏ်က လုပ်ခလစာ ငွေလွှဲနှုန်းကို တဒေါ်လာ ကျပ် ၄၆၀၀ အပြင် ထပ်ဆောင်း ပံ့ပိုးငွေ တဒေါ်လာလျှင် ကျပ် ၃၀ ကို ထပ်ပေးမည်ဟု ကြေညာထားပြီး United Amera Bank ကလည်း ထပ်ဆောင်းငွေ တဒေါ်လာ ကျပ် ၃၀ အပြင် တန်ဆောင်တိုင်ပရိုမိုးရှင်း ၁၀ကျပ် ထပ်ပေးမည်ဟု အပြိုင်အဆိုင်ပင် ကြေညာထားသည်။",
+   "body": "အမေရိကန်တဒေါ်လာ ၅၁၄၀ကျပ် ဖြစ်နေချိန် ပြည်ပလုပ်သားတို့ မိသားစုထံပြန်လွှဲငွေကို ပုဂ္ဂလိကဘဏ်များက တဒေါ်လာ ကျပ် ၄၆၀၀ နှုန်း တိုးပေးလိုက်သလို နောင် ပြည်ပအလုပ်သွားလုပ်မည့်သူများလည်း လစာ၏ ၂၅ ရာခိုင်နှုန်းကို တရားဝင် လမ်းကြောင်းမှ ပြန်လွှဲဖို့ မိဘနှစ်ပါး ခံဝန်ကတိထိုးရန် အလုပ်သမားညွှန်ကြားရေးဦးစီးဌာနက ညွှန်ကြားသည်။\n\nနိုဝင်ဘာလ ၁၉ ရက်ကကမော္ဘဇဘဏ်၊ ဧရာဝတီဘဏ်နှင့် United Amara Bank (UAB) အပါအဝင် ပြည်တွင်း ပုဂ္ဂလိက ဘဏ်အချို့က ပြည်ပရောက်လုပ်သားများအတွက် ငွေလွှဲနှုန်းတိုးကြောင်း၊ အလားတူမကြာမီ ပြည်ပသွားမည့် အလုပ်သမား များလည်း နိုဝင်ဘာ ၁၈ရက်မှစကာ မြို့နယ်အလုပ်သမားရုံး တာဝန်ခံအရာရှိ ရှေ့မှောက် မိဘနှစ်ဦးက သက်သေအဖြစ် လက်မှတ်ရေးထိုးရမည်ဟု သိရသည်။\n\nပြည်ပရောက် မြန်မာအလုပ်သမားများအတွက် သတ်မှတ်လိုက်သည့် နိုင်ငံခြား ငွေလဲနှုန်းက ထိုင်း ၁ ဘတ် ၁၃၆ ကျပ်၊ အမေရိကန် ၁ ဒေါ်လာ ၄၆၀၀ ကျပ်နှင့် ၁ ယူရိုလျှင် ၅၀၅၁ ကျပ်၊ စင်ကာပူ ၁ ဒေါ်လာ ၃,၅၆၇ ကျပ်သို့ အသီးသီး တိုးမြှင့်ပေးလိုက်ခြင်းဖြစ်သည်။\n\nဤသည်က ပြည်ပရောက်လုပ်သားများ မိသားစုထံ ပြန်ပို့ငွေအတွက်သာဖြစ်ပြီး အခြားပြည်ပငွေလဲနှုန်းများမှာမူ အရင် အတိုင်းသာဖြစ်ကြောင်း သိရသည်။\n\nဧရာဝတီဘဏ်က လုပ်ခလစာ ငွေလွှဲနှုန်းကို တဒေါ်လာ ကျပ် ၄၆၀၀ အပြင် ထပ်ဆောင်း ပံ့ပိုးငွေ တဒေါ်လာလျှင် ကျပ် ၃၀ ကို ထပ်ပေးမည်ဟု ကြေညာထားပြီး United Amera Bank ကလည်း ထပ်ဆောင်းငွေ တဒေါ်လာ ကျပ် ၃၀ အပြင် တန်ဆောင်တိုင်ပရိုမိုးရှင်း ၁၀ကျပ် ထပ်ပေးမည်ဟု အပြိုင်အဆိုင်ပင် ကြေညာထားသည်။\n\nယနေ့ပြင်ပပေါက်ဈေးက မနက်ပိုင်းတွင် တဒေါ်လာ ၅၀၉၀ ကျပ် ရှိခဲ့ရာမှ နေ့လယ်ပိုင်းတွင် ၅၁၄၀ ကျပ်အထိ၊ ထိုင်းဘတ် လည်း အမြင့်ဆုံးသို့ ရောက်ရှိနေပြီး ကျပ်ငွေပေး၍ ဘတ်ငွေ ဝယ်ယူပါက ၁ ဘတ်လျှင် ၁၅၂ ကျပ်ဝန်းကျင် (ကျပ်တသိန်း လျှင် ၆၅၇ ဘတ်ခန့်) အထိ ဈေးနှုန်း မြင့်တက်နေသည်။\n\nထိုင်း၌ အလုပ်လုပ်နေသူတဦးက “မဖြစ်မနေ ရာခိုင်နှုန်းသတ်မှတ်တာ၊ ပတ်စ်ပို့နဲ့ အကျပ်ကိုင်တာတွေဟာ အစိုးရရဲ့ အကျိုးစီးပွားနဲ့ ဆက်နွယ်နေတယ်ဆိုတဲ့ သက်သေပဲ။ အလုပ်သမားဝန်ကြီးက ပြည်ပရောက်အလုပ်သမားတွေဟာ သူရဲကောင်းတွေပါ။ အခြားအစိုးရတွေလို သယံဇာတတွေ မရောင်းဘဲ ပြည်ပအလုပ်သမားတွေဆီက ၂၅% ပြန်ပို့ငွေနဲ့ နိုင်ငံခြားငွေရှာနေတာပါဆိုပြီး ထုတ်ပြောနေတယ်။ ဒါတွေက အစိုးရဟာ ဒီနိုင်ငံခြားငွေအပေါ် ဘယ်လောက်အထိ အာသာငမ်းငမ်း တက်နေသလဲဆိုတာကို ပြနေပါတာ” ဟု ပြောသည်။\n\nတဖက်တွင်လည်း ထိုင်းသို့သွားမည့် MoU အလုပ်သမားများအနေဖြင့် အလုပ်ရှင်နှင့် အလုပ်ခန့်ထားမှုဆိုင်ရာစာချုပ် (EC) မချုပ်ဆိုမီ ရမည့်လစာ၏ ၂၅ ရာခိုင်နှုန်းကို တရားဝင်လမ်းကြောင်းမှ ပြန်လွှဲပို့မည့်ကတိဝန်ခံချက်ကို မိဘနှစ်ပါးနှင့် ပူးတွဲ လက်မှတ်ထိုးရမည် သို့မှသာ တာဝန်ခံအရာရှိက အတည်ပြုပေးမည်ဖြစ်ပြီး ယင်းကတိဝန်ခံချက် မူရင်းကို အလုပ်ခန့်ထားမှု ဆိုင်ရာ စာချုပ်ချုပ်ချိန် တင်ပြရမည်။\n\nငွေလဲနှုန်း တိုးမြှင့်ပေးသည့် ဘဏ်ကြေညာချက်များ “မိသားစုကိုပါ သက်သက်ဒုက္ခပေးတာ။ သွားမယ့် သူတွေ ထိုင်းရောက်လို့ဒုက္ခရောက်ရင် သံရုံးက လိုအပ်တာမှန်သမျှ အကုန်တာဝန်ယူဖြေရှင်းပေးရမယ်လို့ အလုပ်သမားဝန်ကြီးဌာနက တခါထဲ လက်မှတ်ထိုးခိုင်းလိုက်ပါလား။ ၂ဦး၂ဖက်အတွက်ပဲဖြစ်ဖြစ်” ဟု MoU ဖြင့် အလုပ်လာရောက်လုပ်ကိုင်ရန် ပြင်ဆင်နေသူတဦးက ပြောသည်။\n\nယင်းညွှန်ကြားချက်နှင့် ပတ်သက်၍ မြန်မာနိုင်ငံ ပြည်ပအလုပ်အကိုင် ဝန်ဆောင်မှုလုပ်ငန်းရှင်များအသင်း (MOEAF) အထွေထွေအတွင်းရေးမှူး ဦးမျိုးဝင်းရင်က ထိုင်းနိုင်ငံသို့ အလုပ်သမားစေလွှတ်သည့် လိုင်စင်ရအေဂျင်စီများထံ ထပ်ဆင့် အသိပေးထားကြောင်း သိရသည်။\n\nအလုပ်သမားဝန်ကြီးဌာနသည် ၂၀၂၄ ခုနှစ် ဩဂုတ် ၂၈ ရက်တွင် ပြည်ပရောက် အလုပ်သမားများအနေဖြင့် ရရှိသည့် လစာ၏ အနည်းဆုံး ၂၅ ရာခိုင်နှုန်းကို တရားဝင်ဘဏ်စနစ် သို့မဟုတ် ဗဟိုဘဏ်မှ ခွင့်ပြုထားသည့် ငွေလွှဲလုပ်ငန်း (RBL) များမှတဆင့် ၁ လလျှင် တစ်ကြိမ် သို့မဟုတ် ၃ လလျှင် တကြိမ် မိခင်နိုင်ငံရှိ မိသားစုထံ သို့မဟုတ် မိမိ၏ ဘဏ်စာရင်းသို့ ပြန်လည်လွှဲပြောင်းပေးပို့ရမည်ဟု ထုတ်ပြန်ခဲ့သည်။\n\nပြည်ပရောက်အလုပ်သမားများထံမှ ယခင်က ဝင်ငွေ၏ ၁၀ ရာခိုင်နှုန်းအထိ အခွန်ကောက်ခံခဲ့ဖူးပြီး ၂၀၁၂ ခုနှစ် သမ္မတ ဦးသိန်းစိန်အစိုးရလက်ထက်တွင် ယင်းအခွန်ကို ဖြေလျှော့ပေးခဲ့ကြောင်း ၊ သို့သော် လက်ရှိ နိုင်ငံတကာအကူအညီများ မရှိ၊ နိုင်ငံတကာ၏ စီးပွားရေးပိတ်ဆို့မှုများနှင့် သယံဇာတ ထုတ်လုပ်ရောင်းချမှု လျော့နည်းလာခြင်း တို့ ကြောင့် နိုင်ငံခြားဝင်ငွေ ရရှိမှု ကျဆင်းလာပြီး ပြည်ပရောက်အလုပ် သမားများထံမှ ပေးပို့သည့် ငွေကြေးအပေါ် မှီခိုလာရ ကြောင်း အာဏာသိမ်းအစိုးရ အလုပ်သမားဝန်ကြီး ဦးမောင်မြင့်က ပြီးခဲ့သည့် တပတ်က မလေးရှားနိုင်ငံရောက် အလုပ်သမားများနှင့် တွေ့ဆုံစဉ် ပြောဆိုခဲ့သည်။\n\nပြည်ပရောက်အလုပ်သမားများထံမှ ငွေကြေးကောက်ခံရန် ၂၀၂၃ ခုနှစ်မှစတင်၍ ပြန်လည်ဆောင်ရွက်ခဲ့ခြင်းမှာလည်း လက်ရှိစီးပွားရေးအကျပ်အတည်းကြောင့် ဖြစ်ပြီး မြန်မာနိုင်ငံတွင် မြေရှားသတ္တုများ အမြောက်အမြားထွက်ရှိသော်လည်း စစ်တပ်က ထိန်းချုပ်ထားသည့် နယ်မြေများအတွင်း မရှိသဖြင့် နိုင်ငံတော်အနေဖြင့် ဝင်ငွေမရရှိကြောင်း ဦးမောင်မြင့်က ထည့်သွင်းပြောဆိုခဲ့သည်။\n\nထို့ပြင် တနင်္သာရီကမ်းရိုးတန်း၊ ထိုင်းနိုင်ငံနှင့် နယ်နိမိတ်ချင်းထိစပ်နေသည့် M15 လုပ်ကွက်တွင် သဘာဝဓာတ်ငွေ့ အမြောက်အမြားတွေ့ရှိထားပြီး အဆိုပါ ဓာတ်ငွေ့သိုက်ကို စူးစမ်းရှာဖွေရေးလုပ်ငန်း လုပ်ကိုင်နေသည့် အမေရိကန် ကုမ္ပဏီတခုက တွေ့ရှိခဲ့ခြင်းဖြစ်ပြီး ကုဗပေ ၉၄ ဒသမ ၆ ထရီလီယံရှိကြောင်း၊ ယင်းပမာဏသည် ကမာ္ဘပေါ်တွင် ဒုတိယအများဆုံးဖြစ်ကြောင်း ၎င်းက ဆိုသည်။\n\nအဆိုပါ မြေရှားသတ္တုနှင့် သဘာဝဓာတ်ငွေ့အရင်းအမြစ်များကို ထိန်းချုပ် အသုံးချနိုင်ပါက နောင်ကာလတွင် ဒေါ်လာဘီလီယံ ရာနှင့်ချီ ဝင်ငွေရရှိနိုင်ပြီး နှစ်စဉ် ဒေါ်လာဘီလီယံ ၁၀ ဂဏန်းအထိ ရရှိနိုင်ကြောင်း၊ ထိုသို့ နိုင်ငံ့စီးပွားရေး ပြန်လည်တောင့်တင်းလာပါက ပြည်ပရောက်အလုပ်သမားများထံမှ ငွေလွှဲပို့မှုနှင့် အခွန်ကောက်ခံမှုများအပေါ် မှီခိုရန် မလိုအပ်တော့ကြောင်း ၎င်းက ပြောသည်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/money20Nov26feat-900x476.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Ukraine child deaths, injuries climb to near 2022 levels, UNICEF says",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaExfUUZkNENZRUdVX0dmbXRJcDdIQ2MzcENRcWlvSnYtUXF5Q1hObkZkU01ZUHFGQ1FaRmlqWXRIVWFZdWU5NDQ4WEtVVi1uS1M5eFRaNmtnbEJRVDRHdkRwenRQdXlJekFFOGtucU9lUndDX3lkams4ZzF3VkwySDdiVVAwMWNwTG9CdjFkcGU5endqOHpZRlFHdmtjNG5BaVNVWg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T13:50:38+00:00",
+   "summary": "Ukraine child deaths, injuries climb to near 2022 levels, UNICEF says Reuters",
+   "body": "Ukraine child deaths, injuries climb to near 2022 levels, UNICEF says Reuters",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+   "link": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T13:45:14+00:00",
+   "summary": "This is a breaking news story.",
+   "body": "This is a breaking news story.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T13:42:56+00:00",
+   "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+   "body": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+   "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T13:41:49+00:00",
+   "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+   "body": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Myanmar"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
    "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
    "source": "NYT World",
@@ -257,18 +470,18 @@
    "lang": "en"
   },
   {
-   "title": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "title": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHBEMkFaaHpKSERkN1BoanNTdC1SbDhGbFlQeTY0Nkhab3NfV2NNYWVJSG04NWdmMWtXbW5UbVZtOURESjdKNmpZcWNzVmJCSk9nel9HSmVGZlNpMDg1TS14SFdWdFJabF9wc3ZuTHhaZURPZ0ZWUWFTYVVXUkk3VWs4Q09DdjJabW9WczdCNXdVVnFPUU1XaHVoY21JV2ZON2JHWnlqTnFpTlpTV2h4VV96VTJWTmPSAbcBQVVfeXFMT0lXNmhZMFFzemQ3VW5BZWpZZVpZcGNldTJjTkp6enZTR2gtMWVENEhRb05leTMwWnhBRjZMUFFBVkpkVTVoclYzbV9mTXdoVmpSSWlVOFZnUE5XVEFOS2RsTlRFa3F6NkpYLW05a3ZuTUJCaXRGSE5VNXpybm1yNHJ2S3hiZHFRNE5SUVNIQW1uZFY3WTBpY2hUNTBaX2dEbFRoTThYa01laG5CMmhqdW1aUGFERkdv?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-20T13:33:00+00:00",
-   "summary": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills AP News",
-   "body": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills AP News",
+   "published": "2026-11-20T13:33:05+00:00",
+   "summary": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks South China Morning Post",
+   "body": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks South China Morning Post",
    "category": "Ukraine / Russia",
-   "is_war": true,
+   "is_war": false,
    "countries": [
     "Ukraine",
     "Russia",
-    "Poland"
+    "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -354,80 +567,17 @@
    "lang": "en"
   },
   {
-   "title": "The UK and EU hold a rare summit to strengthen ties as Burnham seeks to mend Brexit damage - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T13:14:00+00:00",
-   "summary": "The UK and EU hold a rare summit to strengthen ties as Burnham seeks to mend Brexit damage AP News Ten years on, is the UK preparing to undo Brexit? CNN Fallout over tuition fees may snag Burnham’s EU deal, say insiders The Guardian 10 years on, Britain reopens the Brexit fight —",
-   "body": "The UK and EU hold a rare summit to strengthen ties as Burnham seeks to mend Brexit damage AP News Ten years on, is the UK preparing to undo Brexit? CNN Fallout over tuition fees may snag Burnham’s EU deal, say insiders The Guardian 10 years on, Britain reopens the Brexit fight — this time embracing the E.U. The Washington Post UK-EU summit live: Burnham and EU leaders to make statement BBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "European Union"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T13:12:29+00:00",
-   "summary": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years Yahoo Tech Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times GTA VI hijacks America Axios Grand Theft Auto VI review – g",
-   "body": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years Yahoo Tech Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. The New York Times GTA VI hijacks America Axios Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian ‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy CNBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings - South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHEtQTZzNm15NFFwRVY0aFhpSmc0MW1QdjU2NHNGdkRNeVlLQUtreHQ4cjAwYVVpWjVXVWU3ZzdXV1VJTFNxOGttNWEtak0tRVVFMjY2VnlVMFdfNEtzeTlvZU5sZnVjMGpzZUEybHBBUGtRcGtQWnV2OWFzbmdXbnI1THNyZnJBS2xhT2I4TVFpZlRweTk2ellwdXFaYXRfYU1LYkhHUk9mWnRpUmNZLWdMNWQ4ZGlRYkFoM1ZyRHJWQ3fSAcMBQVVfeXFMTnF5NE0yM1RLRGVOR0tQSUdkNmFVZnlwOS1aM1ozSmNHOEpLMjBlM1N2Y3R4SHBhbXFPc1VPX3l5V2xiY1hITzZ6NHo1THBBVEptenNOX3d3YXdtdk4zRUs4UndFVS1RSnFzczFKVHh6QUE0LVA0UXNMb1M3cmNnUnZJdk5oZkJmRlVCZ1V0WFduZzhLN2liUDFtZURtTWZxcXBwbVo3ODRrY0pFQVZYMi1QLUtfWDN5TXdXVVZON2NhSGxr?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-20T13:05:33+00:00",
-   "summary": "US and China hold maritime security talks in parallel with Xi-Trump meetings South China Morning Post",
-   "body": "US and China hold maritime security talks in parallel with Xi-Trump meetings South China Morning Post",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "At least eight killed in huge Russian missile barrage on Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkl3UzNVdXlyemI0QVJYNUswY1RTQVdZNGVaajJjRE0xcEg4TTdDaFpIcGJIbU1IYmFLb1VMazczczlSc0dtSmtIRDlyVElibG9mZWxRcGlqdjlCaF9ISGhDNDdGVmFOY2dmSEItbl9MZ2RCQ1BBT1Z4aWZzOGRxSENtOHNiYlZGSklHU1lqR3J1b0FRR2NtUm96dGg?oc=5",
+   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U2hsRV9SaGdVUWxNYmtvWWhVS0NvOUJfVzVCTERKOVp5aUNaNkE4aXU4LVpaZndwakNCMmF0cUtGTjBZN0JrblJDMTM2dE5CMENIQjVUQXM4LWM?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-20T13:05:29+00:00",
-   "summary": "At least eight killed in huge Russian missile barrage on Ukraine The Times",
-   "body": "At least eight killed in huge Russian missile barrage on Ukraine The Times",
+   "published": "2026-11-20T13:01:16+00:00",
+   "summary": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge BBC",
+   "body": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge BBC",
    "category": "Ukraine / Russia",
-   "is_war": true,
+   "is_war": false,
    "countries": [
     "Ukraine",
     "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T13:03:09+00:00",
-   "summary": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent The Washington Post",
-   "body": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent The Washington Post",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -444,21 +594,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Daily-News-July.00_00_37_27.Still049-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODFTam5HSTl5SjdGeGJZQW1zanhmSUtMMnY5NGw1YnFQcDdrNGNnWHgwek5oX2RDS3Rwc2FoLVRERlMxVWtmZXJpZWlmXzhsRWdremdGM0lOZEFyUHFaaVlsdnlFM3k1a2pJeGp4WVdLQjVWaWVJRy1JNzdDTzBnV0kyRHdPRVRpTi1UYnQ0NjNiNnRnNTlUa2pXdEtxaG1HMUl5ZUV1Yw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T12:54:00+00:00",
-   "summary": "Justice Department Gives Up on Alaska Senate Lawsuit The New York Times Live updates: Justice Department moves to have lawsuit dismissed in challenge to Alaska’s US Senate race AP News Justice Dept. drops appeal in bid to delay certification of Alaska Senate win The Washington Po",
-   "body": "Justice Department Gives Up on Alaska Senate Lawsuit The New York Times Live updates: Justice Department moves to have lawsuit dismissed in challenge to Alaska’s US Senate race AP News Justice Dept. drops appeal in bid to delay certification of Alaska Senate win The Washington Post ‘A new day in the Senate’: 56-44 majority gives Democrats fuel to take on Trump The Guardian Trump team drops Alaska senate lawsuit after Democrat easily won the race The Independent",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "Singapore and China kick off talks to upgrade free trade agreement, reaffirm close ties",
@@ -521,17 +656,18 @@
    "lang": "en"
   },
   {
-   "title": "100 Russian Drones by Day, Up to 200 by Night—Ukraine Endures Near-Constant Air Attacks - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0s3UURZa05lTjJ2WkhhOHI5NDV4OE45RHU3TGVhQ3h4eExETk5EWlhWT3pHd0k5aF90SXVHdTJXRUJ4TS1VZzJiYWc1bVk2Wk54NmF3ckllSXVYUlBEa0NFVEtITklLWGo5YUs1R1pYMm10NzgzNFlEUDZNdWdvbDlPUS01NkpMVmh5OElIU3NSWlhrMG9uNjN5VkV5cmg2SzZ0YmRTYkpZY05ZekVKblo4aDJHelVOSnh3N19IYVZKaFB1X18xRnZHbWxSUQ?oc=5",
+   "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-20T12:41:13+00:00",
-   "summary": "100 Russian Drones by Day, Up to 200 by Night—Ukraine Endures Near-Constant Air Attacks UNITED24 Media",
-   "body": "100 Russian Drones by Day, Up to 200 by Night—Ukraine Endures Near-Constant Air Attacks UNITED24 Media",
+   "published": "2026-11-20T12:34:00+00:00",
+   "summary": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine The Guardian",
+   "body": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine The Guardian",
    "category": "Ukraine / Russia",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia"
+    "Russia",
+    "Poland"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -562,19 +698,6 @@
     "France"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795177558.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjZuUWRMVWhicTNtVjRFOFBQQlFyQ3QxZU93RVJkcUlJTzVBVVI4ZTFnbDhEMWo5NktFYnVQRmZtLVlrbWpWOWZUTU04YlVnYXJUWldpbUVsN0hFb3JiQ211X1ZlUG1TYzBGZmVRZmxxSzEzd25rcjJWbnpoRUxzbk9UWUZ2QQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T12:24:40+00:00",
-   "summary": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain NPR See more headlines & perspectives on Google News",
-   "body": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain NPR See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -609,21 +732,6 @@
    "lang": "en"
   },
   {
-   "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-   "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-   "source": "NYT World",
-   "published": "2026-11-20T12:14:35+00:00",
-   "summary": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-   "body": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Turkey"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Rich Lowry: Trump’s Ukraine-war realpolitik isn’t realistic - Maui News",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZYYTZsWjMwMkxWbXRSSWJTeGZjMEdJdy1DV3oxSjdVa2p5cTFYYVJDcHl1QUZBWi1OdjI5cERPbk1kdmlaY2VVaXBIeDFBdVl3MkVVZmpjdTd3Z3FlN2VnMlh5TnVtSVAzZXJnTHRwTmJ4YmcyRjFwMHh0eHU1eTVEa1ZRM3BxMzZIVU5IVnpDcnNlZ1R5SE9vUENMQnpGOVNxX25pMmtFUQ?oc=5",
    "source": "Google News · Ukraine",
@@ -635,22 +743,6 @@
    "countries": [
     "Ukraine",
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian cruise missile crashes in Poland in violation condemned as intentional",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T12:09:29+00:00",
-   "summary": "Russian cruise missile crashes in Poland in violation condemned as intentional BBC See more headlines & perspectives on Google News",
-   "body": "Russian cruise missile crashes in Poland in violation condemned as intentional BBC See more headlines & perspectives on Google News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "Poland"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -699,20 +791,20 @@
    "lang": "my"
   },
   {
-   "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
-   "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-   "source": "NYT World",
-   "published": "2026-11-20T12:00:41+00:00",
-   "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-   "body": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-   "category": "Global",
+   "title": "Nato jets scrambled as Poland accuses Russia of ‘intentional provocation’: Live",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T12:01:45+00:00",
+   "summary": "Nato jets scrambled as Poland accuses Russia of ‘intentional provocation’: Live The Independent",
+   "body": "Nato jets scrambled as Poland accuses Russia of ‘intentional provocation’: Live The Independent",
+   "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
     "Russia",
-    "United States",
-    "China"
+    "Poland",
+    "NATO"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -773,22 +865,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack - News-Press NOW",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRHRpcmZNaElsMkV6ZXBNNXNBa0tEbm9yLUlNUzd1U21oQVg3clhBcUVuaDZhdnUwTGlrdXhqY2NFR1lmc2RReENQOUpBSjVwcTRHbVJHeFZscy0wa18xZG1aMnRYakZJQkVxbmhXcFdPQTZDcDc2ckJMZzZ4V1BhaGo0UW9TX29mN2swaUVPX2tDZC1vaERaMFB0U2NVcnZrSUFfU1djZlNDQU9aUjhUTmIwUEdxSTZoNURpWU1kQXI4RExtdzhsaEdKb21GUkN0QUFMYkxNSTFjUEd0NFloMFByZ2lESU5JYWxUUElDaHVZOGEtcjlGcU1GVmxBbFlmZURmZDB1N2c2UlNyajlmRUNBdE5tVnhYaUcw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T11:54:20+00:00",
-   "summary": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack News-Press NOW",
-   "body": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack News-Press NOW",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "More than 782,000 eligible Singaporeans to receive up to S$1,500 in CPF top-ups by Dec 8",
    "link": "https://www.channelnewsasia.com/singapore/cpf-top-up-seniors-retirement-savings-6568136",
    "source": "CNA World",
@@ -831,15 +907,18 @@
    "lang": "en"
   },
   {
-   "title": "Gold, Silver Drop to Lowest Levels in Over a Year - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkhaVnBLOFlTM3FaSjZRMmVEelRfcDNkVTBnWDZoOEE1WFVHcXd4MzdFaDM4NGJha3VjQWE3ZDNzTEhlU0RUVHkwWk9VdmVpU2dyUTVlUzBYcU5FOXlaWFdVNlJhTG5lSUpOTHhxdF9uTTZ2d2k1VVZPUnZFV3NlVTY5SWVKWW9ucHhIYkdhcFVhaGh5a3RlRGF2WS16QlRoU29iNjFUSzE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T11:39:00+00:00",
-   "summary": "Gold, Silver Drop to Lowest Levels in Over a Year WSJ Gold's bad year is getting worse. Why its price keeps falling CNBC Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize Yahoo Finance Gold slides toward worst week in ",
-   "body": "Gold, Silver Drop to Lowest Levels in Over a Year WSJ Gold's bad year is getting worse. Why its price keeps falling CNBC Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize Yahoo Finance Gold slides toward worst week in eight months on hawkish Fed outlook Reuters Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low Forbes",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
+   "title": "Poland says a Russian missile that crashed in its territory was a provocation - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T11:43:39+00:00",
+   "summary": "Poland says a Russian missile that crashed in its territory was a provocation AP News",
+   "body": "Poland says a Russian missile that crashed in its territory was a provocation AP News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "Poland"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -859,22 +938,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia Ukraine War - Goshen News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFhmTkZoVWVpSTJCdE80OUgwX1pVTkVnTldhTDZoTi1URnh5b1J5eHdiUFRIZDFNcks0WWhTOW5jVHY4SDJ3Mnpwdk9fTzhMT2E4ZkhsREdaTmIxMFYtLXFEenVLSDNsT1hsZTBoNHJ1ZjZNaktydVZqN0xsZVJFMnBDT3ItWDl0dG1KSUJmYVp2azFnZXJPUjNQYThqRk5yUWpMaGhvNmRnbmVuVkNxSHdn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T11:24:26+00:00",
-   "summary": "Russia Ukraine War Goshen News",
-   "body": "Russia Ukraine War Goshen News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
    "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
    "source": "Al Jazeera",
@@ -885,22 +948,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/21e56488f2fd491d9998f32fcd74494d_18.jpeg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine: Three Kyiv bridges hit during major Russian missile attack",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U2hsRV9SaGdVUWxNYmtvWWhVS0NvOUJfVzVCTERKOVp5aUNaNkE4aXU4LVpaZndwakNCMmF0cUtGTjBZN0JrblJDMTM2dE5CMENIQjVUQXM4LWM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T11:12:57+00:00",
-   "summary": "Ukraine: Three Kyiv bridges hit during major Russian missile attack BBC",
-   "body": "Ukraine: Three Kyiv bridges hit during major Russian missile attack BBC",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -920,15 +967,16 @@
    "lang": "en"
   },
   {
-   "title": "Leaked data reveals devastating toll of Putin’s war on Russian men - TVP World",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVBPTXFyN2h5QkRLZVNPRmp6eDMzZVI2UUFkbl8xLU5Vd1lCOHMyUWg5b3ByTU5WUmhoRlV4TU1yVGN1ZzY3cmRNN2tuem1DV3Q0cEtsalN4TTdNTUlaSTFydC16VHhZXzcwdjV6Wk9SazlmekFLZEhSVkszSXdZcXFvZUxucXg5TGlGVVN5ZDN2QQ?oc=5",
+   "title": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbi0zWWVDMjJEd2t1SDJnNi1BUVJFQUszLWhpTzRCMU9oTEM2djZraHhVT3RSNGttUlhQdlIxSW9Qd191WExYLWlmVmlHaXdQWXh1aDFJVXRoM2x0eDA1Ym9IZl9ZVVBBcy02Zl9aeUk0OGFwN1RIV1hDOVc1YXJReTFrWE1fZVRrS2x1YUJfWHBveGxLVmpIb3F5enViSlFDbVBhaHAycFdIUnFEMDk0dmVjbGFvVTBBLUR4UEc1Rng4dlk?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-20T11:05:11+00:00",
-   "summary": "Leaked data reveals devastating toll of Putin’s war on Russian men TVP World",
-   "body": "Leaked data reveals devastating toll of Putin’s war on Russian men TVP World",
+   "published": "2026-11-20T11:05:06+00:00",
+   "summary": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast The Kyiv Independent",
+   "body": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast The Kyiv Independent",
    "category": "Ukraine / Russia",
-   "is_war": true,
+   "is_war": false,
    "countries": [
+    "Ukraine",
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -965,53 +1013,6 @@
     "NATO"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Senate passes bipartisan energy bill amid environmental concerns",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4dkFVYTd6d1Q0ZDE0TGtVUmJaaDgtYjZfUEdUMjJ2YlJrZi1FVU1aUmx2eE9NTHRVQkhpNWZRUlFobVEyZ3dtalpGMkIyOHlPMEt1Qk9rWVZWS2pTMmRXZHBCQ3hDOEpCcUdQUWIzejFNYVRZOVZWSEhQUTM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T11:00:28+00:00",
-   "summary": "Senate passes bipartisan energy bill amid environmental concerns NPR Senate Republicans break through Washington gridlock with massive American energy, data center overhaul Fox News Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs Pi",
-   "body": "Senate passes bipartisan energy bill amid environmental concerns NPR Senate Republicans break through Washington gridlock with massive American energy, data center overhaul Fox News Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs Pioneer Press Senate passes BAAJA permitting reform bill backed by AI, energy sectors CNBC Senate Passes Major Permitting Bill to Speed Up Energy Projects The New York Times",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Strikes Lviv Railway Station and Energy Infrastructure, Killing Two and Injuring Nine - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDVyXzNwdy1EQlNBYVpPUXF5cmZydU5KMnJyendoOHJaTTRjTzFtMDJBRVQ2a1Z0YmhKcWQtWjBvYl9UdDZDRE45UEFDMXpVVDFjdk1FRXNEelEzdHlia0taMU1hX0tTSnUwU2JNbVJEZ05Tdi03c1hNVU1Ra3pUeXREdHJZOHR0R1NxbXNJUmQyaTVZdkhudlphMDR5Vmc3OUxMWEE1YVZuUnZsc25aRVh3VFd5Z3NRRjFrSWo4NFJmSzRvMVJrUng0VHh0MnZfNTM1OA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T10:58:49+00:00",
-   "summary": "Russia Strikes Lviv Railway Station and Energy Infrastructure, Killing Two and Injuring Nine UNITED24 Media",
-   "body": "Russia Strikes Lviv Railway Station and Energy Infrastructure, Killing Two and Injuring Nine UNITED24 Media",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian missile hit south-east Poland during attack on Ukraine, no-one hurt: Warsaw - Al Arabiya English",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbEhFSUFKNE9hY0hmX1M4LTRwMm41czZoaDZQX2VMYWJZMVgtekRnaUxnQUg5Qk1GenA1TWVjaU9OQng3em5oa2ptVzhPS2gwZHU5ZzgyV2dpekttOXU2LWhjaW1HWUpxc2VKSHpIeUhSc3lCYkxQVTN2Ukx4dTZYZ3VDcXFIVmhZZTh5TnRBQUpRNlpuQ1dIeVBzR0dQaWJjMWR1VXdTSV9YUTd5cUVJR0loai1iaVdqQ2pKZDFSUDlDSll6WWlDSTIzSdIB0AFBVV95cUxQMGt4Q3N1QW14N1ZHNU9UTzh1d3RTbTFiM3B2NnhLYkJ2SEFqNlRDRGI0RFlkcnhxM2EzR3g2bUJqSlhJOFJGaWwtZ25haVc5MGpTMFdVRnRMSzIzN3Y4U2x0VVUwOVJOa3p4WmxZaHZHY09hOWJVUV85M1UxdEJqVGNHN1l2VXZQUF9sY19UQjFmZG9QNjRVWW5sSVVwNy1fSU5oY0pLWTlrTW1OOG5heHhsUFM1WTBzZ2hpV3BDM0xXb1RoWlkxd24yYjhtZFFI?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T10:58:00+00:00",
-   "summary": "Russian missile hit south-east Poland during attack on Ukraine, no-one hurt: Warsaw Al Arabiya English",
-   "body": "Russian missile hit south-east Poland during attack on Ukraine, no-one hurt: Warsaw Al Arabiya English",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "Poland"
-   ],
-   "image": "",
    "lang": "en"
   },
   {
@@ -1074,38 +1075,6 @@
    "lang": "en"
   },
   {
-   "title": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
-   "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-   "source": "NYT World",
-   "published": "2026-11-20T10:36:35+00:00",
-   "summary": "Prime Minister Andy Burnham is in Brussels to announce a deal to reset Britain’s relationship with the European Union, a decade after it left the bloc.",
-   "body": "Prime Minister Andy Burnham is in Brussels to announce a deal to reset Britain’s relationship with the European Union, a decade after it left the bloc.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom",
-    "European Union"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission - Dayton Daily News",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNT0l1VmxkQnZoT0ZwSHEtb0JtWTZBUWpkN1FtYWtoUzhzdGlONkExakRfeUtVVjNvZG03MWhwdUF3blZFTzJhZzVRM1I0bnp1dkZSaXZsNTJaY3F2QXpXUnF5NjdIX0t2TGtqbEJqU0NmOVNaSXNDajhJMnFRSldBbUpkMmp1QmRZR3VEeHVqdW03cElYRlA0T3E2YXdnWFVOaUc5dDBFRmkxSk9Damo1VUdtMVNwdXdqWUVWcTh0dFNrMEZrVG1kNVVDN0laMUlZSWh4bThYbTF6ekFURFlyOWtNQkhCNGJ0aUd6dG1LOTF6d1RkU280SmVrZjg3QlpFdXp5VHY2QnJaTkxzSnZRUw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T10:36:09+00:00",
-   "summary": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission Dayton Daily News",
-   "body": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission Dayton Daily News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Poland"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "International floating book fair Doulos Hope returns to Singapore from Nov 24, admission is free",
    "link": "https://www.channelnewsasia.com/living/doulos-hope-singapore-2026-6567971",
    "source": "CNA World",
@@ -1119,59 +1088,12 @@
    "lang": "en"
   },
   {
-   "title": "Mamdani pledged to work toward closing Rikers Island by 2027. Now, his new plan aims to shutter it 5 years later",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nWGRKbExudl8xSDFGcERMQ3FLbTUxWlZEX2pXQzhYTHlpYzY5ZnVXNjFkT2FhNEdwNnhLdUlBV3NPQXBWMUVjNDNObVU3LXZENl9YYkowU1ZZbUVuS2RoajRxc0VfbTMxSDE4SmYzWkUwVEc4X2hYRw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T10:30:17+00:00",
-   "summary": "Mamdani pledged to work toward closing Rikers Island by 2027. Now, his new plan aims to shutter it 5 years later CNN Zohran Mamdani unveils plan to close Rikers Island jail complex The Guardian Mamdani unveils plan to close Rikers by 2032, more than 5 years past legal deadline KO",
-   "body": "Mamdani pledged to work toward closing Rikers Island by 2027. Now, his new plan aims to shutter it 5 years later CNN Zohran Mamdani unveils plan to close Rikers Island jail complex The Guardian Mamdani unveils plan to close Rikers by 2032, more than 5 years past legal deadline KOMO Rikers Will Stay Open Until 2032 as Mamdani Commits to New Closure Plan The New York Times Mamdani sets plan to close NYC’s notorious Rikers Island jail The Boston Globe",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine updates: Kyiv targeted by missile strikes, bridges hit - DW.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVdUV1FXMkY3WnJNQTdTSjhpWUc1bkdKbXZHNlpZVmlFQXJkWVBKdFh2SXFQbXFBRUMxTDJwUnFRMG5CaGcxdmhDMmY1UGd6X25TNklRb0ZIWk5rd19ZUjEyMmNBVks0RWk2dUxnVHVQRmVTaUs1NFhxdTE0N09xR3hjSkpaLTNFRG9YbURWLWVUUG5zTDFhZlEzb2c?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-20T10:30:00+00:00",
    "summary": "Ukraine updates: Kyiv targeted by missile strikes, bridges hit DW.com",
    "body": "Ukraine updates: Kyiv targeted by missile strikes, bridges hit DW.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US reportedly floats Ukraine NATO membership in exchange for territorial concessions to Russia - TRT World",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXVFNMVFQ1U2s4bzFoa2ZvNEtZaDdrZFBoZnkwU0VHUndlcWYwY2FKU0t0bVdiWUh6MmVIY2FOR29uQnpfWEIzOE1hWUhjUHV6RTUyNGVjQ0c?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T10:23:32+00:00",
-   "summary": "US reportedly floats Ukraine NATO membership in exchange for territorial concessions to Russia TRT World",
-   "body": "US reportedly floats Ukraine NATO membership in exchange for territorial concessions to Russia TRT World",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "How Do You Identify Thousands Killed In War? Ukraine's High-Tech Forensics Experts Have The Answer - UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVVKUGJsRm01S1l4cFNiTTl1N3NrbnMyMVZIenRzU3c0dTlWMHJZNEMyS1JZa1FsS2ZZQkxSSjNGMzdrRW5YV3pEMHZkY3FRU0pabklHQ2pVNFFSczVCU3BDWUNIaE9wNVdvT3pLSDY1alBBbGl3TF9id3NpelBxMzdlMVVuUC1TUVZBc2pBT3FLMnFPWUhGVGFNVUJISC1CVE1OVWc0ODNsVmt0d2JUdU1TTXNnZDhLc2Iwa0pOMlFwa2xUQ3VRVnJUbUlxWHR2VTJiYg?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T10:17:06+00:00",
-   "summary": "How Do You Identify Thousands Killed In War? Ukraine's High-Tech Forensics Experts Have The Answer UNITED24 Media",
-   "body": "How Do You Identify Thousands Killed In War? Ukraine's High-Tech Forensics Experts Have The Answer UNITED24 Media",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -1213,21 +1135,6 @@
    "lang": "my"
   },
   {
-   "title": "Nonstop rain pummels Central Florida, flooding roads, closing schools - WESH",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkZSc1NCNmVtRmVzNDlGeXdIT3g1SXdMbE9MRm9DUDhIQ3l2M3g0dnY4M2FlYVZyOWd2Ukl6UUdBUVJXcXQ5Mnc2WU8zVHFySG1xblNra2xmR2hHeW9EUEdZQ1ZpX3loMDhfMWlCQmhIZlhBQVpVMnBHaFRJY0FxSmhoME5vcDlDZERvUkJXX3Y?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T10:03:39+00:00",
-   "summary": "Nonstop rain pummels Central Florida, flooding roads, closing schools WESH Florida Atlantic Coast faces dangerous flooding as intense rain prompts emergency declarations and rescues FOX Weather Florida flooding rain topped monthly, fall, all-time records The Weather Channel In Fl",
-   "body": "Nonstop rain pummels Central Florida, flooding roads, closing schools WESH Florida Atlantic Coast faces dangerous flooding as intense rain prompts emergency declarations and rescues FOX Weather Florida flooding rain topped monthly, fall, all-time records The Weather Channel In Florida, More Rain Threatens Flooded Areas and Roads The New York Times Florida Gov. DeSantis declares expanded state of emergency over intense rainfall News4JAX",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "EXO အဖွဲ့ခေါင်းဆောင်အား New Year ပွဲအတွက် မင်းအောင်လှိုင်သမီး၏ ကုမ္ပဏီ ဖိတ်မှု ဝိုင်း ကန့်ကွက်",
    "link": "https://burma.irrawaddy.com/news/2026/11/20/417746.html",
    "source": "Irrawaddy Burmese",
@@ -1252,19 +1159,6 @@
    "countries": [
     "Ukraine"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Anthropic stock dives after rip-roaring IPO - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T09:54:11+00:00",
-   "summary": "Anthropic stock dives after rip-roaring IPO Yahoo Finance Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment CNBC Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.' Yahoo Finance Almost all of Anthropic’s e",
-   "body": "Anthropic stock dives after rip-roaring IPO Yahoo Finance Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment CNBC Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.' Yahoo Finance Almost all of Anthropic’s employees are now millionaires CNN Stocks slide as AI selloff deepens, Asia set for worst week since 2020 Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1300,29 +1194,18 @@
    "lang": "my"
   },
   {
-   "title": "Puka Nacua: Los Angeles Rams star suspended for personal conduct violation",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YVVRYaXJMNTcteVNlXzdkclZxdmJEVkJjQkM3QmFiR21uT2hFbFBROEZyR1praWo5Q2dKQTFwQzNHcXhkeGlfamlYSVZSTVdwVTNHTGk1bm9BaTBVTFBzc3FMMlJfazBFN3luSVBuX21xcDE4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T09:38:14+00:00",
-   "summary": "Puka Nacua: Los Angeles Rams star suspended for personal conduct violation BBC Rams WR Puka Nacua to serve 3-game suspension while on IR ESPN Rams WR Puka Nacua suspended while on IR Yahoo Sports NFL suspends Rams WR Puka Nacua 3 games for violation of personal conduct policy NFL",
-   "body": "Puka Nacua: Los Angeles Rams star suspended for personal conduct violation BBC Rams WR Puka Nacua to serve 3-game suspension while on IR ESPN Rams WR Puka Nacua suspended while on IR Yahoo Sports NFL suspends Rams WR Puka Nacua 3 games for violation of personal conduct policy NFL.com Rams' Puka Nacua suspended three games, will serve ban during injured reserve stint CBS Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T09:37:59+00:00",
-   "summary": "White House removes cyber-security chief after series of tech outages BBC Scoop: Trump names Kirsten Davies as new national cyber director Axios Top White House Cybersecurity Official Is Replaced The New York Times National Cyber Director Reportedly Fired After Series Of Major Te",
-   "body": "White House removes cyber-security chief after series of tech outages BBC Scoop: Trump names Kirsten Davies as new national cyber director Axios Top White House Cybersecurity Official Is Replaced The New York Times National Cyber Director Reportedly Fired After Series Of Major Tech Outages. Pentagon CIO Kirsten Davies Replaced Him. Yahoo White House taps Kirsten Davies as cyber chief after outages rattle Americans The Mercury News",
-   "category": "USA / Americas",
-   "is_war": false,
+   "title": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UEdES3RsVmhXQzVxOEhGV3Z1c3BnRWNvNngta3FsMkxpU1c4TXlsYXNibjFHYWNUUE4wNElCazdvQUlyVWROSU5Pb0ZINTJZWWpwY3cxRWRyMkNoQlZsZi0wNGlNWGVX?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T09:39:00+00:00",
+   "summary": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
+   "body": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "United States"
+    "Ukraine",
+    "China",
+    "Germany"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1517,36 +1400,6 @@
    "lang": "en"
   },
   {
-   "title": "Grand Theft Auto: An American Icon, Born in Scotland",
-   "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
-   "source": "NYT World",
-   "published": "2026-11-20T08:53:25+00:00",
-   "summary": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
-   "body": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gta-america-fmvw/18int-gta-america-fmvw-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Asia stocks slide to 7-mth low with S.Korea, Taiwan worst hit by AI wipeout - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmgweUdZMmhVR3VHM2JDc2NDbU9QT2VmNE1HMkdCOE55VGRIVW5BX1FtdHZtLXBSVmdsUzRBaEVzeVlqeGZ1WWpuU2s3VmhwX2ZJTXNndW1kZXhTYzQtb0p5ZUJ4cGwxQTNxYzl5V205MGNYVkZQN3BCdmpRd0lURTZ2bzd2SFdGWEVIVWl6Ny13ZFpTZlpOdjd5LWhvTGxtTUNCeTVnWUZVNjhJelJKaE80ZkFxVnEzdW5GZDUxaUVQYzBr?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T08:46:15+00:00",
-   "summary": "Asia stocks slide to 7-mth low with S.Korea, Taiwan worst hit by AI wipeout Investing.com See more headlines & perspectives on Google News",
-   "body": "Asia stocks slide to 7-mth low with S.Korea, Taiwan worst hit by AI wipeout Investing.com See more headlines & perspectives on Google News",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Taiwan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "အစီးရေ ထောင်ချီ ရပ်နားလာရတဲ့ YBS ရဲ့ နောက်ကွယ်",
    "link": "https://burma.irrawaddy.com/video/2026/11/20/417743.html",
    "source": "Irrawaddy Burmese",
@@ -1560,23 +1413,6 @@
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/YBS-Nov-19-Cover-2-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Trump questions European military aid to Ukraine, says Russia ready for peace talks: Report - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNlM3QUdPcUVIV01KZ3Jyc0g0d0NwZlJLOVctNVlkS0pVaHhHRmp4Ym5DQ1FzMEp3NGoxcjR1MEw3ZDE0VF9aM0lKekJmM3VvUFY4TWNyZ2tjY0J4eGFEbUJPbkQwQ1dfNzR6MlRNUUhaUmxDRWJ1bmNIdEdjY0JZelQwTmRjcC1YcXRkVFhWeU9YRFNIXzh2ZnZZNXdjR0ZUVVRjMGplUDctdlptaU00eGRZQnlONkkxeVRFOUJ2SUg5aVc5UlE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T08:35:52+00:00",
-   "summary": "Trump questions European military aid to Ukraine, says Russia ready for peace talks: Report Anadolu Ajansı",
-   "body": "Trump questions European military aid to Ukraine, says Russia ready for peace talks: Report Anadolu Ajansı",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "အုပ်ချုပ်ရေးနယ်မြေများ ခိုင်မာစေရန် စစ်ရေးနှင့် စီးပွားရေးကို MNDAA တိုးချဲ့",
@@ -1624,19 +1460,6 @@
    "lang": "en"
   },
   {
-   "title": "El Salvador’s Bukele seeks third term after constitution change",
-   "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T08:21:34+00:00",
-   "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
-   "body": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afff059ac70-1795158105.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
    "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
    "source": "NYT World",
@@ -1681,37 +1504,6 @@
    "lang": "en"
   },
   {
-   "title": "US robbery suspects charged over alleged $22M train heist spree",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T07:56:30+00:00",
-   "summary": "US robbery suspects charged over alleged $22M train heist spree",
-   "body": "US robbery suspects charged over alleged $22M train heist spree",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/train-heist-horizontal-thumb-1795161319.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-   "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T07:56:03+00:00",
-   "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
-   "body": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "India",
-    "Pakistan"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-Muslim-population-cover-NOV19-2026-1795082254_b3578a-1795082335.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
    "source": "Google News · Ukraine",
@@ -1724,22 +1516,6 @@
     "Ukraine",
     "Russia",
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Europe Signals Readiness To Negotiate With Russia To End Ukraine War - Arise News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEhpczZ6TTVUcWpQOGEyRW5FZkJvZWkxVkFnd21fbjF3a3BoVjZlMkRHSDJaYUdHSkdXaFgyVndOZWdGZUw1WGplb282MUVVRVJOSW9PZ2RGeVoyWTlMcjVFcW5nXzBOcU56OVl0cnM5ZURUT3FqVmZHeC1WNExWbGdreTdMMnpuMG1YTmp1T2dKeU9x?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T07:38:06+00:00",
-   "summary": "Europe Signals Readiness To Negotiate With Russia To End Ukraine War Arise News",
-   "body": "Europe Signals Readiness To Negotiate With Russia To End Ukraine War Arise News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1770,19 +1546,6 @@
     "Myanmar"
    ],
    "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/viber_image_2026-11-19_21-55-52-431-1024x701.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "The Gambia stood up for the Rohingya, now the world must act",
-   "link": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T07:20:53+00:00",
-   "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
-   "body": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aff05c4750e1-1795098052.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1853,17 +1616,17 @@
    "lang": "en"
   },
   {
-   "title": "Senate rejects resolution to block Trump from striking Iran - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T06:28:54+00:00",
-   "summary": "Senate rejects resolution to block Trump from striking Iran The Washington Post Backing Trump, US Senate Republicans block Iran war resolution Reuters Despite midterm shellacking, Senate GOP declines to rein in Iran war Politico Senate Republicans quash measure aimed at ending un",
-   "body": "Senate rejects resolution to block Trump from striking Iran The Washington Post Backing Trump, US Senate Republicans block Iran war resolution Reuters Despite midterm shellacking, Senate GOP declines to rein in Iran war Politico Senate Republicans quash measure aimed at ending unpopular Iran war USA Today Live updates: Trump wraps Asia trip; Iran war resolution fails The Hill",
-   "category": "Middle East",
-   "is_war": false,
+   "title": "Russia loses another 2,150 troops in war against Ukraine - Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnBMRjdzQm1tRW9la3g5bnZMQnRIOThiWDJDN0dCeWc1WnlXeG9zd0stdGlaS2tITjJFNXZDRnl2TXE0Z01zd1FuMkNPN3RNRlczZFN5NlY1ZEVKR2JKSkNnQ3IyWnMzbkJaT2JQOTF5Y1JEeFZLX0k3SmNLdGplR19kLU1MNkxqa1c2Y3ZtMmJnZTQtdWtFcHFERXlKZlVEbXpnM19ndjDSAa4BQVVfeXFMTzVMTURtQzEwVC1TV1NRdWtOQlpMTkJGTG0teUdJQktIQ1F5Z0FfWTczZktYTkRqUlJQbC1lYlY0b291TXhwOXpNYkUxSi1OZ3dfcDQxQ2xZNFA3aTF6UU5LMU1XZXJVQi1iWmJ4ckl2dlp3bkRzQk9RVUdIWWQ5NzQtX09idjR6YnNNVWQ0SDZKbXczQmp0eFk0NU1pT0Y1THBGQ3EwZFgxN0NfZUxB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T06:23:00+00:00",
+   "summary": "Russia loses another 2,150 troops in war against Ukraine Ukrinform",
+   "body": "Russia loses another 2,150 troops in war against Ukraine Ukrinform",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "United States",
-    "Iran"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1897,33 +1660,111 @@
    "lang": "en"
   },
   {
-   "title": "BepiColombo spacecraft arriving at Mercury after eight years",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFc1plT0pHdW9mdk5HMHFSUHpXS3FOWUI5WFBEcFNfbW94WkFDcWpITU5PUElRaEtESUFYcmZxRlp4dmZUdG1DaERmZEFjcVNCNXNvekNrbWlRR0k?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T05:59:56+00:00",
-   "summary": "BepiColombo spacecraft arriving at Mercury after eight years BBC Spacecraft reaches Mercury on second-ever mission to enter its orbit The Guardian Mercury-bound X-ray telescope delivers first images after eight years in space Phys.org European-Japanese space mission will soon rea",
-   "body": "BepiColombo spacecraft arriving at Mercury after eight years BBC Spacecraft reaches Mercury on second-ever mission to enter its orbit The Guardian Mercury-bound X-ray telescope delivers first images after eight years in space Phys.org European-Japanese space mission will soon reach its final destination — Mercury NPR Two probes are about to arrive at Mercury for an up-close look at this puzzling planet Scientific American",
-   "category": "Global",
-   "is_war": false,
+   "title": "Opinion | There’s one encouraging sign in the grinding Ukraine war - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T05:54:45+00:00",
+   "summary": "Opinion | There’s one encouraging sign in the grinding Ukraine war The Washington Post",
+   "body": "Opinion | There’s one encouraging sign in the grinding Ukraine war The Washington Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "United States",
-    "Japan"
+    "Ukraine",
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-20T05:54:45+00:00",
-   "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy The Washington Post",
-   "body": "Opinion | In Ukraine, the drones are flying faster than the diplomacy The Washington Post",
-   "category": "Ukraine / Russia",
+   "title": "Iran’s Araghchi urges emergency OIC meeting over Israel crime - Mehr News Agency",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUVCTmFYU1gxRjRVVlJPSUlmc2lBV2ZYeXRadHZJano1dFczT2s3dVk0VUdlcFZWT0NIbjJzaGhsZ25qbGNTTGd1clprY19DaGVEUXdlRFFqa0dGRWpIY0VaMG1EYWQ4RUY0LXFRa3g3bk1oMTl1bXRJRXJLWlZZOVFNV1pXeF9EYVJSR25lSGw2dXNBR05qeDJUamxCUQ?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-20T05:34:00+00:00",
+   "summary": "Iran’s Araghchi urges emergency OIC meeting over Israel crime Mehr News Agency",
+   "body": "Iran’s Araghchi urges emergency OIC meeting over Israel crime Mehr News Agency",
+   "category": "Middle East",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "United States"
+    "Israel",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Gaza is the bait for Iran’s online information campaign - Israel National News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54TzNuQjcxVUhhZk91NlR3MmlNQldVdmEzWk1aaXMyaldweDFKVXFMYklOajJCR0R4QmtfRFVfRTdBOFNMUG9lUHRqUUxkQVlNUzZqdnE5Zi12Zw?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-20T05:28:43+00:00",
+   "summary": "Gaza is the bait for Iran’s online information campaign Israel National News",
+   "body": "Gaza is the bait for Iran’s online information campaign Israel National News",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran denounces Israel’s ongoing genocide against Palestinians - Mehr News Agency",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONEtqR21WQXVpSk1yR2NwcXNUb1FGTWtTbVVDZFpOOXVnTGZacVR3Q0owLTlNc1BiV0pQM2FaU05LN0dNa2xXWF9DcV9JclF1U05xV0VnX0F1M0FDczh6VUhDMGVZVmkwR0EtZ3hlQjFwQ0FGZ29FblJTcVFlM1VabjlRZWRuNkktdjl3TDJjMmx4ZDgtZG1SSTN4OA?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-20T05:23:00+00:00",
+   "summary": "Iran denounces Israel’s ongoing genocide against Palestinians Mehr News Agency",
+   "body": "Iran denounces Israel’s ongoing genocide against Palestinians Mehr News Agency",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Love and Carjackings in a Video Game",
+   "link": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+   "source": "NYT World",
+   "published": "2026-11-20T05:15:27+00:00",
+   "summary": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
+   "body": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "",
+   "lang": "en"
+  },
+  {
+   "title": "UK orders expulsion of Myanmar defence attaché after ICJ genocide ruling",
+   "link": "https://myanmar-now.org/en/news/uk-orders-expulsion-of-myanmar-defence-attache-after-icj-genocide-ruling/",
+   "source": "Myanmar Now",
+   "published": "2026-11-20T04:59:13+00:00",
+   "summary": "Britain announced immediate action against Myanmar’s regime, including the expulsion of its defence attaché, and pledged further measures to hold those responsible for the Rohingya genocide accountable",
+   "body": "Britain announced immediate action against Myanmar’s regime, including the expulsion of its defence attaché, and pledged further measures to hold those responsible for the Rohingya genocide accountable",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar",
+    "United Kingdom"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/178-20261119-01-1024x673.jpeg",
+   "lang": "en"
+  },
+  {
+   "title": "Russian Offensive Campaign Assessment, November 19, 2026 - Institute for the Study of War",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A5b21Xcy1Ib3NhZHdma1FIeXhUNmhINllQbUFOMHhhY0k0X1JNb1J0Y3pNRmtacWdXWFBneXR0VXdPaFBPVUJlVWQ1TjB6REtHNGRWYWtuNUNLdXNuUjh3ejBraHdLMk5GMFNlVzhvaHhIYTE0Q29aaFprTlI2UzczRTlrTEZYeEFndGlUWjNaZGtjZUxBM0J2QjFyMEMxNDZMRmh1Uk9fbFZN?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T04:19:06+00:00",
+   "summary": "Russian Offensive Campaign Assessment, November 19, 2026 Institute for the Study of War",
+   "body": "Russian Offensive Campaign Assessment, November 19, 2026 Institute for the Study of War",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1957,6 +1798,153 @@
    ],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/viber_image_2026-11-19_21-55-52-431-1024x701.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Ukraine live: Kyiv hit by missiles after Putin vows ‘painful’ response",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXR4THVKYk5meVlWMWNzQTFyMzhqWHFtOWdqNC1fUllEOEFURkxiV0ltMng1YktmclNuTHZMbnZLTzN6SGl4VV9NeUZGUF9aWmZpYWZNTjhqSFZqOVpkajQyUDkydWJRWHdLZG5WRnRrWGxub0V3RVl1M0FVRUp5MW5wMklBa2VoVnRTbHRnOXlreTNJUDkzMWM0WkpaanFGMExfOGdqM19jbU8yVVhROVZCNFo?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T03:55:15+00:00",
+   "summary": "Ukraine live: Kyiv hit by missiles after Putin vows ‘painful’ response The Independent",
+   "body": "Ukraine live: Kyiv hit by missiles after Putin vows ‘painful’ response The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\" - Axios",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T02:57:38+00:00",
+   "summary": "Trump tells skeptical Europeans: \"Putin wants to end the war\" Axios",
+   "body": "Trump tells skeptical Europeans: \"Putin wants to end the war\" Axios",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T02:49:00+00:00",
+   "summary": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine AP News",
+   "body": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine AP News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+   "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+   "source": "NYT World",
+   "published": "2026-11-20T02:10:57+00:00",
+   "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+   "body": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+   "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+   "source": "NYT World",
+   "published": "2026-11-20T01:37:20+00:00",
+   "summary": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+   "body": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s Phone Call to Facilitate Ukraine War Exposed in Leak - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0Rkd2I0clNrRGtfWldvRmtxcGVhTExLcWNveXNHTWMydkVwTlN2R3NRVzVaZHFZeE1MU0JveW9MNDNVNGhPcjVQbzR6MDk0eTFmWXBvb296YTQ2RmN5RnlpR3duOFNhZXl4RjlBR1BtVkZZRWMyRjFwMUJrYVhJaGRJcGE1ckZHcEtsX0lpZ0I3UUd4ZEEwOEZmRQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-20T00:45:00+00:00",
+   "summary": "Trump’s Phone Call to Facilitate Ukraine War Exposed in Leak Yahoo",
+   "body": "Trump’s Phone Call to Facilitate Ukraine War Exposed in Leak Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJnSGR1SWI4TnZ5UHc4TzlBc215UXN4ZVRvYVZ0OHc2Uk9uTjN6N2hPZ212Z090eXpHWFB1bTgxVDFhSnBhOWFONkJ5NlU4cUNoWXNVYUpHR2VuOWtuT3pXa05QclJoM0kwZ1RmYnZPaHA4cVg3eU9WVjUtTVBKUG8zeGdWVkxVYXV5dUl2dk9raWFhTFFzVXlsWEVKbHZseUFpb01CLVQ5d9IBrwFBVV95cUxNLVN5MWFBRlFfZzZxY3g3amFZUktOcnM0XzItRFkteVl2dEM2c2Utem5kVU9EaXZmLVR5NmE2Y0tSOTM3cjF3VXdySmNMdE13OV9kQ0dQbG9XSWFvSWs4ZDJlYVVhMnRZZHF0c2RsazJwTnlvZkVIU3BacGRpUmtjMnVPeFd1Wlhqay1CMTVYUlBZTHowb2ZtZ3RkSW1FMjdQakFWakJnaUVTdUtCZTNF?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T23:42:52+00:00",
+   "summary": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine Al Jazeera",
+   "body": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine Al Jazeera",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "NATO"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUJudDZOZjNNRzdXdnN5cEE4S3k0UkZiNHdQdVItVXp5TXRRRG45SGpoNjFVR25RUFhzNVBKT0tIY0VrcktHQTNwVlFIdjVjWjZvMFAyOEVzUlgwSzFEbkpCUUpLa21aY2Z3cDFLRnNCT0pFWnRoX241ejNSd2dCQTlWemltbjJ0QUxKRkp5X0dEdGRrbHVUeFBwU1ROVG94OGEwR0xzMlVjeVYwc05qQTNIaTdkZGNvSEp6aVRvWVdQUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T23:13:57+00:00",
+   "summary": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video The Guardian",
+   "body": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnNoSzcxZmxzUHozZl9pd0I2ZF84bklmMjJHQVo4Vk1CWENZdWlhaXVYcE5ndXdoUmxwc3FWWGJFM1dLN2QwakE5cHN3NXhIeHVoU0RFT0l3Vk94WHhRTDBFV0ZYVlhRc29TLVpkX1BoV1Q4M0JBQ2VaQzhGTWV5WVB6SXZVNkZET1BDeDlUN0NGYWIzNF9QcVk1R2lRUFJ6bDdtQnpn0gGrAUFVX3lxTE9tUzNoaTJpa0tpSmFlQ09wZk13Qng2SlJXX2d2NldEYVdxdm5kQ09FTWRWWG5ycjdSNmxmU1VfUlA0eUZPb1ptanBxaGc1MEV6S3M5amxqRUlhMG95VE9FQmxLdVhja25lcWtsbFQxQXd1Nzlfdm5DOEhQNkpzdHV2R2JiVmtvbkRFSlJNOE9FSXROdHVuSVo1SUZSeXNfSVhsdFJKYkhjcnhtVQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-19T23:01:19+00:00",
+   "summary": "At China summit, Trump calls Putin 'my friend' amid Ukraine war ABC News - Breaking News, Latest News and Videos",
+   "body": "At China summit, Trump calls Putin 'my friend' amid Ukraine war ABC News - Breaking News, Latest News and Videos",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "ICJ ဆုံးဖြတ်ချက်နဲ့ တရားမျှတမှုဖော်ဆောင်ရေး စိန်ခေါ်မှု",
@@ -2213,6 +2201,36 @@
     "Myanmar"
    ],
    "image": "https://www.rfa.org/resizer/v2/QVOQU3KGNFEHTEMMIFQADTEF74.jpg?auth=71e6dcc7dd335e9c9dc743195af78fcc2cca6221451cc46e21904fb3bb04f634&smart=true&width=1500",
+   "lang": "my"
+  },
+  {
+   "title": "အာဆီယံ ထုတ်ပြန်ချက်တွေကို သဘောမတူကြောင်း စစ်တပ်ခန့်သမ္မတပြော",
+   "link": "https://rfa.org/burmese/news/2026/11/18/min-aung-hlaing-asean-relationship/",
+   "source": "RFA Burmese",
+   "published": "2026-11-18T18:24:17+00:00",
+   "summary": "မြန်မာနိုင်ငံအပေါ် အာဆီယံရဲ့ ဆုံးဖြတ်ချက်တွေဟာ ကြောင်းကျိုးဆီလျော်မှု မရှိဘူးလို့ စစ်တပ်ခန့်သမ္မတက ပြောလိုက်ပါတယ်။",
+   "body": "မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ အာဆီယံထိပ်သီးအစည်းအဝေးနဲ့ ထုတ်ပြန်ချက်တွေကို မြန်မာအနေနဲ့ သဘောမတူကြောင်းနဲ့ အာဆီယံအဖွဲ့မှာ လုပ်ပိုင်ခွင့်ရှိသူ သုံးလေးဦးက သူတို့ရဲ့ ပုဂ္ဂိုလ်ရေးဆန္ဒနဲ့ မြန်မာကိုဆန့်ကျင်တဲ့ ဆွေးနွေးပွဲတွေ ပြုလုပ်နေကြောင်း စစ်အာဏာသိမ်းခေါင်းဆောင်၊ လက်ရှိ စစ်တပ်ခန့်အစိုးရ သမ္မတဦးမင်းအောင်လှိုင်က နိုဝင်ဘာလ ၁၈ ရက်နေ့က စွပ်စွဲ ပြောကြားလိုက်ပါတယ်။\n\nဖိလစ်ပိုင်နိုင်ငံမှာ ကျင်းပတဲ့ အာဆီယံထိပ်သီးညီလာခံအပြီး နောက်တစ်နေ့ နိုဝင်ဘာလ ၁၈ ရက်နေ့ နေပြည်တော်မှာ ပြုလုပ်တဲ့ စစ်တပ်ခန့်လွှတ်တော်မှာ မိန့်ခွန်းပြောရာမှာ စစ်ခေါင်းဆောင်ဟောင်းက အခုလို စွပ်စွဲလိုက်တာဖြစ်ပြီး အာဆီယံနဲ့ ဆက်ဆံရေးကို ပြန်စဥ်းစားသွားမယ်လို့လည်း ပြောလိုက်ပါတယ်။ နိုဝင်ဘာလ ၁၅ ရက်နေ့က အာဆီယံခေါင်း‌ဆောင်တွေရဲ့ အစည်းအဝေးအတွင်း ထုတ်ပြန်ခဲ့တဲ့ မြန်မာနိုင်ငံဆိုင်ရာ ကြေညာချက်ဟာလည်း ကြောင်းကျိုးဆီလျော်မှု မရှိဘူးလို့ ဝေဖန်လိုက်ပါတယ်။\n\nမြန်မာဟာ အာဆီယံအဖွဲ့ဝင်ဖြစ်လာကတည်းက နှစ်စဉ်ကြေး အမေရိကန်ဒေါ်လာ ၁ သန်းကို ပုံမှန်ပေးသွင်းခဲ့ကြောင်း၊ တခြားအာဆီယံနိုင်ငံတွေမှာ နိုင်ငံရေးအကျပ်အတည်းတွေ၊ အာဏာသိမ်းတာတွေနဲ့ ရွေးကောက်ပွဲအငြင်းပွားမှုတွေ၊ ဆန္ဒပြတာတွေ ဖြစ်ဖူးပေမယ့် မြန်မာလို နိုင်ငံရေးအရ ဖိအားပေးခံရတာ၊ ဂုဏ်သိက္ခာထိခိုက်စေတာ မရှိဘူးလို့လည်း စွပ်စွဲထားပါတယ်။\n\nမြန်မာနိုင်ငံမှာ ၂၀၂၁ စစ်အာဏာသိမ်းပြီးနောက်ပိုင်း စစ်အာဏာသိမ်း ခေါင်းဆောင် ဗိုလ်ချုပ်မှူးကြီး မင်းအောင်လှိုင်ကို နိုင်ငံကိုယ်စားပြု တက်ရောက်ခွင့်ပိတ်ပင်ခဲ့ပြီး အာဆီယံထိပ်သီးညီလာခံတွေမှာလည်း အဆင့်မြင့်ခေါင်းဆောင် တက်ရောက်ခွင့်ကို ကန့်သတ်ထားခဲ့ပါတယ်။\n\nနိုဝင်ဘာလ ၁၅ ရက်နေ့က အာဆီယံခေါင်းဆောင်တွေရဲ့ ကြေညာချက်မှာ… မြန်မာနိုင်ငံမှာ ၂၀၂၁ ခုနှစ် စစ်အာဏာသိမ်းပြီးနောက် ဖြစ်ပေါ်လာတဲ့ နိုင်ငံရေး၊ စစ်ရေး၊ လူမှုရေး အကျပ်အတည်းတွေကို ဖြေရှင်းနိုင်ဖို့ အာဆီယံအဖွဲ့ကြီးက ချမှတ်ခဲ့တဲ့ ဘုံသဘောတူညီချက်ငါးရပ်အပေါ် မြန်မာစစ်ခေါင်း‌ဆောင်တွေ လိုက်နာအကောင်အထည်ဖော်ပြီး တိုးတက်မှုရှိလာတာနဲ့အမျှ အာဆီယံခေါင်းဆောင်တွေရဲ့ အစည်းအဝေးတွေ ပြန်တက်ရောက်ခွင့်ကို စဥ်းစားသွားမယ်လို့ ဖော်ပြထားပါတယ်။",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://www.rfa.org/resizer/v2/NG6OJFLLRFCL7HWHDDUK74N46I.jpg?auth=c34309eadd7126bd79292cc625c1d52b05e9e008fe1b0cf89e6fa6dea57948b2&smart=true&width=1500",
+   "lang": "my"
+  },
+  {
+   "title": "၁၀၂၇ စစ်ဆင်ရေး အလစ်အငိုက်တိုက်ခံရတာလို့ မင်းအောင်လှိုင် ထုတ်ပြော",
+   "link": "https://burma.irrawaddy.com/video/2026/11/18/417719.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-18T12:58:19+00:00",
+   "summary": "မြန်မာအာဏာသိမ်းစစ်တပ်အတွက် သမိုင်းဝင် အရှက်ရဖွယ် အခြေအနေတွေ ကြုံတွေ့ခဲ့ရတဲ့ ရှမ်းပြည်နယ် မြောက်ပိုင်းက ၁၀၂၇ စစ်ဆင်ရေးကြီးဟာ အလိုက်အငိုက် တိုက်ခိုက်ခံခဲ့ရတာလို့ အာဏာသိမ်းသမ္မတ ဦးမင်းအောင်လှိုင်က ထုတ်ပြောခဲ့ပါတယ်။",
+   "body": "မြန်မာအာဏာသိမ်းစစ်တပ်အတွက် သမိုင်းဝင် အရှက်ရဖွယ် အခြေအနေတွေ ကြုံတွေ့ခဲ့ရတဲ့ ရှမ်းပြည်နယ် မြောက်ပိုင်းက ၁၀၂၇ စစ်ဆင်ရေးကြီးဟာ အလိုက်အငိုက် တိုက်ခိုက်ခံခဲ့ရတာလို့ အာဏာသိမ်းသမ္မတ ဦးမင်းအောင်လှိုင်က ထုတ်ပြောခဲ့ပါတယ်။\n\nသူကိုယ်တိုင် စိတ်ကြိုက် စီမံဖန်တီးထားတဲ့ နေပြည်တော်က လွှတ်တော်မှာ နိုဝင်ဘာလ ၁၈ ရက်နေ့က ၂ နာရီကျော် ကြာမြင့်တဲ့မိန့်ခွန်းထဲမှာ အခုလို ထည့်သွင်းပြောဆိုသွားခဲ့တာ ဖြစ်ပြီး ၁၀၂၇ စစ်ဆင်ရေးကို မြန်မာအမျိုးသားဒီမိုကရက် တစ်မဟာမိတ်တပ်မတော် (MNDAA) အတွက် နည်းပညာနဲ့ လူအင်အား အကူအညီပေးခဲ့သူတွေ ရှိတယ်လို့ ပြောဆိုသွားခဲ့ပါတယ်။\n\nဒါပေမယ့် အကူအညီပေးသူတွေက ဘယ်သူတွေလဲဆိုတာကိုတော့ အမည်နာမတွေ ထုတ်မပြောသွားခဲ့ပေမယ့် အကြမ်းမဖက် အာဏာဖီဆန်ရေးလှုပ်ရှားမှု (CDM) အရာရှိတွေကတော့\n\nတရုတ်ကို စောင်းမြောင်းပြောဆိုတာလို့ သုံးသပ်ကြပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #တရုတ် #မင်းအောင်လှိုင် #၁၀၂၇စစ်ဆင်ရေး #WhatsHappensInMyanmar",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/1027-Min-Aung-Hlaing-Nov-18-Cover-900x506.jpg",
    "lang": "my"
   }
  ]
