@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:38:53.133761+00:00",
- "updated_yangon": "2026-11-22 03:08",
+ "updated": "2026-11-21T21:38:55.959517+00:00",
+ "updated_yangon": "2026-11-22 04:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -17,75 +17,71 @@
  ],
  "countries": [
   [
-   "Russia",
-   34
-  ],
-  [
    "United States",
-   33
+   36
   ],
   [
    "Ukraine",
+   31
+  ],
+  [
+   "Russia",
    29
   ],
   [
    "Iran",
-   12
-  ],
-  [
-   "China",
-   10
+   13
   ],
   [
    "Myanmar",
-   10
+   9
   ],
   [
-   "Palestine",
-   4
-  ],
-  [
-   "Israel",
-   4
+   "China",
+   8
   ],
   [
    "Poland",
+   4
+  ],
+  [
+   "Palestine",
    3
   ],
   [
-   "Australia",
+   "India",
    3
-  ],
-  [
-   "NATO",
-   2
-  ],
-  [
-   "Taiwan",
-   2
   ],
   [
    "France",
-   2
+   3
+  ],
+  [
+   "European Union",
+   3
+  ],
+  [
+   "Israel",
+   3
   ],
   [
    "United Kingdom",
    2
   ],
   [
-   "European Union",
-   1
-  ],
-  [
-   "India",
-   1
-  ],
-  [
    "Turkey",
    1
   ],
   [
+   "NATO",
+   1
+  ],
+  [
    "Japan",
+   1
+  ],
+  [
+   "Germany",
    1
   ],
   [
@@ -97,7 +93,11 @@
    1
   ],
   [
-   "Germany",
+   "Taiwan",
+   1
+  ],
+  [
+   "Australia",
    1
   ],
   [
@@ -106,7 +106,6 @@
   ]
  ],
  "categories": [
-  "Africa",
   "Asia-Pacific",
   "Europe / NATO",
   "Global",
@@ -116,23 +115,171 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 29,
+ "war_count": 26,
  "languages": {
-  "my": 27,
-  "en": 113
+  "my": 25,
+  "en": 115
  },
  "items": [
   {
    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
    "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
    "source": "NYT World",
-   "published": "2026-11-21T20:28:34+00:00",
+   "published": "2026-11-21T21:12:23+00:00",
    "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
    "body": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+   "image": "https://static01.nyt.com/images/2026/11/21/espanol/21int-cartel-arrest-zqtf-ES-copy1/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Impunity fuels surge in settler violence across occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T21:11:54+00:00",
+   "summary": "Impunity fuels surge in settler violence across occupied West Bank",
+   "body": "Impunity fuels surge in settler violence across occupied West Bank",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795295433.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Indian man jailed over plot to kill Sikh separatist in US",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T21:09:18+00:00",
+   "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+   "body": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795295264.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Nebraska ends 31-game losing streak against ranked opponents as it buries No. 14 Ohio State's playoff chances - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOUdjV0JpYktNc1hEWWYtYkFobUtHbldxcDJyN2VNanVGcTlGMjB5eUo0Mm9VQ2NFUi1YZXJ6NG9IamU3cUlUNWx6TFNDd29tVjZsN3lNakRXaXJwdC1DeFFmV3J6WWVwTGk0dmZfU0M5ZEF6NGpWclRRcGRHSnJjeXFVYmY5dTVVc0ROeFNaWFpBRktTQ09oY2haZVliNTQ3SUhrSHhXRjJzT0pzYzZ4MjJxMTl1R0MyRXpObDhoQnlaT1B1NXNWai1xUjhMeE1UanoxVUZaWGlmTTRXV3Mzd2gzVmJyam5KblhlMlByWGdDZXFnUjd5QWFsbnZEU2NnbW93VEhqcnNRZlVyT2RtTTlBdVc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T21:04:28+00:00",
+   "summary": "Nebraska ends 31-game losing streak against ranked opponents as it buries No. 14 Ohio State's playoff chances Yahoo Sports Week 12 live: Tracking top moments and best highlights ESPN Nebraska finally does it: First ranked win since 2016 ends Ohio State’s CFP hopes for good The Ne",
+   "body": "Nebraska ends 31-game losing streak against ranked opponents as it buries No. 14 Ohio State's playoff chances Yahoo Sports Week 12 live: Tracking top moments and best highlights ESPN Nebraska finally does it: First ranked win since 2016 ends Ohio State’s CFP hopes for good The New York Times Ohio State's postseason hopes dashed as Nebraska gashes Buckeyes for 31-28 win 247Sports Nebraska hosts Ohio State for final home game of season WOWT",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+   "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T21:02:18+00:00",
+   "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+   "body": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01f9ee35b6-1795291630.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+   "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T20:56:35+00:00",
+   "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+   "body": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b01e7c0bd47-1795286976.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Zelensky calls Putin a ‘killer’ as he slams Trump’s friendship with Moscow",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T20:56:28+00:00",
+   "summary": "Ukraine-Russia war latest: Zelensky calls Putin a ‘killer’ as he slams Trump’s friendship with Moscow The Independent",
+   "body": "Ukraine-Russia war latest: Zelensky calls Putin a ‘killer’ as he slams Trump’s friendship with Moscow The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Thousands protest across Europe over living costs and housing",
+   "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T20:47:50+00:00",
+   "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+   "body": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T171053Z_1177590545_RC2FSOAHFU7E_RTRMADP_3_PORTUGAL-POLITICS-PROTESTS-1795290649.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T20:38:20+00:00",
+   "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+   "body": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795293493.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+   "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+   "source": "NYT World",
+   "published": "2026-11-21T20:35:07+00:00",
+   "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+   "body": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Main Card Results | UFC Qatar - UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyVkZBdjNvX0NKQnV5SUlMaUtvOTBHaUV3eHk5LUhKV0JBQmpLNGt6azNKbXJESXplbnlSNmtiUGRPc3hXVVFSbjhSa2dYQjZBTDhpR0tOa3hGMjFPT1R6Qkw3a0I1c2gwcG9OenpKQ1dDZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T20:33:46+00:00",
+   "summary": "Main Card Results | UFC Qatar UFC.com UFC Qatar Post-Fight Press Conference Yahoo Sports UFC Qatar live blog: Jiri Prochazka vs. Navajo Stirling MMA Fighting How and where to bet UFC Fight Night: Prochazka vs Stirling: Sportsbook promos, betting apps, odds, picks CBS Sports UFC Q",
+   "body": "Main Card Results | UFC Qatar UFC.com UFC Qatar Post-Fight Press Conference Yahoo Sports UFC Qatar live blog: Jiri Prochazka vs. Navajo Stirling MMA Fighting How and where to bet UFC Fight Night: Prochazka vs Stirling: Sportsbook promos, betting apps, odds, picks CBS Sports UFC Qatar results: Navajo Stirling ends night with emphatic KO over former champ Yahoo Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -153,36 +300,18 @@
    "lang": "en"
   },
   {
-   "title": "Zelensky calls Putin a ‘killer’ as he slams Trump’s ‘friendship’ with Moscow: Live",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T20:10:48+00:00",
-   "summary": "Zelensky calls Putin a ‘killer’ as he slams Trump’s ‘friendship’ with Moscow: Live The Independent",
-   "body": "Zelensky calls Putin a ‘killer’ as he slams Trump’s ‘friendship’ with Moscow: Live The Independent",
+   "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+   "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T20:15:13+00:00",
+   "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+   "body": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
     "United States"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - Goshen News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZG95SEl0bmYzemZ5cDZqcFpSVlE3TENkVXNOQ2hNYkd2ZjhEYjdLZlAxRFd1djJ4M3hCblhPMi0zcllCTEZBekhNVGU2R1pZcHl3RW1QS1Z3Yzh4SUYyMzVkTmlvd3RGdFltejRyYzZkeTBuLUVIU3lwYnFRY2dycXFmalU0Qm1ya0NQOHJQQnFOUU5sdWdKZGVtQ29ETl9MRjNOMFNTSlR6MDNIWlpZRmp3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T20:01:10+00:00",
-   "summary": "Russia Ukraine War Goshen News",
-   "body": "Russia Ukraine War Goshen News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6affd5f9cea7-1795151353.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -190,8 +319,8 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQU02N05ZSjQzY0IyYWZwc2VDSGVzeFBMWmdRLVpMR05HVUViSF9iVjh4VmUwemVaRHRuM1RTek81RXBoZHJOazNBeXpURHhTNnNUZGJRVzJsQ3U0NURZYlNEZGp6d2R1NUZrOUV6ems3ZHZZOXhkUjV5R0laNGlMcjZiQ0hhd1Njd1l6RTFJVnlVOVM5?oc=5",
    "source": "Google News",
    "published": "2026-11-21T19:54:42+00:00",
-   "summary": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News See more headlines & perspectives on Google News",
-   "body": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News See more headlines & perspectives on Google News",
+   "summary": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News Fausto Isidro Meza Flores: Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation CNN Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts The Ne",
+   "body": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News Fausto Isidro Meza Flores: Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation CNN Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts The New York Times 11 killed in burst of violence in northern Mexico after capture of cartel leader AP News Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid The Guardian",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [],
@@ -203,8 +332,8 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
    "source": "Google News",
    "published": "2026-11-21T19:54:08+00:00",
-   "summary": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times How does Puka's injury impact his future in LA? Yahoo Sports Rams' Puka Nacua has MCL surgery, likely done for regular season ESPN NFL didn’t know Puka ",
-   "body": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times How does Puka's injury impact his future in LA? Yahoo Sports Rams' Puka Nacua has MCL surgery, likely done for regular season ESPN NFL didn’t know Puka Nacua had surgery when agreeing to suspension NBC Sports Fallout From Rams WR Puka Nacua’s 3-Game Suspension ProFootballRumors.com",
+   "summary": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times Rams’ Puka Nacua era ‘probably’ over after NFL suspension, injuries Yahoo Sports Rams WR Puka Nacua likely out for season after undergoing knee surgery ",
+   "body": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times Rams’ Puka Nacua era ‘probably’ over after NFL suspension, injuries Yahoo Sports Rams WR Puka Nacua likely out for season after undergoing knee surgery NFL.com Injury Updates: Puka Nacua out for 'couple months' as he will undergo MCL surgery; Kobie Turner expected to return to practice; latest on Terrance Ferguson, Davante Adams and Justin Dedich Rams Rams’ Puka Nacua Suspension Brings New Claim From NFL Official Yahoo Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -222,6 +351,51 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01f4d3a5-1795290323.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials - Page Six",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWxwNHFaTnZCaVRIUTJ3clJSUHN4V3hMR0pyejRmRm9mMjVTNHhTd0ZoeXNlMkdscDBJd3BRZExscGYyV3BhV25fdVBoUU54OHB3emRhUWRidFFhN19rcVBNUlBNdFZpVHAtUUJiNWVMOFVHNm5EYl94YnhCd0E3WHlIMHpsX2NKQVVXREd2a210MU0xYU1wWU8waHlKWjhMS2ZQU1ZSWE5BVjdpV3RHMDREaENIZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T19:53:00+00:00",
+   "summary": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials Page Six Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ahead of Their Reported Wedding People.com Miley Cyrus and Maxx Morando’s wedding venue revealed in ne",
+   "body": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials Page Six Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ahead of Their Reported Wedding People.com Miley Cyrus and Maxx Morando’s wedding venue revealed in new photos as final preparations get underway Page Six Miley Cyrus’ Stepsister Shares Glimpse Inside Singer and Maxx Morando’s Wedding Rehearsal Dinner Yahoo Miley Cyrus to Wed Maxx Morando This Weekend—Inside Their Private Malibu Marital Mansion Realtor.com",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlUcjlPZURmRnhmY2JJZVVBTkhfUEM2bmhqRDZfQkZJMTBEc2hQSDdRVFQ0N1BjTW1rMXNrSnM4R0R6SVcyZXJpWEVVU3hkU0dsX0otVk1HNV9abFFBTkVUeXMtdHk2WVFUcEVFOVVUVlZUeTFUdXBuVzVHMVFmeFdFVExwTWtJVC1sd0dEVDVSdXdHZUhVRDc4MU5rYU1laFBn?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-21T19:38:00+00:00",
+   "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News",
+   "body": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news - Traverse City Record-Eagle",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONzRBNllIR1c4SzBCNjZMblR0TTNfM2JLNTI2RHlPTjRjY1ItOVNCak9nMlhUa2NENTNTUTNoSHE1TGFUaVgyRTNITVBMb3VOcEhhMEVKMXVmM2ZPREppTHN2NlJsdVQ1ODVFeTROYzBxVF9IbGxsMUZScW83WW1DYkJoVld0NFNfV2dHa3hDYVlxREptbVkyRHFtWHlVa0xfNFc3VDU5Mkh3NENuM1MtNUNhT0ZqQ2JEdDRMMUplaVNJN0ZNZXRWX1RiS1Btb19UMkhTa3lRdWRkSjQ0REhQMjhQRFpUYjVqa0V5a2JjVnpVMXEzRDVIMW9hSXI0dHc?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-21T19:38:00+00:00",
+   "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news Traverse City Record-Eagle",
+   "body": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news Traverse City Record-Eagle",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -249,6 +423,21 @@
    "countries": [
     "Palestine",
     "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T19:20:22+00:00",
+   "summary": "Russia-bound ship attacked in Gulf of Finland BBC Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN Cargo ship bound for Russia’s Kaliningrad hit by drones, Finland tightens security NBC News Russian helicopter suspected of violating Finnish airspace,",
+   "body": "Russia-bound ship attacked in Gulf of Finland BBC Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN Cargo ship bound for Russia’s Kaliningrad hit by drones, Finland tightens security NBC News Russian helicopter suspected of violating Finnish airspace, after tanker hit by drone in Baltic Sea DW.com Russian cargo ship is attacked by drones in Gulf of Finland The Seattle Times",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -284,21 +473,6 @@
    "lang": "en"
   },
   {
-   "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
-   "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-   "source": "NYT World",
-   "published": "2026-11-21T18:53:42+00:00",
-   "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
-   "body": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
    "source": "Al Jazeera",
@@ -319,28 +493,12 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWW9ubi1tcjZXaGYwZGlRbGNjbk5ZRk1mVXRoUEZlN2dVWmZGYzY1WTh1SlJTOVZQVFdudGVkUXBhR0RoTms4eGlyaXQwY1Y1ZjlsdF9iMWQxRWh5UTB6bFAtVjNMYlIzRXVNQmdwX3pRRTJ6VkhyeFVvbTBhTmdqd0w3TEZHNEhqbDYzOWRxZlJFTlR6VGg2YUhoRXVPYnpabjF4aXJweXZ2a3BxWENHRk5SM21FN2NJUkNvQUxZZnVST3BtX1E?oc=5",
    "source": "Google News",
    "published": "2026-11-21T18:33:35+00:00",
-   "summary": "White House seeks to limit information contractors should share with Congress The Washington Post New Trump executive order seeks to block federal contractors from talking to Congress Politico Trump Moves to Restrict Congressional Oversight of Contractors The New York Times Trump",
-   "body": "White House seeks to limit information contractors should share with Congress The Washington Post New Trump executive order seeks to block federal contractors from talking to Congress Politico Trump Moves to Restrict Congressional Oversight of Contractors The New York Times Trump limits Congress’s accesses to confidential agency, contractor information The Hill New Trump executive order seeks to thwart Democrats’ investigations MS NOW",
+   "summary": "White House seeks to limit information contractors should share with Congress The Washington Post New Trump executive order seeks to block federal contractors from talking to Congress Politico Trump orders contractors to get approval for Congress queries The Detroit News Trump Mo",
+   "body": "White House seeks to limit information contractors should share with Congress The Washington Post New Trump executive order seeks to block federal contractors from talking to Congress Politico Trump orders contractors to get approval for Congress queries The Detroit News Trump Moves to Restrict Congressional Oversight of Contractors The New York Times New Trump executive order seeks to thwart Democrats’ investigations MS NOW",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T18:33:24+00:00",
-   "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds The Washington Post Trump’s Picks for Top Jobs Keep Running Into Trouble in Senate WSJ Trump’s looming nominations crunch Vox A Republican Senator Just Tanked 2 Of Trump's Most Contentious Nominees HuffP",
-   "body": "GOP set to block Trump Pentagon picks as other military moves face headwinds The Washington Post Trump’s Picks for Top Jobs Keep Running Into Trouble in Senate WSJ Trump’s looming nominations crunch Vox A Republican Senator Just Tanked 2 Of Trump's Most Contentious Nominees HuffPost Trump’s Picks for Top Jobs Hit Roadblocks in Senate | The Wall Street Journal - newspaper Magzter",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -366,52 +524,8 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5",
    "source": "Google News",
    "published": "2026-11-21T18:22:46+00:00",
-   "summary": "Storms expected on both coasts threatens Thanksgiving travel NPR Thanksgiving travel forecast: Storms on the East Coast and an atmospheric river in California could disrupt travel for millions Yahoo Thanksgiving outlook: Rain, possible snow to snarl holiday travel for millions as",
-   "body": "Storms expected on both coasts threatens Thanksgiving travel NPR Thanksgiving travel forecast: Storms on the East Coast and an atmospheric river in California could disrupt travel for millions Yahoo Thanksgiving outlook: Rain, possible snow to snarl holiday travel for millions as El Niño fuels storms FOX Weather Tracking potential winter weather post Thanksgiving due to coastal storm development WCAX Barrage of storms to continue hammering West Coast through Thanksgiving week AccuWeather",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine says Russia's latest barrage used cluster warheads and timed missile waves to endanger repair crews - Latin Times",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVpMZm0tWXJaTGotM3FGS2FRaFV0ZFNYTjVNUXptV2dELTFXWTJnNlRFUW1GX1VSSGhtSHNGYjgwdmtTMU5CWW9XTHl2TXlhdjM2LU4wNFpRRHRjRjhpU04zX0d6RGtRYmpRWWh0WUVIU1E2R2szTDRfY2lhbXNmU0pnTE12dw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T18:22:19+00:00",
-   "summary": "Ukraine says Russia's latest barrage used cluster warheads and timed missile waves to endanger repair crews Latin Times",
-   "body": "Ukraine says Russia's latest barrage used cluster warheads and timed missile waves to endanger repair crews Latin Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia-bound ship attacked in Gulf of Finland",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T18:22:09+00:00",
-   "summary": "Russia-bound ship attacked in Gulf of Finland BBC",
-   "body": "Russia-bound ship attacked in Gulf of Finland BBC",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Official Scorecards | UFC Qatar - UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk5ZeHhDS1BFQ3lSeFNHUVRRcHhScS00aEFaY0JoZkNyTXpCTEoyMjNta3dyMWExN29BM2dadGl0R3R3YVRJeFhYdHpXUjQxMFl3UlNMblBvdmM5N0tjM0o5c3owOFVXd29ZdllYaC15WS1ISVp2UXNQbU9NM1lPZkpn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T18:20:11+00:00",
-   "summary": "Official Scorecards | UFC Qatar UFC.com UFC Qatar live now: Prochazka vs. Stirling results, round-by-round updates for today's fights Yahoo Sports UFC Fight Night: Prochazka vs. Stirling Live Updates, Highlights and Results Bleacher Report How and where to bet UFC Fight Night: Pr",
-   "body": "Official Scorecards | UFC Qatar UFC.com UFC Qatar live now: Prochazka vs. Stirling results, round-by-round updates for today's fights Yahoo Sports UFC Fight Night: Prochazka vs. Stirling Live Updates, Highlights and Results Bleacher Report How and where to bet UFC Fight Night: Prochazka vs Stirling: Sportsbook promos, betting apps, odds, picks CBS Sports Live Now! UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring Sherdog",
+   "summary": "Storms expected on both coasts threatens Thanksgiving travel NPR Thanksgiving travel forecast: Storms on the East Coast and an atmospheric river in California could disrupt travel for millions Yahoo Potential Thanksgiving storm could bring rain, snow and travel disruptions to DC ",
+   "body": "Storms expected on both coasts threatens Thanksgiving travel NPR Thanksgiving travel forecast: Storms on the East Coast and an atmospheric river in California could disrupt travel for millions Yahoo Potential Thanksgiving storm could bring rain, snow and travel disruptions to DC region, East Coast FOX 5 DC Millions across 20+ states face Thanksgiving travel disruptions as powerful storms take aim at both coasts FOX Weather Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -500,8 +614,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
    "source": "Google News",
    "published": "2026-11-21T18:00:00+00:00",
-   "summary": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News Live - Trump seeks permanent deal as Iran vows to break US blockade Iran International Trump insists Iran won’t make an ‘acceptable’ deal as concerns grow about next ste",
-   "body": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News Live - Trump seeks permanent deal as Iran vows to break US blockade Iran International Trump insists Iran won’t make an ‘acceptable’ deal as concerns grow about next steps AP News Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his approval of war The Times of Israel Trump on Iran deal: 'Current leadership may be more reasonable, but very difficult to deal with' The Jerusalem Post",
+   "summary": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News Live - Trump seeks permanent deal as Iran vows to break US blockade Iran International Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his",
+   "body": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News Live - Trump seeks permanent deal as Iran vows to break US blockade Iran International Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his approval of war The Times of Israel Trump insists Iran won’t make an ‘acceptable’ deal as concerns grow about next steps AP News Trump on Iran deal: 'Current leadership may be more reasonable, but very difficult to deal with' The Jerusalem Post",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -517,27 +631,11 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
    "source": "Google News",
    "published": "2026-11-21T18:00:00+00:00",
-   "summary": "RFK Jr. vows to curb a measles crisis he initially underestimated The Washington Post The return of measles in America The Economist CIDRAP Op-Ed: Measles didn't come back overnight; here are 5 things we need now CIDRAP Measles has come raging back in the US. Robert F Kennedy Jr ",
-   "body": "RFK Jr. vows to curb a measles crisis he initially underestimated The Washington Post The return of measles in America The Economist CIDRAP Op-Ed: Measles didn't come back overnight; here are 5 things we need now CIDRAP Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine The Guardian Measles in America: There's an effective way to beat the highly contagious disease and the US knows it DW.com",
+   "summary": "RFK Jr. vows to curb a measles crisis he initially underestimated The Washington Post How Kennedy let measles run wild in America Reuters CIDRAP Op-Ed: Measles didn't come back overnight; here are 5 things we need now CIDRAP Measles in America: There's an effective way to beat th",
+   "body": "RFK Jr. vows to curb a measles crisis he initially underestimated The Washington Post How Kennedy let measles run wild in America Reuters CIDRAP Op-Ed: Measles didn't come back overnight; here are 5 things we need now CIDRAP Measles in America: There's an effective way to beat the highly contagious disease and the US knows it DW.com The return of measles in America The Economist",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXpPZ0pLRE1EdmVFUXFIeHBEQjNBbHJSUGgwSDZLSzV4TXJ6eVVlMEpqTFJtOEp1N1gtaFlUcHF3M3BJRXJjdnAydXVFWnczRTVwbUcySF9VQUlwSndtOURNbjNRU3VNZ1VOa2xmYmVxcEJrbXdEakJqUldUdTZINHJkNUtTMkl6WUJBTWZsdEJ1d19yVldVaWlxQXRBaS11STBJN2VUUnd4U05fSW5MTU52RTduOGt5aHdyZnNR0gHDAUFVX3lxTE4wUFRSVWo2bjNuNVEzSG5uZjRhRUstZk1id3EzbnI2WXdJNUgzU0IxTHRQTU5haFdVX0puZFdERXJ4S0hJRFZVZkpGNkxmLVFpbXJYVGY3dFpXcGRaQzZpeWc3TVVrVmxLTERPcEVFNTY2THhIeFYxSkc5dGYwOTRmaGVCSlRoWWRIUmZlUUVxLVFPb0NOYVlHMWxlTTE4V201X25tY1labG1jUTNOSmZ3b0F5Q0NrMUNpcUpMOGJkX0NXOA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T17:57:35+00:00",
-   "summary": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal Fox News",
-   "body": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal Fox News",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "Russia",
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -557,6 +655,22 @@
    "lang": "en"
   },
   {
+   "title": "Have the Polish people turned against Ukraine?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2Z2bzltcXQwNjBvWk5QRkduZ3h5bmhyZ1N4d3VKQkd4dTZlcFppT2YtT1JicVVtOWtQaW1vak9BU3hGUWxSOWE2MmFWdl91N1hrR0I4b1UwaGw2Z0lxanM0ZlZzZDFYdS1vd2cwTWRtS0ZXT0puLXpzSlVCUVNTSnI5LV9JSU1VaVVCTjJ0SWZBSkE0V0ZSTDVLcjRHY19GQUpkSWY3QS1mWTJybTM4WWV0MA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T17:55:00+00:00",
+   "summary": "Have the Polish people turned against Ukraine? The Times",
+   "body": "Have the Polish people turned against Ukraine? The Times",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Poland"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
    "source": "Al Jazeera",
@@ -573,45 +687,16 @@
    "lang": "en"
   },
   {
-   "title": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback - The Hollywood Reporter",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
+   "title": "The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option.",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiRVVwNTRDWXZubUNuR3d5QzlvX29WSzQ3a1JyVTNGTlZFRkVJaUVxLWlXaXRzUnRsbGdEMDgzanhReDdsRFhiUFQ2bFR4Vko3NjkyRUZ2ZXlxVG5UckNxMGM1WUJGdC1lY2Z4RDI2ME9TYzBSY2tpdQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-21T17:43:05+00:00",
-   "summary": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback The Hollywood Reporter Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series Deadline \"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. Variet",
-   "body": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback The Hollywood Reporter Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series Deadline \"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. Variety How Do Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Appear in ‘Sunrise on the Reaping’? TODAY.com The New Hunger Games Movie Contrives a Funny Solution to the Book’s Biggest Problem Slate",
+   "published": "2026-11-21T17:45:43+00:00",
+   "summary": "The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option. The New York Times Why is the US Army detonating lead-rich explosives in Iowa? Al Jazeera Justice Department to oppose bid to block the US Army's lead detonation in Iowa Iowa Public Radio Judg",
+   "body": "The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option. The New York Times Why is the US Army detonating lead-rich explosives in Iowa? Al Jazeera Justice Department to oppose bid to block the US Army's lead detonation in Iowa Iowa Public Radio Judge halts Army’s plan to detonate 5 tons of bomb-making material as Iowa residents worry about lead exposure CNN Weather forecast shifts potential lead fallout zone for delayed Army detonation in Iowa KWQC",
    "category": "Global",
    "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Taiwan warns Canada faces the China risks Carney has cautioned against - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1owc1lBZ1JHZVgtWDFWMEl1dVMyYXRjSkh0bTN0RHIzTHpkY042WFo5OHQtamYzLVVkelVzQ3otMFVQankyUVRkS0IwcWdWdERrZFBvYm9PbGVFN3ItRUJXd0lEbkJmblJDVmx0QlJZZUtxM2owbDRuTk13N2xsT3FqeWtpR2JqVkhIeFZmVWlJN2lhNlE?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-21T17:39:51+00:00",
-   "summary": "Taiwan warns Canada faces the China risks Carney has cautioned against Yahoo",
-   "body": "Taiwan warns Canada faces the China risks Carney has cautioned against Yahoo",
-   "category": "Asia-Pacific",
-   "is_war": true,
    "countries": [
-    "China",
-    "Taiwan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian cargo ship hit by drones in Baltic, Finland tightens security",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T17:36:04+00:00",
-   "summary": "Russian cargo ship hit by drones in Baltic, Finland tightens security Reuters Russia-bound ship attacked in Gulf of Finland BBC Cargo ship bound for Russia’s Kaliningrad hit by drones, Finland tightens security NBC News Russian helicopter suspected of violating Finnish airspace, ",
-   "body": "Russian cargo ship hit by drones in Baltic, Finland tightens security Reuters Russia-bound ship attacked in Gulf of Finland BBC Cargo ship bound for Russia’s Kaliningrad hit by drones, Finland tightens security NBC News Russian helicopter suspected of violating Finnish airspace, after tanker hit by drone in Baltic Sea DW.com Russian crew evacuating ship hit by drones off coast of Finland Al Jazeera",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -621,8 +706,8 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
    "source": "Google News",
    "published": "2026-11-21T17:26:00+00:00",
-   "summary": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon The Guardian Trump Grows Frustrated With Vance Over Iran War Critique The New York Times 2028 Republican primary: Why everyone, even the GOP, is sick of JD Vance Vox US Vice President Vance decline",
-   "body": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon The Guardian Trump Grows Frustrated With Vance Over Iran War Critique The New York Times 2028 Republican primary: Why everyone, even the GOP, is sick of JD Vance Vox US Vice President Vance declines to say he would have ordered Iran strikes Reuters Vance sidesteps question on the Iran war, saying, ‘My job is to support the president’ NBC News",
+   "summary": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon The Guardian Trump Grows Frustrated With Vance Over Iran War Critique The New York Times US Vice President Vance declines to say he would have ordered Iran strikes Reuters 2028 Republican primary: ",
+   "body": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon The Guardian Trump Grows Frustrated With Vance Over Iran War Critique The New York Times US Vice President Vance declines to say he would have ordered Iran strikes Reuters 2028 Republican primary: Why everyone, even the GOP, is sick of JD Vance Vox Vance sidesteps question on the Iran war, saying, ‘My job is to support the president’ NBC News",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -646,16 +731,17 @@
    "lang": "en"
   },
   {
-   "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlUcjlPZURmRnhmY2JJZVVBTkhfUEM2bmhqRDZfQkZJMTBEc2hQSDdRVFQ0N1BjTW1rMXNrSnM4R0R6SVcyZXJpWEVVU3hkU0dsX0otVk1HNV9abFFBTkVUeXMtdHk2WVFUcEVFOVVUVlZUeTFUdXBuVzVHMVFmeFdFVExwTWtJVC1sd0dEVDVSdXdHZUhVRDc4MU5rYU1laFBn?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-21T17:21:00+00:00",
-   "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News",
-   "body": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News",
-   "category": "Middle East",
-   "is_war": true,
+   "title": "Realistic? President Trump pushes a year-end Ukraine peace deal - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hXQk14aXMtWmhZcGRmUS1TUUVDMjUyazZSV1JzVXFvQWxZTDZyZ1RTZ05qMGZ5WFluXzM4ZncwX3oyM21hVVlkc0pyTDAzYmZySHFvSUZSWEZ0ekNfekdTUzZfMDJLS1NMRUhvVGxWc2szal9uVDVuZmc1eFVZWS1XWVlOX3B1VzJKVzUyUFZHbGR4cXNyZV8za2o5MFJz?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T17:21:20+00:00",
+   "summary": "Realistic? President Trump pushes a year-end Ukraine peace deal DW.com",
+   "body": "Realistic? President Trump pushes a year-end Ukraine peace deal DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": false,
    "countries": [
-    "Iran"
+    "Ukraine",
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -691,21 +777,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump says he'd work with Dems to cap credit card interest, fees - Axios",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VmlHVnQwVGE3ejRNcTlLSmhLbGtPb3VwNGpxMmtPMGRjeWEtaXVIaUJCUWNuaTFpVG55ZkI4RkNDTXFPZ1NfR1dIb25McVhTeVhIc3pBbEx0X1FXdWJRLXlTcmoxeVhVTml1SVZTRWhudw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T17:16:24+00:00",
-   "summary": "Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrats to cap credit card interest rates CBS News Trump Open to Working With Dems on Credit Card Cap After Warren Offer Newsweek Trump pledges to work with Democrats to cap credit ca",
-   "body": "Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrats to cap credit card interest rates CBS News Trump Open to Working With Dems on Credit Card Cap After Warren Offer Newsweek Trump pledges to work with Democrats to cap credit card interest rates FOX 32 Chicago ‘I’m All Into It’: Trump Says He’s Definitely Down to Work with Democrats on Capping Credit Card Rates Mediaite",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
    "link": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
    "source": "NYT World",
@@ -725,8 +796,8 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjhEYkRqdG81LV9ZZm9ScHRKYTUybnFBc3NHOWQ2dTFCZURHem9fMWVKWklZMXRvNTlodjgyWm5Ca0NfLXFZWEFOdVl2LTdmODRmVXV0WERkNklXM0hPMnRha3ExS1FNS0cwM0FBcVJDbzVoS01ib3N4Wm92YWJHSUdTTVFyaUcweXVoTUU4Y2N4WHB3d0hqSktqWTRXSi1pMUs0amI3eWJwdGVUWVhjWDBHRm1tZVcyS0IwMkl5Q1BzYTNt?oc=5",
    "source": "Google News",
    "published": "2026-11-21T17:00:42+00:00",
-   "summary": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. NBC News Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) The New York Times ‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida Ya",
-   "body": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. NBC News Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) The New York Times ‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida Yahoo Tech Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales Take-Two Interactive Software, Inc. GTA 6 first-day sales of $3.8B is largest entertainment launch ever USA Today",
+   "summary": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. NBC News Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) The New York Times ‘GTA VI’ sales blew past $3 billion in its first day, making it one of the biggest entertainment launches ever ",
+   "body": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. NBC News Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) The New York Times ‘GTA VI’ sales blew past $3 billion in its first day, making it one of the biggest entertainment launches ever CNN Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales Take-Two Interactive Software, Inc. ‘Grand Theft Auto’ Drives Internet Providers to Busiest Day Ever Bloomberg.com",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -734,17 +805,15 @@
    "lang": "en"
   },
   {
-   "title": "Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehearsal dinner with her famous family - Page Six",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHFJSmFOMFJneElVbXotaW84bkE2M3hnZ0d3b3A0clBpeExxZnN1RUNWRUxJTG5uOHVwNFZSSmItMm56R05xcFpCT09wdlg3TzJKak4wUW13dXQxYm5HdFc3UDRucC1yMGdjQ1hNbTVveGJPWFlaOTNXaU5YMG5HaWRqX0VDck1lTmxjQV9wRGMtVUZmR0RHaUcwNHBtczlMSU9scURjcWZIZGs?oc=5",
+   "title": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. - Variety",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
    "source": "Google News",
-   "published": "2026-11-21T16:45:00+00:00",
-   "summary": "Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehearsal dinner with her famous family Page Six Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ahead of Their Reported Wedding People.com Miley Cyrus will reportedly marry Maxx Mor",
-   "body": "Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehearsal dinner with her famous family Page Six Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ahead of Their Reported Wedding People.com Miley Cyrus will reportedly marry Maxx Morando this weekend Yahoo Miley Cyrus to Wed Maxx Morando This Weekend—Inside Their Private Malibu Marital Mansion Realtor.com Miley Cyrus Turned Down Big Gigs to Prep For Wedding With Maxx Morando TMZ",
-   "category": "USA / Americas",
+   "published": "2026-11-21T16:42:00+00:00",
+   "summary": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. Variety Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series Deadline How Do Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Appear in ‘Sunrise on the Reaping’? TODAY.com The New ",
+   "body": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. Variety Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series Deadline How Do Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Appear in ‘Sunrise on the Reaping’? TODAY.com The New Hunger Games Movie Contrives a Funny Solution to the Book’s Biggest Problem Slate ‘The Hunger Games: Sunrise On The Reaping’ Sets A Rotten Tomatoes Audience Score Record Forbes",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -793,18 +862,32 @@
    "lang": "en"
   },
   {
+   "title": "Republican hopes fade for one last party-line bill before GOP loses majorities",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUc4V3V1WnVESVVOaW5iQ1E0TXBucnhrQ3BVYlowM2RDUi1ocC1fVVlJcVpWYm1jaGt6bHo5aElBYkZ0MWt3RGNNeW9lVXV6NWstdlVPa3NXZWFuRC13UnpaQl9ydUZxRF8wM3oybmMwZFViWEhWRkpaQmtrWWpwS24wdEM4Zjl1RWJsWFlrbXJPT081aFBncEdGbkI1bTdCUU5PZkFneWt5OGlzSko4QndxbnpQWjFSWDNVeQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T16:00:00+00:00",
+   "summary": "Republican hopes fade for one last party-line bill before GOP loses majorities NBC News Senate Republicans resist Trump’s bid to bypass Democrats on defense funding The Washington Post GOP Effort to Pass $350 Billion in Extra Military Spending Stalls in Lame-Duck Congress WSJ GOP",
+   "body": "Republican hopes fade for one last party-line bill before GOP loses majorities NBC News Senate Republicans resist Trump’s bid to bypass Democrats on defense funding The Washington Post GOP Effort to Pass $350 Billion in Extra Military Spending Stalls in Lame-Duck Congress WSJ GOP battles itself over defense funding The Hill While $350 billion reconciliation bill is dead, top Republican says there is path for smaller package Federal News Network",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Trump says FBI hack might expose Russia \"hoax\" - Axios",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g?oc=5",
    "source": "Google News",
-   "published": "2026-11-21T15:57:21+00:00",
-   "summary": "Trump says FBI hack might expose Russia \"hoax\" Axios FBI database reportedly hacked ABC News & Headlines – Australian Broadcasting Corporation Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN USDA, FBI breached by hackers ",
-   "body": "Trump says FBI hack might expose Russia \"hoax\" Axios FBI database reportedly hacked ABC News & Headlines – Australian Broadcasting Corporation Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN USDA, FBI breached by hackers amid spate of tech outages – reports The Guardian FBI investigating apparent hack of a key criminal justice information database, AP source says AP News",
+   "published": "2026-11-21T15:59:43+00:00",
+   "summary": "Trump says FBI hack might expose Russia \"hoax\" Axios Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN AP source: FBI investigating apparent hack of its key national criminal justice database PBS USDA, FBI breached by hacke",
+   "body": "Trump says FBI hack might expose Russia \"hoax\" Axios Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN AP source: FBI investigating apparent hack of its key national criminal justice database PBS USDA, FBI breached by hackers amid spate of tech outages – reports The Guardian FBI's criminal information database hacked, CNN reports Reuters",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
     "Russia",
-    "United States",
-    "Australia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -840,6 +923,19 @@
    "lang": "en"
   },
   {
+   "title": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz - TechPowerUp",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1F2UFdad2R2cGdaYkJ6T2pZSVhVQlBDSXJhR1lhbC1BWTRsbnktS1I1NmZYUl9uTDdjTl84cnBLWUN5b1dXSi1Ib0FVSlA1dUYxUTd4bWUwcDc5U0M1YWQzdThpeEVSUDhYd0t3STdUU09xLXBaeW12cEd2WjNXLVdXMXVHMnNlbk5YQ0lxcnl1Y0xfcUoxTDB0Yl84RnfSAaQBQVVfeXFMT1ZpUVBKSnhRUHBWRG1xLWlaeEZJNmtvMlJDb1JLdDNudXRxTWdjYWtsdENTNGVIbDg0bV92VnRscE0tUlhZaWZpMDlFNEhmclJJUjluNkxqdXdSSUhWbEZSaWtjYUUxTW0zUGRuYlhxeWJ6TkFla0hCa2FWbjRGeTZFdXlpYmJzTnJqcWpUa3VKOFUyS2RGUm5TUG81SU5xX1cydEk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T15:39:12+00:00",
+   "summary": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz TechPowerUp See more headlines & perspectives on Google News",
+   "body": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz TechPowerUp See more headlines & perspectives on Google News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Iran War - WV News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlhiTlBlRUtTMUxZb1A1WVB4YURpSW5aTEVmM1VMT2FPTFZaRDlPZUlfSUFkSFZEbVFaR1laZXpsX0ljcW53RWt0azVWcGJ5Vm5RTm12VTYzSUUzQWlFT09YSlZDZFBpNnJwY04yRlYtcW1xWnZRUlNiZ3ZEWGlXRmJsMVpqUzRxSjIzY28zRlFRUzk5cDZTd21R?oc=5",
    "source": "Google News · War",
@@ -870,12 +966,25 @@
    "lang": "en"
   },
   {
+   "title": "UCLA vs. Michigan: Spread picks and bold predictions - 247Sports",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGZwLVdRb25aZnN3cGF6YlRsS2tqLWFYZU1MTUhsUkNXSVBOVHNMaGNsLXBsV0tvWUhEWTdkaHRYeTgtcTVZWU12d09GaVFLRHVHOEFlTndIQ3E0dkN1Q0JRdzJjODJyTFpyYnN5M0FXelVvWFNtdFRVbTNBXzhvWF9FWUdmRmdJYkVxdnJ0UHFvYUJvQU5kbmotNnNXelpodW1ONHlvaw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T15:21:04+00:00",
+   "summary": "UCLA vs. Michigan: Spread picks and bold predictions 247Sports How to Watch UCLA vs. Michigan: TV Channel, Live Stream, Time FOX Sports Michigan Wolverines football vs. UCLA Bruins: Live updates The Detroit News Michigan football live updates and chat for today’s game vs. No. 4 U",
+   "body": "UCLA vs. Michigan: Spread picks and bold predictions 247Sports How to Watch UCLA vs. Michigan: TV Channel, Live Stream, Time FOX Sports Michigan Wolverines football vs. UCLA Bruins: Live updates The Detroit News Michigan football live updates and chat for today’s game vs. No. 4 UCLA MLive.com Michigan vs. UCLA prediction, pick, odds, spread: UCLA looks to clinch a Big Ten title game berth CBS Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in - AP News",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5",
    "source": "Google News",
    "published": "2026-11-21T15:18:00+00:00",
    "summary": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in AP News U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again The New York Times States agree to UN talks aiming to regulate 'killer robots' by 2028 Reuters International U",
-   "body": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in AP News U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again The New York Times States agree to UN talks aiming to regulate 'killer robots' by 2028 Reuters International UN talks on controlling use of autonomous weapons collapse | Weapons technology The Guardian Killer robots: U.N. talks fall short of hopes for legally binding rules NPR",
+   "body": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in AP News U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again The New York Times States agree to UN talks aiming to regulate 'killer robots' by 2028 Reuters International UN talks on controlling use of autonomous weapons collapse | Weapons technology The Guardian Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028 Al Jazeera",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -918,8 +1027,8 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OS1rb3RuN3M1WEd1ZFJTbDJDSzY2YTBwTm9Cb0lZVmdwQ2RQcUxHNXBIWnM1VVQ5eGNwNWtOUF9GUVhuYm9nbGVHTzV1a3ByajhPdUptemJSTEZWcFVKYXRIcGJWbFBwV0hNdzU3RDFMX1hYV2hMWkpTRGlOaW8?oc=5",
    "source": "Google News",
    "published": "2026-11-21T15:02:00+00:00",
-   "summary": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ The Guardian That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction. The New York Times Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents pu",
-   "body": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ The Guardian That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction. The New York Times Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke The Conversation How an SNL Sketch Sparked a National Conversation About Family Caregiving WSJ My Brother Is The Sister In The Viral SNL Sketch Forbes",
+   "summary": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ The Guardian That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction. The New York Times My Brother Is The Sister In The Viral SNL Sketch Forbes How an SNL Sketch Sparked a N",
+   "body": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ The Guardian That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction. The New York Times My Brother Is The Sister In The Viral SNL Sketch Forbes How an SNL Sketch Sparked a National Conversation About Family Caregiving WSJ Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving CNN",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1029,21 +1138,6 @@
    "lang": "en"
   },
   {
-   "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-   "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T14:15:36+00:00",
-   "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-   "body": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26271642253523-1795266505.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
    "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
    "source": "NYT World",
@@ -1054,21 +1148,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T14:06:06+00:00",
-   "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-   "body": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795269949.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -1101,6 +1180,22 @@
     "United States"
    ],
    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2dMSXQxbzVSWF9OUFRDeWhSWlRhNkZYUE9pSjh3QXBxR1d1eHV6ZVJhMHg4UEwwN094UXZVa2ZBb1NjbEdMUlA5TU1NT3RaeUtPRWhneElBamZrc1ZtbkRXejhfc3RzYzdoR2h4WkozMWtpZzBmdVl2aWVnUFBtYldZMnRrQ0tJY2FOS2dNZFhOQlcySlRDbUp1OXp0SlJLMmpKMmpfNlYwRFl1SHhBbWxvM1UyOFE3aDl0S3dXSHp5TVdfSmdpMFZmZ1BTTHhUSmZhRDFoQnREd9IB4AFBVV95cUxOelBYR0JzWnFLSjc5VFZZTWtDOWJKSEQ1WUtrengzNW14eGpqc1FkTmxXTlh4X25Dcmh3WE5hZXpzZFlySXRsTEcteUNMY3FEZUpoN3N6Z0VZeHl6ZkRXSW50NjN0cGFlYmlNamdVb3dkT1BQVl9yd0h5S1FQZS1VMFRuTklYOTczM19RT293ejJaOXpiOER1dUs0RVkyYkg5d0paZUlSMXhlbXMycFpncE90SlI4ZDN6aG0yNVlCc1pwZGNrNWVSakpNY3pBLXZTaFB6VGN1b05zdWxXUnpMZg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T13:57:25+00:00",
+   "summary": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power The Indian Express",
+   "body": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power The Indian Express",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1138,15 +1233,14 @@
   {
    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-   "source": "Google News",
+   "source": "Google News · Ukraine",
    "published": "2026-11-21T13:17:38+00:00",
-   "summary": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting BBC Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’ Al Jazeera Ukraine strains Russian logistics with Crimean bridge strikes Reuters Clean-up of Downed Crimea Bridge to Take ",
-   "body": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting BBC Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’ Al Jazeera Ukraine strains Russian logistics with Crimean bridge strikes Reuters Clean-up of Downed Crimea Bridge to Take Russia Months, Ukraine Says Bloomberg.com After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire The New York Times",
+   "summary": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting BBC",
+   "body": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting BBC",
    "category": "Global",
    "is_war": true,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1167,27 +1261,12 @@
    "lang": "en"
   },
   {
-   "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T13:08:59+00:00",
-   "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-   "body": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
    "source": "Google News",
    "published": "2026-11-21T13:00:01+00:00",
-   "summary": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic's IPO bank closed position meant to stabilize stock, removing source of support Reuters",
-   "body": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic's IPO bank closed position meant to stabilize stock, removing source of support Reuters Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ 'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO Barron's",
+   "summary": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic's IPO bank close",
+   "body": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic's IPO bank closed position meant to stabilize stock, removing source of support Reuters 'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO Barron's",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1239,21 +1318,6 @@
    "lang": "en"
   },
   {
-   "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-   "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T12:49:20+00:00",
-   "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-   "body": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-515252266-1795262357_4321f0-1795262397.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "People left disgusted by Trump's 'monstrous' boast about Ukraine war: 'Soulless man' - Indy100",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDUwTVltelg4WlRHdmUwU2JnNkVlY1E4TDR5VHkxVUF3VU5sWktMZWw0V0pFYmpGdTczZHAxZjNJY1dLVWFxc2hkYmtqSU51LXpYX052NzFvbkIweTM2Q3d4dnU4clRDTThKamZub21EUm1nRDhpZEluaWg5WDJOcGRSMEpoNWs?oc=5",
    "source": "Google News · Ukraine",
@@ -1267,21 +1331,6 @@
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
-   "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T12:45:24+00:00",
-   "summary": "Finnish authorities say two drones attack cargo ship that has links to Russia's armed forces.",
-   "body": "Finnish authorities say two drones attack cargo ship that has links to Russia's armed forces.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-17T144933Z_237291431_RC2UKNA8ZPKO_RTRMADP_3_UKRAINE-CRISIS-FINLAND-1795262589.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1300,75 +1349,16 @@
    "lang": "en"
   },
   {
-   "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-   "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T12:30:49+00:00",
-   "summary": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
-   "body": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A87918.JPG-1-1795261977.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-   "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T12:29:49+00:00",
-   "summary": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
-   "body": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b018e5c201e-1795264092.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - Daily News-Record",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDVFd2djVUlpYXphc1ExWVJwVkJobWpVanZkTERBOUJ3UmFveVZuQUF5WU9WYjI4d0U2WDlpMzRuWVBxNExWOC1yMWIxTzM0UmFXT0RmVGpfdHJaSHo2QmlqRVM1WnJvNWJ2M2Y2ZU5VZ0N6Q2VCM1FSaGFvNTZnYUtKSmdNdWZWMkxiQXNHS2g3LWNXRk53WFNZc2M3V3FEb2Z1Wm9hbEVfdFVOeWRmQUhkZW5aanpydmplc3NQT3A?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T12:14:06+00:00",
-   "summary": "Russia Ukraine War Daily News-Record",
-   "body": "Russia Ukraine War Daily News-Record",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "CFP bubble drama in Week 12, with tight spreads and ranked teams as underdogs - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5",
+   "title": "Kate Middleton Documentary 'Heal': Release Date & Trailer For NBC & BBC - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc255REJjUGdMaEw0amxCdmhfWDBmbUd6Q0RUdjJqSWtvRTNCQWtwV00tOW9sODJYYUhVbjlUM3FobVAzdkVZVTRVQUVNVkl3LXh1bnBsNllPdElMdmVDdjh1Q0dfZmw5N1hrVWFUdjNLMHJSV0p5VTU0MUJUajdoanRMNDBRVTZxclIzTGNFcTdqbDlKd2oyOQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-21T12:10:00+00:00",
-   "summary": "CFP bubble drama in Week 12, with tight spreads and ranked teams as underdogs AP News College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 12 CBS Sports Week 12 live: Tracking top moments and best highlights ESPN 5 games, storylines",
-   "body": "CFP bubble drama in Week 12, with tight spreads and ranked teams as underdogs AP News College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 12 CBS Sports Week 12 live: Tracking top moments and best highlights ESPN 5 games, storylines that could alter the next College Football Playoff rankings NCAA.com College football Week 12 live scores and updates: Ohio State trails Nebraska, BYU tied with Kansas and more The New York Times",
+   "published": "2026-11-21T12:00:00+00:00",
+   "summary": "Kate Middleton Documentary 'Heal': Release Date & Trailer For NBC & BBC Deadline Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times Princess of Wales: Catherine talks about her cancer journey in new documentary Heal BBC Kate, Britain's Princes",
+   "body": "Kate Middleton Documentary 'Heal': Release Date & Trailer For NBC & BBC Deadline Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times Princess of Wales: Catherine talks about her cancer journey in new documentary Heal BBC Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery Reuters Kate Middleton Reveals She Never Rang the Bell After Chemotherapy in New Documentary People.com",
    "category": "Global",
    "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia says 6 killed in Ukraine's drone attack on Luhansk region - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGQ0cnRlN2ZzYVdUQnNUZmt2ZlR5ZmtfV1BBNWgtdU1oTWxRdGRXRkdvanUzMnk4QXFaX244WFdzaTltTXR2TGcxM3p6WG1VMDNWWmc4SkxvOUx5VVVhbHd2THlfX09FR3BMTi1YZzRXQ2Jjd2xqY003V3VTaVlRZFRIeXExNmppQUJBZ1l4YnFua2VnTXBjRVNiLWtOTnRSeTdSSHpOODJwUDZkeWxCQnZvX0dOZw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T11:48:42+00:00",
-   "summary": "Russia says 6 killed in Ukraine's drone attack on Luhansk region Anadolu Ajansı",
-   "body": "Russia says 6 killed in Ukraine's drone attack on Luhansk region Anadolu Ajansı",
-   "category": "Ukraine / Russia",
-   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United Kingdom"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1390,6 +1380,38 @@
    "lang": "en"
   },
   {
+   "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEdycmJsUjBpdU9kX1dJOVZpcmstRDlMYkpHVHU3aG5PeDdvbEZsRmZraUFmb1N6VExvazlIbFdneWFJV2FGd25Eb1o3NFhiMnNDZ3RWcUpDelJtU0U2S20xcU1vM09oTnRaRTBvVDd1dDVIZDNBZ2QydWcwNFQyUFE2azg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T11:38:04+00:00",
+   "summary": "Costa revives EU digital tax proposal in bid to reach agreement on budget Financial Times EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax Reuters António Costa revives EU digital tax proposal in bid to reach agreement on budget The Irish Tim",
+   "body": "Costa revives EU digital tax proposal in bid to reach agreement on budget Financial Times EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax Reuters António Costa revives EU digital tax proposal in bid to reach agreement on budget The Irish Times Multiannual Financial Framework - President Costa’s proposal Council, European Union Costa cuts proposed EU budget by €44B POLITICO.eu",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "EU budget proposal keeps Ukraine funding unchanged as cost of Russia's war rises - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGE5ZERCbzJVZDJLWFZJTUtERTdUSzJpWmJCSS1BTHp4M3FYLTU4VHVEUXJIWGliOXJuQXNqZW41YjdVQmFELXlKZUtqNWQ5V2VGTERaQzlJZWZCOWNXRnJWRWZUSFlRT0c4d0d2bUVwTW9PdlRYT1FxZThEQnFWS0d6dVktOGdOOWVLdVBfM1lZUHdKSl9TOEo4eVVrb054ZHEtMHFNUUU3Mzd4?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T11:29:32+00:00",
+   "summary": "EU budget proposal keeps Ukraine funding unchanged as cost of Russia's war rises The Kyiv Independent",
+   "body": "EU budget proposal keeps Ukraine funding unchanged as cost of Russia's war rises The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russian attacks on Ukraine's energy grid intensify ahead of winter - ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWVYZ3VIRy1TZWhMVjV2YmRFR0ZUaFk4WmtVdFZGV1UtczRDUkI3U2loam1UYVNFNDBhZlFEaDlsWnk3b1I1eEpZVWZuZGcxOGNabVV4SFYyNjNORE50alRlN2JYblNoMFJQU0FERjFEYmszWnNzOExZZ2R4RlIxcTNSYmtydjV2QnRJeDdFQVJzMEpSYjJhd0lIa1lBVzRncTdQR0FMR04wQVhmTjM1MDJB0gG3AUFVX3lxTE4yV3V2UWpCdUQwaDRrUEp1YXpLLXI2Ql93QW1hQndYM2cyU1FmSkdMZ1hud1N0SzdjUGZZN3R1NFdsd0ZaaTRhZTI5WG81aGxkcVpPTHBaTGNfNUFsUnZuRVlGbktzSEFZVUZGVU4wSGplYktqanZ4cWZTWU9OMXBFNGswYVJRMXhPSnNsMUVmUU9zYmVNNUstYUluQ2dmVWxrUzFJTXpJX21hbFdiUkhGN0NnRlZvMA?oc=5",
    "source": "Google News · Ukraine",
@@ -1402,19 +1424,6 @@
     "Ukraine",
     "Russia"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes - Motorsport.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnF0Umtxcmp6YlRRQ0RSWEpJVVRKUElzRm9SZVo3Sk1rN2thdF9VYTJtVVIyWlNsODhOcFlHMV9YNnFmMl9vV2RCd2hpWWVNLTU3NWxyc2VxX2xtOHdsSU0yOURFMmd2VEZlb2lXekJITFM4eHpQOUExMzFqQnduUWZTaEZucy0zMXBhd09tMElZWWVjWXgwSk1FY2s5VXlXSVltdWlCQUVpLUNnUlhXbElGLThfekVRQ2F4Skc5MnF6b09EUEFURA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T11:20:58+00:00",
-   "summary": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes Motorsport.com ‘I have no idea how these lap times came together’ – Wolff reflects on slipstream impact in Las Vegas Qualifying Formula 1 Max Verstappen takes Las Vegas pole despite “weird ",
-   "body": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes Motorsport.com ‘I have no idea how these lap times came together’ – Wolff reflects on slipstream impact in Las Vegas Qualifying Formula 1 Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil Yahoo Sports Max Verstappen promoted to Las Vegas GP pole as Kimi Antonelli drops to sixth ESPN Antonelli fastest but Verstappen on pole in Las Vegas Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1567,7 +1576,7 @@
    "source": "Google News",
    "published": "2026-11-21T10:18:51+00:00",
    "summary": "Voyager 1 hit one light day but isn't sending home any data right now Mashable After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth The New York Times Voyager 1 Engineers Analyze Data Issue, Ready to Confirm Light-day NASA Science (.gov) What's next for NASA inter",
-   "body": "Voyager 1 hit one light day but isn't sending home any data right now Mashable After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth The New York Times Voyager 1 Engineers Analyze Data Issue, Ready to Confirm Light-day NASA Science (.gov) What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth? Space Empire State Building Lit Up with Gold Marks Historic Milestone of NASA’s Voyager 1 This Week Good News Network",
+   "body": "Voyager 1 hit one light day but isn't sending home any data right now Mashable After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth The New York Times Voyager 1 Engineers Analyze Data Issue, Ready to Confirm Light-day NASA Science (.gov) What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth? Space NASA’s Voyager 1 has reached 1 light-day from Earth, the first human-made object in space to reach that distance The Conversation",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1575,15 +1584,18 @@
    "lang": "en"
   },
   {
-   "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnNwUHZJRXlSRmNjZWV1VU8xNmVGc0ZoY3ZzcVNXMmMzanY3Y21GQ2lRQnRfdW02b1hVWl9BMm1vQlZ1bERFVlZOaEpkYlhKSXVTQVBOVUg1d21CeVA2VG9pQnRaOExZT2ZQMGRXalVqTW9CeVY5Z2lFbWI5aXItSWN5MkVGVllydl9jcHRVVUt1Tm9JSFNuZWxBNXdHU296c0FMcTJMX21WZ0VKOGdsUWtVTQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-21T10:02:38+00:00",
-   "summary": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations The New York Times Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026 ARTnews.com New York Novem",
-   "body": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations The New York Times Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026 ARTnews.com New York November Auctions 2026 Bring Bigger Totals and More Selective Bidding MyArtBroker All You Need to Know About New York’s $2.8bn Marquee Week Sales Ocula A spate of auction records can’t conceal a soft market Apollo – The International Art Magazine",
-   "category": "Global",
+   "title": "Germany news: Support for Ukraine military aid waning, survey shows - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUp6WXZrTlRWMWVnSV9xNWVZSEZ5enRZY2dkTF8yc3VHa0ZqQVdDaGNwMzkzOE9wSG1sczBoV2EwVHg3SUFoVUpJUEM3TUh2S2J2cEthWTNnSGMza2F0YWZrRnQ3RjFQRGFQQXJadEw1Z25DaGVuaDdPWlppc3hyaXhXZ2Vnczk3RUJoX3Z2dWdwZmNQUzYxUTBWYlY2d1QwZEtv?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T10:17:33+00:00",
+   "summary": "Germany news: Support for Ukraine military aid waning, survey shows DW.com",
+   "body": "Germany news: Support for Ukraine military aid waning, survey shows DW.com",
+   "category": "Ukraine / Russia",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "Ukraine",
+    "Germany"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1705,6 +1717,23 @@
    "lang": "my"
   },
   {
+   "title": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report - The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVp4dk1SR3RxcE1IekxQbW9DVVFpWUxmbHhmRjU2WGR1T21DZ3Fob1JuaXk5YTQwQldKa3BXNHJtejByODg1S1BoYlUxSVpzcnNTemtQRlFVRFVIVGZ3Rl9CSUdTM0lJakdFNXBZNDhDVFR6cUUzZ0tjRUhvZ0FzYmU0ZnBSRzhfaVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T06:29:21+00:00",
+   "summary": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report The Jerusalem Post",
+   "body": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report The Jerusalem Post",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Life-and-death calls, lives upended: 5 things to watch for inside Singapore’s busiest trauma unit",
    "link": "https://www.channelnewsasia.com/cna-insider/insider/inside-trauma-unit-singapore-busiest-ttsh-hospital-life-death-6569981",
    "source": "CNA World",
@@ -1747,19 +1776,47 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IOWdMa2lPSVAyNzdGSHVOOENjZnNkNUQ2eGJsWk5pUVB2VmlRUVd4Q3BITmFKRklnbTZNemRUdU1WYVhaS1pkOS1rSXlIODJTdFAxR2V1UkhhWHlRUFJTc2o0WWdzZkdfRVlrSmt3?oc=5",
+   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYl8yM1IzNEgxZ1JNRjVSb0VnZ1JaYVhIRU54VWlsRlpaNFo3MlItWWR2QmhUVldESGg4N0F4MDBsbHpwWno1QTlsWUROZVgxaTlOcTQtLWxqQ0g5d1RGSDNhRjc2OFdyYVZZTm44T2dPd3JvekQ1ZXhCTEVBeUU?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-21T03:44:56+00:00",
-   "summary": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland Sky News",
-   "body": "Ukraine war latest: Trump 'tells Europe Putin is ready to end war' - as NATO jets scrambled in Poland Sky News",
+   "published": "2026-11-21T05:06:00+00:00",
+   "summary": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges The Guardian",
+   "body": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2ZMb2kzUGh4S191aTUtUEFUWm9aTkdlQkk1Yi1mUndDempQeXh4UzdHa0FYNU4wcFZSN2l0TjgyM3JlSmRISHlRTWZ0c0ZPUFFIT2lCZDF5bnAtd29XSUxYX0RqTU5OWElLNExSSDhhRHd5TTZBLXNlMk1JWDBaTXFkaXI?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-21T05:00:08+00:00",
+   "summary": "Russia and Ukraine’s drone war sends optical fibre prices soaring Financial Times",
+   "body": "Russia and Ukraine’s drone war sends optical fibre prices soaring Financial Times",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia",
-    "United States"
+    "Russia"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The S&P 500 Just Entered Correction Territory. Here's What It Means for Investors Right Now. - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUlOVXBkQS1POEJDU2lQekREZ25RVTczblRnSVg0M2lCeGFKT1Jad2t2ZDVhWm5SNmNxRnJmWWx3eUZzeHRqNTRSX0U4d05BUms4Z2ExeVpNWjdsWHd3RnR6OFBENVpFSGRaYWRad2E2V1NQZGlWRUViX3JIUTIzSGpEWEw3aV9FZ2MtbFRPeGZqNGJwVXQtYUxn?oc=5",
+   "source": "Google News",
+   "published": "2026-11-21T03:58:00+00:00",
+   "summary": "The S&P 500 Just Entered Correction Territory. Here's What It Means for Investors Right Now. Yahoo Finance Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves CNN S&P 500 correction: Five forces behind the market sell-off CNBC Stocks Skid Into a Correcti",
+   "body": "The S&P 500 Just Entered Correction Territory. Here's What It Means for Investors Right Now. Yahoo Finance Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves CNN S&P 500 correction: Five forces behind the market sell-off CNBC Stocks Skid Into a Correction, as A.I. Worries Intensify The New York Times Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections NBC News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1809,23 +1866,6 @@
     "Ukraine",
     "Russia",
     "Australia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UEdES3RsVmhXQzVxOEhGV3Z1c3BnRWNvNngta3FsMkxpU1c4TXlsYXNibjFHYWNUUE4wNElCazdvQUlyVWROSU5Pb0ZINTJZWWpwY3cxRWRyMkNoQlZsZi0wNGlNWGVX?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-21T02:01:52+00:00",
-   "summary": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
-   "body": "Is the Ukraine War Ending? The Meetings in Germany and China Unpacked DW.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "China",
-    "Germany"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1902,19 +1942,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/signal-2026-11-20-18-43-45-814-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo - PBS",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm4wWDR5Q2NNcmdUSjFSbGgtdWdBZ0JxODJsdU1LVDJFRWdrZ3dqOC1XVmJZRFdyTWNoOVI3TVpvWERxSldjTnNLcHJPeEduZnIxTEkydFU1Wml0NTE5TlhXQ2xEQ0tId1pvVnlMRnNNVkRxXzJnZVZPeUlSc3dWeDZPUmg5VGFzd285NVZ0RGx0aW5zbGJUREpPNTBLamdsOEZtVDRjaDRGUkhVRHl6U0VBRWMzYTVVWkdoYg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-20T23:39:39+00:00",
-   "summary": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo PBS Beloved Cincinnati Zoo hippo Fiona has died WVXU Fiona the Hippo Honored by Bengals, Cincinnati Teams After Zoo Announces Her Death Bleacher Report Fiona the Hippo Died After Eating a Hat. S",
-   "body": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo PBS Beloved Cincinnati Zoo hippo Fiona has died WVXU Fiona the Hippo Honored by Bengals, Cincinnati Teams After Zoo Announces Her Death Bleacher Report Fiona the Hippo Died After Eating a Hat. Some Want Justice. The New York Times Fiona’s keeper says losing her is 'life-changing' in emotional tribute WLWT",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "လူမျိုးတုံးသတ်ဖြတ်မှု ICJ ဆုံးဖြတ်ချက်နဲ့ နိုဝင်ဘာ ၂၁ RFA အထူးအစီအစဥ်",
@@ -2163,35 +2190,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/AEIUNU3QKNH6ZJ2SLM73SHSNCA.JPG?auth=04b36d3beca4628950a79f3120b6b5c40c411c94d318fd218b9a0216b7478323&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "ICJ တရားရုံးဆုံးဖြတ်ချက်မှာပါတဲ့ အဓိကအချက် ၅ ချက်",
-   "link": "https://rfa.org/burmese/news/2026/11/19/myanmar-military-icj-verdict-key-five-points-reactions/",
-   "source": "RFA Burmese",
-   "published": "2026-11-19T18:59:33+00:00",
-   "summary": "ICJ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) ၃ နာရီကြာ ဖတ်ကြားတဲ့ ဆုံးဖြတ်ချက်မှာ အဓိကအချက် ၅ ချက် ပါဝင်ပါတယ်။",
-   "body": "မြန်မာစစ်တပ်က ရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်အကြောင်း ဂမ်ဘီယာနိုင်ငံရဲ့ စွဲချက်ကို အပြည်ပြည်ဆိုင်ရာ တရားရုံး (ICJ)ရဲ့ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) က ပြစ်မှုကျူးလွန်ကြောင်း ၃ နာရီကြာ ဖတ်ကြားတဲ့ တရားရုံးဆုံးဖြတ်ချက်မှာ အဓိကအချက် ၅ ချက် ပါဝင်ပါတယ်။\n\n၁။ လူမျိုးတုံးသတ်ဖြတ်မှုကျူးလွန်ကြောင်း ပြစ်မှုထင်ရှားတယ်\n\nမြန်မာနိုင်ငံဟာ ရခိုင်ပြည်နယ်မြောက်ပိုင်းက ရိုဟင်ဂျာမူဆလင်လူနည်းစုတွေအပေါ် လူမျိုးတုံး ပျောက်ကွယ်သွားအောင် ရည်ရွယ်ချက်ရှိရှိနဲ့ သတ်ဖြတ်မှုတွေကျူးလွန်ကြောင်း နိုင်ငံတကာ တရားသူကြီးတွေက ၉ မဲ ၆ မဲနဲ့ ဆုံးဖြတ်ချက်ချတယ်။\n\n(မှတ်ချက်။ ။ မြန်မာအစိုးရရဲ့ အဆင့်မြင့် ရာထူးကြီး ဝန်ထမ်းတစ်ဦးဖြစ်တဲ့ မြန်မာစစ်တပ်အကြီးအကဲက ဦးဆောင်ပြီး ဒီပြစ်မှုကို ကျူးလွန်တာမို့ မြန်မာလို့ ကိုယ်စားပြုသုံးနှုန်းတာဖြစ်ပါတယ်။)\n\n၉ မဲ ၆ မဲနဲ့ပဲ ၁၉၄၈ ကုလသမဂ္ဂ လူမျိုးတုံးသတ်ဖြတ်မှုများ အကာကွယ်ပေးရေးဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာ သဘောတူစာချုပ်ကို လိုက်နာဖို့ ပျက်ကွက်ကြောင်း တရားရုံးက ဆုံးဖြတ်တယ်။\n\nမြန်မာနိုင်ငံအနေနဲ့ လူမျိုးတုံးသတ်ဖြတ်မှုမှာ ပါဝင်ကျူးလွန်တဲ့သူတိုင်းကို အမြန်ဆုံးနဲ့ ထိရောက်တဲ့နည်းတွေနဲ့ အရေးယူ၊ အပြစ်‌ပေးရမယ်။\n\nနောင်အနာဂတ်မှာလည်း အလားတူ လူမျိုးတုံးသတ်ဖြတ်မှုတားမြစ်ရေးဆိုင်ရာ ကုလသမဂ္ဂသဘောတူစာချူပ် ကို ချိုးဖောက်တဲ့ လုပ်ရပ်တွေ၊ ကျူးလွန်မှုတွေကို တစ်ခုမကျန် ရပ်တန့်ရမယ်။\n\nလူမျိုးတုံးသတ်ဖြတ်မှုကျူးလွန်တယ်ဆိုတာ အထောက်အထားပြနိုင်ဖို့ ကျူးလွန်ရာရောက်ကြောင်း နောက်ခံတွေကို စစ်ဆေးဆုံးဖြတ်ရသလို တစ်ဖက်မှာလည်း လူမျိုးစုတစ်ခုကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလိုတဲ့ ရည်ရွယ်ချက်ရှိနေတာ ထင်ရှားကြောင်းလည်း ရှည်ရှည်ဝေးဝေး သက်သေပြပါတယ်။\n\nမြန်မာစစ်တပ်ဟာ မြန်မာနိုင်ငံမှာရှိတဲ့ ရိုဟင်ဂျာအားလုံးကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလိုတဲ့ ရည်ရွယ်ချက်မရှိတောင် အရေအတွက်ပမာဏ ကြီးကြီးမားမားကို ဖယ်ရှား၊ ဖျက်ဆီး၊ ပျောက်ကွယ်သွားစေလို တဲ့ ရည်ရွယ်ချက် ရှိခဲ့တယ်ဆိုတာကိုပဲ ပြသကောက်ချက်ချခဲ့တာဖြစ်တယ်။\n\n၂။ ဘေးကင်းလုံခြုံစွာ နေရပ်ပြန်ခွင့်ပေးရမယ်\n\nပြစ်မှုကျူးလွန်တယ်လို့ ဆုံးဖြတ်တဲ့အတွက် ကျူးလွန်တဲ့ မြန်မာနိုင်ငံက နောက်ဆက်တွဲ အကျိုးဆက်တွေ လိုက်နာရမှာဖြစ်တယ်။ ဒီနေရာမှာ တရားရုံးက ဥပဒေသဘာစကားအရ ထိခိုက်နစ်နာမှုတွေအတွက် ကုစားပေး (remedies) ရမယ်လို့ သုံးပါတယ်။\n\nမြန်မာနိုင်ငံက လိုက်နာရမယ့်အချက်တွေအများအပြားပါပါတယ်။\n\nမြန်မာအာဏာပိုင်တွေအနေနဲ့ မြန်မာပြည်တွင်းမှာဖြစ်စေ၊ ပြည်ပနိုင်ငံတွေမှာဖြစ်စေ ထွက်ပြေးတိမ်းရှောင်ရောက်ရှိနေတဲ့ (ရိုဟင်ဂျာ) ဒုက္ခသည်တွေကို မိမိဆန္ဒအရ၊ ဂုဏ်သိက္ခာရှိရှိ၊ ဘေးကင်း လုံခြုံစွာ ပြန်လာခွင့်ပြုရယ်။ ကူညီဆောင်ရွက်ပေးရမယ်။\n\nတစ်ဦးတစ်ယောက်ချင်း ပုဂ္ဂလိကပိုင်ဖြစ်စေ၊ အများနဲ့ စုပေါင်း ပိုင်တဲ့ ပိုင်ဆိုင်မှုဖြစ်စေ ပစ္စည်းဥစ္စာ နေအိမ်အဆောက်အအဦမြေယာတွေကို ပြန်ပေးရမယ်။ ဒါမှမဟုတ် အစားပြန်ပေးရပါမယ်။\n\nရုပ်ပိုင်း၊ ကိုယ်ပိုင်းဆိုင်ရာ ထိခိုက်နစ်နာခဲ့ရတဲ့ ရိုဟင်ဂျာတွေကို ကိုယ်ရောစိတ်ပါ ကုစားပေးတဲ့ အစီအစဥ် တွေ ဆောင်ရွက်ပေးရမယ်။\n\n၃။ လျော်ကြေးပေးရမယ်\n\nလူမျိုးတုံးသတ်ဖြတ်မှု အကျူးလွန်ခံရတဲ့ အတွက် ထိခိုက်နစ်နာရသူ ရိုဟင်ဂျာတွေဟာ သင့်တင့်လျောက် ပတ်တဲ့ နစ်နာကြေး ရသင့်တယ်။\n\nICJ အနေနဲ့ ‌ငွေကြေးပမာဏကို အခု တရားရုံးဆုံးဖြတ်ချက်မှာ အတိအကျ ဆုံးဖြတ်ပြောကြားတာမရှိပေမယ့် နောက်တစ်ဆင့်မှာ စဥ်းစားဆုံးဖြတ်မယ်လို့ အမိန့်စာမှာ ပါပါတယ်။\n\nမြန်မာအာဏာပိုင်တွေအနေနဲ့ ဘယ်ပမာဏ၊ ဘယ်လိုပုံစံနဲ့ လျော်ကြေးပေး ဆောင်ရွက်မယ်ဆိုတာကို တရားရုံးကို ပြန်တင်ပြဖို့ နှစ်နှစ် အချိန်ပေးပါတယ်။\n\nအဲဒီအစီရင်ခံချက်ရပြီးမှသာ မြန်မာနိုင်ငံက တင်ပြတဲ့ အဆိုဟာ လုံလောက်မှုရှိမရှိ တရားရုံးက ဆုံးဖြတ်မယ်။\n\nICJ တရားသူကြီးချုပ် ယူဂျီ အီဝါဆာဝါ (Yuji Iwasawa) (Screenshot from ICJ live) ၄။ စုံစမ်းစစ်ဆေးအရေးယူရမယ်\n\nICJ ဟာ အပြည်ပြည်ဆိုင်ရာ ရာဇဝတ်ခုံရုံး (ICC) နဲ့ မတူဘဲ နိုင်ငံတွေအချင်းချင်း တရားဥပဒေအရ အငြင်းပွားတာတွေကို ဖြေရှင်းတဲ့ တရားရုံးဖြစ်တဲ့အတွက် ICC လို ဘယ်သူဘယ်ဝါ တစ်ဦးတစ်ယောက်မှာ အပြစ်ရှိတယ်လို့ အမည်တပ် စီရင်ချက်ချလေ့ရှိတဲ့ ရုံးမဟုတ်ပါဘူး။\n\nဒါပေမယ့် ရိုဟင်ဂျာ လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ရာမှာ ပါဝင်ပတ်သက်တယ်လို့ သံသယရှိတဲ့ လူတိုင်းကို အမြန် စုံစမ်းစစ်ဆေးအရေးယူဖို့ မြန်မာနိုင်ငံအာဏာပိုင်တွေကို တရားရုံးအမိန့်နဲ့ တာဝန်ပေးပါတယ်။\n\nရခိုင်မြောက်ပိုင်း နယ်မြေရှင်းလင်းရေးစစ်ပွဲမှာ ဥပဒေမဲ့ ကျူးလွန်ခဲ့သူတစ်ချို့ကို အရေးယူအပြစ်ပေးခဲ့တဲ့ လုပ်ရပ်တွေဟာ လုံလောက်မှုမရှိဘူးလို့ တရားသူတွေက ဆုံးဖြတ်ပါတယ်။\n\n“မြန်မာအာဏာပိုင်တွေဟာ ပြစ်မှုကျူးလွန်သူတွေကို အမှန်တကယ် စုံစမ်းစစ်ဆေးအရေးယူတာမျိုး မလုပ်ခဲ့သလို၊ လုပ်ခဲ့တယ်ဆိုတဲ့ တပ်သားတွေနဲ့ တပ်မှူးတွေကို အပြစ်ပေးတာအရေးယူခဲ့တာတွေဟာလည်း အစစ်အမှန် အပြစ်ပေးအရေးယူတာတွေမဟုတ်ဘူးလို့ တရားရုံးက ပြောပါတယ်။\n\n၅။ သတ်ဖြတ်ခဲ့တဲ့ လူ အရေအတွက်ပမာဏ\n\nရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်မှုမှာ လွတ်လပ်တဲ့ ကုလသမဂ္ဂ အချက်အလက်ရှာဖွေရေးအဖွဲ့ရဲ့ တင်ပြချက်တွေဟာ အထောက်အထားမှတ်တမ်းတွေနဲ့တကွ တင်ပြတာတွေဖြစ်ပြီး သေဆုံးခဲ့ရသူ အနည်းဆုံး ၁၀,၀၀၀ ကျော်တယ်လို့ တရားရုံးက ပြောပါတယ်။\n\n“ရုံးတော်ကို တင်ပြလာတဲ့ အထောက်အထားတွေအရ (လုံခြုံရေးတပ်ဖွဲ့တွေက) ဆောင်ရွက်ခဲ့တဲ့ အကြမ်းဖက်မှုတွေဟာ ပြင်းထန် ရက်စက်တဲ့ သဘောသဘာဝ ပါဝင်နေတာ ထင်ရှားပြီး ထောင်နဲ့ချီတဲ့ ရိုဟင်ဂျာ အရပ်သားတွေဟာ မြန်မာလုံခြုံရေးတပ်သားတွေရဲ့ သတ်ဖြတ်မှုကြောင့် သေဆုံးခဲ့ရတယ်ဆိုတာ ထင်ရှားတယ်လို့ တရားရုံးက ဆိုပါတယ်။\n\n၂၀၁၇ နယ်မြေရှင်းလင်းရေး စစ်ဆင်နေချိန်မှာ ရခိုင်မြောက်ပိုင်းမှာ ရိုဟင်ဂျာ ၈ သိန်း ၁ သောင်းကျော်ခန့် နေထိုင်နေခဲ့ကြပြီး ဒီအထဲက ၁ သောင်းခန့် သေဆုံးရတဲ့အတွက် ရိုဟင်ဂျာလူဦးရေရဲ့ ၁.၂ ရာခိုင်နှုန်းကို သတ်ဖြတ်ခံရတယ်လို့ အဓိပ္ပာယ်ရကြောင်းလည်း တရားရုံး ပြောပါတယ်။\n\nဒီအထဲက အသက်မသေဘဲ ကျန်ခဲ့တဲ့ အများစုဟာ နယ်စပ်ကနေ ဘင်္ဂလားဒေ့ရှ် နိုင်ငံထဲကို ထွက်ပြေးခိုလှုံခဲ့ရတယ်။\n\n၂၀၁၇ စစ်တပ်ရဲ့ နယ်မြေရှင်းလင်းရေး စစ်ပွဲအတွင်း မုဒိမ်းမှု ၁၈၃၄ မှု ကျူးလွန်ခဲ့တယ်လို့လည်း ICJ ရဲ့ ဆုံးဖြတ်ချက်မှာ ပြောကြားထားပါတယ်။\n\nနိုင်ငံတကာ တုံ့ပြန်ချက်များ\n\nဗြိတိန် နိုင်ငံခြားရေးဝန်ကြီး အက်ဒ် မီလီဘန်း (Ed Miliband)\n\n“အပြည်ပြည်ဆိုင်ရာတရားရုံးရဲ့ဆုံးဖြတ်ချက်နဲ့ နိုင်ငံတကာဥပဒေ စိုးမိုးရေး ဗြိတိန်နိုင်ငံက အပြည့်အဝ ထောက်ခံကြောင်း ထပ်လောင်းပြောကြားလိုသလို မြန်မာစစ်အာဏာပိုင်တွေက ရိုဟင်ဂျာတွေအပေါ် ဆိုးဆိုးဝါးဝါး ပြစ်မှုကျူးလွန်ခဲ့တာတွေကိုလည်း ဝေဖန်ရှုံ့ချပါတယ်။ ဗြိတိန်နိုင်ငံအနေနဲ့ ဒီဆိုးဝါးအကျည်းတန်တဲ့ ရာဇဝတ်မှုတွေ ကျူးလွန်သူတွေကို အရေးယူရေးအတွက် လိုက်နာဆောင်ရွက်ဖို့လည်း ဆုံးဖြတ်ထားပါတယ်။ ဒီနေ့ ချက်ချင်းအရေးယူမှုတစ်ခုအနေနဲ့ နဂိုရှိပြီးသား မြန်မာစစ်အစိုးရအပေါ် ပိတ်ဆို့အရေးယူမှုတွေကို ထပ်ဆောင်းပြီး မြန်မာစစ်တပ် စစ်သံအရာရှိကို ဗြိတိန်နိုင်ငံက ထွက်ခွါသွားဖို့ အမိန့်ပေးညွှန်ကြားထားသလို ICJ ဆုံးဖြတ်ချက်နဲ့ပတ်သက်လို့ ဆောင်ရွက်နိုင်အောင် ကုလသမဂ္ဂလုံခြုံရေးကောင်စီ အစည်းအဝေးကို အမြန်ခေါ်ဖို့လည်း အရေးပေါ် တောင်းဆိုပါတယ်။”\n\nဗြိတိန် နိုင်ငံခြားရေးဝန်ကြီး အက်ဒ် မီလီဘန်း (Ed Miliband) (Ed Miliband via Facebook) ကုလသမဂ္ဂ အတွင်းရေးမှူးချုပ် အန်တိုနီယို ဂူတားရက်စ် ( António Guterres)\n\n“ICJ က ဂမ်ဘီယာနဲ့ မြန်မာအမှု ဒီနေ့ ဆုံးဖြတ်ချက်ချတာကို ကြိုဆိုပါတယ်။ ဒါဟာ ထိခိုက်နစ်နာသူ ရိုဟင်ဂျာတွေအတွက် အင်အားကြီးမားတဲ့ အသိအမှတ်ပြုမှုဖြစ်ပြီး ဒီဆုံးဖြတ်ချက်ဟာ ဥပဒေအရ တရားဝင်မှုရှိပြီး အယူခံမရှိတဲ့ နောက်ဆုံးဆုံးဖြတ်ချက်ဖြစ်ပါတယ်။ ဒီတရားရုံးအမိန့်ဟာ နိုင်ငံတကာ တရားစီရင်ရေးနဲ့ ဒီလိုဆိုးဝါးတဲ့ လူ့အခွင့်အရေးချိုးဖောက်မှုတွေ ကျူးလွန်နေတာတွေကို ပြစ်ဒဏ်မရှိဘဲ ကင်းလွတ်နေတာမျိုးဟာ နိုင်ငံတကာက လက်မခံဘူးဆိုတာကို ပြသလိုက်တာလည်းဖြစ်ပါတယ်။ မြန်မာနိုင်ငံအနေနဲ့ တရားရုံးအမိန့်အတိုင်း ဆုံးဖြတ်တာကို လိုက်နာဆောင်ရွက်ရမယ့် တာဝန်ဝတ္တရားရှိပါတယ်။ မြန်မာနိုင်ငံမှာ ပြစ်မှုကျူးလွန်သူတွေက အရေးယူမှုမခံရဘဲ ကင်းလွတ်နေတဲ့ သံသရာကို ရပ်တန့်ဖို့လိုပြီး တာဝန်ခံမှုတာဝန်ယူမှုရှိရေးဟာ အမျိုးသားပြန်လည်သင့်မြတ်ရေးနဲ့ ရေရှည်တည်တံ့တဲ့ ငြိမ်းချမ်းရေးအတွက် မရှိမဖြစ်အရေးကြီးပါတယ်။”\n\nကုလသမဂ္ဂ အတွင်းရေးမှူးချုပ် အန်တိုနီယို ဂူတားရက်စ် ( António Guterres) (UN) နော်ဝေ ဝန်ကြီးချုပ် အက်စပင် ဘာ့သ် အိတ်(Espen Barth Eide)\n\n“ICJ ဆုံးဖြတ်ချက်ဟာ အလွန်အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်ဖြစ်ပြီး မတရားမှုကို ထိခိုက်နစ်နာခံစား ရသူ ရိုဟင်ဂျာတွေအတွက် ထင်ရှားတဲ့ အသိအမှတ်ပြုမှုဖြစ်ပါတယ်။ နိုင်ငံတိုင်းဟာ လူမျိုးတုံးသတ်ဖြတ်မှု မကျူးလွန်အောင် ကာကွယ်ရမှာဖြစ်ပြီး ကျူးလွန်သူတွေကိုလည်း အရေးယူအပြစ်ပေးရမှာဖြစ်ပါတယ်။”\n\nနော်ဝေ ဝန်ကြီးချုပ် အက်စပင် ဘာ့သ် အိတ်(Espen Barth Eide) (ATTILA KISBENEDEK/AFP)",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.rfa.org/resizer/v2/FZHWJ26ATBA5ZNYZ7ZGLP34WYU.jpg?auth=4088887517e677928edb7c18b6849ba8709c675177ed6da8123a0a91f9f44d11&smart=true&width=1500",
-   "lang": "my"
-  },
-  {
-   "title": "လူမျိုးသုဥ်းသတ်ဖြတ်မှု ကျူးလွန်ကြောင်း ICJ ဆုံးဖြတ်ပြီးနောက် မြန်မာစစ်သံမှူးကို ဗြိတိန် ချက်ချင်းနှင်ထုတ်",
-   "link": "https://myanmar-now.org/mm/news/82369/",
-   "source": "Myanmar Now Burmese",
-   "published": "2026-11-19T15:17:33+00:00",
-   "summary": "၂၀၁၇ ခုနှစ် နယ်မြေရှင်းလင်းရေးစစ်ဆင်ရေးများနှင့် ဆက်စပ်၍ လူမျိုးသုဥ်း သတ်ဖြတ်မှုဆိုင်ရာ သဘောတူစာချုပ်ကို ချိုးဖောက်သည့် လုပ်ရပ်များ ကျူးလွန်ခဲ့ သည်ဟု သံသယရှိသူအားလုံးကို ချက်ချင်းနှင့် ထိရောက်စွာ စုံစမ်းစစ်ဆေးရန်လည်း ICJ က အမိန့်ချမှတ်ထားသည်။",
-   "body": "၂၀၁၇ ခုနှစ် နယ်မြေရှင်းလင်းရေးစစ်ဆင်ရေးများနှင့် ဆက်စပ်၍ လူမျိုးသုဥ်း သတ်ဖြတ်မှုဆိုင်ရာ သဘောတူစာချုပ်ကို ချိုးဖောက်သည့် လုပ်ရပ်များ ကျူးလွန်ခဲ့ သည်ဟု သံသယရှိသူအားလုံးကို ချက်ချင်းနှင့် ထိရောက်စွာ စုံစမ်းစစ်ဆေးရန်လည်း ICJ က အမိန့်ချမှတ်ထားသည်။",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "Myanmar",
-    "United Kingdom"
-   ],
-   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/914598109_2976160056094193_1449446299748555158_n-1-1024x679.jpeg",
    "lang": "my"
   }
  ]
