@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T14:38:50.786759+00:00",
- "updated_yangon": "2026-11-22 21:08",
+ "updated": "2026-11-22T15:38:52.594404+00:00",
+ "updated_yangon": "2026-11-22 22:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -22,42 +22,38 @@
  "countries": [
   [
    "United States",
-   28
+   34
   ],
   [
    "Ukraine",
-   28
+   27
   ],
   [
    "Russia",
-   28
-  ],
-  [
-   "Iran",
-   10
+   22
   ],
   [
    "China",
    10
   ],
   [
-   "Myanmar",
+   "Iran",
    9
   ],
   [
    "Palestine",
-   5
+   8
   ],
   [
-   "South Korea",
-   5
-  ],
-  [
-   "United Kingdom",
-   4
+   "Myanmar",
+   8
   ],
   [
    "Israel",
+   6
+  ],
+  [
+   "South Korea",
    4
   ],
   [
@@ -65,7 +61,19 @@
    3
   ],
   [
+   "Turkey",
+   3
+  ],
+  [
    "India",
+   3
+  ],
+  [
+   "United Kingdom",
+   3
+  ],
+  [
+   "European Union",
    3
   ],
   [
@@ -73,19 +81,7 @@
    2
   ],
   [
-   "Iraq",
-   2
-  ],
-  [
    "NATO",
-   2
-  ],
-  [
-   "European Union",
-   2
-  ],
-  [
-   "France",
    2
   ],
   [
@@ -97,11 +93,11 @@
    1
   ],
   [
-   "Yemen",
+   "Iraq",
    1
   ],
   [
-   "Turkey",
+   "Yemen",
    1
   ],
   [
@@ -114,6 +110,7 @@
   ]
  ],
  "categories": [
+  "Africa",
   "Asia-Pacific",
   "Europe / NATO",
   "Global",
@@ -123,10 +120,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 32,
+ "war_count": 28,
  "languages": {
-  "my": 23,
-  "en": 117
+  "my": 22,
+  "en": 118
  },
  "items": [
   {
@@ -143,12 +140,12 @@
    "lang": "en"
   },
   {
-   "title": "Golden Horse Awards 2026: Singapore’s The Violinist wins Best Animated Feature, Best Adapted Screenplay",
+   "title": "Golden Horse Awards 2026: The Violinist wins Best Animated Feature, We Are All Strangers bags Best Original Film Score",
    "link": "https://www.channelnewsasia.com/entertainment/63rd-golden-horse-awards-2026-winners-singapore-6572846",
    "source": "CNA World",
    "published": "2026-11-22T20:05:00+08:00",
-   "summary": "Five Singapore films received a record 15 nominations this year, with The Violinist and We Are All Strangers among the winners.",
-   "body": "Five Singapore films received a record 15 nominations this year, with The Violinist and We Are All Strangers among the winners.",
+   "summary": "The Violinist also won Best Adapted Screenplay, bringing its total to two awards. Five Singapore films received a record 15 nominations this year.",
+   "body": "The Violinist also won Best Adapted Screenplay, bringing its total to two awards. Five Singapore films received a record 15 nominations this year.",
    "category": "Global",
    "is_war": true,
    "countries": [],
@@ -171,6 +168,184 @@
    "lang": "en"
   },
   {
+   "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+   "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+   "source": "NYT World",
+   "published": "2026-11-22T15:31:36+00:00",
+   "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+   "body": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Turkey",
+    "Saudi Arabia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T15:24:20+00:00",
+   "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+   "body": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795361050.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+   "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "source": "The Guardian",
+   "published": "2026-11-22T15:22:38+00:00",
+   "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi ",
+   "body": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposition leader, who described them as “Jewish terrorism”. Dozens of settlers raided Palestinian communities overnight on Saturday, setting fire to about a dozen vehicles and several homes and scrawling racist graffiti. At least four communities were attacked. Israeli police said they had launched an investigation with forensic teams. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e",
+   "lang": "en"
+  },
+  {
+   "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
+   "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-22T15:09:00+00:00",
+   "summary": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
+   "body": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://static.dw.com/image/79892807_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+   "link": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+   "source": "The Guardian",
+   "published": "2026-11-22T15:07:42+00:00",
+   "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series n",
+   "body": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series novel, Prudence, published in 1978, allegedly includes several plagiarised passages from The Serial by Cyra McFadden and The Franchise Affair by Josephine Tey. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/f5ed62cd4fe49f2727a2c4dd715669add71e2484/0_76_1639_1311/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=0832a3ae7db6194db42d825cf0511065",
+   "lang": "en"
+  },
+  {
+   "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+   "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T15:03:38+00:00",
+   "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+   "body": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T15:01:18+00:00",
+   "summary": "The Danger of Jensen Huang’s Handshake Deals at Nvidia WSJ A tale of two Nvidias Yahoo Finance Trump asks Nvidia to give Jensen Huang a ‘second chance’ Politico WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance' PBS Jensen Huang has 5 way",
+   "body": "The Danger of Jensen Huang’s Handshake Deals at Nvidia WSJ A tale of two Nvidias Yahoo Finance Trump asks Nvidia to give Jensen Huang a ‘second chance’ Politico WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance' PBS Jensen Huang has 5 ways to push for an Nvidia comeback Business Insider",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T14:57:27+00:00",
+   "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
+   "body": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Drugs Don’t Work",
+   "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T14:51:39+00:00",
+   "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+   "body": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795359093.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - Goshen News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0ZJVzdCMG5qSGh4WmcxU0xkdjNWYTVwbVZUdlFpWWdBNVVWeVUzZ2I2OFlJUm9XWmdIVS1vSU8wMDVxRzctRERmYWZnOXFMbi1HMjlUOXN0SHo1NjdjS1E0M1ZIelJ2ZVh1UGN1WXJ6S09rdl85VjVLNGhNSVNwOGY4OUtBS2lYVDZYTHhla1c3c1I5UEY2eEhVN29FcjRDbl96aEd5d01BWEk5dE9sTm9B?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T14:50:28+00:00",
+   "summary": "Russia Ukraine War Goshen News",
+   "body": "Russia Ukraine War Goshen News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T14:48:50+00:00",
+   "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+   "body": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b02f84230fd-1795356738.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+   "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T14:35:55+00:00",
+   "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+   "body": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b02f2877527-1795355271.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
    "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
    "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
    "source": "NYT World",
@@ -181,6 +356,65 @@
    "is_war": false,
    "countries": [],
    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+   "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T14:33:26+00:00",
+   "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+   "body": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T183739Z_625375852_RC2ISOA5JA13_RTRMADP_3_MEXICO-CHAPOISIDRO-1795351835.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "The health discussion you should have when you get together with family - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T14:33:06+00:00",
+   "summary": "The health discussion you should have when you get together with family The Washington Post",
+   "body": "The health discussion you should have when you get together with family The Washington Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T14:30:27+00:00",
+   "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+   "body": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795357771.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "‘90 Day Fiancé’ star Sheila Mangubat dead at 35 - Page Six",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tBRWc5T1RWQmhQc1R1eENuSHI0SklrMkhpb0pTT1l1Rlgtbl91aHhzUXdlZG9uRUZHSEVLMWRnTDJZU3M3TUh1bWNlXzdqOWl1YnV0ejUyLTBpTXBrMmw4b0REeFJhYVFkYXpUdWV4MjhlNm5yRi1DdmFfOTZFV0JLTFRsVHpyVlhvanRuSUl5T2lyX1Ew?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T14:23:56+00:00",
+   "summary": "‘90 Day Fiancé’ star Sheila Mangubat dead at 35 Page Six ‘90 Day Fiancé’ Star Sheila Mangubat Dies at 35, Days Before Her Birthday People.com ’90 Day Fiance’ Alum Sheila Mangubat Dead at 35, Ex-Fiance David Dangerfield Confirms Us Weekly Sheila Mangubat Dies at 35 in the Philippi",
+   "body": "‘90 Day Fiancé’ star Sheila Mangubat dead at 35 Page Six ‘90 Day Fiancé’ Star Sheila Mangubat Dies at 35, Days Before Her Birthday People.com ’90 Day Fiance’ Alum Sheila Mangubat Dead at 35, Ex-Fiance David Dangerfield Confirms Us Weekly Sheila Mangubat Dies at 35 in the Philippines cwibc.co.id '90 Day Fiancé' Star Sheila Mangubat Dead at 35 TMZ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -228,19 +462,6 @@
    "lang": "en"
   },
   {
-   "title": "Voyager 1 hit one light day but isn't sending home any data right now - Mashable",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T14:05:27+00:00",
-   "summary": "Voyager 1 hit one light day but isn't sending home any data right now Mashable After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth The New York Times NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth NASA (.gov) What's next for NASA interstellar Vo",
-   "body": "Voyager 1 hit one light day but isn't sending home any data right now Mashable After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth The New York Times NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth NASA (.gov) What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth? Space Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan to fix it Live Science",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Three killed and dozens missing after fire at Indonesian factory",
    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -254,18 +475,18 @@
    "lang": "en"
   },
   {
-   "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
-   "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-   "source": "NYT World",
-   "published": "2026-11-22T14:02:58+00:00",
-   "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-   "body": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-   "category": "Global",
+   "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T14:02:33+00:00",
+   "summary": "Trump keeps losing in court. Here’s how he gets what he wants anyway. The Washington Post ‘Trump speed’: How the White House keeps winning after losing in court AlterNet",
+   "body": "Trump keeps losing in court. Here’s how he gets what he wants anyway. The Washington Post ‘Trump speed’: How the White House keeps winning after losing in court AlterNet",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Saudi Arabia"
+    "United States"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -330,6 +551,19 @@
    "lang": "en"
   },
   {
+   "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks - Pure Xbox",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDNIZS1lOWVqcTQ1LU5ENERoMDk5aHZhUUZPc0NXWklCWnlWVVVPdHdDT0VpZmoxby1iZW1GTjN0TmE5X3FwZWxsSHhtcG1vY0x6R19qMDc4Q0lPT1NacUJXQnJxcGJ3VlFTU19SenZidVFvc2R5bDZCWnZVZUhaZTFrd3NnOHNFa0dhN2NvT1ZZZGJoLURUVWZZQVZURWZCTnYzVUFOOWFmcVd0TDlKU1dR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T14:00:00+00:00",
+   "summary": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks Pure Xbox 'GTA 6' on Xbox Series S: How well it actually runs Mashable GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best? Digital Foundry Lucia Caminos in Grand Theft Auto VI at",
+   "body": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks Pure Xbox 'GTA 6' on Xbox Series S: How well it actually runs Mashable GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best? Digital Foundry Lucia Caminos in Grand Theft Auto VI at 4K with DLSS 5 and MFG 6X at 280 FPS on an RTX 5090 GameGPU GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ Kotaku",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Miley Cyrus weds drummer Maxx Morando in California – reports",
    "link": "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
    "source": "The Guardian",
@@ -366,22 +600,6 @@
    "published": "2026-11-22T13:38:28+00:00",
    "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others KTVN",
    "body": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others KTVN",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others - Ottumwa Courier",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbnpad3hoYnBVcm5sTkZyMnYwNml5UlBjRS1yRzZsMkphQWZjbklmUXRqTVRyY0N0QjFxdTg1NjhwRjV0eHJfLWZxRDBuVnVPT0Fvd3dfa0h6ZmhudnNNaGp2WGxFS3RlTER3MzdGbkF6Nmtvd3BlUFB1YjAzdklKYXhDZEVxYXRpSXpXUWJWa2ctamJPQ21oS2p4VE9oWHYway1rQ2tMZkFXcGMtSFR4ZkNtVEY2QU53MHFwNlBxREJQMTN5ZDd5dmJaLU4wLUowOFIxekt1ZDZkUWF6dl9jZ1pBejhCTURnNHhfTnBOV1JYNW1udXRRbWs2eUpBMXRmSTlmcG8xX2U4SGxNNlJwMEVfTG9DUkpiWEE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T13:38:01+00:00",
-   "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others Ottumwa Courier",
-   "body": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others Ottumwa Courier",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -450,6 +668,22 @@
    "lang": "en"
   },
   {
+   "title": "Russia Ukraine War - WV News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeE9TMjUzdDVfdE91Y1U2dkR2U3ozSnFQcThqMTd4ZEEyT1Q4VUhuM3VPYmFxc1k3OElwZFZOTGU3UmNwMk9XR0VlUlV2NldSZFFreHZPQUYwVnBSNVg3T05PdXFfdHRfZm9SNWtMZnRUZDZxVkExbWU1RGZzWGRsS090cnkwbE1UUUszRmtGakpuTlQ5Wi1STG45TkFVZWlLd0dnRUNMcw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T13:30:45+00:00",
+   "summary": "Russia Ukraine War WV News",
+   "body": "Russia Ukraine War WV News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russia Ukraine War - The Batesville Daily Guard",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzU2d0FRSlBBdGRYc00wYnF1MXlha2tVTEIyVkJtblplekJFS0M4MERWTURGSGFPakpKZnQ5cFIzU3RsMUtUdzhqVmo3aFFDSDY4UGZXcFZjWkJrLUw1ek81c3hHanlnV2hKUUcyZFNQQl9CU1pDRkhqVXVEbWh6MHZFVkI1Tl9OR2h5RU1McVFpaDZZemk2VnExVU1rc0gtUU9jak9RQ24?oc=5",
    "source": "Google News · Ukraine",
@@ -466,12 +700,25 @@
    "lang": "en"
   },
   {
+   "title": "Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWdMSHNxSjRIMWY2c1JVckdnZFBHRG1XOThWbXFwQ25lT0ZaRTdTc1NKWkVrSHl2bTRPM241dkI2UHQtQWl5NHd3T3FHb3pnRXc4QmlLYzdQVEJRZmpNeDNUbldVU0dJSWppNXIyLVlwS0hJenlvY0VMQVBkbVdtcUlFcG9lWkFMUVd3M1QyYWdJbG9YX3cxWU5lNW0zbEdieWtydzFzVzdUbXls?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T13:30:00+00:00",
+   "summary": "Strong Earnings Prove No Match for the Crumbling AI Trade Bloomberg.com Has AI's honeymoon ended on Wall Street? Yahoo Finance Has the AI Bubble Already Burst? WSJ The AI boom had a really bad week — and it's raising loud alarms NPR The Economics Behind the Collapse of the AI Bub",
+   "body": "Strong Earnings Prove No Match for the Crumbling AI Trade Bloomberg.com Has AI's honeymoon ended on Wall Street? Yahoo Finance Has the AI Bubble Already Burst? WSJ The AI boom had a really bad week — and it's raising loud alarms NPR The Economics Behind the Collapse of the AI Bubble Center for Economic and Policy Research",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
    "source": "Google News",
    "published": "2026-11-22T13:29:02+00:00",
-   "summary": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic IPO fails t",
-   "body": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic IPO fails to calm AI jitters as tech stocks plummet Yahoo Finance Anthropic had the largest IPO ever. What does that mean for their future — and ours? NPR",
+   "summary": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Anthropic's record IPO raises hopes",
+   "body": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale AP News Anthropic had the largest IPO ever. What does that mean for their future — and ours? NPR",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -520,38 +767,6 @@
    "lang": "en"
   },
   {
-   "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others - The Killeen Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVURYNFpWZkphaFhjbDBONnFGREdTeUsyUjNreHRaT1ozOGdndl9zZ0FCVGYxYU5jNHRXVHpFY2dfeWNac3I3YTF0ZkVRMUx0aEpIYVVUMmM2Vjd5dElDOXVLMi1oRDNwSU0wMlVYQUdMVTgtbjVVUTd4Tjk3Mm9jUmx1aDFqaWpYTGU2VVNHMktXTDVrZk9MYy1ZcVNPbmJEUjlXd09KTV9PdXpHdDd1Ym1NZ0ZQdXdlVnFjOWlRVWxfc0xiazlMS0I1YWNXeE1GM2ZrZXRKaC1MbUFFa1B6WndhLXNXcGZ0UE5NUGh2d3NaN2hEcGVDQ1kxcEhlTi13Q0dsZGpIQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T13:23:52+00:00",
-   "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others The Killeen Daily Herald",
-   "body": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others The Killeen Daily Herald",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others - chronicleonline.com",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaXlQNTBCcEhHc3dGc2xGZDZBa3hTVl82SFhzSURmUzlyd1hhQlo4Rmg0aTA5bDE0MFJQRGJLVmxtbjV6ZUF2ekhBQU5HNHdXTTFVNndrS2w4cWdxUkhQYlRGeDc3eF9oWEtaNlFJMGZ2ZldpOURkTHIxVkVzVGVoNXE3SFQ5bUxiUFhRRmJiTUYzdWw5Qm5UR1dCcVoxcTdhVUxUMEFVSkpxUm1XWU9laUQyMlU3QXp5eHVPNlVwSGkwaVRvV21uYmdKLXR4Nl9lMzhjaS1jc1JxT0lSSzNLdlpqWHZxVEl6WjVIMUVBc2p3REh0b3Ezc1ZHempKQVRQMHIyV3hiWnFKeW03Nzd0Y1RJVUd6TGc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T13:23:52+00:00",
-   "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others chronicleonline.com",
-   "body": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others chronicleonline.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others - News-Press NOW",
    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQmtrU19ZRXhlLTlWNFB1MkhHZEQ3WWRneElfRDdFLTZGUVQ5RTc3UDg5ZFNLSl8yN1F6NmwwQmVGY1laZFdqRU9GNFV4TFZqTXB1OEtaMlFSSG9maE5GSU10anV5b0J5SjZIT3BmYTV6cmVicDI0ejVoY1RZV25sUlRxNXBKVE5RNVNSZ19EVTNwTHRVb2k0V1o4c1hGQ1hfOFFxVWdVbVVQZGp0UXI3RkxldDJUMW91d21XLUV4NThNUGwtQTNYblBfWWFYYUtwTU5FSnNXM3k4ZFVfZ2Z0RldmcnZ0VlRYZWZxQkxoSkNFazFlTUt2NVE2QUJhWmgyd2ZxdkthV2U4N0d3cDI1Mm50QjVkWkZDMmtpOFFYZWkxcERaS1BqT2t3?oc=5",
    "source": "Google News · Ukraine",
@@ -564,19 +779,6 @@
     "Ukraine",
     "Russia"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "'90 Day Fiancé' Star Sheila Mangubat Dead at 35 - TMZ",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JOV96NVQ5UEhEMktOWmJkalowdDdxWms2UE5xeTdTMlVyOHB0bUp1RDFlWndlUjZzU21VM3l2MWJMX3d3dG5RSS1xZzJ1cURmOERRU3ZReEZIVkNfV1RaajhR?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T13:22:58+00:00",
-   "summary": "'90 Day Fiancé' Star Sheila Mangubat Dead at 35 TMZ See more headlines & perspectives on Google News",
-   "body": "'90 Day Fiancé' Star Sheila Mangubat Dead at 35 TMZ See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -678,8 +880,8 @@
    "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
    "source": "The Guardian",
    "published": "2026-11-22T12:54:41+00:00",
-   "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptabl",
-   "body": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey. The proposed deal “failed to meet the moment”, said Ireland’s environment minister, Darragh O’Brien, speaking for the EU. “We will not endorse a decision that does not respond to the science and that actually risks deepening the chasm between global commitments and the action required. [It] does not even mention fossil fuels.” Continue reading...",
+   "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal",
+   "body": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey. The proposed deal “failed to meet the moment”, said Ireland’s environment minister, Darragh O’Brien, speaking for the EU. “We will not endorse a decision that does not respond to the science and that actually risks deepening the chasm between global commitments and the action required. [It] does not even mention fossil fuels.” Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -693,11 +895,12 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
    "source": "Google News",
    "published": "2026-11-22T12:53:09+00:00",
-   "summary": "Russian cargo ship still on fire off Finland after attack Reuters See more headlines & perspectives on Google News",
-   "body": "Russian cargo ship still on fire off Finland after attack Reuters See more headlines & perspectives on Google News",
+   "summary": "Russian cargo ship still on fire off Finland after attack Reuters Russia-bound ship still on fire after attack in Gulf of Finland BBC Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland The Hill Russian Offensive Campaign Assessment, November 21, 2026 Institut",
+   "body": "Russian cargo ship still on fire off Finland after attack Reuters Russia-bound ship still on fire after attack in Gulf of Finland BBC Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland The Hill Russian Offensive Campaign Assessment, November 21, 2026 Institute for the Study of War Finland warns Ukraine war ‘spilling over’ after Baltic Sea drone strike on Russian cargo ship CNN",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
+    "Ukraine",
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -824,6 +1027,23 @@
    "lang": "my"
   },
   {
+   "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T12:25:53+00:00",
+   "summary": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels The New York Times COP31 negotiations break down as countries fail to agree on climate deal The Washington Post COP31 climate talks in Antalya, Turkey fail to agree deal after fossil fuels row - follow live BBC Cop31",
+   "body": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels The New York Times COP31 negotiations break down as countries fail to agree on climate deal The Washington Post COP31 climate talks in Antalya, Turkey fail to agree deal after fossil fuels row - follow live BBC Cop31 live: EU and others reject deal as longest climate summit ever faces collapse The Guardian COP31: Climate Summit Fails When It Can’t Even Say ‘Fossil Fuels’ Bloomberg.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Turkey",
+    "European Union"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
    "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
    "source": "Al Jazeera",
@@ -853,6 +1073,22 @@
    "lang": "en"
   },
   {
+   "title": "People left disgusted by Trump's 'monstrous' boast about Ukraine war: 'Soulless man' - Indy100",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnhrZXBvbWVPNFE4aEU2NUY5Z2o1UFZzSTZoVFktYTZJZGd0Z0ZaZDZfN1AySTVTTE41cWJvS005LU5DdUlDZGNRNzh1N0d6TEp5V0Rydm9yQ2w5aEVrczJmNmY5Xy03TnRsRkNVTXJOTDJqYkpDY3BjNE1VTmhzOHB1N2VvVE0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T12:17:58+00:00",
+   "summary": "People left disgusted by Trump's 'monstrous' boast about Ukraine war: 'Soulless man' Indy100",
+   "body": "People left disgusted by Trump's 'monstrous' boast about Ukraine war: 'Soulless man' Indy100",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Learning Is Not Lessons: What North Korea Takes Home from Ukraine - Defense.info",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDNOQ1lZckMtaHVDTDBrNFhMMFdQc1ZuT0pYbFg2VUNnRS1NdElDT3FTQnpzR1VtZUw4XzJwR25tdHgyVHIydWpVdFc0dWNpYWV5azVmQVZ1eXMtNDNxeWotTjN0aFFFQnA0MkN4UWNBaFVvOUpuVmRHc282R0Ewcmt1ZDNrTlFERng0ZWE3blZKSXg3Tml1WnZCS3VGQ2xfQ0JZSFN6Q0lweUFsb1hJ?oc=5",
    "source": "Google News · Ukraine",
@@ -864,21 +1100,6 @@
    "countries": [
     "Ukraine",
     "North Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Air alert sounds in Kaliningrad as Finland tries to extinguish fire aboard Russian cargo ship - Audacy",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDY2SjR2SXRoVk02U19QWlNvTk5WUXozZDJQUUZZNjlnVVJjSjI4ZzRUclRYQ2toUjZkZ0pqVEdZQjlxQ0dHdW5HMk1mclJXcndjbndaV05NNlk3QVhfTTFHaVNTcGV0NmwtTUxJempGZWcyYzIxLU5ZcFF6dld4MHFQMF9iSjNjTTlSTVQxbDA2ZkstTFZxbExJbmpVTUktVFJzaFo0NE9Rbi1IcmpkOFhvVVNIMXFUdEU1bVlaVmF1UG8?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T12:14:00+00:00",
-   "summary": "Air alert sounds in Kaliningrad as Finland tries to extinguish fire aboard Russian cargo ship Audacy",
-   "body": "Air alert sounds in Kaliningrad as Finland tries to extinguish fire aboard Russian cargo ship Audacy",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -899,12 +1120,29 @@
    "lang": "en"
   },
   {
-   "title": "Russia Ukraine War - WV News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2RSSkFObVZ0SC1HWE8xZXpvWVdBOTE1VzJDckJiZkM4YWZSdl90em1rcmJzbWYyNXEwVGNRZHlSeWhIU0FFQ1ROeVQ5eF9SamVFRzR4cDNia3BMbVBmaHdSckNENlUtaEtSYVNZN285aVk5VktGb0FveHc1WnJ5cUJPUV9VRXo5T1gxNGdXY1BPZHllVnVkZkJLTW5XT2pqNWI1SEtYTQ?oc=5",
+   "title": "North Korea Keeps Building Nukes—and Ghosting Trump - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnYtQVJtSnExbURSMDgwcVgtOXNvMjdoUUtnblpqMk9WLUFjTjJOb0hoR2hOWlBybFZLSUhtbkJmS21RSnJhWkpUM0F4NXZkblVDeUQ3ZVA5NWN3WFI4bUJ6M1RvODEzdVkxYnJmeURLNnRpWjgxTjhEUW42UFZGbDBYbUFCS21UbTNqRlZiTGQyQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T12:03:00+00:00",
+   "summary": "North Korea Keeps Building Nukes—and Ghosting Trump WSJ Trump Has Repeatedly Tried To Contact And Meet Kim Jong-Un In Second Term To No Avail: Report Yahoo South Korea sees no particular sign of imminent US-North Korea talks, Yonhap says Reuters Putin Is Open to Meeting With Nort",
+   "body": "North Korea Keeps Building Nukes—and Ghosting Trump WSJ Trump Has Repeatedly Tried To Contact And Meet Kim Jong-Un In Second Term To No Avail: Report Yahoo South Korea sees no particular sign of imminent US-North Korea talks, Yonhap says Reuters Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says The New York Times Why the Fourth Trump and Kim Jong Un Summit Keeps Not Happening Newsweek",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia Ukraine War - chronicleonline.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXlGWXRqS1gwcndJT2p3aVdfay1ZVmRUWHRYMmVPNEtQLUpPbnBfcTh0aUtsaXg0MndEWDlfZXVOV2xHLUJ1Mjk4ZDhlN1llTnRYd0pRdk03cHNkdkZmemVnOHRMU0ZzLUZMeHdvVHUwSVhkWHZmWS1kLW1YU3BFU28tUkpIVFU2Y0FBOFZMamlMeU83RXotMTByQVRDMVBIMzVjYy0yYzBqRG9GVGc?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-22T12:00:59+00:00",
-   "summary": "Russia Ukraine War WV News",
-   "body": "Russia Ukraine War WV News",
+   "summary": "Russia Ukraine War chronicleonline.com",
+   "body": "Russia Ukraine War chronicleonline.com",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -956,21 +1194,6 @@
     "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Cloned number plate victims in England and Wales to get new reporting tool",
-   "link": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
-   "source": "The Guardian",
-   "published": "2026-11-22T11:59:28+00:00",
-   "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties Sandra Yarwood has a file “about 2in thick” of paperwork relating to the 32 driving fines she received this summer after her car’s number plate was cloned. Yarwood’s ",
-   "body": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties Sandra Yarwood has a file “about 2in thick” of paperwork relating to the 32 driving fines she received this summer after her car’s number plate was cloned. Yarwood’s black Volkswagen Golf did not move from outside her London home while she was on holiday in Canada, but a similar vehicle with a fraudulent copy of her registration racked up penalty notices totalling £2,560 across five London boroughs. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/01f2a7c8812c3e7155003a8cba98fa1d1d276816/618_0_4150_3321/master/4150.jpg?width=140&quality=85&auto=format&fit=max&s=19d203bae8233718e53f1c260e17238a",
    "lang": "en"
   },
   {
@@ -1102,7 +1325,7 @@
    "source": "Google News",
    "published": "2026-11-22T11:10:27+00:00",
    "summary": "The ATP Finals ends with Carlos Alcaraz, Alexander Zverev and an emblem of a strange season - The Athletic The New York Times Final Preview: Zverev vs. Alcaraz in Nitto ATP Finals championship blockbuster ATP Tour Zverev tops Medvedev, sets up showdown with Alcaraz for ATP Finals",
-   "body": "The ATP Finals ends with Carlos Alcaraz, Alexander Zverev and an emblem of a strange season - The Athletic The New York Times Final Preview: Zverev vs. Alcaraz in Nitto ATP Finals championship blockbuster ATP Tour Zverev tops Medvedev, sets up showdown with Alcaraz for ATP Finals title ESPN Nitto ATP Finals 2026 Final Schedule | Nitto ATP Finals | Tennis Nitto ATP Finals ATP Finals: Carlos Alcaraz to face Alexander Zverev for title after comeback against Ben Shelton BBC",
+   "body": "The ATP Finals ends with Carlos Alcaraz, Alexander Zverev and an emblem of a strange season - The Athletic The New York Times Final Preview: Zverev vs. Alcaraz in Nitto ATP Finals championship blockbuster ATP Tour Zverev tops Medvedev, sets up showdown with Alcaraz for ATP Finals title ESPN How much prize money will the Nitto ATP Finals champion earn? Nitto ATP Finals ATP Finals: Carlos Alcaraz to face Alexander Zverev for title after comeback against Ben Shelton BBC",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1186,6 +1409,21 @@
    "lang": "en"
   },
   {
+   "title": "Trump’s meme coin gala raises eyebrows — even in MAGA circles - MS NOW",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96V0NPOVRQM2xMcFdVZ2d1Z052MExvaGg1MWNxYWJ6WlRoRWpQXzNrUDVjQlNROTB3bjVsbjkyUVIzandPYXNsejZwVlVIOWF2TkR1SE1OeFFDMk1LNHJqdg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T11:00:00+00:00",
+   "summary": "Trump’s meme coin gala raises eyebrows — even in MAGA circles MS NOW Is Trump Dumping His Own Memecoin? Forbes Interest in Trump’s meme coin dinner fades as $TRUMP sinks to record lows Reuters Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up Bloomberg.com Almost nob",
+   "body": "Trump’s meme coin gala raises eyebrows — even in MAGA circles MS NOW Is Trump Dumping His Own Memecoin? Forbes Interest in Trump’s meme coin dinner fades as $TRUMP sinks to record lows Reuters Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up Bloomberg.com Almost nobody’s vying for an invite to Trump’s second meme coin dinner The Washington Post",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Ukraine’s War Veterans: Insights From Veterans Minister Vitalii Kim - Forbes",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQkVnSmFiLUJIREpvOTdsRWo3bVJFZC0tY1dWNXBpM0NhSWpab2tOTFFMUWtPcXVfMEtlbDJpYV9NVDJaRGxMVjFPcGl0UjdGRVU3c3lLTVB5WHZLWFRTUnFybkIxWUN0VTlhZEVWakNVQ1NlcUV1UlpNQnBfZkF3OEZ4azdpeWJMQmxvZ0pJeVVVV3FzV0tKM2JqMWhzdzRva1JaZy0zMEpTRDljZHFCeksyS0tEaGx4TDE0?oc=5",
    "source": "Google News · Ukraine",
@@ -1196,6 +1434,21 @@
    "is_war": true,
    "countries": [
     "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Army plans to go ahead with detonation by Nov. 24, according to DOJ filing - Iowa Capital Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazVxcVNVWXB4ck5FV2ZLQ1BMQW5CUG8tZm1GVjFmaGVHZUd2QmhnSG5YSkZUcU5IVFlpVzV1d1draVY5c0IzUTB6QnY1bjZHNWVHVnEtV1JIbDBqRzJiQlhSWE5JLXA2bFlCN29oeTRnWWVkYk9GVVA4TXpqTWtmNWFRMl9JQ1ozMmNHQWZ4YWY1dzV5TnFsd0hHTFFfNFg3Wm1fWlFuQVhsLU1qSFI4Mmlnd2ZqYnc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T10:52:25+00:00",
+   "summary": "Army plans to go ahead with detonation by Nov. 24, according to DOJ filing Iowa Capital Dispatch Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD U.S. Army plans to carry out detonation at Iowa plant despite ind",
+   "body": "Army plans to go ahead with detonation by Nov. 24, according to DOJ filing Iowa Capital Dispatch Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD U.S. Army plans to carry out detonation at Iowa plant despite indefinite pause, court records say CBS News US Army tells court it intends to detonate bomb-making material in Iowa by Tuesday despite pause. Here’s what we know CNN UPDATE: Army says it will proceed with lead azide detonation KCRG",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1213,67 +1466,6 @@
     "Russia"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b02b08a-1795338378.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Has the AI Bubble Already Burst? - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1JnMEhXZi1IVjZ1SmxTWE5RWThOVFJSLTAxcV9mQ3NWVUYyNm5UNjVaTkhHZDduNnVDclZJWWd4Vi1KOElBS1lrSExJSFVCZGtyWEdMRnpSLW9kZ3hQa2pfMUoyTUJqaWlYSDRyaEdjdlZ2RTlVQk5FS3JkU0czdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T10:30:00+00:00",
-   "summary": "Has the AI Bubble Already Burst? WSJ Strong Earnings Prove No Match for the Crumbling AI Trade Bloomberg.com Has AI's honeymoon ended on Wall Street? Yahoo Finance The AI boom had a really bad week — and it's raising loud alarms NPR The Economics Behind the Collapse of the AI Bub",
-   "body": "Has the AI Bubble Already Burst? WSJ Strong Earnings Prove No Match for the Crumbling AI Trade Bloomberg.com Has AI's honeymoon ended on Wall Street? Yahoo Finance The AI boom had a really bad week — and it's raising loud alarms NPR The Economics Behind the Collapse of the AI Bubble Center for Economic and Policy Research",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - Goshen News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc20xWTJjQnFIT1JIbDZlLVM2NHF3ZmprM1pheThPN2J6RHpsM0NfZXRoMjh2RmhuUHNYcXpzMkdPTjRsUjB5cjdQbkZURXhNcjMwTTc5Y1dXQzFfdUE4MXhFN0lkSGN1Rkg5VHB3VXVrTUNfU3M5dUlmYm8xS3J2RGpSaFdBRTZyWXJnb3g4RTJaN2tBcjllWXpkYWx6TkwzRUlNcUNsbnlGSnFsbHl1aXJR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T10:26:11+00:00",
-   "summary": "Russia Ukraine War Goshen News",
-   "body": "Russia Ukraine War Goshen News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOElkaGNZcUQ5TUdHaWZXWFFmSkxneEh4dE9oQks4aW9pWlJJUVNqQ0lUeVNNM1dhODVCeVgtMld4NF9pcGdUQWNsNHBVSGlMdWhoR0s1WFVheDlVMV93TWJMcVBHeks5TVhEMVlOQ0M4blUwd1czY3FZRHVralV2R0d0TWxvOHpa?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T10:25:00+00:00",
-   "summary": "Copper Prices Are Plunging and Sending a Warning for the US Economy Business Insider From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets Bloomberg.com Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns WSJ COMMENTARY: Funds dump copper but S",
-   "body": "Copper Prices Are Plunging and Sending a Warning for the US Economy Business Insider From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets Bloomberg.com Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns WSJ COMMENTARY: Funds dump copper but Shanghai has run out of metal Reuters Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next. Barron's",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia Ukraine War - chronicleonline.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3ZyQlc0akU2NVB3eEJRdEY4NlFVUHkxWTRWSjUzN2pDWEhVNHZaY0c5M1NRdHVWOWxfeTRXV3FTNnF2VWpoU1ZtcE53M0QtX1BLc2VBdjVWY3NpLUxKYTRTY0JhcDVXbGYyMjdYUTFmU3ptdFdFa2lZZWtTWnpQTGp1T1oyaWhyZ19uZlNwd21UR291cXI3R3RSMlpkbE1xdll0WE1wNE9yLW5BMXc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T10:16:59+00:00",
-   "summary": "Russia Ukraine War chronicleonline.com",
-   "body": "Russia Ukraine War chronicleonline.com",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1335,6 +1527,21 @@
    "lang": "my"
   },
   {
+   "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFJTU0cwLTRZT19QbWtfNFR0UlhKd2h6clZMWlVBM2lkaF9VSDMxNGZvMWR2a19obnpYb3FKNEFYSjFTb3VJcGxGS0lWbGhOUFo0b0ZoTG5TN0RmbGd2Y0RBMWl4VnlRam9qdlI4bFBZTzlpaWo0N0Q1dk51V1VQVlQyYmdhLWJ0Y3AweVNXSTU0RkZENVVGZUlrVUw2S25nT2xRc29kVGk5bXJmOFNYdThMOVNZbVZvWlJfelNzOV95Z9IBxwFBVV95cUxORThqb3RSVl9FQkl3aXFyM2QxX1FMV2U0UF9aVGFDNVdXUFZiekJfdWZtTzhUbHlPWWt5ZGNpZnRhRTNodW9tallJMm85MHdxUFZ0Mm1rU2JSd2J4NXlkM3FzXzB5WmRQejZzSGpWV2FteWw3RFl6TEo4SlJyb3JFZjZLZ0dleVFsWUktZjNyR05qUlpvWWR3QXMzcHlaeWVQUHJzUDJKbFV4d0ZJZVJvQ0JfazRUNk80RXNDdDB4OTdMR3pwS0NB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T10:00:08+00:00",
+   "summary": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control' Fox News Trump administration weighs changes to federal gray wolf protections Mezha.net Gray wolves could soon be removed from endangered species list NPR Trump Reviews Fede",
+   "body": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control' Fox News Trump administration weighs changes to federal gray wolf protections Mezha.net Gray wolves could soon be removed from endangered species list NPR Trump Reviews Federal Gray Wolf Protections Amid Rancher Dispute Limapagi Trump Reviews Federal Protections for Gray Wolves Demokratis.co.id",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russia Ukraine War - Daily News-Record",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTd4UjJoc2J1bzBrZHJrZ3B1ZEkxNzBwVG9KUGk0dVpod3doRzFzYmUyeWFXSkt5QW9Jb0I4bkhnMDRGVlotdXBHVHpXYkE0eHVXQWZiTF9BWUFIb2tjRlhFNWdvcnNOWE1lblcxMUthX2Q0MEFMZ0dhWk9zY1pxYm5EMzhjd1FXdEV3eXBUaUU1X25MRnpmZGx0cS1rZ1hUSGdSaks5VlY5OFVFM3Nuc1FIRXpYaTdDcjdKLVk4Umk?oc=5",
    "source": "Google News · Ukraine",
@@ -1348,21 +1555,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T09:45:48+00:00",
-   "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
-   "body": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Iraq"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2163591900-1-1795339406.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1382,21 +1574,6 @@
    "lang": "en"
   },
   {
-   "title": "The Shifting Balance of Power... In the Era of 'Persistent Crisis,' Where Does South Korea Stand Strategically? [Lee Jong-yoon's Military World] - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45eFhhX2VNWjdSVzRQLTJnTHVyZWhCaHNCWnltMUFNWkxhdFZfdThFYXp5VzU2QWk5ZjVONC0xMzI3Z3JLQXVLNVVjRnkzTEZpbmhIY0cxUzM?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-22T09:39:56+00:00",
-   "summary": "The Shifting Balance of Power... In the Era of 'Persistent Crisis,' Where Does South Korea Stand Strategically? [Lee Jong-yoon's Military World] 파이낸셜뉴스",
-   "body": "The Shifting Balance of Power... In the Era of 'Persistent Crisis,' Where Does South Korea Stand Strategically? [Lee Jong-yoon's Military World] 파이낸셜뉴스",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "South Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzZTcWFJbUx5Wmt3ZWNyOGttaFlYOGw2M3NZQmI3cUwxUUhPRGdNbW1RV0Y2bkZtNUhROXpHRkxsVmNxalRHSTRONUdQX2RGZS1lTXB5aTlNdUU1LXgydVNsZGRzZ0Q4X3RJazE4V0NzX3VqbGtVUVlWODJ1QTFBOFk0ZzduaEJzbGkycWpIcU1UM2VISENUajBDZVpwRG9wWmRfeWlyRnBiV05jSEFQQWJxbGhpUQ?oc=5",
    "source": "Google News",
@@ -1409,36 +1586,6 @@
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Restored wells bring life back to Hebron’s occupied Old City",
-   "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T09:33:16+00:00",
-   "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-   "body": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A6934-1795336739.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Photos: People rally across France over living costs, public services",
-   "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T09:27:48+00:00",
-   "summary": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
-   "body": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1472,47 +1619,15 @@
    "lang": "en"
   },
   {
-   "title": "Court records: Army plans to detonate lead azide by Tuesday - KCCI",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejVZalYtM0NhMnlXQXZoSnFFdHNEYWpWTVVyYzM1VlV5V292MnBFZ3NjdWxOLWNjcm9rRm5jYUZ4RWpQZl9ud1liNHJvbVpKVDRVM0RNOHVhVTJHZjJEcU44cThZNXRvQWpnZ2dLWDF6eERUZENSZVhvNlMxWi10UE1CUQ?oc=5",
+   "title": "4 back-to-back supermoons begin with November's full Beaver Moon",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa25yYlhDb0N6VEowU056UXZ1M3Vid3NmZWtpd09FQXcyY3pQekJNNnVieW45Um1Nd1RQUUZkdWdXMVQzRVFkR3BKZktucV9GRW1hbDhOWTZpUk9FMmtTOFlBaGxpVTA2UFl0cWo2ZTJ6Rm9HcEtWTlZjd1ZZWTYzNGk1eU1nOUtSMkR2VmJvNW1MUnM?oc=5",
    "source": "Google News",
-   "published": "2026-11-22T09:14:00+00:00",
-   "summary": "Court records: Army plans to detonate lead azide by Tuesday KCCI Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD Army plans to go ahead with detonation by Nov. 24, according to DOJ filing Iowa Capital Dispatch ",
-   "body": "Court records: Army plans to detonate lead azide by Tuesday KCCI Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD Army plans to go ahead with detonation by Nov. 24, according to DOJ filing Iowa Capital Dispatch The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa The New York Times UPDATE: Army says it will proceed with lead azide detonation KCRG",
+   "published": "2026-11-22T09:01:00+00:00",
+   "summary": "4 back-to-back supermoons begin with November's full Beaver Moon USA Today A Rare Streak of Supermoons Is About to Begin National Geographic How to Watch November’s Supermoon and When It Will Peak People.com A supermoon is on the way. Why it will be extra impressive Detroit Free ",
+   "body": "4 back-to-back supermoons begin with November's full Beaver Moon USA Today A Rare Streak of Supermoons Is About to Begin National Geographic How to Watch November’s Supermoon and When It Will Peak People.com A supermoon is on the way. Why it will be extra impressive Detroit Free Press Supermoon could worsen king tide flooding before Thanksgiving AccuWeather",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T09:06:27+00:00",
-   "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-   "body": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795338343.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Reported FBI hack 'not good' but could have benefits, Trump says - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWY5XzRvZ0dpVmxNTzgwbmNFbHZldmF1VDRZUEpXTjVJWjhGdDl3QUdtQThnUWhwVl9qcEU4RHBrUi05T3lJMTlCNHVKY2packlQc2ZOb1YtUG9VQ1d3Zy1McTduZXZndmM4b1hTY1ppbjItd2hndFV1c0hPTG5maC00ZXNSM0xOTXFfQ0hoYmJrcktCTXFfXzNNVkxUQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T08:56:19+00:00",
-   "summary": "Reported FBI hack 'not good' but could have benefits, Trump says Euronews.com Trump says latest FBI hack could have ‘positive’ impacts Politico Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN Trump says FBI hack might exp",
-   "body": "Reported FBI hack 'not good' but could have benefits, Trump says Euronews.com Trump says latest FBI hack could have ‘positive’ impacts Politico Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN Trump says FBI hack might expose Russia \"hoax\" Axios FBI investigating apparent hack of its key national criminal justice database, AP source says AP News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1536,8 +1651,8 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdE0teVV4UUp2eFpoYkdCYXVTZHFuSk9fYXpna1RHM3dheUo5dks3dDF0cjVySDZ1T2h4MEg1VlBJbW5EcENlZnNoc2dnOFk1ZWdwMDNvUUNSZGM?oc=5",
    "source": "Google News",
    "published": "2026-11-22T08:46:28+00:00",
-   "summary": "Miley Cyrus marries Maxx Morando in California ceremony BBC Miley Cyrus weds drummer Maxx Morando in California – reports The Guardian Miley Cyrus Marries Maxx Morando in Palm Springs Wedding People.com Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehe",
-   "body": "Miley Cyrus marries Maxx Morando in California ceremony BBC Miley Cyrus weds drummer Maxx Morando in California – reports The Guardian Miley Cyrus Marries Maxx Morando in Palm Springs Wedding People.com Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehearsal dinner with her famous family Page Six Miley Cyrus is married! Singer weds Maxx Morando in California USA Today",
+   "summary": "Miley Cyrus marries Maxx Morando in California ceremony BBC Everything We Know About Miley Cyrus and Maxx Morando’s Wedding Harper's BAZAAR Billy Ray Cyrus and Girlfriend Elizabeth Hurley Attend Miley Cyrus and Maxx Morando’s Palm Springs Wedding People.com Miley Cyrus weds drumm",
+   "body": "Miley Cyrus marries Maxx Morando in California ceremony BBC Everything We Know About Miley Cyrus and Maxx Morando’s Wedding Harper's BAZAAR Billy Ray Cyrus and Girlfriend Elizabeth Hurley Attend Miley Cyrus and Maxx Morando’s Palm Springs Wedding People.com Miley Cyrus weds drummer Maxx Morando in California – reports The Guardian 'Best of both worlds': Miley Cyrus and Maxx Morando tie the knot after 5 years of dating KCCI",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1609,18 +1724,19 @@
    "lang": "en"
   },
   {
-   "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T08:11:40+00:00",
-   "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
-   "body": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
-   "category": "Global",
-   "is_war": false,
+   "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW0waDFYcE81MlNfS1FJT25tZXV6SFVLWmhLSWdicllwX1JSandoUm0yU19ZLW1QdDRoUnlpTHBjSVhIZjFXc1RpUko3aUZJWlBjODFLRUQ0ZVFWTWlCd2V5WFo1VlZxR01KQ3hJTmR4cDZkdm9hUDJ0SWpvZkdRdDByTmJXU213enJPd2ozSy1jQmVCNFpFN0RaSHBJSTE2UDg3LVZWRFM5YTjSAbABQVVfeXFMT1ltd0RWTHk0UzVCUXJuTTJjclNGa1JuM3hIMWs0N1FsQXc0am5XTXZFbUozMDhkVTZ6SUQ4QTdIbnNWV1JCQnB1dTJIaTJ2WmxxdDZTS2dPSVRTVzlQQmdVeVowYU5xNmc0NFVwWG5oajRvYzIxSVBjM0duU3JWeTZNVWVKTXFOMk4xdFhBYTZsX0RnelNaOFJTTHJQTllRM25MM1hwVkl1X2ZDakRfQ3U?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T08:14:56+00:00",
+   "summary": "Dashcam captures Russian missile strike on Lviv, Ukraine Al Jazeera",
+   "body": "Dashcam captures Russian missile strike on Lviv, Ukraine Al Jazeera",
+   "category": "Ukraine / Russia",
+   "is_war": true,
    "countries": [
-    "India"
+    "Ukraine",
+    "Russia"
    ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-Chess-cover-image-1795082203.png?resize=800%2C600",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1654,22 +1770,6 @@
    "lang": "en"
   },
   {
-   "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T07:59:29+00:00",
-   "summary": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
-   "body": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795334360.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "How young is too young for kids to start participating in sports and competitions?",
    "link": "https://www.channelnewsasia.com/wellness/kids-sports-starting-age-hyrox-youngstars-training-injury-risks-6557641",
    "source": "CNA World",
@@ -1680,19 +1780,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s---2OAvZps--/c_crop,h_1123,w_1997,x_1,y_209/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/17/kids-sports-starting-age-hyrox-youngstars-training-injury-risks-1.jpg?itok=4fUS9dLy",
-   "lang": "en"
-  },
-  {
-   "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T07:48:28+00:00",
-   "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
-   "body": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261122__D8A29UE__v1__HighRes__776433569-1795331027_b62def-1795331848.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -1718,7 +1805,7 @@
    "source": "Google News",
    "published": "2026-11-22T07:31:26+00:00",
    "summary": "US: ICE arrests two at Seattle airport as governor slams 'chilling' scenes DW.com Governor calls ICE 'out of control' after high profile arrest at SEA Airport KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN Washington sta",
-   "body": "US: ICE arrests two at Seattle airport as governor slams 'chilling' scenes DW.com Governor calls ICE 'out of control' after high profile arrest at SEA Airport KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport ABC News - Breaking News, Latest News and Videos Washington governor calls ICE 'out of control' after two people arrested at airport Le Monde.fr",
+   "body": "US: ICE arrests two at Seattle airport as governor slams 'chilling' scenes DW.com Governor calls ICE 'out of control' after high profile arrest at SEA Airport KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport ABC News - Breaking News, Latest News and Videos Washington governor calls ICE ‘out of control’ after airport arrests CTV News",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1740,21 +1827,6 @@
     "United States"
    ],
    "image": "https://static.dw.com/image/80012517_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Trump says he'd work with Dems to cap credit card interest, fees - Axios",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VmlHVnQwVGE3ejRNcTlLSmhLbGtPb3VwNGpxMmtPMGRjeWEtaXVIaUJCUWNuaTFpVG55ZkI4RkNDTXFPZ1NfR1dIb25McVhTeVhIc3pBbEx0X1FXdWJRLXlTcmoxeVhVTml1SVZTRWhudw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T07:26:45+00:00",
-   "summary": "Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrats to cap credit card interest rates at 10% Yahoo Finance Will Congress cap credit card interest rates? Trump seeking bipartisan cooperation on the policy KCRA 'Save Americans Mo",
-   "body": "Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrats to cap credit card interest rates at 10% Yahoo Finance Will Congress cap credit card interest rates? Trump seeking bipartisan cooperation on the policy KCRA 'Save Americans Money,' Says Warren After Trump Renews Support for 10% Cap on Credit Card Interest Rates Common Dreams Trump opens door to bipartisan deal on credit card rates as Americans face record debt Fox Business",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1847,38 +1919,6 @@
    "lang": "en"
   },
   {
-   "title": "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDdDdFg1TVV3QnZMMjFYWmtibjlyeUhvQnVfRy04dW8ta3N3RnZ6dXJxaEM4cDFQVXM3dFh5R2RGcExoYURLM2xuOUxRRXJkc3BMWlRPOEVvTWgtZXhmNDJtRVh5emFneXlOZlVfeGU3amlmT2o0SUFlTUVBWHdQZzA3d3RhbXduNWZQSXdJck9YVmkxamdnVUs4cFgwdUJOUVZUbW5uYjI5ejVITGItRFI4R0NBaVdPcGNDa1FRejNNaDI0aGc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T06:43:00+00:00",
-   "summary": "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal New York Post",
-   "body": "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal New York Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Russia’s war casualty toll in Ukraine up by 2,310 over past day - Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRURlN1BrOHhGTWpDSEx1TmJFMTQ1RFhUNjVKQUxYMXZSRDJnLWprVzF4enVwaFltOC1ONF9kZkU5dWk0YkZIcG9xTDJfNUM2VzdNejBHQWFnLXhXQUtCOWFWeHY5WkJTUHJ5M1BmWkF2NnFfVV9ZVFd3bEJNYTUwcGpmbnRjVzF2TFpKM1VPZEdLRkl2RENobFVILVhnbG5WNC16ZThidGRiR0duZHlNa9IBtgFBVV95cUxNRmF5em1SYWFqUGxYZG1OczRidjNiUFpIZFg0SzVKVVZlRWFHZmd2MkhlNEx4dkZmaDJqbHhFeTRzcjhNNk43YzFjeElmTm1pQmZxNlRCR2JHOTNDVURaWWRNM1BVenI0UzE2eFRYRi1UdWQ3U19lQ1dxamR1Tkx2ejduMlNCRFBETkZpblpwRDhxcURaRUVITW1rVG1DRS1WQlI3QkUzMDdLRkxVN2FzLV9NQWh4QQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T06:30:00+00:00",
-   "summary": "Russia’s war casualty toll in Ukraine up by 2,310 over past day Ukrinform",
-   "body": "Russia’s war casualty toll in Ukraine up by 2,310 over past day Ukrinform",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "ထိုင်းမှာ အဆိပ်သင့် ညစ်ညမ်းအမှိုက် တန် ၆၀၀၀ ခန့် မစွန့်ပစ်ခင် တွေ့ရှိ",
    "link": "https://burma.irrawaddy.com/news/2026/11/22/417806.html",
    "source": "Irrawaddy Burmese",
@@ -1890,36 +1930,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Toxictrash22Nov26feat-900x476.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNmNUV2ZiM3V3bDVGeEZDSlRyQmJNNjdBaW1IQ25xc0hqb0pGTVgxMXZ0Q2VuSU51UkhZRndFQ01ONXg3NC16MERuU3FzMF9OWTNkVmNfeXdxMWN1X0pOX25IV0hxbng0cG1iamZqM0lHZWRMb3pNeG1ndmxtLTVVdDVZNVZyTUdfeG5VWFRJNkZhUUtLaW9aeDYxMUpUS3N0NWFjckJWTW5Qc20wOXVBZk9aRFhqc0ViOVotdWNFYVhfQ3lIbzhpcV9ZOA?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T06:15:38+00:00",
-   "summary": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says France 24",
-   "body": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says France 24",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Dozens missing as deadly fire hits Indonesian candy factory",
-   "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-22T06:14:00+00:00",
-   "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
-   "body": "A fire at a confectionery factory in Indonesia's Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static.dw.com/image/80012341_6.jpg",
-   "lang": "en"
   },
   {
    "title": "အလုပ်သမားဝန်ကြီးပေမယ့် အလုပ်သမားဘက်က ကာကွယ်ချင်စိတ် လုံးဝမရှိတာတွေ့ရတယ်",
@@ -2185,21 +2195,6 @@
     "Myanmar"
    ],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/kkhicj20Nov26feat-900x476.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ရိုဟင်ဂျာများအပေါ် လူမျိုးသုဉ်းသတ်ဖြတ်မှု ကျူးလွန်ကြောင်း နိုင်ငံတကာတရားရုံး၏ တရားစီရင်ချက် (၁၃) ချက်",
-   "link": "https://myanmar-now.org/mm/news/82399/",
-   "source": "Myanmar Now Burmese",
-   "published": "2026-11-20T10:11:40+00:00",
-   "summary": "ရခိုင်ပြည်နယ်မြောက်ပိုင်းရှိ ရိုဟင်ဂျာများကို မြန်မာစစ်တပ်က လူမျိုးသုဉ်းသတ်ဖြတ်မှု ကျူးလွန်ခဲ့ကြောင်း နိုင်ငံတကာ တရားရုံး (ICJ) က ယမန်နေ့ (နိုဝင်ဘာလ ၁၉ ရက်)တွင် သမိုင်းဝင် ဆုံးဖြတ်ချက် ချမှတ်ခဲ့သည်။ ဂမ်ဘီယာနိုင်ငံက တရားစွဲဆိုထားသည့် အဆိုပါအမှုတွင် မြန်မာနိုင်ငံ၏ ပျက်ကွက်ချိုးဖောက",
-   "body": "ရခိုင်ပြည်နယ်မြောက်ပိုင်းရှိ ရိုဟင်ဂျာများကို မြန်မာစစ်တပ်က လူမျိုးသုဉ်းသတ်ဖြတ်မှု ကျူးလွန်ခဲ့ကြောင်း နိုင်ငံတကာ တရားရုံး (ICJ) က ယမန်နေ့ (နိုဝင်ဘာလ ၁၉ ရက်)တွင် သမိုင်းဝင် ဆုံးဖြတ်ချက် ချမှတ်ခဲ့သည်။ ဂမ်ဘီယာနိုင်ငံက တရားစွဲဆိုထားသည့် အဆိုပါအမှုတွင် မြန်မာနိုင်ငံ၏ ပျက်ကွက်ချိုးဖောက်မှုများနှင့် ဆက်လက်လုပ်ဆောင်ရမည့် တာဝန်ဝတ္တရားများအပါအဝင် တရားသူကြီးများ၏ မဲခွဲဆုံးဖြတ်ထားသည့် စီရင်ချက် (၁၃) ချက်ကို အောက်ပါအတိုင်း ဖော်ပြလိုက်ပါသည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/178-20261119-02-1-1024x681.jpeg",
    "lang": "my"
   }
  ]
