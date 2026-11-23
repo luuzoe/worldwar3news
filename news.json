@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T00:38:56.318937+00:00",
- "updated_yangon": "2026-11-23 07:08",
+ "updated": "2026-11-23T01:38:54.772627+00:00",
+ "updated_yangon": "2026-11-23 08:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -22,34 +22,30 @@
  "countries": [
   [
    "United States",
-   28
+   29
   ],
   [
    "Russia",
-   27
+   28
   ],
   [
    "Ukraine",
-   27
+   26
   ],
   [
    "China",
-   9
+   11
   ],
   [
    "Myanmar",
-   8
-  ],
-  [
-   "Israel",
-   7
+   9
   ],
   [
    "Australia",
-   6
+   7
   ],
   [
-   "Turkey",
+   "Israel",
    6
   ],
   [
@@ -57,8 +53,12 @@
    4
   ],
   [
-   "Palestine",
+   "Turkey",
    4
+  ],
+  [
+   "Palestine",
+   3
   ],
   [
    "Iran",
@@ -69,11 +69,11 @@
    2
   ],
   [
-   "European Union",
+   "South Korea",
    2
   ],
   [
-   "South Korea",
+   "European Union",
    2
   ],
   [
@@ -111,12 +111,28 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 31,
+ "war_count": 28,
  "languages": {
-  "my": 20,
-  "en": 120
+  "my": 21,
+  "en": 119
  },
  "items": [
+  {
+   "title": "CNA Now: Singapore, China to hold high-level bilateral talks, plus other news as it happens",
+   "link": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-23-6568956",
+   "source": "CNA World",
+   "published": "2026-11-23T09:01:00+08:00",
+   "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "body": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--7oS5CBzq--/c_crop,h_1125,w_2000,x_0,y_426/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/23/llt_8668.jpg?itok=uovjOkDb",
+   "lang": "en"
+  },
   {
    "title": "She survived bone cancer and two amputations – now this 20-year-old wants to be seen beyond her disability",
    "link": "https://www.channelnewsasia.com/women/chloe-chew-bone-cancer-survivor-wheelchair-para-fencing-6555046",
@@ -159,6 +175,225 @@
    "lang": "en"
   },
   {
+   "title": "ICJ စီရင်ချက်နောက်ပိုင်း ရိုဟင်ဂျာအရေး ကုလ၊ OIC၊ အာဆီယံတို့နဲ့ မလေးရှား ဆွေးနွေးမယ်",
+   "link": "https://www.bbc.co.uk/burmese/live/cmz6q3jyp93et?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-23T01:39:03+00:00",
+   "summary": "ICJ စီရင်ချက်နောက်ပိုင်း ရိုဟင်ဂျာအရေး ကုလ၊ OIC၊ အာဆီယံတို့နဲ့ မလေးရှား ဆွေးနွေးမယ်ဆိုတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ICJ စီရင်ချက်နောက်ပိုင်း ရိုဟင်ဂျာအရေး ကုလ၊ OIC၊ အာဆီယံတို့နဲ့ မလေးရှား ဆွေးနွေးမယ်ဆိုတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d595/live/84a62a10-e6d9-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+   "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+   "source": "NYT World",
+   "published": "2026-11-23T01:32:02+00:00",
+   "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+   "body": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Is Mexico Stepping Up in the War on Drugs?",
+   "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+   "source": "NYT World",
+   "published": "2026-11-23T01:26:59+00:00",
+   "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+   "body": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-23T01:26:30+00:00",
+   "summary": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live The Independent",
+   "body": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Minns ends presser after heckling from Greens candidate",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-23T01:24:34+00:00",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a",
+   "body": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Japan",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481",
+   "lang": "en"
+  },
+  {
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T01:23:43+00:00",
+   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "body": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+   "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+   "source": "The Guardian",
+   "published": "2026-11-23T01:23:07+00:00",
+   "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friend",
+   "body": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83 . Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48",
+   "lang": "en"
+  },
+  {
+   "title": "Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGFsaHA5NUhLSG12V2FCUXZ1NkNlNXF2S0NJZ0NPRHBUazF3ZkpySU1DZlNUNDRwYk9mT19vNEdiQ2I5OTFaMm9vazlWVE5RR04xcEd2NjFSdVBlLVhHU2hZV1BSYjQwU3VEN2FPeGtzVndCMjBvLXpPQV93eUZ4ZkpkTTBEZHE3dDFZNXJ3YnJXSUF0UmJaV25HeE5zVHdKYktzNEMydw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-23T01:18:52+00:00",
+   "summary": "Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack The Kyiv Independent",
+   "body": "Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack The Kyiv Independent",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine says Russian strikes kill 11 in Kyiv region - Arab News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTjRzRXRNV0pNN1lvdF8zdTR1OThGRFp0Q1FhNzRZSHdIY0hWR0ZIVV9YSjVKVVFoZU55THpQbkl1bWhSbGR4VHFlQUZNRnF6bzl5MjdhcXhPTTd1a2t2Mk5XaVJaQVJvbFRVLWtFbVpnWWtoUGo1WkQ0NV9kQjVGSUJZTTZtVHJpb2w0SmNsNFhiZFM2?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-23T01:17:27+00:00",
+   "summary": "Ukraine says Russian strikes kill 11 in Kyiv region Arab News",
+   "body": "Ukraine says Russian strikes kill 11 in Kyiv region Arab News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Stock futures rebound to start shortened week after tech rout: Live updates",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-23T01:08:00+00:00",
+   "summary": "Stock futures rebound to start shortened week after tech rout: Live updates CNBC S&P 500 Futures Rise After Tough Week The New York Times US futures bounce while Asia markets brace for AI wipeout Reuters US Stock Futures Open Higher After Tech Selloff: Markets Wrap Bloomberg.com ",
+   "body": "Stock futures rebound to start shortened week after tech rout: Live updates CNBC S&P 500 Futures Rise After Tough Week The New York Times US futures bounce while Asia markets brace for AI wipeout Reuters US Stock Futures Open Higher After Tech Selloff: Markets Wrap Bloomberg.com Stock Futures Are Rebounding After Last Week’s Bloodbath Barron's",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-23T00:54:02+00:00",
+   "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon is a “proven and persistent liar” ",
+   "body": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon is a “proven and persistent liar” and the evidence in his double murder trial shows the deaths of Jesse Baird and Luke Davies could only have been an “execution”, a court has been told. Lamarre-Condon is accused of fatally shooting the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=2cd65c7c634a6466972155b4ad17b92e",
+   "lang": "en"
+  },
+  {
+   "title": "US army to blow up bomb-making chemicals despite safety concerns",
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+   "source": "The Guardian",
+   "published": "2026-11-23T00:50:39+00:00",
+   "summary": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemicals in Iowa , saying ",
+   "body": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemicals in Iowa , saying that continued delays will make it more dangerous as the weather starts to turn colder. “To protect its personnel and the surrounding communities, the Army needs to take swift action,” government lawyers told the eight US circuit court of appeals in a filing late on Saturday. “Protection of human health and the environment demand action now, not delay.” Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bfed09b7de050098100a09bd0b59db30af9459f6/371_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=cc029734716f40dfb0db43ac7a89db01",
+   "lang": "en"
+  },
+  {
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T00:50:35+00:00",
+   "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+   "body": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Skubal joining Mets for 9 years, $450M (source) - MLB.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-23T00:46:10+00:00",
+   "summary": "Skubal joining Mets for 9 years, $450M (source) MLB.com What Tarik Skubal's massive deal means for Mets, suitors, all of MLB ESPN David Lennon: Steve Cohen understood what Mets needed in signing Tarik Skubal Newsday Tarik Skubal agrees to record $450 million contract with New Yor",
+   "body": "Skubal joining Mets for 9 years, $450M (source) MLB.com What Tarik Skubal's massive deal means for Mets, suitors, all of MLB ESPN David Lennon: Steve Cohen understood what Mets needed in signing Tarik Skubal Newsday Tarik Skubal agrees to record $450 million contract with New York Mets CNN Retired Howie Rose has perfect reaction to Mets’ $450 million Tarik Skubal deal Yahoo Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+   "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T00:39:51+00:00",
+   "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+   "body": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -172,35 +407,18 @@
    "lang": "en"
   },
   {
-   "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
-   "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+   "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
    "source": "The Guardian",
-   "published": "2026-11-23T00:28:03+00:00",
-   "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friend",
-   "body": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83 . Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
-   "category": "Global",
+   "published": "2026-11-23T00:31:31+00:00",
+   "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democr",
+   "body": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thompson and mentalist Lior Suchard, according to the event’s website . Continue reading...",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Australia"
+    "United States"
    ],
-   "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48",
-   "lang": "en"
-  },
-  {
-   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-23T00:26:56+00:00",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a",
-   "body": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Japan",
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481",
+   "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=8e8655ae5e48a38e70dd33fcd33d5626",
    "lang": "en"
   },
   {
@@ -216,6 +434,36 @@
     "Australia"
    ],
    "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=463b4248042469d487fbddbbf134e3b5",
+   "lang": "en"
+  },
+  {
+   "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+   "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T00:18:03+00:00",
+   "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+   "body": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "South Korea"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T015144Z_77722265_RC21IOA70JJX_RTRMADP_3_SOUTHKOREA-MARKETS-1-1795393000_0f55a3-1795395323.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-23T00:16:00+00:00",
+   "summary": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity Bloomberg.com See more headlines & perspectives on Google News",
+   "body": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity Bloomberg.com See more headlines & perspectives on Google News",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -260,31 +508,44 @@
    "lang": "en"
   },
   {
-   "title": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T23:56:29+00:00",
-   "summary": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live The Independent",
-   "body": "Libya condemns attack on Russian warship as ‘violation of sovereignty’: Live The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "Molly Meldrum: Australian music legend dies aged 83",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T23:51:47+00:00",
+   "summary": "Molly Meldrum: Australian music legend dies aged 83 BBC Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great The Guardian Molly Meldrum, the 'most important person in pop', dies aged 83 ABC News & Headlines – Australian Broadca",
+   "body": "Molly Meldrum: Australian music legend dies aged 83 BBC Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great The Guardian Molly Meldrum, the 'most important person in pop', dies aged 83 ABC News & Headlines – Australian Broadcasting Corporation Molly Meldrum dies aged 83, following a long health battle Nine.com.au Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83 Yahoo",
+   "category": "Asia-Pacific",
+   "is_war": false,
    "countries": [
-    "Russia"
+    "Australia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5",
+   "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism - PBS",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGNlaXFrQ3JDMUVCZENCLXlQdnJkOTNSSUVvZVltS1VYd1VKQkJxalhBejV1WkN6S184bVNGc19yNERKQlJLRWtXeVRrQjVxeFZVYV9JRU5BOWphWm8tMU5fNkwySEVITEV3WjJhRTV4YTZybER5cVMyVmFRRGhKdFdkTGxqenRxZjVISVF4Z0tzT2N4SDY2VXZtXy0wenRENTY0TzlXaW1BenlBdkZscFFETkYxbF9QNXplM1N1NGl2b3JTWmVudmtB?oc=5",
    "source": "Google News",
-   "published": "2026-11-22T23:56:00+00:00",
-   "summary": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31 The Guardian COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels The New York Times COP31 climate summit ends in bitter failure as oil producers object to words “fossil fuels” in final declaration Yah",
-   "body": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31 The Guardian COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels The New York Times COP31 climate summit ends in bitter failure as oil producers object to words “fossil fuels” in final declaration Yahoo Global climate summit collapses as countries fail to agree on moving away from fossil fuels CNN COP31 climate talks fail to reach deal amid fossil fuel and money rows BBC",
+   "published": "2026-11-22T23:46:56+00:00",
+   "summary": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism PBS ICE 'out of control' in dramatic SEA arrest caught on camera, governor says KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight C",
+   "body": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism PBS ICE 'out of control' in dramatic SEA arrest caught on camera, governor says KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN ICE says woman arrested at SEA threw hot coffee at officers, overstayed her visa MyNorthwest.com ‘Outraged.’ Officials react after ICE reportedly arrests family at Sea-Tac Airport KUOW",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2dWU05JdFBhUXJCXzRiVm50dUJESE9oajlGNE5XaWQyXzRCQjlGc2NYbjNWU3hYWEMyNjJaay13alJTSEM0QUJCZklGMWxHQldBMDlNMmk5RjRMV0dyS25QVjBBOEd4WnFDZVZfdHU0MVAtRUdSVmhJeXBLYmdoVFJVWDRYVlNIZnJ6bUdR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T23:41:12+00:00",
+   "summary": "Delta restores system after nationwide flight delays as Thanksgiving travel begins NBC News Delta Air Lines says system issue that delayed flights nationwide has been resolved CNN Delta sees flight delays as Americans travel for Thanksgiving Pittsburgh Post-Gazette Delta Resolves",
+   "body": "Delta restores system after nationwide flight delays as Thanksgiving travel begins NBC News Delta Air Lines says system issue that delayed flights nationwide has been resolved CNN Delta sees flight delays as Americans travel for Thanksgiving Pittsburgh Post-Gazette Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays WSJ Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [
-    "Turkey"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -318,14 +579,29 @@
    "lang": "en"
   },
   {
-   "title": "Russian Ships Struck in Attacks Far From Ukraine as War’s Fallout Spreads - WSJ",
+   "title": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says - Radio Free Europe/Radio Liberty",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVBJS2s5OTd0LW8zUjdxanZlTjh1VkN0aXFhQktBQi11eWh0VUxDR1RFaUkyeUVpMUNUamY3QkV3UWNvYzVudXdNcVVTMGM0VVJzbzVoNDhfNjExVmtONHpLSHpOWnNjOV9iOGxJdklPU3lZV0xhaEZlTlZBV2g4WEI2amd4dVFDWENwNmVpd2TSAZMBQVVfeXFMTkVQQWpJLTNGU0dENkE1V2doVUR0dE9MOEhDSXktVXNIZnF6d2taUVdwQS1MLWIwSUNIcks5em9NaFNRX1pHbmRMZ2JMTWhYVFlzbmlhbjl3dER0NVY0YjJVMmktWWRxY0ZPeDRKa3p6Uzg1MnEwWTJyOHBRVVhVYmkzbld6VG5taDVtd2o4OFNiMjV3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T23:11:31+00:00",
+   "summary": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says Radio Free Europe/Radio Liberty",
+   "body": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says Radio Free Europe/Radio Liberty",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Two Russian Ships Attacked Far From Ukraine - WSJ",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUVkazV3eVU0VlliLUJtY3hUY3J0djVGelpZTGY4R3dqZ2U5dTB1SXo4Y3JoSEFvRjF3Y2ZwVVZ0elJRTkI5WElHcHlZVFFaSTBzaWEwN1BINjBJQlJSaGpyYnRubkJ3VkVGNF9ZVS1LX2xCczdFZ1BaQ2QwWTBXOURrc1NUOHdvWm9TQ3NlWTRRTUNrLWRGY1BxNXNERjBya3pKUFR0d2xKY1lqNENEQXlGVGE?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-22T23:09:00+00:00",
-   "summary": "Russian Ships Struck in Attacks Far From Ukraine as War’s Fallout Spreads WSJ",
-   "body": "Russian Ships Struck in Attacks Far From Ukraine as War’s Fallout Spreads WSJ",
+   "summary": "Two Russian Ships Attacked Far From Ukraine WSJ",
+   "body": "Two Russian Ships Attacked Far From Ukraine WSJ",
    "category": "Ukraine / Russia",
-   "is_war": true,
+   "is_war": false,
    "countries": [
     "Ukraine",
     "Russia"
@@ -367,11 +643,12 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SSWluQ3ZBMFVrQ3RuZFQ5WmNORDZoTzRpN2dSbGJRYWpBQktmUHZsc1BKZVhIV3N0cGF0b25OODRSYUp5QjVrc0hwZmc0MkhBR1IyZlIwOHpCX0U?oc=5",
    "source": "Google News",
    "published": "2026-11-22T22:49:10+00:00",
-   "summary": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' BBC Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go? The New York Times European Union and UK strike a 'landmark deal' to strengthen ties after Brexit DW.com Andy Burnham’s EU deal i",
-   "body": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' BBC Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go? The New York Times European Union and UK strike a 'landmark deal' to strengthen ties after Brexit DW.com Andy Burnham’s EU deal is only a start The Economist Closer EU ties will give UK say on Brussels decisions, says Ed Miliband The Guardian",
+   "summary": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' BBC Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go? The New York Times European Union and UK strike a 'landmark deal' to strengthen ties after Brexit DW.com Facing economic pain and",
+   "body": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' BBC Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go? The New York Times European Union and UK strike a 'landmark deal' to strengthen ties after Brexit DW.com Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal NBC News Andy Burnham’s EU deal is only a start The Economist",
    "category": "Global",
    "is_war": false,
    "countries": [
+    "Russia",
     "United Kingdom",
     "European Union"
    ],
@@ -443,19 +720,6 @@
    "lang": "en"
   },
   {
-   "title": "Giants vs. Jaguars live updates: New York in total control against Jacksonville at the half - CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUJLSmlGazlBV3l6NThhN2h5ZmNQanRSU2s2bkNOUHdENzlXUWtiRUxVVWthQVR2NEZHYjZrVldibnN3bWw5VkZteDRUeGpaWDNxZ3VMbVFUWjZZY3U4Q05odDBaQkFCTkVJT2tjN290ZlRXNkNfVFRfTW50dlU0R3lIZ3U3c3Y3TjRjYVZmNnB2Zw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T22:36:50+00:00",
-   "summary": "Giants vs. Jaguars live updates: New York in total control against Jacksonville at the half CBS Sports Giants look like they belong vs. Jaguars, as Cowboys keep pressure on in NFC East race Yahoo Sports J.J. McCarthy's 35-yard strike to Isaiah Likely gets Giants into Jaguars' ter",
-   "body": "Giants vs. Jaguars live updates: New York in total control against Jacksonville at the half CBS Sports Giants look like they belong vs. Jaguars, as Cowboys keep pressure on in NFC East race Yahoo Sports J.J. McCarthy's 35-yard strike to Isaiah Likely gets Giants into Jaguars' territory NFL.com Jaguars vs Giants Prediction, Best NFL Player Props, Bets, Picks, & NFL Odds Today FanDuel How to watch Jaguars vs. Giants: TV channel and streaming options for November 22 The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ukraine war gets harder to contain amid escalating hybrid attacks - Yahoo",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWpYZFRDMDlQLXVEdERHXzY1VWRPUVZhcFNaYmZKYTJYWXppcnBDTklnX1dPc2ZRSDV2TUNmaHlXQzVSOXJHbFJaa1RzSktCMkFaenlRRFM0R0VvU2txRjF4MFYtNkR1TWJ3a216SGdqeVlFV2tDRFV1eWJMSERIbGFQd09YS3UzM21JLWdnMzNudw?oc=5",
    "source": "Google News · Ukraine",
@@ -482,19 +746,6 @@
    "countries": [
     "Ukraine"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWRfMUlqa2NON3pHbWVBT3NuRDBNajZQYklJRlBlNTdrT2J6cGpxWU5FODBmU29sSnJ5QlhpaVRJY3dpSFN6dEVCcVlVWTVkcWVfSU5XS1l2MWNfUXl0ckZObS11ckVhV0Rsb0ZGcXBHN0NmZ2MxbUxRNmlZRHNfbW9XYkJUZFpmaXMxbDBadWRFRnJHajNCc2hSSDZkaVnSAaQBQVVfeXFMTXVUSGQ5N2Q1MWRVdGRyLTdITHVfWlNtdzhWSWwzZ1dYVzJiTnJuRzlTOEY4MDNTM2p5MUlMcGZvZnVTU3FOV0RMTEpDcUFqbnVrbms5UXlwb2IzUEE4SXZJU0RQZEtjYUtnbGRUZjBjUkF5aS1yUXRBenZsR215WEJZWWZHRUI3NWdXZ1RqYmxEZEhGS3ZaZHQtTGdZUUtjSDdNczM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T22:21:52+00:00",
-   "summary": "Equipment outage in Atlanta causes over 1,600 Delta flight delays ABC News - Breaking News, Latest News and Videos Delta Air Lines says system issue that delayed flights nationwide has been resolved CNN As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights The N",
-   "body": "Equipment outage in Atlanta causes over 1,600 Delta flight delays ABC News - Breaking News, Latest News and Videos Delta Air Lines says system issue that delayed flights nationwide has been resolved CNN As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights The New York Times Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays WSJ Delta Air Lines Just Delayed 1,300 Flights Because It Had to Do Math by Hand Inc.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -526,6 +777,36 @@
     "Israel",
     "Iran"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T22:14:33+00:00",
+   "summary": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port Al Jazeera Two Russian Ships Attacked Far From Ukraine WSJ UN condemns drone attacks off Libya coast, urges investigation The Times of Israel Russian warship sinks in Benghazi after suspected Ukrainian drone",
+   "body": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port Al Jazeera Two Russian Ships Attacked Far From Ukraine WSJ UN condemns drone attacks off Libya coast, urges investigation The Times of Israel Russian warship sinks in Benghazi after suspected Ukrainian drone attack The Guardian Libya's eastern government suspects drone attack caused explosion on Russian ship Reuters",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "Israel"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Bay Area airports, coast under extreme flood threat; residents told to avoid travel",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T22:08:00+00:00",
+   "summary": "Bay Area airports, coast under extreme flood threat; residents told to avoid travel Los Angeles Times See more headlines & perspectives on Google News",
+   "body": "Bay Area airports, coast under extreme flood threat; residents told to avoid travel Los Angeles Times See more headlines & perspectives on Google News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -572,35 +853,6 @@
     "European Union"
    ],
    "image": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702",
-   "lang": "en"
-  },
-  {
-   "title": "Tarik Skubal to Mets: Grading record $450 million contract - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1VLQTJ5aTl5Zmh3NEpGdTNTaklvdWtEMzNZTlVVQkcySng5dVBMeElxNFRFSnhaT2dwWXZLZko5MzRzR1dJTWFEdEstRVVNZzRXUWNkOURpXzNHMFk5Q3hESHBDQ1p1S3ltWlNhRExGcU41cnFrWUlCSDVUN2FSRkJPZkJHdnhXODBTLXNJS3ljWmtYME9aVA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T22:00:00+00:00",
-   "summary": "Tarik Skubal to Mets: Grading record $450 million contract ESPN Fantasy baseball: Breaking down Tarik Skubal's fantasy value on the Mets ESPN What's next for the Mets after record-breaking deal with Tarik Skubal? Biggest needs for 2027 CBS Sports MLB free agency news, live update",
-   "body": "Tarik Skubal to Mets: Grading record $450 million contract ESPN Fantasy baseball: Breaking down Tarik Skubal's fantasy value on the Mets ESPN What's next for the Mets after record-breaking deal with Tarik Skubal? Biggest needs for 2027 CBS Sports MLB free agency news, live updates: Tarik Skubal reportedly agrees to record $450M contract with Mets Yahoo Sports Tarik Skubal, New York Mets agree to record 9-year, $450 million deal: Sources - The Athletic The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multi-front war - The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWm9JUTF6SkM5cW1FT1BkWXBRZVVsbWVyb01xSFZLRWVKUFZpbmptLU1GSUlBVzFwUDd1VWVGM1ltU0d0dVpTMURPdjNPMHlEdHYyRHhtTGlyQ1BfMW1KdVJKYkpKTldBbFUzNUVyN0M5NWR5bElMcDZCZWpQWmxUSjVOTzlJUDBOQXI5MThLZ3FpUkd5OEN6T2ZkMTlFc2RPdzB6M3o2d044UVpEYUV0U9IBtgFBVV95cUxPODVDM2RTZktJbmNoeWhWalE0R01TNlJDcDFLT3VKVkloZ19GMzRwZXYyVm5CQ2h4S0ZON09vRjdTU193M1Z0Q2xJVFpVdndKbUJRT3lHeC04TEE5RWRsMy1FVVNuWDIyLWJzVEJNN3A3N2d2M0Z2TVVLUlRYM3A0NTAyRE5Zck9PYVpDVlZiNGpaTE8zSjlmOElTQTdDdEg4VVhfR2dEdXo2NXJqUEtRRTRjeHlxdw?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-22T21:49:26+00:00",
-   "summary": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multi-front war The Times of Israel",
-   "body": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multi-front war The Times of Israel",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -679,6 +931,19 @@
    "lang": "en"
   },
   {
+   "title": "Jaguars vs Giants Predictions, Odds, NFL Spread Pick - Action Network",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWJSQzUxOF9oRnppS3pzMmZsMm9mQm5ITTlCT2pWU1pjNkRBS01CQzJ1QWZXVmtBWWx1RmlWN1N3dkFkLWVNWS1xOS00VUVFT212cHdpYlA5N3Y3NTRHYmM3eUpsT0R2YlZBQjlSeDc3bmR3LUJUVVFIVkFCYmZ3WEpRd0FFakVrQkJid2oydFVZWWZTcjFVOEw5a3BfTEpWMzJOSXpPcmpjWFZWR3RUQ3RzUnpZN2t4VHc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T21:25:00+00:00",
+   "summary": "Jaguars vs Giants Predictions, Odds, NFL Spread Pick Action Network Giants 23-18 Jaguars (Nov 22, 2026) Game Recap ESPN Giants earn their most impressive win of the season with upset of Jaguars NBC Sports Giants get 23-18 win against Jaguars, increase lead in NFC East ABC7 New Yo",
+   "body": "Jaguars vs Giants Predictions, Odds, NFL Spread Pick Action Network Giants 23-18 Jaguars (Nov 22, 2026) Game Recap ESPN Giants earn their most impressive win of the season with upset of Jaguars NBC Sports Giants get 23-18 win against Jaguars, increase lead in NFC East ABC7 New York Jaguars stunned by Giants amid officiating controversy, questionable late-game decision from head coach Liam Coen Yahoo Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -703,21 +968,6 @@
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz — even if he says he's not running",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDZYRGlyTWE4RVZyb0ZkU0lPR0NmeVZoa1hCZFZpOVN6ancyX0NweEREZjZJNlZXMzhsMVJOSTR2STJlV1VLbF9OSWRoeTdoLVpiRGxzTmZPS0c2emRJQzRURmRqYUthRUY4RGYwTWYxR2hPY183VkhkQkowX1JwVW9XV2RGU05hRDR5c1dXazlYUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T21:06:12+00:00",
-   "summary": "Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz — even if he says he's not running CBS News New \"Jon Ossoff for president\" website launches as his 2028 chances surge Yahoo Will my old boss be the next US president? The Critic Why these 3 Georgia politicians a",
-   "body": "Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz — even if he says he's not running CBS News New \"Jon Ossoff for president\" website launches as his 2028 chances surge Yahoo Will my old boss be the next US president? The Critic Why these 3 Georgia politicians are already in the 2028 presidential spotlight The Atlanta Journal-Constitution November Vibes Index: Ossoff Soars, Rubio Shines and Vance Sinks NOTUS",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -784,19 +1034,6 @@
    "lang": "en"
   },
   {
-   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T20:26:24+00:00",
-   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "body": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
    "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
    "source": "The Guardian",
@@ -831,8 +1068,8 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5",
    "source": "Google News",
    "published": "2026-11-22T20:18:46+00:00",
-   "summary": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa PBS Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives i",
-   "body": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa PBS Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa The New York Times Johnson County not expected to be affected by Middletown detonation, health officials say KCRG Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order Reuters",
+   "summary": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa PBS Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD US army to blow up bomb-making chemicals despite safety concerns The ",
+   "body": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa PBS Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday WQAD US army to blow up bomb-making chemicals despite safety concerns The Guardian Army plans to detonate toxic explosives in Iowa by Tuesday without EPA permit Iowa Public Radio The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa The New York Times",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -878,8 +1115,8 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVZ2WDFjSWJYTmhLdlFDclFtbWJlbHNTcmkwdGFMRG9GX1lsdGpkVGVXcmp0ZWJCWk9LamI3VWhxWjhHdTgxQXlOS3JfNlZucnRHRnFLcGNicW1kQnZtVUlhLWhyUnY3c0daOHpEaGpfeUtXcnpvbTdyMXkzQ2V4anVDeE9iWE5qVjg0S2QtMHJSZTd5aWpIYk91Q1BJU3AwbnZXU191LXNOX0N1M0JN?oc=5",
    "source": "Google News",
    "published": "2026-11-22T20:10:00+00:00",
-   "summary": "US releases files on suspected Bigfoot sightings in Montana and Oregon The Guardian Read the document The New York Times USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest KTVZ Bigfoot believers get a boost from an unlikely ally: The U.S. Forest Service ",
-   "body": "US releases files on suspected Bigfoot sightings in Montana and Oregon The Guardian Read the document The New York Times USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest KTVZ Bigfoot believers get a boost from an unlikely ally: The U.S. Forest Service The Washington Post Bigfoot files quietly released by US Forest Service AZ Family",
+   "summary": "US releases files on suspected Bigfoot sightings in Montana and Oregon The Guardian Read the document The New York Times 1982 Bigfoot investigation: Forest Service releases records of suspected Sasquatch hoax in WA MyNorthwest.com Bigfoot believers get a boost from an unlikely al",
+   "body": "US releases files on suspected Bigfoot sightings in Montana and Oregon The Guardian Read the document The New York Times 1982 Bigfoot investigation: Forest Service releases records of suspected Sasquatch hoax in WA MyNorthwest.com Bigfoot believers get a boost from an unlikely ally: The U.S. Forest Service The Washington Post USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest KTVZ",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -930,6 +1167,19 @@
    "lang": "en"
   },
   {
+   "title": "Thanksgiving travel forecast 2026: storms on both coasts - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T20:03:00+00:00",
+   "summary": "Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel Seattle forecast: Thanksgiving week serves up storms, coastal flooding The Seattle Times Storms expected on both coasts threaten Thanksgiving travel NPR Relentless storm train takes aim at West Coast, th",
+   "body": "Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel Seattle forecast: Thanksgiving week serves up storms, coastal flooding The Seattle Times Storms expected on both coasts threaten Thanksgiving travel NPR Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays FOX Weather Thanksgiving travel forecast: Storms on both coasts could snarl the busiest travel days, including Thanksgiving Day Yahoo",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Why has the COP31 climate summit failed to reach agreement?",
    "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
    "source": "Al Jazeera",
@@ -962,13 +1212,11 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5",
    "source": "Google News",
    "published": "2026-11-22T19:48:00+00:00",
-   "summary": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race CBS News Democrats Clinch 258 House Seats, an Election-Year Record This Century The New York Times Republican chair of the House Rules Committee loses reelection in Democrats’ largest majo",
-   "body": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race CBS News Democrats Clinch 258 House Seats, an Election-Year Record This Century The New York Times Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century CNN House Democrats will start next Congress with largest majority of 21st century The Washington Post Democrats secure a historic majority, and climate talks break down: Weekend Rundown NBC News",
+   "summary": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race CBS News Democrats Clinch 258 House Seats, an Election-Year Record This Century The New York Times Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House ra",
+   "body": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race CBS News Democrats Clinch 258 House Seats, an Election-Year Record This Century The New York Times Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race AP News Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century CNN Democrats secure a historic majority, and climate talks break down: Weekend Rundown NBC News",
    "category": "USA / Americas",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -977,8 +1225,8 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERKUDB6WFVGeXJLMEkwdWR5cUJYa052VzhlcUNKZWp1aEtuOWk3eXpCVWN5UWhGUFIyRHF6R25XaEtubXhoUHUxY0J6eFZoeGJ6OHVPYVNXSmIyVXJoWkt0Z2hPY3JjM0wwNDliRjN5UlBZUjQxcG9YbGo3RzZUek5lSFFBbklpcExUZC1EZmZQYV9MT2V1dHBCaUJqRmtHS09fQ2pueWtQSldlMUg2dWJjX3hGcldRVUZTNDExbUtTZXplU2drMw?oc=5",
    "source": "Google News",
    "published": "2026-11-22T19:47:00+00:00",
-   "summary": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him USA Today Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’ Yahoo Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis People.com Tallulah Wi",
-   "body": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him USA Today Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’ Yahoo Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis People.com Tallulah Willis Shares Regret Over \"Intimate\" Photo of Dad Bruce Willis Amid Dementia Battle E! News Bruce Willis, 71, holds daughter Tallulah’s hand in sweet photo amid his dementia battle Page Six",
+   "summary": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him USA Today Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis People.com Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’ Yahoo Tallulah Wi",
+   "body": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him USA Today Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis People.com Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’ Yahoo Tallulah Willis Shares Regret Over \"Intimate\" Photo of Dad Bruce Willis Amid Dementia Battle E! News Tallulah Willis regrets sharing ‘intimate’ photo of dad Bruce Willis: ‘I can do better’ Entertainment Weekly",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1105,31 +1353,18 @@
    "lang": "en"
   },
   {
-   "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
+   "title": "American bishops plan for ‘groundswell’ of political action for AI regulation",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0daNjJ4MTZuYzRVRVdvbjBCeThWSkJ5VlotenFObGMxU0RzUlZFeDMzNHVRWGRRVUw1YW1JZW1FcUlkVFhERHNKSWtTcUQxZk1lbkllMjJzSFJzeWVFamlSQWc5MG9nMjhsVnQySDB0WE1jOHhfZDZYVndkYjk0cmR5dGctVjJZdVN6aUxzcTJZQQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-22T19:00:51+00:00",
-   "summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters Yahoo Finance Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters What",
-   "body": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters Yahoo Finance Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters What Comes Next After Anthropic’s Historic IPO WSJ Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-   "source": "The Guardian",
-   "published": "2026-11-22T19:00:34+00:00",
-   "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and mini",
-   "body": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...",
-   "category": "Asia-Pacific",
+   "published": "2026-11-22T19:00:00+00:00",
+   "summary": "American bishops plan for ‘groundswell’ of political action for AI regulation Politico Few signs of life at bishops' conference National Catholic Reporter US bishops revamp their investment guidelines to address AI, private prisons, crypto OSV News Bishops Discuss AI, Immigration",
+   "body": "American bishops plan for ‘groundswell’ of political action for AI regulation Politico Few signs of life at bishops' conference National Catholic Reporter US bishops revamp their investment guidelines to address AI, private prisons, crypto OSV News Bishops Discuss AI, Immigration, Vote on Cause for PA Teen, Day of Prayer for Racial Justice, New Lectionary The Catholic Witness US bishops launch work on Church’s ‘construction sites’ of hope for the human family Georgia Bulletin",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
-    "Australia"
+    "United States"
    ],
-   "image": "https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=841a5935e90b464a6f0e36a81358e58e",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1143,22 +1378,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T18:55:05+00:00",
-   "summary": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens CNBC EXCLUSIVE: South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker Reuters Robo-soldier startup backed by Eric Trump misses payroll, may collapse Ars Te",
-   "body": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens CNBC EXCLUSIVE: South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker Reuters Robo-soldier startup backed by Eric Trump misses payroll, may collapse Ars Technica Korea Aluminium's US tariff dispute puts Base Group's $150m Trump-linked deal under scrutiny AL Circle Employee Health Benefits End at Foundation Future Industries Unite.AI",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "South Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1236,21 +1455,6 @@
    "lang": "en"
   },
   {
-   "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-   "source": "The Guardian",
-   "published": "2026-11-22T18:25:42+00:00",
-   "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immig",
-   "body": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so. Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump’s second presidency. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/4e6eb28d17340c345907199ceb683c4277945b37/471_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b0e019bfc9f5c34467d6e1e99fef18b1",
-   "lang": "en"
-  },
-  {
    "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
    "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
    "source": "NYT World",
@@ -1283,16 +1487,18 @@
    "lang": "en"
   },
   {
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T18:17:59+00:00",
-   "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-   "body": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-   "category": "Global",
+   "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T18:14:09+00:00",
+   "summary": "US intelligence chief predicts more tech outages as systems undergo upgrades Reuters Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages CNBC Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. The New York Ti",
+   "body": "US intelligence chief predicts more tech outages as systems undergo upgrades Reuters Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages CNBC Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. The New York Times Even FEMA officials are worried about the string of outages and withdrew extra cash. 'This is scary' Fortune Essay | How to Survive the Coming Age of Everything Breaking WSJ",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1370,19 +1576,6 @@
    "lang": "en"
   },
   {
-   "title": "Seattle leaders condemn ICE arrests on jetway as passengers boarded flight",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdklTVlJacjRWYmN1QU9lRzlNMGkxSF9sRmI1U0RkQmRzbmxCQUFNVmhZZ3lBLURINFlhSVVrWGFxc3BxbVhUZzFJOGRoc1RoaHRuWnZkdUZsa3JmNUtxSGtZYWdxQ0RndTN5dkhIUXNmTF9NcGVFMXB5dFlWLWJpcUs1dHdDZG1sVHFBWTJ6STlwYnZ4Snp1RjVJZmlxejlTZ3FmX1AyVVFaMkhY?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T18:03:00+00:00",
-   "summary": "Seattle leaders condemn ICE arrests on jetway as passengers boarded flight USA Today ‘Outraged.’ Officials react after ICE reportedly arrests family at Sea-Tac Airport KUOW Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism WFLA ICE 'o",
-   "body": "Seattle leaders condemn ICE arrests on jetway as passengers boarded flight USA Today ‘Outraged.’ Officials react after ICE reportedly arrests family at Sea-Tac Airport KUOW Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism WFLA ICE 'out of control' in dramatic SEA arrest caught on camera, governor says KING5.com Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Cox’s Bazar: Rohingya Life in Exile",
    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1423,22 +1616,6 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-   "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-   "source": "The Guardian",
-   "published": "2026-11-22T17:55:27+00:00",
-   "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsol",
-   "body": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Turkey"
-   ],
-   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
    "lang": "en"
   },
   {
@@ -1517,19 +1694,19 @@
    "lang": "en"
   },
   {
-   "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-   "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T17:12:48+00:00",
-   "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-   "body": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-   "category": "Ukraine / Russia",
+   "title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWI2WWllMnpmMUEwTnp1VERkbjNRRmRBNUluVzl5ei1CNnQ4MzMxOV9rVzRyQ3NVZTVzWWZ4WHBTbWZPZlBkZENld1VidkV4R0pidjZocFJETzVXYWkxemtlTEtrUVR4SHJEU2o5TS1zRWo2UWtFU1UtX29iSmM0aFYzTmlhRXZqYzFyVDdXWGU4SUhXVTJoZXlfRjZNRHMteXVmUHZIY0lXNTYtT2R6M2xiUTZvX0M1dnNKNGowZFJQZGkzYXM3N2FVT0JDUQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-22T17:11:00+00:00",
+   "summary": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report New York Post US tightens Iran blockade with curbs on oil transfers at sea, advisory shows Reuters Iran readies tanker convoy at Kharg Island to test US oil blockade Euronews.com Trump",
+   "body": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report New York Post US tightens Iran blockade with curbs on oil transfers at sea, advisory shows Reuters Iran readies tanker convoy at Kharg Island to test US oil blockade Euronews.com Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers Fox News Iran signals readiness for Hormuz showdown despite US buildup Iran International",
+   "category": "Middle East",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United States",
+    "Iran"
    ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2017/04/6da23139d90a45afb43d4277d35b8d27_18.jpeg?resize=800%2C600",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1596,15 +1773,17 @@
    "lang": "en"
   },
   {
-   "title": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35 - Deadline",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXpUR2xvZVh4ZEk0RW1Td3gyRVR2bENoWEJKbnhwN0lBQjdWNjRlODI4YVlURGtQM0phTVJRQTBDQ2hXc0R5cG1MaEY5dldMZXdxUzZOcTRibFBtZlF1VnJJRWhhYjdRck9NNWZxeGNEUm9LeTRSbHpJekNtenF4cQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T16:41:00+00:00",
-   "summary": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35 Deadline See more headlines & perspectives on Google News",
-   "body": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35 Deadline See more headlines & perspectives on Google News",
-   "category": "Global",
+   "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-22T16:31:11+00:00",
+   "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
+   "body": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
+   "category": "Ukraine / Russia",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "Ukraine"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1625,27 +1804,12 @@
    "lang": "en"
   },
   {
-   "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T16:17:53+00:00",
-   "summary": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages CNBC Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. The New York Times US intelligence chief predicts more tech outages as systems undergo upgrades Reut",
-   "body": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages CNBC Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. The New York Times US intelligence chief predicts more tech outages as systems undergo upgrades Reuters Even FEMA officials are worried about the string of outages and withdrew extra cash. 'This is scary' Fortune Essay | How to Survive the Coming Age of Everything Breaking WSJ",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut - Variety",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE9nZW91QzA5bW9Ickc5TTFFdkh5RnFjWVJDbE1ERGpLSkxqY3hjS29fYkNpQ3VKRHBwdU01d2dUbGd2dEdnUHpyTmI2X043VEhPVGxzU2M4YTVLUXBya0J1RERna2FrWGYzdDBZU056d0dDd3Zfbm5Hc0o5SkprQ21YY0cwWEZRQW1xYWdFTHBtc3RRRUhfSXBLU3RnaDRKZHR6NzNXb2tWM0RnTFRJQ1VYTkxhM2sxd3ZzV0FISzdTelNwVldTaDFOMWkyaGxNSmc?oc=5",
    "source": "Google News",
    "published": "2026-11-22T16:16:00+00:00",
-   "summary": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut Variety ‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office The New York Times ‘Hunger Games’ Prequel Snags $120 Million in Domestic Debut Bloo",
-   "body": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut Variety ‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office The New York Times ‘Hunger Games’ Prequel Snags $120 Million in Domestic Debut Bloomberg.com 'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise NPR The New Hunger Games Movie Contrives a Funny Solution to the Book’s Biggest Problem Slate",
+   "summary": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut Variety ‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office The New York Times Box Office: How Lionsgate Marketing Reignited 'Hunger Games: Sun",
+   "body": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut Variety ‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office The New York Times Box Office: How Lionsgate Marketing Reignited 'Hunger Games: Sunrise on Reaping' Deadline ‘Hunger Games’ Prequel Snags $120 Million in Domestic Debut Bloomberg.com 'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise NPR",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1668,19 +1832,6 @@
    "lang": "en"
   },
   {
-   "title": "California prepares for flooding, rain and wind as Thanksgiving approaches",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T16:02:00+00:00",
-   "summary": "California prepares for flooding, rain and wind as Thanksgiving approaches NBC News San Francisco braces for massive tides. Mayor urges residents to reconsider travel CNN Bay Area will flood again — but it won’t look like last week. Here’s a timeline of impacts San Francisco Chro",
-   "body": "California prepares for flooding, rain and wind as Thanksgiving approaches NBC News San Francisco braces for massive tides. Mayor urges residents to reconsider travel CNN Bay Area will flood again — but it won’t look like last week. Here’s a timeline of impacts San Francisco Chronicle San Francisco to suspend parking meter enforcement due to storm KRON4 San Francisco residents prepare for storms, king tides NBC Bay Area",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Officials slam Xi’s contradictory actions - Taipei Times",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83ekFxRk1sUHBwZ0dqLVlkZEFWRkRBY3ptYzk2T0VCT2xqd0F5b3hLNmR5STZjeHU0bVk4NXVlOF9PMkg5cFU2WHF6Q1JCMmZpZ2pwMnU1bzhnU0lHZEs4RFpsV1gtTEk1MkZaLUdRWEZPeEtkdFd2TkdB?oc=5",
    "source": "Google News · China Taiwan",
@@ -1691,21 +1842,6 @@
    "is_war": false,
    "countries": [
     "Taiwan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGJaaWRoYmQ0cGZJX2xwZkVBWjZoZ25rMTY2N2ttdUJ2eVVNTm9UaUIzb1oxeExVWVV3aEVwOUJ2TUp6OHNWcEpIRFJLRHF2TEJRS0NwSE5OXzItRElVd29zSWFCM2xsd214LWo3WUZkVnRkNUc5cjNoSlBIdk5aNV9BQjJCTkpHZXQ2R2xXYW9vbHF6UzI0ZjNGZGt1OFg4dHNCaXVrM1FmTVhKb2FZd2N3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T15:51:39+00:00",
-   "summary": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader NBC News Exclusive | Abdul El-Sayed Is Already Shaking Up the Senate WSJ Van Hollen, once an insider, has started Democrats’ first big fight The Washington Post Democrats who swept into the Se",
-   "body": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader NBC News Exclusive | Abdul El-Sayed Is Already Shaking Up the Senate WSJ Van Hollen, once an insider, has started Democrats’ first big fight The Washington Post Democrats who swept into the Senate promised change. A leadership vote is testing them early AP News Flanagan says she ‘appreciates’ Schumer, but Van Hollen leads ‘like an organizer’ The Hill",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1755,139 +1891,6 @@
     "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
-   "link": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-   "source": "The Guardian",
-   "published": "2026-11-22T15:43:01+00:00",
-   "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losse",
-   "body": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public purse. HM Revenue and Customs (HMRC) data, obtained by the TaxWatch thinktank through freedom of information requests, shows between 2022 and 2024 the value of balances held offshore in tax havens increased by 10%. These were the latest available figures. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/800ce1d542712fe94a187f06f577b17799e2d1b6/15_0_1992_1594/master/1992.jpg?width=140&quality=85&auto=format&fit=max&s=42d9878af737cf615138f416d95f283b",
-   "lang": "en"
-  },
-  {
-   "title": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGlQWU03R2JHeWJqcG9vVDJJUXNjb0d3cGJwWWgwZ1UzR3VuZUMxWXpXVFNEZWRuSFBHRy1fOTFwc0x5SFZETFFNOXhOR1gzcVF5UGdZZW01U0E3UFVQWWRYTm9HMU9sVkMyblc3MEtVcHY0S1Jaa2V1RkZmYVItR2ZNVzF0N1B2ZjY0SWo1Y3lWeVdCMjM2dmtCQ3dnem1vYTBBWUgza0Fvc0FFdWJ0SkVsQjI?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T15:38:55+00:00",
-   "summary": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over NBC News Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says Radio Free Europe/Radio Liberty Russia-bound ship towed away after it was attacked in Gul",
-   "body": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over NBC News Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says Radio Free Europe/Radio Liberty Russia-bound ship towed away after it was attacked in Gulf of Finland BBC",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Apple Reportedly Plans to Release These Products in February or March - MacRumors",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NjF1ajNibWlhT1phckNqbmVEWUE4MzFmMDNMQ2xjekYxV0RkTlQ2angyLTZSZzExZVNwc3N6ekhJeGpzVVJEcHlIQzZfeldSMUllU0Q1TVVjMEFBanR5R29vTWJUQnRVLTl4cm1LRklwZ2JyTFN4dFdkTjFORjQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-22T15:32:53+00:00",
-   "summary": "Apple Reportedly Plans to Release These Products in February or March MacRumors Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline Forbes Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027 9to5Mac iPhone Air 2 shows off its dual-cam",
-   "body": "Apple Reportedly Plans to Release These Products in February or March MacRumors Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline Forbes Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027 9to5Mac iPhone Air 2 shows off its dual-camera design in another dummy unit leak - GSMArena.com news GSMArena.com iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch MacRumors",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
-   "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-   "source": "The Guardian",
-   "published": "2026-11-22T15:22:38+00:00",
-   "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi ",
-   "body": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposition leader, who described them as “Jewish terrorism”. Dozens of settlers raided Palestinian communities overnight on Saturday, setting fire to about a dozen vehicles and several homes and scrawling racist graffiti. At least four communities were attacked. Israeli police said they had launched an investigation with forensic teams. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e",
-   "lang": "en"
-  },
-  {
-   "title": "APTOPIX Russia Ukraine War - Daily News-Record",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2ZFLVE1Zm1XOXZVWGhwX0wzMGp1NmhzR0hYUEQ5dkF2LWpjMko4TlJST2hxeXpDdmU3R0dYcU1Uc1pLb1FsWnhxX1pTdVp4NzFaenhnTDhoTHFnLUtkdmg1cXpJNGRmM0Y4WEtHRThSYUIxeWRhSEhKaV9KdTczQWkwRHpzdlZmNXRLbjgycUZvS1FXaTJXd0lwSHoxN0hOek1yMWlseHI3Si1zQ0pvb0ltYUpCNEtrSnE5WG9hRkVkUzdTUHlMYzVQYw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T15:17:58+00:00",
-   "summary": "APTOPIX Russia Ukraine War Daily News-Record",
-   "body": "APTOPIX Russia Ukraine War Daily News-Record",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T15:14:44+00:00",
-   "summary": "Kyiv's restaurant owners brace for tough winter as war pressures mount Reuters",
-   "body": "Kyiv's restaurant owners brace for tough winter as war pressures mount Reuters",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
-   "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-22T15:09:00+00:00",
-   "summary": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
-   "body": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://static.dw.com/image/79892807_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-22T15:01:11+00:00",
-   "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
-   "body": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-   "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-   "source": "NYT World",
-   "published": "2026-11-22T14:34:02+00:00",
-   "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-   "body": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
