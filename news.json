@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:38:57.804370+00:00",
- "updated_yangon": "2026-11-24 21:08",
+ "updated": "2026-11-24T15:38:53.247370+00:00",
+ "updated_yangon": "2026-11-24 22:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -13,7 +13,6 @@
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
-  "Myanmar Now",
   "Myanmar Now Burmese",
   "NYT World",
   "RFA Burmese",
@@ -30,55 +29,51 @@
   ],
   [
    "Russia",
-   26
+   25
   ],
   [
    "Myanmar",
-   18
+   17
   ],
   [
    "China",
-   15
+   14
   ],
   [
    "Iran",
-   9
+   10
   ],
   [
-   "Germany",
-   6
+   "Palestine",
+   8
   ],
   [
    "Israel",
-   6
+   7
   ],
   [
    "United Kingdom",
    5
   ],
   [
-   "Palestine",
-   5
+   "Germany",
+   3
   ],
   [
-   "NATO",
-   3
+   "Syria",
+   2
   ],
   [
    "European Union",
-   3
+   2
   ],
   [
    "Australia",
-   3
-  ],
-  [
-   "North Korea",
-   3
-  ],
-  [
-   "Japan",
    2
+  ],
+  [
+   "Saudi Arabia",
+   1
   ],
   [
    "France",
@@ -93,15 +88,15 @@
    1
   ],
   [
-   "Syria",
-   1
-  ],
-  [
    "Yemen",
    1
   ],
   [
    "Pakistan",
+   1
+  ],
+  [
+   "NATO",
    1
   ],
   [
@@ -114,10 +109,6 @@
   ],
   [
    "Lebanon",
-   1
-  ],
-  [
-   "South Korea",
    1
   ]
  ],
@@ -132,10 +123,10 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 40,
+ "war_count": 41,
  "languages": {
-  "my": 26,
-  "en": 114
+  "my": 25,
+  "en": 115
  },
  "items": [
   {
@@ -193,6 +184,269 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်အရေးယူ",
+   "link": "https://www.bbc.co.uk/burmese/live/cmqlq27ld9wqt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-24T15:38:53+00:00",
+   "summary": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Europe / NATO",
+   "is_war": true,
+   "countries": [
+    "Myanmar",
+    "United Kingdom"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdae/live/38ebed20-e7a2-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T15:35:53+00:00",
+   "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+   "body": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war live: Russia demolishes key weapons factory hit by missile",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T15:28:10+00:00",
+   "summary": "Ukraine war live: Russia demolishes key weapons factory hit by missile The Independent",
+   "body": "Ukraine war live: Russia demolishes key weapons factory hit by missile The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Russia-Ukraine War’s Dangerous Divergence - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjFKaXczOXNWN00xaVRSQ1ZFd3MzZzUtNUZSc3lvbmstUVZFcGhQbllxMWgzeWFYU3Z4dDVYYlFWVzU3SlVEQWtZcGFEQ29ESUp1NzB6aVl2WjV4SUt3aFdaamFfU0c5ZUFhNjRSRUE4anRxR3BxYzA5YmhJNWtzTWtHYng?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T15:28:00+00:00",
+   "summary": "The Russia-Ukraine War’s Dangerous Divergence Newsweek",
+   "body": "The Russia-Ukraine War’s Dangerous Divergence Newsweek",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:26:48+00:00",
+   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an inte",
+   "body": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0",
+   "lang": "en"
+  },
+  {
+   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:26:42+00:00",
+   "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famo",
+   "body": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "Germany"
+   ],
+   "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+   "lang": "en"
+  },
+  {
+   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:24:26+00:00",
+   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email Earlier we mentioned Donald",
+   "body": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f",
+   "lang": "en"
+  },
+  {
+   "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+   "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:23:20+00:00",
+   "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvid",
+   "body": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive . Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspected Chinese spy and two with employees. But the Nvidia board reinstated him after an intervention from the US president. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
+   "lang": "en"
+  },
+  {
+   "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+   "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+   "source": "NYT World",
+   "published": "2026-11-24T15:22:10+00:00",
+   "summary": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+   "body": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
+   "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-24T15:21:00+00:00",
+   "summary": "Extracts of the late Pope Francis' diaries have been published, the first release of its kind since the 1960s. They discuss his struggles with his role in the Vatican and visions of the devil and the gates of hell.",
+   "body": "Extracts of the late Pope Francis' diaries have been published, the first release of its kind since the 1960s. They discuss his struggles with his role in the Vatican and visions of the devil and the gates of hell.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/80034169_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Land mine casualties soar in Syria, two years after war",
+   "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T15:17:28+00:00",
+   "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "body": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Syria"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:15:22+00:00",
+   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-ye",
+   "body": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-year-old woman – the spark for nationwide protests that in turn triggered Sunday’s snap general election – as “the last straw” for desperate tenants. “We’re not interested in small changes,” Ada Colau , the former Barcelona mayor, told the Guardian in an interview. “We want to reform the entire rental sector.” Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=140&quality=85&auto=format&fit=max&s=d88826adb738c68863aa986eaa3d6734",
+   "lang": "en"
+  },
+  {
+   "title": "How the Iran war is reshaping the US military presence in the Middle East",
+   "link": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T15:10:29+00:00",
+   "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+   "body": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+   "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-24T15:09:05+00:00",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? ",
+   "body": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? The AI doomsday threat: Distinguishing facts from fear Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495",
+   "lang": "en"
+  },
+  {
+   "title": "How Brazil’s mosquitoes are helping to fight dengue",
+   "link": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T15:09:00+00:00",
+   "summary": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+   "body": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/2024-07-25T004356Z_362697650_RC2H09A5EM6M_RTRMADP_3_GUATEMALA-DENGUE-1754441362.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+   "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+   "source": "NYT World",
+   "published": "2026-11-24T15:01:10+00:00",
+   "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+   "body": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T14:56:18+00:00",
+   "summary": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
+   "body": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795532171.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
    "title": "NEA urges responsible use of Return Right machines after videos of alleged misuse",
    "link": "https://www.channelnewsasia.com/singapore/nea-bcrs-return-right-misuse-machine-6577406",
    "source": "CNA World",
@@ -219,6 +473,36 @@
    "lang": "en"
   },
   {
+   "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+   "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+   "source": "The Guardian",
+   "published": "2026-11-24T14:51:18+00:00",
+   "summary": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate Gaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October. Dr Nidal Ghoneim, a senior offic",
+   "body": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate Gaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October. Dr Nidal Ghoneim, a senior official at the ministry, said the spread of the disease posed a threat to the lives of hundreds of thousands of people, including children. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f28b38c1e5902f250db5030c50559091c6afe4c3/0_0_4206_3365/master/4206.jpg?width=140&quality=85&auto=format&fit=max&s=6d163cc9e0d08484ca9c86a12364730d",
+   "lang": "en"
+  },
+  {
+   "title": "The photos from Gaza resonating with the people of Sarajevo",
+   "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T14:50:02+00:00",
+   "summary": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
+   "body": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/salah-1-1795531585.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
    "title": "About 220 Seatrium employees to lose jobs as group consolidates global yard network",
    "link": "https://www.channelnewsasia.com/singapore/seatrium-retrenchment-layoff-workforce-yards-6577316",
    "source": "CNA World",
@@ -232,28 +516,130 @@
    "lang": "en"
   },
   {
-   "title": "မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်အရေးယူ",
-   "link": "https://www.bbc.co.uk/burmese/live/cmqlq27ld9wqt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-24T14:38:39+00:00",
-   "summary": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Europe / NATO",
-   "is_war": true,
+   "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+   "link": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-24T14:49:00+00:00",
+   "summary": "Individual EU member states use their veto powers to block candidate countries in the accession process — often for reasons of domestic politics. DW takes a look at some cases and examines what's behind them.",
+   "body": "Individual EU member states use their veto powers to block candidate countries in the accession process — often for reasons of domestic politics. DW takes a look at some cases and examines what's behind them.",
+   "category": "Global",
+   "is_war": false,
    "countries": [
-    "Myanmar",
-    "United Kingdom"
+    "European Union"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdae/live/38ebed20-e7a2-11f1-a094-5fdc692f3e33.jpg",
-   "lang": "my"
+   "image": "https://static.dw.com/image/73043749_6.jpg",
+   "lang": "en"
   },
   {
-   "title": "Why Iran's medicine supply chain is seizing up",
-   "link": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-seizing-up/a-80035268?maca=en-rss-en-top-1022-xml-mrss",
+   "title": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T14:46:48+00:00",
+   "summary": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. The Washington Post The number of babies getting vaccinated for hepatitis B at birth is dropping precipitously Scientific American Not Even Two-Thirds of America’s Newborns Are Getting t",
+   "body": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. The Washington Post The number of babies getting vaccinated for hepatitis B at birth is dropping precipitously Scientific American Not Even Two-Thirds of America’s Newborns Are Getting the Hepatitis B Shot WSJ Hepatitis B vaccination rates in US newborns falling, Public Health Alerts report shows CIDRAP Hepatitis B Birth Dose Vaccination Falls to 65.6% in US Infants HCPLive",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
+   "link": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+   "source": "The Guardian",
+   "published": "2026-11-24T14:46:13+00:00",
+   "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC’s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational ",
+   "body": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC’s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational shift away from its programming. In an unprecedented six-month trial, a dedicated CBeebies hub will be set up on the world’s biggest streaming service, with a substantial selection of 24 shows to choose from. It will include some of the BBC’s best-known titles and characters. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/de4ffcb1343510e82de1f80459de81c6a3f4391f/347_24_3015_2412/master/3015.jpg?width=140&quality=85&auto=format&fit=max&s=a64ba84c1d36e422a90c061d9161fd7d",
+   "lang": "en"
+  },
+  {
+   "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+   "link": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
+   "source": "The Guardian",
+   "published": "2026-11-24T14:45:03+00:00",
+   "summary": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Business live – latest updates Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chi",
+   "body": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Business live – latest updates Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary warning against future “witch-hunts”. An article published on Tuesday in the state-run outlet the Global Times said US media reports about Huang’s affair with an alleged Chinese intelligence asset were “malicious” and “negatively impacted American public perception of China”. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/8abb1b7af3336437d7b77914b83f5a5515682536/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=0296e9d9f3be3b73cec5d9ff0f180fa2",
+   "lang": "en"
+  },
+  {
+   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+   "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+   "source": "NYT World",
+   "published": "2026-11-24T14:42:30+00:00",
+   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+   "body": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "CAS reinstates Senegal as 2025 AFCON champions",
+   "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-24T14:42:00+00:00",
+   "summary": "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title. Morocco, previously declared winners, are confirmed runners-up.",
+   "body": "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title. Morocco, previously declared winners, are confirmed runners-up.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/76407409_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+   "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+   "source": "The Guardian",
+   "published": "2026-11-24T14:36:32+00:00",
+   "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Me",
+   "body": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/54771ca72dfba09d32535c72c90ff667400f9d2e/405_0_3242_2593/master/3242.jpg?width=140&quality=85&auto=format&fit=max&s=16d8db7d6c55c8ea74f0c30b47e1dd75",
+   "lang": "en"
+  },
+  {
+   "title": "Russian rock, nostalgia and a call to surrender: Ukraine’s secret radio war - The Irish Times",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSktTc0NqWUFha0lwTC1zODU5Um0ybmdkM1lBaWZXa0N5NDJIa0hTWHQ0U2NZQ1N4Q2sxT2FHSmZoVVZpSENNdmdPUWc4aFV2ZEFYcTY2c3BwNDNaeng4QnhWZnJDcXItelJIWFlrME44cEdDN0o4OXptbVpxNVhGbm82VG1EdHlITGJRNGV2Um9GYXJmc2h5dmlUbDBCT19uamhxX1lSTWZTbndlVjltYjFJTmw2Q2RvcVAwTmZrc2ZrQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T14:36:26+00:00",
+   "summary": "Russian rock, nostalgia and a call to surrender: Ukraine’s secret radio war The Irish Times",
+   "body": "Russian rock, nostalgia and a call to surrender: Ukraine’s secret radio war The Irish Times",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Why Iran's medicine supply chain is failing",
+   "link": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-failing/a-80035268?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-24T14:36:00+00:00",
-   "summary": "Pharmacies are closing, hospital deliveries have stalled and patients are rationing doses or turning to black markets.",
-   "body": "Pharmacies are closing, hospital deliveries have stalled and patients are rationing doses or turning to black markets.",
+   "summary": "Pharmacies in Iran are closing, hospital deliveries have stalled and patients are rationing doses or turning to black markets.",
+   "body": "Pharmacies in Iran are closing, hospital deliveries have stalled and patients are rationing doses or turning to black markets.",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -263,100 +649,48 @@
    "lang": "en"
   },
   {
-   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
-   "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:28:35+00:00",
-   "summary": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 f",
-   "body": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
-   "category": "Global",
+   "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+   "link": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T14:35:56+00:00",
+   "summary": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
+   "body": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
+   "category": "Africa",
    "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "Germany"
-   ],
-   "image": "https://i.guim.co.uk/img/media/f116b468e59d9dfb9afc9d08c11237fb3c5d4ef5/410_0_3070_2457/master/3070.jpg?width=140&quality=85&auto=format&fit=max&s=0cd369c1754660fce1454347aeb484c5",
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26205466660091-1784900958.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia war latest: Moscow threatens Nato member with ‘open war’ over plans to close border",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T14:28:19+00:00",
-   "summary": "Ukraine-Russia war latest: Moscow threatens Nato member with ‘open war’ over plans to close border The Independent",
-   "body": "Ukraine-Russia war latest: Moscow threatens Nato member with ‘open war’ over plans to close border The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "How Israelis view internal political divisions on Gaza and Iran",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEJOTW1KWlZhVkpRV2l0YTBjVHhrNzdodjRxM3BMVENrSlFNWHYyVW1yeDVTajhKMnFHRDlITUtmTENtaWUyb01ualFMcjkxYUlQQ0xudFAwODdJSDJpVjVmNGh4cHVyUE1sZGVQSnFEYUNSU1hMR3dmYTlxUG5QdkJaSGk2MldONlVZS0tYTDk?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-24T14:34:00+00:00",
+   "summary": "How Israelis view internal political divisions on Gaza and Iran CBS News",
+   "body": "How Israelis view internal political divisions on Gaza and Iran CBS News",
+   "category": "Middle East",
+   "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
-    "NATO"
+    "Israel",
+    "Palestine",
+    "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Pip assessments are ‘not fit for purpose’, Timms tells MPs as he unveils his review – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:28:14+00:00",
-   "summary": "Social security minister has been overseeing review designed to ‘humanise’ the system but Tories say it will lead to higher spending and fewer checks Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of e",
-   "body": "Social security minister has been overseeing review designed to ‘humanise’ the system but Tories say it will lead to higher spending and fewer checks Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
-   "category": "Global",
+   "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+   "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T14:27:38+00:00",
+   "summary": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
+   "body": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
+   "category": "Middle East",
    "is_war": false,
    "countries": [
-    "United States"
+    "Saudi Arabia"
    ],
-   "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0",
-   "lang": "en"
-  },
-  {
-   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:27:00+00:00",
-   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-ye",
-   "body": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-year-old woman – the spark for nationwide protests that in turn triggered Sunday’s snap general election – as “the last straw” for desperate tenants. “We’re not interested in small changes,” Ada Colau , the former Barcelona mayor, told the Guardian in an interview. “We want to reform the entire rental sector.” Continue reading...",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=140&quality=85&auto=format&fit=max&s=d88826adb738c68863aa986eaa3d6734",
-   "lang": "en"
-  },
-  {
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:24:51+00:00",
-   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email The US is preparing to rais",
-   "body": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email The US is preparing to raise tariffs on China and dozens of other countries that the Trump administration argues are harming American companies by supporting their own domestic industrial production, the Wall Street Journal reports (paywall) this morning , citing people familiar with the plans. Per the Journal’s report: “US trade representative Jamieson Greer as soon as this week is expected to unveil the results of a monthslong tariff investigation into the industrial subsidies of China, the European Union and 14 other nations , said the people, who warned the timing could change. Don’t sell these chips to China. Don’t sell the equipment to make these chips to China, and every chip that leaves the United States should have a tracker on it. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f",
-   "lang": "en"
-  },
-  {
-   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-   "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-   "source": "NYT World",
-   "published": "2026-11-24T14:24:07+00:00",
-   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-   "body": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff7b0d-1795128077.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -404,12 +738,12 @@
    "lang": "en"
   },
   {
-   "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
+   "title": "Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSFNlaWJtdkVCT0VpcWs2TDZZdjBfTGl0Zi1DTVZNQTMyVTk3OVh5bno0SHNtRHVpNVVnakZXNWx0b3dld1l2MzlFX2dOOEZ0alJ3aUNXdDF6WVY4bGhTeFg5TlJTQWlsdlp1Q3VWMWM4UlZvVmI4SC1BUFdtOXdObkJNN1ZNQThwVXpzd3N2TzBZOVZrdnNyRmJjeUxMUkh0OE5vd1FUQXVfbTJKSGc4YWRwRklxcVNRTnVva3lwSVFoMWNCWnY5azl3ME9RV0tnOXFEYTFONlZCaVpnMXJmNHdkZVVfRzRVRmU3YzRBclB3SmxSeHd6am9iYlBmOWpZV2c?oc=5",
    "source": "Google News",
-   "published": "2026-11-24T14:18:36+00:00",
-   "summary": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally Yahoo Finance Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates CNBC Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Mon",
-   "body": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally Yahoo Finance Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates CNBC Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally The New York Times Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live The Guardian Tech stocks wane a day after a Huang rally as Anthropic tumbles below its initial offering price Pioneer Press",
+   "published": "2026-11-24T14:17:00+00:00",
+   "summary": "Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half Forbes The Frantic White House Push to Get Jensen Huang Back WSJ Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang The New York Times NVIDIA Board Reinstates Jen",
+   "body": "Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half Forbes The Frantic White House Push to Get Jensen Huang Back WSJ Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang The New York Times NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA Newsroom Republican lawmakers are in revolt over Jensen Huang’s return The Economist",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -435,22 +769,6 @@
    "lang": "en"
   },
   {
-   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:15:49+00:00",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? ",
-   "body": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495",
-   "lang": "en"
-  },
-  {
    "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
    "link": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
    "source": "The Guardian",
@@ -462,7 +780,7 @@
    "countries": [
     "United Kingdom"
    ],
-   "image": "https://i.guim.co.uk/img/media/3769e14a903e044475527e8c4cd9f3d54219bedc/940_99_4035_3228/master/4035.jpg?width=140&quality=85&auto=format&fit=max&s=5ea130c919c58d890fceab25fc9db219",
+   "image": "https://i.guim.co.uk/img/media/6fa71e5ef6c44f8ff09caff53da77737112bc924/276_61_4041_3232/master/4041.jpg?width=140&quality=85&auto=format&fit=max&s=58a1e93e05fa8b1acc410d1ebf1e1303",
    "lang": "en"
   },
   {
@@ -509,19 +827,6 @@
     "China"
    ],
    "image": "https://i.guim.co.uk/img/media/3588cbd60251b25da3b952a348d3ea005d6f8aaf/89_0_4342_3472/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=46eedf0fe80e0e5101db61f643157b79",
-   "lang": "en"
-  },
-  {
-   "title": "Prisoner given second whole-life term for murdering Soham killer Ian Huntley",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:00:50+00:00",
-   "summary": "Anthony Russell attacked Huntley with a metal bar while they were in a recycling workshop at HMP Frankland A prisoner who bludgeoned the Soham killer Ian Huntley to death with a 4kg metal bar has been sentenced to a second whole-life term. Anthony Russell was already serving a wh",
-   "body": "Anthony Russell attacked Huntley with a metal bar while they were in a recycling workshop at HMP Frankland A prisoner who bludgeoned the Soham killer Ian Huntley to death with a 4kg metal bar has been sentenced to a second whole-life term. Anthony Russell was already serving a whole-life order for three murders. On Tuesday, he pleaded guilty to the murder of Huntley and was given the same sentence. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/b6bf03a4887ba59892425c17e5cc0a09311df87a/0_19_1278_1021/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=649d7ffca5b929a84cbebe24da869608",
    "lang": "en"
   },
   {
@@ -572,16 +877,32 @@
    "lang": "en"
   },
   {
-   "title": "Outcry grows over UK plan to exempt most brownfield sites from nature protection rules",
-   "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:00:47+00:00",
-   "summary": "Decision to exempt plots up to 1.5 hectares from biodiversity net gain laws allows developers to dodge rules designed to reverse wildlife declines An outcry is growing over the UK chancellor’s removal of most brownfield housing plots from a legal requirement for developers to mea",
-   "body": "Decision to exempt plots up to 1.5 hectares from biodiversity net gain laws allows developers to dodge rules designed to reverse wildlife declines An outcry is growing over the UK chancellor’s removal of most brownfield housing plots from a legal requirement for developers to measurably enhance nature. John Healey’s decision in the budget to exempt brownfield plots of up to 1.5 hectares from biodiversity net gain (BNG) laws effectively means housing developers of inner-city, urban and surburban sites will be able to dodge rules designed to reverse steep wildlife declines while also allowing housebuilding growth. According to government data, 86% of brownfield sites currently registered are 1.5ha or under. Continue reading...",
+   "title": "Ukraine insists attack on Russian ships in Libya was self-defence",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T13:59:01+00:00",
+   "summary": "Ukraine insists attack on Russian ships in Libya was self-defence Reuters Ukraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones The New York Times Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence Al Jazeera Russian warship hit by Ukrainian ",
+   "body": "Ukraine insists attack on Russian ships in Libya was self-defence Reuters Ukraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones The New York Times Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence Al Jazeera Russian warship hit by Ukrainian drones in Libya, Zelensky says BBC Ukraine’s attack on Russian vessel in Libya opens new theater in broader confrontation AP News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T13:58:08+00:00",
+   "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading Bloomberg Anthropic falls below $83 IPO price in swift reversal after record listing Reuters Nvidia’s Shocking U-Turn Is Bad News for Anthropic Bloomberg One AI Stock Struggling to Rally: Anthropic WSJ Anthropic’s Debut Sh",
+   "body": "Anthropic Breaks Below $83 IPO Price in Premarket Trading Bloomberg Anthropic falls below $83 IPO price in swift reversal after record listing Reuters Nvidia’s Shocking U-Turn Is Bad News for Anthropic Bloomberg One AI Stock Struggling to Rally: Anthropic WSJ Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://i.guim.co.uk/img/media/70db042246f7182422a7e0e0e3daa3c5a80b3d3d/306_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=0a09200e9675e6fbf9f036371b37b649",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -598,12 +919,12 @@
    "lang": "en"
   },
   {
-   "title": "Israeli air strike kills senior Hamas military official in Gaza",
+   "title": "Israeli air strike kills senior Hamas security official in Gaza",
    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-24T13:55:11+00:00",
-   "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
-   "body": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+   "summary": "Abu Nahl, 50, was killed in a crowded area leaving four others, including a Palestinian woman, wounded.",
+   "body": "Abu Nahl, 50, was killed in a crowded area leaving four others, including a Palestinian woman, wounded.",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -659,12 +980,12 @@
    "lang": "en"
   },
   {
-   "title": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya - Dayton Daily News",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcm9wNnFoZ1FWM0xWQ2s4VEZXTkpsZmtCRC1jTHlNWXlGa0k3NnR2MXpjS2ZxSXpsZUNKNlZmUkRsYWZkWWh0OHJyNFNLclNpM3U1bEJnb3cxUTZlSmVsSFlOSVVaRVM4dDRQaXBWc3FGYnpkaHA1bl9VdW1JVm5tSFgxZGM4M3NTZDRyNF94ZENxZnYyaHpHNC15V21mVnFPS21wT21NSEZ5cU1JX2RwYVdjYTQ4blhEWjhSS1pMQUY2ZHgxdlZ3Sk1qVVdMSWVkLVB6cjZSOXIwQ3ZmN1Q2Z25xQmhCMGRhUWNvbWFkbXNtc2FOQ3FDaHJsbTJ5Z2JYcEE?oc=5",
+   "title": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya - The Batesville Daily Guard",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVhWcDcxWElieEhCLXhXd0VnVG1yM0pEZDlzdENlLTYzM1dJdDZ6QVpCMFQwcGdTQWxmc1hiNlJrTDBRSU01bFphUzEyc3JFSlpNVFpsald6WjNXaHdXQW1ERU1SM1dWU2EzdUhqeVVJWVJpZ1pSYWg1RS1NMGIwRUU1dUtBeDhZSXhNS2lLRmJCdnVEcnNJdjBHVElaVF91VVg3bTB3WTZCeVVveUN3QWF5a19wMTBaYWRFUlA3QV8tSjYxTXNXdE9nRHJqeWEwdnVzUkxuemRVWWdxQkg4eTgxWXJteWU3eGtvTGlGQmpRSjY2RENKSF9R?oc=5",
    "source": "Google News · War",
    "published": "2026-11-24T13:45:04+00:00",
-   "summary": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya Dayton Daily News",
-   "body": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya Dayton Daily News",
+   "summary": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya The Batesville Daily Guard",
+   "body": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya The Batesville Daily Guard",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
@@ -675,18 +996,15 @@
    "lang": "en"
   },
   {
-   "title": "Russian strike on Ukraine kills 2, wounds 48 as Kyiv explains its attack in Libya - The Tribune-Democrat",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYkN2ZC16VnlLWnZnaTZWa3FWRWxSRGJib1V6bmtIenNBT2JoelpkckxEaEdvN1ZHWEdseXVXRTBsQjN1d2h6d3lITUk4dkFMemtLdVF2aHB6V3EyRUhFODQxN3JSLURzX0RjWXRlbXV1aS01VDZfVE0wSThfQmF6MDNQSEdBZ1hPcnZ0WGlVRjFuVzNZcWdmMzc3SmhSdGJxRmNvOHk3UERJbDM0Y1ZpaElyOVRpeG1XcGdsLThOQnJqd29PRV9NY0N2a1VSblBUb0ZKUlpKcDQtendYTHFTdGpvQy1FNEtGdHBhakdSYkE5cnNLeVNEUkxaQXRoa05X?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-24T13:45:00+00:00",
-   "summary": "Russian strike on Ukraine kills 2, wounds 48 as Kyiv explains its attack in Libya The Tribune-Democrat",
-   "body": "Russian strike on Ukraine kills 2, wounds 48 as Kyiv explains its attack in Libya The Tribune-Democrat",
-   "category": "Ukraine / Russia",
+   "title": "Rob Lowe: Did sex scandal at Democratic Convention pave way for star’s MAGA turn?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUTlYT1B5Q3A1RVdsMmlfWFd3eE9RbUsyakFDMUtQOGZBU0kyeDhfSW00MTVldVhRTHhJTFJ3VDd2b1dJLVh6MENDZU9GTm1xb1dUeEg4eU9WZXFMQkpFdC1WR1VyUExJc2ZnUjhYMU40MVhEdHhFVl94WUJtZGYyVkl5TlNVSzYtX0xsaE1YR1RlM190dVROcE9fOWhRSk14NjNSU3hfMmhWZ2hEdGpBcG1aZjhJZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T13:41:00+00:00",
+   "summary": "Rob Lowe: Did sex scandal at Democratic Convention pave way for star’s MAGA turn? The Independent ‘Rob Lowe: The Outsider’ Review: The Perils of Early Fame The New York Times Rob Lowe revisits sex tape scandal and more wild revelations in new Netflix doc Decider Rob Lowe Recalls ",
+   "body": "Rob Lowe: Did sex scandal at Democratic Convention pave way for star’s MAGA turn? The Independent ‘Rob Lowe: The Outsider’ Review: The Perils of Early Fame The New York Times Rob Lowe revisits sex tape scandal and more wild revelations in new Netflix doc Decider Rob Lowe Recalls Awkward Moment Warren Beatty Compared Then-Girlfriend Melissa Gilbert to Natalie Wood People.com Drugs, excess and a sex-tape scandal: How Rob Lowe survived the Eighties The Telegraph",
+   "category": "USA / Americas",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -762,21 +1080,6 @@
    "lang": "en"
   },
   {
-   "title": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEkxUWFUNFVCOFIxR2k5X2xXZnhXNEJERmRDY2J1ejg0NWlLUV9RNUNhREVudF91V29fb1UzanhkeEtuRHhselFzaTV0NE9hcVp4V0tOZ2NKck5VVWR2dThYazVtQ2Y4Z25BTUhxTlZfb1FOTEw3Z0FDTVo3aGVPeWxhY3B6Z1U4elBvNGVNVmlQY0EyUGEwWUtFZEdnZ3Y3cHh3a3NhemQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T13:33:27+00:00",
-   "summary": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil The Washington Post Excerpts of Pope Francis' private diary released by the Vatican WBAL-TV Pope Francis saw ‘gates of hell’ during clerical sexual abuse scandal, diary excerpts reveal The Guardian Po",
-   "body": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil The Washington Post Excerpts of Pope Francis' private diary released by the Vatican WBAL-TV Pope Francis saw ‘gates of hell’ during clerical sexual abuse scandal, diary excerpts reveal The Guardian Pope Francis' diary reveals claims he saw the devil three times BBC Pope Francis Diary Excerpts Published in New Book The New York Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
    "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
    "source": "Al Jazeera",
@@ -796,8 +1099,8 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanVoTjdNQmZqaF9oNzZLZkhRNkYxVlVNcDdnMkpxbjk4ZVhhUURGUmlKN0dNMHdSMzkwckg5Sk0tYmtYUWpQRnZ4blJSV1RBV0tVYkF0bjN2SUozYklpVGRhVkxBSWcyMDZDMl9mT05lNEhvdWcwNEw2eXV1Tkg4Ty1FbWJBdnBOaUlQdGZCTS1jUVRKZjduYkJmc2hhekx4b2lDdTcxWm9iUQ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T13:32:00+00:00",
-   "summary": "House Democrat expands investigation into Donald Trump Jr.'s investment firm AP News Democrats Begin Looking Into Companies With Ties to Donald Trump Jr. WSJ Raskin wants answers from companies with ties to Trump's son Politico Democrats probe whether Trump Jr.-aligned businesses",
-   "body": "House Democrat expands investigation into Donald Trump Jr.'s investment firm AP News Democrats Begin Looking Into Companies With Ties to Donald Trump Jr. WSJ Raskin wants answers from companies with ties to Trump's son Politico Democrats probe whether Trump Jr.-aligned businesses benefit from government access NPR Democrats probing ‘serendipitous timing’ of investments by firm linked to Donald Trump Jr. NBC News",
+   "summary": "House Democrat expands investigation into Donald Trump Jr.'s investment firm AP News Democrats Begin Looking Into Companies With Ties to Donald Trump Jr. WSJ Democrats probe whether Trump Jr.-aligned businesses benefit from government access NPR Raskin wants answers from companie",
+   "body": "House Democrat expands investigation into Donald Trump Jr.'s investment firm AP News Democrats Begin Looking Into Companies With Ties to Donald Trump Jr. WSJ Democrats probe whether Trump Jr.-aligned businesses benefit from government access NPR Raskin wants answers from companies with ties to Trump's son Politico Democrats probing ‘serendipitous timing’ of investments by firm linked to Donald Trump Jr. NBC News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -916,16 +1219,16 @@
    "lang": "en"
   },
   {
-   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-   "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-   "source": "NYT World",
-   "published": "2026-11-24T13:14:53+00:00",
-   "summary": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
-   "body": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
+   "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ed3drVWY1OGhvb1JvMlpObzFYU0RpalVZLTdCcnIwdUZhVWU2anF2aWtWWUFTTDgyaEZUa180U2dFQll1N29iUDVSUTdfaElad2FUdGJGLV9ldFE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T13:25:40+00:00",
+   "summary": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home BBC 2 Men Arrested on Suspicion of Breaking Into Prince William and Catherine’s Country Home The New York Times 2 men arrested after break-in at country residence of Prince William, Princess of W",
+   "body": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home BBC 2 Men Arrested on Suspicion of Breaking Into Prince William and Catherine’s Country Home The New York Times 2 men arrested after break-in at country residence of Prince William, Princess of Wales CBC Kate Middleton and Prince William’s Country Home Broken into by Masked Intruders People.com Two arrested over ‘break-in’ at Prince William and Kate’s Norfolk home The Times",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -942,22 +1245,6 @@
    "lang": "en"
   },
   {
-   "title": "More than 1,000 Russian soldiers died by suicide since Ukraine invasion, leaked data shows - report - The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wREc0Snd5Wkp5bVo0NVR1VzV0UGtZLXlpU1dhc1lJdFE4Vlh0dnE1UW84ckJRenFYR1Y4c3c0eElieF9pUlUyZGxHOWVZa0FyQ0xrbTBKX0ZTQUVPaDdz?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T13:12:17+00:00",
-   "summary": "More than 1,000 Russian soldiers died by suicide since Ukraine invasion, leaked data shows - report The Jerusalem Post",
-   "body": "More than 1,000 Russian soldiers died by suicide since Ukraine invasion, leaked data shows - report The Jerusalem Post",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Heat deaths reach record high in UK in 2026",
    "link": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
    "source": "Al Jazeera",
@@ -971,25 +1258,27 @@
    "lang": "en"
   },
   {
-   "title": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWVPMDQ4azhLY2JzcFZCa2VJRUhKbWYyeXo5d3F2UmF1VlZyUm1VU0k1TVYxc1Jud3R2d0haOXNnR1dWQ29aTF82ZHVMVzU5V0RtNGtxUTVZQWxkMTZ5alZvbUdlQVd4LVplc3ZYZEd4dmlKYmFxYzk2QWdmQ0dzLVE2RXhudFR5cGFINEs3WjB4TzlRYl85Mmg1UWwxcFIwQVhmSS1ESnBUYk90bkVFUkFIWFhObUh4UnQyYm9BTjl1bkZS0gHKAUFVX3lxTFBPRXRrMHBldmtCWkIyYlQ1OG9VbXZ5NXZtdUdEcGE4NlZmajVXMDU1am1yY3ppSVJyc3YxOWd6dXdzTmtmVGdERThyQlpTTm1jQTZmWHlzVUIxeXl5Vko1Q0NXQWhqa1Z4XzBKbjZTZjBTeTBQdXE4WmxFZmgxdGJDS0ZJZmYtV0wtM1RhWXNUbURLMHJpWHRxZ2E3dXhFRXNQVkRKNER1cUVnTndjTHMtd3hPSkYzUXFFX0s4SlljS3NZWVF0OHlUNnc?oc=5",
+   "title": "Jayden Daniels, Commanders stun Bengals, keep NFC East hopes alive - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDNRTmgzbnJNZjF0bmxhUXNkSFFnelBTQWx2Sl81d1JLTUVfVE00Y2xoS21wZDIybmhlRGtIVXExTFlxMjdwZ29kcWFhOW45X2R0eWxMZk9VTHo3aE9qUXZ6eXpxOTNMTDNDNjhtcGZ5cC1yVmxRanBhWEJ5VHpVN0VjRndpY05QQ2s0RjFVT1FMbUNrb0tGVGJYVk0tOE0?oc=5",
    "source": "Google News",
-   "published": "2026-11-24T13:10:11+00:00",
-   "summary": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report Fox News Prince William and Catherine’s Country Home Broken Into, Police Say The New York Times 2 arrested over suspected burglary at Prince William and Kate's country home in E",
-   "body": "Intruders break into Prince William and Kate Middleton’s country home in royal security breach: report Fox News Prince William and Catherine’s Country Home Broken Into, Police Say The New York Times 2 arrested over suspected burglary at Prince William and Kate's country home in England WFAA 2 arrested over suspected burglary at royal family’s Sandringham Estate NBC News Kate Middleton and Prince William’s Country Home Broken into by Masked Intruders: Reports People.com",
+   "published": "2026-11-24T13:04:00+00:00",
+   "summary": "Jayden Daniels, Commanders stun Bengals, keep NFC East hopes alive - The Athletic The New York Times Jayden Daniels again delivers in 'high-pressure' situation for Commanders ESPN Did Bengals’ odds to win AFC North take a big hit after heartbreaking loss to Commanders? Yahoo Spor",
+   "body": "Jayden Daniels, Commanders stun Bengals, keep NFC East hopes alive - The Athletic The New York Times Jayden Daniels again delivers in 'high-pressure' situation for Commanders ESPN Did Bengals’ odds to win AFC North take a big hit after heartbreaking loss to Commanders? Yahoo Sports Dan Quinn: Scars from our late-game losses run deep, glad Jayden Daniels won it for us NBC Sports Bengals vs. Commanders odds, NFL Week 11 picks, player props: Expert has best bets for Monday Night Football CBS Sports",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Bengals should have had 2 more seconds after Commanders’ go-ahead field goal - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS3c3N0lmLVlENmd2bmVzSnprazZDSXoxWkFGbjktNlc0Z013YkM1bFYweWRIc2JIbDdPUWxVUW9GN2IxLWRVbVRXYUpKRWt6MXN4MVlXdG1wbmxuQklqNUZzUTBiRjBCRGtDMGtab0ZoMzVEYTF0cE5HZkN5dFN2RHN4QmRrWGNIX1p3M2UxankwWUF0OS1RS3VueHB3alVVUWZYMWFWRXpJcjRiTWYxZFRuZ1lhclI1QWRQNXc3LW0tRVgxcE5r?oc=5",
+   "title": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5",
    "source": "Google News",
-   "published": "2026-11-24T13:10:08+00:00",
-   "summary": "Bengals should have had 2 more seconds after Commanders’ go-ahead field goal - The Athletic The New York Times Jayden Daniels again delivers in 'high-pressure' situation for Commanders ESPN Jayden Daniels leads Commanders past Bengals on MNF; Florida State hires coach Glenn Schum",
-   "body": "Bengals should have had 2 more seconds after Commanders’ go-ahead field goal - The Athletic The New York Times Jayden Daniels again delivers in 'high-pressure' situation for Commanders ESPN Jayden Daniels leads Commanders past Bengals on MNF; Florida State hires coach Glenn Schumann CBS Sports Commanders find their groove through the air in walk-off upset of Bengals The Washington Post The Bengals defense was ugly, but it was the offense that failed them - The Athletic The New York Times",
+   "published": "2026-11-24T13:00:49+00:00",
+   "summary": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO Yahoo Finance Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates CNBC Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks tumble, in",
+   "body": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO Yahoo Finance Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates CNBC Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks tumble, investors test Nvidia-fueled rally Yahoo Finance Markets Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally The New York Times Nvidia shares slip as Trump's role in Jensen Huang's comeback questioned by US politicians BBC",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1138,12 +1427,12 @@
    "lang": "en"
   },
   {
-   "title": "Voyager 1 hits 1 light-day amid new data glitch",
+   "title": "Voyager 1 hits new data glitch while making history",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU53cmNXQWpvMzUzaW9HR3FucXNGQldEb2E2TGVFRjd2aGx2TTd5a0k5S3BneGZUcXJXNHFNTHgxOVdCUVpIeUJzU0NWa1R6ZkJNSzhlLTZfODgyNkNOMjF1ODk5alppdEVpeENpMFptWENUQURrbHZaU1plUGhtVnVFTFBLb081cEhQNmoxTW5GTnc?oc=5",
    "source": "Google News",
    "published": "2026-11-24T12:42:53+00:00",
-   "summary": "Voyager 1 hits 1 light-day amid new data glitch CNN APOD: 2026 November 20 – V-G-R NASA Science (.gov) NASA’s Voyager 1 is now one light-day away from Earth CNN A New Milestone for Life on Earth The Atlantic What's next for NASA interstellar Voyager 1 probe after passing 1 light-",
-   "body": "Voyager 1 hits 1 light-day amid new data glitch CNN APOD: 2026 November 20 – V-G-R NASA Science (.gov) NASA’s Voyager 1 is now one light-day away from Earth CNN A New Milestone for Life on Earth The Atlantic What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth? Space",
+   "summary": "Voyager 1 hits new data glitch while making history CNN APOD: 2026 November 20 – V-G-R NASA Science (.gov) NASA’s Voyager 1 is now one light-day away from Earth CNN A New Milestone for Life on Earth The Atlantic What's next for NASA interstellar Voyager 1 probe after passing 1 li",
+   "body": "Voyager 1 hits new data glitch while making history CNN APOD: 2026 November 20 – V-G-R NASA Science (.gov) NASA’s Voyager 1 is now one light-day away from Earth CNN A New Milestone for Life on Earth The Atlantic What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth? Space",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1214,6 +1503,38 @@
    "lang": "en"
   },
   {
+   "title": "Israeli strikes in Gaza kill 7, including senior security official - Dawn",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2kzMmI1TnJBa2ZGWHlUNTd2WDR2RjZFaDVBclIyR2JQcXBkemthYXMwdjR4eHBYOHE5UTB2UXVIUmNlbGtDQXNQbl9rSDhNYk53dHhZYzdUSTdEZ0JjcTVrR3NmTUMxOVRucDViZ2FRZ3ppU1U1bzhmTHFJcERrdkd1NGdFT3Z1V0JDbVItTmxhVVA2azQxaF94Q3U2STZS?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-24T12:26:54+00:00",
+   "summary": "Israeli strikes in Gaza kill 7, including senior security official Dawn",
+   "body": "Israeli strikes in Gaza kill 7, including senior security official Dawn",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOThCM0hld0RLVUt5VXhQNmFGeUJfR0NsQVlSdVlFQXFWSzlDYk5YUUZuSDNyYzlyaHN0Yk0wQXJEYTkxaHcxNV9OQXBncDdrbHE3eWhQMk9YSlM2cXpUWGJhaXEzdGxQb3R0amJvalgwY25nT0VqYVBGQXFxNzZFUmEzSVMweXRmczN0bmN4b0lxY0x2b2g1Ug?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T12:25:43+00:00",
+   "summary": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia WSJ See more headlines & perspectives on Google News",
+   "body": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia WSJ See more headlines & perspectives on Google News",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "ရိုးရာအနှစ်သာရ ပျောက်ဆုံးမှာ စိုးရိမ်နေကြတဲ့ တောင်ကြီးတန်ဆောင်တိုင်",
    "link": "https://burma.irrawaddy.com/video/2026/11/24/417847.html",
    "source": "Irrawaddy Burmese",
@@ -1225,22 +1546,6 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/TaungGyi-900x506.jpg",
    "lang": "my"
-  },
-  {
-   "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOThCM0hld0RLVUt5VXhQNmFGeUJfR0NsQVlSdVlFQXFWSzlDYk5YUUZuSDNyYzlyaHN0Yk0wQXJEYTkxaHcxNV9OQXBncDdrbHE3eWhQMk9YSlM2cXpUWGJhaXEzdGxQb3R0amJvalgwY25nT0VqYVBGQXFxNzZFUmEzSVMweXRmczN0bmN4b0lxY0x2b2g1Ug?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T12:23:00+00:00",
-   "summary": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia WSJ See more headlines & perspectives on Google News",
-   "body": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia WSJ See more headlines & perspectives on Google News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
@@ -1269,39 +1574,6 @@
     "Egypt"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-587232376-1795524917.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Trump appears to make millions from Nvidia intervention over Huang | First Thing",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
-   "source": "The Guardian",
-   "published": "2026-11-24T12:14:52+00:00",
-   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump made up to $15m on his",
-   "body": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump made up to $15m on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive. Huang, who was forced to step down briefly over allegations of extramarital affairs, including one with a suspected spy, returned to the company’s HQ in Santa Clara, California, receiving a hero’s welcome. The US president’s financial disclosures to the Office of Government Ethics indicate he might have owned as many as 370,000 shares in Nvidia as of 30 September. Nvidia’s shares rocketed by 31.5% on Monday. Johana Bhuiyan has this useful timeline of how the scandal unfolded . What has been the political reaction? Republican lawmakers roundly criticized the Nvidia board’s decision, apparently brokered by the US president, to reinstate its chief executive. Senior Democrat, Elizabeth Warren, said the decision was “reckless” . The reinstalled Nvidia CEO will appear before the Senate banking committee on 3 December, and the US commerce department has added the Singapore-based Nvidia partner Megaspeed to a blacklist amid an investigation into whether it diverted AI chips to China. What other conflicts of interest do Nvidia and Trump appear to have? Chris Van Hollen, the Maryland Democrat, pointed to a series of ties between Huang and Trumpworld as evidence of the executive’s influence over administration policy on advanced chips, including Nvidia’s $25m donation to Trump’s White House ballroom project, his personal holdings of Nvidia stock, Huang’s contribution to Trump’s inauguration fund and his attendance at a $1m-a-plate dinner at Mar-a-Lago. What has the Guardian found out about Russia’s overall casualties? The Guardian identified more than 460,000 deaths in the data linked to the war between the start of the full-scale invasion in February 2022 and September 2026. War became the leading cause of death in Russian men under 65 last year. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://i.guim.co.uk/img/media/a7eaf894846e2d78f6440d72b865592eba82986e/30_0_2838_2270/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=53010273dd165e9b48b16671bf93b087",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T12:12:48+00:00",
-   "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-   "body": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
    "lang": "en"
   },
   {
@@ -1334,29 +1606,18 @@
    "lang": "en"
   },
   {
-   "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRWUmR6anpuM1dQZXp1cWlicnNLZU5kUV9kSjZITXFpcXpoTFpKVjBpd2JfcE5LVWxsb3pSeElEbm5jeVhWUG1SbXhxd1hwMlZYVS12NnlBT3FNcjNCbXhTNWs0UEpzTUxtT0ZYdTJDd0lyNF9lRENEdGlQWDEyY3VieDFHVkVkTExqcktZd2lhTzlJMDJoVG1qYmlUQXdxazhYckZMTDlfUlVn0gGyAUFVX3lxTE5DNFJzU0MyQWpPb3cxNUp1Y1FWVWsxUy1oQ1ZqRUtEbzFPRl9WNktFbjdEaTFDUUczNXpvZEtydG9YdlZFNWNyOFptQkYwMkhXSkNXZ1F2QmRrZ2d2VjNKRkJiMl9lNTRlSnpXNHlzcFNKd0ZnOURXdE1xM1d0elVkWUJ6Vl9JVWRGOEc1QTlnQXktamNva0ZVS3JidVB0dTh1WFM0RXZEX0FnMVBmUzFRUFE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T12:00:57+00:00",
-   "summary": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition Fox News Neurologist reveals how a common chronic illness silently accelerates Alzheimer's risk Yahoo Type 2 Diabetes Linked to Increased Risk for Alzheimer Disease Neurology Advisor Type 2 diabetes ",
-   "body": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition Fox News Neurologist reveals how a common chronic illness silently accelerates Alzheimer's risk Yahoo Type 2 Diabetes Linked to Increased Risk for Alzheimer Disease Neurology Advisor Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds ScienceDaily CUHK study maps how diabetes reshapes brain’s immune cells with age Offering new insights into the link between diabetes and dementia CUHK Communications and Public Relations Office",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
+   "title": "PODCAST: Huang's return, Ukraine war spreads to Libya and Iowa detonation",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T12:11:10+00:00",
+   "summary": "PODCAST: Huang's return, Ukraine war spreads to Libya and Iowa detonation Reuters",
+   "body": "PODCAST: Huang's return, Ukraine war spreads to Libya and Iowa detonation Reuters",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
-   "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-   "source": "The Guardian",
-   "published": "2026-11-24T12:00:46+00:00",
-   "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks Explainer: What to know about flooding in California over Thanksgiving Starting this morning, seasonal high tides up and down the coa",
-   "body": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks Explainer: What to know about flooding in California over Thanksgiving Starting this morning, seasonal high tides up and down the coast of California are expected to drive “major to extreme” coastal flooding, with the San Francisco Bay Area currently seen as being at the highest risk of travel-related flooding delays. The first of the year’s highest “king tides” will arrive in much of southern California, including parts of San Diego and Los Angeles, before 9am on Tuesday, and in the Bay Area between 10 and 11am, according to tidal estimates from the California Coastal Commission. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=1e13751c3be8101548ec8af74600c3dd",
    "lang": "en"
   },
   {
@@ -1453,8 +1714,8 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemFlZDNLMER0ZGJrcHFrd3BvMk9FOW1YTklxZmgyXzVpckdxZFVpZGhPQzBYNGZTaFl6YWdZNFFpNE8yWTVIbVBHNWRRdHhocHVTT0IwOEhyZzhLVTF5dkJza2NPTkkxT040Z1FQMHhmZEFpYlJNWXFSWHJMdmRESmRibkZhblpVYVExUmZfQzZLU0M3Z1U0Q2drV2pjWXhkMW9rMTd4ckV2ZVplUEQteQ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T11:45:00+00:00",
-   "summary": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates ESPN NFL Power Rankings for Week 12: Epic Thanksgiving showdowns are coming Yahoo Sports NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit - The Athletic The New ",
-   "body": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates ESPN NFL Power Rankings for Week 12: Epic Thanksgiving showdowns are coming Yahoo Sports NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit - The Athletic The New York Times NFL Power Rankings, Week 11: Vikings vault into top five; Browns, Rams and Commanders on the rise NFL.com PFT’s Week 12 2026 NFL power rankings NBC Sports",
+   "summary": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates ESPN PFT’s Week 12 2026 NFL power rankings NBC Sports NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit - The Athletic The New York Times NFL power rankings Week ",
+   "body": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates ESPN PFT’s Week 12 2026 NFL power rankings NBC Sports NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit - The Athletic The New York Times NFL power rankings Week 12: How far do Bengals fall after Monday's loss to Commanders? USA Today Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders CBS Sports",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1477,12 +1738,12 @@
    "lang": "my"
   },
   {
-   "title": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive' - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYzNDaFczMVp4UE5LWVJaNHhheDZyTUpzYnk2NXNyNFl2NWdaOERkOEVLRjNoZHRZWWk4OHpjMEljM2l0SzhGVUpYVU5DTVFUdnhsNC10czMwMlJNczF1NVA4bm13XzU0WXdIUzRxS3hVRlJGQnY4cUpsQXpRcWQ2bWxJS3dQaDdld3NJaVBkdmRiQ1NTSmU4SEdGeVdfY1lNWW5jN01DWElVZk0wZkFsdmI2c212X0s4cVJKbmxyajBpOHo2NnBzdlBFdFhzTGJJdk9hTS0tUlRTRkRYODVXNTZrWktndVV5OGhnUE90RWhFRHEzZEdLWmNpdC1mOXNKaUV4aWlBZlM?oc=5",
+   "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
    "source": "Google News",
-   "published": "2026-11-24T11:39:39+00:00",
-   "summary": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive' Yahoo Miley Cyrus Marries Maxx Morando in Palm Springs The New York Times Billy Ray Cyrus and Girlfriend Elizabeth Hurley Attend Miley Cyrus and Maxx Morando’s Palm Spr",
-   "body": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive' Yahoo Miley Cyrus Marries Maxx Morando in Palm Springs The New York Times Billy Ray Cyrus and Girlfriend Elizabeth Hurley Attend Miley Cyrus and Maxx Morando’s Palm Springs Wedding People.com Miley Cyrus is married: What to know about her husband, wedding ABC News - Breaking News, Latest News and Videos Tish Cyrus Calls Daughter Miley’s Wedding to Maxx Morando the ‘Most Magical Night’ Yahoo",
+   "published": "2026-11-24T11:38:49+00:00",
+   "summary": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding BBC Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel Powerful storm threatens East Coast as Thanksgiving approaches: Forecast and track ABC News - Breaking News, Late",
+   "body": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding BBC Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel Powerful storm threatens East Coast as Thanksgiving approaches: Forecast and track ABC News - Breaking News, Latest News and Videos Thanksgiving travel live updates: Flight delays, weather and traffic as millions head out CNN Will the Macy's Thanksgiving Day Parade balloons fly? ABC7 New York",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1554,14 +1815,15 @@
   {
    "title": "Latvian president sees possible 'tipping point' in Ukraine war next year",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1owVzQ0WnFIOWhrNkJsRnYxRWVMUV9iQWxvM3lZYXRfYm5fajBMZ0lZMDcwNHhrR2pnZjZLcy1Pbl9qaFIwNlgxcGhDVmVSUHRrU1czWV9wa2trX2xpOFoxYkkwRXlpOEFveVN6Tmw0OXNDZE96RVlfY1lpb1QtTjZtQVZLajZMUjlKTmdqOEZXdGN6SjFWRUJSbXBJaTJUbFo5RWxJd1kwZ2Ewbm1PYlBadVZuMGp5TldIZ3dFYw?oc=5",
-   "source": "Google News · Ukraine",
+   "source": "Google News",
    "published": "2026-11-24T11:14:29+00:00",
-   "summary": "Latvian president sees possible 'tipping point' in Ukraine war next year Reuters",
-   "body": "Latvian president sees possible 'tipping point' in Ukraine war next year Reuters",
+   "summary": "Latvian president sees possible 'tipping point' in Ukraine war next year Reuters Latvian president hints Moscow defeat possible in war ‘tipping point’ The Independent Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war? UN News Latvian President ",
+   "body": "Latvian president sees possible 'tipping point' in Ukraine war next year Reuters Latvian president hints Moscow defeat possible in war ‘tipping point’ The Independent Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war? UN News Latvian President Edgars Rinkevics during an interview with Reuters in New York The Lufkin Daily News Can Conflict Resolution Keep Pace With AI, Drones in War? Mirage News",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
-    "Ukraine"
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1580,21 +1842,6 @@
    "lang": "en"
   },
   {
-   "title": "Latvian president sees possible 'tipping point' in Ukraine war next year - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWlfalJhOUpUMGdTSEk0bTEwRURubm5xS0w5c1Q5UHVIdFpXbFFxU0Qta2tfd3ZsUDA5NGlyc0swN3pBaEhzUkpYdDZJY2p0WExfeFREMXBzeFkxS3ZtVjVTSnZoNmFXTWstTTFURFVUUFlWLWwtQktscjFlTnV0RzZiLUU0al9ibzMwTENZc2g3WnB2TEdjMEdkbzQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T11:08:53+00:00",
-   "summary": "Latvian president sees possible 'tipping point' in Ukraine war next year Yahoo",
-   "body": "Latvian president sees possible 'tipping point' in Ukraine war next year Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say - LBCI Lebanon",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaS1UOFdjWDZTRDF0RGxZeGZyQVdwSnE1TjNpbXhfR2kzZmFvUmE0X3Y3ZmZGUkh4cklYMGxmM3QwLXR6b1ZDZGx5Mmt4a1N5Q0U4cFRnZWF1a3l6X2F4dGxhUzBTMnQ2RUNwcHBCM0M3dGcwd2x2OHcyMjVUTEZhNFBVOG9zR1ZLMnlrSE9NZ00wb0FocWdnaWhYNmpiTU1lanhmZldqbDYzdmZqZTFnSUhDeElxTUR6RDA2QkZJdWE?oc=5",
    "source": "Google News · War",
@@ -1607,6 +1854,21 @@
     "Israel",
     "Palestine",
     "Lebanon"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Latvian president sees possible 'tipping point' in Ukraine war next year - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWlfalJhOUpUMGdTSEk0bTEwRURubm5xS0w5c1Q5UHVIdFpXbFFxU0Qta2tfd3ZsUDA5NGlyc0swN3pBaEhzUkpYdDZJY2p0WExfeFREMXBzeFkxS3ZtVjVTSnZoNmFXTWstTTFURFVUUFlWLWwtQktscjFlTnV0RzZiLUU0al9ibzMwTENZc2g3WnB2TEdjMEdkbzQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T11:05:05+00:00",
+   "summary": "Latvian president sees possible 'tipping point' in Ukraine war next year Yahoo",
+   "body": "Latvian president sees possible 'tipping point' in Ukraine war next year Yahoo",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1658,190 +1920,6 @@
    "lang": "en"
   },
   {
-   "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-   "source": "The Guardian",
-   "published": "2026-11-24T11:00:45+00:00",
-   "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapi",
-   "body": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapidly”. Referring to her patients with stage 4 melanoma, the oncologist and medical director at the Melanoma Institute Australia said she wouldn’t “see the same face for more than nine months, 12 months maximum”. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/9158937167556e9b18af557d3528a389a0ca3a26/990_0_6366_5093/master/6366.jpg?width=140&quality=85&auto=format&fit=max&s=64028f59d2f5d335e6a70b54ae336799",
-   "lang": "en"
-  },
-  {
-   "title": "Bombed factories, billion-dollar opportunity: Why German companies keep investing in Ukraine",
-   "link": "https://www.dw.com/en/bombed-factories-billion-dollar-opportunity-why-german-companies-keep-investing-in-ukraine/a-80030201?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-24T11:00:00+00:00",
-   "summary": "German companies remain committed to Ukraine despite million-dollar losses, an unreliable energy supply and a shortage of skilled workers. They are betting on new markets and long-term growth.",
-   "body": "German companies remain committed to Ukraine despite million-dollar losses, an unreliable energy supply and a shortage of skilled workers. They are betting on new markets and long-term growth.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Germany"
-   ],
-   "image": "https://static.dw.com/image/72289630_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "EU to impose cap on Chinese hybrid EV imports next month",
-   "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "source": "The Guardian",
-   "published": "2026-11-24T10:59:40+00:00",
-   "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc without facing",
-   "body": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc without facing a tariff, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "China",
-    "South Korea",
-    "Japan"
-   ],
-   "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019",
-   "lang": "en"
-  },
-  {
-   "title": "How cautious investors are struggling to avoid the AI bubble",
-   "link": "https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-24T10:59:00+00:00",
-   "summary": "From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.",
-   "body": "From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/79894402_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:58:51+00:00",
-   "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-   "body": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "Germany",
-    "NATO"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:53:37+00:00",
-   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "body": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
-   "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T10:48:38+00:00",
-   "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
-   "body": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b055244-1795510852.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-   "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:48:27+00:00",
-   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "body": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-   "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T10:47:41+00:00",
-   "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
-   "body": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore’s non-oil exports see record 45.8% rise in Q3 led by growth in electronics",
-   "link": "https://www.channelnewsasia.com/singapore/nodx-q3-electronics-ai-2026-forecast-upgrade-6576701",
-   "source": "CNA World",
-   "published": "2026-11-24T10:47:31+08:00",
-   "summary": "Growth in non-oil exports in the first three quarters of 2026 also reached a record high of 27.6 per cent year-on-year.",
-   "body": "Growth in non-oil exports in the first three quarters of 2026 also reached a record high of 27.6 per cent year-on-year.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--QXLW7DE5--/c_crop,h_899,w_1600,x_0,y_254/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/02/13/20260212_bk_br_shipping_13.jpg?itok=xGR9ttIT",
-   "lang": "en"
-  },
-  {
-   "title": "Myanmar junta airstrikes kill four in Pauktaw, including an infant",
-   "link": "https://myanmar-now.org/en/news/myanmar-junta-airstrikes-kill-four-in-pauktaw-including-an-infant/",
-   "source": "Myanmar Now",
-   "published": "2026-11-24T10:45:05+00:00",
-   "summary": "Airstrikes on two Rakhine State villages came just days after the ICJ found Myanmar committed genocide for its atrocities against the Rohingya in the same region",
-   "body": "Airstrikes on two Rakhine State villages came just days after the ICJ found Myanmar committed genocide for its atrocities against the Rohingya in the same region",
-   "category": "Myanmar",
-   "is_war": true,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/AFP__20261114__D7FX8DT__v1__MidRes__MyanmarConflict-1024x683.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "EU imposes import quotas for hybrid vehicles from China",
-   "link": "https://www.dw.com/en/eu-imposes-import-quotas-for-hybrid-vehicles-from-china/a-80029981?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-24T10:42:00+00:00",
-   "summary": "The EU is trying to protect its own car manufacturers from what it called \"overcapacity\" in China. Carmakers in the bloc, especially in Germany, have been lagging behind their Chinese rivals.",
-   "body": "The EU is trying to protect its own car manufacturers from what it called \"overcapacity\" in China. Carmakers in the bloc, especially in Germany, have been lagging behind their Chinese rivals.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Germany",
-    "European Union"
-   ],
-   "image": "https://static.dw.com/image/70517191_6.jpg",
-   "lang": "en"
-  },
-  {
    "title": "ICJ ၏ လူမျိုးသုဉ်းတရားစီရင်ချက်ကို လေ့လာခြင်း",
    "link": "https://myanmar-now.org/mm/news/81474/",
    "source": "Myanmar Now Burmese",
@@ -1853,89 +1931,6 @@
    "countries": [],
    "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/09/pale-1024x683.jpeg",
    "lang": "my"
-  },
-  {
-   "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
-   "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-   "source": "NYT World",
-   "published": "2026-11-24T10:35:29+00:00",
-   "summary": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
-   "body": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Japan"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemprMTM2YllBX2QyX3Zlb1lkS2V5RkhsamRIOTlnbFRHZmdQSW83ZzdjUWhNb3dHVnZmeW1tUWk1MXcyQ1hiV2F1QlRMUjdRQ2RNQ2ROV2JVOGtCd0VEcEFqeF9ISDRKUUlVbGVrM2JkLTk3V0JHZkd4aWd6S1pNZkNoWWZNckI2RjBxTjNpcVJSS1d4eUxnLW9JWFQ2WDZLN2hyTGVzWUtDaFByU0E?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-24T10:34:00+00:00",
-   "summary": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news The Independent",
-   "body": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news The Independent",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war - khbs",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWoxc1g4RHViZklKU1hFRUFfb3NRUGoxZnhJM0FqZkFzb1BiRjhHQjBtNTFkUjVIcEd4TnVtNWM0TWxlSzkwQURxWnBLZFdpQXZSR184d3RXaUN3TjFoU3RTTy1BT2JiTC1xZGpYRzl6VVpPM3dpWDZxX1BfZ2xVUGEwU3JybGJPV0F6UmFaSS13bHl4UFNfZjRTeUpfb0s4akpkZndB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T10:04:44+00:00",
-   "summary": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war khbs",
-   "body": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war khbs",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "North Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war - WBAL-TV",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjV2cjNIYnlNU25EYzZpNVkzYmxYdXdOUm5VQTJYX0ZIY04xM1hwRVFGT2xCV1VTOERkdFFYaktCbWk1SG1yeXc3aW05bENhUFJlM05iM1J4QUVIWlhaa1k1cWg2b0U0eFhZT3dVNWU1bnNMOUxyWHcteHRadDd0eFlsM0RVU01Ma1FHdmlGMXZXU2hKUmdBRFp3b3hEVl80VHdZbmJ3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T10:03:48+00:00",
-   "summary": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war WBAL-TV",
-   "body": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war WBAL-TV",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "North Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war - WISN",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1RwS09pRnpvVEtKRVN6enlmQl9EZlpVdzJzRGpTOS1VX2xGWEVVQnRxbHFBRjE4WmJYVDY4ak5aNGREaXRZdkRaay1PSDNGWnpMN19lcGFpdDlXblc2MV9oVVVWclhiYk9wbXZqNEFSTjI0TlBQTFdIUmRMTE92T3FaYmdwdDI1U2dJZVBIakdVSnQ4VFpXRFBGQnppSWpwQnA4?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T10:03:27+00:00",
-   "summary": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war WISN",
-   "body": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war WISN",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "North Korea"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "စစ်တပ် စစ်ကြောင်းထိုးခဲ့သည့် ကောလင်းတွင် ရုပ်အလောင်း ၁၆ ခု တွေ့",
@@ -2208,19 +2203,6 @@
     "Myanmar"
    ],
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de53/live/dfa7a170-e6ff-11f1-99a1-253766e7ad8b.png",
-   "lang": "my"
-  },
-  {
-   "title": "လူမျိုးသုဉ်းသတ်ဖြတ်မှုကို အဓိက ကွပ်ကဲခဲ့သော်လည်း အပြစ်မှကင်းလွတ်ခွင့်ရနေဆဲ ရခိုင်တိုင်းမှူးဟောင်း",
-   "link": "https://myanmar-now.org/mm/news/82450/",
-   "source": "Myanmar Now Burmese",
-   "published": "2026-11-23T09:55:11+00:00",
-   "summary": "၂၀၁၇ ခုနှစ် ရိုဟင်ဂျာလူမျိုးသုဉ်းသတ်ဖြတ်မှုအတွက် တရားစွဲဆိုခံရခြင်းမှ လွတ်မြောက်ခဲ့သည့် အနောက်ပိုင်းတိုင်းစစ်ဌာနချုပ် တိုင်းမှူး ဗိုလ်ချုပ်ဟောင်း မောင်မောင်စိုးသည် စစ်တပ်၏ စီးပွားရေးအင်ပါယာအတွင်း ရာထူးကြီးများ ရယူခဲ့ပြီးနောက် အကျင့်ပျက်ခြစားမှုစွပ်စွဲချက်ဖြင့် ခေတ္တထိန်းသိမ်းခံခဲ",
-   "body": "၂၀၁၇ ခုနှစ် ရိုဟင်ဂျာလူမျိုးသုဉ်းသတ်ဖြတ်မှုအတွက် တရားစွဲဆိုခံရခြင်းမှ လွတ်မြောက်ခဲ့သည့် အနောက်ပိုင်းတိုင်းစစ်ဌာနချုပ် တိုင်းမှူး ဗိုလ်ချုပ်ဟောင်း မောင်မောင်စိုးသည် စစ်တပ်၏ စီးပွားရေးအင်ပါယာအတွင်း ရာထူးကြီးများ ရယူခဲ့ပြီးနောက် အကျင့်ပျက်ခြစားမှုစွပ်စွဲချက်ဖြင့် ခေတ္တထိန်းသိမ်းခံခဲ့ရသည်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://myanmar-now.org/mm/wp-content/uploads/sites/7/2026/11/maung-maung-soe.webp",
    "lang": "my"
   }
  ]
