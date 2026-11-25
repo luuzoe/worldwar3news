@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T00:38:51.789518+00:00",
- "updated_yangon": "2026-11-25 07:08",
+ "updated": "2026-11-25T01:38:50.487518+00:00",
+ "updated_yangon": "2026-11-25 08:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -26,31 +26,39 @@
   ],
   [
    "Ukraine",
-   24
-  ],
-  [
-   "Russia",
-   23
+   18
   ],
   [
    "Myanmar",
+   17
+  ],
+  [
+   "Russia",
    16
   ],
   [
    "United Kingdom",
-   8
+   9
   ],
   [
    "China",
-   6
+   8
   ],
   [
    "Iran",
-   6
+   8
   ],
   [
    "Israel",
-   6
+   5
+  ],
+  [
+   "Palestine",
+   4
+  ],
+  [
+   "Turkey",
+   4
   ],
   [
    "Yemen",
@@ -61,23 +69,23 @@
    4
   ],
   [
-   "Palestine",
-   4
+   "Australia",
+   3
   ],
   [
    "France",
    3
   ],
   [
-   "Turkey",
-   3
-  ],
-  [
-   "South Korea",
+   "Iraq",
    2
   ],
   [
-   "Iraq",
+   "India",
+   2
+  ],
+  [
+   "South Korea",
    2
   ],
   [
@@ -85,19 +93,7 @@
    2
   ],
   [
-   "Australia",
-   1
-  ],
-  [
    "Syria",
-   1
-  ],
-  [
-   "India",
-   1
-  ],
-  [
-   "NATO",
    1
   ],
   [
@@ -116,12 +112,27 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 29,
+ "war_count": 24,
  "languages": {
-  "my": 23,
-  "en": 117
+  "my": 25,
+  "en": 115
  },
  "items": [
+  {
+   "title": "CNA Now: Nvidia, Anthropic shares tumble as AI sell-off resumes, plus other news as it happens",
+   "link": "https://www.channelnewsasia.com/singapore/cna-now-nov-25-live-blog-6578146",
+   "source": "CNA World",
+   "published": "2026-11-25T09:01:05+08:00",
+   "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "body": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--jI0s9sYS--/c_crop,h_449,w_799,x_1,y_55/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-16T034938Z_1_LYNXMPEM8F08C_RTROPTP_3_ANTHROPIC-IPO-NVIDIA.JPG?itok=r8j4zk2y",
+   "lang": "en"
+  },
   {
    "title": "She knew how to help children with dyslexia – but watching her own daughter struggle with it was different",
    "link": "https://www.channelnewsasia.com/women/dyslexia-association-singapore-intervention-specialist-6542581",
@@ -162,19 +173,6 @@
    "lang": "en"
   },
   {
-   "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
-   "link": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
-   "source": "CNA World",
-   "published": "2026-11-25T06:00:00+08:00",
-   "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
-   "body": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--sUhDTYe5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-17T110633Z_1_LYNXNPEMAG0WL_RTROPTP_3_GAMING-GTA-VI-PREVIEW.JPG?itok=nWacV1d7",
-   "lang": "en"
-  },
-  {
    "title": "CNA Explains: What happens to your car warranty if a dealer shuts down in Singapore?",
    "link": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
    "source": "CNA World",
@@ -190,10 +188,38 @@
    "lang": "en"
   },
   {
+   "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
+   "link": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
+   "source": "CNA World",
+   "published": "2026-11-25T06:00:00+08:00",
+   "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
+   "body": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--sUhDTYe5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-17T110633Z_1_LYNXNPEMAG0WL_RTROPTP_3_GAMING-GTA-VI-PREVIEW.JPG?itok=nWacV1d7",
+   "lang": "en"
+  },
+  {
+   "title": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံး",
+   "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-25T01:39:00+00:00",
+   "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e0/live/bc0c1b80-e86f-11f1-8e3f-8ba6875bbb6b.jpg",
+   "lang": "my"
+  },
+  {
    "title": "မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်အရေးယူ",
    "link": "https://www.bbc.co.uk/burmese/live/cmqlq27ld9wqt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-25T00:38:53+00:00",
+   "published": "2026-11-25T01:39:00+00:00",
    "summary": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Europe / NATO",
@@ -204,6 +230,302 @@
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdae/live/38ebed20-e7a2-11f1-a094-5fdc692f3e33.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Politics live: Marles apologises to LGBTQ+ veterans; Australia and Solomon Islands sign ‘historic’ treaty",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-25T01:22:16+00:00",
+   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
+   "body": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0116cf57061a0f5436411466e594c6a5b4ed41bd/543_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=4e754286078c365ace09028c33e0ebf5",
+   "lang": "en"
+  },
+  {
+   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-25T01:21:08+00:00",
+   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. A New South Wales supreme court jury delivered its verdicts o",
+   "body": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=dcd597bc5dff7cf8a66573ffddcbfff0",
+   "lang": "en"
+  },
+  {
+   "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T01:21:02+00:00",
+   "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+   "body": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795569645.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-25T01:14:44+00:00",
+   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ",
+   "body": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
+   "lang": "en"
+  },
+  {
+   "title": "Poll finds US voters want government to end Iran war regardless of terms",
+   "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T01:14:22+00:00",
+   "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+   "body": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Iran"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T01:11:57+00:00",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "body": "The verdict follows a months-long trial in New York.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "သာမန် အရှုပ်တော်ပုံ မဟုတ်ဘူး",
+   "link": "https://burma.irrawaddy.com/video/2026/11/25/417851.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-25T01:11:53+00:00",
+   "summary": "Interview",
+   "body": "ဧရာဝတီ၊ နိုဝင်ဘာ ၂၄၊ ၂၀၂၆\n\nကမ္ဘာ့ထိပ်တန်း နည်းပညာ သူဌေး ဂျန်ဆန်ဟွမ်း အရှုပ်တော်ပုံတွေကြား နုတ်ထွက်အပြီး တပတ်ကျော်အကြာ စီအီးအိုနေရာပြန်အလာနဲ့ ပတ်သက်ပြီး ဝါရှင်တန်ဒီစီမြို့မှာ နေထိုင်နေသူ မြန်မာသတင်းစာဆရာ ငြိမ်းချမ်းအေးနဲ့ ဧရာဝတီ အယ်ဒီတာ ရဲနည်က ဆက်သွယ် မေးမြန်းဆွေးနွေးထားပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Ai-interview-900x506.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Israel Palestinians Gaza - TelegraphHerald.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaE1WUzVraVZpVnQycVotRFVKZEZkUlppYXdacjFyMGFqUWNKU1RxNjJVcFhZb1o5d3pMVFBOVTBnQWs1aTkyV0dNNVFjRHdMOGE4RFQ3RTIwV29HbThaZGxzMTQtVGc0SjdMQmFfNG14YnRLTnBuNHpfV3JsX2ktN2RqVXBWeEhGOWRjdkhLRDdlNGxWV0E?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-25T01:07:50+00:00",
+   "summary": "Israel Palestinians Gaza TelegraphHerald.com",
+   "body": "Israel Palestinians Gaza TelegraphHerald.com",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+   "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+   "source": "The Guardian",
+   "published": "2026-11-25T01:00:01+00:00",
+   "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research . Smoking is the leading cause of preventable death and illness in the UK. While ov",
+   "body": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research . Smoking is the leading cause of preventable death and illness in the UK. While overall smoking rates in England have declined in recent decades, rates in some regions have increased. About 6.75 million people smoke in England, of whom around 14% are women aged 45-60. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ba552a1b57408ce45632af7702e5886772f0e0fb/354_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=610676c92f7ab90919ef3d20aab6b8c2",
+   "lang": "en"
+  },
+  {
+   "title": "Europe on edge as Ukraine war spreads into Mediterranean - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3kwRDlfcnVNS1FNaDdhT1lhRzFTTXREMnhBSkRQUmtVT29Wb3kwNTlmVEhSNF9nUGMzVjJYWFlFOXVVT2lsU21hMVhKX3NGYnhjUVFCNldnUGNBZjYwWHFCbUlNaHB0SGZ6RjBkYW9LTkV2Nk50VnE1cmVsX2VCZ1JacEI2d0gwR1ZZdDFJT1dBMjg1M3BSVlhiTnF1akxwSnoyRVB0Z0w?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T01:00:00+00:00",
+   "summary": "Europe on edge as Ukraine war spreads into Mediterranean AFR",
+   "body": "Europe on edge as Ukraine war spreads into Mediterranean AFR",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekxuU3VuendQQVpId1BlX21DeXpnMW9teFNfV1A3Nng0ODhEblNKSmRVd0dHcjFpY2xfVjh5cVg2bnd5LTRaaWNQQlF3bGVDbE9rUGw5My1lSE0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T00:56:51+00:00",
+   "summary": "Russia's own figures show almost 500,000 deaths in war in Ukraine BBC",
+   "body": "Russia's own figures show almost 500,000 deaths in war in Ukraine BBC",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "One lame duck and two turkeys as Trump plays the hits at pardon ceremony",
+   "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
+   "source": "The Guardian",
+   "published": "2026-11-25T00:56:48+00:00",
+   "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents. For others, it was Elon Musk’s chainsaw or t",
+   "body": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents. For others, it was Elon Musk’s chainsaw or the demolition of the White House East Wing . Donald Trump’s second term as US president has been full of moments when people exclaim: this is the last straw! But on Tuesday even he went too far. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Turkey"
+   ],
+   "image": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=140&quality=85&auto=format&fit=max&s=9b445b32e3b82532d6b817a5b3e0abd7",
+   "lang": "en"
+  },
+  {
+   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
+   "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+   "source": "The Guardian",
+   "published": "2026-11-25T00:56:44+00:00",
+   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Surging fuel costs and the end of electricity rebates have",
+   "body": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Surging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas. Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=36f537dbf9f90ebd0d2fadb83678fdc8",
+   "lang": "en"
+  },
+  {
+   "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T00:54:13+00:00",
+   "summary": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated BBC",
+   "body": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated BBC",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T00:50:27+00:00",
+   "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post US army maps show projected path of toxic dust from Iowa detonation The Guardian See How the Army Plans to Blow Up Five Tons of Toxic Lead Compounds in Iowa The New York Times Pu",
+   "body": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post US army maps show projected path of toxic dust from Iowa detonation The Guardian See How the Army Plans to Blow Up Five Tons of Toxic Lead Compounds in Iowa The New York Times Public Safety Advisory: Controlled, Mitigated Detonation of Unstable Lead Azide at Iowa Army Ammunition Plant Army.mil Army to detonate lead explosives in Iowa on Wednesday morning as officials insist the plan is necessary NBC News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Gunmen hold dozens hostage in Colombia supermarket",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T00:49:35+00:00",
+   "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+   "body": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795567656.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Trump Administration Pauses Joint Operations With Ecuador",
+   "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+   "source": "NYT World",
+   "published": "2026-11-25T00:42:52+00:00",
+   "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+   "body": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+   "source": "The Guardian",
+   "published": "2026-11-25T00:42:17+00:00",
+   "summary": "Despite community backlash, some firms are confident they’ll get the greenlight as the Coalition says datatecentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news pod",
+   "body": "Despite community backlash, some firms are confident they’ll get the greenlight as the Coalition says datatecentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Nine datacentre projects are seeking approval in Victoria as the state heads to polls, and despite growing community backlash some companies remain confident their projects will be greenlighted after Saturday’s election. With opinion polls predicting the Coalition will win power from the 12-year-old Labor government, questions remain over whether the Liberal and National parties’ datacentre policy will apply to existing applications. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb",
+   "lang": "en"
+  },
+  {
+   "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+   "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+   "source": "NYT World",
+   "published": "2026-11-25T00:38:34+00:00",
+   "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+   "body": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Iraq"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
+   "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
+   "source": "The Guardian",
+   "published": "2026-11-25T00:33:16+00:00",
+   "summary": "Residents warned to stay indoors amid conflicting information about how far the dust plume could travel The US Army is set to detonate 68 barrels – five tons – of lead azide at an ammunition plant in rural Iowa on Wednesday morning, after delays and conflicting information about ",
+   "body": "Residents warned to stay indoors amid conflicting information about how far the dust plume could travel The US Army is set to detonate 68 barrels – five tons – of lead azide at an ammunition plant in rural Iowa on Wednesday morning, after delays and conflicting information about how far the toxic lead dust plume could travel after the explosion. That controlled blast has been scheduled for 10am ET on Wednesday, the day before the Thanksgiving holiday. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=1b942f417d02d1f5e8969b291e00769a",
+   "lang": "en"
   },
   {
    "title": "Alaska ends deal to give voter records to US Justice Department",
@@ -221,75 +543,76 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine live: Putin vows retaliation as attacks on oil plants continue",
+   "title": "Ukraine-Russia war latest: Putin vows retaliation as Ukrainian attacks on oil plants continue despite Trump requests",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-25T00:28:10+00:00",
-   "summary": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
-   "body": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
+   "summary": "Ukraine-Russia war latest: Putin vows retaliation as Ukrainian attacks on oil plants continue despite Trump requests The Independent",
+   "body": "Ukraine-Russia war latest: Putin vows retaliation as Ukrainian attacks on oil plants continue despite Trump requests The Independent",
    "category": "Ukraine / Russia",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia"
+    "Russia",
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Trump Administration Pauses Joint Operations With Ecuador",
-   "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-   "source": "NYT World",
-   "published": "2026-11-25T00:27:45+00:00",
-   "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
-   "body": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
-   "category": "USA / Americas",
+   "title": "CFP rankings prediction: SEC takes over as Big Ten faces stunning fall",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdVNsdjlKLUhMSDJjUVUxWjdmbUxmQU0zVmtmb08yVHVlYl9qYlBjdmlVbXRHZ01hbk9oY0RtbGZ3azNhd3ZXY24tellqcms2UmtCSmJVLVpIOHN2NFVSY0hkNWpkM3Foand3Z3k0ZjZiXzlJZXBuajd2dkNNRWRVSG5SZ0ZvbEJscFJ6N1AzZkhLTnBvYlhvS2M1aDFoWENUd2l0dVdCaTlQbE93a2FtekJQZDVlenpnNktYbDVaVE1vckJwaHlOQXdWajdRVVpNalBKYllfemt3bEdKR0s2ZEpWY2ZIYm9aZDdZczlET2d0Zw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T00:26:00+00:00",
+   "summary": "CFP rankings prediction: SEC takes over as Big Ten faces stunning fall USA Today Indiana falls from 12-team field in 4th CFP rankings; Horns, Vols leap Bama ESPN College Football Playoff rankings live updates, start time: Countdown to today’s release ahead of Week 13 rivalry game",
+   "body": "CFP rankings prediction: SEC takes over as Big Ten faces stunning fall USA Today Indiana falls from 12-team field in 4th CFP rankings; Horns, Vols leap Bama ESPN College Football Playoff rankings live updates, start time: Countdown to today’s release ahead of Week 13 rivalry games The New York Times College Football Playoff rankings schedule, release dates NCAA.com Where to watch CFP reveal show: When does the new CFP rankings come out? IU football projections IndyStar",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "United States"
+    "India"
    ],
-   "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Australian politics live: Labor exempts pensioners from bill cutting private health rebates for over-65s; Australia and Solomon Islands sign ‘historic’ treaty?",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-25T00:27:02+00:00",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
-   "body": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
-   "category": "Asia-Pacific",
+   "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T00:21:00+00:00",
+   "summary": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO AP News The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips CNBC Huang’s return rattles Sacramento and Silicon V",
+   "body": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO AP News The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips CNBC Huang’s return rattles Sacramento and Silicon Valley Politico Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States",
-    "Australia"
+    "China"
    ],
-   "image": "https://i.guim.co.uk/img/media/f528eb9c095a05e598366f341983bdb34bd9da15/0_0_5667_4534/master/5667.jpg?width=140&quality=85&auto=format&fit=max&s=5b0505b0306f4e8a6188f50353b9c197",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-25T00:11:54+00:00",
-   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ",
-   "body": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+   "title": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T00:15:00+00:00",
+   "summary": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution NBC News Fort Hood survivors denied bid to witness shooter’s firing-squad execution The Guardian They want to watch Fort Hood shooter Nidal Hasan die but the Army won’t let them ABC News - Breaking ",
+   "body": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution NBC News Fort Hood survivors denied bid to witness shooter’s firing-squad execution The Guardian They want to watch Fort Hood shooter Nidal Hasan die but the Army won’t let them ABC News - Breaking News, Latest News and Videos Nidal Hasan asks US judge for stay of execution for Fort Hood murders Reuters Fort Hood shooter Nidal Hasan asks federal judge to halt execution Fox News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
-   "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3luSEIwNEp4bmdNMHdYRVllVUJabUJwOVRQWkZ6OHMyUWhBa2ZEZXRqY1kxc0publ9kZ3hZX2M3OTJydklOeXZXMzBXZGRRem5nbUl3d3Y1SHE1aDgtbGVjdDQ3dmpWZm9NRnN1UnU5U0hLTl83VnpyQ0gtWE9fTWJOdUk0cUhMNDVF?oc=5",
+   "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wTV9uQTFVLU9HUUx4YV9IS2FaNGtfaUprTU9ST25ianVCNEtCdTRqYk9sdnBrSnZpSXZQUGNyenkxaW45MmJnWm1JUEtISUZQLUxJNWRkN25CNmdzUC1kUXByTTRDOVJaOHoyWC1XR0haSlQ1dEtLLTVB0gF_QVVfeXFMUFk4ZWRMbnhJLVhSNUszUWdsUm9OUG1sQmNoSm0zRkpWQThtbE4tRk1nYTF5ME52UmVFb2JxLWtNZ2VZdG90QTdXZGhFRW4wZUt2RnBZcnVlTFRONXNyOXpYdzF2ZnBEc0dHdXh5LTBHSjNub0hQUW9xSzZzV05qUQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-25T00:09:36+00:00",
-   "summary": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal The New York Times Kilmar Abrego García will leave U.S. for Spain to avoid deportation The Washington Post Kilmar Abrego Garcia, who fought being mistakenly sent to El Salvador, is self-deporting to Spain AP ",
-   "body": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal The New York Times Kilmar Abrego García will leave U.S. for Spain to avoid deportation The Washington Post Kilmar Abrego Garcia, who fought being mistakenly sent to El Salvador, is self-deporting to Spain AP News Kilmar Ábrego García, man at center of Trump deportation battle, leaving US The Guardian Kilmar Abrego Garcia is leaving the U.S. a ‘free man,’ Van Hollen says NBC News",
-   "category": "USA / Americas",
+   "published": "2026-11-25T00:04:00+00:00",
+   "summary": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites CNBC The Outlook for Retail Stocks as Black Friday Approaches Goldman Sachs Strong sales point to happy holiday season for US retailers Financial Times Three retail stocks to watch this holiday sea",
+   "body": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites CNBC The Outlook for Retail Stocks as Black Friday Approaches Goldman Sachs Strong sales point to happy holiday season for US retailers Financial Times Three retail stocks to watch this holiday season: Walmart, Target and TJX Investing.com US Shoppers Put Retailers In A Better Mood Finimize",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
@@ -358,19 +681,6 @@
     "France"
    ],
    "image": "https://i.guim.co.uk/img/media/03c099112981b7055e78c51a3d179c98b98545fa/416_0_4158_3327/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=87d70a9eea9739c2a6b9258259431001",
-   "lang": "en"
-  },
-  {
-   "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
-   "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
-   "source": "The Guardian",
-   "published": "2026-11-25T00:01:01+00:00",
-   "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are among the projects that will receive government funding to help seaside communities in England adap",
-   "body": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are among the projects that will receive government funding to help seaside communities in England adapt to rising seas and coastal erosion accelerated by climate breakdown . More than £11m will be shared between 12 council-led projects that will test ways to spot coastal change earlier and help communities plan for the effects. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/ce04a5cb09e22f892bbbb0638df2ea14eea476ff/0_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=2d61b85839f1778efeeb8d0e40380630",
    "lang": "en"
   },
   {
@@ -450,19 +760,6 @@
    "lang": "en"
   },
   {
-   "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:26:00+00:00",
-   "summary": "Stock Market Today: Tech Stocks Slide Back After Epic Rally WSJ See more headlines & perspectives on Google News",
-   "body": "Stock Market Today: Tech Stocks Slide Back After Epic Rally WSJ See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
    "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
    "source": "The Guardian",
@@ -476,76 +773,15 @@
    "lang": "en"
   },
   {
-   "title": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlJlSXV1ZUhPYmhsN0ZrelZKNmQ2OGJoaUUwYkw1NVlIUERFTVotMUJ1aE91Wm9PSTNuTFc1bTBTWFQ2cVFDbVNaTWpYcjh5aUtIUzZfNWxmQXcwYTBKRF9vamlFSnVNQTY3YXhYUDB4b195TlctQm5VckN6eE0yQUlXbm1pRDgzQlVVVEVMTzlfdFJt?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:19:00+00:00",
-   "summary": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there AP News See more headlines & perspectives on Google News",
-   "body": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there AP News See more headlines & perspectives on Google News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:14:23+00:00",
-   "summary": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring Reuters Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring Bloomberg.com Venezuela unveils $240bn debt pile ahead of historic restructuring Financial Times Venezuela's Public and State Debt ",
-   "body": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring Reuters Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring Bloomberg.com Venezuela unveils $240bn debt pile ahead of historic restructuring Financial Times Venezuela's Public and State Debt Exceeds Twice Its GDP, Kicks Off Debt Restructuring news.sbs.co.kr Venezuela Reveals an Eye-Popping Debt Load of $237 Billion WSJ",
-   "category": "Global",
-   "is_war": true,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC - ABC7 New York",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS21LblRMa0FVeHR2bVB4bkUxZWxDZ3lwQ2QweXpxV1lFVG1yck42Mm5qSVp5NUltYlZoUTQ4NEloTV9Jd1NxeUVDaFVvR2R4eEJMNTRPUW5JT2RzU0hJVVk1Q2FTTUZLXzdxZTJaQ3FEQklfM1RqS2twQ2NSM085TjM4c3NmSm5RSmNiLVcwTFJ1V1hxSU5LRG9KVEN5dFBHQVhfTU5TNzR2RnJjMkRNTGRGQzU?oc=5",
    "source": "Google News",
    "published": "2026-11-24T23:12:00+00:00",
-   "summary": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC ABC7 New York NYC officials monitoring weather, weighing contingencies for Thanksgiving Day Parade ABC7 New York High winds disrupted Macy's parade balloons in the past. Will it happen again? ",
-   "body": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC ABC7 New York NYC officials monitoring weather, weighing contingencies for Thanksgiving Day Parade ABC7 New York High winds disrupted Macy's parade balloons in the past. Will it happen again? USA Today Will a coastal storm keep balloons grounded for Macy's Thanksgiving Day Parade? NBC New York Another Death Knell for the American Musical Vulture",
+   "summary": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC ABC7 New York NYC officials monitoring weather, weighing contingencies for Thanksgiving Day Parade ABC7 New York Will the balloons fly this Thanksgiving? High winds expected during the Macy's ",
+   "body": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC ABC7 New York NYC officials monitoring weather, weighing contingencies for Thanksgiving Day Parade ABC7 New York Will the balloons fly this Thanksgiving? High winds expected during the Macy's Parade NBC New York Winds from major storm could spoil Macy's Thanksgiving Day Parade fun in NYC AccuWeather Macy's Thanksgiving Day Parade Balloon Inflation Event on the Upper West Side: What to Know West Side Rag",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Reports: Estimated 700k+ Russian soldiers killed since start of Ukraine War - CityNews Kitchener",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzNoMmhwYmtJYVhBam1QMUdzTzF2bEhNZkttNUVwVHFITFcwU3N3Z2hWUmpiOGp4QkJ6dGR5Wi1rS1JiWVIzZDJpMTlPc2kzcUtRc2c3aUZIelVVSkZpRmNIcGZLa1pKc3NyVlo4UEdacVJKSkczZTF4WlNRenctVVE2cHBJMUdDX3I2elJRdWZucnFqaWc5cGxWMkJtalg5RHRBVF9iNXBmVDl3NXducDBsYzVqQ1hZM3FTcGVR?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T23:11:00+00:00",
-   "summary": "Reports: Estimated 700k+ Russian soldiers killed since start of Ukraine War CityNews Kitchener",
-   "body": "Reports: Estimated 700k+ Russian soldiers killed since start of Ukraine War CityNews Kitchener",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:06:36+00:00",
-   "summary": "China's Huawei convicted in sprawling US criminal trial over Iran business Reuters Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC China’s ",
-   "body": "China's Huawei convicted in sprawling US criminal trial over Iran business Reuters Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC China’s Huawei Convicted of Fraud in U.S. Criminal Trial WSJ Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial The New York Times",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China",
-    "Iran"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -554,8 +790,8 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0ZENzdyVk5TQkMwN05tS3VmQXVZOUo1c2g5LTRQenB1RzB1RFo4OTdTdDA3XzRPZEFpLS1PRUZRQWw1NXhmZlZZNWU2NkdJQWFEUlhOZkppQW9YRHFVUzNOVFBkNnlZdmpkVDNwTFRadG5Cd1I3RmR3VXNTYnZ6Yi15VEszSUxKVnZrenExMm1HekZf?oc=5",
    "source": "Google News",
    "published": "2026-11-24T23:01:09+00:00",
-   "summary": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN An unclassified CIA system was breached in a c",
-   "body": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN An unclassified CIA system was breached in a cyberattack, AP source says AP News CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources Fox News",
+   "summary": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN CIA hit by cyber breach that exposed unclassif",
+   "body": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources Fox News An unclassified CIA system was breached in a cyberattack, AP source says AP News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -597,8 +833,8 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
    "source": "Google News",
    "published": "2026-11-24T22:50:00+00:00",
-   "summary": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California weather with Dirk & Heather: \"King Tides\" and Thanksgiving weather KCRA ‘Extreme’ Flooding Is Feared in California as King Tides Near Records The New York Times King tides, powerful waves ",
-   "body": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California weather with Dirk & Heather: \"King Tides\" and Thanksgiving weather KCRA ‘Extreme’ Flooding Is Feared in California as King Tides Near Records The New York Times King tides, powerful waves and incoming storm threaten Northern California coast NBC Bay Area San Francisco Bay Area Braces for Record Coastal Flooding Inside Climate News",
+   "summary": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area King tides raise water levels in Delta as Suisun City residents prepare for possible flooding KCRA California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times King Salmon residents o",
+   "body": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area King tides raise water levels in Delta as Suisun City residents prepare for possible flooding KCRA California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding KRCR San Francisco Bay Area Braces for Record Coastal Flooding Inside Climate News",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -606,18 +842,15 @@
    "lang": "en"
   },
   {
-   "title": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front - Le Monde.fr",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTmlsMmVySUw4VEh1WDZ0ZlIxS1diY0duSnk3Rl9ZTk5Nell2TWtFS1c5bExJOWJMM2d2SFE4Q0FDUVVGZTVvNTNUMENtRVRpYmItTFRvcml5VHVidi1jTHhBNXNKY0c0RW8zR0lneVZpOHdBUkNQLWlRNnZTWHlCUnpEZlV3NDdMdDBfZWlKU0pqTUtkQUktS3V0dGY4a1lZaFRuRkdrdE43MVZUNjJIUGotZnZjblNZaEhhZVRkZnduUUxmNlJoc2NLbVRsU2w0WUlFUHVwMm93blU0R1Q4blRYSHdDek9vOG5RMHpSaC1NTWtIeVpZaUZSX2IzOEJHck02c3BIdkZIa1AyR01Z?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T22:48:22+00:00",
-   "summary": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front Le Monde.fr",
-   "body": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front Le Monde.fr",
+   "title": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap - MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU5LYWF5Y19XWTJEWE5qR2FFQURWX1RRXy1Vc2dTRE9kWl80T21lLXNta0VRUEE5ZjE1VjUtX1VnX1d6d1JpWGhoQVc2YVRVdlJmOUtIbi1XbnQ2am1FSnFFN0RsaHVlT2FUMnZWLUt1czRzQXpibXl4NG5lQ0EyUFlrb3NQRVNWS1pLaEVjcGljSkRKOTVJenlIUGx5T1ZJYWF1S0VQdHNnVGFwODFiY1JaeUZVNGVpWHh5ZW54eHZUQnJZNXR1dFNrNXAyRW5T?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T22:46:00+00:00",
+   "summary": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally The New York Times Nvidia live updates: Nvidia stock falls after massive",
+   "body": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally The New York Times Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang apologizes to employees Yahoo Finance Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates CNBC Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump WSJ",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -664,44 +897,35 @@
    "lang": "en"
   },
   {
-   "title": "Meta and other social media firms are not liable for Buffalo mass shooting, court rules",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
-   "source": "The Guardian",
-   "published": "2026-11-24T22:30:01+00:00",
-   "summary": "New York’s top court upholds lower court decision to dismiss claims against tech firms in lawsuit over 2022 shooting Facebook, YouTube and other social media companies aren’t liable for the racist mass shooting at a supermarket in Buffalo, New York, the state’s highest court rule",
-   "body": "New York’s top court upholds lower court decision to dismiss claims against tech firms in lawsuit over 2022 shooting Facebook, YouTube and other social media companies aren’t liable for the racist mass shooting at a supermarket in Buffalo, New York, the state’s highest court ruled this week in lawsuits over the 2022 attack. In a 4-3 decision Monday, the court of appeals upheld a lower court’s decision to dismiss claims against the tech firms from survivors and victims’ relatives, more than four years after the shooting devastated the affected communities. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/05ed67c8cfbb478be4981287a501d298fd1ce161/298_345_4726_3781/master/4726.jpg?width=140&quality=85&auto=format&fit=max&s=6be97d61c760d1a8c0ec109abb09b4f9",
-   "lang": "en"
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T22:24:23+00:00",
-   "summary": "The verdict follows a months-long trial in New York.",
-   "body": "The verdict follows a months-long trial in New York.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-   "source": "The Guardian",
-   "published": "2026-11-24T22:09:57+00:00",
-   "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters ",
-   "body": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill. In an open letter to members of the House of Representatives , the collection of Earth and social sciences researchers expressed “deep concern” that the Bipartisan American Affordability and Jobs Act (or Baaja) weakens environmental laws, locks in new fossil fuel projects without recourse and delivers only minor cuts to planet-heating emissions. Continue reading...",
+   "title": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWlLeWp5azljeGpxY3d0SlhMWXhwbFdEenBhRjczQ1VPWUIyVFByOE5oeXJSekJBd01PMXVHbE5qVFlMU2V5dFFSb1RKYnZGaDlqRDBDOTZ0d3NFWFRpa29DRklhdm80S2RINUJlSUhzbDB6QjU2Q3lSc3VmLU9wek10QXp3UVN2WEE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T22:13:39+00:00",
+   "summary": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers CBS News Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service WSJ Shein to pay $100 million to settle US shipping, customer service claims Reuters Shein to pay $100mn to resolv",
+   "body": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers CBS News Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service WSJ Shein to pay $100 million to settle US shipping, customer service claims Reuters Shein to pay $100mn to resolve US allegations it deceived customers Financial Times Fast-fashion retailer SHEIN to pay $100 million to FTC over 'unfair customer service practices' WBRZ",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
-   "image": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=3c0e522eaedec77080dfbb6a18aaf155",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFmSV9iczJEYXZzbjRXbmE5SXJnRVM1NTJhcmkwcVVObDNraDYtaWFGQkF4aHNOMXFVVHNWbWllVDhOUVlvS0Zmck9BRlhYV2dMR3RpRWpsbDNaWGN4UHB0Z2ZrSmtiSExFV3hweTJKU1pkT0ZMZVBQckozZmJDNllLT1ZXU1p3S0JyRndENDdTWVdsQ0JQQVBLdEhSQ2Q5djRB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T22:07:05+00:00",
+   "summary": "Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN Huawei found guilty of stealing trade secrets but ",
+   "body": "Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC China’s Huawei Convicted of Fraud in U.S. Criminal Trial WSJ Huawei guilty on 10 of 12 counts after months-long battle in US courtroom South China Morning Post",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -709,8 +933,8 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWpQdlNGdVRsM2NpbGpMR1V3d080a2NJcWFSaWVwa2x1dFgzRnkyU0NRd2VLWUVQNWt0cFVXS0RNazJ2alRDRV9vTURCdWlhYUxZbEtUelhEWmtNT01xTTBqR1JJUmZvU1lNVFNKUDAxQ2pneldLSWtCTHpNX0lFcmNsV2k0ZWJ4ZDZudFU1bEtITl9wV2hzeHFtZzdQX1NFRWV5dDJsd1IwM1R0RE9uUWJUekpoTzV0Qnh6SFdhbnVoTHA1SjM0SFNCVzNnT1diOWhn?oc=5",
    "source": "Google News",
    "published": "2026-11-24T22:06:48+00:00",
-   "summary": "Michigan does about-face on Trev Alberts, potentially owing him $17.2 million NBC Sports Trev Alberts told he won't be Michigan AD after agreement ESPN University of Michigan thought it had its next athletic director. Now fans are asking questions ClickOnDetroit | WDIV Local 4 Mi",
-   "body": "Michigan does about-face on Trev Alberts, potentially owing him $17.2 million NBC Sports Trev Alberts told he won't be Michigan AD after agreement ESPN University of Michigan thought it had its next athletic director. Now fans are asking questions ClickOnDetroit | WDIV Local 4 Michigan Crisis Deepens as It Rescinds $17 Million Contract Offer to New Athletic Director WSJ Michigan not moving forward with hiring Trev Alberts as athletic director The New York Times",
+   "summary": "Michigan does about-face on Trev Alberts, potentially owing him $17.2 million NBC Sports Trev Alberts told he won't be Michigan AD after agreement ESPN Michigan AD deal with Trev Alberts 'pathetic,' says one labor lawyer Detroit Free Press Michigan's latest self-inflicted disaste",
+   "body": "Michigan does about-face on Trev Alberts, potentially owing him $17.2 million NBC Sports Trev Alberts told he won't be Michigan AD after agreement ESPN Michigan AD deal with Trev Alberts 'pathetic,' says one labor lawyer Detroit Free Press Michigan's latest self-inflicted disaster proves yet again the Wolverines have a leadership problem Yahoo Sports University of Michigan’s athletic department in fresh turmoil after last-minute reversal on hiring new athletic director CNN",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -763,21 +987,6 @@
    "lang": "en"
   },
   {
-   "title": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T21:46:11+00:00",
-   "summary": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times The Frantic White House Push to Get Jensen Huang Back WSJ Unpacking President Trump's financial stake in Nvidia NPR Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang a",
-   "body": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times The Frantic White House Push to Get Jensen Huang Back WSJ Unpacking President Trump's financial stake in Nvidia NPR Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang apologizes to employees Yahoo Finance Trump just handed Democrats a political gift CNN",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Colombian president blames ex-FARC rebels for car bomb blast",
    "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
    "source": "Al Jazeera",
@@ -788,21 +997,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05c84d4491-1795541069.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T21:45:05+00:00",
-   "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning The New York Times Army plans explosive detonation in Iowa despite residents' concerns PBS US army maps s",
-   "body": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning The New York Times Army plans explosive detonation in Iowa despite residents' concerns PBS US army maps show projected path of toxic dust from Iowa detonation The Guardian Public Safety Advisory: Controlled, Mitigated Detonation of Unstable Lead Azide at Iowa Army Ammunition Plant Army.mil",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -826,11 +1020,12 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
    "source": "Google News",
    "published": "2026-11-24T21:33:15+00:00",
-   "summary": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says Al Jazeera Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthis threaten Saudi ports over coalition’s Hodeidah evacuation order Al Jazeera Houthi Attack on Skyscraper in Saudi C",
-   "body": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says Al Jazeera Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthis threaten Saudi ports over coalition’s Hodeidah evacuation order Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say The New York Times Fighting a Radical Militia Was Not Part of the Plan The Atlantic",
+   "summary": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says Al Jazeera Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order Al Jazeera Houthi Attack on Skyscraper in Sau",
+   "body": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says Al Jazeera Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say The New York Times Fighting a Radical Militia Was Not Part of the Plan The Atlantic",
    "category": "Middle East",
    "is_war": false,
    "countries": [
+    "Iran",
     "Yemen",
     "Saudi Arabia"
    ],
@@ -870,34 +1065,33 @@
    "lang": "en"
   },
   {
-   "title": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0twd3M1WkVxYXdkamRYSmpJbXluNjJ5dVFLaXdtSzAtTzU1WUd3M3hsZEY4UUt4VjZwYjZrU1ZZSWItOTJhQ0NSZ25sd2l3aFNYYTJieWtjRlFBSmdaUGFURUZTSkppSWNPS2RZYmZtcUdBdVV3TnRyLVNrX2xkdTZGalJXcGZVTDhQT2dn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T21:28:43+00:00",
-   "summary": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Yahoo",
-   "body": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
    "source": "Google News",
    "published": "2026-11-24T21:27:34+00:00",
-   "summary": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking Reuters Armed men hold hostages at supermarket in top Colombian tourist destination The Guardian Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena France 24 Hostage situation r",
-   "body": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking Reuters Armed men hold hostages at supermarket in top Colombian tourist destination The Guardian Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena France 24 Hostage situation reported in Colombia as armed men flee into supermarket Al Jazeera Armed men take hostages at supermarket in Cartagena, Colombia CBS News",
+   "summary": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking Reuters Armed men hold hostages at supermarket in top Colombian tourist destination The Guardian Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations NBC News Gunmen h",
+   "body": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking Reuters Armed men hold hostages at supermarket in top Colombian tourist destination The Guardian Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations NBC News Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena France 24 Armed men take at least 25 hostages in supermarket in Colombia tourist hotspot Sky News",
    "category": "Global",
    "is_war": false,
    "countries": [
     "France"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one - TribLIVE.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW41d3hlaDZQRFJESk5MMUlnS21JZklYX0JqYU5MZGc1N2g2UmJoTFplRF9odjlzbzMzLUFQS01zYzl1ekNPTjM1cDdYWWhiLTRrYWo3aVRsYTdJRl96S0wzQVpEOVlsRURlYVQxYTVYakhGUVdLNmRGNWxzNFA3dWJjVGVFMDh1U3NOeDJ3V3d5Tm5xbjYta1cyWVRzeE80LWZWWlB6WTY3LTk2YkYxeXdzbDZGRHlWREVlOWliODZTOXht?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T21:22:38+00:00",
+   "summary": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one TribLIVE.com Measles Is a Growing Risk for Adults in the United States The New York Times Measles is rapidly spreading in US and doctors have new warning for the vaccinated The Independent ",
+   "body": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one TribLIVE.com Measles Is a Growing Risk for Adults in the United States The New York Times Measles is rapidly spreading in US and doctors have new warning for the vaccinated The Independent Measles cases are surging. Do you, or your baby, need a booster? The Baltimore Banner Measles death toll rises to 14 as national case tally nears 6,000 Ars Technica",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "",
    "lang": "en"
   },
   {
@@ -983,8 +1177,8 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0I0WE1tZkpIVlR1OW5iRTF4SFJ2STR6OXhEcnF4NThjS1Y3U051TVpxTHRSeU1nbFViQi1xcW5TcGhnc2hTVVdoR25jMFdTMEdSdS15dEhKdU1HckNQSDB2eXQtZ1luTDN4d0YwYld3WF9lYjJXY1VDMm9hcmx3bjAyNEhZLWtRMlh3UnVkX05hUUdxOHVfbDZrcW55QQ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T21:07:20+00:00",
-   "summary": "Astronomers spot record-setting quasar in the early universe Reuters Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record ABC News - Breaking News, Latest News and Videos Most Distant Quasar Ever Has Been Discovered – Hints Strongly ",
-   "body": "Astronomers spot record-setting quasar in the early universe Reuters Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record ABC News - Breaking News, Latest News and Videos Most Distant Quasar Ever Has Been Discovered – Hints Strongly At How Supermassive Black Holes Might Have Formed IFLScience New quasar record tightens constraints on black hole formation scenarios Phys.org Record-Breaking Black Hole Beacon Shines from the Early Universe Sky & Telescope",
+   "summary": "Astronomers spot record-setting quasar in the early universe Reuters Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record ABC News - Breaking News, Latest News and Videos Oldest known quasar formed 630 million years after the big ban",
+   "body": "Astronomers spot record-setting quasar in the early universe Reuters Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record ABC News - Breaking News, Latest News and Videos Oldest known quasar formed 630 million years after the big bang Popular Science Most Distant Quasar Ever Has Been Discovered – Hints Strongly At How Supermassive Black Holes Might Have Formed IFLScience New quasar record tightens constraints on black hole formation scenarios Phys.org",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1005,6 +1199,21 @@
    "lang": "en"
   },
   {
+   "title": "Ayungin Shoal: China’s Coercion Campaign and threat to PH sovereign rights - Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHNhekd5RWp0RnhsMTBhSzd3NmFGeklLQmNQV216WWhkZ2M3MzlTZG16Z1FWeTFqLU5INFlJa3Rvd3ROdnZZRjZ4N21BWlB2TGp3ZHNBTnJwa1l3WDNvQmY5QXpHZG5Sai1fck9CN1ExX3VpUXplb2RpRGZ4NDZieGhPWkc0X0tFZ3FVQmxFQS05ZWMzVksxMURkZXJCNFZ3a0FJQTZHZkZBSGJD0gGyAUFVX3lxTE0tdWd5OTlTSnNqTzFyUl80Nmt3bWltdTNPYTV3ZnktSkF3cy1OZHNpQU1ZNDFvWlFubTFLN2hqb0IwNXhnMXB2NDRCNHBOR0hrT0VvalhVMlRGZ0FfLVZvNnIxSDhiTHRYUGNtYXhFbFBmeTJhLUFNYVQ1aHlQWm5DeUU0ZVY1WFlyMnBLNUpiNVQwUFhjUjV6T0pFOHFjaUxQVHgwTmdhX2pPdjRyRWZ4YlE?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-24T21:05:00+00:00",
+   "summary": "Ayungin Shoal: China’s Coercion Campaign and threat to PH sovereign rights Inquirer.net",
+   "body": "Ayungin Shoal: China’s Coercion Campaign and threat to PH sovereign rights Inquirer.net",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
    "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1015,6 +1224,19 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDdjM1F6SDJVM3V4U29SZHVMM2ZoTlZTX3dVZVB0RkVNOFBYUEstYW9HaTFhQlBpRDRKdEpRZWQ3WnA1dGMwYkR5YksxOVFWTEtzZEk3YXFac0o3V1JOdzRNZUVIc2YwQmFWeE1zUjg1QngyLVd6bTd0UmVXS0xWTDNxZXg0VUhSdFhIQ3p5VlROQ2QtbWlwaXltOVBaQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T21:00:12+00:00",
+   "summary": "Thelma Golden to Step Down as Head of Studio Museum in Harlem The New York Times Thelma Golden To Step Down From Role as Director of Studio Museum in Harlem ARTnews.com Trailblazing Museum Director Thelma Golden Is Leaving Her Post Artnet News Thelma Golden Stepping Down as Studi",
+   "body": "Thelma Golden to Step Down as Head of Studio Museum in Harlem The New York Times Thelma Golden To Step Down From Role as Director of Studio Museum in Harlem ARTnews.com Trailblazing Museum Director Thelma Golden Is Leaving Her Post Artnet News Thelma Golden Stepping Down as Studio Museum Director After 21 Years Hyperallergic The Studio Museum In Harlem’s Thelma Golden To Hand Off Leadership In 2027 Harlem World Magazine",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1079,21 +1301,6 @@
    "lang": "en"
   },
   {
-   "title": "What’s going on with the Riemann hypothesis? - Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDVYSU4taWVWWXlzeFZzM19JWEpGa09NUlhmdmhLRzVQZVpoNHdkVUFzQVZhQmY5TDU4YlczZ2pYWUJFWmNxM2NFcWtaWlJQTGxwcnJGX1hlVkNFdTBDZ3V2ZWkwTk5IR0RUeVJGeWMwTC1xRnJXX2o3dVFXOWotNlhiOS0?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T20:34:53+00:00",
-   "summary": "What’s going on with the Riemann hypothesis? Ars Technica The Most Famous Problem in Math Was Just Solved by AI—and This Human WSJ Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem The New York Times Two groups verify mathematician’s claim that Claude helpe",
-   "body": "What’s going on with the Riemann hypothesis? Ars Technica The Most Famous Problem in Math Was Just Solved by AI—and This Human WSJ Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem The New York Times Two groups verify mathematician’s claim that Claude helped prove mathematics problem The Guardian Who is Levent Alpöge, the reclusive genius behind AI’s math conquest? Scientific American",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1106,22 +1313,6 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05ced74a94-1795542743.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclNrdUlnYW1obXBWbjMxR0FsT0lVYWJBY3U4SnhEMHNNY2xQM1lLX0dtU0txdmdBSHVfZlpqaGNNMWl5Qkd0ZGw2QVZTX196Q1FzdkI4bHQ5OVlESDJHcnB1UGM1WkpmSDNSS3RDenA4TVZ0WmFkaG5XY29pbmJrdHZ3RWlTV2RvMUpCTnNMY3FUT1pCV29wclpKNklrSFQwaF9Z?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T20:23:00+00:00",
-   "summary": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine AP News",
-   "body": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine AP News",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1140,28 +1331,12 @@
    "lang": "en"
   },
   {
-   "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
-   "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
-   "source": "NYT World",
-   "published": "2026-11-24T20:12:41+00:00",
-   "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
-   "body": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Iran",
-    "Iraq"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
    "title": "Family of teen killed by Georgia police officer demands release of body camera footage",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmdtemZiTkJrY1d6MlJuelVBNTk4NnRvak1uMDNCOHZ0S0pZNGlacC1RVmtFdFhIWU1wMVpCb2ZlZXZZb0I3MERkXzlDelFJRUplTEVGUVAxd0pYU1NScE92LWIwQVhiYV9kangySVBiQWxUd2ZEVGNNY0lLRW1sRzhrX3lLZXZRNElQanhmeFNtNkttWnI3RmdnYzJBeXFyUnA4SDBPd0N2R2lYRjRXRkxGWHhZeHVZ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T20:11:33+00:00",
-   "summary": "Family of teen killed by Georgia police officer demands release of body camera footage NBC News Ben Crump joins case of 16-year-old shot, killed by Henry County police officer WSB-TV Ben Crump joins call for bodycam footage of Georgia teen's fatal police shooting: \"Just show us t",
-   "body": "Family of teen killed by Georgia police officer demands release of body camera footage NBC News Ben Crump joins case of 16-year-old shot, killed by Henry County police officer WSB-TV Ben Crump joins call for bodycam footage of Georgia teen's fatal police shooting: \"Just show us the video\" CBS News Why More Cameras, Press Conferences, and Lawsuits Haven’t Reduced Police Killings Emerald Book The mother of the teen and her attorneys gave a press conference on the shooting Tuesday. #atlantanewsfirst #crimewatchatlanta Instagram",
+   "summary": "Family of teen killed by Georgia police officer demands release of body camera footage NBC News Attorneys question video release delay in case of 16-year-old shot, killed by Henry County officer Yahoo Ben Crump joins case of 16-year-old shot, killed by Henry County police officer",
+   "body": "Family of teen killed by Georgia police officer demands release of body camera footage NBC News Attorneys question video release delay in case of 16-year-old shot, killed by Henry County officer Yahoo Ben Crump joins case of 16-year-old shot, killed by Henry County police officer WSB-TV Ben Crump joins call for bodycam footage of Georgia teen's fatal police shooting: \"Just show us the video\" CBS News Why More Cameras, Press Conferences, and Lawsuits Haven’t Reduced Police Killings Emerald Book",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1199,22 +1374,6 @@
    ],
    "image": "https://www.rfa.org/resizer/v2/JUY6XV6IFVBIDAOOECW52IEPVY.jpg?auth=61305055ff4d0a2d916044168e740b6613d72f6425352f3cb1a1be51de2000bb&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "Ukrainian strongwoman fights to stay in America after fleeing war",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fb1RDTC10QzVkbF9wbWllUVozMzktZjZVNnZmSWRGbG9qajNxTVJGYk10TkhUd2dHWkhiMlZ4bzA5ZFlhMmxnNnZLYzNrRmZFdjdWaEZ3?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T20:05:45+00:00",
-   "summary": "Ukrainian strongwoman fights to stay in America after fleeing war Fox News",
-   "body": "Ukrainian strongwoman fights to stay in America after fleeing war Fox News",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
   },
   {
    "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
@@ -1452,7 +1611,7 @@
    "source": "Google News",
    "published": "2026-11-24T18:54:00+00:00",
    "summary": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 AP News Final 2026 midterm election results: Democrats flip another seat to expand their historic House majority. What they can and can't do next. Yahoo N.C. Democrat reflects on flipping lon",
-   "body": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 AP News Final 2026 midterm election results: Democrats flip another seat to expand their historic House majority. What they can and can't do next. Yahoo N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South' PBS A dad who bluntly defended his gay daughter just unseated a powerful Republican The Washington Post Rep. Virginia Foxx loses reelection bid after 11 terms Politico",
+   "body": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 AP News Final 2026 midterm election results: Democrats flip another seat to expand their historic House majority. What they can and can't do next. Yahoo N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South' PBS Rep. Virginia Foxx loses reelection bid after 11 terms Politico A dad who bluntly defended his gay daughter just unseated a powerful Republican The Washington Post",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1467,7 +1626,7 @@
    "source": "Google News",
    "published": "2026-11-24T18:47:16+00:00",
    "summary": "Severe Thanksgiving storms threaten millions of travelers nationwide and Macy’s parade NBC News Powerful Thanksgiving storms threaten over 250 million Americans with damaging winds, coastal flooding FOX Weather Thanksgiving storm forecast: Here’s the latest timeline on when the r",
-   "body": "Severe Thanksgiving storms threaten millions of travelers nationwide and Macy’s parade NBC News Powerful Thanksgiving storms threaten over 250 million Americans with damaging winds, coastal flooding FOX Weather Thanksgiving storm forecast: Here’s the latest timeline on when the rain and gusty winds arrive The Boston Globe Powerful Thanksgiving storm to snarl travel as powerful winds, heavy rain sweep eastern, central US AccuWeather Thanksgiving power outages possible for millions along East Coast as powerful storm takes shape New York Post",
+   "body": "Severe Thanksgiving storms threaten millions of travelers nationwide and Macy’s parade NBC News Powerful Thanksgiving storms threaten over 250 million Americans with damaging winds, coastal flooding FOX Weather Thanksgiving storm forecast: Here’s the latest timeline on when the rain and gusty winds arrive The Boston Globe The latest data on how the weather will affect Thanksgiving travel The Washington Post Thanksgiving power outages possible for millions along East Coast as powerful storm takes shape New York Post",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1490,19 +1649,6 @@
     "Myanmar"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260106__89E89GD__v1__HighRes__BangladeshMyanmarConflictLandmine-1768285414.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Third Wisconsinite dies from measles - Channel 3000",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDI5T2RUcHVYVkRhdzdpMGkwMzY1cldQYUg1a1p2eVVEa0tYaWJReVRaaEJvQU1ZNXZCcmsxbmJDd3JiTV9GcXdVa0E2QW1naVA0TmJOYkFLU3FzVWtBbjNtYjZRM2s2UUNyX2FFQkxfaWt2MVB3dWVpTVg3Nnp5Z1oxNjZ3ckFBZGZROFZIUUFtcXpJLUJ6Z1g3MktrZ29EWDlkV0MyUl9qYWpMcXE4clJEZGFzRlRYUDNN?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T18:45:00+00:00",
-   "summary": "Third Wisconsinite dies from measles Channel 3000 Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News Wisconsin Department of Health Services confirms third measles death in the state WMTV 15 NEWS Wisconsin measles outbreak claims third life, r",
-   "body": "Third Wisconsinite dies from measles Channel 3000 Wisconsin reports 3rd measles death, as illnesses spread to the general public NBC News Wisconsin Department of Health Services confirms third measles death in the state WMTV 15 NEWS Wisconsin measles outbreak claims third life, reaches 920 cases WBAY Eau Claire County confirms 2 measles cases as holiday travel begins WEAU",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1550,22 +1696,6 @@
    "lang": "en"
   },
   {
-   "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests - Yahoo News Singapore",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMlZjTEdwTHpIZ01IbkZwWnpvUEhqQlB4SzFaN3lDVFZJeVNmazFkNFZQZUtzQTZBS29mWHI5MGpNbkVlaGpjLXR5YTY5YnozaVRycVBvUjY4Wi1VbzllWUJBbm1rY1pxZE8wMVdMM1pNUWlSOXc?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T18:27:49+00:00",
-   "summary": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests Yahoo News Singapore",
-   "body": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests Yahoo News Singapore",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
    "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
    "source": "NYT World",
@@ -1596,22 +1726,6 @@
    "lang": "my"
   },
   {
-   "title": "Senior Hamas security official killed in Israeli drone strikes",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T18:20:00+00:00",
-   "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
-   "body": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795544391.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "Israeli air strike kills senior Hamas security official in Gaza",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0NNLUVXTEdiZkdkb2VjX3RaZzNkdUNVbUlkbEVmOWE2QU5tRmRad0ZyeElhdDRGRjR0a2RBX0tVaFlNZlpGT0k2VExkTmthT000YWY1c2dFQzliVjZiWFJvX2djd1AwZk1BQk1SMjZaMzhGejU0SnF3ZGtXZHpRTVVTcXpaQ3NEbjlGbVgyeXpWT0FFcTlVUVF1Smx5ZEREc2VGNjQ1OVTSAa4BQVVfeXFMTThCTWx1bnk2WXlVeWtzQk56ZUJVVVNlNkFrWkF5cnNUaE9RdW54TzBVZ25JZkc1TXJVRzhBUGo1T081MGdheWdwajh1YlNQZE1mT0NsYUo2SGFpOWhlTnluYmxhRlVDdEE0dlg4MEZaS3V0cWx1aWdYbE1fOG0xX19JTlY1Z1NudW1oYjhnVXBkWGRQTjZ5VmRaVEhMM3BfT1VTSEstaHJ4ZnBnMFZn?oc=5",
    "source": "Google News · War",
@@ -1628,28 +1742,12 @@
    "lang": "en"
   },
   {
-   "title": "Ukrainian foreign minister advises Putin to stop complaining about strikes on oil refineries and end war instead - Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaRzdqMnljeS00YldWbW9hVFljNVBWMi1uYlVUODdWNEVfdzJLVzQyUXVYTnhlX1hXc2JoMVpIWmhlbnFQT3c3UWMwYnMwTzEzRWEyLWU1eDdVa0tmUE9GcDczNXTSAXBBVV95cUxNZFVjcFlQckk2X0tOYjdKS0lnSkJVbERHY05ybWkzYl9OQkhQX0VTa3FpMExYaWR5aWRuNUtmTGFoQ1FQMHN3MXA1dHlGZXlQcjJqYWFEUld5WFZ5c2JpVUs1LXk0akd0UlNCem1icThD?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T18:12:00+00:00",
-   "summary": "Ukrainian foreign minister advises Putin to stop complaining about strikes on oil refineries and end war instead Українська правда",
-   "body": "Ukrainian foreign minister advises Putin to stop complaining about strikes on oil refineries and end war instead Українська правда",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "RJ Luis Jr. reportedly will sue SEC, Greg Sankey for violating injunction that made him eligible at LSU - Yahoo Sports",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbjVyRkxuckUzVGRLN19iblJDVkRvOTRwWUcyQ0UzMDFlMlJ5TTAxOUg4akNVb1FpeU1lVjU1c2x6aXVkeTFMRnRQd0xLaWtoZHdzMDEyS0pBN0VwMkJuNngwWnZlQUFVdWlLNVl6d0lBOVFURjJVZC1YdEtNc2s0c3BpYlV5b3ZwWHBPQ3ZwbkY3V0xyTVUxNTVydGN6ZlJsXzM1UHYwajdOOWI2UHF6TGQ3SmVaelhGXzRrTUdoOTFFdHdIWmJyZzU1N3BuSWNucXYyVUlSTW01MzM2RnduelJNSXg0QnZxUnppTklvSGI0NnIxX0xpS3prdzBFbmV6enM0?oc=5",
    "source": "Google News",
    "published": "2026-11-24T18:10:18+00:00",
-   "summary": "RJ Luis Jr. reportedly will sue SEC, Greg Sankey for violating injunction that made him eligible at LSU Yahoo Sports SEC to consider termination of LSU's membership at Dec. 3 meeting ESPN Inside the SEC's unprecedented LSU expulsion vote: What's at stake and what comes next? CBS ",
-   "body": "RJ Luis Jr. reportedly will sue SEC, Greg Sankey for violating injunction that made him eligible at LSU Yahoo Sports SEC to consider termination of LSU's membership at Dec. 3 meeting ESPN Inside the SEC's unprecedented LSU expulsion vote: What's at stake and what comes next? CBS Sports SEC mulling LSU's termination as member school after latest incident involving RJ Luis — 'Get your popcorn ready' Yahoo Sports LSU's future in SEC up for discussion amid federal lawsuit WWLTV.com",
+   "summary": "RJ Luis Jr. reportedly will sue SEC, Greg Sankey for violating injunction that made him eligible at LSU Yahoo Sports SEC mulling LSU's termination as member school after latest incident involving RJ Luis — 'Get your popcorn ready' Yahoo Sports LSU asks judge to throw out SEC's 'u",
+   "body": "RJ Luis Jr. reportedly will sue SEC, Greg Sankey for violating injunction that made him eligible at LSU Yahoo Sports SEC mulling LSU's termination as member school after latest incident involving RJ Luis — 'Get your popcorn ready' Yahoo Sports LSU asks judge to throw out SEC's 'unwarranted' suit against Tigers ESPN LSU's future in SEC up for discussion amid federal lawsuit WWLTV.com Inside the SEC's unprecedented LSU expulsion vote: What's at stake and what comes next? CBS Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1689,47 +1787,15 @@
    "lang": "en"
   },
   {
-   "title": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer - A.V. Club",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmM2UnM1NFhkQjllY2R6RzBtdlBxaEFMelhXZVNkcGZGLTk5a2N2WWFJTm5INUVMdno0dzZwbTdwWXVqNzg4cVJCYUNBMF9IME1KclJURl9NMGFmN2Z5YWx1TGNPQlBCb0FjYUdTTHZmQlJQZUk0MmlrQnctVHVxT1JLNA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T18:02:01+00:00",
-   "summary": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer A.V. Club Netflix’s ‘The Murder of JonBenét Ramsey’ Haunting Trailer Shines Spotlight on Melissa McCarthy and Clive Owen The Hollywood Reporter ‘The Murder of JonBenét Ramsey’ Puts Family",
-   "body": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer A.V. Club Netflix’s ‘The Murder of JonBenét Ramsey’ Haunting Trailer Shines Spotlight on Melissa McCarthy and Clive Owen The Hollywood Reporter ‘The Murder of JonBenét Ramsey’ Puts Family’s Former Boulder, CO, Residence in the Spotlight Once Again Yahoo The Murder of JonBenét Ramsey Trailer Investigates a Famous Tragedy Netflix Melissa McCarthy Breaks Down in The Murder of JonBenét Ramsey Vulture",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-   "link": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T18:00:00+00:00",
-   "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-   "body": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "NATO"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video - Variety",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkdpTExfSjZaVmhvTllXYWRtTnlUYzJyQVhDYkNKemo5ekZPbjBGU3JrQkt2RXY3RWVFUmh1akZyTGE5X0J1Rk13cFp0akVqR2FBeUltY0JvMVVfdER1al9sTW04RkV1ZV9oOGtRN0xHUmhUOGNPUEtxeG1nUDR3UzhaSFhmUzhsUnFJSENIcU14RS1qeS1BSEpB?oc=5",
    "source": "Google News",
    "published": "2026-11-24T18:00:00+00:00",
-   "summary": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video Variety ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon Deadline Prime Video Determines LOTR: Rings of Power’s Future in Surprising Season 4 Renewal Update Yahoo ‘The Rin",
-   "body": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video Variety ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon Deadline Prime Video Determines LOTR: Rings of Power’s Future in Surprising Season 4 Renewal Update Yahoo ‘The Rings of Power’ Renewed Ahead of Finale’s Surprise Early Drop TV Insider Amazon Confirms Rings of Power Season 4's Status Ahead of Season 3 Finale Polygon.com",
+   "summary": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video Variety ‘The Rings of Power’ Officially Renewed for Season 4 With Showrunners Returning The Hollywood Reporter ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon Deadline Pr",
+   "body": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video Variety ‘The Rings of Power’ Officially Renewed for Season 4 With Showrunners Returning The Hollywood Reporter ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon Deadline Prime Video Determines LOTR: Rings of Power’s Future in Surprising Season 4 Renewal Update Yahoo ‘The Rings of Power’ Renewed Ahead of Finale’s Surprise Early Drop TV Insider",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1739,42 +1805,11 @@
    "source": "Google News",
    "published": "2026-11-24T17:50:49+00:00",
    "summary": "Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year Fox News 9th measles death recorded in Pennsylvania as outbreak surpasses 1,600 cases in the state CBS News Pennsylvania reports ninth measles death in ongoing state outbreak Al Jazeera DOH R",
-   "body": "Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year Fox News 9th measles death recorded in Pennsylvania as outbreak surpasses 1,600 cases in the state CBS News Pennsylvania reports ninth measles death in ongoing state outbreak Al Jazeera DOH Reports Measles-Associated Death in Centre County StateCollege.com Mixed reaction in Pennsylvania as U.S. state remains epicenter of measles outbreak Yahoo",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Bridges become new battlefield between Russia and Ukraine as front line gains freeze - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2Z2WkFRLXl2YzJoUWRfUVc2Q2JreC12M2I3ckwyMl9fMjFURC1rMXMzTHN0TVA0Y2QxY1NUdm9ZVDh4c2pUZDMwZkUxNnI1Z1oxeTBDNS1kQ1c1RFE3NmVad0xXWXBydGFzcW1IZWJtcDJPcGlSejNHMjNVWXMtbks4UjE2b0w0T0xELWZxSmFCQk1HaFNROVJZUmNuQUFBQlFaN1p4azgyU00xTTVFTzdYSQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T17:48:05+00:00",
-   "summary": "Bridges become new battlefield between Russia and Ukraine as front line gains freeze The Kyiv Independent",
-   "body": "Bridges become new battlefield between Russia and Ukraine as front line gains freeze The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Should freedom of movement be a right or a privilege?",
-   "link": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T17:45:00+00:00",
-   "summary": "Is freedom of movement a right or a privilege?",
-   "body": "Is freedom of movement a right or a privilege?",
+   "body": "Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year Fox News 9th measles death recorded in Pennsylvania as outbreak surpasses 1,600 cases in the state CBS News Pennsylvania reports ninth measles death in ongoing state outbreak Al Jazeera DOH Reports Measles-Associated Death in Centre County StateCollege.com Pennsylvania death toll reaches 9 as measles outbreak continues to grip the state Pittsburgh Post-Gazette",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/MOBILITY-THUMB-1795512183.jpg?resize=800%2C600&quality=80",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1809,31 +1844,30 @@
   {
    "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qbHhRaVRPVzFQWmtWbS1Dc1RHSE9hSmJxVnhaR0tKREtLYXdicDBmTjZqU0lpUElRTnNjSFZGUmZhY1hVdFF2QzMxVFdJV0d6Y2xyZFdnbl8wUWs?oc=5",
-   "source": "Google News · Ukraine",
+   "source": "Google News",
    "published": "2026-11-24T17:39:32+00:00",
-   "summary": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC",
-   "body": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC",
+   "summary": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC UK warns of Russian sabotage threat to companies that supply Ukraine Reuters MI5 warns UK defense firms they are target of Russian attacks POLITICO.eu CEOs from sensitive sectors receive brief",
+   "body": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC UK warns of Russian sabotage threat to companies that supply Ukraine Reuters MI5 warns UK defense firms they are target of Russian attacks POLITICO.eu CEOs from sensitive sectors receive briefings on Russia threats GOV.UK British officials warn UK firms aiding Ukraine to brace for Russian sabotage threats ABC News - Breaking News, Latest News and Videos",
    "category": "Ukraine / Russia",
    "is_war": false,
    "countries": [
     "Ukraine",
-    "Russia"
+    "Russia",
+    "United Kingdom"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkwzNHRNSzFpRVAxdHZPdjBObVVLUHFXZVZwbGs3WmN1T0Q0TTlpWW45V2MwYUlSNklRZWlUUGRqVmI0OWFydTdrdHRnenQ4eVl0elgyVTBhMlJoajJkdndoUkRNek1mTTJrdVllS2xPZzdYNHUwRXRtTWQ0clhac29RQTJWbHNFLXJPY2Z6aHZsVnZGbG1pdlZzRXdsbVVaeDhiYUgxcDdLTjI0TXotekl4aFUxUHcz0gG-AUFVX3lxTE9ad19PM0kyazMzUS1weldRR205S19ZSGU1bUUwdFJfUnNkMUFjekw2UTVtQjY2Y2tOa3R2a253b3NFVl9qa3hlMUxFNi1MSVhPcXROZWZyb2VBcjU4bmpGdV9Sa0w1U29SZGtnOW52TlhCT25GSWl3a2huakloMDRkTFMzM0pnOTdRLUhmYkxPYkMxVnlyaGpKYkQ0dE0xUDBZcElYTHo4UEFpMDZBNFplWTd6NnhKN3VEdC1IaHc?oc=5",
+   "title": "Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and More",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlNjdOdnFqOXdGX00zak9FbWIyOXFuWmpsVDM0aHRtdmp6b1dsSTlvOXpjeVdxQl9UVWZXUVZ1T2dPYzlpeXNFZC1oTkctWlJYanNWcUdRalp5X0RBeG1Idkp0QXZJNVpIbTd4Y1RNcV9MTGJCaTdDTVB4Yw?oc=5",
    "source": "Google News",
-   "published": "2026-11-24T17:21:00+00:00",
-   "summary": "Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor The Hill Trump awards Rudy Giuliani the Presidential Medal of Freedom The Washington Post Trump awards Medal of Freedom to former NYC Mayor Rudy Giuliani ABC News - Breaking News, Latest News and Videos Giuli",
-   "body": "Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor The Hill Trump awards Rudy Giuliani the Presidential Medal of Freedom The Washington Post Trump awards Medal of Freedom to former NYC Mayor Rudy Giuliani ABC News - Breaking News, Latest News and Videos Giuliani ‘very, very humbled’ to be getting Presidential Medal of Freedom The Hill Trump rewards Rudy Giuliani, his former legal adviser, with Medal of Freedom MS NOW",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
+   "published": "2026-11-24T17:20:57+00:00",
+   "summary": "Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and More The New York Times I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN This AirPods Pro 3 deal is the one to grab before Black Friday NBC News Best Black Friday Apple de",
+   "body": "Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and More The New York Times I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals CNN This AirPods Pro 3 deal is the one to grab before Black Friday NBC News Best Black Friday Apple deals 2026: New record lows AirPods, MacBook Air, and Apple Watch Mashable Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More MacRumors",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1870,52 +1904,7 @@
    "lang": "en"
   },
   {
-   "title": "South African court convicts Zimbabwean of trying to fight in Russia-Ukraine war",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0xsTzVtcGdvTV9nWTlqVVVhV2RIZUd3ZmlqcmxqVnBsQUxwNGk2a2Y0T0lsMXFTWkJXSmE2djE5X0FrVXdvUTV6Z2N0b2JRQTlmWVVjVFR3RVk?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T17:04:00+00:00",
-   "summary": "South African court convicts Zimbabwean of trying to fight in Russia-Ukraine war BBC",
-   "body": "South African court convicts Zimbabwean of trying to fight in Russia-Ukraine war BBC",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Katz: Iran is developing chemical weapons as a ‘game changer,’ Israel will not allow it - Ynetnews",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtZmlFclVvV1pFaVVYcUhLTHVvYXVlMnNuUWlZMk9LZ0MyTHVMWExPcWxnTkxaY2dTX0toX1BUUE1sU1hMNTdTWDdIdjJvMzhCdU53aWh3?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-24T17:01:43+00:00",
-   "summary": "Katz: Iran is developing chemical weapons as a ‘game changer,’ Israel will not allow it Ynetnews",
-   "body": "Katz: Iran is developing chemical weapons as a ‘game changer,’ Israel will not allow it Ynetnews",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Hexed’ Review: Disney’s Bewitching Animation Is A Surprisingly Edgy YA Fantasy - Deadline",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVBBNFk4cFduV19wYVlqLUJ6dGlDT2lxN3dobXlNdzRLckhPYmpBVVdzMW1xcDFLY0x1bmNZcjVteFpQcUxjNXg5aldqdzhmVENxTnJIM0pBMmExNVU2LXFENU9SeENJTkxxQkFwWW5ZMi1FblZkSUJjWkg3b3J1QUF5bS1NZWtFdm5OX0RWb0tlZld3?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T17:00:00+00:00",
-   "summary": "‘Hexed’ Review: Disney’s Bewitching Animation Is A Surprisingly Edgy YA Fantasy Deadline Hexed review – Disney’s witchy caper is a wicked disappointment The Guardian A Magical Behind-the-Scenes Look at ‘Disney’s Hexed’ with Hailee Steinfeld, Rashida Jones, and Jodie Foster The Wa",
-   "body": "‘Hexed’ Review: Disney’s Bewitching Animation Is A Surprisingly Edgy YA Fantasy Deadline Hexed review – Disney’s witchy caper is a wicked disappointment The Guardian A Magical Behind-the-Scenes Look at ‘Disney’s Hexed’ with Hailee Steinfeld, Rashida Jones, and Jodie Foster The Walt Disney Company Disney movie 'Hexed' explores female power through witches and family bonds Reuters 'Hexed' Review: Hailee Steinfeld, Rashida Jones in Disney's Fantasy The Hollywood Reporter",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "သမိုင်းတလျှောက် အမြင့်ဆုံးစစ်အသုံးစရိတ်သုံးစွဲမည့် နေပြည်တော်စစ်အုပ်စု",
+   "title": "နေပြည်တော်စစ်အုပ်စု၏ စစ်အသုံးစရိတ် သမိုင်းတစ်လျှောက် အမြင့်ဆုံးစံချိန်တင်",
    "link": "https://myanmar-now.org/mm/news/82478/",
    "source": "Myanmar Now Burmese",
    "published": "2026-11-24T16:58:17+00:00",
@@ -2092,7 +2081,7 @@
    "source": "RFA Burmese",
    "published": "2026-11-24T02:05:10+00:00",
    "summary": "ရှေ့လျှောက် ဒီစစ်အစိုးရအပေါ် ထောက်ခံမှုတွေ သိပ်ပြီး ထက်ထက်သန်သန် မရှိတော့တာမျိုး ဖြစ်လာနိုင်တယ်လို့ ထင်ပါတယ်။",
-   "body": "RFA: မကြာခင်က မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ ချမှတ်လိုက်တဲ့ အိုင်စီဂျေ ဆုံးဖြတ်ချက်တွေအပေါ် ဘယ်လိုထင်မြင်ပါသလဲ။\n\nကယ်လီ (Kelly): သူတို့ရဲ့ မှတ်ချက်တွေထဲမှာ ကျူးလွန်သူတွေက စစ်တပ်ဖြစ်တယ် ဆိုတာအပြင် အဲဒီအချိန်က ကာကွယ်ရေးဦးစီးချုပ်ဖြစ်တဲ့ မင်းအောင်လှိုင်ကို အထူးအာရုံစိုက်ခဲ့တဲ့ကိစ္စက တော်တော့်ကို စိတ်ဝင်စားစရာကောင်းတယ်လို့ ကျွန်မ မြင်မိပါတယ်။ အဲဒါက ၂၀၁၇ ဖြစ်ရပ်ကို အရပ်သားအစိုးရက ကိုင်တွယ်ခဲ့တာမဟုတ်ဘဲ စစ်တပ်ကပဲ ကြိုးကိုင်ခဲ့တယ်ဆိုတဲ့၊ လူအများစု ဆိုလိုချင်နေတဲ့အရာကို တရားရုံးက အသိအမှတ်ပြုလိုက်ပုံပါပဲ။ ဒါကြောင့် ဒါက စိတ်ဝင်စားစရာကောင်းတဲ့ အချက်တစ်ချက်ဖြစ်တယ်လို့ ကျွန်မထင်ပါတယ်။\n\nနောက်ထပ် စိတ်ဝင်စားစရာကောင်းတဲ့အချက်ကို ကြည့်မယ်ဆိုရင် ရိုဟင်ဂျာဆိုတာကို လူမျိုးနွယ်အုပ်စုတစ်စု အနေနဲ့ တရားရုံးက ဘယ်လိုကိုင်တွယ်ခဲ့သလဲ ဆိုတာပါ။ သူတို့က နိုင်ငံသားဖြစ်ခွင့်ကိစ္စကို ထည့်မပြောပါဘူး၊ ဘာကြောင့်လဲဆိုတော့ အဲဒါက သူတို့ရဲ့လုပ်ပိုင်ခွင့်ကို နယ်ပယ်ကျော်လွန်တယ်လို့ သူတို့ပြောခဲ့လို့ပါ။ ဒါပေမဲ့ သူတို့ အသိအမှတ်ပြုခဲ့ပါတယ်။ ဘာလို့လဲဆိုတော့ လူမျိုးတုံးသတ်ဖြတ်မှု ရှိ၊ မရှိ လေ့လာဖို့အတွက် ဒါဟာ မရှိမဖြစ်လိုအပ်ချက် ဖြစ်ပါတယ်။ ဒါဟာ တစုတစည်းတည်းရှိတဲ့ လူမျိုးနွယ်အုပ်စုတစ်စု ဖြစ်တယ်၊ တခြားမျိုးနွယ်စုတွေနဲ့ ကွဲပြားခြားနားတဲ့ အုပ်စုတစ်စုဖြစ်တယ်လို့ ပြောဖို့ လိုအပ်ပါတယ်။ ပြီးတော့ ရိုဟင်ဂျာတွေဟာ ရခိုင်ပြည်နယ်မြောက်ပိုင်းမှာ မျိုးဆက်လေးဆက်မက နေထိုင်ခဲ့တယ်။ သူတို့မှာ ကိုယ်ပိုင် ဝိသေသလက္ခဏာ ရှိတယ်၊ ပြီးတော့ ဒီအချက်က တရားရုံးရဲ့ တွေ့ရှိချက်တွေထဲမှာ အပါအဝင် ဖြစ်တယ်ဆိုတာကို သူတို့ မှတ်တမ်းတင်ထားခဲ့ပါတယ်။ ဒါဟာလည်း ဒီအမှုအတွက် အရမ်းအရေးကြီးတဲ့ အရာတစ်ခုလို့ ကျွန်မ ထင်ပါတယ်။\n\nပြီးတော့ နောက်ဆုံးအနေနဲ့ လျော်ကြေးပေးရေးကို ကြည့်မယ်ဆိုရင် တရားရုံးက လျော်ကြေးပေးဖို့ အမိန့်ချ ခဲ့တဲ့အတွက် မြန်မာနိုင်ငံထဲက အမျိုးမျိုးသော သက်ဆိုင်သူတွေနဲ့၊ ဒီအမှုမှာ ပါဝင်ပတ်သက်နေတဲ့ ပြင်ပအင်အား စုတွေက လျော်ကြေးတောင်းဆိုမှုတွေအပေါ် ဘယ်လိုတုံ့ပြန်မလဲဆိုတာက စိတ်ဝင်စားစရာတစ်ခု ဖြစ်လာမှာပါ။\n\nကျွန်မ ဒီအမှုကို ဆက်လက်လေ့လာနေတုန်း၊ ဖတ်နေတုန်းပါပဲ။ နောက်ဆက်တွဲ သက်ရောက်မှုအားလုံးကို နားလည်ဖို့ ကြိုးစားနေတုန်းပါ။ အရေးကြီးတယ်လို့ ကျွန်မထင်တဲ့ အချက်တစ်ခုကတော့… လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်ခဲ့တယ်ဆိုတဲ့ တွေ့ရှိချက်တွေ ရဖို့အတွက် ဥပဒေကြောင်းဆိုင်ရာ စံနှုန်းတွေကို လျှော့ချရလိမ့်မယ်ဆိုတဲ့ ဆွေးနွေးမှုတချို့ ရှိခဲ့ပေမဲ့ သူတို့ မလျှော့ချခဲ့ပါဘူး။ လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်တဲ့အကြောင်း ဆုံးဖြတ်တဲ့အခါမှာ အင်မတန် စေ့စပ်သေချာခဲ့ပြီး သူတို့ ရှာဖွေရမယ့် တခြားအချက်နှစ်ခုဖြစ်တဲ့ ‘နိုင်ငံတော်ရဲ့တာဝန်ရှိမှု’ နဲ့ ‘ရည်ရွယ်ချက်’ တို့အကြောင်းကို အသေးစိတ် တိတိကျကျ ခွဲခြမ်းစိတ်ဖြာမှုတွေ လုပ်ခဲ့ပါတယ်။\n\nဒါဟာ ရိုဟင်ဂျာတွေအတွက် အလွန်အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခု ဖြစ်တယ်ဆိုတာ ထင်ရှားပါတယ်။ မြန်မာနိုင်ငံဟာ ဘယ်လိုနိုင်ငံမျိုးဖြစ်လာမလဲဆိုတာကို ပြဖို့ကြိုးစားနေတဲ့အချိန်မှာ နိုင်ငံအတွက်လည်း အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခုဖြစ်တယ်လို့ ကျွန်မထင်ပါတယ်။ ပြီးတော့ ကမ္ဘာလုံးဆိုင်ရာအရလည်း ဒါဟာ အရမ်းအရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခု ဖြစ်ပါတယ်။ ဘာကြောင့်လဲဆိုတော့ နိုင်ငံတစ်ခုကို လူမျိုးတုံး သတ်ဖြတ်မှုအတွက် တာဝန်ရှိတယ်လို့ ICJ ကဆုံးဖြတ်တာ ဒါဟာ ပထမဆုံးအကြိမ် ဖြစ်လို့ပါ။\n\nRFA: ဆုံးဖြတ်ချက်ထွက်လာပြီးတဲ့နောက် စစ်အုပ်စုရဲ့ တုံ့ပြန်မှုကတော့… ဆုံးဖြတ်ချက်ဟာ တရားမျှတမှု မရှိဘူးပေါ့။ တကယ်လို့ သူတို့ ICJ ဆုံးဖြတ်ချက်ကို မလိုက်နာဘူးဆိုရင် ဘယ်လိုအကျိုးဆက်တွေ ဖြစ်လာမလဲ။\n\nကယ်လီ (Kelly): သူတို့က နိုင်ငံတကာဥပဒေကို အမြဲတမ်း လျစ်လျူရှုကြပြီး သူတို့နဲ့ ဆိုင်တယ်လို့ ထင်ပုံမရပါ ဘူး။ ဒါကြောင့် ကျွန်မတော့ သိပ်မအံ့သြပါဘူး။ အိုင်စီဂျေရဲ့ တရားစီရင်ရေးလုပ်ငန်းစဉ်တွေ တရားမျှတမှု မရှိဘူးလို့ သူတို့ထင်တာကတော့ ကျွန်မအတွက် ရယ်စရာကောင်းပါတယ်။ ဘာကြောင့်လဲဆိုတော့ ဒီတရားစီရင် ရေးရဲ့ အဆင့်တိုင်းမှာ သူတို့ ပါဝင်ခဲ့ကြလို့ပါ။ သိတဲ့အတိုင်းပဲ၊ စစ်အုပ်စုဟာ ဒီတရားစီရင်ရေးလုပ်ငန်းစဉ်တွေမှာ ကိုယ်စားပြုခွင့်ရဖို့ NUG နဲ့အပြိုင် ကြိုးစားခဲ့ပါတယ်။ ပြီးတော့ သူတို့က သက်သေအထောက်အထားတွေ တင်ပြခဲ့တယ်၊ ရှေ့နေတွေငှားခဲ့တယ်၊ ခုခံချေပချက်တွေ တင်ပြခဲ့ကြတယ်။ နောက်ဆုံးမှာတော့ သူတို့ ရှုံးနိမ့် ခဲ့ပါတယ်။ ပြီးတော့ တရားသူကြီးအားလုံးရဲ့ ချွင်းချက်မရှိထောက်ခံမဲနဲ့ မဟုတ်ခဲ့တဲ့အတွက် အဲဒါဟာ တရားမျှတမှု မရှိဘူးလို့ သူတို့ ထင်ကြပါတယ်။ စစ်အုပ်စုဟာ ဥပဒေစိုးမိုးရေး ဘယ်လိုအလုပ်လုပ်သလဲဆိုတာ ဖြစ်ဖြစ်၊ ဒါမှမဟုတ် ဒီမိုကရေစီစနစ်မှာ မဲအများစုနဲ့ ဘယ်လိုအလုပ်လုပ်သလဲ ဆိုတာကိုဖြစ်ဖြစ် အခုထိ နားလည်ပုံ မရသေးပါဘူး။ ဒါက သူတို့ကို ပိတ်ဆို့ထားတဲ့ အတားအဆီးတစ်ခုလို ဖြစ်နေပုံရပါတယ်။\n\nပြီးတော့ ဒီလူတွေ ဆက်ပြီး နားလည်မှုလွဲနေတာကတော့ ဥပဒေတွေကို ချိုးဖောက်ပြီး မြန်မာပြည်သူတွေကို ပြစ်ဒဏ်ကင်းလွတ်ခွင့်နဲ့ ညှဉ်းပန်းနှိပ်စက်လို့ ရတယ်လို့ သူတို့ ထင်နေတာပါ။ ဘာကြောင့်လဲဆိုတော့ ဆယ်စုနှစ် ပေါင်းများစွာ သူတို့က လွတ်မြောက်နေခဲ့ကြလို့ပါ။\n\nဒါကြောင့် သူတို့က ညှဉ်းပန်းနှိပ်စက်မှုတွေနဲ့ ကြောက်စရာကောင်းလောက်တဲ့ ချိုးဖောက်မှုတွေအတွက် ပြစ်ဒဏ်ကနေ ကင်းလွတ်နေကျ ဖြစ်နေပြီး အခုလည်း ဆက်ပြီးလွတ်မြောက်နေကြတုန်းပါပဲ။ ပြီးတော့ နိုင်ငံတကာ လူသားချင်းစာနာထောက်ထားမှုဥပဒေရဲ့ အခြေခံအကျဆုံး စည်းမျဉ်းဖြစ်တဲ့ အရပ်သားတွေနဲ့ အရပ်သားတွေရဲ့ အိုးအိမ်အဆောက်အအုံတွေကို တိုက်ခိုက်တဲ့လုပ်ရပ်တွေ လုပ်နေတုန်းပါပဲ။\n\nဒါ သူတို့က တမင်လုပ်နေတာပါ၊ မတော်တဆ ဖြစ်တာမဟုတ်ပါဘူး၊ ဘေးထွက်ဆိုးကျိုးမျိုး မဟုတ်ပါဘူး၊ ပြီးတော့ သူတို့ လွတ်မြောက်နေကြပါတယ်။ တကယ်တော့ နိုင်ငံတော်တော်များများက သူတို့နဲ့ ဆက်ဆံနေကြတဲ့အတွက် သံတမန်ရေးအရ အတော်လေး အဆင်ပြေနေပုံရပါတယ်။\n\nဒါကြောင့် သူတို့ လုပ်ချင်ရာလုပ်ပြီး လွတ်မြောက်နေကျဖြစ်နေတာလို့ ကျွန်မထင်ပါတယ်။ ပြီးတော့ တစ်ယောက်ယောက်က ခင်ဗျားလုပ်ခဲ့တဲ့အမှားအတွက် အကျိုးဆက်တွေ ရှိလာလိမ့်မယ် လို့ ပြောတဲ့အခါကျတော့ သူတို့လုပ်ရပ်နဲ့ပတ်သက်လို့ ရင်ဆိုင်ဖြေရှင်းရတာမျိုး မရှိခဲ့ဘူးတော့ လုံးဝ အံ့အားသင့်သွားတာမျိုးပါ။\n\nRFA: ဟုတ်ကဲ့။ ဒါဆို ကျွန်တော်ကြားတာကတော့ အခု နိုင်ငံတချို့က ဒီအမှုကို ကုလသမဂ္ဂလုံခြုံရေးကောင်စီတင်ဖို့ ကြိုးစားနေကြတယ်ပေါ့။ ဒါဆို အဲဒါက နောက်တစ်ဆင့် ဖြစ်လာနိုင်မလား။\n\nကယ်လီ (Kelly): ပုံမှန်အားဖြင့်တော့ ဒါဟာ နောက်တစ်ဆင့် ဖြစ်လာမှာပါ၊ မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ လုံခြုံရေး ကောင်စီမှာ ဦးဆောင်တင်သွင်းတတ်တဲ့ ယူကေ (UK) ရော ပြင်သစ်ပါ နှစ်နိုင်ငံစလုံးက ဒီအမှုကိုတင်ဖို့ ရည်ရွယ် ထားတဲ့အကြောင်း ကြေညာထားတယ်လို့ ကျွန်မ ထင်ပါတယ်။\n\nအားလုံးသိတဲ့အတိုင်းပဲ၊ မြန်မာနိုင်ငံအ‌ရေးဟာ အရင်တုန်းကလည်း လုံခြုံရေးကောင်စီကို ရောက်ခဲ့ဖူးပါတယ်။ ဒါပေမဲ့ တညီတညွတ်တည်း မဆုံးဖြတ်နိုင်တဲ့ကိစ္စတစ်ခုလည်း ဖြစ်ပါတယ်။\n\nအဲဒီအကြိမ်တွေတုန်းကလည်း စစ်အစိုးရကို လက်နက်ရောင်းဝယ်မှုပိတ်ပင်ရေးတို့၊ တခြား ဒဏ်ခတ်ပိတ်ဆို့ အရေးယူတာတို့ လုပ်မယ်ဆိုရင် ရုရှားနဲ့ တရုတ်က အမြဲ ပြင်းပြင်းထန်ထန် ကန့်ကွက်ခဲ့တာပါ။\n\nပြီးတော့ တချို့အချိန်တွေမှာ အမေရိကန်၊ ယူကေနဲ့ တခြား အနောက်နိုင်ငံတွေတောင်မှ လုံခြုံရေးကောင်စီထဲမှာ အားကောင်းခဲ့တာမျိုး မရှိခဲ့ပါဘူး။ ဒါဟာ လုံခြုံရေးကောင်စီမှာ နောက်တစ်ဆင့် ဆက်သွားစေချင်တဲ့ နိုင်ငံတွေအတွက် တကယ်ကို စိတ်ပျက်အားလျော့စရာ ဖြစ်ခဲ့ပါတယ်။\n\nအဲဒီလို စိတ်ပျက်စရာအခြေအနေ ဆက်ရှိနေဦးမယ်လို့ ကျွန်မထင်ပါတယ်။ လုံခြုံရေးကောင်စီရဲ့ အမြဲတမ်း အဖွဲ့ဝင်နိုင်ငံတွေက အဓိပ္ပာယ်ရှိတဲ့လုပ်ဆောင်ချက် မှန်သမျှကို ဆက်ပြီးပိတ်ပင်နေတာကို ကျွန်မတို့ ဆက်တွေ့ရဦးမယ်လို့ ထင်ပါတယ်။ ဒါပေမဲ့ ဖိအားပေးမှုတွေလည်း ဆက်ရှိနေလိမ့်မယ်လို ထင်ပါတယ်။\n\nစစ်အုပ်စုအတွက် တခြားနိုင်ငံတွေဆီကရနိုင်တဲ့ ထောက်ခံမှုတွေထဲမှာ ဒါဟာ အမြင့်ဆုံးဖြစ်ကောင်း ဖြစ်နိုင်တယ်လို့ ကျွန်မ ထင်ပါတယ်။\n\nသိတဲ့အတိုင်းပဲ၊ နောက်ကွယ်ကနေ ကြိုးကိုင်နိုင်စွမ်းအများကြီးရှိတဲ့ တရုတ်လိုနိုင်ငံမျိုးတောင် မင်းအောင်လှိုင်နဲ့ ဆက်ဆံရတာ အရမ်းခက်ခဲတာ တွေ့ရပါလိမ့်မယ်။ မင်းအောင်လှိုင်က သိတဲ့အတိုင်းပဲ၊ သူ့ကို ကာကွယ်ပေးတဲ့သူကိုတောင် နောက်ပိုင်းမှာ ပြန်တိုက်ခိုက်ပါတယ်။ ဒါဟာ သူတို့အတွက် သူ့ကို ကိုင်တွယ်ရတာ အရမ်းခက်ခဲတယ်လို့ ကျွန်မ ထင်ပါတယ်။ ဒါကြောင့် ရှေ့လျှောက် ဒီစစ်အစိုးရအပေါ် ထောက်ခံမှုတွေ သိပ်ပြီး ထက်ထက်သန်သန် မရှိတော့တာမျိုး ဖြစ်လာနိုင်တယ်လို့ ကျွန်မ ထင်ပါတယ်။ ဘယ်လိုပဲဖြစ်ဖြစ် အဲဒီလို ဖြစ်လာမယ်လို့ ကျွန်မ မျှော်လင့်ပါတယ်။\n\n“မင်းအောင်လှိုင်က သူ့ကို ကာကွယ်ပေးတဲ့သူကိုတောင် နောက်ပိုင်းမှာ ပြန်တိုက်ခိုက်ပါတယ်... ရှေ့လျှောက် ဒီစစ်အစိုးရအပေါ် ထောက်ခံမှုတွေ သိပ်ပြီး ထက်ထက်သန်သန် မရှိတော့တာမျိုး ဖြစ်လာနိုင်တယ်”\n\nRFA: ဟုတ်ကဲ့။ ရိုဟင်ဂျာနဲ့ပတ်သက်ပြီး ဒါဟာ လူမျိုးတုံးသတ်ဖြတ်မှုပေါ့။ ဒါပေမဲ့ ခင်ဗျားက နိုင်ငံတစ်ခုလုံးအတွက်၊ မြန်မာနိုင်ငံအတွက် အလုပ်လုပ်နေတာလေ။ ပြီးတော့ ခင်ဗျားက မြန်မာ့အရေးကို ဆယ်စုနှစ်ပေါင်းများစွာ အလုပ်လုပ်ခဲ့တာ ဆိုတော့ အခုသိတဲ့အတိုင်းပဲ စစ်ကိုင်း၊ မကွေး၊ ကရင်၊ ကရင်နီ... အများကြီးပဲလေ၊ အဲဒီဒေသတွေအားလုံးမှာ ဖြစ်ပျက်နေတာ။ ပြည်သူတွေက တရားမျှတမှု ရရှိဖို့ပေါ့။ အဲဒီမှာ လူ့အခွင့်အရေး ချိုးဖောက်မှုတွေ အများကြီးရှိနေတယ်။ တရားမျှတမှု လိုချင်တဲ့ အဲဒီလူတွေအတွက်ကျတော့ ဘယ်လိုဖြစ်မလဲ။\n\nကယ်လီ (Kelly): ရိုဟင်ဂျာဘက်က အမှုတွေအပါအဝင် တရားစွဲထားတဲ့အမှုတွေ အများကြီး ရှိပါတယ်။ ပြီးတော့ ထပ်ပြောရရင် ရိုဟင်ဂျာဘက်က ဒီအမှုတွေအတွက် ၂၀၁၇ ခုနှစ်ကတည်းက ကြိုးစားလာခဲ့တာ။ ဒါကြောင့် ဆယ်နှစ်နီးပါး ရှိသွားပါပြီ။ ဥပဒေရေးရာ ကြိုးပမ်းမှုတွေ အခုလိုအခြေအနေမျိုး ရောက်လာဖို့ အတွက် အမှုတော်တော်များများမှာပေါ့။\n\nစစ်ကိုင်း၊ မကွေးနဲ့ အညာဒေသကိစ္စနဲ့ ကရင်၊ ကချင်၊ ကရင်နီနဲ့ ရှမ်းပြည်နယ်တို့လို တခြားတိုင်းရင်းသား ဒေသ တွေ အပါအဝင်ပေါ့။ အဲဒီမှာလည်း စစ်အုပ်စုက ကျူးလွန်ခဲ့တဲ့၊ ဆိုးရွားတဲ့ အစုလိုက်အပြုံလိုက် ရက်စက်ကြမ်း ကြုတ်မှုတွေ ရှိခဲ့ပါတယ်။ အဲဒီဖြစ်ရပ်တွေမှာ ခံရတဲ့သူတွေ၊ အသက်ရှင်ကျန်ရစ်တဲ့သူတွေမှာ တရားစွဲဖို့ တရားဝင် ရပိုင်ခွင့်ရှိကြပြီး တချို့အဖွဲ့တွေက ကြိုးစားနေပြီလို့ ကျွန်မ ယုံကြည်ပါတယ်။\n\nအခက်အခဲတွေကတော့ ဒီအမှုတွေကို တရားစွဲဖို့ ကုန်ကျစရိတ် အရမ်းများတာပါ။‌ ငွေအား၊ လူအားအပြင် အမှုစွဲဆိုဖို့ အချိန်စိုက်ထုတ်ရမှုပါ အများကြီး လိုအပ်ပါတယ်။ ဒါပေမဲ့ ဒီအမှုတွေထဲက တချို့ ကို လက်တွေ့ ကြိုးမ်းလုပ်ဆောင်နေသူတွေတော့ ရှိနေပါတယ်။\n\nတကယ်တော့ အရင်တုန်းကလည်း ကရင်ပြည်နယ်မှာ ကျွန်မတို့ တွေ့ခဲ့ရတဲ့၊ နောက်ပိုင်းမှာ ရှက်ဗရွန် (Chevron) ဖြစ်လာတဲ့ ယူနိုကယ်လ် (Unocal) လို ရေနံကုမ္ပဏီတွေကို နစ်နာတဲ့သူတွေက တရားစွဲနိုင်ခဲ့တဲ့ ဖြစ်ရပ်ပါ။ အဲဒီမှာ စစ်တပ်ရဲ့ဖိနှိပ်မှုကို ခံခဲ့ရတဲ့သူတွေ လျော်ကြေးရခဲ့ကြပါတယ်။ ဘာကြောင့်လဲဆိုတော့ အဲဒီ ရေနံကုမ္ပဏီက လုံခြုံရေးအတွက် မြန်မာစစ်တပ်ကိုသုံးခဲ့တာဟာ ပြည်သူတွေရဲ့ လူ့အခွင့်အရေးကို ချိုးဖောက်ခဲ့လို့ပါ။\n\nဒါပေမယ့် အခွင့်အလမ်းတွေ အများကြီး ရှိတယ်လို့ ကျမ ထင်ပါတယ်။ မှန်ကန်တဲ့ အမှုတွေ၊ မှန်ကန်တဲ့ တရားလိုတွေ၊ မှန်ကန်တဲ့ တရားစီရင်ပိုင်ခွင့်၊ ပြီးတော့ မြန်မာနိုင်ငံဆိုင်ရာ လွတ်လပ်သော စုံစမ်းစစ်ဆေးမှု ယန္တရား (IIMM) က ကျွန်မရဲ့ လုပ်ဖော်ကိုင်ဖက်တွေ အပါအဝင် အလွန်စေ့စပ်သေချာစွာ စုဆောင်းထားတဲ့ သက်သေအထောက်အထားတွေကို ရှာဖွေတွေ့ရှိဖို့ပဲ လိုတာပါ၊ သူတို့က အမှုတွဲတွေ တည်ဆောက်နေပြီး အတည်ပြုထားတဲ့ သတင်းအချက်အလက်တွေ ပံ့ပိုးပေးနိုင်ပါတယ်။\n\nRFA: ဒါဆို လူ့အခွင့်အရေးအထူးကိုယ်စားလှယ်အနေနဲ့ပေါ့၊ အရင်ကတာဝန်ယူခဲ့တဲ့ သူတချို့ မြန်မာနိုင်ငံကို သွားခဲ့ဖူးပါတယ်။ ခင်ဗျားရော မြန်မာနိုင်ငံထဲ ဝင်ခွင့်ရနိုင်မလား၊ အခြေအနေဘယ်လိုရှိလဲ။\n\nကယ်လီ (Kelly): ကျွန်မ ဝင်ခွင့် တောင်းဆိုထားပါတယ်၊ စစ်အုပ်စုရဲ့ ကိုယ်စားလှယ်တွေကနေ တစ်ဆင့်ရော၊ တော်လှန်ရေး အဖွဲ့အစည်းတွေရဲ့ ကိုယ်စားလှယ်တွေကနေ တစ်ဆင့်ပါ။ ဒီနှစ်အစောပိုင်းတုန်းက စစ်အုပ်စုက ကျွန်မကို လက်ခံဖို့ အဆင်သင့်မဖြစ်သေးဘူးလို့ ပြန်ပြောခဲ့ပေမဲ့ လာမဲ့ ဇန်နဝါရီလမှာ သူတို့ကို ထပ်မေးမှာပါ။ ပြီးတော့ တော်လှန်ရေးအင်အားစုတွေက သူတို့ ထိန်းချုပ်ထားတဲ့နယ်မြေထဲ ကျွန်မကို နွေးနွေးထွေးထွေး ကြိုဆိုမယ်ဆိုတာ နားလည်ထားပေမဲ့ သူတို့အတွက် စိန်ခေါ်မှုက အိမ်နီးချင်းနိုင်ငံတွေက အဲဒါကို ခွင့်ပြုပေးမှာလားဆိုတာ ဖြစ်ပါတယ်။ ဒါကြောင့် ကျွန်မ အားလုံးကို ညှိနှိုင်းရပါတယ်၊ ဘာကြောင့်လဲဆိုတော့ ဘာမဆို ဖိတ်ကြားချက်နဲ့ ဖြစ်ရမှာမို့လို့ ကျွန်မ ဒီဖိတ်ကြားချက်တွေအတွက် ညှိနှိုင်းရပါတယ်။\n\nRFA: ဟုတ်ကဲ့။ ဒါဆို အခု ခင်ဗျား အထွေထွေညီလာခံ (General Assembly) ကို အစီရင်ခံစာ တင်သွင်း ပြီးပြီလား။\n\nကယ်လီ (Kelly): ဟုတ်ကဲ့၊ ပြီးခဲ့တဲ့လက အထွေထွေညီလာခံကို ကျွန်မ အစီရင်ခံစာ တင်သွင်းခဲ့ပါတယ်။ ကျွန်မရဲ့ အစီရင်ခံစာအပြည့်အစုံကို OHCHR (ကုလသမဂ္ဂ လူ့အခွင့်အရေးဆိုင်ရာ မဟာမင်းကြီးရုံး) ဝက်ဘ်ဆိုက်မှာရှိတဲ့ ကျွန်မရဲ့ (အထူးကိုယ်စားလှယ်) စာမျက်နှာမှာ တွေ့နိုင်ပါတယ်။ ကျွန်မရဲ့ ပထမဆုံး အစီရင်ခံစာကို ပြုစုတင်သွင်းခွင့် ရတဲ့အတွက် ကျွန်မ အရမ်း စိတ်အားထက်သန်ခဲ့ပါတယ်။ ဘာကြောင့်လဲဆိုတော့ အဲဒီအစီရင်ခံစာက ကျွန်မအတွက် အခြေခံအုတ်မြစ် ချဖို့နဲ့ ဦးစားပေးလုပ်ဆောင်ရမယ့် အချက်တချို့ ချပြနိုင်ဖို့ အခွင့်အရေးပေးခဲ့လို့ပါ။\n\nRFA: ဒါဆို မြန်မာပြည်သူတွေအတွက် ဘယ်လိုလမ်းကြောင်းတွေရှိသလဲ၊ သူတို့ရဲ့ လူ့အခွင့်အရေးကို တိုင်ကြားချင်တဲ့သူတွေအတွက်ပေါ့။\n\nကယ်လီ (Kelly): ဟုတ်ကဲ့၊ သေချာပေါက် ရှိပါတယ်။ ကုလသမဂ္ဂရဲ့ OHCHR ဝက်ဘ်ဆိုက်ပေါ်က လူ့အခွင့်ရေးဆိုင်ရာ အထူးကိုယ်စားလှယ်ရဲ့ ဝက်ဘ်ဆိုက် ကိုသွားမယ်ဆိုရင် အထူးကိုယ်စားလှယ်လုပ်ပိုင်ခွင့်အဖွဲ့နဲ့ ဆက်သွယ်နိုင်မယ့် လမ်းကြောင်းတစ်ခု ရှိပါတယ်။ ဒါကြောင့် ကျွန်မတို့မှာ တိုင်ကြားချက်တွေ၊ စွပ်စွဲချက်တွေအပြင် အစီရင်ခံစာမှာ အသုံးပြုနိုင်တဲ့ သက်သေအထောက်အထားနဲ့ သတင်းအချက်အလက်တွေ လက်ခံဖို့ ပွင့်လင်းတဲ့ လုပ်ငန်းစဉ်တစ်ခု ရှိပါတယ်။ လူ့အခွင့်အရေး ချိုးဖောက်မှုတွေကို မှတ်တမ်းတင်နေတဲ့ မြန်မာနိုင်ငံ ပြည်တွင်းရော ပြင်ပမှာပါရှိတဲ့ အရပ်ဘက်လူ့အဖွဲ့အစည်းတွေနဲ့ ကျွန်မတို့ ချိတ်ဆက်ပြီး အများကြီး လုပ်ဆောင်ပါတယ်။ မြန်မာ အရပ်ဘက်လူ့အဖွဲ့အစည်းတွေဆီက ပံ့ပိုးမှုမရှိဘဲ ကျွန်မရဲ့ အလုပ်ကို လုပ်နိုင်မှာ မဟုတ်ပါဘူး။\n\nRFA: ဟုတ်ကဲ့။ နောက်ဆုံးမေးခွန်းအနေနဲ့ မြန်မာပြည်သူတွေအတွက် ဘယ်လိုအကြံပြုချက် ပေးနိုင်ပါသလဲ။\n\nကယ်လီ (Kelly): ကျွန်မ နားလည်သလောက် ဒီနေရာမှာ အဓိကရည်မှန်းချက် ပန်းတိုင်ဟာ ဖက်ဒရယ် ဒီမိုကရက်တစ်ပြည်ထောင်စုတစ်ခု တည်ဆောက်နိုင်မယ့်၊ စစ်မှန်တဲ့ နိုင်ငံရေးဆွေးနွေးပွဲကို ရောက်ဖို့ ဖြစ်တယ်လို့ ကျွန်မ ထင်ပါတယ်။ ဒါပေမဲ့ စိမ်ခေါ်မှုကတော့ ဒီပဋိပက္ခရဲ့ အင်အားချင်းမညီမျှတဲ့ အနေအထားပါပဲ။ တစ်ဖက်မှာက ပြင်ပပံ့ပိုးမှုရနေတဲ့ စစ်တပ်ရှိနေပြီး နောက်တစ်ဖက်မှာက ကျွန်မ အရင်က ခေါ",
+   "body": "RFA: မကြာခင်က မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ ချမှတ်လိုက်တဲ့ အိုင်စီဂျေ ဆုံးဖြတ်ချက်တွေအပေါ် ဘယ်လိုထင်မြင်ပါသလဲ။\n\nကယ်လီ (Kelly): သူတို့ရဲ့ မှတ်ချက်တွေထဲမှာ ကျူးလွန်သူတွေက စစ်တပ်ဖြစ်တယ် ဆိုတာအပြင် အဲဒီအချိန်က ကာကွယ်ရေးဦးစီးချုပ်ဖြစ်တဲ့ မင်းအောင်လှိုင်ကို အထူးအာရုံစိုက်ခဲ့တဲ့ကိစ္စက တော်တော့်ကို စိတ်ဝင်စားစရာကောင်းတယ်လို့ ကျွန်မ မြင်မိပါတယ်။ အဲဒါက ၂၀၁၇ ဖြစ်ရပ်ကို အရပ်သားအစိုးရက ကိုင်တွယ်ခဲ့တာမဟုတ်ဘဲ စစ်တပ်ကပဲ ကြိုးကိုင်ခဲ့တယ်ဆိုတဲ့၊ လူအများစု ဆိုလိုချင်နေတဲ့အရာကို တရားရုံးက အသိအမှတ်ပြုလိုက်ပုံပါပဲ။ ဒါကြောင့် ဒါက စိတ်ဝင်စားစရာကောင်းတဲ့ အချက်တစ်ချက်ဖြစ်တယ်လို့ ကျွန်မထင်ပါတယ်။\n\nနောက်ထပ် စိတ်ဝင်စားစရာကောင်းတဲ့အချက်ကို ကြည့်မယ်ဆိုရင် ရိုဟင်ဂျာဆိုတာကို လူမျိုးနွယ်အုပ်စုတစ်စု အနေနဲ့ တရားရုံးက ဘယ်လိုကိုင်တွယ်ခဲ့သလဲ ဆိုတာပါ။ သူတို့က နိုင်ငံသားဖြစ်ခွင့်ကိစ္စကို ထည့်မပြောပါဘူး၊ ဘာကြောင့်လဲဆိုတော့ အဲဒါက သူတို့ရဲ့လုပ်ပိုင်ခွင့်ကို နယ်ပယ်ကျော်လွန်တယ်လို့ သူတို့ပြောခဲ့လို့ပါ။ ဒါပေမဲ့ သူတို့ အသိအမှတ်ပြုခဲ့ပါတယ်။ ဘာလို့လဲဆိုတော့ လူမျိုးတုံးသတ်ဖြတ်မှု ရှိ၊ မရှိ လေ့လာဖို့အတွက် ဒါဟာ မရှိမဖြစ်လိုအပ်ချက် ဖြစ်ပါတယ်။ ဒါဟာ တစုတစည်းတည်းရှိတဲ့ လူမျိုးနွယ်အုပ်စုတစ်စု ဖြစ်တယ်၊ တခြားမျိုးနွယ်စုတွေနဲ့ ကွဲပြားခြားနားတဲ့ အုပ်စုတစ်စုဖြစ်တယ်လို့ ပြောဖို့ လိုအပ်ပါတယ်။ ပြီးတော့ ရိုဟင်ဂျာတွေဟာ ရခိုင်ပြည်နယ်မြောက်ပိုင်းမှာ မျိုးဆက်လေးဆက်မက နေထိုင်ခဲ့တယ်။ သူတို့မှာ ကိုယ်ပိုင် ဝိသေသလက္ခဏာ ရှိတယ်၊ ပြီးတော့ ဒီအချက်က တရားရုံးရဲ့ တွေ့ရှိချက်တွေထဲမှာ အပါအဝင် ဖြစ်တယ်ဆိုတာကို သူတို့ မှတ်တမ်းတင်ထားခဲ့ပါတယ်။ ဒါဟာလည်း ဒီအမှုအတွက် အရမ်းအရေးကြီးတဲ့ အရာတစ်ခုလို့ ကျွန်မ ထင်ပါတယ်။\n\nပြီးတော့ နောက်ဆုံးအနေနဲ့ လျော်ကြေးပေးရေးကို ကြည့်မယ်ဆိုရင် တရားရုံးက လျော်ကြေးပေးဖို့ အမိန့်ချ ခဲ့တဲ့အတွက် မြန်မာနိုင်ငံထဲက အမျိုးမျိုးသော သက်ဆိုင်သူတွေနဲ့၊ ဒီအမှုမှာ ပါဝင်ပတ်သက်နေတဲ့ ပြင်ပအင်အား စုတွေက လျော်ကြေးတောင်းဆိုမှုတွေအပေါ် ဘယ်လိုတုံ့ပြန်မလဲဆိုတာက စိတ်ဝင်စားစရာတစ်ခု ဖြစ်လာမှာပါ။\n\nကျွန်မ ဒီအမှုကို ဆက်လက်လေ့လာနေတုန်း၊ ဖတ်နေတုန်းပါပဲ။ နောက်ဆက်တွဲ သက်ရောက်မှုအားလုံးကို နားလည်ဖို့ ကြိုးစားနေတုန်းပါ။ အရေးကြီးတယ်လို့ ကျွန်မထင်တဲ့ အချက်တစ်ခုကတော့… လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်ခဲ့တယ်ဆိုတဲ့ တွေ့ရှိချက်တွေ ရဖို့အတွက် ဥပဒေကြောင်းဆိုင်ရာ စံနှုန်းတွေကို လျှော့ချရလိမ့်မယ်ဆိုတဲ့ ဆွေးနွေးမှုတချို့ ရှိခဲ့ပေမဲ့ သူတို့ မလျှော့ချခဲ့ပါဘူး။ လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်တဲ့အကြောင်း ဆုံးဖြတ်တဲ့အခါမှာ အင်မတန် စေ့စပ်သေချာခဲ့ပြီး သူတို့ ရှာဖွေရမယ့် တခြားအချက်နှစ်ခုဖြစ်တဲ့ ‘နိုင်ငံတော်ရဲ့တာဝန်ရှိမှု’ နဲ့ ‘ရည်ရွယ်ချက်’ တို့အကြောင်းကို အသေးစိတ် တိတိကျကျ ခွဲခြမ်းစိတ်ဖြာမှုတွေ လုပ်ခဲ့ပါတယ်။\n\nဒါဟာ ရိုဟင်ဂျာတွေအတွက် အလွန်အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခု ဖြစ်တယ်ဆိုတာ ထင်ရှားပါတယ်။ မြန်မာနိုင်ငံဟာ ဘယ်လိုနိုင်ငံမျိုးဖြစ်လာမလဲဆိုတာကို ပြဖို့ကြိုးစားနေတဲ့အချိန်မှာ နိုင်ငံအတွက်လည်း အရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခုဖြစ်တယ်လို့ ကျွန်မထင်ပါတယ်။ ပြီးတော့ ကမ္ဘာလုံးဆိုင်ရာအရလည်း ဒါဟာ အရမ်းအရေးကြီးတဲ့ ဆုံးဖြတ်ချက်တစ်ခု ဖြစ်ပါတယ်။ ဘာကြောင့်လဲဆိုတော့ နိုင်ငံတစ်ခုကို လူမျိုးတုံး သတ်ဖြတ်မှုအတွက် တာဝန်ရှိတယ်လို့ ICJ ကဆုံးဖြတ်တာ ဒါဟာ ပထမဆုံးအကြိမ် ဖြစ်လို့ပါ။\n\n၂၀၁၉ ခုနှစ် ဒီဇင်ဘာလတွင် အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) ၏ ပထမဆုံးကြားနာပွဲကိုတက်ရောက်လာသော နိုင်ငံတော်အတိုင်ပင်ခံ ဒေါ်အောင်ဆန်းစုကြည်ကို ဝန်းရံသူများအားတွေ့ရစဥ်။ (NAYREIN KYAW/RFA Burmese) RFA: ဆုံးဖြတ်ချက်ထွက်လာပြီးတဲ့နောက် စစ်အုပ်စုရဲ့ တုံ့ပြန်မှုကတော့… ဆုံးဖြတ်ချက်ဟာ တရားမျှတမှု မရှိဘူးပေါ့။ တကယ်လို့ သူတို့ ICJ ဆုံးဖြတ်ချက်ကို မလိုက်နာဘူးဆိုရင် ဘယ်လိုအကျိုးဆက်တွေ ဖြစ်လာမလဲ။\n\nကယ်လီ (Kelly): သူတို့က နိုင်ငံတကာဥပဒေကို အမြဲတမ်း လျစ်လျူရှုကြပြီး သူတို့နဲ့ ဆိုင်တယ်လို့ ထင်ပုံမရပါ ဘူး။ ဒါကြောင့် ကျွန်မတော့ သိပ်မအံ့သြပါဘူး။ အိုင်စီဂျေရဲ့ တရားစီရင်ရေးလုပ်ငန်းစဉ်တွေ တရားမျှတမှု မရှိဘူးလို့ သူတို့ထင်တာကတော့ ကျွန်မအတွက် ရယ်စရာကောင်းပါတယ်။ ဘာကြောင့်လဲဆိုတော့ ဒီတရားစီရင် ရေးရဲ့ အဆင့်တိုင်းမှာ သူတို့ ပါဝင်ခဲ့ကြလို့ပါ။ သိတဲ့အတိုင်းပဲ၊ စစ်အုပ်စုဟာ ဒီတရားစီရင်ရေးလုပ်ငန်းစဉ်တွေမှာ ကိုယ်စားပြုခွင့်ရဖို့ NUG နဲ့အပြိုင် ကြိုးစားခဲ့ပါတယ်။ ပြီးတော့ သူတို့က သက်သေအထောက်အထားတွေ တင်ပြခဲ့တယ်၊ ရှေ့နေတွေငှားခဲ့တယ်၊ ခုခံချေပချက်တွေ တင်ပြခဲ့ကြတယ်။ နောက်ဆုံးမှာတော့ သူတို့ ရှုံးနိမ့် ခဲ့ပါတယ်။ ပြီးတော့ တရားသူကြီးအားလုံးရဲ့ ချွင်းချက်မရှိထောက်ခံမဲနဲ့ မဟုတ်ခဲ့တဲ့အတွက် အဲဒါဟာ တရားမျှတမှု မရှိဘူးလို့ သူတို့ ထင်ကြပါတယ်။ စစ်အုပ်စုဟာ ဥပဒေစိုးမိုးရေး ဘယ်လိုအလုပ်လုပ်သလဲဆိုတာ ဖြစ်ဖြစ်၊ ဒါမှမဟုတ် ဒီမိုကရေစီစနစ်မှာ မဲအများစုနဲ့ ဘယ်လိုအလုပ်လုပ်သလဲ ဆိုတာကိုဖြစ်ဖြစ် အခုထိ နားလည်ပုံ မရသေးပါဘူး။ ဒါက သူတို့ကို ပိတ်ဆို့ထားတဲ့ အတားအဆီးတစ်ခုလို ဖြစ်နေပုံရပါတယ်။\n\nပြီးတော့ ဒီလူတွေ ဆက်ပြီး နားလည်မှုလွဲနေတာကတော့ ဥပဒေတွေကို ချိုးဖောက်ပြီး မြန်မာပြည်သူတွေကို ပြစ်ဒဏ်ကင်းလွတ်ခွင့်နဲ့ ညှဉ်းပန်းနှိပ်စက်လို့ ရတယ်လို့ သူတို့ ထင်နေတာပါ။ ဘာကြောင့်လဲဆိုတော့ ဆယ်စုနှစ် ပေါင်းများစွာ သူတို့က လွတ်မြောက်နေခဲ့ကြလို့ပါ။\n\nဒါကြောင့် သူတို့က ညှဉ်းပန်းနှိပ်စက်မှုတွေနဲ့ ကြောက်စရာကောင်းလောက်တဲ့ ချိုးဖောက်မှုတွေအတွက် ပြစ်ဒဏ်ကနေ ကင်းလွတ်နေကျ ဖြစ်နေပြီး အခုလည်း ဆက်ပြီးလွတ်မြောက်နေကြတုန်းပါပဲ။ ပြီးတော့ နိုင်ငံတကာ လူသားချင်းစာနာထောက်ထားမှုဥပဒေရဲ့ အခြေခံအကျဆုံး စည်းမျဉ်းဖြစ်တဲ့ အရပ်သားတွေနဲ့ အရပ်သားတွေရဲ့ အိုးအိမ်အဆောက်အအုံတွေကို တိုက်ခိုက်တဲ့လုပ်ရပ်တွေ လုပ်နေတုန်းပါပဲ။\n\nဒါ သူတို့က တမင်လုပ်နေတာပါ၊ မတော်တဆ ဖြစ်တာမဟုတ်ပါဘူး၊ ဘေးထွက်ဆိုးကျိုးမျိုး မဟုတ်ပါဘူး၊ ပြီးတော့ သူတို့ လွတ်မြောက်နေကြပါတယ်။ တကယ်တော့ နိုင်ငံတော်တော်များများက သူတို့နဲ့ ဆက်ဆံနေကြတဲ့အတွက် သံတမန်ရေးအရ အတော်လေး အဆင်ပြေနေပုံရပါတယ်။\n\nဒါကြောင့် သူတို့ လုပ်ချင်ရာလုပ်ပြီး လွတ်မြောက်နေကျဖြစ်နေတာလို့ ကျွန်မထင်ပါတယ်။ ပြီးတော့ တစ်ယောက်ယောက်က ခင်ဗျားလုပ်ခဲ့တဲ့အမှားအတွက် အကျိုးဆက်တွေ ရှိလာလိမ့်မယ် လို့ ပြောတဲ့အခါကျတော့ သူတို့လုပ်ရပ်နဲ့ပတ်သက်လို့ ရင်ဆိုင်ဖြေရှင်းရတာမျိုး မရှိခဲ့ဘူးတော့ လုံးဝ အံ့အားသင့်သွားတာမျိုးပါ။\n\nRFA: ဟုတ်ကဲ့။ ဒါဆို ကျွန်တော်ကြားတာကတော့ အခု နိုင်ငံတချို့က ဒီအမှုကို ကုလသမဂ္ဂလုံခြုံရေးကောင်စီတင်ဖို့ ကြိုးစားနေကြတယ်ပေါ့။ ဒါဆို အဲဒါက နောက်တစ်ဆင့် ဖြစ်လာနိုင်မလား။\n\nကယ်လီ (Kelly): ပုံမှန်အားဖြင့်တော့ ဒါဟာ နောက်တစ်ဆင့် ဖြစ်လာမှာပါ၊ မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ လုံခြုံရေး ကောင်စီမှာ ဦးဆောင်တင်သွင်းတတ်တဲ့ ယူကေ (UK) ရော ပြင်သစ်ပါ နှစ်နိုင်ငံစလုံးက ဒီအမှုကိုတင်ဖို့ ရည်ရွယ် ထားတဲ့အကြောင်း ကြေညာထားတယ်လို့ ကျွန်မ ထင်ပါတယ်။\n\nအားလုံးသိတဲ့အတိုင်းပဲ၊ မြန်မာနိုင်ငံအ‌ရေးဟာ အရင်တုန်းကလည်း လုံခြုံရေးကောင်စီကို ရောက်ခဲ့ဖူးပါတယ်။ ဒါပေမဲ့ တညီတညွတ်တည်း မဆုံးဖြတ်နိုင်တဲ့ကိစ္စတစ်ခုလည်း ဖြစ်ပါတယ်။\n\nအဲဒီအကြိမ်တွေတုန်းကလည်း စစ်အစိုးရကို လက်နက်ရောင်းဝယ်မှုပိတ်ပင်ရေးတို့၊ တခြား ဒဏ်ခတ်ပိတ်ဆို့ အရေးယူတာတို့ လုပ်မယ်ဆိုရင် ရုရှားနဲ့ တရုတ်က အမြဲ ပြင်းပြင်းထန်ထန် ကန့်ကွက်ခဲ့တာပါ။\n\nပြီးတော့ တချို့အချိန်တွေမှာ အမေရိကန်၊ ယူကေနဲ့ တခြား အနောက်နိုင်ငံတွေတောင်မှ လုံခြုံရေးကောင်စီထဲမှာ အားကောင်းခဲ့တာမျိုး မရှိခဲ့ပါဘူး။ ဒါဟာ လုံခြုံရေးကောင်စီမှာ နောက်တစ်ဆင့် ဆက်သွားစေချင်တဲ့ နိုင်ငံတွေအတွက် တကယ်ကို စိတ်ပျက်အားလျော့စရာ ဖြစ်ခဲ့ပါတယ်။\n\nအဲဒီလို စိတ်ပျက်စရာအခြေအနေ ဆက်ရှိနေဦးမယ်လို့ ကျွန်မထင်ပါတယ်။ လုံခြုံရေးကောင်စီရဲ့ အမြဲတမ်း အဖွဲ့ဝင်နိုင်ငံတွေက အဓိပ္ပာယ်ရှိတဲ့လုပ်ဆောင်ချက် မှန်သမျှကို ဆက်ပြီးပိတ်ပင်နေတာကို ကျွန်မတို့ ဆက်တွေ့ရဦးမယ်လို့ ထင်ပါတယ်။ ဒါပေမဲ့ ဖိအားပေးမှုတွေလည်း ဆက်ရှိနေလိမ့်မယ်လို ထင်ပါတယ်။\n\nစစ်အုပ်စုအတွက် တခြားနိုင်ငံတွေဆီကရနိုင်တဲ့ ထောက်ခံမှုတွေထဲမှာ ဒါဟာ အမြင့်ဆုံးဖြစ်ကောင်း ဖြစ်နိုင်တယ်လို့ ကျွန်မ ထင်ပါတယ်။\n\nသိတဲ့အတိုင်းပဲ၊ နောက်ကွယ်ကနေ ကြိုးကိုင်နိုင်စွမ်းအများကြီးရှိတဲ့ တရုတ်လိုနိုင်ငံမျိုးတောင် မင်းအောင်လှိုင်နဲ့ ဆက်ဆံရတာ အရမ်းခက်ခဲတာ တွေ့ရပါလိမ့်မယ်။ မင်းအောင်လှိုင်က သိတဲ့အတိုင်းပဲ၊ သူ့ကို ကာကွယ်ပေးတဲ့သူကိုတောင် နောက်ပိုင်းမှာ ပြန်တိုက်ခိုက်ပါတယ်။ ဒါဟာ သူတို့အတွက် သူ့ကို ကိုင်တွယ်ရတာ အရမ်းခက်ခဲတယ်လို့ ကျွန်မ ထင်ပါတယ်။ ဒါကြောင့် ရှေ့လျှောက် ဒီစစ်အစိုးရအပေါ် ထောက်ခံမှုတွေ သိပ်ပြီး ထက်ထက်သန်သန် မရှိတော့တာမျိုး ဖြစ်လာနိုင်တယ်လို့ ကျွန်မ ထင်ပါတယ်။ ဘယ်လိုပဲဖြစ်ဖြစ် အဲဒီလို ဖြစ်လာမယ်လို့ ကျွန်မ မျှော်လင့်ပါတယ်။\n\n“မင်းအောင်လှိုင်က သူ့ကို ကာကွယ်ပေးတဲ့သူကိုတောင် နောက်ပိုင်းမှာ ပြန်တိုက်ခိုက်ပါတယ်... ရှေ့လျှောက် ဒီစစ်အစိုးရအပေါ် ထောက်ခံမှုတွေ သိပ်ပြီး ထက်ထက်သန်သန် မရှိတော့တာမျိုး ဖြစ်လာနိုင်တယ်”\n\nRFA: ဟုတ်ကဲ့။ ရိုဟင်ဂျာနဲ့ပတ်သက်ပြီး ဒါဟာ လူမျိုးတုံးသတ်ဖြတ်မှုပေါ့။ ဒါပေမဲ့ ခင်ဗျားက နိုင်ငံတစ်ခုလုံးအတွက်၊ မြန်မာနိုင်ငံအတွက် အလုပ်လုပ်နေတာလေ။ ပြီးတော့ ခင်ဗျားက မြန်မာ့အရေးကို ဆယ်စုနှစ်ပေါင်းများစွာ အလုပ်လုပ်ခဲ့တာ ဆိုတော့ အခုသိတဲ့အတိုင်းပဲ စစ်ကိုင်း၊ မကွေး၊ ကရင်၊ ကရင်နီ... အများကြီးပဲလေ၊ အဲဒီဒေသတွေအားလုံးမှာ ဖြစ်ပျက်နေတာ။ ပြည်သူတွေက တရားမျှတမှု ရရှိဖို့ပေါ့။ အဲဒီမှာ လူ့အခွင့်အရေး ချိုးဖောက်မှုတွေ အများကြီးရှိနေတယ်။ တရားမျှတမှု လိုချင်တဲ့ အဲဒီလူတွေအတွက်ကျတော့ ဘယ်လိုဖြစ်မလဲ။\n\nကယ်လီ (Kelly): ရိုဟင်ဂျာဘက်က အမှုတွေအပါအဝင် တရားစွဲထားတဲ့အမှုတွေ အများကြီး ရှိပါတယ်။ ပြီးတော့ ထပ်ပြောရရင် ရိုဟင်ဂျာဘက်က ဒီအမှုတွေအတွက် ၂၀၁၇ ခုနှစ်ကတည်းက ကြိုးစားလာခဲ့တာ။ ဒါကြောင့် ဆယ်နှစ်နီးပါး ရှိသွားပါပြီ။ ဥပဒေရေးရာ ကြိုးပမ်းမှုတွေ အခုလိုအခြေအနေမျိုး ရောက်လာဖို့ အတွက် အမှုတော်တော်များများမှာပေါ့။\n\nစစ်ကိုင်း၊ မကွေးနဲ့ အညာဒေသကိစ္စနဲ့ ကရင်၊ ကချင်၊ ကရင်နီနဲ့ ရှမ်းပြည်နယ်တို့လို တခြားတိုင်းရင်းသား ဒေသ တွေ အပါအဝင်ပေါ့။ အဲဒီမှာလည်း စစ်အုပ်စုက ကျူးလွန်ခဲ့တဲ့၊ ဆိုးရွားတဲ့ အစုလိုက်အပြုံလိုက် ရက်စက်ကြမ်း ကြုတ်မှုတွေ ရှိခဲ့ပါတယ်။ အဲဒီဖြစ်ရပ်တွေမှာ ခံရတဲ့သူတွေ၊ အသက်ရှင်ကျန်ရစ်တဲ့သူတွေမှာ တရားစွဲဖို့ တရားဝင် ရပိုင်ခွင့်ရှိကြပြီး တချို့အဖွဲ့တွေက ကြိုးစားနေပြီလို့ ကျွန်မ ယုံကြည်ပါတယ်။\n\nအခက်အခဲတွေကတော့ ဒီအမှုတွေကို တရားစွဲဖို့ ကုန်ကျစရိတ် အရမ်းများတာပါ။‌ ငွေအား၊ လူအားအပြင် အမှုစွဲဆိုဖို့ အချိန်စိုက်ထုတ်ရမှုပါ အများကြီး လိုအပ်ပါတယ်။ ဒါပေမဲ့ ဒီအမှုတွေထဲက တချို့ ကို လက်တွေ့ ကြိုးမ်းလုပ်ဆောင်နေသူတွေတော့ ရှိနေပါတယ်။\n\nတကယ်တော့ အရင်တုန်းကလည်း ကရင်ပြည်နယ်မှာ ကျွန်မတို့ တွေ့ခဲ့ရတဲ့၊ နောက်ပိုင်းမှာ ရှက်ဗရွန် (Chevron) ဖြစ်လာတဲ့ ယူနိုကယ်လ် (Unocal) လို ရေနံကုမ္ပဏီတွေကို နစ်နာတဲ့သူတွေက တရားစွဲနိုင်ခဲ့တဲ့ ဖြစ်ရပ်ပါ။ အဲဒီမှာ စစ်တပ်ရဲ့ဖိနှိပ်မှုကို ခံခဲ့ရတဲ့သူတွေ လျော်ကြေးရခဲ့ကြပါတယ်။ ဘာကြောင့်လဲဆိုတော့ အဲဒီ ရေနံကုမ္ပဏီက လုံခြုံရေးအတွက် မြန်မာစစ်တပ်ကိုသုံးခဲ့တာဟာ ပြည်သူတွေရဲ့ လူ့အခွင့်အရေးကို ချိုးဖောက်ခဲ့လို့ပါ။\n\nဒါပေမယ့် အခွင့်အလမ်းတွေ အများကြီး ရှိတယ်လို့ ကျမ ထင်ပါတယ်။ မှန်ကန်တဲ့ အမှုတွေ၊ မှန်ကန်တဲ့ တရားလိုတွေ၊ မှန်ကန်တဲ့ တရားစီရင်ပိုင်ခွင့်၊ ပြီးတော့ မြန်မာနိုင်ငံဆိုင်ရာ လွတ်လပ်သော စုံစမ်းစစ်ဆေးမှု ယန္တရား (IIMM) က ကျွန်မရဲ့ လုပ်ဖော်ကိုင်ဖက်တွေ အပါအဝင် အလွန်စေ့စပ်သေချာစွာ စုဆောင်းထားတဲ့ သက်သေအထောက်အထားတွေကို ရှာဖွေတွေ့ရှိဖို့ပဲ လိုတာပါ၊ သူတို့က အမှုတွဲတွေ တည်ဆောက်နေပြီး အတည်ပြုထားတဲ့ သတင်းအချက်အလက်တွေ ပံ့ပိုးပေးနိုင်ပါတယ်။\n\nအပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) (NAYREIN KYAW/RFA Burmese) RFA: ဒါဆို လူ့အခွင့်အရေးအထူးကိုယ်စားလှယ်အနေနဲ့ပေါ့၊ အရင်ကတာဝန်ယူခဲ့တဲ့ သူတချို့ မြန်မာနိုင်ငံကို သွားခဲ့ဖူးပါတယ်။ ခင်ဗျားရော မြန်မာနိုင်ငံထဲ ဝင်ခွင့်ရနိုင်မလား၊ အခြေအနေဘယ်လိုရှိလဲ။\n\nကယ်လီ (Kelly): ကျွန်မ ဝင်ခွင့် တောင်းဆိုထားပါတယ်၊ စစ်အုပ်စုရဲ့ ကိုယ်စားလှယ်တွေကနေ တစ်ဆင့်ရော၊ တော်လှန်ရေး အဖွဲ့အစည်းတွေရဲ့ ကိုယ်စားလှယ်တွေကနေ တစ်ဆင့်ပါ။ ဒီနှစ်အစောပိုင်းတုန်းက စစ်အုပ်စုက ကျွန်မကို လက်ခံဖို့ အဆင်သင့်မဖြစ်သေးဘူးလို့ ပြန်ပြောခဲ့ပေမဲ့ လာမဲ့ ဇန်နဝါရီလမှာ သူတို့ကို ထပ်မေးမှာပါ။ ပြီးတော့ တော်လှန်ရေးအင်အားစုတွေက သူတို့ ထိန်းချုပ်ထားတဲ့နယ်မြေထဲ ကျွန်မကို နွေးနွေးထွေးထွေး ကြိုဆိုမယ်ဆိုတာ နားလည်ထားပေမဲ့ သူတို့အတွက် စိန်ခေါ်မှုက အိမ်နီးချင်းနိုင်ငံတွေက အဲဒါကို ခွင့်ပြုပေးမှာလားဆိုတာ ဖြစ်ပါတယ်။ ဒါကြောင့် ကျွန်မ အားလုံးကို ညှိနှိုင်းရပါတယ်၊ ဘာကြောင့်လဲဆိုတော့ ဘာမဆို ဖိတ်ကြားချက်နဲ့ ဖြစ်ရမှာမို့လို့ ကျွန်မ ဒီဖိတ်ကြားချက်တွေအတွက် ညှိနှိုင်းရပါတယ်။\n\nRFA: ဟုတ်ကဲ့။ ဒါဆို အခု ခင်ဗျား အထွေထွေညီလာခံ (General Assembly) ကို အစီရင်ခံစာတင်သွင်းပြီးပြီလား။\n\nကယ်လီ (Kelly): ဟုတ်ကဲ့၊ ပြီးခဲ့တဲ့လက အထွေထွေညီလာခံကို ကျွန်မ အစီရင်ခံစာ တင်သွင်းခဲ့ပါတယ်။ ကျွန်မရဲ့ အစီရင်ခံစာအပြည့်အစုံကို OHCHR (ကုလသမဂ္ဂ လူ့အခွင့်အရေးဆိုင်ရာ မဟာမင်းကြီးရုံး) ဝက်ဘ်ဆိုက်မှာရှိတဲ့ ကျွန်မရဲ့ (အထူးကိုယ်စားလှယ်) စာမျက်နှာမှာ တွေ့နိုင်ပါတယ်။ ကျွန်မရဲ့ ပထမဆုံး အစီရင်ခံစာကို ပြုစုတင်သွင်းခွင့် ရတဲ့အတွက် ကျွန်မ အရမ်း စိတ်အားထက်သန်ခဲ့ပါတယ်။ ဘာကြောင့်လဲဆိုတော့ အဲဒီအစီရင်ခံစာက ကျွန်မအတွက် အခြေခံအုတ်မြစ် ချဖို့နဲ့ ဦးစားပေးလုပ်ဆောင်ရမယ့် အချက်တချို့ ချပြနိုင်ဖို့ အခွင့်အရေးပေးခဲ့လို့ပါ။\n\nRFA: ဒါဆို မြန်မာပြည်သူတွေအတွက် ဘယ်လိုလမ်းကြောင်းတွေရှိသလဲ၊ သူတို့ရဲ့ လူ့အခွင့်အရေးကို တိုင်ကြားချင်တဲ့သူတွေအတွက်ပေါ့။\n\nကယ်လီ (Kelly): ဟုတ်ကဲ့၊ သေချာပေါက် ရှိပါတယ်။ ကုလသမဂ္ဂရဲ့ OHCHR ဝက်ဘ်ဆိုက်ပေါ်က လူ့အခွင့်ရေးဆိုင်ရာ အထူးကိုယ်စားလှယ်ရဲ့ ဝက်ဘ်ဆိုက် ကိုသွားမယ်ဆိုရင် အထူးကိုယ်စားလှယ်လုပ်ပိုင်ခွင့်အဖွဲ့နဲ့ ဆက်သွယ်နိုင်မယ့် လမ်းကြောင်းတစ်ခု ရှိပါတယ်။ ဒါကြောင့် ကျွန်မတို့မှာ တိုင်ကြားချက်တွေ၊ စွပ်စွဲချက်တွေအပြင် အစီရင်ခံစာမှာ အသုံးပြုနိုင်တဲ့ သက်သေအထောက်အထားနဲ့ သတင်းအချက်အလက်တွေ လက်ခံဖို့ ပွင့်လင်းတဲ့ လုပ်ငန်းစဉ်တစ်ခု ရှိပါတယ်။ လူ့အခွင့်အရေး ချိုးဖောက်မှုတွေကို မှတ်တမ်းတင်နေတဲ့ မြန်မာနိုင်ငံ ပြည်တွင်းရော ပြင်ပမှာပါရှိတဲ့ အရပ်ဘက်လူ့အဖွဲ့အစည်းတွေနဲ့ ကျွန်မတို့ ချိတ်ဆက်ပြီး အများကြီး လုပ်ဆောင်ပါတယ်။ မြန်မာ အရပ်ဘက်လူ့အဖွဲ့အစည်းတွေဆီက ပံ့ပိုးမှုမရှိဘဲ ကျွန်မရဲ့ အလုပ်ကို လုပ်နိုင်မှာ မဟုတ်ပါဘူး။\n\nRFA: ဟုတ်ကဲ့။ နောက်ဆုံးမေးခွန်းအနေနဲ့ မြန်မာပြည်သူတွေအတွက် ဘယ်လိုအကြံပြုချက် ပေးနိုင်ပါသလဲ။\n\nကယ်လီ (Kelly): ကျွန်မ နားလည်သလောက် ဒီနေရာမှာ အဓိကရည်မှန်းချက် ပန်းတိုင်ဟာ ဖက်ဒရယ် ဒီမိုကရက်တစ်ပြည်ထောင်စုတစ်ခု တည",
    "category": "Global",
    "is_war": false,
    "countries": [],
