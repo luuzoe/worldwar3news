@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:38:51.845644+00:00",
- "updated_yangon": "2026-11-25 11:08",
+ "updated": "2026-11-25T05:38:50.353589+00:00",
+ "updated_yangon": "2026-11-25 12:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,11 +9,11 @@
   "CNA World",
   "DW",
   "Google News",
-  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
+  "Myanmar Now",
   "Myanmar Now Burmese",
   "NYT World",
   "RFA Burmese",
@@ -22,27 +22,27 @@
  "countries": [
   [
    "United States",
-   38
+   34
   ],
   [
    "Myanmar",
-   16
+   18
   ],
   [
    "Ukraine",
-   15
-  ],
-  [
-   "China",
-   14
+   17
   ],
   [
    "Russia",
+   12
+  ],
+  [
+   "China",
    11
   ],
   [
    "United Kingdom",
-   8
+   9
   ],
   [
    "Iran",
@@ -54,6 +54,14 @@
   ],
   [
    "Australia",
+   4
+  ],
+  [
+   "Yemen",
+   4
+  ],
+  [
+   "Saudi Arabia",
    4
   ],
   [
@@ -69,35 +77,35 @@
    3
   ],
   [
-   "Yemen",
-   3
-  ],
-  [
-   "Saudi Arabia",
-   3
-  ],
-  [
-   "Turkey",
-   3
+   "India",
+   2
   ],
   [
    "Taiwan",
    2
   ],
   [
-   "South Korea",
+   "Turkey",
    2
   ],
   [
-   "NATO",
-   2
+   "Poland",
+   1
+  ],
+  [
+   "European Union",
+   1
+  ],
+  [
+   "South Korea",
+   1
   ],
   [
    "Japan",
    1
   ],
   [
-   "India",
+   "NATO",
    1
   ],
   [
@@ -124,12 +132,27 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 19,
+ "war_count": 21,
  "languages": {
   "my": 26,
   "en": 114
  },
  "items": [
+  {
+   "title": "Ex-auxiliary police officer jailed after raising anti-terrorism barrier, causing bus crash at Changi Airport",
+   "link": "https://www.channelnewsasia.com/singapore/auxiliary-police-officer-jailed-barrier-changi-airport-6580521",
+   "source": "CNA World",
+   "published": "2026-11-25T12:49:49+08:00",
+   "summary": "Azfar Mustaqim Jasman activated the anti-terrorism vehicle barrier when he leaned forward with his left hand resting on the control panel as the bus was passing through.",
+   "body": "Azfar Mustaqim Jasman activated the anti-terrorism vehicle barrier when he leaned forward with his left hand resting on the control panel as the bus was passing through.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--8bw9qpN---/c_crop,h_1125,w_2000,x_0,y_336/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/25/_wal1072.jpg?itok=rubYjNOx",
+   "lang": "en"
+  },
   {
    "title": "Drone attack, shootings and hostage situation simulated in counterterrorism exercise at Esplanade",
    "link": "https://www.channelnewsasia.com/singapore/counterterrorism-exercise-heartbeat-police-esplanade-6578731",
@@ -160,7 +183,7 @@
    "title": "Singapore’s rule of law balances individual rights with collective needs: Chief Justice",
    "link": "https://www.channelnewsasia.com/singapore/200-years-rule-law-balance-individual-collective-chief-justice-6578516",
    "source": "CNA World",
-   "published": "2026-11-25T11:13:31+08:00",
+   "published": "2026-11-25T11:13:00+08:00",
    "summary": "Marking 200 years of Singapore’s rule of law, Chief Justice Sundaresh Menon said the courts must respect the government's mandate to make complex policy decisions, while ensuring executive powers stay within legal bounds.",
    "body": "Marking 200 years of Singapore’s rule of law, Chief Justice Sundaresh Menon said the courts must respect the government's mandate to make complex policy decisions, while ensuring executive powers stay within legal bounds.",
    "category": "Global",
@@ -202,40 +225,14 @@
    "link": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
    "source": "CNA World",
    "published": "2026-11-25T06:00:00+08:00",
-   "summary": "The abrupt closures of two Chinese EV dealerships in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
-   "body": "The abrupt closures of two Chinese EV dealerships in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
+   "summary": "The closure of a Chinese EV brand's showroom and the abrupt exit of another dealership in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
+   "body": "The closure of a Chinese EV brand's showroom and the abrupt exit of another dealership in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
    "category": "Global",
    "is_war": true,
    "countries": [
     "China"
    ],
    "image": "https://dam.mediacorp.sg/image/upload/s--uvHeZqic--/c_crop,h_1125,w_1999,x_1,y_133/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/25/istock-585495312.jpg?itok=HvZdDzRl",
-   "lang": "en"
-  },
-  {
-   "title": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
-   "link": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
-   "source": "CNA World",
-   "published": "2026-11-25T06:00:00+08:00",
-   "summary": "CNA found hundreds of online listings offering deregistered Singapore cars in Malaysia at bargain prices. Some sellers admit that buyers drive these cars illegally using cloned registration plates.",
-   "body": "CNA found hundreds of online listings offering deregistered Singapore cars in Malaysia at bargain prices. Some sellers admit that buyers drive these cars illegally using cloned registration plates.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--_zhLXWdK--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/19/dsc_3851_copy.jpg?itok=Sxzh3SI4",
-   "lang": "en"
-  },
-  {
-   "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
-   "link": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
-   "source": "CNA World",
-   "published": "2026-11-25T06:00:00+08:00",
-   "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
-   "body": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--sUhDTYe5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-17T110633Z_1_LYNXNPEMAG0WL_RTROPTP_3_GAMING-GTA-VI-PREVIEW.JPG?itok=nWacV1d7",
    "lang": "en"
   },
   {
@@ -252,10 +249,36 @@
    "lang": "en"
   },
   {
+   "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
+   "link": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
+   "source": "CNA World",
+   "published": "2026-11-25T06:00:00+08:00",
+   "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
+   "body": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--sUhDTYe5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-17T110633Z_1_LYNXNPEMAG0WL_RTROPTP_3_GAMING-GTA-VI-PREVIEW.JPG?itok=nWacV1d7",
+   "lang": "en"
+  },
+  {
+   "title": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
+   "link": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
+   "source": "CNA World",
+   "published": "2026-11-25T06:00:00+08:00",
+   "summary": "CNA found hundreds of online listings offering deregistered Singapore cars in Malaysia at bargain prices. Some sellers admit that buyers drive these cars illegally using cloned registration plates.",
+   "body": "CNA found hundreds of online listings offering deregistered Singapore cars in Malaysia at bargain prices. Some sellers admit that buyers drive these cars illegally using cloned registration plates.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--_zhLXWdK--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/19/dsc_3851_copy.jpg?itok=Sxzh3SI4",
+   "lang": "en"
+  },
+  {
    "title": "မြန်မာ့အရေး ICJ ဆုံးဖြတ်ချက်ကိုလေးစားမယ်လို့ အာဆီယံဥက္ကဋ္ဌဖြစ်လာမယ့် စင်ကာပူပြော",
    "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-25T04:39:05+00:00",
+   "published": "2026-11-25T05:39:04+00:00",
    "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
    "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
    "category": "Myanmar",
@@ -270,7 +293,7 @@
    "title": "မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်အရေးယူ",
    "link": "https://www.bbc.co.uk/burmese/live/cmqlq27ld9wqt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-25T04:39:05+00:00",
+   "published": "2026-11-25T05:39:04+00:00",
    "summary": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "မြန်မာအပေါ် ICJ စီရင်ချက်ကို ဗြိတိန်ကအသိအမှတ်ပြုပြီး မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကိုလည်း ဒဏ်ခတ်အရေးယူတယ်လို့ကြေညာတဲ့သတင်းအပါအဝင် ဒီကနေ့ မြန်မာနဲ့ ကမ္ဘာထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Europe / NATO",
@@ -283,10 +306,26 @@
    "lang": "my"
   },
   {
+   "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-25T05:28:45+00:00",
+   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
+   "body": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975",
+   "lang": "en"
+  },
+  {
    "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
    "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
    "source": "NYT World",
-   "published": "2026-11-25T04:31:18+00:00",
+   "published": "2026-11-25T05:24:35+00:00",
    "summary": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
    "body": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
    "category": "Asia-Pacific",
@@ -299,19 +338,289 @@
    "lang": "en"
   },
   {
-   "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "title": "UN Security Council to discuss Rohingya genocide ruling behind closed doors",
+   "link": "https://myanmar-now.org/en/news/un-security-council-to-discuss-rohingya-genocide-ruling-behind-closed-doors/",
+   "source": "Myanmar Now",
+   "published": "2026-11-25T05:19:07+00:00",
+   "summary": "Britain requested the discussion six days after the International Court of Justice found that Myanmar committed genocide against the Rohingya",
+   "body": "Britain requested the discussion six days after the International Court of Justice found that Myanmar committed genocide against the Rohingya",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar",
+    "United Kingdom"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/3-1024x640.jpeg",
+   "lang": "en"
+  },
+  {
+   "title": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T05:16:00+00:00",
+   "summary": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports Reuters",
+   "body": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports Reuters",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine live: Putin vows retaliation as attacks on oil plants continue",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T05:14:34+00:00",
+   "summary": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
+   "body": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s Ukraine-war realpolitik isn’t realistic | RICH LOWRY | Opinion - Las Vegas Review-Journal",
+   "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOcENIVFpKcGVTTlhfRmpubFdQbWpOc0ZITHpvZ2dfS1ZESjNHY0JuOVdDMnJ4TjN6bXh2cVBVNjlWVXRsSllMa09WTjBpdThSdU9CNlA2NGREX0hWM2poc0pRWVJnMnNJclZOWW1nVFpINE0yVy0wUmtDZ3BMS2U2dHJMcjVfeHFnc2dvd3Z0Q2x5VnhfRFpBN2hZYjBNQldKTmlEU1pWeFJDZG10d1lpUmhLSENPcXFlWTNhbHgxdWJ2NWR5eU5aVmJHQU1pbmF0Nm5pcXRWWlo4TFVIUWlYcnFxTHdUcmlaZWZxSkxiRk9SX3dQM3BqRG5VNUZzOS13T3A5U0Z6MUo1TlpQQ3VyVDcyTzJ5d0RwM2g3LTJoNV9iX3BOUkpQWXVTQzJQT1Q1QVNNeVZXTEN5R3J3RTc4RXBGZ1ZMS1A3dE1RQjJCb1JFMkZLUkotT3RQNkhnYkk3Q0hMMFA0WlJUNnYza25sYlZiUThxUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T05:08:50+00:00",
+   "summary": "Trump’s Ukraine-war realpolitik isn’t realistic | RICH LOWRY | Opinion Las Vegas Review-Journal",
+   "body": "Trump’s Ukraine-war realpolitik isn’t realistic | RICH LOWRY | Opinion Las Vegas Review-Journal",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Landmine ban treaty facing ‘greatest test’: monitor",
+   "link": "https://myanmar-now.org/en/news/landmine-ban-treaty-facing-greatest-test-monitor/",
+   "source": "Myanmar Now",
+   "published": "2026-11-25T05:06:21+00:00",
+   "summary": "Myanmar had the highest number of landmine casualties for the third year running, with \"massive\" new mine use recorded",
+   "body": "Myanmar had the highest number of landmine casualties for the third year running, with \"massive\" new mine use recorded",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/2025-04-07-14.01.44-1024x603.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "The Gambia election: Can the next president deliver on a decade of promise",
+   "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T05:03:04+00:00",
+   "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+   "body": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Photocredit-Sia-Sia-pictures-1795525542.jpeg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+   "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+   "source": "NYT World",
+   "published": "2026-11-25T05:01:14+00:00",
+   "summary": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?",
+   "body": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-hungary-files-01-khpb/25int-hungary-files-01-khpb-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "In charts: how power could shift in Europe’s big year of elections",
+   "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
    "source": "The Guardian",
-   "published": "2026-11-25T04:15:09+00:00",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
-   "body": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
-   "category": "Asia-Pacific",
+   "published": "2026-11-25T05:00:06+00:00",
+   "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Over the coming 12 months, more than half of the EU’s electorate will go to the polls in elections that could chan",
+   "body": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Over the coming 12 months, more than half of the EU’s electorate will go to the polls in elections that could change the direction of the continent, with attention focused on voters in four of the bloc’s five biggest states. In Spain, France and Poland, elections could bring the far right into government. Italy’s far-right prime minister looks likely to remain in power, but is under pressure from a challenger even more to the right. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France",
+    "Poland",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6c8d875c651e2501485fc0d31e2f52d2",
+   "lang": "en"
+  },
+  {
+   "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+   "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+   "source": "The Guardian",
+   "published": "2026-11-25T05:00:06+00:00",
+   "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety. The Saudi-bac",
+   "body": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety. The Saudi-backed Yemeni government had made the city its temporary capital; the hundreds of kilometres between it and the Houthis were well fortified. Continue reading...",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a72a13a74d03822c02704754be504b08",
+   "lang": "en"
+  },
+  {
+   "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+   "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T04:49:55+00:00",
+   "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+   "body": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T04:49:55+00:00",
+   "summary": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end BBC Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight The New York Times Kilmar Ábrego García, man at center of Trump deportation battle, leaves US The Guardian Kilmar Abrego Garcia ",
+   "body": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end BBC Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight The New York Times Kilmar Ábrego García, man at center of Trump deportation battle, leaves US The Guardian Kilmar Abrego Garcia leaving the US, self-deporting to Spain ABC News - Breaking News, Latest News and Videos Kilmar Abrego Garcia self-deports to Spain after fending off Trump administration legal onslaught Politico",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "UK warns companies of potential Russian sabotage threat",
+   "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T04:48:57+00:00",
+   "summary": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
+   "body": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Russia",
+    "United Kingdom"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-11-17T142342Z_505293507_RC227BANRU6A_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-BRITAIN-PROTEST-1795573872.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Thanksgiving storm 2026: NYC weather, wind, flooding and Macy's parade updates - ABC7 New York",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS21LblRMa0FVeHR2bVB4bkUxZWxDZ3lwQ2QweXpxV1lFVG1yck42Mm5qSVp5NUltYlZoUTQ4NEloTV9Jd1NxeUVDaFVvR2R4eEJMNTRPUW5JT2RzU0hJVVk1Q2FTTUZLXzdxZTJaQ3FEQklfM1RqS2twQ2NSM085TjM4c3NmSm5RSmNiLVcwTFJ1V1hxSU5LRG9KVEN5dFBHQVhfTU5TNzR2RnJjMkRNTGRGQzU?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T04:48:00+00:00",
+   "summary": "Thanksgiving storm 2026: NYC weather, wind, flooding and Macy's parade updates ABC7 New York Will the Macy's parade balloons fly? NYC weighs earlier start amid storm threat ABC7 New York Will the balloons fly this Thanksgiving? High winds expected during the Macy's Parade NBC New",
+   "body": "Thanksgiving storm 2026: NYC weather, wind, flooding and Macy's parade updates ABC7 New York Will the Macy's parade balloons fly? NYC weighs earlier start amid storm threat ABC7 New York Will the balloons fly this Thanksgiving? High winds expected during the Macy's Parade NBC New York Has the Macy’s Thanksgiving Day Parade ever been canceled? PIX11 Strong winds could ground Macy's Thanksgiving Day Parade balloons ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uZzI4ZWN4anJaYTctNGhWS2lzQnR6bHU0Sk1LWjBpeDVIekhIZDZTRmQ5a09DYl9OWl9jS3g4RzFDY1FEV2psVmVoQVpFWlNQbDNHUDVXOU5OalFuYTJhTUhvZ0RNZ25BZHJrNHlzc3lOT01XLVNqVFI5MNIBe0FVX3lxTE1nS3p5SkUxa1NoWWVoX3o2M0Q2X0JZTjl1TmhCeks4enhQVEJiX3hGSmU3OW1ZRTJSYmxSQWJGSXNVOFB4Q2VDNnZPMjBUalVfNlQyMktIS1RWVW1iQ3ptSDVvR2ozaEhOcS02Mm1SSWQxOFY3ajVSaXpwMA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T04:44:53+00:00",
+   "summary": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi DW.com",
+   "body": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "India news: US prepares new tariffs after trade probe",
+   "link": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-25T04:44:00+00:00",
+   "summary": "The United States is reportedly readying fresh tariffs on India and 15 other economies under a trade probe. Also, a woman was allegedly gangraped by her colleagues in the national capital. Follow live.",
+   "body": "The United States is reportedly readying fresh tariffs on India and 15 other economies under a trade probe. Also, a woman was allegedly gangraped by her colleagues in the national capital. Follow live.",
+   "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States",
-    "Australia"
+    "India"
    ],
-   "image": "https://i.guim.co.uk/img/media/38296a4aa5e85e8d793db99da1659b2cb525aea4/260_143_2751_2201/master/2751.jpg?width=140&quality=85&auto=format&fit=max&s=5ff92fc2d4cdd987183bc51e9a2a3858",
+   "image": "https://static.dw.com/image/76079733_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
+   "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-25T04:41:00+00:00",
+   "summary": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injures. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
+   "body": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injures. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://static.dw.com/image/80042297_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Steelers bench Aaron Rodgers for Mason Rudolph - NBC Sports",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTExESkE3Q2lRQ2hqVWs4blFtRVhCTXZnZmd2bV9PNXdqUTFVMEZVU0hxeUtPVk5vY1luVVYtZl9KSXdYUFVFMkM3VG50UU43b2NHbzBhOWtQSkd0YUNSUUFGMTFwa2hxaHBwYWI4SXNkT3I4bEREOVd2VXpqanNEYmpDN3ZtNDNZd0FtT0VhMUViWUx4RE1ZTHJISnRiRWR6cjc0U0N4ZV9qV3Yy?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T04:30:24+00:00",
+   "summary": "Steelers bench Aaron Rodgers for Mason Rudolph NBC Sports Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph ESPN Mike McCarthy doesn't mince words when asked if he thought about a QB change: 'Aaron Rodgers is our quarterback' Yahoo Sports Aaron Rodgers will be in",
+   "body": "Steelers bench Aaron Rodgers for Mason Rudolph NBC Sports Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph ESPN Mike McCarthy doesn't mince words when asked if he thought about a QB change: 'Aaron Rodgers is our quarterback' Yahoo Sports Aaron Rodgers will be inactive for Steelers Friday vs. Broncos; Mason Rudolph to start NFL.com Aaron Rodgers benched by Pittsburgh Steelers days before his 43rd birthday The Guardian",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes - Nintendo Life",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzM5R0dyLS1FWUZNVW9MTEg4UGwxMXREY3dua2lNTmxXOEJIX1Y4cF8zbllWZnFOOEFYbk9DZHhRdEs4SXZOTmh4cC1hTjhrYVEwN2gwNWJnd0NHWmNMQ0JEdzZnbHNDMHRUNE5jVWVvZEZtQnpiQVVoTzlxekFqZHdFbEtWVXZ0ZGt3RHZ3MWFDakxRYU1ONnZLanFIMUhQNlp2MlZOZUhzS0VMYkpZZHNlN3VzQ0tIQTBMeTk5MA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T04:30:00+00:00",
+   "summary": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes Nintendo Life Mario Kart World update adds 8 courses and more Nintendo Mario Kart World updated to Ver. 1.9.0 (8 revamped tracks, 2 new Knockout Tour rallies & more) GoNintendo Nintendo says Mario K",
+   "body": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes Nintendo Life Mario Kart World update adds 8 courses and more Nintendo Mario Kart World updated to Ver. 1.9.0 (8 revamped tracks, 2 new Knockout Tour rallies & more) GoNintendo Nintendo says Mario Kart World’s free update remixes eight familiar courses Digg Mario Kart World Version 1.9.0 adds eight remixed courses and better replay functionality Nintendo Wire",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Protesters clash with police over Venezuela’s poor minimum wage",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-25T04:27:10+00:00",
+   "summary": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
+   "body": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795580804.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -346,12 +655,12 @@
    "lang": "en"
   },
   {
-   "title": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live) - The Hollywood Reporter",
+   "title": "‘Dancing With the Stars’ Names Historic Season 35 Winner: See All the Scores, Who Won - The Hollywood Reporter",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWswLXdwUzJJMUdEYzRicGtOMEl6VVVIdFRpRExPLWZxaUhERnNNdFQ5dFRqaXBoQm1NeWpQcnZYeVNVdHF5QnZMazhYakdhZDgzV1FNcnp6MVV0ZVl1VFBTcTd5d3FwSnpHWlJuNjRmcERwazVoVjVoWWtkcE52cGc2ZDNJSjVzUWVXWGZIQW1wS1RFeHNMaW5MMS1OU3JfT1hZbDJ5d1NRUlhIUEVSaDVPM01nbzg?oc=5",
    "source": "Google News",
-   "published": "2026-11-25T03:56:15+00:00",
-   "summary": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live) The Hollywood Reporter 'Dancing with the Stars' Finale Recap: After a Mid-Dance Catastrophe, a New Champion Claims a Historic Win Peo",
-   "body": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live) The Hollywood Reporter 'Dancing with the Stars' Finale Recap: After a Mid-Dance Catastrophe, a New Champion Claims a Historic Win People.com ‘Dancing With the Stars’ Finale Recap: New Winner Crowned the Champion, Scores and Best Moments TODAY.com Amber Glenn’s DWTS routine videos: Watch the perfect 10s from Season 35 runner-up performance Yahoo Ahead of the ‘Dancing with the Stars’ finale on Tuesday, we rate the contenders — knowing anything could happen The Boston Globe",
+   "published": "2026-11-25T03:56:30+00:00",
+   "summary": "‘Dancing With the Stars’ Names Historic Season 35 Winner: See All the Scores, Who Won The Hollywood Reporter 'Dancing with the Stars' Finale Recap: After a Mid-Dance Catastrophe, a New Champion Claims a Historic Win People.com ‘Dancing With the Stars’ Finale Recap: New Winner Cro",
+   "body": "‘Dancing With the Stars’ Names Historic Season 35 Winner: See All the Scores, Who Won The Hollywood Reporter 'Dancing with the Stars' Finale Recap: After a Mid-Dance Catastrophe, a New Champion Claims a Historic Win People.com ‘Dancing With the Stars’ Finale Recap: New Winner Crowned the Champion, Scores and Best Moments TODAY.com 'Dancing With the Stars' crowns mirror ball champion: Finale recap and latest updates Yahoo 'Dancing with the Stars' watch parties on tap for live season finale ABC News - Breaking News, Latest News and Videos",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -375,21 +684,6 @@
    "lang": "en"
   },
   {
-   "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-   "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T03:54:43+00:00",
-   "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-   "body": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-   "lang": "en"
-  },
-  {
    "title": "နေပြည်တော်စစ်အုပ်စု၏ စစ်အသုံးစရိတ် သမိုင်းတလျှောက် အမြင့်ဆုံးစံချိန်တင်",
    "link": "https://myanmar-now.org/mm/news/82478/",
    "source": "Myanmar Now Burmese",
@@ -405,6 +699,22 @@
    "lang": "my"
   },
   {
+   "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T03:46:38+00:00",
+   "summary": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket BBC Pakistani pilot to become first foreigner to fly to China's space station Reuters China's Shenzhou 24 mission lifts off, carrying first foreign astronaut to its space station CBS News China's Shenzhou",
+   "body": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket BBC Pakistani pilot to become first foreigner to fly to China's space station Reuters China's Shenzhou 24 mission lifts off, carrying first foreign astronaut to its space station CBS News China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station Space China launches Shenzhou-24 crew, setting up a year-long orbital stay for one astronaut DW.com",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Pakistan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "US attorney general dodges questions about Nvidia investigation",
    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -417,6 +727,19 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+   "lang": "en"
+  },
+  {
+   "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T03:42:00+00:00",
+   "summary": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap Bloomberg.com Stocks retreat as AI rebound stumbles, tariff threats loom Reuters Asian stocks mostly decline as AI shares fall following a retreat on Wall Street AP News Asia’s stock markets dive as doubts to swirl ",
+   "body": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap Bloomberg.com Stocks retreat as AI rebound stumbles, tariff threats loom Reuters Asian stocks mostly decline as AI shares fall following a retreat on Wall Street AP News Asia’s stock markets dive as doubts to swirl over AI boom Al Jazeera Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters WSJ",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -483,28 +806,12 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine live: Putin vows retaliation as attacks on oil plants continue",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-25T03:28:10+00:00",
-   "summary": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
-   "body": "Ukraine live: Putin vows retaliation as attacks on oil plants continue The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
    "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
    "source": "The Guardian",
    "published": "2026-11-25T03:05:42+00:00",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. ",
-   "body": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation. Continue reading...",
+   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 How a Sydney police officer’s obsession led to a double murder Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon",
+   "body": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 How a Sydney police officer’s obsession led to a double murder Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -679,21 +986,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn’t necessary",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T02:19:00+00:00",
-   "summary": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn’t necessary NBC News Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week New York Post Trump open to pardoning Jensen Huang if need",
-   "body": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn’t necessary NBC News Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week New York Post Trump open to pardoning Jensen Huang if needed: NY Post CNBC Trump says ‘it’s probably not too late’ for the US to take a stake in Nvidia Business Insider Trump Says Huang Pardon ‘Always an Option,’ Report Says Bloomberg.com",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Rescue crews search for six people after plane crash off Mississippi coast",
    "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
    "source": "The Guardian",
@@ -784,21 +1076,6 @@
    "lang": "en"
   },
   {
-   "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T01:51:19+00:00",
-   "summary": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end BBC Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal The New York Times Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report WJLA Kilmar Abrego Ga",
-   "body": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end BBC Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal The New York Times Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report WJLA Kilmar Abrego Garcia leaving the US, self-deporting to Spain ABC News - Breaking News, Latest News and Videos Kilmar Ábrego García, man at center of Trump deportation battle, leaves US The Guardian",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
    "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
    "source": "The Guardian",
@@ -819,8 +1096,8 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
    "source": "Google News",
    "published": "2026-11-25T01:46:00+00:00",
-   "summary": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times ‘It gets worse and worse:' Coastal flooding hits California community again Yahoo King Salmon residents ordered to evacuat",
-   "body": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times ‘It gets worse and worse:' Coastal flooding hits California community again Yahoo King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding KRCR King tides could break decades-old records and flood communities on both coasts on Thanksgiving week AP News",
+   "summary": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding KRCR King tides could break decades-old rec",
+   "body": "Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area California King Tides Threaten ‘Extreme’ Coastal Flooding The New York Times King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding KRCR King tides could break decades-old records and flood communities on both coasts on Thanksgiving week AP News High surf, coastal flood warnings issued for Monterey County coast KSBW",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -832,8 +1109,8 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5",
    "source": "Google News",
    "published": "2026-11-25T01:43:00+00:00",
-   "summary": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 CNBC Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds",
-   "body": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 CNBC Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say The New York Times Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port Reuters",
+   "summary": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 CNBC Iran war updates: Saudi-led coalition orders evacuation of Hodeidah Port Al Jazeera Houthi Attack on Skyscraper in Saudi Capita",
+   "body": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 CNBC Iran war updates: Saudi-led coalition orders evacuation of Hodeidah Port Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say The New York Times Fighting a Radical Militia Was Not Part of the Plan The Atlantic",
    "category": "Middle East",
    "is_war": false,
    "countries": [
@@ -842,21 +1119,6 @@
     "Saudi Arabia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "See all of Trump’s Nvidia stock trades since January - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFN1NjNabnl6R0dSSEk4dUdzSFNhM0pRS1phcHh1WGNQcjRLbjk5RG5wNlI3TURtRTR3cmZuQVV6TGZhOXJsUldWOTF0WHVhVFlLQy1CaXdFZ1NTbVdXai1FZ2M0WEh4UmRCYnlPWEZMaUh2NlF5cjZUMGc4Uldwc3lnV2ZlZ0hmYURSQWtLd2RWd2RDX0RfVi1vY1liMnVVeGc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T01:42:24+00:00",
-   "summary": "See all of Trump’s Nvidia stock trades since January The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang says he’s thankful for second chance at Nvidia employee meeting NBC News Long Live the Chip King The New Yorker Nvidia live updates: Nvi",
-   "body": "See all of Trump’s Nvidia stock trades since January The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang says he’s thankful for second chance at Nvidia employee meeting NBC News Long Live the Chip King The New Yorker Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO Yahoo Finance",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
    "lang": "en"
   },
   {
@@ -888,12 +1150,25 @@
    "lang": "en"
   },
   {
+   "title": "Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWENhWVRxcFNVSWY3UzI1bFl1a1ZDM241N2x1SEVma0NyMlpBaXowWmh4Sy10cnV0SEUwOUUxSVpqQjR1S3NObVItTVYyWjNxM2NrSkxQYW1YbzhzLXJoaTVMOUJ4dmV6MHlyQlBsbXp2Smdq?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T01:38:00+00:00",
+   "summary": "Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show CBS News Fort Hood mass shooter asks judge to halt firing-squad execution set for next week CNN They want to watch Fort Hood shooter Nidal Hasan die but the Army won’t let them ABC News - Bre",
+   "body": "Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show CBS News Fort Hood mass shooter asks judge to halt firing-squad execution set for next week CNN They want to watch Fort Hood shooter Nidal Hasan die but the Army won’t let them ABC News - Breaking News, Latest News and Videos Fort Hood survivors denied bid to witness shooter’s firing-squad execution The Guardian Most Fort Hood soldiers will not go to work when the Army executes Nidal Hasan Task & Purpose",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
    "source": "Google News",
    "published": "2026-11-25T01:37:38+00:00",
-   "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Feds have added mitigation strategies, local aid ahead of lead azide detonation Iowa Capital Dispatch PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Amm",
-   "body": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Feds have added mitigation strategies, local aid ahead of lead azide detonation Iowa Capital Dispatch PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Ammunition Plant KCCI Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning The New York Times Latest maps provided by US Army show potential locations of lead exposure during Wednesday's controlled detonation WQAD",
+   "summary": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Feds have added mitigation strategies, local aid ahead of lead azide detonation Iowa Capital Dispatch Army's lead azide detonation in Iowa presents \"no threat to Minnesotans,\" Wa",
+   "body": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Feds have added mitigation strategies, local aid ahead of lead azide detonation Iowa Capital Dispatch Army's lead azide detonation in Iowa presents \"no threat to Minnesotans,\" Walz says CBS News Latest maps provided by US Army show potential locations of lead exposure during Wednesday's controlled detonation WQAD Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning The New York Times",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -933,23 +1208,6 @@
    "lang": "en"
   },
   {
-   "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T01:22:00+00:00",
-   "summary": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News China’s Huawei Convicted of Fraud in U.S. Criminal",
-   "body": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets NBC News China’s Huawei Convicted of Fraud in U.S. Criminal Trial WSJ Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC Huawei convicted in US trial that exposed corporate espionage and sanctions evasion Financial Times",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
    "source": "Al Jazeera",
@@ -981,19 +1239,6 @@
    "lang": "en"
   },
   {
-   "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes - Nintendo Life",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzM5R0dyLS1FWUZNVW9MTEg4UGwxMXREY3dua2lNTmxXOEJIX1Y4cF8zbllWZnFOOEFYbk9DZHhRdEs4SXZOTmh4cC1hTjhrYVEwN2gwNWJnd0NHWmNMQ0JEdzZnbHNDMHRUNE5jVWVvZEZtQnpiQVVoTzlxekFqZHdFbEtWVXZ0ZGt3RHZ3MWFDakxRYU1ONnZLanFIMUhQNlp2MlZOZUhzS0VMYkpZZHNlN3VzQ0tIQTBMeTk5MA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T01:13:51+00:00",
-   "summary": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes Nintendo Life Mario Kart World update adds 8 courses and more Nintendo Mario Kart World updated to Ver. 1.9.0 (8 revamped tracks, 2 new Knockout Tour rallies & more) GoNintendo Nintendo says Mario K",
-   "body": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes Nintendo Life Mario Kart World update adds 8 courses and more Nintendo Mario Kart World updated to Ver. 1.9.0 (8 revamped tracks, 2 new Knockout Tour rallies & more) GoNintendo Nintendo says Mario Kart World’s free update remixes eight familiar courses Digg Mario Kart World Version 1.9.0 adds eight remixed courses and better replay functionality Nintendo Wire",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "သာမန် အရှုပ်တော်ပုံ မဟုတ်ဘူး",
    "link": "https://burma.irrawaddy.com/video/2026/11/25/417851.html",
    "source": "Irrawaddy Burmese",
@@ -1005,6 +1250,22 @@
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Ai-interview-900x506.jpg",
    "lang": "my"
+  },
+  {
+   "title": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxOaThiVDlHRFdTUnBOQU1yUHBiMFdodnVwbWVHdEJpSV9iRV9iZHpZa29tOWR3RHZaSy1uSG11b0p6SG1lMmxtaHFuMm40YzgxTGRCQm5McmVnZ1V6cUpfUWRzZUJBSVd3M3AyMEtVWGE0RXBJTUxtcGFLYmZ2RkhXYm1CakMzcUx4RVJuZjdfQkZ6NDNIcnpIZ0licGVvN2tZNlA1QQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-25T01:08:12+00:00",
+   "summary": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack The Kyiv Independent",
+   "body": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
   },
   {
    "title": "Israel Palestinians Gaza - TelegraphHerald.com",
@@ -1092,6 +1353,19 @@
    "lang": "en"
   },
   {
+   "title": "4 adults and 2 kids are missing after plane crashes off Mississippi coast",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T00:57:00+00:00",
+   "summary": "4 adults and 2 kids are missing after plane crashes off Mississippi coast NBC News Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island CNN 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says WLOX Searc",
+   "body": "4 adults and 2 kids are missing after plane crashes off Mississippi coast NBC News Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island CNN 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says WLOX Search underway in water near Horn Island for four adults, two kids involved in plane crash WDSU Rescue crews search for six people after plane crash off Mississippi coast The Guardian",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1171,8 +1445,8 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1VpTWRiYXFQWkdxRUpwTHctN1gwUThVSnM5S1hUVEdMZjVaNG5QamNGUERmUzByN2tORlVOc05nRGF4R0RPa2VkNUNDY1hLb1cwSHlhNlFGc0l6dG5YUTl1eEpRRWJNRE8zaEtfSElsQjdXbTF6bHpIVU9kenRHUDZOcEJhMGRrd1R1Y0xEVmtKQW4wdmNNNldqaUNrOVJIMG93aFBxSV9HTW11NE1iQU1TRlYxRGxlTG9mM3A5dTBFbjJuemc?oc=5",
    "source": "Google News",
    "published": "2026-11-25T00:45:00+00:00",
-   "summary": "The beaver supermoon glows across the globe – in pictures The Guardian How and when to watch November’s beaver moon CNN November's full beaver moon will be the first of four consecutive supermoons 9NEWS A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky Forbes Watc",
-   "body": "The beaver supermoon glows across the globe – in pictures The Guardian How and when to watch November’s beaver moon CNN November's full beaver moon will be the first of four consecutive supermoons 9NEWS A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky Forbes Watch November's full Beaver Moon live online today with supermoon livestream Space",
+   "summary": "The beaver supermoon glows across the globe – in pictures The Guardian How and when to watch November’s beaver moon CNN A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky Forbes November's full beaver moon will be the first of four consecutive supermoons 9News Watc",
+   "body": "The beaver supermoon glows across the globe – in pictures The Guardian How and when to watch November’s beaver moon CNN A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky Forbes November's full beaver moon will be the first of four consecutive supermoons 9News Watch November's full Beaver Moon live online today with supermoon livestream Space",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1241,13 +1515,13 @@
    "lang": "en"
   },
   {
-   "title": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5",
+   "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5",
    "source": "Google News",
-   "published": "2026-11-25T00:15:00+00:00",
-   "summary": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution NBC News Fort Hood mass shooter asks judge to halt firing-squad execution set for next week CNN Fort Hood shooter Nidal Hasan expected to file habeas petition that could delay his execution ABC News",
-   "body": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution NBC News Fort Hood mass shooter asks judge to halt firing-squad execution set for next week CNN Fort Hood shooter Nidal Hasan expected to file habeas petition that could delay his execution ABC News - Breaking News, Latest News and Videos Fort Hood survivors denied bid to witness shooter’s firing-squad execution The Guardian Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show CBS News",
-   "category": "USA / Americas",
+   "published": "2026-11-25T00:21:00+00:00",
+   "summary": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO AP News The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times Long Live the Chip King The New Yorker Jensen ",
+   "body": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO AP News The Frantic White House Push to Get Jensen Huang Back WSJ Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times Long Live the Chip King The New Yorker Jensen Huang says he’s thankful for second chance at Nvidia employee meeting NBC News",
+   "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
@@ -1287,21 +1561,6 @@
    "lang": "en"
   },
   {
-   "title": "Metropolitan police still institutionally racist and misogynist, says report",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-   "source": "The Guardian",
-   "published": "2026-11-25T00:01:01+00:00",
-   "summary": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murder Latest review of Met police culture finds little has changed since last one The Metropolitan police remain institutionally racist, misogynistic and homophobic",
-   "body": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murder Latest review of Met police culture finds little has changed since last one The Metropolitan police remain institutionally racist, misogynistic and homophobic three years after a damning review into the force’s culture, a report has found. The investigation by Gillian Fairfield found “fundamental, systemic issues” and “institutional defensiveness” still existed in Britain’s biggest police force, which has struggled “to acknowledge racism as a structural problem”. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/32a53d47c4e69c1cee3b77ce1cb76cd8bec7c202/541_0_5408_4326/master/5408.jpg?width=140&quality=85&auto=format&fit=max&s=8b216ce7b1480d11bb4a41157bb296ff",
-   "lang": "en"
-  },
-  {
    "title": "England has largest frailty gap out of 31 countries, study finds",
    "link": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
    "source": "The Guardian",
@@ -1316,6 +1575,19 @@
     "France"
    ],
    "image": "https://i.guim.co.uk/img/media/03c099112981b7055e78c51a3d179c98b98545fa/416_0_4158_3327/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=87d70a9eea9739c2a6b9258259431001",
+   "lang": "en"
+  },
+  {
+   "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
+   "source": "The Guardian",
+   "published": "2026-11-25T00:01:01+00:00",
+   "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are among the projects that will receive government funding to help seaside communities in England adap",
+   "body": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are among the projects that will receive government funding to help seaside communities in England adapt to rising seas and coastal erosion accelerated by climate breakdown . More than £11m will be shared between 12 council-led projects that will test ways to spot coastal change earlier and help communities plan for the effects. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/ce04a5cb09e22f892bbbb0638df2ea14eea476ff/0_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=2d61b85839f1778efeeb8d0e40380630",
    "lang": "en"
   },
   {
@@ -1355,8 +1627,8 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHJGYVRUS2RpMHVYUUFTYzl3c1JRYnJlMktLNWozTTFmdHRtaTcyc1h0SGV1SURTT3ZHVDVORUpLMjRUY21PblMwWThUM0Z6NXBuTE1OVENKLVBpSmkxUFZFWmxURW83c1BKTU9PT24zd3FncVAwYW1IY3BtNEw5UmF1LXBsSk5hQjVER3A1WndQcUlXcnc0S1ltTEJMYm54Zk5Idi1ESGxmWmtJcXFYdXpJQ0hSWi1CM0VzZGdB?oc=5",
    "source": "Google News",
    "published": "2026-11-24T23:47:00+00:00",
-   "summary": "'It's not a matter of if': King tides threaten Oregon coast beachgoers OregonLive.com Cannon Beach visitor and dog swept up in sneaker wave after warning about king tides KGW WATCH: Harrowing video shows man, dog narrowly escape king tides at Cannon Beach KATU ‘Not worth risking ",
-   "body": "'It's not a matter of if': King tides threaten Oregon coast beachgoers OregonLive.com Cannon Beach visitor and dog swept up in sneaker wave after warning about king tides KGW WATCH: Harrowing video shows man, dog narrowly escape king tides at Cannon Beach KATU ‘Not worth risking your life’: Video shows man and dog swept into surf by powerful King Tides at Cannon Beach KOIN.com Thanksgiving on the North Coast, weather or not The Daily Astorian",
+   "summary": "'It's not a matter of if': King tides threaten Oregon coast beachgoers OregonLive.com Cannon Beach visitor and dog swept up in sneaker wave after warning about king tides KGW ‘Not worth risking your life’: Video shows man and dog swept into surf by powerful King Tides at Cannon B",
+   "body": "'It's not a matter of if': King tides threaten Oregon coast beachgoers OregonLive.com Cannon Beach visitor and dog swept up in sneaker wave after warning about king tides KGW ‘Not worth risking your life’: Video shows man and dog swept into surf by powerful King Tides at Cannon Beach KOIN.com WATCH: Harrowing video shows man, dog narrowly escape king tides at Cannon Beach KATU Thanksgiving on the North Coast, weather or not The Daily Astorian",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1390,41 +1662,12 @@
    "lang": "en"
   },
   {
-   "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:38:00+00:00",
-   "summary": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket BBC Shenzhou-24 live: China launches crew including Pakistani to its space station Reuters China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station Space Pakistan’s Zeesh",
-   "body": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket BBC Shenzhou-24 live: China launches crew including Pakistani to its space station Reuters China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station Space Pakistan’s Zeeshan Ali set for historic flight to China’s space station Al Jazeera China launches Shenzhou-24 crew, setting up a year-long orbital stay for one astronaut DW.com",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "China",
-    "Pakistan"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice - Science Daily",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9udGxVdXNESHFWTzMwSlhqQ3RCQzZKckk3d2VNTXBsZF9FUDhSNWdWSV8tZWxRSVVDcjNUUks1WjJUcHpCd0hNeXZaenF5VVZYNGNFLTZCc3U3MXVaOWNiWFNOX19JRWhQc1EwYlY1WQ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T23:32:47+00:00",
    "summary": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice Science Daily Inspired by 'Flowers for Algernon,' experimental nose drops improve memory in mice Medical Xpress Experimental nasal drops may prevent Alzheimer’s memory loss Yahoo Health Experimental Nose D",
    "body": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice Science Daily Inspired by 'Flowers for Algernon,' experimental nose drops improve memory in mice Medical Xpress Experimental nasal drops may prevent Alzheimer’s memory loss Yahoo Health Experimental Nose Drops Restored Fading Memory And Boosted Neuron Growth In Mice ScienceAlert Intranasal mRNA-LNP Nose Drops Improve Memory in Alzheimer’s Mouse Models The Scientist",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pOWV5VG1WLXJRRVZTMEVqMjdiYjI1Zkx2bGNRMFVGWkdjYlo0VGJoODNVU2ZIZl9aWGV2dkpfYm9LU1dSME1KMldYZmNJaUZrSnFTVjZtZ0RSNXRUWERHSWxZQWhGNWZORVJlVGR3SXl6VkUzd3NfSA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T23:32:06+00:00",
-   "summary": "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island CNN Six missing after plane crashes into water near Mississippi's Horn Island KATU 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says WLOX Rescue cr",
-   "body": "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island CNN Six missing after plane crashes into water near Mississippi's Horn Island KATU 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says WLOX Rescue crews search for six people after plane crash off Mississippi coast The Guardian Search underway in water near Horn Island for four adults, two kids involved in plane crash WDSU",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1465,6 +1708,22 @@
    "lang": "en"
   },
   {
+   "title": "Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv - The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2hSZ0oxX19HOEpqSkVIVEtoNDJCai1xclllRWRyaEY5WHdsdWxlMGhwbTJMUFhXdlFtbFFhaGRlTVpGckRFSHRoaXhjeklNVndJOFRwTDlOZmhVb2pueEZwNWVJaERIM2MxU0xXMHJWZHpDdUd5TUluRjdfSF9oVlJyUEQwZmhUSzItcjNzY3FYR2ltMExhc0E3eHNaSldaaFU0cEV3?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-24T23:08:00+00:00",
+   "summary": "Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv The Kyiv Independent",
+   "body": "Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv The Kyiv Independent",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1500,8 +1759,8 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
    "source": "Google News",
    "published": "2026-11-24T22:55:43+00:00",
-   "summary": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times Hackers Breach CIA System to Access Unclassifi",
-   "body": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times Hackers Breach CIA System to Access Unclassified Information Bloomberg.com U.S. Spy Agencies Hit By Hack Forbes",
+   "summary": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times Hackers breach CIA unclassified computer syste",
+   "body": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters CIA hit by hack impacting unclassified information CNN U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times Hackers breach CIA unclassified computer system The Washington Post U.S. Spy Agencies Hit By Hack Forbes",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -1526,15 +1785,32 @@
    "lang": "en"
   },
   {
+   "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFLWUzUlh2LTlsVFlxR0M2OFFTVUFMSks0a2pTSUdnUXZMalVSWVpnN2RhSURuRnZ6alVFRWI5MndRSTJMeFUzWFVSaEl4Y0k1MFhxRW5HOUtxSGM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-24T22:49:41+00:00",
+   "summary": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel BBC Burnham launches inquiry into nuclear bomb test veterans’ records The Guardian Britain launches inquiry into impact of nuclear tests on veterans Reuters “Nuclear test veterans and their ",
+   "body": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel BBC Burnham launches inquiry into nuclear bomb test veterans’ records The Guardian Britain launches inquiry into impact of nuclear tests on veterans Reuters “Nuclear test veterans and their families have waited too long for the truth” – PM announces Independent Panel on nuclear weapons testing GOV.UK Panel to probe potential nuclear tests ‘cover-up' to be announced | ITV News ITVX",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap - MarketWatch",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU5LYWF5Y19XWTJEWE5qR2FFQURWX1RRXy1Vc2dTRE9kWl80T21lLXNta0VRUEE5ZjE1VjUtX1VnX1d6d1JpWGhoQVc2YVRVdlJmOUtIbi1XbnQ2am1FSnFFN0RsaHVlT2FUMnZWLUt1czRzQXpibXl4NG5lQ0EyUFlrb3NQRVNWS1pLaEVjcGljSkRKOTVJenlIUGx5T1ZJYWF1S0VQdHNnVGFwODFiY1JaeUZVNGVpWHh5ZW54eHZUQnJZNXR1dFNrNXAyRW5T?oc=5",
    "source": "Google News",
    "published": "2026-11-24T22:46:00+00:00",
-   "summary": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch See more headlines & perspectives on Google News",
-   "body": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch See more headlines & perspectives on Google News",
+   "summary": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates CNBC Stock Markets Slip as Nvidia and A.I. Stocks Era",
+   "body": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap MarketWatch Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates CNBC Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally The New York Times Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump WSJ Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake Investor's Business Daily",
    "category": "Global",
    "is_war": false,
-   "countries": [],
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1552,17 +1828,17 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine says attack on Russian ships in Libya was self-defence",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
+   "title": "Ukraine war latest: European troops should be in Ukraine, ex-PM argues - as he calls Trump's behaviour 'putrid'",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXFfdnlza0JfdVgyQS13Rml1WXR6dFpLVUxoUk11VHRhOTVmRzhOMlpfUXJ6WHpxNjZmYTZNYkg0Y0VWRWtWdDdCV3RnUGZOaGV2R0dMVnRLTUtEWlN0OTZ1OXlWd0QzelRkVVFFRXFBRnNIaDlneEVjQ09senhJVHZNMkVXeEV6cWl0cXg5YVlVdGVnejNhV0dR?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-24T22:37:11+00:00",
-   "summary": "Ukraine says attack on Russian ships in Libya was self-defence Reuters",
-   "body": "Ukraine says attack on Russian ships in Libya was self-defence Reuters",
+   "published": "2026-11-24T22:35:00+00:00",
+   "summary": "Ukraine war latest: European troops should be in Ukraine, ex-PM argues - as he calls Trump's behaviour 'putrid' Sky News",
+   "body": "Ukraine war latest: European troops should be in Ukraine, ex-PM argues - as he calls Trump's behaviour 'putrid' Sky News",
    "category": "Ukraine / Russia",
-   "is_war": false,
+   "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia"
+    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1593,21 +1869,6 @@
     "Ukraine",
     "Russia",
     "Belarus"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWlLeWp5azljeGpxY3d0SlhMWXhwbFdEenBhRjczQ1VPWUIyVFByOE5oeXJSekJBd01PMXVHbE5qVFlMU2V5dFFSb1RKYnZGaDlqRDBDOTZ0d3NFWFRpa29DRklhdm80S2RINUJlSUhzbDB6QjU2Q3lSc3VmLU9wek10QXp3UVN2WEE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T22:13:39+00:00",
-   "summary": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers CBS News Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service WSJ Shein to pay $100 million to settle US shipping, customer service claims Reuters Shein to pay $100mn to resolv",
-   "body": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers CBS News Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service WSJ Shein to pay $100 million to settle US shipping, customer service claims Reuters Shein to pay $100mn to resolve US allegations that it deceived customers Financial Times Shein to Pay $100 Million to End US’s Deceptive Marketing Case Bloomberg.com",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1653,260 +1914,6 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d717d6c2e-1795544855.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-   "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T21:45:42+00:00",
-   "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
-   "body": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05c84d4491-1795541069.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-   "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T21:43:34+00:00",
-   "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
-   "body": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Schumann to FSU defensive commit: \"I don't play a scheme, we just play defense, and it starts with mentality.\" - 247Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWEtRHc4UHRDZG5EaEtwWWpBWmlJQW02VzY3cU50bG9oOVhTMXgzYnNETmdLakxtOEJGR0tsMkhZN0tLYzNDTmU1eTFRcC1BcFNVUU00RFhKMXZNa2xtdjltZFNYTEw0Tkd4WGtmMmNrZjBxdXFPOFV6MUV4VGxWNFNHNmhQMWpIV2Q1SXQ4MVRMZlN4R01jQlRmb1Z1RVVJeUtpbkZRd3ktMWd5NVRQbXlvdXF1SnlOOW5QZUVnaDRlWGVV?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T21:35:49+00:00",
-   "summary": "Schumann to FSU defensive commit: \"I don't play a scheme, we just play defense, and it starts with mentality.\" 247Sports Georgia defensive coordinator Glenn Schumann agrees to coach Florida State ESPN 'It was a no-brainer': Jeff Purinton details Florida State's hire of Glenn Schu",
-   "body": "Schumann to FSU defensive commit: \"I don't play a scheme, we just play defense, and it starts with mentality.\" 247Sports Georgia defensive coordinator Glenn Schumann agrees to coach Florida State ESPN 'It was a no-brainer': Jeff Purinton details Florida State's hire of Glenn Schumann 247Sports What to know about the two key internal candidates for Georgia DC opening DawgNation Glenn Schumann Named Florida State Head Coach - Florida State University Seminoles.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "NATO"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Study estimates Russian troop deaths in Ukraine war at more than 700,000",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hMUhseWtCTm8ySzZqa2hxUmg0U0MxTUtXTEZjRE81OTYyMmJveW9hbVBGSS1ycWRJV2tyd2prMFlfX2J2Vlg0OXdCek0tSFBVaUdKWmFB?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T21:28:43+00:00",
-   "summary": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Fox News",
-   "body": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Fox News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0twd3M1WkVxYXdkamRYSmpJbXluNjJ5dVFLaXdtSzAtTzU1WUd3M3hsZEY4UUt4VjZwYjZrU1ZZSWItOTJhQ0NSZ25sd2l3aFNYYTJieWtjRlFBSmdaUGFURUZTSkppSWNPS2RZYmZtcUdBdVV3TnRyLVNrX2xkdTZGalJXcGZVTDhQT2dn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T21:28:43+00:00",
-   "summary": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Yahoo",
-   "body": "Study estimates Russian troop deaths in Ukraine war at more than 700,000 Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one - TribLIVE.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW41d3hlaDZQRFJESk5MMUlnS21JZklYX0JqYU5MZGc1N2g2UmJoTFplRF9odjlzbzMzLUFQS01zYzl1ekNPTjM1cDdYWWhiLTRrYWo3aVRsYTdJRl96S0wzQVpEOVlsRURlYVQxYTVYakhGUVdLNmRGNWxzNFA3dWJjVGVFMDh1U3NOeDJ3V3d5Tm5xbjYta1cyWVRzeE80LWZWWlB6WTY3LTk2YkYxeXdzbDZGRHlWREVlOWliODZTOXht?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T21:22:38+00:00",
-   "summary": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one TribLIVE.com Measles Is a Growing Risk for Adults in the United States The New York Times CDC looks to bolster employee morale after U.S. loses measles elimination status Government Executi",
-   "body": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one TribLIVE.com Measles Is a Growing Risk for Adults in the United States The New York Times CDC looks to bolster employee morale after U.S. loses measles elimination status Government Executive Back-to-back measles deaths is our new reality; US tally now at 14 Ars Technica What the Return of Measles Means for the U.S. Time Magazine",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "",
-   "lang": "en"
-  },
-  {
-   "title": "Russian jets spark air raid alert in South Korea",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T21:14:57+00:00",
-   "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-   "body": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "South Korea"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795554891.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "‘Saturday Night Live’ Is Coming to France",
-   "link": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
-   "source": "NYT World",
-   "published": "2026-11-24T21:13:22+00:00",
-   "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
-   "body": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "United Kingdom",
-    "France"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-   "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-   "source": "NYT World",
-   "published": "2026-11-24T21:12:54+00:00",
-   "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-   "body": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
-   "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T21:04:46+00:00",
-   "summary": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
-   "body": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T20:58:41+00:00",
-   "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-   "body": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795553913.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "GTA 6's Staggering Sales Still Might Never Catch GTA 5 - Polygon.com",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93anp5TzY1NDdWanFYOEYzdElDWWZ3SEVUNk5ucDhNR2QtZG5zMVVJTm5KTWxjYkdKbTJaQUpiN29QVlJSQVc0dGhqWVk5bm1HU2EwT1k5Q1h1Z1R3a2c?oc=5",
-   "source": "Google News",
-   "published": "2026-11-24T20:56:41+00:00",
-   "summary": "GTA 6's Staggering Sales Still Might Never Catch GTA 5 Polygon.com Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog Grand Theft Auto VI Will Steal Your Heart The New York Times Grand Theft Auto VI Shatters Entertainment Box Offic",
-   "body": "GTA 6's Staggering Sales Still Might Never Catch GTA 5 Polygon.com Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog Grand Theft Auto VI Will Steal Your Heart The New York Times Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales Take-Two Interactive Software, Inc. How Amazon CloudFront helped deliver Grand Theft Auto VI to players | Amazon Web Services Amazon Web Services",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "National Security vs. the Stock Market",
-   "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-   "source": "NYT World",
-   "published": "2026-11-24T20:56:04+00:00",
-   "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
-   "body": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-24T20:54:49+00:00",
-   "summary": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles Reuters",
-   "body": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles Reuters",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-   "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T20:35:03+00:00",
-   "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
-   "body": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "Turkey"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-   "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-24T20:28:40+00:00",
-   "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
-   "body": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05ced74a94-1795542743.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Chinese Scholars Say Batanes Belongs to China. China Sent Ships. - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTi1BM1FBOTVnS2hHV3U5UnJMT0JYTTB4QlVub0o1TW8zMDd1Y0MyRUM4RkxjM1NELVg3UXU3ZEtfYzVfb1pCYkpBMmtKT25yQ09fTUNLRkRYT2IyRzVBNnlzT1VWYjVTUFVIRGZ4THg4LVZrMmFmSDhnUjZyUXdTY2UwaUpqeXl4TTZCbHNnWjRfakRyR0RJcEtfZks3R3pRT0h2SXI2Tmx1MVVrZVBMMXpRcFRIRkpIdVFPWg?oc=5",
-   "source": "Google News · China Taiwan",
-   "published": "2026-11-24T20:10:54+00:00",
-   "summary": "Chinese Scholars Say Batanes Belongs to China. China Sent Ships. Forbes",
-   "body": "Chinese Scholars Say Batanes Belongs to China. China Sent Ships. Forbes",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
