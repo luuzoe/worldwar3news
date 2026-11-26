@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T11:38:49.906152+00:00",
- "updated_yangon": "2026-11-26 18:08",
+ "updated": "2026-11-26T12:38:54.753356+00:00",
+ "updated_yangon": "2026-11-26 19:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -10,6 +10,7 @@
   "DW",
   "Google News",
   "Google News · China Taiwan",
+  "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
@@ -22,30 +23,38 @@
  "countries": [
   [
    "United States",
-   36
+   33
   ],
   [
    "Russia",
-   21
+   18
   ],
   [
    "Ukraine",
-   19
+   16
   ],
   [
    "Myanmar",
-   12
-  ],
-  [
-   "United Kingdom",
-   8
-  ],
-  [
-   "Palestine",
-   6
+   13
   ],
   [
    "China",
+   11
+  ],
+  [
+   "Palestine",
+   10
+  ],
+  [
+   "United Kingdom",
+   9
+  ],
+  [
+   "European Union",
+   6
+  ],
+  [
+   "Japan",
    6
   ],
   [
@@ -53,27 +62,27 @@
    6
   ],
   [
-   "European Union",
+   "Germany",
    5
   ],
   [
-   "Germany",
-   4
+   "Israel",
+   5
   ],
   [
-   "Japan",
-   4
+   "Iran",
+   2
   ],
   [
-   "Australia",
-   4
+   "Saudi Arabia",
+   2
   ],
   [
    "Egypt",
    2
   ],
   [
-   "Israel",
+   "Turkey",
    2
   ],
   [
@@ -85,8 +94,12 @@
    2
   ],
   [
-   "NATO",
-   2
+   "Yemen",
+   1
+  ],
+  [
+   "France",
+   1
   ],
   [
    "Iraq",
@@ -97,15 +110,7 @@
    1
   ],
   [
-   "Turkey",
-   1
-  ],
-  [
-   "Iran",
-   1
-  ],
-  [
-   "France",
+   "Australia",
    1
   ]
  ],
@@ -120,12 +125,25 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 28,
+ "war_count": 27,
  "languages": {
   "my": 26,
   "en": 114
  },
  "items": [
+  {
+   "title": "Singaporean doctor remanded in Melbourne before sentencing for filming over 800 women in toilets",
+   "link": "https://www.channelnewsasia.com/singapore/ryan-cho-singaporean-doctor-record-videos-melbourne-hospital-toilets-custody-6584586",
+   "source": "CNA World",
+   "published": "2026-11-26T19:41:00+08:00",
+   "summary": "A three-day pre-sentence hearing that ended on Thursday (Nov 26) examined Ryan Cho’s remorse, rehabilitation and risk of reoffending ahead of his sentencing on Feb 12, 2027.",
+   "body": "A three-day pre-sentence hearing that ended on Thursday (Nov 26) examined Ryan Cho’s remorse, rehabilitation and risk of reoffending ahead of his sentencing on Feb 12, 2027.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s---g4L3a3C--/c_crop,h_957,w_1702,x_88,y_154/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/26/ryan_cho_victoria_county.png?itok=NgH3wOWA",
+   "lang": "en"
+  },
   {
    "title": "Families with complex needs to get ‘more coordinated’ support from 2029 as Singapore revamps services",
    "link": "https://www.channelnewsasia.com/singapore/one-family-service-coordinated-support-social-services-msf-6584151",
@@ -220,6 +238,190 @@
    "lang": "en"
   },
   {
+   "title": "ICJ စီရင်ချက်အပေါ် လုပ်သင့်တာလုပ်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြော",
+   "link": "https://www.bbc.co.uk/burmese/live/ckyvdjzv25lyt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-26T12:39:09+00:00",
+   "summary": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82f/live/17999410-e937-11f1-970d-97c3fa570769.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "ဖိလစ်ပိုင်က မြန်မာ့အရေးဆွေးနွေးပွဲ SECF၊ NUG၊ EROs နဲ့ စင်ကာပူ တက်ရောက်",
+   "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-26T12:39:09+00:00",
+   "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf3/live/99b9b0b0-e8c9-11f1-ac76-db9e97f93d67.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Tributes for Duran Duran guitarist Andy Taylor after his death at 65",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T12:33:23+00:00",
+   "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+   "body": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2990/live/c4071ed0-e981-11f1-99b6-a35a62fa4264.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Mandelson tried to arrange ‘under radar’ meeting involving ex-lobbying colleague and Trump adviser, documents reveal – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:27:37+00:00",
+   "summary": "The disgraced peer said he wanted to hold a lunch to discuss ‘alternative options’ to the World Trade Organization The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain need",
+   "body": "The disgraced peer said he wanted to hold a lunch to discuss ‘alternative options’ to the World Trade Organization The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain control of its immigration system after the chaos of Brexit. Yet sixteen years after David Cameron’s ‘tens of thousands’ pledge, six prime ministers and ten home secretaries have overseen wild swings in immigration numbers with net migration now set to fall below zero. Britain faces serious demographic and economic challenges, and urgently needs a proper immigration plan to support our economy and public services. The fall in net migration is mainly a result of changes made by the previous Conservative government. We now need to go even further with a legally binding annual cap, set by parliament, at a far lower level. British and European people are leaving in their droves because of Labour’s high taxes whilst non-EU immigration remains far too high. British families are left to pay for it with lower wages, longer waits for a GP appointment and homes they cannot afford. Mass low-skilled immigration must end completely as it is bad for our economy and corrosive to our society. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/a5dbfc9ee87bd4566266fa4408de4cb95b189cae/382_278_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=839a3559bfb1e6bc2ba4e1e9c4e76278",
+   "lang": "en"
+  },
+  {
+   "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:26:52+00:00",
+   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The",
+   "body": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, calling for more work on competitiveness, defence and security. Continue reading...",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Germany",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa",
+   "lang": "en"
+  },
+  {
+   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:19:41+00:00",
+   "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures re",
+   "body": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics (ONS) and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=fa0fc5a8c4d378786a2da73420d31ede",
+   "lang": "en"
+  },
+  {
+   "title": "Map Shows Long Range Ukraine Strike That Damaged Five Jets Deep In Russia - Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGZOZExvV2tLY3puemVKQVdYWEdYZzllbEtoSGxPUk4wUXFoTEdKMkVOdlkwdjRrMEstb3BINHRMdnFvLUtwbVRSNFh0cTF0b2xMUFRlQ0Q1YWc0QzhKSGdPREl1UUYwZHFYbDktZ0JwTmQ4U2drdWxCbVhKT3o0N3VaMVpWUDA5UnhLREkwckp2ZFIwU3VsRUNOOExVcFdBRUd4V2VBVzYzdVE?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T12:17:00+00:00",
+   "summary": "Map Shows Long Range Ukraine Strike That Damaged Five Jets Deep In Russia Newsweek",
+   "body": "Map Shows Long Range Ukraine Strike That Damaged Five Jets Deep In Russia Newsweek",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russian court jails Colombian fighter for 20 years over Ukraine war role - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHhxRi03R0F0T2R5VVZvLW1DUWhOLTVGSzlWWlpRS0Zxakt3dVhiNDlDMEdncXhJMVc3NlpsN2pYOHZDUnVtMUlrdklSRHVNN0ZsdnZibmNjcWJIQ1BSbzFNTnM1MXludnFYTkhqdEVkdTY4dE1qRHRNS2l3SU9FYklPVmt4S2FaZ09nMkI3WGdZVHQ1OXg4OUlwaWNoZy1sSEJiRXhLX3kwbTdXUS1SVklteHdlWUw3Q0FiZ1ZLN1XSAcABQVVfeXFMTXBkYWVfaWw0R3JzcTZYeWpoakhMWWUtSldYYVExRTdhNkxONXFEMDNRelNzSXlYeERoR0pHdG9yVWJqc2tCOUFaN2E0NXd1WXh3RFg0MkF1d0ZVUk5oeDFLYzlyWjB0b2hZTmlkUDh6ekJ0ai1EdTdhYWJZTjRzTW1GOGM1Tkt4V3RyZFB4Zk9YS0lNOUNuYnZBMkV5WDljdDhoT1VfQVpNYlE2Qk9kQVNTTm1reVVmN1JueE5zQnc0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T12:16:48+00:00",
+   "summary": "Russian court jails Colombian fighter for 20 years over Ukraine war role South China Morning Post",
+   "body": "Russian court jails Colombian fighter for 20 years over Ukraine war role South China Morning Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "With the rise of AI, are we close to having universal basic income",
+   "link": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T12:12:45+00:00",
+   "summary": "Is UBI the solution to mass unemployment in an AI economy?",
+   "body": "Is UBI the solution to mass unemployment in an AI economy?",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/16x9-website-3-1795695038.png?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+   "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T12:10:49+00:00",
+   "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+   "body": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
+   "link": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:07:29+00:00",
+   "summary": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent UK politics live – latest updates Business live – latest updates The Ministry of Defence has signed an £8.7bn contract with defence company Babcock to maintain ",
+   "body": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent UK politics live – latest updates Business live – latest updates The Ministry of Defence has signed an £8.7bn contract with defence company Babcock to maintain Britain’s submarine fleet amid scrutiny of the performance of the country’s nuclear deterrent. The defence secretary, Wes Streeting, said the five-year contract will “get our subs out of the docks and into the sea faster”. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/7933bb2b4830bee80bfcd251d0dadefb6f85c178/402_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=429e43ad69f5b7fd1bd99f36e7667262",
+   "lang": "en"
+  },
+  {
+   "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+   "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:07:14+00:00",
+   "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing to clash over long-term financial aid for Ukraine, amid an effort to finalise high-stakes budge",
+   "body": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing to clash over long-term financial aid for Ukraine, amid an effort to finalise high-stakes budget talks by the end of the year. Arriving in Brussels on Thursday, the German chancellor, Friedrich Merz, reiterated his view that all EU member states should support a €45bn loan for Ukraine for 2027: “When the European Union provides funding, it does so as the European Union – and that union consists of 27 member states, not 23 or 24,” he said. Continue reading...",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "Germany"
+   ],
+   "image": "https://i.guim.co.uk/img/media/55402a74845f3146fdf5477c09fca1aa110ba6ed/86_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc4c1bf7b7e0dcc478a9b07a13b5d08e",
+   "lang": "en"
+  },
+  {
    "title": "Commentary: New US tariff threat seeks to ramp up pressure on trading partners – will it work?",
    "link": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
    "source": "CNA World",
@@ -235,6 +437,195 @@
    "lang": "en"
   },
   {
+   "title": "China asksJapan to stop ’stirring up’ South China Sea disputes - Saudi Gazette",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHphLWZobnlwMHJtR1JfaUpaYzNhQ2N5QWRNWUNTUF8tS0NtYzJBUUxaVlcyWjY0a29ZN2JVN1djSTZ0T25sc09LNVFHTlg5YlpWMklQLU1xaThnNFlqdmZlVm1fbTNKWUJnbEFCM3pEdHpLa0NuRnpjeVcyZEE0NnZObnFWRVhVam0xQk9RMHAxUkRqTW1EYmN3amE4OWotcFladGFES0hrWmJFd3B1Uw?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-26T12:04:00+00:00",
+   "summary": "China asksJapan to stop ’stirring up’ South China Sea disputes Saudi Gazette",
+   "body": "China asksJapan to stop ’stirring up’ South China Sea disputes Saudi Gazette",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Japan",
+    "Saudi Arabia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVSaWFRWm5vY1pIZ2R5RFVxSjRwVjBNN3dWcTh0Z3VFR0o0Xzc0TWhMTHJQX0RHWG54RWI2dWhxenZmbGo1RFJsZ2Q3TC1aSmwyTzBRZWc3S3lDT2tNVGlQVWQzbmVyYTJ6U1pUcm9jcG5rQngtb3Q4R2JoXzBxSW1XWkZYZVV6SWt6YTNQbHBDejBFSzJ0Zy1OX0RVTVJY?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T12:02:53+00:00",
+   "summary": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time CBS News",
+   "body": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time CBS News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:00:34+00:00",
+   "summary": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges Electrical goods that were returned as faulty to leading British stores including Tesco, Argos and Asda have been found dumped on a waste tip in",
+   "body": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges Electrical goods that were returned as faulty to leading British stores including Tesco, Argos and Asda have been found dumped on a waste tip in Ghana, an investigation has found. The faulty electrical appliances, including toasters and slow cookers, had been returned to major UK supermarkets. They were found at Agbogbloshie, one of the world’s largest e-waste sites, in Ghana’s capital, Accra, a joint investigation by Unearthed and Greenpeace Africa has found. The findings raise serious questions about e-waste export rules. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "United Kingdom"
+   ],
+   "image": "https://i.guim.co.uk/img/media/402f740c1d8cb62e8dedb02645b8b071049c8e74/682_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c180820756625383bcddde296f739ac0",
+   "lang": "en"
+  },
+  {
+   "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:00:33+00:00",
+   "summary": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from public After ending a lawsuit over ExxonMobil ’s damage to wetlands, Louisiana officials moved quickly to approve a deal giving SpaceX access to 125,000 acres (50,600 hectares)",
+   "body": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from public After ending a lawsuit over ExxonMobil ’s damage to wetlands, Louisiana officials moved quickly to approve a deal giving SpaceX access to 125,000 acres (50,600 hectares) of marsh formerly owned by the oil company. A new lawsuit now alleges they did so in violation of the state’s open meetings law. The lawsuit, filed by three south-central Louisiana residents, follows state and Vermilion parish officials’ approval of what is estimated to be a record $27.5bn tax incentive package for SpaceX’s Starbase Louisiana project, announced over the summer . The officials violated the state’s open meetings law eight times while facilitating the agreement in attempts to “keep the public in the dark about what they are doing for SpaceX”, the lawsuit alleges. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "France"
+   ],
+   "image": "https://i.guim.co.uk/img/media/c1f1c49bd19d6a7ccf77e5365903eef5c353a823/12_0_3774_3020/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=d22e64cf03d06729ee84bdab17438ab1",
+   "lang": "en"
+  },
+  {
+   "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:00:22+00:00",
+   "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administrati",
+   "body": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash. Among the suggested levies on 14 major trading partners announced on Wednesday, China is potentially facing one of the biggest hits. It would face the highest capped rate of 20%, which in some cases will be stacked on top of other import taxes for a total rate of 45%. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
+   "lang": "en"
+  },
+  {
+   "title": "Joshua Kimmich critcizes Bayern bosses over Musiala health comments",
+   "link": "https://www.dw.com/en/joshua-kimmich-critcizes-bayern-bosses-over-musiala-health-comments/a-80060155?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-26T12:00:00+00:00",
+   "summary": "Joshua Kimmich has slammed Bayern Munich's leadership over comments about Jamal Musiala's health issues. The bosses have questioned whether the player can return to previous form – and is still worth his high salary.",
+   "body": "Joshua Kimmich has slammed Bayern Munich's leadership over comments about Jamal Musiala's health issues. The bosses have questioned whether the player can return to previous form – and is still worth his high salary.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/80056937_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
+   "link": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-26T11:58:00+00:00",
+   "summary": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
+   "body": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/80058914_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+   "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T11:56:53+00:00",
+   "summary": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+   "body": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States",
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T151218Z_1928590010_RC2QROAWY4TS_RTRMADP_3_ISRAEL-PALESTINIANS-USA-SPAIN-1795692576.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T11:53:54+00:00",
+   "summary": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’ The Independent",
+   "body": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’ The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+   "link": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
+   "source": "The Guardian",
+   "published": "2026-11-26T11:49:59+00:00",
+   "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after hearing “disturbing” ",
+   "body": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after hearing “disturbing” accounts from Jewish staff of discrimination against them. John Mann, the Labour peer and former MP, said BBC whistleblowers had told him they faced a “hostile work environment” at the broadcaster and that his previous warnings to its management had gone unheeded. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=f15f176b08350f819c264d73cd6b5110",
+   "lang": "en"
+  },
+  {
+   "title": "China Warns Japan Against Escalating South China Sea Disputes as Tokyo Deepens Philippines Military Ties - Modern Diplomacy",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMC1LU3lycGdfbmdrV0dISzVCbmFTU1NVNWt5cFJWT3FmZ1FNTW9HTzRmNXItNXhmYmY4VnQ5ak5hOHFGbEpHX21FLXJ1bWxCS1hENHEzTDFFMGk1VGQ1OUkzNWtuM1NzMVozdmFhcl9KVzVTeHNlM09mRHB0Tm9NcV9GNEdtTXRQelk4UERnazhCY0xIUDUtQUtPWDE2WUJyeGwxX1NtSDBvN0JrNDZwMld3eGZMUTA3Yk5kYTlFVWd1dXhwZm5Oal94LUFXWkxxNk9xVDlYcS1QVFk?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-26T11:49:48+00:00",
+   "summary": "China Warns Japan Against Escalating South China Sea Disputes as Tokyo Deepens Philippines Military Ties Modern Diplomacy",
+   "body": "China Warns Japan Against Escalating South China Sea Disputes as Tokyo Deepens Philippines Military Ties Modern Diplomacy",
+   "category": "Asia-Pacific",
+   "is_war": true,
+   "countries": [
+    "China",
+    "Japan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Europe’s last dictator Lukashenko criticises Putin’s logic for war in Ukraine: ‘Do we give Russia back to Mongolia?’",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDRucmUxel90VlN0SWZGYy01enVRWWFYTGhfck82SHl4WFJWNGJiclBCSHd4b2hHYV9BaXRoWmdkMnlSb2trcUhCU0ZqVXBxMGhJOWh2enVDY0JTSE5yd1oxakVYRUkyMnplVTNRUnp1Y2czXzRsZV9nVUhrYnVDM0N4bE4ybDhQVFVVeHdka0pEYnFJbG9xYVJDZUt4SmJkUDNXc0JHNUFFZw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T11:48:00+00:00",
+   "summary": "Europe’s last dictator Lukashenko criticises Putin’s logic for war in Ukraine: ‘Do we give Russia back to Mongolia?’ The Independent",
+   "body": "Europe’s last dictator Lukashenko criticises Putin’s logic for war in Ukraine: ‘Do we give Russia back to Mongolia?’ The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Gain City's new Tampines megastore has limited-time deals including Samsung tablets for S$99 and discounted laptops",
    "link": "https://www.channelnewsasia.com/living/gain-city-tampines-megastore-opening-deals-6583521",
    "source": "CNA World",
@@ -246,36 +637,6 @@
    "countries": [],
    "image": "https://dam.mediacorp.sg/image/upload/s--hBiBsVcl--/c_crop,h_430,w_764,x_0,y_164/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/26/gain_city_tampines_megastore.png?itok=hqO7u2Do",
    "lang": "en"
-  },
-  {
-   "title": "ICJ စီရင်ချက်အပေါ် လုပ်သင့်တာလုပ်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြော",
-   "link": "https://www.bbc.co.uk/burmese/live/ckyvdjzv25lyt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-26T11:39:09+00:00",
-   "summary": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "body": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82f/live/17999410-e937-11f1-970d-97c3fa570769.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ဖိလစ်ပိုင်က မြန်မာ့အရေးဆွေးနွေးပွဲ SECF၊ NUG၊ EROs နဲ့ စင်ကာပူ တက်ရောက်",
-   "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-26T11:39:09+00:00",
-   "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "category": "Myanmar",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf3/live/99b9b0b0-e8c9-11f1-ac76-db9e97f93d67.jpg",
-   "lang": "my"
   },
   {
    "title": "Singapore 'very disappointed' with proposed US tariffs, says findings fail to account for its economic structure",
@@ -293,36 +654,62 @@
    "lang": "en"
   },
   {
-   "title": "Government publishes more documents on Mandelson appointment as US ambassador – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-26T11:34:19+00:00",
-   "summary": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain contro",
-   "body": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain control of its immigration system after the chaos of Brexit. Yet sixteen years after David Cameron’s ‘tens of thousands’ pledge, six prime ministers and ten home secretaries have overseen wild swings in immigration numbers with net migration now set to fall below zero. Britain faces serious demographic and economic challenges, and urgently needs a proper immigration plan to support our economy and public services. The fall in net migration is mainly a result of changes made by the previous Conservative government. We now need to go even further with a legally binding annual cap, set by parliament, at a far lower level. British and European people are leaving in their droves because of Labour’s high taxes whilst non-EU immigration remains far too high. British families are left to pay for it with lower wages, longer waits for a GP appointment and homes they cannot afford. Mass low-skilled immigration must end completely as it is bad for our economy and corrosive to our society. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
+   "title": "Israeli strikes kill 8 in Gaza, and other Mideast news - The Tribune-Democrat",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWtMQy0wbi1QdVhXUzluQVJMYURhQUZpUFcyYjVRZGpQV1FMQWF1OER5aFE2N201bmViUTRZYzBOZUhQQTMtMkY1c3FvOFYtN00zMzdtOUVjMmxiR1d5eVdldU53SVR1YzZsSVRkS2xtZ2FJekhoYm1kaUFWLXhQa2xWUWR3T0l0WGpTLWI1ZFRNeGI5VGZhR0s4d3dWcEFrZnNHUTMtVlZsUXc1NTY1YXNfSDFEVkZHUUxZcDI2WkJ6UUJvSDN3cXdNT0lNLUxGeWxFcVlJQU5MekIt?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-26T11:29:00+00:00",
+   "summary": "Israeli strikes kill 8 in Gaza, and other Mideast news The Tribune-Democrat",
+   "body": "Israeli strikes kill 8 in Gaza, and other Mideast news The Tribune-Democrat",
+   "category": "Middle East",
+   "is_war": true,
    "countries": [
-    "United States",
-    "United Kingdom",
-    "European Union"
+    "Israel",
+    "Palestine"
    ],
-   "image": "https://i.guim.co.uk/img/media/60dbd41a3df9a1f55d47261c666aa16bc3b5d43f/371_0_4403_3522/master/4403.jpg?width=140&quality=85&auto=format&fit=max&s=d707c31746eb9459de3e32ddde19ca1e",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
-   "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-26T11:31:34+00:00",
-   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The",
-   "body": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, calling for more work on competitiveness, defence and security. Continue reading...",
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T11:28:08+00:00",
+   "summary": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap Bloomberg.com Global stocks rally as investors shrug off U.S. tariffs and AI jitters CNBC Global markets rebound as tech shares recover and tariff fears ease Yahoo Finance Stocks climb as traders shrug off latest US ",
+   "body": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap Bloomberg.com Global stocks rally as investors shrug off U.S. tariffs and AI jitters CNBC Global markets rebound as tech shares recover and tariff fears ease Yahoo Finance Stocks climb as traders shrug off latest US tariff salvo Reuters Stocks advance in Asia after volatile US trading over AI risks Financial Times",
    "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T11:27:42+00:00",
+   "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "body": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine’s Shadow War in Africa - Foreign Policy",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjV3dkloWC1YVnVUYjh4anRoazJpcndNQXNUejg0S1E3QlRmbU5qaEdYRER1NUg3YnVOWWdqa3dmZmVUZ0dsc2R1VGVKQlM5bHN6di1jMkZUZjh6UXpKQ2FTZ0RlckJkWENTdFRGalJPY2l6djdPQWhpWDA2RjJBQnBFT0VXR1lwVzZGN1dWTW0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T11:25:44+00:00",
+   "summary": "Ukraine’s Shadow War in Africa Foreign Policy",
+   "body": "Ukraine’s Shadow War in Africa Foreign Policy",
+   "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
-    "Germany",
-    "European Union"
+    "Ukraine"
    ],
-   "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -356,12 +743,12 @@
    "lang": "en"
   },
   {
-   "title": "What is the US permitting bill splitting Democrats and would it actually help the climate?",
-   "link": "https://www.dw.com/en/what-is-the-us-permitting-bill-splitting-democrats-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-top-1022-xml-mrss",
+   "title": "What is the US permitting bill and would it actually help the climate?",
+   "link": "https://www.dw.com/en/what-is-the-us-permitting-bill-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
    "published": "2026-11-26T11:22:00+00:00",
-   "summary": "A sweeping bill to speed up energy projects has rare bipartisan support. Supporters say it would unlock clean energy and lower bills, but critics say it's a gift to fossil fuels.",
-   "body": "A sweeping bill to speed up energy projects has rare bipartisan support. Supporters say it would unlock clean energy and lower bills, but critics say it's a gift to fossil fuels.",
+   "summary": "A sweeping US bill to speed up energy projects has rare bipartisan support. Supporters say it would unlock clean energy and lower bills, but critics say it's a gift to fossil fuels.",
+   "body": "A sweeping US bill to speed up energy projects has rare bipartisan support. Supporters say it would unlock clean energy and lower bills, but critics say it's a gift to fossil fuels.",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
@@ -371,19 +758,16 @@
    "lang": "en"
   },
   {
-   "title": "Russian attacks kill 10, injure 58 across Ukraine over past day, as ballistic missiles strike Kyiv - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVVMX0dLa3ZXSmtiMnBCTWQ4cVJVajE1UjAxTXZ4V0pkOGJZV2VWLU5NY2FYNjNWWWJUR3RZQnp3Y3EwS0ZMZklRYWtKb1ZkSXNUV2U0Z1JleDR1eG1JMlhKNXRXY255YnR5c3Q1QmRuOUhMMFVpcW96ODBFT2VBSU15TnFvQmoyWllVa0hqcENmdjZOZGl6TU92YkZYRThjQ1ZVZmVyVU9xT2xCeFFkYjZVYkp5NDk5ODVjcl8tUkZaMG5TRUE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T11:16:46+00:00",
-   "summary": "Russian attacks kill 10, injure 58 across Ukraine over past day, as ballistic missiles strike Kyiv The Kyiv Independent",
-   "body": "Russian attacks kill 10, injure 58 across Ukraine over past day, as ballistic missiles strike Kyiv The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T11:21:50+00:00",
+   "summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+   "body": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
    "lang": "en"
   },
   {
@@ -415,19 +799,6 @@
    "lang": "my"
   },
   {
-   "title": "Welsh first minister accuses Burnham of ‘casually’ rejecting devolution calls",
-   "link": "https://www.theguardian.com/politics/2026/nov/26/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales",
-   "source": "The Guardian",
-   "published": "2026-11-26T11:09:33+00:00",
-   "summary": "Rhun ap Iorwerth says PM is treating Wales with less respect than English regions and has ‘let himself down’ UK politics live – latest updates The Welsh first minister has launched a fierce attack on Andy Burnham, accusing him of “casually” rejecting calls to hand over more power",
-   "body": "Rhun ap Iorwerth says PM is treating Wales with less respect than English regions and has ‘let himself down’ UK politics live – latest updates The Welsh first minister has launched a fierce attack on Andy Burnham, accusing him of “casually” rejecting calls to hand over more powers to the Welsh government. In an interview with the Guardian, Rhun ap Iorwerth said Burnham was treating Wales with less respect than he was showing to English regions, had little understanding of how devolution worked in Wales and had “let himself down”. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/95521d5e1f4569966751fb938bc8706b91c3b3f2/2_94_4084_3267/master/4084.jpg?width=140&quality=85&auto=format&fit=max&s=5aaf673cb2f21df5d9a43ca6b8859cc8",
-   "lang": "en"
-  },
-  {
    "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
    "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
    "source": "NYT World",
@@ -457,6 +828,19 @@
     "India"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0800d5-1795686613.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+   "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T11:00:39+00:00",
+   "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+   "body": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
    "lang": "en"
   },
   {
@@ -506,23 +890,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T10:54:35+00:00",
-   "summary": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’ The Independent",
-   "body": "Ukraine live: Trump and Nato chief urge Putin not to ‘expand the war’ The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
    "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
    "source": "NYT World",
@@ -538,18 +905,15 @@
    "lang": "en"
   },
   {
-   "title": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean, Baltic seas - RTE.ie",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNjFsZjVtWm1mMFdxNGx6eGxsNGZmVWhzcTNLanRLcFhfQXdJVEphWU9qdW9NX1NHUkFrUkI0NVQza2NMMzRYNXRpbkFXU3dwV21oSlhyVkpkeGVyZ1I0NHZ6ajNhZ3gzbVJSRXV6WQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T10:49:39+00:00",
-   "summary": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean, Baltic seas RTE.ie",
-   "body": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean, Baltic seas RTE.ie",
-   "category": "Ukraine / Russia",
+   "title": "New York declares emergency as Thanksgiving storm threatens East Coast - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWtJTVE4WWtQNmZlT2VueWtGcjl0MHgybWJlczhQTW95U0dZcFVwcjFIdGhSSzc1TGRJWmJnYXptSzF4aWpydmJKVU1mdjNaem0wWGJVVnZzZnlDejBmMG9Ec1FyWmsxTTFGYno3UWdsc3VYbU40WnFnS0R5TXlpaEV5YmMxbTB2enJPMEo1X1YxaVRIcEZJWUtnR01wcWJSYXlDUjln?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T10:43:24+00:00",
+   "summary": "New York declares emergency as Thanksgiving storm threatens East Coast ABC News - Breaking News, Latest News and Videos Hochul declares state of emergency for NYC area ahead of Thanksgiving storm FOX 5 New York Thanksgiving storm could bring coastal flooding, 60 mph wind gusts to",
+   "body": "New York declares emergency as Thanksgiving storm threatens East Coast ABC News - Breaking News, Latest News and Videos Hochul declares state of emergency for NYC area ahead of Thanksgiving storm FOX 5 New York Thanksgiving storm could bring coastal flooding, 60 mph wind gusts to Long Island, elsewhere in the state Newsday State of Emergency issued for parts of NY: Gov. Hochul PIX11 New York Gov. Kathy Hochul declares state of emergency with Thanksgiving storm expected to impact travel CBS News",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -566,21 +930,6 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "US Army says controlled lead azide explosives blast in Iowa was 'huge success'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ta0dIVU1xb0xPTmZXZW5yVnZVblJDUkVsSVJlQXo2MDAydDFxZFhuc2g2QW4tR2ZpUTUyUVFsc0xBeS1PUnN4THY1VzZqd2ZIdjFKSmxSR0dvT3c?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T10:38:35+00:00",
-   "summary": "US Army says controlled lead azide explosives blast in Iowa was 'huge success' BBC The government says Iowa detonation results exceeded expectations. Now what? CNN Public health specialist discusses the aftermath of the munitions detonation in Iowa NPR US Army releases post-deton",
-   "body": "US Army says controlled lead azide explosives blast in Iowa was 'huge success' BBC The government says Iowa detonation results exceeded expectations. Now what? CNN Public health specialist discusses the aftermath of the munitions detonation in Iowa NPR US Army releases post-detonation maps of potential lead dust exposure WQAD Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say CBS News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -613,6 +962,22 @@
    "lang": "en"
   },
   {
+   "title": "Israeli strikes kill 8 in Gaza, and other Mideast news - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnBaVVAxeV9Uam42VHBOUTBrZU02cFpNN0lyVGRkdWt2YkF2MGRDVWxFcGppU2k5RXdFMWhNREUxcFpWcEVYTmcweU1VblRYM2RuX0JUcDE0azVBd0Rqb3Zxc0NkZDIyUVNraUJpTEFCY1ZmTlpOT0V4WEFjX1FMZ1RmOVlEZWFsX1FiQXBhaExqRHhnaHRfbjFaSC1pLXVKZkJyX1FkNGg5SUNBYktUYmFMaEk2NEU?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-26T10:29:00+00:00",
+   "summary": "Israeli strikes kill 8 in Gaza, and other Mideast news Audacy",
+   "body": "Israeli strikes kill 8 in Gaza, and other Mideast news Audacy",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Palestine coach says team represents suffering but also offers hope",
    "link": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
    "source": "Al Jazeera",
@@ -625,21 +990,6 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2246889799-1795672404_2fd5fa-1795685294.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T10:28:34+00:00",
-   "summary": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap Bloomberg.com Global stocks rally as investors shrug off U.S. tariffs and AI jitters CNBC Stocks climb as traders shrug off latest US tariff salvo Reuters Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan WSJ",
-   "body": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap Bloomberg.com Global stocks rally as investors shrug off U.S. tariffs and AI jitters CNBC Stocks climb as traders shrug off latest US tariff salvo Reuters Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan WSJ Stocks advance in Asia after volatile US trading over AI risks Financial Times",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -660,16 +1010,18 @@
    "lang": "en"
   },
   {
-   "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
-   "link": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
-   "source": "The Guardian",
-   "published": "2026-11-26T10:25:12+00:00",
-   "summary": "Experts say arctic char is threatened by pollution in England’s biggest lake as comedian unveils sculpture UK politics live – latest updates An ancient fish species that has survived in Windermere for more than 11,000 years is at risk of “imminent” extinction due to widespread po",
-   "body": "Experts say arctic char is threatened by pollution in England’s biggest lake as comedian unveils sculpture UK politics live – latest updates An ancient fish species that has survived in Windermere for more than 11,000 years is at risk of “imminent” extinction due to widespread pollution in England’s biggest lake, experts have warned. New research reveals the arctic char (or charr) appears to have disappeared from large parts of the 11-mile long lake where its habitats have been eroded by sewage and other substances. Continue reading...",
-   "category": "Global",
+   "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+   "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T10:25:51+00:00",
+   "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+   "body": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+   "category": "Myanmar",
    "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/7f16531d849ce5cff3cd318dd53a8bb3570e2944/950_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=11c7eb584adaac1a8409907470696372",
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg",
    "lang": "en"
   },
   {
@@ -688,23 +1040,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine War, Day 1,736: Trump Mega-Donor Acquires Overseas Assets of Russia's Largest Private Oil Company - EA WorldView",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NUI2OExHNW9GUnZEeXlRbjNzTlUzOTM0SURXWkV0Vk5Vd1JwN19reE9MdDJKbkxPRy00bklDNDFSYUxJQkFILVZ0akJiUUNJQ010aUZ3NEFrWmp4eEp5c3hYaDZhVzY5azUybDJPR3AwTUpGVzZaOENiZGRPbzQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T10:20:11+00:00",
-   "summary": "Ukraine War, Day 1,736: Trump Mega-Donor Acquires Overseas Assets of Russia's Largest Private Oil Company EA WorldView",
-   "body": "Ukraine War, Day 1,736: Trump Mega-Donor Acquires Overseas Assets of Russia's Largest Private Oil Company EA WorldView",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
    "link": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
    "source": "Al Jazeera",
@@ -720,12 +1055,12 @@
    "lang": "en"
   },
   {
-   "title": "Russia and Ukraine Hold First Exchange of War Dead Since Rebooted Peace Talks - The Moscow Times",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQk94Wjh5UGFmdHR1ZnBUbk1kWkpkNjlQNlVrZXVVTWFEZUFRSkJSNlhNeElNVnZMbE9QVlB5b2lfdE9kdUo2RUNnX3lVVGFrZHRxX3l2SzFtNUJNVW9kTW0xUXNmUHB1VGw4SlpKQlNGLTZERTdDUmZwQ05sNUJWd2J4YWh3NUxkc0lzd29NZHBIc2Z0SjBnWi1CcHZuRkRtejdwenEwUk05SDg2X1QwdXFUY3ZSVG1rd2dqT3lzbzQ?oc=5",
+   "title": "Russia’s November losses in Ukraine already top 55,000, setting new wartime record – General Staff - Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlZ3NzZ3TWVRQ0Q0a1lFUVFTcEtGTmhUaTByU2s1bFhqS2lJblF6Sm9WRmgxcERoU1FKS0NnSi1VcHpHMW5tZE16X0FvYmV3UU9kYllqV2hTREE5TTNGZzQtRmJQQWZQYXNXODZESVhKbFZsUTl1WTdYMWdTQndPbl84bE5xOTZUZzNQeGo0Z2d4X1pFN0dRWUE4SUoxYVJDSlc3c1lod2F4VS1YSlgzMU9ZMmZHVHg2bU1nT28xSVM0WFJ2ZlFNSTRibm5GTUtxOXRiTjEwWUttQ3PSAeABQVVfeXFMTXdxUmQ3NVRwd0VwWm5uRVFPZnRkbFotZDdQVnRscV9qXzgwZzFkQWo0eTZMUDVjTGxxWjMxeUdIRlAwajNHY1hjODVuZGdXR3g4bXpMQXBIeWVWeHN3aXFxZmFERjFrQXJsb1JCemZZWHl2cnlLWEh5YVcxd2dwZklxX2gwV1JPOEdxN1pzUWNFbFNjU3R2cFJoMWR0Y0w4TldfbUozelphSEtGV3JhZnQ0X2M3Y05KTFk2WVh5QmlCSmh5S2VENDJWUU9YbS0xUkZvRWhPcW12N3Z3N0I1OUs?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-26T10:18:18+00:00",
-   "summary": "Russia and Ukraine Hold First Exchange of War Dead Since Rebooted Peace Talks The Moscow Times",
-   "body": "Russia and Ukraine Hold First Exchange of War Dead Since Rebooted Peace Talks The Moscow Times",
+   "published": "2026-11-26T10:19:00+00:00",
+   "summary": "Russia’s November losses in Ukraine already top 55,000, setting new wartime record – General Staff Ukrinform",
+   "body": "Russia’s November losses in Ukraine already top 55,000, setting new wartime record – General Staff Ukrinform",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -752,6 +1087,22 @@
    "lang": "en"
   },
   {
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T10:14:08+00:00",
+   "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+   "body": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Why tackling hoarding in Singapore can take months or even years",
    "link": "https://www.channelnewsasia.com/singapore/hoarding-decluttering-delays-manpower-logistics-readiness-6575091",
    "source": "CNA World",
@@ -765,16 +1116,20 @@
    "lang": "en"
   },
   {
-   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-   "source": "The Guardian",
-   "published": "2026-11-26T10:10:03+00:00",
-   "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures re",
-   "body": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics (ONS) and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=fa0fc5a8c4d378786a2da73420d31ede",
+   "title": "Russia-Ukraine war: 10 reasons why peace remains elusive and how the conflict could end - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWTJvZ2xoLTl0RHB6a0pNaDFzWHlOdG1meXc4eDU4LWZneGhzVjV3d2NVb2xpbmZ0MmE2NHNGakx3LWxldDVFalo2aXpEY2tMMEExRDk4M2Q1S1o1VHB4NE12cVdhaHZ3ZGtMVWY4S25oa1dwblRnTGhPTGNSZllmNmgwNG5leUt0OWZ2ZHZRWjNrYnZvVHZMZ3M4YU1nZmdWeWxxVzk1U2x0WFBwbjlSMVpwZ3E4cWdXd2NGUDkzdVFlYWRzZGpPaE5TbjlJci1MdnJmb3FkbGlrSFNUSlNvX0lnazAyVkVqMGFqdUczaF9udlXSAfgBQVVfeXFMTW83MkM0cVgzX1pxaVhSTDNxRnB3b29ZM3QwVVJCX1haa1BUNmY4Zm5xRGhqdHBIVDVFRWNmaFdKaHBvZnN3U3E2RVdqcG9GbnRKcndWYWRwTUNFSGVHLTczWGlFSlpWOTQ3VnViMzZyd2djR1RBVDh6MTg3dVlyM1pCQ2ZwVzRxQ0M3YVVOdDhwdzdtUEMzUktHT2NOQ3VKbDZUSmNObERjakJUdkZfTUFTMnlrb3FQa1NONVFKdEhXMXJrc1hWQVQ2THpsTjRvbzlocUh4dVd6bGM5Rl9WRFZkYTlYWXlSRUVxRW5Pbk9naEhIYUktZFQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T10:10:00+00:00",
+   "summary": "Russia-Ukraine war: 10 reasons why peace remains elusive and how the conflict could end The Times of India",
+   "body": "Russia-Ukraine war: 10 reasons why peace remains elusive and how the conflict could end The Times of India",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "India"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -829,21 +1184,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
-   "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
-   "source": "The Guardian",
-   "published": "2026-11-26T10:02:17+00:00",
-   "summary": "The British musician brought deft playing to prog masterpiece In the Court of the Crimson King, then worked as a session musician with the likes of Bryan Ferry Michael Giles, the drummer who co-founded prog rockers King Crimson, has died aged 84. The news was announced by King Cr",
-   "body": "The British musician brought deft playing to prog masterpiece In the Court of the Crimson King, then worked as a session musician with the likes of Bryan Ferry Michael Giles, the drummer who co-founded prog rockers King Crimson, has died aged 84. The news was announced by King Crimson’s record label DGM, who said he died on Monday 23 November, but did not give a cause of death. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://i.guim.co.uk/img/media/bf368de11c5bbdf36165c88b86f6a314b3224f38/0_198_2576_2060/master/2576.jpg?width=140&quality=85&auto=format&fit=max&s=eb33f45be5382926ddbec4fe486c4380",
    "lang": "en"
   },
   {
@@ -965,16 +1305,18 @@
    "lang": "en"
   },
   {
-   "title": "‘War Is Hell:’ A Foreign Soldier Writes Home From Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUtzUk9TS1EtOENIeS1WOUVKS21xTTA5MFNRa1lmTmtHbnN3cDloV0JLbklJeGlnNDlCWGxBdmpnVGZ1QVVPNTNHR2NZNFU0Z0FTOW9ZZHF5dS10VGRWZnZFS3BRbGtleGo4T21CMmxGX0pIV1EyLVdFVkY4VkNjWEgzN2pPZkJE?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T10:00:09+00:00",
-   "summary": "‘War Is Hell:’ A Foreign Soldier Writes Home From Ukraine The New York Times",
-   "body": "‘War Is Hell:’ A Foreign Soldier Writes Home From Ukraine The New York Times",
-   "category": "Ukraine / Russia",
-   "is_war": true,
+   "title": "China and other U.S. trading partners hit back at Trump’s new tariff plans - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T10:00:00+00:00",
+   "summary": "China and other U.S. trading partners hit back at Trump’s new tariff plans AP News U.S. proposes new tariffs on 14 trading partners, including China and the EU CNBC Trump administration proposes new tariffs on goods from major U.S. trading partners NPR World reacts to Trump’s new",
+   "body": "China and other U.S. trading partners hit back at Trump’s new tariff plans AP News U.S. proposes new tariffs on 14 trading partners, including China and the EU CNBC Trump administration proposes new tariffs on goods from major U.S. trading partners NPR World reacts to Trump’s new tariffs as US stocks tumble Al Jazeera Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea Bloomberg.com",
+   "category": "Asia-Pacific",
+   "is_war": false,
    "countries": [
-    "Ukraine"
+    "United States",
+    "China",
+    "European Union"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1048,6 +1390,21 @@
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObktQNUtMdjhfcFhmY3JySFIzNGxhWXhnRXh6TGp5OGhYUmhDNkgzNjdXdmpFU2RnaTVfc0wtdlY2bDh5RllRRUVkTW50MVlYVXVzQWdVdU1zRERVRE4yMFJCbzJ5ZE90R3hLSHNiWEZLV3g0UGZ2VVNlMFBsNHB2WVBiNHZ4QzNXbU5Fdm5ydXFSSEplU0pPYkI0TkczMThESE40TmFfOHBYb0hjX1dlaA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T09:43:27+00:00",
+   "summary": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed NPR Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC ABC7 New York For a Macy’s 100th Thanksgiving parade planner, ‘there’s only one shot’ The Washington Post ▶ Tr",
+   "body": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed NPR Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC ABC7 New York For a Macy’s 100th Thanksgiving parade planner, ‘there’s only one shot’ The Washington Post ▶ Track live radar as strong winds and rain set to hit NYC area on Thanksgiving NBC New York Macy's Thanksgiving parade postponed for the first time in the event's history Axios",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1157,6 +1514,21 @@
    "lang": "en"
   },
   {
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T09:27:44+00:00",
+   "summary": "US approves SpaceX plan to send a million data satellites to space BBC US authorizes SpaceX to deploy 1 million satellites for AI data centers in space CNN Trump administration approves Elon Musk’s plan for datacenters in space The Guardian FCC green lights SpaceX’s plan to launc",
+   "body": "US approves SpaceX plan to send a million data satellites to space BBC US authorizes SpaceX to deploy 1 million satellites for AI data centers in space CNN Trump administration approves Elon Musk’s plan for datacenters in space The Guardian FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites Spaceflight Now The FCC has authorized SpaceX to deploy 1 million satellites Ars Technica",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
    "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1170,6 +1542,21 @@
     "Russia"
    ],
    "image": "https://static.dw.com/image/80042297_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+   "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T09:22:34+00:00",
+   "summary": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
+   "body": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Turkey"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d0/live/9e59d600-e927-11f1-99b6-a35a62fa4264.jpg",
    "lang": "en"
   },
   {
@@ -1206,7 +1593,7 @@
    "source": "Google News",
    "published": "2026-11-26T09:16:00+00:00",
    "summary": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture AP News North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities CNN Kim Jong Un says North Korea should widen deployment of tactical nukes Al Jaz",
-   "body": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture AP News North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities CNN Kim Jong Un says North Korea should widen deployment of tactical nukes Al Jazeera North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says Reuters North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change' CNBC",
+   "body": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture AP News North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities CNN Kim Jong Un says North Korea should widen deployment of tactical nukes Al Jazeera North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says Reuters Kim Jong Un Makes Rare Show of Nuclear Warheads After Snubbing Trump Talks Bloomberg.com",
    "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
@@ -1230,6 +1617,21 @@
     "Japan"
    ],
    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Deadly fire erupts near Cairo killing dozens of people",
+   "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T09:09:49+00:00",
+   "summary": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
+   "body": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Egypt"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d5/live/d4056860-e96c-11f1-a094-5fdc692f3e33.jpg",
    "lang": "en"
   },
   {
@@ -1274,22 +1676,6 @@
     "North Korea"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07e1e4-1795678692.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Wife of assassinated Russian defector on Ukraine war and Putin's regime",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1ZKdXRsOEQwYTh0eXJxa0J6TC1CbVlxS0tnclRzOVZwNjA4aEx1TlZHRTRFT1hJYXZHRDFUQ011ZUNDaUtjUmdaRWxOYS1lVm9RaHBqd2Q4dTE2UjBKalE4ME9VbVdCRFVZNXBVTVhGbjhmWHhxeUxnTEozR1NoSm1yRFktWmxLZFk2ekdjZTZCd1R0YmZtVUZvTVl2UmIxXzQtQ3NUSXZJQQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T08:50:32+00:00",
-   "summary": "Wife of assassinated Russian defector on Ukraine war and Putin's regime Sky News",
-   "body": "Wife of assassinated Russian defector on Ukraine war and Putin's regime Sky News",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1529,373 +1915,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T195947Z_1495710070_RC23VOAABGEL_RTRMADP_3_BOLIVIA-WOMEN-PROTEST-1795671449.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
-   "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T07:41:30+00:00",
-   "summary": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
-   "body": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07cf6f-1795673967.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-   "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T07:38:00+00:00",
-   "summary": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
-   "body": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KX2JG__v1__HighRes__IndonesiaMiningAccident-1795670340.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
-   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T07:34:47+00:00",
-   "summary": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
-   "body": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T07:31:24+00:00",
-   "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
-   "body": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "EU leaders seek agreement on long-term budget and Ukraine at summit",
-   "link": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-26T07:31:00+00:00",
-   "summary": "Leaders of the EU's 27 member states are expected to thrash out the EU's budget for 2028 to 2034. Ukraine and European Central Bank leadership are also up for discussion. DW has more.",
-   "body": "Leaders of the EU's 27 member states are expected to thrash out the EU's budget for 2028 to 2034. Ukraine and European Central Bank leadership are also up for discussion. DW has more.",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "European Union"
-   ],
-   "image": "https://static.dw.com/image/79457488_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "DR Congo demands answers over Ugandan general's threats",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T07:24:39+00:00",
-   "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
-   "body": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
-   "category": "Africa",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9933/live/ff601720-e97c-11f1-99b6-a35a62fa4264.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2owWWh6dEFmYm4tT1lvMDBDbkI1dS1rZEoydHEzeHA5cjgwei11aWlyNVFya21QU3V5ZG8zTjNpYld2YWNTdVZabWo2cUsxTmZnQUZGTXozSThuaUpPWDIxRXpKQ1pQN3VSQVFWcnVDekFSb3ZFT2I3UF81NS0yOVpPWGw4ZmptMXRLdGthNlhLTjhPR0QwZ0dPYw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T07:22:23+00:00",
-   "summary": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending AP News Here Comes Santa Claude The Atlantic What to know before using AI agents for Black Friday shopping NPR Shoppers Are Bringing AI Into Stores — and Workers Aren’t Impressed Bloomberg",
-   "body": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending AP News Here Comes Santa Claude The Atlantic What to know before using AI agents for Black Friday shopping NPR Shoppers Are Bringing AI Into Stores — and Workers Aren’t Impressed Bloomberg.com Retail chief calls AI ‘magic’ as shoppers turn to chatbots for holiday bargains Fox Business",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Europe is at war with Russia, US envoy Kushner claims, calling Ukraine conflict a \"proxy war\" - Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNFVjQ3lIVWt0eFdiZmpWTG9WU0xrODdzX2RXdWdRb2dGeVRobGVyWlpGMDF0Z1BNM0U2ZFJ4QURpS3pqZnZuS0l6WXZuUDFKZ0FfTlRQOUIxWFoydFhEaElnSTfSAXBBVV95cUxPTWthM2hoOExhUkR1MnNPcVRmVnAyYTkzdE1Jck9tUnBnbFpaYnE3U2l4UlVOSy1VRHBhREJrYW4yRlRSZlE0Z3ZFdm5HT0diVTVuYU84OWdfRzdmb1lfTEtfTnB6ZmlVSGRMTG5GcDlN?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T07:18:00+00:00",
-   "summary": "Europe is at war with Russia, US envoy Kushner claims, calling Ukraine conflict a \"proxy war\" Українська правда",
-   "body": "Europe is at war with Russia, US envoy Kushner claims, calling Ukraine conflict a \"proxy war\" Українська правда",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "French navy intercepts suspected drug-smuggling semi-submersible",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T07:15:39+00:00",
-   "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-   "body": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzQta0htOVBwQy01aUdEVTZ6N3N4dTRlQU1xUEFmYVgzeEdDbFJBNHFDX0RtVUgyTTBBNmY2RnNRS190dllaWHlIMmhCa0ZHV25UeHVSbFdkdUJrMjJBS2RNYzV5TkJBLVA1THk3ekJSOUdTVnJ5RURCQ1RFMHFyWWt0M0lyazVpYTdwczVYVnhjZkdnSTBRZNIBmAFBVV95cUxQOUVZU2p2RGxzblpMSENLTU5YSFY4cnF4NThDU1piUWtFeEo0NWxXUFFkMnJZaXkwWHBteWVKOG5FQTNXZlYwc0ZhbXhlVGhVVTdMU2REbUxQOWtHeE5EdEtUcVhxTzRpazNWNHAyWm53UnNtdno2RFJ6N3I4Wm5VVHd3Y0N0dG5WRERFV0xLQjA1SGFmOG13Qg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T07:07:06+00:00",
-   "summary": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo DW.com At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Highway explosion in Giza: How deadly are Egypt’s roads and railways? Al Jazeera Thirty-one killed in fire a",
-   "body": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo DW.com At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Highway explosion in Giza: How deadly are Egypt’s roads and railways? Al Jazeera Thirty-one killed in fire after vehicle overturns in Egypt Reuters Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash CBS News",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Egypt"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump, NATO chief urge Russia not to ‘expand’ Ukraine war - Al Arabiya English",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnZOQVdJaHhuc2xmb2d3M0JSSWpNR1JhclF0OXZXZFM5azRrUWR3ZEMtNVItODBwMUJvbnVRRzd2akY3dk5aRDdjQVVkekV3RWxDcmJ4SmktNXlTRlpEMU1hSlljb1dyX3lySkx5Z2tTZklwYUllS0xSWmNPbDM1UnJ1MUhaZkhoZU02TVFnbzFlSTNJV1RBR1JiZDhMd0RJSXVLZUNuQlJfd9IBrwFBVV95cUxOUHZSUkRmWWV0U3JZbGUzMkI4RmxiRTNFenA0ODEtMi1KR05GTHllSnAzVjd3SzBycFEwQy14X01pZ1h6bXlzb2ppRlNPbVQydWRTRjVQbjJhazByUFJta21QekJKMTY4cTRBZmVfa0dQS1JJWlA3ZGMtZjZOeXczdWF6WkRSZl9SVkFqRzBOeWhUV2llZlFJSnNVUzloOWlvb2h3cDBzdnlIck5uemNn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T07:07:00+00:00",
-   "summary": "Trump, NATO chief urge Russia not to ‘expand’ Ukraine war Al Arabiya English",
-   "body": "Trump, NATO chief urge Russia not to ‘expand’ Ukraine war Al Arabiya English",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "India news: Resolve tariff concerns in trade talks — India tells US",
-   "link": "https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-26T06:59:00+00:00",
-   "summary": "India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.",
-   "body": "India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.",
-   "category": "South Asia",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "India"
-   ],
-   "image": "https://static.dw.com/image/80056119_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "War and drought threaten livelihoods of Sudan’s farmers",
-   "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T06:56:34+00:00",
-   "summary": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
-   "body": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
-   "category": "Africa",
-   "is_war": true,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Russia loses another 2,319 troops and four aircraft in war against Ukraine in past 24 hours - Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUUpoQ2J1eEVCcjJ6U3VoTjNoUlBRa3Y5RW5lNlJmaGE5a2NjX3JwLUVoUVJHVWtJdTY3M3RVSWZSZWlqTVl0OV9OZmoyci0tODlpTGhRdjRQNVhlMWcwdjRlWnVNT1dVQmRnd0I1M21xMGZPMVZSN0FWYzZJWEtnSEZtMVFidE5zRTlXVUtMUEl4NEdWc2swRTBsN1JyVFdCM1dRWDRWVVZOTmNKMXhEWVMwX3JrQ1JWT05hcDQwYjUzRmpWUHJ6emtEd2k2Z1ZvS1c4aC1ha9IB3AFBVV95cUxPYWl5U3JaakJnNXAtYXBIRXREVTFRVDFUQmxHcEZ2bGpyay1PQVZxdDNjVEhBYkMyV0h3LVRTSnBVRnhYMzNSNzhJRnRBTl82OXprRUpBZWZVWUVIUjFfY0R0Yld2UTJkSjl4ZGJjSGpnVEl1d3gxSk5KWnhrck5RdDJIU0ZIaENPaVQxZ0NQQ0JiT0JneDJQSldXeklSSmQ2RjdEYzkySk11QkpCX2hCWDdPeFpDc0dHc19mZHBNNWdXQkpZajJ4bVp4QjQtYjVJM3hXUWJacFhTbEtM?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T06:56:00+00:00",
-   "summary": "Russia loses another 2,319 troops and four aircraft in war against Ukraine in past 24 hours Ukrinform",
-   "body": "Russia loses another 2,319 troops and four aircraft in war against Ukraine in past 24 hours Ukrinform",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Are they all turncoats?’: Barnaby Joyce says voters are turning to One Nation – and Liberals like Blyth can too",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-26T06:55:35+00:00",
-   "summary": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal sena",
-   "body": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for South Australia, has defected to One Nation, blindsiding former Coalition colleagues who called her a “turncoat” and raising further scrutiny of chaos inside the opposition. Blyth, a shadow assistant minister on Angus Taylor’s frontbench, said in a statement announcing her move that she did not believe the Coalition was capable of opposing the Albanese government. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia",
-    "NATO"
-   ],
-   "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/0_0_1943_1555/master/1943.jpg?width=140&quality=85&auto=format&fit=max&s=757367d930714c816470fe6d0a80c401",
-   "lang": "en"
-  },
-  {
-   "title": "The world must choose between nuclear abolition and nuclear catastrophe",
-   "link": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T06:53:05+00:00",
-   "summary": "The upcoming UN nuclear ban treaty conference offers an opportunity to challenge the dogma of nuclear deterrence.",
-   "body": "The upcoming UN nuclear ban treaty conference offers an opportunity to challenge the dogma of nuclear deterrence.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2024/05/AP23086631601394-1714988127.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Trump and Rutte urge Russia to avoid actions expanding war beyond Ukraine - Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DMFBiT0FOMWtDTDNWMEt2VDBORnJycVRzVXA0WEIteHQ1MXlINWt5aE1WVHdZSGRaZ3R4ZlNkeHZURFhNa3VHNVh5cF96OUp1SGI3d0dySWhDZjlKeWVWNVNUXzbSAXBBVV95cUxPcW84bVRGczhXb1hBaURTTUlGQlhmN2c4dk5nQUlfZWRNZmEyalBwUkpLV1MwQy1VUWQtcjF1Vmh2VkxWSTJmRW52Slk3Q1hZYl8tdmdSX2h0dmdaSFNqbU9VTWFWc3NIbnFqZFAzbHZt?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T06:45:00+00:00",
-   "summary": "Trump and Rutte urge Russia to avoid actions expanding war beyond Ukraine Українська правда",
-   "body": "Trump and Rutte urge Russia to avoid actions expanding war beyond Ukraine Українська правда",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Study Hard, Get Ahead?",
-   "link": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
-   "source": "NYT World",
-   "published": "2026-11-26T06:38:37+00:00",
-   "summary": "The broken promise of upward mobility through education is sparking youth protests around the world.",
-   "body": "The broken promise of upward mobility through education is sparking youth protests around the world.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-theworld-students-02-hlqk-promo/26int-theworld-students-02-hlqk-promo-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-11-26T06:36:53+00:00",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce",
-   "body": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Australia",
-    "NATO"
-   ],
-   "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2865d03e58df7373f41d2246e7e8c1d9",
-   "lang": "en"
-  },
-  {
-   "title": "Macy's Thanksgiving parade postponed for first time in 100-year history - Axios",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNU9fSWwxVXF0VnltZ3FiOWlpTzJ2ZzR3aWV0UVMycm50dWpLOExIZGlHMjJvNk9hUkhkbEdKTGZKcHBhODVPMFFDZ2s4N3hmU3RhWU5YaGxZRHd6MGpSYWVtcXA2NjItREttZHQzWXlZdTZNRG5WVUhrWVlfSE9WLXA2blk0a1E?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T06:36:36+00:00",
-   "summary": "Macy's Thanksgiving parade postponed for first time in 100-year history Axios Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC ABC7 New York Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed NPR Macy's postpones T",
-   "body": "Macy's Thanksgiving parade postponed for first time in 100-year history Axios Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC ABC7 New York Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed NPR Macy's postpones Thanksgiving parade due to severe weather BBC ▶ Track live radar as strong winds and rain set to hit NYC area on Thanksgiving NBC New York",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Who really wants Pedro Sanchez out of power?",
-   "link": "https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T06:36:25+00:00",
-   "summary": "As Spain heads to the polls, the biggest threat to Sanchez’s international agenda comes not from Moscow, but Washington.",
-   "body": "As Spain heads to the polls, the biggest threat to Sanchez’s international agenda comes not from Moscow, but Washington.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260304__99VJ79E__v4__HighRes__ComboSpainUsIranDiplomacyWar-1772624627.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery",
-   "link": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T06:32:48+00:00",
-   "summary": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
-   "body": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2259042242-1795672152.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T06:32:48+00:00",
-   "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet The Guardian Jensen Huang’s ba",
-   "body": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet The Guardian Jensen Huang’s bail-out will not be the AI boom’s last The Economist Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO CBS News",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
-   "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-   "source": "NYT World",
-   "published": "2026-11-26T06:30:00+00:00",
-   "summary": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
-   "body": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25indonesia-mine-ztkg/25indonesia-mine-ztkg-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeEN0MGF1bVVQN2xXOGdNT1htY053T3ZMS01SbnZyMlk4UVpGQlNPaGh3UWxTRjFTMFNXQThJSFdSUVpVdzNadXBPU1Y0QXVxQW9UVUZSTnlYTDBzbTFzeHktTXhWb3pUNFYxNWh5V2FSMk1yZGxxTVFENA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T06:26:03+00:00",
-   "summary": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV NPR Sources corroborate Aaron Rodgers' allegations about Steelers HC Mike McCarthy ESPN Aaron Rodgers’ strange NFL trip may be over. The incendiary final act is a fitting last chapter CNN Aaron Rodgers to be r",
-   "body": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV NPR Sources corroborate Aaron Rodgers' allegations about Steelers HC Mike McCarthy ESPN Aaron Rodgers’ strange NFL trip may be over. The incendiary final act is a fitting last chapter CNN Aaron Rodgers to be released by Steelers, per reports Yahoo Sports Mike McCarthy reacts to Aaron Rodgers' comments on 'Pat McAfee Show' | 'NFL Total Access' NFL.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
