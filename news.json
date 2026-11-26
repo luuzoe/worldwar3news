@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T05:38:52.022499+00:00",
- "updated_yangon": "2026-11-26 12:08",
+ "updated": "2026-11-26T06:38:52.753771+00:00",
+ "updated_yangon": "2026-11-26 13:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,10 +9,10 @@
   "CNA World",
   "DW",
   "Google News",
-  "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
+  "Myanmar Now",
   "Myanmar Now Burmese",
   "NYT World",
   "RFA Burmese",
@@ -21,19 +21,19 @@
  "countries": [
   [
    "United States",
-   45
+   44
   ],
   [
    "Russia",
-   17
+   19
+  ],
+  [
+   "Ukraine",
+   19
   ],
   [
    "Myanmar",
    15
-  ],
-  [
-   "Ukraine",
-   14
   ],
   [
    "United Kingdom",
@@ -41,11 +41,7 @@
   ],
   [
    "China",
-   5
-  ],
-  [
-   "Israel",
-   5
+   6
   ],
   [
    "Australia",
@@ -56,31 +52,19 @@
    4
   ],
   [
-   "North Korea",
+   "Israel",
+   4
+  ],
+  [
+   "South Korea",
    3
-  ],
-  [
-   "Saudi Arabia",
-   3
-  ],
-  [
-   "Egypt",
-   3
-  ],
-  [
-   "France",
-   3
-  ],
-  [
-   "Japan",
-   2
-  ],
-  [
-   "India",
-   2
   ],
   [
    "European Union",
+   2
+  ],
+  [
+   "Japan",
    2
   ],
   [
@@ -88,7 +72,23 @@
    2
   ],
   [
+   "India",
+   2
+  ],
+  [
+   "North Korea",
+   2
+  ],
+  [
    "Syria",
+   2
+  ],
+  [
+   "France",
+   2
+  ],
+  [
+   "Saudi Arabia",
    2
   ],
   [
@@ -97,6 +97,10 @@
   ],
   [
    "Turkey",
+   1
+  ],
+  [
+   "Egypt",
    1
   ],
   [
@@ -115,12 +119,51 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 28,
+ "war_count": 29,
  "languages": {
-  "my": 27,
-  "en": 113
+  "my": 26,
+  "en": 114
  },
  "items": [
+  {
+   "title": "Sora Ma leaves livestream sales platform less than a week after first appearance",
+   "link": "https://www.channelnewsasia.com/entertainment/sora-ma-home-life-mall-livestream-leaves-6583941",
+   "source": "CNA World",
+   "published": "2026-11-26T14:25:30+08:00",
+   "summary": "Her planned solo livestream slated on Nov 22 did not go ahead. She announced her departure from Home Live Mall two days later.",
+   "body": "Her planned solo livestream slated on Nov 22 did not go ahead. She announced her departure from Home Live Mall two days later.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--z27vIs0I--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/26/sorama.jpg?itok=_udeTcl0",
+   "lang": "en"
+  },
+  {
+   "title": "New Singapore Exchange ETFs off to encouraging start, analysts say after first 30 days of trading",
+   "link": "https://www.channelnewsasia.com/singapore/sgx-etf-sp-500-investing-trade-6583871",
+   "source": "CNA World",
+   "published": "2026-11-26T13:55:00+08:00",
+   "summary": "Net purchases of the four exchange-traded funds amounted to S$178 million (US$138 million) as at Nov 24. One analyst said this suggests genuine investor appetite for accessing global equity markets through the Singapore Exchange.",
+   "body": "Net purchases of the four exchange-traded funds amounted to S$178 million (US$138 million) as at Nov 24. One analyst said this suggests genuine investor appetite for accessing global equity markets through the Singapore Exchange.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--QE84ZSwY--/c_crop,h_449,w_799,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-23T081145Z_1_LYNXMPEM8M0IG_RTROPTP_3_SINGAPORE-BUSINESS.JPG?itok=5Hon5aHk",
+   "lang": "en"
+  },
+  {
+   "title": "Balestier Market to undergo revamp with 'diverse F&B and retail offerings'",
+   "link": "https://www.channelnewsasia.com/dining/balestier-market-revamp-6584156",
+   "source": "CNA World",
+   "published": "2026-11-26T13:48:00+08:00",
+   "summary": "The Singapore Land Authority (SLA) announced on Tuesday (Nov 24) that it has awarded the tenure for the state property that is over 100 years old to Hua Hng Trading Co Pte Ltd.",
+   "body": "The Singapore Land Authority (SLA) announced on Tuesday (Nov 24) that it has awarded the tenure for the state property that is over 100 years old to Hua Hng Trading Co Pte Ltd.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--mZgArw3e--/c_crop,h_1125,w_2000,x_0,y_208/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/26/balestier_market_singapore.jpg?itok=c-TCJJVf",
+   "lang": "en"
+  },
   {
    "title": "Commentary: New US tariff threat seeks to ramp up pressure on trading partners – will it work?",
    "link": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
@@ -206,23 +249,10 @@
    "lang": "en"
   },
   {
-   "title": "Commentary: Will it be a three or even two-horse race in Singapore's telco sector?",
-   "link": "https://www.channelnewsasia.com/commentary/starhub-m1-merger-telco-consolidation-simba-mobile-price-plans-6581081",
-   "source": "CNA World",
-   "published": "2026-11-26T06:00:00+08:00",
-   "summary": "2026 has seen a pivotal shift in Singapore’s telco landscape, with the industry now shaping up to be a two-and-a-half horse race, says former editor and financial journalist Ven Sreenivasan.",
-   "body": "2026 has seen a pivotal shift in Singapore’s telco landscape, with the industry now shaping up to be a two-and-a-half horse race, says former editor and financial journalist Ven Sreenivasan.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--AnhH4wCI--/c_crop,h_1107,w_1969,x_1,y_243/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/24/starhub-m1-combo_5x4a.jpg?itok=xaT5qlv1",
-   "lang": "en"
-  },
-  {
    "title": "ICJ စီရင်ချက်အပေါ် လုပ်သင့်တာလုပ်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြော",
    "link": "https://www.bbc.co.uk/burmese/live/ckyvdjzv25lyt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-26T05:39:08+00:00",
+   "published": "2026-11-26T06:39:07+00:00",
    "summary": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -237,7 +267,7 @@
    "title": "ဖိလစ်ပိုင်က မြန်မာ့အရေးဆွေးနွေးပွဲ SECF၊ NUG၊ EROs နဲ့ စင်ကာပူ တက်ရောက်",
    "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-26T05:39:08+00:00",
+   "published": "2026-11-26T06:39:07+00:00",
    "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
    "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
    "category": "Myanmar",
@@ -249,25 +279,23 @@
    "lang": "my"
   },
   {
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "source": "The Guardian",
-   "published": "2026-11-26T05:30:32+00:00",
-   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
-   "body": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, released the Liberal and Nationals’ pre-election policy costings on Thursday, just two days before the state election and after more than 1.5 million Victorians have already cast their vote. Sign up for Guardian Australia’s Politics, really newsletter here . Continue reading...",
+   "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+   "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+   "source": "NYT World",
+   "published": "2026-11-26T06:30:00+00:00",
+   "summary": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
+   "body": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "Australia"
-   ],
-   "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954",
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25indonesia-mine-ztkg/25indonesia-mine-ztkg-mediumSquareAt3X.jpg",
    "lang": "en"
   },
   {
    "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
    "source": "The Guardian",
-   "published": "2026-11-26T05:28:39+00:00",
+   "published": "2026-11-26T06:28:33+00:00",
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce",
    "body": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
    "category": "Asia-Pacific",
@@ -278,6 +306,203 @@
     "NATO"
    ],
    "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2865d03e58df7373f41d2246e7e8c1d9",
+   "lang": "en"
+  },
+  {
+   "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T06:16:55+00:00",
+   "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Huang’s return is a terrible signal for US capitalism Financial Times Jensen Huang’s bail-out will not be the AI boom’s last",
+   "body": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Huang’s return is a terrible signal for US capitalism Financial Times Jensen Huang’s bail-out will not be the AI boom’s last The Economist Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy The New York Times",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "British lawmaker urges sanctions on Myanmar banks, Arakan Army after genocide ruling",
+   "link": "https://myanmar-now.org/en/news/british-lawmaker-urges-sanctions-on-myanmar-banks-arakan-army-after-genocide-ruling/",
+   "source": "Myanmar Now",
+   "published": "2026-11-26T06:11:36+00:00",
+   "summary": "Under growing international pressure following last week’s ruling, junta leader Min Aung Hlaing says he will selectively comply with the court’s demands",
+   "body": "Under growing international pressure following last week’s ruling, junta leader Min Aung Hlaing says he will selectively comply with the court’s demands",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar",
+    "United Kingdom"
+   ],
+   "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/စစ်တပ်နှင့်-ဆက်နွှယ်သည့်-ရေနံလုပ်ငန်းများ၊-နိုင်ငံပိုင်ဘဏ်များနှင့်-AA-ကိုပါ-ပိတ်ဆို့-1024x538.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+   "link": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-26T06:11:00+00:00",
+   "summary": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it.",
+   "body": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Russia",
+    "United States",
+    "China"
+   ],
+   "image": "https://static.dw.com/image/79998705_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "source": "The Guardian",
+   "published": "2026-11-26T06:10:56+00:00",
+   "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washi",
+   "body": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
+   "lang": "en"
+  },
+  {
+   "title": "Timms review puts rare focus on improving benefits system for disabled claimants",
+   "link": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
+   "source": "The Guardian",
+   "published": "2026-11-26T06:00:47+00:00",
+   "summary": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer Stephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence paym",
+   "body": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer Stephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence payments (Pip) in light of Keir Starmer’s doomed measures last summer, but last week the Milburn review pitched a set of changes to the key disability benefit to great fanfare. But when Timms took to the House of Commons to call for a “fundamental overhaul” of Pip on Tuesday, it was clear these were altogether bigger – and notably not explicitly cost-saving – ideas. Continue reading...",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0a534e365f43b4fa619c84015e0d805e8342906d/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=8a4ade1008fe130ce8b9ed3de6988d46",
+   "lang": "en"
+  },
+  {
+   "title": "Commentary: Will it be a three or even two-horse race in Singapore's telco sector?",
+   "link": "https://www.channelnewsasia.com/commentary/starhub-m1-merger-telco-consolidation-simba-mobile-price-plans-6581081",
+   "source": "CNA World",
+   "published": "2026-11-26T06:00:00+08:00",
+   "summary": "2026 has seen a pivotal shift in Singapore’s telco landscape, with the industry now shaping up to be a two-and-a-half horse race, says former editor and financial journalist Ven Sreenivasan.",
+   "body": "2026 has seen a pivotal shift in Singapore’s telco landscape, with the industry now shaping up to be a two-and-a-half horse race, says former editor and financial journalist Ven Sreenivasan.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--AnhH4wCI--/c_crop,h_1107,w_1969,x_1,y_243/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/24/starhub-m1-combo_5x4a.jpg?itok=xaT5qlv1",
+   "lang": "en"
+  },
+  {
+   "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+   "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T05:49:40+00:00",
+   "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+   "body": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "South Korea"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26330120352635-1795665787.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Rassvet, Russia's answer to Starlink, is already being used in Ukraine - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1pjcHJKRnNnbHdNbUtBZlBNNXJiTG9sYmdsMndGeWxQQ25ZSGoxdVo4MS1rN1J1ekRjMkxYQ1lmQjZjX2l2Q0llRDYwVGlyVmRLSkJpQXZBNmRHdC02NGNEZUZwTGpLdlhKekdscGVpYi05M0hCcGdmQ0t2VTJxVFIxUnVqXzZyOW5kM3ZmcUNqcTMxMURiQ2JmU1YySlFlTUpj0gGjAUFVX3lxTE9BQ19vQTJMUExQOHFKb19YT1pXZjVONkM2XzlMSWIxRk8xSFdjZlpGYVQ5R2pkRHZQUWU4Rko0QUdqc1RZRzRHM1F3dVZRZWdSRjliVkp0OXdmdkNQOUwyRVg3TWp3RDdrRlNZdTlYYTBvYThsTzZMVlgwZmRqVklpSUdENUd1M1NaMXd1NjRlR2hFdTNQUnNIckFZc2k0OWhwRk0?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T05:48:45+00:00",
+   "summary": "Rassvet, Russia's answer to Starlink, is already being used in Ukraine DW.com",
+   "body": "Rassvet, Russia's answer to Starlink, is already being used in Ukraine DW.com",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+   "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-26T05:45:00+00:00",
+   "summary": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+   "body": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static.dw.com/image/71856660_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Study Hard, Get Ahead?",
+   "link": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
+   "source": "NYT World",
+   "published": "2026-11-26T05:44:03+00:00",
+   "summary": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+   "body": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-theworld-students-02-hlqk-promo/26int-theworld-students-02-hlqk-promo-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "source": "The Guardian",
+   "published": "2026-11-26T05:30:32+00:00",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
+   "body": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, released the Liberal and Nationals’ pre-election policy costings on Thursday, just two days before the state election and after more than 1.5 million Victorians have already cast their vote. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Australia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954",
+   "lang": "en"
+  },
+  {
+   "title": "T.J. Lang blasts \"despicable\" Aaron Rodgers comments about Mike McCarthy - NBC Sports",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVVGSU9LRWtQRVRIWG1rRmliREw4Sy1iczEzR3B2TzkzM3A4UTdXTXotdmZFWEtRQmpGRFRyaTNEYTM2ZzdCNEJ2M3lzYm1lYUlGd19OOEJKM05zYVl3S2xsZTQtOTNuNjVVX3cyWmI4bUllalZLOGpiaEtRVXF3cGxfSF96MzJYY0lfSm1RRll1eGt1dldJaklsVDNadnExZTBNRnZvd3IwblFKM1hzTHR0NmdWZkowcTRHU2pKU05vUnVURHhTOHAyQQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T05:24:59+00:00",
+   "summary": "T.J. Lang blasts \"despicable\" Aaron Rodgers comments about Mike McCarthy NBC Sports Sources corroborate Aaron Rodgers' allegations about Steelers HC Mike McCarthy ESPN Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV NPR Only 1 NFL team makes sense for Aaron",
+   "body": "T.J. Lang blasts \"despicable\" Aaron Rodgers comments about Mike McCarthy NBC Sports Sources corroborate Aaron Rodgers' allegations about Steelers HC Mike McCarthy ESPN Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV NPR Only 1 NFL team makes sense for Aaron Rodgers, and even it comes with a caveat Yahoo Sports Aaron Rodgers’ former teammates criticize interview on Pat McAfee show: ‘It’s despicable’ - The Athletic The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNby01YzRXd0RPNUZZMkpzX3NHelptVmw5ZjZuWFFBTlZ5S1VqeXlYWFhqX2VBaU5hRzB0TWttUlJJNzByWmNtUlFCVXVqSGUwdkpMZWFSWXU2OEczc3FPT3ZWc2hnZjliMlctQ2FoNG1qYzdvbUNudVBGb3YyZWljZ2Y3Wmtha1A0ZHMtMDYteXdzeWNES0JDUHR3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T05:23:18+00:00",
+   "summary": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump NPR ‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses Politico Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’ CNN Judge blocks Brendan Carr-led FCC from taki",
+   "body": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump NPR ‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses Politico Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’ CNN Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses The Guardian Judge halts FCC review of ABC licenses, saying it probably violates First Amendment The Washington Post",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -309,6 +534,54 @@
     "United States"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-04-17T033321Z_1916242618_RC2BZDAI9Z0U_RTRMADP_3_PUERTO-RICO-POWER-1795665479.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "The five key moments in the Ukraine and Iran wars that sent your energy bills soaring",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlJrRlpyZmhPRC0tT2duN3ZsazlsSDNMMm5zcS0zVThvZktiYUxfdTlaQzRwNmZnQlFWSlp2SkpMNm1pSkUwenNEbnI4TEQ4eVRTbE9GVTVRWWZVcV9pUjVOSnZJclFpeV9Db1Q4LTRJdXNZcmdQSk9NaEc1a2k4aFFwYThjYXZDZ0NPeHFiTkhSQXM1QTBLRFlNVjA2UEczdmxnenAxcjFWVFU0d01jQg?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T05:06:00+00:00",
+   "summary": "The five key moments in the Ukraine and Iran wars that sent your energy bills soaring The Independent",
+   "body": "The five key moments in the Ukraine and Iran wars that sent your energy bills soaring The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T05:05:00+00:00",
+   "summary": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him USA Today ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Glo",
+   "body": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him USA Today ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe ICE arrests man days after he claimed $1 million Massachusetts lottery prize The Hill Illegal alien lottery winner’s luck runs out with ICE Boston arrest ICE | U.S. Immigration and Customs Enforcement (.gov)",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Russia must avoid ‘any actions’ expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzVqR3J2cDZqYW9Lbks4eE5oblRrekdmSXNNUTR3VHJFbWVkT2tGMDFpY1NJMEcwb3VlQ0NkYmN6eDNkVjQxSzF6TE0tTHN0NjczVGdZcWkxMDFBOWNOTWRaelJJbVhSa3BubEIyeG05bmozSFdiZHEzdDF3NEExcE1aS0stX0NxRWJyVTBQNFdoUGJVQWpXdTRmbFBZelBMNDJ0dmpxWTA2TDhLV241UExDZGZtWDdoWm5UQ0pVejkzRWU3bzBHb2g1ZTlSVXdoZjlrYWtB?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T05:04:00+00:00",
+   "summary": "Russia must avoid ‘any actions’ expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting New York Post",
+   "body": "Russia must avoid ‘any actions’ expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting New York Post",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -403,6 +676,53 @@
    "lang": "en"
   },
   {
+   "title": "‘Just taking part was a victory’: veterans’ sport helps recovery in Ukraine",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1JoSkoyUkFlWUt0Yl9sTEdvSHlLRXdmcENyMTZyZEtxN3BLaGVkS2VOcG5NeTk2N1BqNVNpZ3RLdUpaaW9ULVJVMDNDdkQ3WEt6U29hMHpteUN5MWtickwtYTl0WG9VQ256M013UGt3VE14ZHlQcHJ2cjk3LUtCcG9zcVQtUVA4SlJKR2N2SVpnTkZPMjZ2UnJOeDhsOGRzcDExTGRTeV9UZ05ReTJmZHRRNA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T05:00:00+00:00",
+   "summary": "‘Just taking part was a victory’: veterans’ sport helps recovery in Ukraine The Guardian",
+   "body": "‘Just taking part was a victory’: veterans’ sport helps recovery in Ukraine The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T04:57:00+00:00",
+   "summary": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia The Guardian",
+   "body": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia The Guardian",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The devastating scale of Putin’s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmp6aE9sTnUxdUx4LU9IbXpqcUJWUjNuZnFMd0VHT2NVTC1ZdjVPY1lWRVFqNWJkcnNJTmQtUzVBR25KVDZaQWxrWGNtY1hjRHc0QTNHcW9nRjRqRUhTWkVkTnMybml0VWU3NFhqbWVhOFRxVUc1bi1ueDdzRkhIV0I1TzhEWWVIVXFmNlVaVHBEZUt3VG1udXZCeklIMHp5TkJlVjZyLWhEUEV4TXZGMjNVS2VveG1JY1BfY3VmZFNZZw?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T04:53:00+00:00",
+   "summary": "The devastating scale of Putin’s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead The Independent",
+   "body": "The devastating scale of Putin’s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Six killed, including children, in plane crash off Mississippi coast",
    "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
    "source": "Al Jazeera",
@@ -446,17 +766,34 @@
    "lang": "en"
   },
   {
-   "title": "US envoy Kushner warns against Ukraine war escalation - アラブニュース",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQldpZjlwcHc3VC1fakh6aHBnR2VSMWo1ZFRHMVg4clgydFFDcTc5Nk1vdHZycExXSENCQlRicmdQSF81Um5TbnVwb01IeExyTElGV25LOVJGUVNSclptNjl1X3NyVExtbmNlejk1Wk1kUTNpZmhYbzJuRzZnQ2V5OXJhR2FzWnRPTkNsVDhQY25nMFozR0k5MFl6U3RGZw?oc=5",
+   "title": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss - Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHhrcHlIMGxXNFpfNjJJOEw3YVJhOGtjTExZLVR3am8zN2NWUHFldkRaaGhjTTVPeDc2Y2VWQUphY3RGU2F3dEdUSHJBbmEzUjN6VDZNdjl6bXpfTVNwNGlfUldyMTZlLWFrYTFIdXBaR0t5T3Y4UEcyNW9sVS1QUnBxTHpPNTlBR0dsUUdZUdIBlAFBVV95cUxNZENfdUtwXzkxZDFiMEkwbnBTRjVkeERZNmdWWWpncjJpVHVIUjRhN0ZCQWVFOUNEUG1oUE1sX2NPbHRfdDFQcnA3RURtWXV5eE1nd0RaTS1pa0gyWHJNMlMzankxQVZQR0FOUTE5R3JBLXdiNW01TzhvR0c2MnVISmhNV1l4cVRoV1gxWDF5dDBMSHI1?oc=5",
    "source": "Google News · Ukraine",
-   "published": "2026-11-26T04:47:34+00:00",
-   "summary": "US envoy Kushner warns against Ukraine war escalation アラブニュース",
-   "body": "US envoy Kushner warns against Ukraine war escalation アラブニュース",
+   "published": "2026-11-26T04:38:00+00:00",
+   "summary": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss Daily Mail",
+   "body": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss Daily Mail",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
+    "Russia",
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "War in Ukraine: Europeans ready to talk to Vladimir Putin to advance their vision for Europe's security architecture - Le Monde.fr",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQaXVMTC1ST1k4VXFHdERHa3hGdm5mVGdZdTA0c2VndWRfZm5DMFJQTUlpYU1SaWFEZUlFUU1QUER6MnNPZHc1dmYza1g5YVEwRzdHSkcyaEFxbDlMd2kwV1l2YlhWdFd3ckdnWEo3WWdLRWd0a3djZVA0UzVrOWdHVFJrWUhxSGZCWEl2NFMtazVtSUpmZEJzUEVFdUpDR19fRWhSWWlabDFIb3RaUmtpX3hhU1lyeTlvZzJpRUZzc2NLb044NmUweVdsa1RfdWg1WnBJRW5VN1YxY0dpbzUzaHZJZDdSM01jdVZtbk56RXlaOGZOMFNhRGJhODdCdzFvQUhyZ3JZcFpZYzFZSnJZRzhMNnBSaVlJ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T04:37:49+00:00",
+   "summary": "War in Ukraine: Europeans ready to talk to Vladimir Putin to advance their vision for Europe's security architecture Le Monde.fr",
+   "body": "War in Ukraine: Europeans ready to talk to Vladimir Putin to advance their vision for Europe's security architecture Le Monde.fr",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -474,50 +811,6 @@
     "United States"
    ],
    "image": "https://static.dw.com/image/80056201_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T04:35:57+00:00",
-   "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Huang’s return is a terrible signal for US capitalism Financial Times Why Nvidia is the quintessential Trump scandal CNN Ins",
-   "body": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post The Frantic White House Push to Get Jensen Huang Back WSJ Huang’s return is a terrible signal for US capitalism Financial Times Why Nvidia is the quintessential Trump scandal CNN Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO CBS News",
-   "category": "USA / Americas",
-   "is_war": true,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine war live: Kyiv claims five Russian aircraft damaged in airbase strike",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T04:33:23+00:00",
-   "summary": "Ukraine war live: Kyiv claims five Russian aircraft damaged in airbase strike The Independent",
-   "body": "Ukraine war live: Kyiv claims five Russian aircraft damaged in airbase strike The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVg0M1E0cFY2T29Ca0EtWkdTZ2VDRjVBdERVOVlVVXVvQUcwLXlFWEdjWjMybEViLTY5Wk5Bak9JVkZTeGZrTlpxajM2OEZ6aW1PcE9jcF9nY2pYY3FoQzNtSi1BM1pTYTd0RnI4Vm5CaUszQUxzUDN2TDZXM3dxbV84T1RNUQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T04:30:36+00:00",
-   "summary": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65 The New York Times Andy Taylor 1961–2026 duranduran.com Tribute: Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys Rolling Stone Andy Taylor’s Wife Says He ‘Never Gave Up’ After Cancer Diagnosis People.com Dura",
-   "body": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65 The New York Times Andy Taylor 1961–2026 duranduran.com Tribute: Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys Rolling Stone Andy Taylor’s Wife Says He ‘Never Gave Up’ After Cancer Diagnosis People.com Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him The Guardian",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -541,8 +834,8 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGIzTGRUQXpwS3JVM3JVd2NzaHNLNGZ3VjVjQUJKaDM3Zl9hd3ZUcnVLMUlYRDF3Qm1Ma1EyTS1Gbm10OXpkTXdBcDR5Y0ZGTk4yRlNtLU1weW10ZlJWQ1hoVkVyQUhrOE1vbWhrbVZpcDZTQ2l2NWJ1c3pkMVd2b2lLZXNsN25lbkJ5Yw?oc=5",
    "source": "Google News",
    "published": "2026-11-26T04:26:00+00:00",
-   "summary": "Rams vs. Packers: Week 12 NFL game highlights ESPN Rams take Packers' dinner in first Thanksgiving Eve game ESPN Rams ride Blake Corum to Thanksgiving Eve win over Packers; Jordan Love throws 2 INTs with Christian Watson out Yahoo Sports Packers vs. Rams | How to watch, stream & ",
-   "body": "Rams vs. Packers: Week 12 NFL game highlights ESPN Rams take Packers' dinner in first Thanksgiving Eve game ESPN Rams ride Blake Corum to Thanksgiving Eve win over Packers; Jordan Love throws 2 INTs with Christian Watson out Yahoo Sports Packers vs. Rams | How to watch, stream & listen | Week 12 Green Bay Packers – packers.com Here is where the Packers fit in the NFC playoff picture after Wednesday night Acme Packing Company",
+   "summary": "Rams vs. Packers: Week 12 NFL game highlights ESPN Rams 26-13 Packers (Nov 25, 2026) Game Recap ESPN HIGHLIGHTS: Rams RB Blake Corum rushes for a touchdown to open the second half vs. the Packers Rams Game recap: 5 takeaways from Packers’ loss to Rams Green Bay Packers – packers.",
+   "body": "Rams vs. Packers: Week 12 NFL game highlights ESPN Rams 26-13 Packers (Nov 25, 2026) Game Recap ESPN HIGHLIGHTS: Rams RB Blake Corum rushes for a touchdown to open the second half vs. the Packers Rams Game recap: 5 takeaways from Packers’ loss to Rams Green Bay Packers – packers.com Rams vs. Packers prediction: Can Green Bay continue success with deep ball? Will L.A. overcome injuries? CBS Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -582,12 +875,12 @@
    "lang": "en"
   },
   {
-   "title": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War - U.S. News & World Report",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaGszUnRSZ2F1N2prVnVaTXprbEoxTEs0QlRPWDJ3OE53SGtQd3NmeTJKQ1FmNTUwa0JHZDZjcjAzNnZsa3JkWC02N3FvaWFmOEFKZmtaZUcweUp5VG9ES2NHaUF2bkhEbTdGV1VyOUg1d1FUN2hRYkNXS2ZpVE5yZU1DYjFlcGtTSVpockV0amdKdXVLSXZZejZ5WXgzZDV2aUJmZ1B5bEYxUDBTUTZ3QmM1SnduZ3JCN3AyUkNjdmhzZENH?oc=5",
+   "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmJ0RTNwdG5QUDFqSXo5QjQ5VE9xMzRHZFhjNkNobzV0SEpsalBYRVo2c1hKbFlzeml3ZVdJUmt2ODNxNDY5ekx5YVMzalNwbjFZMnZISlo5eHVMVEdCX0RQZUIyRC1iZmFxN3g5cldXQUl4VUhFY25kWHJrdDBfQWUxcWZQZS1CdmNhWk9mOHZadw?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-26T04:20:00+00:00",
-   "summary": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War U.S. News & World Report",
-   "body": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War U.S. News & World Report",
+   "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Yahoo",
+   "body": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Yahoo",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -599,12 +892,12 @@
    "lang": "en"
   },
   {
-   "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmJ0RTNwdG5QUDFqSXo5QjQ5VE9xMzRHZFhjNkNobzV0SEpsalBYRVo2c1hKbFlzeml3ZVdJUmt2ODNxNDY5ekx5YVMzalNwbjFZMnZISlo5eHVMVEdCX0RQZUIyRC1iZmFxN3g5cldXQUl4VUhFY25kWHJrdDBfQWUxcWZQZS1CdmNhWk9mOHZadw?oc=5",
+   "title": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War - U.S. News & World Report",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaGszUnRSZ2F1N2prVnVaTXprbEoxTEs0QlRPWDJ3OE53SGtQd3NmeTJKQ1FmNTUwa0JHZDZjcjAzNnZsa3JkWC02N3FvaWFmOEFKZmtaZUcweUp5VG9ES2NHaUF2bkhEbTdGV1VyOUg1d1FUN2hRYkNXS2ZpVE5yZU1DYjFlcGtTSVpockV0amdKdXVLSXZZejZ5WXgzZDV2aUJmZ1B5bEYxUDBTUTZ3QmM1SnduZ3JCN3AyUkNjdmhzZENH?oc=5",
    "source": "Google News · Ukraine",
    "published": "2026-11-26T04:20:00+00:00",
-   "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Yahoo",
-   "body": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Yahoo",
+   "summary": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War U.S. News & World Report",
+   "body": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War U.S. News & World Report",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
@@ -689,6 +982,22 @@
    "lang": "en"
   },
   {
+   "title": "Ukraine war latest: US approves possible $622m sale of F-16 equipment to Kyiv",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0RQSi1XVFRWaTFjbzRKSVJwTU5yNEtFX0M5YUpVcktOUmhyYnBkWkZFaDliNjBlZE1kaXVyVnJSVWZtdmxPWURoX1RwejZiQWZxVFI0U1VkWXpiYzlfV2ZCbjc0MkVFWHFpTE9DVmJ6cVJhOE9PWEhhbGRmdEZyczNUWDRzQ1FOczJnbUZfY0JfUXFPc1poRDRfdVZZdmhtTnFONUVPVzVvRDdUNVc4VUNQSlBfU3ZMSk91eXEyazlBSUQ1SkhKVkhn?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T04:02:22+00:00",
+   "summary": "Ukraine war latest: US approves possible $622m sale of F-16 equipment to Kyiv The Independent",
+   "body": "Ukraine war latest: US approves possible $622m sale of F-16 equipment to Kyiv The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "ကုလဒုက္ခသည်ရုံးက အသိအမှတ်ပြုကတ်ထုတ်မပေးသည့်နောက် မလေးရှားရောက် မြန်မာဒုက္ခသည်များ ဘေးကျပ်နံကျပ်ဖြစ်လာ",
    "link": "https://myanmar-now.org/mm/news/82511/",
    "source": "Myanmar Now Burmese",
@@ -704,29 +1013,12 @@
    "lang": "my"
   },
   {
-   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-   "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-   "source": "The Guardian",
-   "published": "2026-11-26T03:54:24+00:00",
-   "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washi",
-   "body": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”. Continue reading...",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "China",
-    "European Union"
-   ],
-   "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
-   "lang": "en"
-  },
-  {
    "title": "Wordle today: The answer and hints for November 25, 2026 - Mashable",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZ1pqQUhTM2Roby1sSkhIM2RaWW9yWjROVl91TjdycDI4cEFlUnVISF9udlJPMTB5ancyaFlsMmlUNlJVdXcxNnd2VWZGeXA1WDY4UGdzMEFDMGhxbTFjRHRqSXBaRjFObW15X21LTDNsM1VVVGRlYTh3aw?oc=5",
    "source": "Google News",
    "published": "2026-11-26T03:30:30+00:00",
-   "summary": "Wordle today: The answer and hints for November 25, 2026 Mashable Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985 CNET Wordle hint today: Clues for November 25 2026 NYT puzzle #1985 USA Today Today’s Wordle Hint, Answers for #1984 on Tuesday, November 24, ",
-   "body": "Wordle today: The answer and hints for November 25, 2026 Mashable Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985 CNET Wordle hint today: Clues for November 25 2026 NYT puzzle #1985 USA Today Today’s Wordle Hint, Answers for #1984 on Tuesday, November 24, 2026 parade.com Today’s Wordle #1986 Hints, Clues And Answer For Thursday, November 26 Forbes",
+   "summary": "Wordle today: The answer and hints for November 25, 2026 Mashable Wordle today: The answer and hints for November 26, 2026 Mashable Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985 CNET Wordle hint today: Clues for November 25 2026 NYT puzzle #1985 USA Toda",
+   "body": "Wordle today: The answer and hints for November 25, 2026 Mashable Wordle today: The answer and hints for November 26, 2026 Mashable Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985 CNET Wordle hint today: Clues for November 25 2026 NYT puzzle #1985 USA Today Today’s Wordle Hint, Answers for #1984 on Tuesday, November 24, 2026 parade.com",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -762,12 +1054,12 @@
    "lang": "en"
   },
   {
-   "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+   "title": "Anthropic CEO denies supporting AI control as superintelligence looms",
    "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-11-26T03:20:23+00:00",
-   "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
-   "body": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+   "summary": "Dario Amodei says he doesn't support 'surrender' of free will amid predictions AI could soon surpass human intelligence.",
+   "body": "Dario Amodei says he doesn't support 'surrender' of free will amid predictions AI could soon surpass human intelligence.",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -775,14 +1067,42 @@
    "lang": "en"
   },
   {
-   "title": "Bay Area weather live updates: King tides, coastal flood warning - NBC Bay Area",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv?oc=5",
+   "title": "Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding - FOX Weather",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTl6NlBKb3JYSFJlRnNLeFEyX3ZqNnNERWJrUGpNaWhyLUZ5cTBfU182VFBLM3d5R0g1dDMyVkR2UUtOOTlmdEhJUkRaU0ZFY1dQRU1MTUVVaFFCeml0c244bEFNY0ZDdXlVQy1FUXVMWW5TS1RycEcxMjgxcjhEMl9uTE4xSGdlbENvWVRtN0MxVkFUX0RLTDFnRG4wcW9lQzVCeFpFSGdRX3RmaDM4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T03:17:31+00:00",
+   "summary": "Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather A Massive Storm Is Barreling Toward the East Coast on Thanksgiving Day Business Insider Major airlines offer Thanksgiving travel waivers up and down the East Coast The Washington Post What to kn",
+   "body": "Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather A Massive Storm Is Barreling Toward the East Coast on Thanksgiving Day Business Insider Major airlines offer Thanksgiving travel waivers up and down the East Coast The Washington Post What to know ahead of major Thanksgiving storm NBC10 Philadelphia Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding The New York Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica - NBC Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA?oc=5",
    "source": "Google News",
    "published": "2026-11-26T03:16:09+00:00",
-   "summary": "Bay Area weather live updates: King tides, coastal flood warning NBC Bay Area A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’ The New York Times King tides, strong waves destroy part of Pacifica pier; officials warn of coastal flooding KATU Record-bre",
-   "body": "Bay Area weather live updates: King tides, coastal flood warning NBC Bay Area A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’ The New York Times King tides, strong waves destroy part of Pacifica pier; officials warn of coastal flooding KATU Record-breaking California tides cause major flooding of roads and businesses The Guardian King tides bring record coastal flooding to California Yale Climate Connections",
+   "summary": "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica NBC Bay Area Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California Yahoo Live updates: Massive waves, extreme tides pummel California coast SFGATE Watch: Part of P",
+   "body": "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica NBC Bay Area Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California Yahoo Live updates: Massive waves, extreme tides pummel California coast SFGATE Watch: Part of Pacifica pier collapses during king tides KCRA What are king tides? These exceptionally high tides are increasingly flooding coastal communities AP News",
    "category": "Global",
-   "is_war": true,
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "U2 Thanksgiving Eve Packers Vs. Rams Game Halftime Show Review - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnJxMzI3T2wzbWUzUHJnZ1NxamZoU2VRNnpEOVl1dm5HT2kzdTBtNVRwRlBqUkZYendRaVFGaFNIS0VjMXJFTENGV0swRXNha3dYR2pZRG5LclVpQXdUaEV0N0MyVzhoMWlJbWpyeDdUNU8tSE9jTVB0S0JqTUtYajc5d3hGcFlOb1NicllnUTlsYXBBOF9QdQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T03:06:00+00:00",
+   "summary": "U2 Thanksgiving Eve Packers Vs. Rams Game Halftime Show Review Deadline U2 pays tribute to Dolly Parton during NFL Thanksgiving Eve halftime show Fox News NFL Thanksgiving 2026: A look at every NFL halftime show performer for the holiday slate CBS Sports U2’s Thanksgiving Eve Hal",
+   "body": "U2 Thanksgiving Eve Packers Vs. Rams Game Halftime Show Review Deadline U2 pays tribute to Dolly Parton during NFL Thanksgiving Eve halftime show Fox News NFL Thanksgiving 2026: A look at every NFL halftime show performer for the holiday slate CBS Sports U2’s Thanksgiving Eve Halftime Show Setlist Revealed Netflix U2 will rock Netflix's Thanksgiving Eve game in the name of Dolly and love USA Today",
+   "category": "Global",
+   "is_war": false,
    "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -797,23 +1117,6 @@
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US-Israel-Iran War Latest Live News: Explosion Rocks Sanaa, 2 Ballistic Missiles Intercepted Over Riyadh and Tanker Incident Near Dubai Amid Middle East Escalation - The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOLUk1eU42UGp3cU9ZVl9IS2dwNFBndnJpc0pUWE5penBjekl5SVE4QkhBNnFmX19zdzQ2a0ZJdXIwVW93WERwNWlJZEdvMlBzdkphRzVCWkN6a0tBc3o1RlJOOEZOS1p4UUFXNE9obFpaRVBmQXk3WXRoRW9jVmM2OVFTbHgzNWVwUmNPbTFLUzZrdEY0RVVEYnZBRTZxZ21wMk80WThPZkJ2cEhfWldLby1ZMWgxUV9zZzlVMk1JY1l2QTdMZk5heGdmYnpRLTJ2S0VZX1RvTWhBNzVfN2tJd2hVc1gwQTcwTURMLXR2NWZzWjJXUXZkYlFENjVlX2JlR19iOWFTa2dKM2ttZTFwSXZSSjFBYnBZSXpyZGRBdTZFSTQ1QzNnUzE1RzctUHfSAbQCQVVfeXFMTW05RHFhYnhlYVpTci01dHlILXQ1QWtRVk01Mnc4NkV3SXg1QVF5VUZEb0dnWno3c01vQkljN0pOVTB2RWgxNnhnSFpBVkhzOGdHM1dmQ2dGM0s5NFVHQjRoVGYwT1Q1U2xaSzktQzZwcXZfcTJjaDhiWUthWlQtN0tjVUFJc3J5SS1fX214dUMtVTM1aDhodkpfeE11UTNaYmo4RG9EQ0VQT05STjVBU1VMR2s4bWItbm5TcklzQ1pkSVRfalNOekd2N3p3cTVHMXpfdmxBX2NGLWw5cmMwNm14RVA3eWpSZFpMMDh5TUhvM3Y5SUV3OV9LU0FicWhPR0VCZW1xV3NjNzFpakZ1QWdseS1mc3M0bFVBX0hXd09VNFpFbkxEM0hQUXp5eUI4elYwTnk?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-26T03:01:41+00:00",
-   "summary": "US-Israel-Iran War Latest Live News: Explosion Rocks Sanaa, 2 Ballistic Missiles Intercepted Over Riyadh and Tanker Incident Near Dubai Amid Middle East Escalation The Sunday Guardian",
-   "body": "US-Israel-Iran War Latest Live News: Explosion Rocks Sanaa, 2 Ballistic Missiles Intercepted Over Riyadh and Tanker Incident Near Dubai Amid Middle East Escalation The Sunday Guardian",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Iran",
-    "Saudi Arabia"
-   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -866,21 +1169,6 @@
    "lang": "en"
   },
   {
-   "title": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWJpVHlqeHV3UkNCM19NSXdjczdRNGcycDBObW1rdUljeVU2ajVFNzZ0ck5vUjdKaFJXaTdUUE5zVDB1VVBwSWVpSmt2TmhIR2ZadGtMdkpCVGNCblVvcVpVTVBadWdhNmhNeXdRRjhkdHIwQXJJbTVNQmJQVF82RnhDMG85WHhJN1JLLVB0Nl95VENTakR3UXVsXzZWUkN2QlhDbmNycHFZa1VMb1NhbG5ram9SelRLUVExZDNYUVVEMzNjSzROOE9vbG1sOHFWTUgyMWZZV0M?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T02:47:35+00:00",
-   "summary": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules Los Angeles Times ‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses Politico U.S. Judge rules FCC violated ABC's free speech rights to please Trump NPR Judge blocks Trump’s FCC from targe",
-   "body": "Trump, FCC illegally sought to punish ABC in free speech case, judge rules Los Angeles Times ‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses Politico U.S. Judge rules FCC violated ABC's free speech rights to please Trump NPR Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’ CNN Judge blocks FCC from early license review for ABC, which network says has had a chilling effect AP News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Extreme weather threatens Thanksgiving festivities in US",
    "link": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -911,39 +1199,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T02:35:00+00:00",
-   "summary": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia The Guardian",
-   "body": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia The Guardian",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine-Russia war latest: US approves possible $622m sale of F-16 equipment to Kyiv as Russia bombs capital",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0RQSi1XVFRWaTFjbzRKSVJwTU5yNEtFX0M5YUpVcktOUmhyYnBkWkZFaDliNjBlZE1kaXVyVnJSVWZtdmxPWURoX1RwejZiQWZxVFI0U1VkWXpiYzlfV2ZCbjc0MkVFWHFpTE9DVmJ6cVJhOE9PWEhhbGRmdEZyczNUWDRzQ1FOczJnbUZfY0JfUXFPc1poRDRfdVZZdmhtTnFONUVPVzVvRDdUNVc4VUNQSlBfU3ZMSk91eXEyazlBSUQ1SkhKVkhn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T02:32:22+00:00",
-   "summary": "Ukraine-Russia war latest: US approves possible $622m sale of F-16 equipment to Kyiv as Russia bombs capital The Independent",
-   "body": "Ukraine-Russia war latest: US approves possible $622m sale of F-16 equipment to Kyiv as Russia bombs capital The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
    "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
    "source": "The Guardian",
@@ -956,21 +1211,6 @@
     "Australia"
    ],
    "image": "https://i.guim.co.uk/img/media/6bc9fc5f6a817cf2c3f2ae94fa662f095a4a7e4a/152_0_2369_1896/master/2369.jpg?width=140&quality=85&auto=format&fit=max&s=cfed3809fab50aa7547ab0cc010d00dc",
-   "lang": "en"
-  },
-  {
-   "title": "Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding - FOX Weather",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTl6NlBKb3JYSFJlRnNLeFEyX3ZqNnNERWJrUGpNaWhyLUZ5cTBfU182VFBLM3d5R0g1dDMyVkR2UUtOOTlmdEhJUkRaU0ZFY1dQRU1MTUVVaFFCeml0c244bEFNY0ZDdXlVQy1FUXVMWW5TS1RycEcxMjgxcjhEMl9uTE4xSGdlbENvWVRtN0MxVkFUX0RLTDFnRG4wcW9lQzVCeFpFSGdRX3RmaDM4?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T02:23:24+00:00",
-   "summary": "Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding The New York Times Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel NO",
-   "body": "Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding The New York Times Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel NOAA (.gov) Major airlines offer Thanksgiving travel waivers up and down the East Coast The Washington Post AccuWeather forecast for Philadelphia, Pennsylvania, New Jersey and Delaware 6abc Philadelphia",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1022,8 +1262,8 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZ2lsaWo2Y2dKTElJbm9sTGpQS1FrRHlpaEZkOVJLU0hxNVRTZ0JRZU9tM1ZaYlVPZUNKcjEySlBINEVQaWp4T1FqeXUzcVA0VkQ4RmhIM2ZReWs?oc=5",
    "source": "Google News",
    "published": "2026-11-26T02:13:00+00:00",
-   "summary": "UK government set to publish new treaties agreed with EU BBC Britain Announces Brexit Reset Deal at E.U. Summit: What to Know The New York Times Andy, António and Ursula: the joyful Euro throuple break Nigel’s bitter heart The Guardian Facing economic pain and Russia threats, U.K",
-   "body": "UK government set to publish new treaties agreed with EU BBC Britain Announces Brexit Reset Deal at E.U. Summit: What to Know The New York Times Andy, António and Ursula: the joyful Euro throuple break Nigel’s bitter heart The Guardian Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal NBC News ‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham Financial Times",
+   "summary": "UK government set to publish new treaties agreed with EU BBC Britain Announces Brexit Reset Deal at E.U. Summit: What to Know The New York Times Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal NBC News Dairy Sector Welcomes UK–EU Trad",
+   "body": "UK government set to publish new treaties agreed with EU BBC Britain Announces Brexit Reset Deal at E.U. Summit: What to Know The New York Times Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal NBC News Dairy Sector Welcomes UK–EU Trade Deal But Urges Clarity Ahead Of 2028 Rollout https://en.edairynews.com/ EU-UK SPS Agreement to Ease Seed Trade and Variety Listing SeedWorld",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1052,22 +1292,6 @@
    "lang": "en"
   },
   {
-   "title": "US-led consortium agrees to acquire assets from Russian oil company Lukoil - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVlVRi1aTHJHaEhQZkh0QmdYSk1IVkQ3bGc4Z21ZdUFhUFROZWE2QnYxVFM5OFd6WEZTMDlsNkViemFlSzRoU2RVRmdTUGZCbnZqTWhWZHg4M1JlWWtQN1JQNDhqa2prbWkzQ25sMjBNa2paR1cteEkxa1NreHZkRElfR2JFZTdYajR0QlFfcnZYNi0yTW5sb0ZDcEljR1pUaGVJMg?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T02:08:00+00:00",
-   "summary": "US-led consortium agrees to acquire assets from Russian oil company Lukoil AP News Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly CNN EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters L",
-   "body": "US-led consortium agrees to acquire assets from Russian oil company Lukoil AP News Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly CNN EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates The New York Times Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil WSJ",
-   "category": "Ukraine / Russia",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
    "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1078,19 +1302,6 @@
    "is_war": true,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Aaron Rodgers’ former teammates criticize interview on Pat McAfee Show: ‘It’s despicable’ - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa01RejRqMkJzSERzekhzNWFNTjZlR3NrQ3ZMdl9PX2dVVFhadzI4MzBMNXVxQVpDbEYzVnVxM3NTcVdVN0xwUFBZOUVHTkFkbE4yR0d1aTZLbWtFYnphVHR4UXpsQjJiaUgtNXNnQTVZMEp1UHcweHBpQVhJM0RVTjY5aVRQRHVfT0dUeXg5VmVDbENPYXkzYTgyQmpGSW1pREpUQ0pHV3FHbmc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T02:05:54+00:00",
-   "summary": "Aaron Rodgers’ former teammates criticize interview on Pat McAfee Show: ‘It’s despicable’ - The Athletic The New York Times Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview ESPN Aaron Rodgers blasted by former teammate for ‘victim mentality’ after Mike McCa",
-   "body": "Aaron Rodgers’ former teammates criticize interview on Pat McAfee Show: ‘It’s despicable’ - The Athletic The New York Times Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview ESPN Aaron Rodgers blasted by former teammate for ‘victim mentality’ after Mike McCarthy takedown Yahoo Sports Pat McAfee gave Aaron Rodgers a clean pocket to unload during live interview of a lifetime The New York Times Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout Fox News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1107,19 +1318,6 @@
     "North Korea"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0788bbb53d-1795655867.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Joan Smalls Confirms Fall Out with Candice Swanepoel Over Tom Brady Romance - TMZ",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnc2Y1ZzRG5uYjJ2eXBvb0Q3WXBIWmgwT21saDQ0Z3gxQnh5aGhSRENDZ3psa3FXVE43VThuUklkS0w3NkFNSlVtMEZPVmt5c2pyT2pHdGtrd05zaDlINTNkV3RtTnMwTmlfVW9HZWgtOTRUTmhQYzdRc3p0X0tPWERQUFJ2Q2g1YnNr?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T01:51:59+00:00",
-   "summary": "Joan Smalls Confirms Fall Out with Candice Swanepoel Over Tom Brady Romance TMZ Joan Smalls Confirms Friendship Breakup with Candice Swanepoel amid Tom Brady Romance People.com Joan Smalls Confirms Tom Brady Was \"the Catalyst\" for Candice Swanepoel Fallout E! News Joan Smalls Cla",
-   "body": "Joan Smalls Confirms Fall Out with Candice Swanepoel Over Tom Brady Romance TMZ Joan Smalls Confirms Friendship Breakup with Candice Swanepoel amid Tom Brady Romance People.com Joan Smalls Confirms Tom Brady Was \"the Catalyst\" for Candice Swanepoel Fallout E! News Joan Smalls Claims She Planned to Buy Vacation Home With Candice Swanepoel Before Tom Brady ‘Betrayal’ Yahoo Victoria’s Secret model’s bombshell claims about feud over Tom Brady Nine.com.au",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1149,6 +1347,22 @@
     "Russia"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-15T152617Z_1851412768_RC2CQ49SS6FD_RTRMADP_3_RUSSIA-AIRPLANE-CRASH-1795653630.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Stocks rally in Asia, US tariffs not as dire as feared",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T01:35:00+00:00",
+   "summary": "Stocks rally in Asia, US tariffs not as dire as feared Reuters South Korea's Kospi leads gains as tech rebound lifts Asia markets CNBC Stocks advance in Asia after volatile US trading over AI risks Financial Times Global markets rebound as tech shares recover and tariff fears eas",
+   "body": "Stocks rally in Asia, US tariffs not as dire as feared Reuters South Korea's Kospi leads gains as tech rebound lifts Asia markets CNBC Stocks advance in Asia after volatile US trading over AI risks Financial Times Global markets rebound as tech shares recover and tariff fears ease Yahoo Finance Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts Al Jazeera",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "South Korea"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1213,22 +1427,6 @@
    "lang": "en"
   },
   {
-   "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4 - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkcxUnVPcG5WWUU5V2IxdHg1SmN5TzN5YkxtY0ZrVUt6RkRVRHd3MHA3OWlIUFBxWnBXMDhFMVpmcmtQZ3k1OHJSXzFUU0g0X3lNMHhkaWQ1Q0ZWWUM3TmxrX2xHdlE4c3ltcW04NVRab2preWEzSUtqLURwZUllUU1xZ3BvZUMtQ2R5MjM0T1pFV0l6cjUzaldRRQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T01:09:30+00:00",
-   "summary": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4 The Kyiv Independent",
-   "body": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4 The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Judges recommend prosecutors end corruption case against Netanyahu",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1254,6 +1452,21 @@
    "is_war": true,
    "countries": [
     "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BX0ltaTV6dmM2SkZLci1OMHRCRHpKYTVHUTY2bmcwSDhFRTRGN2tGUUttWndwSmV1WnYzTXhGTTRkN3JfckQ2bmtJbGw3RTVwNFJMeDZvbi1rd3RKdTJZTjE1czJud2tTNGhDdDRRcnNPNDRybzY0SW9vS3UzS2fSAYQBQVVfeXFMTzBydDUteUdVY1J0eUMza3RsTlZQdG82RG9OUDlXLXdyYl93NVpXcldtSUg5S3RtT3ZXVGFsTjRnaGVlUGFIeU5BUU1aNGxWODVRMHNGWUdwdmFFanBac3U1NXhKVUE2TjZFdVdjcUF3MlA0cWpMS0xDTHZGYnNQVjg3Y3Fp?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T00:54:00+00:00",
+   "summary": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years CNBC South Korea’s central bank hikes interest rates, raises GDP growth forecast Al Jazeera Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation Bloomberg.com Bank of Korea raises interes",
+   "body": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years CNBC South Korea’s central bank hikes interest rates, raises GDP growth forecast Al Jazeera Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation Bloomberg.com Bank of Korea raises interest rates amid AI chip boom Financial Times South Korea's central bank raises rates, upgrades 2027 growth outlook Reuters",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "South Korea"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1432,17 +1645,15 @@
    "lang": "en"
   },
   {
-   "title": "A man in Boston won $1 million in the lottery. Then ICE arrested him",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lbnVubFlCMzNHNGhCdmgwQ1BDLUpHYUdSNDVISFBaczdXbUxKQlBvcmNOMjk5Tk9ieTVRc3FEczZTRC1nQnpLbV9yaDg0N19ZMm1GQUdidDJvYVM4djlpT2RHWnBOeHpqOVFR?oc=5",
+   "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVg0M1E0cFY2T29Ca0EtWkdTZ2VDRjVBdERVOVlVVXVvQUcwLXlFWEdjWjMybEViLTY5Wk5Bak9JVkZTeGZrTlpxajM2OEZ6aW1PcE9jcF9nY2pYY3FoQzNtSi1BM1pTYTd0RnI4Vm5CaUszQUxzUDN2TDZXM3dxbV84T1RNUQ?oc=5",
    "source": "Google News",
-   "published": "2026-11-26T00:18:00+00:00",
-   "summary": "A man in Boston won $1 million in the lottery. Then ICE arrested him CNN ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe Man clai",
-   "body": "A man in Boston won $1 million in the lottery. Then ICE arrested him CNN ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him USA Today Illegal alien lottery winner’s luck runs out with ICE Boston arrest ICE | U.S. Immigration and Customs Enforcement (.gov)",
+   "published": "2026-11-26T00:15:01+00:00",
+   "summary": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65 The New York Times Andy Taylor 1961–2026 duranduran.com Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him The Guardian Duran Duran guitarist and songwriter Andy Taylor dies at",
+   "body": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65 The New York Times Andy Taylor 1961–2026 duranduran.com Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him The Guardian Duran Duran guitarist and songwriter Andy Taylor dies at 65 Reuters Andy Taylor, original guitarist for Duran Duran, dies at 65 CNN",
    "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1480,8 +1691,8 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2hCRi1XcVhxSkpwZ1hjT3UxamJmY1RWZV9ySEVBcTRLRVAxNEdEcExaTnJIRlpndFFOcG5vaTB2aWpVMFlENm5rUTVZZWNBeWtHTXhsSHo4Z3FiUXE4azBIcVZaOTc2YjhSNE5pZjJ2YnJ4OTh4ekNxRVpEdlRWb1JQcG5tT1Q4Uk9Pd0RraHd0cnpEUERTTDJDT0oxVUxBbWlNdUdKeTdsVHQxRndkbG9ZU2dPelVWRUE?oc=5",
    "source": "Google News",
    "published": "2026-11-26T00:02:17+00:00",
-   "summary": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip PBS Six killed, including children, in plane crash off Mississippi coast Al Jazeera Six Florida family members killed in plane crash on way home from fishing trip identified Fox News Remains of 6 p",
-   "body": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip PBS Six killed, including children, in plane crash off Mississippi coast Al Jazeera Six Florida family members killed in plane crash on way home from fishing trip identified Fox News Remains of 6 people found after plane crashes en route to Fort Myers Gulf Coast News and Weather Authorities identify 6 family members killed in Horn Island plane crash after fishing trip NOLA.com",
+   "summary": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip PBS Authorities identify 6 family members killed in Horn Island plane crash after fishing trip NOLA.com Six killed, including children, in plane crash off Mississippi coast Al Jazeera Remains of 6 ",
+   "body": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip PBS Authorities identify 6 family members killed in Horn Island plane crash after fishing trip NOLA.com Six killed, including children, in plane crash off Mississippi coast Al Jazeera Remains of 6 people found after plane crashes en route to Fort Myers Gulf Coast News and Weather Six people killed in plane crash near Mississippi island identified WDSU",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1569,8 +1780,8 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2dxUHhDMDZER2FmaUk4YnRCN2JHenhiWkZVMnJYMk16SnR5THJXeFlLOGxUQ0RZcDlsZ0ppVGs1WkJtdUNwNkVmN25mRi0yLTAyeERqNGhWV1FEakVIVFlDZ3BxVW80WW1MN3pJREl2U1dSNUFQZGRsa21XR2lDNEFVaE82OVQ2VXBMbTB2Q2p3M2gtTENnNkhMS1NOcXdfOXRkaG5NVUNEUnhPd1BLUlh6dGU1T0FPdlpDM0R3?oc=5",
    "source": "Google News",
    "published": "2026-11-25T23:56:07+00:00",
-   "summary": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement MMA Fighting Felony charges dropped against ex-UFC fighter Anthony Smith ESPN Anthony Smith's criminal charges dismissed in Nebraska, ex-UFC star releases lengthy statement Yahoo Sports Charges di",
-   "body": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement MMA Fighting Felony charges dropped against ex-UFC fighter Anthony Smith ESPN Anthony Smith's criminal charges dismissed in Nebraska, ex-UFC star releases lengthy statement Yahoo Sports Charges dismissed against UFC veteran Anthony Smith after July arrest MMA Junkie Charges dismissed against former UFC fighter based in Omaha WOWT",
+   "summary": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement MMA Fighting Felony charges dropped against ex-UFC fighter Anthony Smith ESPN Charges dismissed against UFC veteran Anthony Smith after July arrest MMA Junkie Charges dismissed against former UFC ",
+   "body": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement MMA Fighting Felony charges dropped against ex-UFC fighter Anthony Smith ESPN Charges dismissed against UFC veteran Anthony Smith after July arrest MMA Junkie Charges dismissed against former UFC fighter based in Omaha WOWT Former UFC star Anthony Smith breaks silence after felony domestic violence charges dismissed — ‘My silence was never a surrender’ MMA Mania",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1594,6 +1805,19 @@
    "lang": "en"
   },
   {
+   "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028 - MacRumors",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sZmstY3EtajgyWEg0YlV1RXVHb0I4QXgtbm1XNmpoWEp6SE1aRkpPVXkxMGtXRUVXNW9Hbmh3c0NFTmUySUhOelpPTV9uV0g2MC1HMXFoMDVNREdaWG5Lb2p4YmVjMHNvWGl0dTdUc0RXUQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T23:30:03+00:00",
+   "summary": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028 MacRumors Apple could be preparing its biggest MacBook Air upgrade in years The Apple Post Early 2027 MacBook Air and MacBook Neo 2 May Skip Big Design Changes The Mac Observer Apple’s best MacBook for most people is headin",
+   "body": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028 MacRumors Apple could be preparing its biggest MacBook Air upgrade in years The Apple Post Early 2027 MacBook Air and MacBook Neo 2 May Skip Big Design Changes The Mac Observer Apple’s best MacBook for most people is heading for a major overhaul Stuff An OLED MacBook Air is coming in 2028. Will it glow? Macworld",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -1604,6 +1828,21 @@
    "is_war": false,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Wang Fuk Court: A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pQTh1RE05UnluX1BiWEkwZzRZRGtyRFMzN0VoQ3B2N3cxWk9zcmk5eW95WXp4Z2pjaEVyUDctVjhJSHdWUU14ZWpyUGg3U3RYNHUtVFhWVFpSd2c?oc=5",
+   "source": "Google News",
+   "published": "2026-11-25T23:26:50+00:00",
+   "summary": "Wang Fuk Court: A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168 BBC Hong Kong Fire Shows Accountability Under Beijing’s Shadow Bloomberg.com Hong Kong marks deadly fire anniversary with flowers, prayers and tears following government ",
+   "body": "Wang Fuk Court: A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168 BBC Hong Kong Fire Shows Accountability Under Beijing’s Shadow Bloomberg.com Hong Kong marks deadly fire anniversary with flowers, prayers and tears following government warning WRAL A year on, what to know about Hong Kong’s deadly fire that killed 168 AP News One year after Hong Kong fire, survivors mourn losses and question accountability Reuters",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "China"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1667,64 +1906,6 @@
    "lang": "en"
   },
   {
-   "title": "Record-breaking California tides cause major flooding of roads and businesses",
-   "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-   "source": "The Guardian",
-   "published": "2026-11-25T22:56:36+00:00",
-   "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica Super El Niño weather brought record-breaking high tides up and down the California coast on Wednesday, sending seawater rushing into beachside communities and floodin",
-   "body": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica Super El Niño weather brought record-breaking high tides up and down the California coast on Wednesday, sending seawater rushing into beachside communities and flooding roads and businesses. As big waves battered the coast, the tip of a landmark pier in Pacifica, south of San Francisco, was slammed into the sea, local news outlets reported . The pier, which had once housed a favorite local cafe , had previously suffered structural damage and had been closed to the public, the San Francisco Chronicle reported , and collapsed after contact with ocean swells 12 times stronger than on an average November day. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/431702ff7ef1dcec67ed80c675827aa7bb470406/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=15e5d608ff708eae27ef1697b9db226c",
-   "lang": "en"
-  },
-  {
-   "title": "Duran Duran guitarist Andy Taylor dies at 65",
-   "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-25T22:53:00+00:00",
-   "summary": "Andy Taylor first revealed he was battling cancer in 2022 when Duran Duran was inducted into the Rock & Roll Hall of Fame. The band had numerous hits in the 1980s, including \"Girls on Film\" and \"Hungry Like The Wolf.\"",
-   "body": "Andy Taylor first revealed he was battling cancer in 2022 when Duran Duran was inducted into the Rock & Roll Hall of Fame. The band had numerous hits in the 1980s, including \"Girls on Film\" and \"Hungry Like The Wolf.\"",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/80055623_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Deadly truck fire is latest of Egypt’s transport disasters",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-25T22:48:47+00:00",
-   "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
-   "body": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Egypt"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795646903.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
-   "link": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
-   "source": "The Guardian",
-   "published": "2026-11-25T22:44:39+00:00",
-   "summary": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from",
-   "body": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from the former Hollywood couple. “We have settled out of court in the best interests of our family and will not be commenting further,” representatives for Jolie and Pitt said in a statement. “Any comments in media stories attributed to ‘sources’ are in fact not coming from either of us, or anyone close to us.” Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://i.guim.co.uk/img/media/557ec712bb67d529e9eeb9449bd3462b337c8cd6/56_0_2887_2309/master/2887.jpg?width=140&quality=85&auto=format&fit=max&s=9d9a3616bea0c769a27ca40f2a6ad251",
-   "lang": "en"
-  },
-  {
    "title": "ICJ အမိန့်နောက်ဆက်တွဲနဲ့ နိုဝင်ဘာ ၂၆ RFA အထူးအစီအစဥ်",
    "link": "https://rfa.org/burmese/news/2026/11/25/myanmar-burmese-radio-show-november-26-2026/",
    "source": "RFA Burmese",
@@ -1736,165 +1917,6 @@
    "countries": [],
    "image": "https://www.rfa.org/resizer/v2/YTNHDGNBLNAXLFVJF57ZHOO7PA.jpg?auth=5ea318614cfa95a6ff80d2742f9252915fc32f61558b98a1aff8763d13c709a5&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "European spacecraft finds chaotic scene after asteroid deflection experiment - Ars Technica",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk94ZjJWUjdZaWlQVDQ1dVQxOW9STUthYmJjMVd6b1BNVU9LQWM1UDJHNE8tZkkydEFtS3hkc0RNeTdJNDl2STQ4LTZxcFROLW5LU0x4R0MzZC1RUVU0T1gtc0gtWGFCYUQ2dHRGWFdjTHUtbG1BNlZXTVJ5VmtpMUJGUEhONVZ1dVhsYmtsdWRaN0ZHaGdxT2VHRTVQS1ZZZVI5Zlg4bG5ZU2Nr?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T22:36:45+00:00",
-   "summary": "European spacecraft finds chaotic scene after asteroid deflection experiment Ars Technica Europe’s Hera Mission Releases Close-Up Images of the Asteroid Hit by a NASA Spacecraft The New York Times ESA mission reveals stadium-size crater left by first planetary defense test CNN NA",
-   "body": "European spacecraft finds chaotic scene after asteroid deflection experiment Ars Technica Europe’s Hera Mission Releases Close-Up Images of the Asteroid Hit by a NASA Spacecraft The New York Times ESA mission reveals stadium-size crater left by first planetary defense test CNN NASA hit an asteroid to test planetary defense. Here’s what happened. The Washington Post Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission Space",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-   "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-   "source": "NYT World",
-   "published": "2026-11-25T22:30:27+00:00",
-   "summary": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
-   "body": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’",
-   "link": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
-   "source": "NYT World",
-   "published": "2026-11-25T22:23:18+00:00",
-   "summary": "The British car show “Top Gear” paused production three years ago and is returning with a new host in 2028, the BBC said.",
-   "body": "The British car show “Top Gear” paused production three years ago and is returning with a new host in 2028, the BBC said.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T22:18:06+00:00",
-   "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "body": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Egypt"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-   "link": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-   "source": "NYT World",
-   "published": "2026-11-25T22:16:50+00:00",
-   "summary": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-   "body": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-lukoil-fjvh/25dc-lukoil-fjvh-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Man United denied at Sporting as referee overshadows Fernandes double",
-   "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-25T22:15:59+00:00",
-   "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
-   "body": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8MP88Y__v1__HighRes__FblEurC1SportingManUtd-1795644890.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease - Nature",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T22:11:14+00:00",
-   "summary": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease Nature WashU Maps Noncoding Variants in Heart Disease CASRAI Multi-Omic Map Sheds Light on Genetics of Heart Disease Inside Precision Medicine Coronary Artery Disease Genetics Map Links Risk Variants to Genes",
-   "body": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease Nature WashU Maps Noncoding Variants in Heart Disease CASRAI Multi-Omic Map Sheds Light on Genetics of Heart Disease Inside Precision Medicine Coronary Artery Disease Genetics Map Links Risk Variants to Genes and Cell Types Genetic Engineering and Biotechnology News Connecting Genetic Changes to Severity of Heart Disease Stanford Medicine",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "North Korea expels Swiss diplomat in sanctions row",
-   "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T21:51:17+00:00",
-   "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-   "body": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-   "category": "Asia-Pacific",
-   "is_war": false,
-   "countries": [
-    "China",
-    "North Korea"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features - 9to5Google",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2NVdnVUYjBKMzJhSzk2VXZFLW9tRVE5RU5GSHJ5a1o4d0ZJN0tOdTJ2c3NkMUVFc1Z5LWQzUWQ5bW9FeVp2eFJ2OXM0LV9WS2plMWtYYkVLTWdqWDVKN2IzZ05STXRTZ0ctU2ltSzlycS1oZWN0S0VGM3JaYXJwNlFkT2dPYTBzZmtGZGZmTGNIOW8?oc=5",
-   "source": "Google News",
-   "published": "2026-11-25T21:50:00+00:00",
-   "summary": "Big Google Home update adds these new Nest Cam, app, and Gemini features 9to5Google Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too The Verge Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs Android ",
-   "body": "Big Google Home update adds these new Nest Cam, app, and Gemini features 9to5Google Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too The Verge Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs Android Authority What’s New in Google Home: November 25, 2026 Release jetstream.blog Gemini for Home speed update: Google's 20% claim NeoTeo",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "US stocks fall further as fears over AI intensify",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T21:43:18+00:00",
-   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "body": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-   "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-   "source": "The Guardian",
-   "published": "2026-11-25T21:41:34+00:00",
-   "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been dia",
-   "body": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/bd793454c7d6ddaf1771ffa261550b2698533ee7/0_32_4345_3475/master/4345.jpg?width=140&quality=85&auto=format&fit=max&s=ade1d7adfff1badd92a797ab5495e5e0",
-   "lang": "en"
   },
   {
    "title": "အရာတော်မှာ လပြည့်နေ့ လေကြောင်းတိုက်ခိုက်လို့ ကလေးတစ်ဦးအပါအဝင် သုံးဦးသေ၊ ရှစ်ဦးဒဏ်ရာရ",
@@ -2160,21 +2182,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/TaungGyi-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "ရိုဟင်ဂျာ ရာဇဝတ်မှု ဘယ်သူအမိန့်ပေးခဲ့သလဲ",
-   "link": "https://burma.irrawaddy.com/video/2026/11/24/417843.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-24T11:46:32+00:00",
-   "summary": "အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) က ၂၀၂၆ ခုနှစ် နိုဝင်ဘာလ ၁၉ ရက်နေ့မှာ မြန်မာနိုင်ငံဟာ ရိုဟင်ဂျာတွေအပေါ် လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ခဲ့တယ်လို့ အပြီးသတ် ဆုံးဖြတ်ချက် ချမှတ်လိုက်ပါတယ်။",
-   "body": "အပြည်ပြည်ဆိုင်ရာတရားရုံး (ICJ) က ၂၀၂၆ ခုနှစ် နိုဝင်ဘာလ ၁၉ ရက်နေ့မှာ မြန်မာနိုင်ငံဟာ ရိုဟင်ဂျာတွေအပေါ် လူမျိုးတုံးသတ်ဖြတ်မှု ကျူးလွန်ခဲ့တယ်လို့ အပြီးသတ် ဆုံးဖြတ်ချက် ချမှတ်လိုက်ပါတယ်။\n\nဒီဆုံးဖြတ်ချက် ထွက်ပေါ်လာပြီးနောက် လူအများ အဓိက သိချင်လာကြတဲ့ မေးခွန်းကတော့ ၂၀၁၇ ခုနှစ်က ရခိုင်ပြည်နယ် မြောက်ပိုင်းမှာ ကျူးလွန်ခဲ့တဲ့ ဒီရာဇဝတ်မှုတွေကို ဘယ်သူတွေက အမိန့်ပေး ကွပ်ကဲခဲ့သလဲ ဆိုတာပါပဲ။\n\nICJ ရဲ့ တွေ့ရှိချက်အရ “နယ်မြေရှင်းလင်းရေး” လို့ ခေါင်းစဉ်တပ်ခဲ့တဲ့ အဲဒီစစ်ဆင်ရေးအတွင်း မြန်မာစစ်တပ်ဟာ ရိုဟင်ဂျာ ၁၀၀၀၀ ဝန်းကျင်ကို အကြမ်းဖက် သတ်ဖြတ်ခဲ့ကြောင်း ခိုင်လုံတဲ့ သက်သေ အထောက်အထားတွေ ရှိတယ်လို့ ဆိုပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #ရိုဟင်ဂျာ #လူမျိုးတုံးသတ်ဖြတ်မှု #ရခိုင်ပြည်နယ် #နယ်မြေရှင်းလင်းရေး #စစ်ဆင်ရေး #အမိန့် #ICJ #စီရင်ချက် #WhatsHappeningInMyanmar",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Ro1-900x506.jpg",
    "lang": "my"
   }
  ]
