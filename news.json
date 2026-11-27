@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T00:38:51.833732+00:00",
- "updated_yangon": "2026-11-27 07:08",
+ "updated": "2026-11-27T01:38:56.794829+00:00",
+ "updated_yangon": "2026-11-27 08:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,6 +9,7 @@
   "CNA World",
   "DW",
   "Google News",
+  "Google News · China Taiwan",
   "Google News · Middle East",
   "Google News · Ukraine",
   "Google News · War",
@@ -21,27 +22,27 @@
  "countries": [
   [
    "United States",
-   40
+   36
   ],
   [
    "Ukraine",
-   20
+   18
   ],
   [
    "Russia",
-   19
+   15
   ],
   [
    "Israel",
-   14
+   13
   ],
   [
    "Palestine",
-   12
+   11
   ],
   [
    "Iran",
-   11
+   10
   ],
   [
    "Myanmar",
@@ -53,11 +54,19 @@
   ],
   [
    "United Kingdom",
-   5
+   6
   ],
   [
    "Germany",
    5
+  ],
+  [
+   "China",
+   4
+  ],
+  [
+   "India",
+   4
   ],
   [
    "Australia",
@@ -65,14 +74,10 @@
   ],
   [
    "France",
-   4
-  ],
-  [
-   "Saudi Arabia",
    3
   ],
   [
-   "India",
+   "Saudi Arabia",
    3
   ],
   [
@@ -80,19 +85,27 @@
    2
   ],
   [
-   "China",
-   2
+   "Taiwan",
+   1
+  ],
+  [
+   "Japan",
+   1
+  ],
+  [
+   "NATO",
+   1
+  ],
+  [
+   "Yemen",
+   1
   ],
   [
    "North Korea",
    1
   ],
   [
-   "Syria",
-   1
-  ],
-  [
-   "Yemen",
+   "Pakistan",
    1
   ]
  ],
@@ -107,12 +120,27 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 24,
+ "war_count": 23,
  "languages": {
-  "my": 23,
-  "en": 117
+  "my": 24,
+  "en": 116
  },
  "items": [
+  {
+   "title": "CNA Now: Keppel CEO explains rationale for proposed M1-StarHub merger, plus other news as it happens",
+   "link": "https://www.channelnewsasia.com/singapore/cna-now-nov-27-live-blog-6584836",
+   "source": "CNA World",
+   "published": "2026-11-27T09:02:11+08:00",
+   "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "body": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://dam.mediacorp.sg/image/upload/s--AnhH4wCI--/c_crop,h_1107,w_1969,x_1,y_243/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/24/starhub-m1-combo_5x4a.jpg?itok=xaT5qlv1",
+   "lang": "en"
+  },
   {
    "title": "Sibling rivalry and family bonding: How one Singapore family is preparing for Hyrox Youngstars",
    "link": "https://www.channelnewsasia.com/wellness/hyrox-youngstars-singapore-family-kids-training-6583796",
@@ -140,10 +168,25 @@
    "lang": "en"
   },
   {
+   "title": "မြန်မာမှာ အမျိုးသမီး ၈ သန်းကျော် အရေးပေါ်အကူအညီ လိုအပ်နေ-ကုလသမဂ္ဂ",
+   "link": "https://www.bbc.co.uk/burmese/live/cv98x7epxnglt?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Burmese",
+   "published": "2026-11-27T01:39:07+00:00",
+   "summary": "မြန်မာမှာ အမျိုးသမီး ၈ သန်းကျော် အရေးပေါ်အကူအညီ လိုအပ်နေတယ်လို့ ကုလ ထုတ်ပြန်တဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာ က ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "body": "မြန်မာမှာ အမျိုးသမီး ၈ သန်းကျော် အရေးပေါ်အကူအညီ လိုအပ်နေတယ်လို့ ကုလ ထုတ်ပြန်တဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာ က ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
+   "category": "Myanmar",
+   "is_war": false,
+   "countries": [
+    "Myanmar"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aabd/live/ed93fde0-e9fe-11f1-99b6-a35a62fa4264.jpg",
+   "lang": "my"
+  },
+  {
    "title": "ICJ စီရင်ချက်အပေါ် လုပ်သင့်တာလုပ်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြော",
    "link": "https://www.bbc.co.uk/burmese/live/ckyvdjzv25lyt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-27T00:38:52+00:00",
+   "published": "2026-11-27T01:39:07+00:00",
    "summary": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ICJ စီရင်ချက်ပါ လိုက်နာသင့်တဲ့အချက်တွေကို လုပ်ဆောင်မယ်လို့ ဦးမင်းအောင်လှိုင် ပြောတဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာထူးခြားသတင်းတွေကိုတိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -155,19 +198,168 @@
    "lang": "my"
   },
   {
-   "title": "ဖိလစ်ပိုင်က မြန်မာ့အရေးဆွေးနွေးပွဲ SECF၊ NUG၊ EROs နဲ့ စင်ကာပူ တက်ရောက်",
-   "link": "https://www.bbc.co.uk/burmese/live/cqn4e1w82dggt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Burmese",
-   "published": "2026-11-27T00:38:52+00:00",
-   "summary": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "body": "ကမ္ဘာမှာ မြန်မာက မြေမြှုပ်မိုင်းနဲ့ စစ်ကျန်လက်နက်ကြောင့် ၃ နှစ်ဆက် ထိခိုက်သေဆုံးသူ အများဆုံးနိုင်ငံဖြစ်လာတဲ့သတင်းနဲ့အတူ နို၀င်ဘာ ၂၅ ရက် နောက်ဆုံးရ မြန်မာနဲ့ ကမ္ဘာ့သတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေတာဖြစ်ပါတယ်။",
-   "category": "Myanmar",
+   "title": "ကျားဖြန့်ရာဇဝတ်ဂိုဏ်းတွေ ရှမ်းပြည်နယ်တခွင် ပျံ့နေပြီ",
+   "link": "https://burma.irrawaddy.com/video/2026/11/27/417884.html",
+   "source": "Irrawaddy Burmese",
+   "published": "2026-11-27T01:38:38+00:00",
+   "summary": "နယ်စပ်ဒေသတွေကနေ ရှမ်းပြည်နယ်အတွင်းက မြို့နယ်ပေါင်း ၃၅ မြို့နယ်အထိ ပုံစံပြောင်း ပျံ့နှံ့လာတဲ့ ကျားဖြန့်ကပ်ဘေးဟာ အခုဆိုရင် ဒေသခံတွေရဲ့ လယ်ယာမြေတွေကို နှစ်ရှည်ငှားရမ်း အခြေချတာကအစ ကျားဖြန့်သင်တန်းတွေ ပေါ်ပေါက်လာတဲ့အထိ နက်နက်ရှိုင်းရှိုင်း အမြစ်တွယ်လာနေပါတယ်။",
+   "body": "နယ်စပ်ဒေသတွေကနေ ရှမ်းပြည်နယ်အတွင်းက မြို့နယ်ပေါင်း ၃၅ မြို့နယ်အထိ ပုံစံပြောင်း ပျံ့နှံ့လာတဲ့ ကျားဖြန့်ကပ်ဘေးဟာ အခုဆိုရင် ဒေသခံတွေရဲ့ လယ်ယာမြေတွေကို နှစ်ရှည်ငှားရမ်း အခြေချတာကအစ ကျားဖြန့်သင်တန်းတွေ ပေါ်ပေါက်လာတဲ့အထိ နက်နက်ရှိုင်းရှိုင်း အမြစ်တွယ်လာနေပါတယ်။\n\nစစ်ပဋိပက္ခ၊ စီးပွားရေးကျပ်တည်းမှုနဲ့ စစ်မှုထမ်းဥပဒေတွေကြား ပိတ်မိနေတဲ့ လူငယ်တွေရဲ့ အနာဂတ်ကိုပါ ဝါးမျိုနေတဲ့ ဒီရာဇဝတ်ကွန်ရက်ကြီးကို အခုအချိန်ကစပြီး အမြစ်ပြတ် မတားဆီးနိုင်ဘူးဆိုရင် မြန်မာ့မြေပေါ်မှာ နောင်တချိန် ပြန်ပြင်လို့မရနိုင်တော့တဲ့ ဆိုးကျိုးတွေနဲ့ ရင်ဆိုင်ရဖို့ ရှိနေတယ်လို့ ကျားဖြန့်ငွေလိမ်ဂိုဏ်းတွေရဲ့ လှုပ်ရှားမှုတွေကို သုတေသန ပြုနေတဲ့ ကိုမိုက်ကယ်က သတိပေးထားပါတယ်။\n\nတဖက်မှာလည်း ရှမ်းပြည်နယ်တခွင် ပျံ့နှံ့နေတဲ့ ဒီကျားဖြန့်ပြဿနာဟာ ရာဇဝတ်မှုကျူးလွန်သူတွေကို ဖမ်းဆီးရုံနဲ့ ပြီးဆုံးသွားမယ့် ကိစ္စမဟုတ်ဘဲ နောက်ကွယ်ကနေ အကာအကွယ်ပေးနေတဲ့ လက်နက်ကိုင်အဖွဲ့အစည်းတွေနဲ့ အာဏာပိုင်တွေရဲ့ အကျိုးတူ ပတ်သက်နေမှုတွေကိုပါ အမြစ်ဖြတ် ရှင်းလင်းနိုင်ဖို့ လိုအပ်တယ်လို့ ထောက်ပြထားပါတယ်။\n\n#မြန်မာ #ဧရာဝတီ #ကျားဖြန့် #အွန်လိုင်းငွေလိမ်ဂိုဏ်း #ရှမ်းပြည်နယ် #WhatsHappensInMyanmar",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/scam-2-900x506.jpg",
+   "lang": "my"
+  },
+  {
+   "title": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDNWX0YzaWFDVTdIQjhkczVKakhqY2lINlgtdzY4NE5XRmE1dFgxSVBWUFVRUVVfVGNmMjZDbkFHdGtObFFXMEM5TkhHaEJya0JqTE5QQnR6LWJuLW85YVAwZ0tWeTZ6c3JBMHVmaUZkMU9GOTFUaTdod1pWMzlnZFM0YW00ZmhLbkp5bmpqTmNGcUxtRkYxSnlMYkhZRm9JOGNmR25lZ3JZbUxkaTdocEQ4X1hadVdHX3UtVnd4emZXMTNzUjdHeFFENEpjY3VnV2lkbFA0M0dNVmRhbHc?oc=5",
+   "source": "Google News",
+   "published": "2026-11-27T01:28:00+00:00",
+   "summary": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly Yahoo Sports Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving Dallas Cowboys | Official Site of the Dallas Cowboys NFL Thanksgiving Day previe",
+   "body": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly Yahoo Sports Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving Dallas Cowboys | Official Site of the Dallas Cowboys NFL Thanksgiving Day preview: Eagles QB Joe Milton hopes to spoil Cowboys' hopes in his old home Yahoo Sports Penalties and forward progress ruling help Cowboys score before halftime NBC Sports Cowboys vs. Eagles prediction: Dallas looks for first win streak of 2026 vs. ex-QB on Thanksgiving CBS Sports",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-27T01:23:54+00:00",
+   "summary": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’ The Independent",
+   "body": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’ The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+   "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T01:07:44+00:00",
+   "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+   "body": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+   "category": "Global",
    "is_war": false,
    "countries": [
-    "Myanmar"
+    "France"
    ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf3/live/99b9b0b0-e8c9-11f1-ac76-db9e97f93d67.jpg",
-   "lang": "my"
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Threat from China looms large over Taiwan’s local elections",
+   "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+   "source": "The Guardian",
+   "published": "2026-11-27T01:00:49+00:00",
+   "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it nav",
+   "body": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years , are largely focused on bread-and-butter issues such as housing affordability and wealth distribution. Continue reading...",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China",
+    "Taiwan"
+   ],
+   "image": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685",
+   "lang": "en"
+  },
+  {
+   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-27T00:52:11+00:00",
+   "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "body": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-27T00:48:11+00:00",
+   "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+   "body": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+   "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-27T00:47:43+00:00",
+   "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+   "body": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+   "category": "South Asia",
+   "is_war": false,
+   "countries": [
+    "India"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "King tides bring record flooding to West Coast Thanksgiving week - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWtLd0JydGZtY2tMbTc1Q095NnU3VHhDZ2o5UlhGQnNOLUtXbUN3RkNmaDhsbmd6MXVqZHpwNlE3UlVUSU5DOWc1dkFlTnM0RjNjWXViZGNiMUhGTDF6ZlV3MXZzbTRZYmpPQ1FpTmo3d1VSYTkyUUZ5VEljNWFBMmFWOFNOTWpYQVctYTRaU3gzY0FMOFdyUlpR?oc=5",
+   "source": "Google News",
+   "published": "2026-11-27T00:46:28+00:00",
+   "summary": "King tides bring record flooding to West Coast Thanksgiving week The Weather Channel A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea The New York Times Coastal communities in Marin County face another day of king tide flooding NBC Bay Area Part of Pacific",
+   "body": "King tides bring record flooding to West Coast Thanksgiving week The Weather Channel A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea The New York Times Coastal communities in Marin County face another day of king tide flooding NBC Bay Area Part of Pacifica Pier Collapses as King Tides and Strong Waves Batter Bay Area KQED As king tides pummel California coast, leaders fear what's next ABC News - Breaking News, Latest News and Videos",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Inside Ukraine’s power crisis amid its war with Russia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T00:46:19+00:00",
+   "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+   "body": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "America’s Thanksgiving holiday seen through different eyes",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T00:41:28+00:00",
+   "summary": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+   "body": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740082.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
   },
   {
    "title": "တိုင်းပြည်ကို ကင်ဆာလို လှိုက်စားနေတဲ့ မင်းအောင်လှိုင်",
@@ -185,51 +377,6 @@
    "lang": "my"
   },
   {
-   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-27T00:29:48+00:00",
-   "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
-   "body": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDNWX0YzaWFDVTdIQjhkczVKakhqY2lINlgtdzY4NE5XRmE1dFgxSVBWUFVRUVVfVGNmMjZDbkFHdGtObFFXMEM5TkhHaEJya0JqTE5QQnR6LWJuLW85YVAwZ0tWeTZ6c3JBMHVmaUZkMU9GOTFUaTdod1pWMzlnZFM0YW00ZmhLbkp5bmpqTmNGcUxtRkYxSnlMYkhZRm9JOGNmR25lZ3JZbUxkaTdocEQ4X1hadVdHX3UtVnd4emZXMTNzUjdHeFFENEpjY3VnV2lkbFA0M0dNVmRhbHc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-27T00:21:00+00:00",
-   "summary": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly Yahoo Sports Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving Dallas Cowboys | Official Site of the Dallas Cowboys Cowboys’ offense rolling ov",
-   "body": "Eagles vs. Cowboys live updates, inactives, where to watch: Dak Prescott, Dallas look to end Thanksgiving jinx against Philly Yahoo Sports Cowboys-Eagles: How to Watch, Listen, Stream on Thanksgiving Dallas Cowboys | Official Site of the Dallas Cowboys Cowboys’ offense rolling over Eagles’ defense in Dallas NBC Sports Penalties and forward progress ruling help Cowboys score before halftime Yahoo Sports Cowboys vs. Eagles prediction: Dallas looks for first win streak of 2026 vs. ex-QB on Thanksgiving CBS Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Two Italians killed in Kuwait as a strained Iran ramps up attacks - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-27T00:17:14+00:00",
-   "summary": "Two Italians killed in Kuwait as a strained Iran ramps up attacks The Washington Post Iran war updates: Tehran denies carrying out drone attack that killed two Al Jazeera Iranian Drone Attack Kills Two Italians in Kuwait WSJ Iran accuses Zelenskyy of 'false flag' Kuwait drone str",
-   "body": "Two Italians killed in Kuwait as a strained Iran ramps up attacks The Washington Post Iran war updates: Tehran denies carrying out drone attack that killed two Al Jazeera Iranian Drone Attack Kills Two Italians in Kuwait WSJ Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention Fox News Two Italians killed in strike in Kuwait, as Iran denies responsibility BBC",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "United States",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Argentina bars Central Bank from printing money to fund government spending",
    "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
    "source": "Al Jazeera",
@@ -245,7 +392,7 @@
    "lang": "en"
   },
   {
-   "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of flight crews to be investigated",
+   "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
    "link": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
    "source": "The Guardian",
    "published": "2026-11-27T00:10:55+00:00",
@@ -318,33 +465,29 @@
    "lang": "en"
   },
   {
+   "title": "Cenk Uygur goes all in on Ro Khanna for 2028",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNW1fNHBwYTE5Smt6d1J1WEt1ZW93Tll4QnVhUWgzUjJYUGZPRWI2dDVZRC1Zd2huNTZYM05XYmJZVE0wSkdpa3dNUEV2UlhWbkhPR2FaOVF2cENFSHVWdUtlX29maEd3bS15VWIyRGVjN0ZJR0lCa3ZDWnVWTXZtcFlZam42MllfTnRKd1BCVWs0OHpaNUp5NXN3?oc=5",
+   "source": "Google News",
+   "published": "2026-11-27T00:00:00+00:00",
+   "summary": "Cenk Uygur goes all in on Ro Khanna for 2028 Politico",
+   "body": "Cenk Uygur goes all in on Ro Khanna for 2028 Politico",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Sam Wood to spend Christmas in jail after again being denied bail over alleged assault of wife Snezana",
    "link": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
    "source": "The Guardian",
    "published": "2026-11-26T23:54:28+00:00",
-   "summary": "Former Bachelor star and fitness influencer stands accused of choking and assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sam Wood will spend Christmas in jail after again being deni",
-   "body": "Former Bachelor star and fitness influencer stands accused of choking and assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sam Wood will spend Christmas in jail after again being denied bail on domestic violence charges over allegations he strangled and assaulted his wife while the family was holidaying on the Sunshine Coast in October. The court of appeal today heard a third application by Wood, 46, for bail over allegations he strangled and assaulted his wife while the family was holidaying at Noosa, on Queensland’s Sunshine Coast. Continue reading...",
+   "summary": "Former Bachelor star and fitness influencer stands accused of assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sam Wood will spend Christmas in jail after again being denied bail on d",
+   "body": "Former Bachelor star and fitness influencer stands accused of assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sam Wood will spend Christmas in jail after again being denied bail on domestic violence charges over allegations he strangled and assaulted his wife while the family was holidaying at Noosa on the Sunshine Coast in October. The court of appeal today heard a third application by Wood, 46, for bail. He has spent eight weeks in custody since being arrested. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
    "image": "https://i.guim.co.uk/img/media/cf18358e9f17f911810004a3e6a1b39e85f408e9/229_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=5216e554dcd4f2da4b4701653be49e1c",
-   "lang": "en"
-  },
-  {
-   "title": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T23:53:54+00:00",
-   "summary": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’ The Independent",
-   "body": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’ The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -377,6 +520,21 @@
     "Palestine"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08b161a8463-1795731809.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Kushner: Blame for Ukraine War Falls on 'Many' - Newser",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFloZ0VxR2h0Rl94Rnk0QktWejgyOGNNNFpkOXpJLXM4V0YzSlgtYUZlQzRmX3NWeU1LcE5xUzFaVnV2TDUtbVcySk9LeEVoWER2eGJST1ZOdHZkT1N5LUhaMV8wZWJJamlNRGwxTkFDZ205MFhpMVZYMmlQQUgxa1BMeEJ4dlJGTkJxWA?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T23:15:00+00:00",
+   "summary": "Kushner: Blame for Ukraine War Falls on 'Many' Newser",
+   "body": "Kushner: Blame for Ukraine War Falls on 'Many' Newser",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -426,13 +584,41 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
    "source": "Google News",
    "published": "2026-11-26T22:57:41+00:00",
-   "summary": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government Reuters Trump unloads on critics in wide-ranging Thanksgiving Day rant The Hill Trump uses Thanksgiving message to air grievances, rail at critics USA Today Trump Uses ‘Happy Thanksgivin",
-   "body": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government Reuters Trump unloads on critics in wide-ranging Thanksgiving Day rant The Hill Trump uses Thanksgiving message to air grievances, rail at critics USA Today Trump Uses ‘Happy Thanksgiving’ Post To Blast GDP Numbers And Critics Forbes Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\" CBS News",
+   "summary": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government Reuters Trump unloads on critics in wide-ranging Thanksgiving Day rant The Hill Trump Uses ‘Happy Thanksgiving’ Post To Blast GDP Numbers And Critics Forbes Trump uses Thanksgiving messa",
+   "body": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government Reuters Trump unloads on critics in wide-ranging Thanksgiving Day rant The Hill Trump Uses ‘Happy Thanksgiving’ Post To Blast GDP Numbers And Critics Forbes Trump uses Thanksgiving message to air grievances, rail at critics USA Today Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\" CBS News",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Thanksgiving 2026 live updates: Dangerous flooding in NJ, NYC, mid-Atlantic states with winds topping 65 mph in spots - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUJIb0U1NHRSTWpnTVgyNnBuVzRiUHhYa2dZeFlaTi1YYWFyUThBR013WUdQd0Z2RjB5MGYtYk5TcXhCWk5VSDByWTR1Nll0TkhDdDlmRGxNTTl1MnI5S0pBWUVtZmlORmR0UTNydkhnNFY3Q19yb000NVpOemFHbzJuUDVpSjZsTk1WbVdDZWZBYUFWRzdnRVlOUm1uNnZldDM4?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T22:54:00+00:00",
+   "summary": "Thanksgiving 2026 live updates: Dangerous flooding in NJ, NYC, mid-Atlantic states with winds topping 65 mph in spots New York Post See more headlines & perspectives on Google News",
+   "body": "Thanksgiving 2026 live updates: Dangerous flooding in NJ, NYC, mid-Atlantic states with winds topping 65 mph in spots New York Post See more headlines & perspectives on Google News",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUNkT3hhdWVzX3FENVo3NUdFTVo0Q2x1S2NGaERMZUpINllwZkpQX3VRUERSZXZ4b1h2NDZrRUhIMGNjQTdxUGZMaG1GY2hMdUE2TUptSENrSU1tRjR0ZVJsYmt0MjM0NU9Da2hYcU9SN3FmVXRrQWNlYi1lRzlhb19n?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T22:53:00+00:00",
+   "summary": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show CBS News Black and tan coonhound Rocker is top dog at the 2026 National Dog Show NPR National Dog Show 2026 Results, Best in Show and List of Winners Bleacher Report This Rare Dog Breed Just Won the National Dog Sho",
+   "body": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show CBS News Black and tan coonhound Rocker is top dog at the 2026 National Dog Show NPR National Dog Show 2026 Results, Best in Show and List of Winners Bleacher Report This Rare Dog Breed Just Won the National Dog Show Good Housekeeping Who Won the 2026 National Dog Show? Meet Rocker, the Black and Tan Coonhound TODAY.com",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -466,6 +652,23 @@
     "United States"
    ],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T22:41:45+00:00",
+   "summary": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough BBC Opinion | Excusing ‘My Friend’ Vladimir WSJ US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’ The Guardian Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’ The New Y",
+   "body": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough BBC Opinion | Excusing ‘My Friend’ Vladimir WSJ US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’ The Guardian Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’ The New York Times Trump defends calling Putin a friend but says he ‘can’t speak’ to whether he's a friend to the US AP News",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -533,8 +736,8 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlVjVTI2VzhhOFo3b0FPRnBMa2ZodnBqNFhKQ1psUzNaSFNUaGdCdGFpX2FEUTFsb3NIOW9WYmtRVGVmOHRlTVkybjlpQVBzX0xSd043WmFxQVA0SkhiSEFORlZIWjVKbXFNM240eGZfWmtXZVFXbEZaSGFSOXdPQzZwWDhPTVZ0X2duLVdydXNBSnE5VURDSVRyMWFkMnlZcVRv?oc=5",
    "source": "Google News",
    "published": "2026-11-26T21:47:29+00:00",
-   "summary": "Bears stun Lions on late Rome Odunze TD NBC Sports Lions to 'move forward' after latest Thanksgiving heartbreak ESPN Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory Fox News NFL Week 12 grades for Thanksgiving: Bears earn 'B' f",
-   "body": "Bears stun Lions on late Rome Odunze TD NBC Sports Lions to 'move forward' after latest Thanksgiving heartbreak ESPN Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory Fox News NFL Week 12 grades for Thanksgiving: Bears earn 'B' for stunning win over Lions, Packers leave L.A. with 'D' CBS Sports NOTEBOOK: Lions look to clean up 'self-inflicted wounds' after loss to Bears Detroit Lions",
+   "summary": "Bears stun Lions on late Rome Odunze TD NBC Sports Lions to 'move forward' after latest Thanksgiving heartbreak ESPN Caleb Williams' heroics have Bears thinking No. 1 seed in NFC playoffs Fox News Thanksgiving tripleheader: What We Learned from Bears-Lions, Eagles-Cowboys, Chiefs",
+   "body": "Bears stun Lions on late Rome Odunze TD NBC Sports Lions to 'move forward' after latest Thanksgiving heartbreak ESPN Caleb Williams' heroics have Bears thinking No. 1 seed in NFC playoffs Fox News Thanksgiving tripleheader: What We Learned from Bears-Lions, Eagles-Cowboys, Chiefs-Bills NFL.com Chicago Bears vs. Detroit Lions Live Score and Stats - November 26, 2026 Gametracker CBS Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -597,6 +800,39 @@
     "Australia"
    ],
    "image": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=140&quality=85&auto=format&fit=max&s=504521c93e59c68ac8a90ea7c953c202",
+   "lang": "en"
+  },
+  {
+   "title": "China's defense ministry urges Japan to stop 'stirring up' South China Sea disputes - Japan Today",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0hPZlNoMEdmSHYxNFc0a0tNbkx5OHg5Y18zU291WmVyWkdxOUphVTY0STIwRm16cmxUNW9uOTFzUGFSS1VMZnVNSXBkaTNDN1kwN2VUck80TnEtQjRBeEFhMnhoNGozVTVwRWpzYm1VTTVxNF94T2w5MDRDSU9GNUlTci1TX3FGdFQ2a215LXZhdURlR0ozUndpZkhrT08wd2JFZ0ZUSWZZYlVTWUVFaENOdTlqUWxlRWNUWFNfeWVLVTA?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-26T21:27:00+00:00",
+   "summary": "China's defense ministry urges Japan to stop 'stirring up' South China Sea disputes Japan Today",
+   "body": "China's defense ministry urges Japan to stop 'stirring up' South China Sea disputes Japan Today",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "China",
+    "Japan"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news - Henry Herald",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX3QyUVItQlR0NVFDVC14dEVaWmhNOU4zc0hVWmlTX0dKS0ZEU0k1eTFjZGNPTFBWWUprTEZJMTFaMnM5X2FVOWp3bjdFSm1sN3NTTUZZcGY2akE3Z0hiLUI5RjJmYzIzM3Zsd1BaWnRqLWpsNGc1MW5PZUNtR244dEwtcy1WQnFDYk56cloyaUNhUmJ4MnNqU1VWZFJWdVVUMFdNdDRmVDFWYkNiZV9tZWxZSFlYY2g2OGNLbjVtR1I4NmhLa1RIZmpJSHBEdnJqLXExNWhzbnh5R2FUNUVCd1NSVC1jdC1zNXpBLU1nQllzSVpxMG4tRW5MWWgzUGc2ZkdKZHRR?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-26T21:24:55+00:00",
+   "summary": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Henry Herald",
+   "body": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Henry Herald",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -751,16 +987,16 @@
   {
    "title": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war - POLITICO.eu",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
-   "source": "Google News",
+   "source": "Google News · Ukraine",
    "published": "2026-11-26T20:40:00+00:00",
-   "summary": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war POLITICO.eu Joint statement North Atlantic Treaty Organization | NATO Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify CNBC Trump urges Putin to stop 'military aggre",
-   "body": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war POLITICO.eu Joint statement North Atlantic Treaty Organization | NATO Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify CNBC Trump urges Putin to stop 'military aggression' as he meets with NATO USA Today Live: Ukraine has ‘no intention’ of extending war to Libya, FM says France 24",
+   "summary": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war POLITICO.eu",
+   "body": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war POLITICO.eu",
    "category": "Ukraine / Russia",
    "is_war": true,
    "countries": [
     "Ukraine",
-    "Russia",
-    "United States"
+    "United States",
+    "NATO"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -786,7 +1022,7 @@
    "source": "The Guardian",
    "published": "2026-11-26T20:33:26+00:00",
    "summary": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog ha",
-   "body": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts. Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture. Continue reading...",
+   "body": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts. Environmentalists and biosecurity experts warn the large colony of red imported fire ants is a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -809,21 +1045,6 @@
     "Palestine"
    ],
    "image": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=c5008fad4f7aa165fff5115f0adb772f",
-   "lang": "en"
-  },
-  {
-   "title": "Flight delays, flooding and outages grow as storm batters East Coast - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T20:32:55+00:00",
-   "summary": "Flight delays, flooding and outages grow as storm batters East Coast The Washington Post Major Thanksgiving storm hammers Northeast, Midwest The Weather Channel Powerful Thanksgiving Day storm brings flooding, power outages to Northeast, Midwest CBS News Thanksgiving storm knocki",
-   "body": "Flight delays, flooding and outages grow as storm batters East Coast The Washington Post Major Thanksgiving storm hammers Northeast, Midwest The Weather Channel Powerful Thanksgiving Day storm brings flooding, power outages to Northeast, Midwest CBS News Thanksgiving storm knocking out power, disrupting travel in eastern U.S. AccuWeather Thanksgiving storm knocks out power, disrupts flights on US East Coast Reuters",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -873,6 +1094,23 @@
    "lang": "en"
   },
   {
+   "title": "Iran denies deadly Kuwait attack; Houthis target Saudi refinery - The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDJCdHhLQ2pYRWlDVHAwLUJwOUhiT3BXS05TdnhTYXQwb2lxR3ZKb3JwZHp5eXk0Mmo1emgzbEs5U2ktb0g4MHU3dVRCal9Dc1gtM3lyODZsc282QU9TRkdQLWVqY0xURTJPTEtHRml1LU5CTllodTZUOWJTTkVMVzB5V2pIbTUyeUJ2RVdqNVRvZS00ZmfSAZsBQVVfeXFMUENVd09UckgyV25hXzc2X0Q1UTIwTlRHMUlZc2lwdFJWQVdldmttMmVLdkFNaEFUMHYzUUV4S0hHOVpvaVB0djlyNWJSUFpFb3FXUk5nYlJkR0tfblhxWnhBLTFaQlc3WVM5VjY1cTZhRC1SaTlsRjF0cW5ZMTBYVW5VUWNqaVhnOEZPeGl5bm9GbDhpMTlWalNtUW8?oc=5",
+   "source": "Google News · Middle East",
+   "published": "2026-11-26T20:29:26+00:00",
+   "summary": "Iran denies deadly Kuwait attack; Houthis target Saudi refinery The New Arab",
+   "body": "Iran denies deadly Kuwait attack; Houthis target Saudi refinery The New Arab",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Kushner Says Putin Shows No Interest in a Ceasefire, Calls Ukraine War a Proxy War - Around Prague",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclg0TDNzVWJzX0xFYUxxN3RJLVZqQ1RoUzJFSFlTLU1xaVRNb2tORUZaNWxSWUxNaWN0MWdnRVZ2d1QxLXpQY0hIYXNqWF84dS1neU5oTWQtR0ptUFZfa2QxemNxR2FNME9fV01XajhzZU1UV3RSZXIzSUwyVW45MmVPNGdqQ0NlTzNuSTBuVEsyZEJVYXB3bW02ZW9FdUwxLWdCZ05UZjZ5eWwwZ0dIa3lzQXBGUQ?oc=5",
    "source": "Google News · Ukraine",
@@ -904,21 +1142,6 @@
    "lang": "en"
   },
   {
-   "title": "How Gwen Stefani, Lizzo and more stars are celebrating Thanksgiving - Page Six",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDdQSEIzOGpqU1NBV25qamJZTjdaeExKaWhBYVpRRGsteXo4Ql9OM2R0ZEk0enEyX0dsMUcwUVNYSjVXdXhjZjNDXzBsckM0TG04WWdXTGN5alhNaWpZdmZOU01Kc3hMQ0pIWVliUmFhU01ERG9FeU9kcDhXMkxnR01pcTdieGxTR2hLQTNZbDNCZGdkb2pmdzBweEZfV0I4X3VwT2QxRlU?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T20:18:00+00:00",
-   "summary": "How Gwen Stefani, Lizzo and more stars are celebrating Thanksgiving Page Six Thanksgiving 2026: How Jennifer Lopez, Gwen Stefani and more stars are celebrating ABC News - Breaking News, Latest News and Videos How stars are celebrating Thanksgiving, from the Obamas to Martha Stewa",
-   "body": "How Gwen Stefani, Lizzo and more stars are celebrating Thanksgiving Page Six Thanksgiving 2026: How Jennifer Lopez, Gwen Stefani and more stars are celebrating ABC News - Breaking News, Latest News and Videos How stars are celebrating Thanksgiving, from the Obamas to Martha Stewart USA Today Stars Celebrate Thanksgiving 2026 E! News Stars Celebrate Thanksgiving 2026: How Blake Shelton, Gwen Stefani and More Marked the Holiday Us Weekly",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Documentary about Ukraine wins International Emmy; producer cites ‘unvarnished’ look at war - VOA - Voice of America English News",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNb2xxdnp2aTRwSWt3aWo0d3BHQVBKTnlzdWs4V09fV1JSRlRaUGZTTTVHaGdIV0NvVFdKTjZCUDhuTWh6QjdrVkhqSFFGR3fSAVJBVV95cUxQVXRQRkpYQ3Nrc055MUlqd01aOEpXM1FVSjZ2c2pacy1OaWdDXy0teUlPZ1E0cHgweGlZTjh6WC05dDhWZjZ0VUxqV1l6aERhajJB?oc=5",
    "source": "Google News · Ukraine",
@@ -945,23 +1168,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://static.dw.com/image/80068999_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Nvidia hits pause on chip shipments to Southeast Asia - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3BvSkxTQnd6ZVRTQUJ4RHBUY3l5M0J1aW1yTl9zUVFNaE1tUjlrVG1MeE9lVlNTMTVrOFFPUjA3R0RnWktyNERHcGhnWk9YYlQ3RXRRVXQtUXhCZDg3d3Foa2dxZndDSTU5UW51eU1ZSW91Nk45bFFZVjk2YzU0MGtwal9zbldIVU93NkpDLTFXdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T20:03:54+00:00",
-   "summary": "Nvidia hits pause on chip shipments to Southeast Asia TechCrunch Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say CNBC Nvidia Tells Partners to Pause Shipments to Southeast Asia WSJ Billions in Data Center Deals Grind to Halt After AI Chip Curbs B",
-   "body": "Nvidia hits pause on chip shipments to Southeast Asia TechCrunch Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say CNBC Nvidia Tells Partners to Pause Shipments to Southeast Asia WSJ Billions in Data Center Deals Grind to Halt After AI Chip Curbs Bloomberg.com US tries to restrict Chinese offshore computing capacity DW.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Russia",
-    "United States",
-    "China"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1122,6 +1328,22 @@
    "lang": "en"
   },
   {
+   "title": "Russia accuses Ukraine of trying to spread war to Mediterranean and Baltic seas after attack on Russian ships in Libya - Business Insider Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmJaTjVwZ1NqUTZPbWpsb2ZaMXFfTi0tUmFoRWVaaXdVY0V2VEgwUzhMdU8zck9fcHMzalp4c2FXdk0zaDRTMUJ0OGtkeHYwTVB6Vkd3QU81STFvYjd0MS1udHZtZmFQS05UM2FjQ0NvUm9reVdfNHlPMlpia1dCVXVBSm5SMDlBeHpjWW5rb3h0SU1fNkkzMDdMUmFqV1ltcVFybmlZSGpqOTg2OUlvbVBpUmVjR2JERHVrLVl5LWJtenlQdG5zeFNhMlVGeE5wcEZ0c3dKS01pQQ?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-26T19:08:03+00:00",
+   "summary": "Russia accuses Ukraine of trying to spread war to Mediterranean and Baltic seas after attack on Russian ships in Libya Business Insider Africa",
+   "body": "Russia accuses Ukraine of trying to spread war to Mediterranean and Baltic seas after attack on Russian ships in Libya Business Insider Africa",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
    "link": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1185,59 +1407,12 @@
    "lang": "en"
   },
   {
-   "title": "Black and tan coonhound Rocker is top dog at the 2026 National Dog Show",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY1BjYmF3cDFGd0xiaVdrelBwYUNnanFJTU5MSWNMNkhYMEFEMF9WUnZsZ1A2V0ZpVFBodG45X0sxZ3hLMUpjOUFDVEtoVk1BMHJPLWdrb3JlUno5RnFMbWhkYVAwLUlLNGRUaFhNUlI5UC0zY3YzNTE3NThBZlFRUWYyTnZTR2VtbTBSZQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T19:00:00+00:00",
-   "summary": "Black and tan coonhound Rocker is top dog at the 2026 National Dog Show NPR National Dog Show 2026 Results, Best in Show and List of Winners Bleacher Report How to watch the National Dog Show 2026 on Thanksgiving NBC10 Philadelphia Full list of breeds at the 2026 National Dog Sho",
-   "body": "Black and tan coonhound Rocker is top dog at the 2026 National Dog Show NPR National Dog Show 2026 Results, Best in Show and List of Winners Bleacher Report How to watch the National Dog Show 2026 on Thanksgiving NBC10 Philadelphia Full list of breeds at the 2026 National Dog Show: Toy, Working, Hound, Sporting, Terrier and more NBC Sports 'The National Dog Show' co-hosts preview 25th annual Thanksgiving telecast on NBC kare11.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news - The Killeen Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeVRRZUNkWVExS2x5eG9jVU0xdlM0aFlKVl9xWVJLWDZfU20wMzc3ZkVCVHE3ZVdfek5jQ3MyZkI2eXgwdURSVk1IckdkNWoxRHZnWGxqQjZaRWQ5aEdMM1dNLUU3RW5xREJQRHo2TmxMTURhNkd0aHprVDRMZzNnRElmWU9SZngwR0E1cjh0Snd3U0IyT3dKUHVJQVgzdkNSaVVTMDVSQkEtRExJYXpxcjU2Z3FwbmFYWVNMTG0wZVkyU0drdU9aeFpUc1dsSVV1UGRUbElvSmRWZzhZQUJtbUEtOUJ4d3dLbEwwaHZhSW1YNjA?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-26T18:59:31+00:00",
-   "summary": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news The Killeen Daily Herald",
-   "body": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news The Killeen Daily Herald",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news - Star Beacon",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWxZUUhkY2xpbFdyMmlxcmdkVEo3WWtqSGk1QVM5ZmJLTldqZUs3RG8zbnZIdVJtdjA4TW5ibU1aZmJ2ZE9IZWMtdExGTUxDTmtaZUxLZ29sc2diVlhfajJMMXJhTzZ2MV9lcEVpTG9mY3ltNFMzX2tHdHhGaHAyajhxVFZjVUpYMHV2Q0VSRHVrNmNTN0VJNS1OSUpQakF5RTFEeGhKdDZjVWhFamJlS0x2WmNGaTBUV3dPbnlUTExDQmoxT0t6SVFXT2hwZXZ1NHVXWUNkMjEyYkZjOFBweWU2YkRaZmxXSUhZd2VGWnp3aDhGZ2c?oc=5",
    "source": "Google News · Middle East",
    "published": "2026-11-26T18:59:31+00:00",
    "summary": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Star Beacon",
    "body": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Star Beacon",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news - Henry Herald",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX3QyUVItQlR0NVFDVC14dEVaWmhNOU4zc0hVWmlTX0dKS0ZEU0k1eTFjZGNPTFBWWUprTEZJMTFaMnM5X2FVOWp3bjdFSm1sN3NTTUZZcGY2akE3Z0hiLUI5RjJmYzIzM3Zsd1BaWnRqLWpsNGc1MW5PZUNtR244dEwtcy1WQnFDYk56cloyaUNhUmJ4MnNqU1VWZFJWdVVUMFdNdDRmVDFWYkNiZV9tZWxZSFlYY2g2OGNLbjVtR1I4NmhLa1RIZmpJSHBEdnJqLXExNWhzbnh5R2FUNUVCd1NSVC1jdC1zNXpBLU1nQllzSVpxMG4tRW5MWWgzUGc2ZkdKZHRR?oc=5",
-   "source": "Google News · Middle East",
-   "published": "2026-11-26T18:59:31+00:00",
-   "summary": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Henry Herald",
-   "body": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news Henry Herald",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -1261,35 +1436,6 @@
     "Israel",
     "Palestine",
     "Iran"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews - STLPR",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2tkNFdLc1JYQ1FJaVlVQTQ1TjlNTm9HYVotc0xMOU1YR3F2RkVFeFJFelhJcFFlWURlbUhBWDNxNVhSTFl0Z1ktYTZqS01FYW13SHZ5VWw1ekh6YldGNERFSW10eFZhQWdfS21KMFhFOUhUb0o3MVJsRWtnV2FRTWgwZ2VPZTBlTEFmT2tGZ2xPTDBXQmx4dWxaNm5kNHFxdUg2VTltYTJXWkVKZXV3M0lGdw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T18:55:11+00:00",
-   "summary": "Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews STLPR Record-breaking snowfall confirmed in St. Louis region, National Weather Service says KSDK Power outages: 100K in St. Louis region on Thanksgiving; Could last multiple days, Ameren ",
-   "body": "Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews STLPR Record-breaking snowfall confirmed in St. Louis region, National Weather Service says KSDK Power outages: 100K in St. Louis region on Thanksgiving; Could last multiple days, Ameren says FOX 2 Accumulating snow for the Thanksgiving holiday KRCG Major snowstorm buries St. Louis in time for Thanksgiving AccuWeather",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential - inkl",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUNmakt3a2FtTGFTY3FzTDJxckxDbEhNZG5KVmN6QWtWX0NqZC1XSDVEeGZaaGd3UmV6R3RrZ3NxSHg5dDZkZFQzV3VRclFPSVVXRHZITFZ3RWVOYWpMU2p5WmlmXzhDUzZ5T1hDXzJ0MzYzQWVUb1RnOFZxMGRUOFFCTVZVQWxvMkxaVUNqVm93b2N6NklyM3BMM0tmYTRVTHF2RWdhRm1fSF96UnBlemRwZGs1cm1PaXNJUUdWb0JwVmt3SzBsMWprSTJIQQ?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-26T18:53:47+00:00",
-   "summary": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential inkl",
-   "body": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential inkl",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1353,6 +1499,34 @@
    "countries": [
     "Israel",
     "Iran"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "ICC outlines Duterte’s trial schedule - Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDFraUNyRlhTcUIxaWQwWHRFcDhJWEI3WXZKakdqMnQ5SmVrOE5tMWNES3J5d0hpaUhNU2YweEt2Nks0dGxCaXotX1pUNDFRYVhwVWpnOXY5UjFjV0IyazM2MW5NSEZmYWp3Y1ZNTS1WS0Q2RHlDbzdNTzhETmx1eE9wTdIBiAFBVV95cUxPZFJ0NTVDaGNWdzdBLWxPRFNHMUFQYmtGWVVKSDNza0x3ZVhiQkRzbzN2eGJxcUktb1laZXR4LXM5MlBaMGJ4M09YRW9RVU1hZzVmcnpUakh4amZlV2E3Rkc1Z1dwUHh4S2pDZlNPWDFtcERtLTJJUnlYc3NpanFOTG9QNkk3ZF9j?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T18:38:00+00:00",
+   "summary": "ICC outlines Duterte’s trial schedule Inquirer.net Philippines: As ICC Tries Duterte, Stalled Justice at Home Human Rights Watch Families of slain Filipinos seek justice as Duterte's ICC trial set to start Yahoo Rodrigo Duterte camp tells ICC no crimes against humanity in PH Inqu",
+   "body": "ICC outlines Duterte’s trial schedule Inquirer.net Philippines: As ICC Tries Duterte, Stalled Justice at Home Human Rights Watch Families of slain Filipinos seek justice as Duterte's ICC trial set to start Yahoo Rodrigo Duterte camp tells ICC no crimes against humanity in PH Inquirer.net ‘Cognitive impairment’ hinders Rodrigo Duterte’s ability to join ICC proceedings, defense tells court ahead of trial ABS-CBN",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Budget airline collapse leaves crushed, cash-strapped travelers stranded on Thanksgiving - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUx5dHNTMy1UbzA0UDJ4QTd3Nm5oRTVmSHIwaWxYZjJ4QUlVdlVMYWthUDJ3bkZOaFJNdmpxY1dCc3h2d2Y1VUk5SGFGWFQ4QmNDVVNiVG16a040LVlCYUliQlNGdW8yWW5zbUFaTGswWUdVQ3lXcFZlLUcxTXdYZnpJekF2QjJ1TWt6Mkpwc0x0ZmFaak11OTJhNm5uNDI1c01GTnJpQkM?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T18:35:00+00:00",
+   "summary": "Budget airline collapse leaves crushed, cash-strapped travelers stranded on Thanksgiving New York Post Norse Atlantic suspends all flights as it faces potential collapse BBC Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse CNBC Paki",
+   "body": "Budget airline collapse leaves crushed, cash-strapped travelers stranded on Thanksgiving New York Post Norse Atlantic suspends all flights as it faces potential collapse BBC Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse CNBC Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension Reuters European airlines brace for more bankruptcies after Norse suspends flights Financial Times",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "Pakistan"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1477,19 +1651,6 @@
    "lang": "en"
   },
   {
-   "title": "Loeys-Dietz Syndrome: Glen Ellyn mom and her 3 adult kids undergo open-heart surgery after genetic testing shows LDS mutation - ABC7 Chicago",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS2U4UzBSRWM2cWNNMHd0Vk9OaU03aFNmQXYycDhCVEhDYVBvSjYwMUpBN3JqdHJSRC1OLXFlbzk3VFRHSzA2T2ZHZnVRVFVzaGhEVVF3NE5TcF9HaFhsLXlUMWhITjhwWmNOblZKSFI4RzFXSkpLdGk0RnN5djJpdWNLY2QtTlAzRVIzVTRiZWtyTkJ0bmo0cmM4VnJ2MUVJcFJHSUlnUjZ2cEctUENoNWJTUDZadndUR1N3T2RWWEJLMm9iWWxIRDk4amVDMW1xMV8xYUVhTUE1V0ptUGNERm9Ua9IB6AFBVV95cUxONGdJQ3NUMXIwZUk4Nmw0dFhMdEN5OTJUZDJ1ZDduRFRYaXJQbFBsZVA0RV8yZXVEckxELVFnMGdCV0RBTWFCRlA0ZFNkVnp6UGZMMWt0SmdVbHQ0U0NkY3JLc09KcHJyeWdrRzg2bEhoV2ZKal9fNVRuNGxBVmxycFAtS29SNldDeTE2UlkxYXFmMWhHT3ZvZXNBWG1QNE9pUWNEbFRXTFdPckp6YjZhQk5SUmxFRGVoRjNqczhPWDR1WXNMb0F1SWNKMHhQei05UThpcHNRT3oxd3BzZG1uOU8yS3cwN0NH?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T18:02:13+00:00",
-   "summary": "Loeys-Dietz Syndrome: Glen Ellyn mom and her 3 adult kids undergo open-heart surgery after genetic testing shows LDS mutation ABC7 Chicago Their mother awoke from a coma and told her children they needed surgery next CNN “It was a ticking time bomb”: four family members get open-",
-   "body": "Loeys-Dietz Syndrome: Glen Ellyn mom and her 3 adult kids undergo open-heart surgery after genetic testing shows LDS mutation ABC7 Chicago Their mother awoke from a coma and told her children they needed surgery next CNN “It was a ticking time bomb”: four family members get open-heart surgery in six months Northwestern Medicine Newsroom ‘Nothing short of a miracle’: Mother and 3 children survived open heart-surgeries within months of each other Chicago Tribune After surviving an aortic dissection, Annette Wagner urged her children to have surgery Mezha.net",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Ford reveals name for 2027 WEC LMDh challenger - Motorsport.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUp6a0VnRWNNVVR2bzdQR0pTUmswUmMyQTh3Z05TOTEycmtUQ05GRVcyNUhUWHA3Q2RzNFZFS3pkWUdoMGxsaWhmTzZuR21pZW5nU3BacktJTzVkVnMxREhpYm1VX21fSFVQSGpJc2VWZkowZDdGZktNVFl0a3Rqb0xudTNONi11d1luSUNnMWNzNzBuVlA4?oc=5",
    "source": "Google News",
@@ -1546,6 +1707,19 @@
     "European Union"
    ],
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261126__D8NR9MQ__v1__HighRes__BelgiumEuCouncilSummit-1795708617.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch - The Hollywood Reporter",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tId3Q2WDZjQ0F1YnBkOGZTYVU4UEhMWS1BTmNvV0JEM3hWSkhZMDlBd0VIb0dhNmhvZUJkeDlRS0xEYUNWbU5oeWNuYXYydE5Uc0lDby1jTE1SX19mejcwcE1mcUlLNUE0UzlRWDJoRngtM1pGcy1sYWRDRWtza3J3QkFkZzdUa3VmeF9lZXhaM0Fzb1RLQi1RQzlidU94YUViQ3U2dXhVZ0FkMWFpanR3TF9vRVhkUERseW1B?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T17:52:04+00:00",
+   "summary": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch The Hollywood Reporter The Hunger Games: Sunrise on the Reaping Mediaversity Reviews ‘Hunger Games: Sunrise on the Reaping’ opens to $120 million despite GTA VI—and ",
+   "body": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch The Hollywood Reporter The Hunger Games: Sunrise on the Reaping Mediaversity Reviews ‘Hunger Games: Sunrise on the Reaping’ opens to $120 million despite GTA VI—and its audience explains why Fortune Sunrise on the Reaping Box Office: $15 Million on Thanksgiving Eve Variety Weekend Box Office: The Hunger Games Dominates with $120 Million Debut Rotten Tomatoes",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1626,21 +1800,6 @@
    "lang": "en"
   },
   {
-   "title": "Syrian children continue learning amid the ruins of war in Idlib",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T17:32:21+00:00",
-   "summary": "Syria reopened a semi destroyed school in Idlib province",
-   "body": "Syria reopened a semi destroyed school in Idlib province",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Syria"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-99.00_00_05_04.Still002-1795714440.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
    "title": "Government, parliament and judiciary must have mutual respect and not overreach: Shanmugam",
    "link": "https://www.channelnewsasia.com/singapore/government-parliament-judiciary-respect-no-overreach-shanmugam-6584481",
    "source": "CNA World",
@@ -1670,19 +1829,6 @@
    "lang": "en"
   },
   {
-   "title": "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFBeGFHUnpHZ0NrbVJXSlRoVGJLVzQycVRsZVFlOWlpWVZ6SW16RDEzTlJjVzhpU2VxNEJmTXR0b1AtYlV4U3lXbnl4TzZJdi1TYUZIcDBLcW95UVh5eF93VGs1MkJ1SVVrWlU2YTZ4VG00YUhDRTgwVml1N056cTd3RlhYNkhRZ2FKNm9SVldhdGJFelY1QV80eGtkOUlqVXNkaEVtV3pndmhEZHFjbQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T17:24:20+00:00",
-   "summary": "De Cos Is Poised to Take ECB Presidency in Era After Lagarde Bloomberg Spain's De Cos to take over as ECB president from Lagarde Reuters European Central Bank Chooses Pablo Hernández de Cos as Next President The New York Times Leaders choose Spain’s former central bank head as ne",
-   "body": "De Cos Is Poised to Take ECB Presidency in Era After Lagarde Bloomberg Spain's De Cos to take over as ECB president from Lagarde Reuters European Central Bank Chooses Pablo Hernández de Cos as Next President The New York Times Leaders choose Spain’s former central bank head as next European Central Bank president AP News Spain’s Pablo Hernández de Cos set to lead European Central Bank CNBC",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "On farewell trip, Steinmeier calls for more investment in Africa",
    "link": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-top-1022-xml-mrss",
    "source": "DW",
@@ -1698,47 +1844,30 @@
    "lang": "en"
   },
   {
-   "title": "Yemen's Houthi-held capital hit after group targets Riyadh - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObThnQXVuVzdhOTdsYUd5MERYemFBbjMta1RQbTRwV3g3VnJINUhNUG9qaElwNEV6VzZGUVBGNElYTUwyaGJyNkF6MkwxY3BvaEd0STJPZnpvSEcyYTNsT0JLMjlKVHFyV0JRRzdPQ3hXdThYOVZoRDUyaE1GM3ZoMlczOHRVbnRGX05NTFVoR3RqbF94ZElxMEFSdnZDRTdtdU81aU1CR1NTU0dueHp3MXItWlVBd0pfZGV3NFBfMjR5Vl9n0gHEAUFVX3lxTE5tOGdBdW5XN2E5N2xhR3kwRFh6YUFuMy1rVFBtNHBXeDdWckg1SE1Qb2poSXA0RXpXNkZRUEY0SVhNTDJoYnI2QXoyTDFjcG9oR3RJMk9mem9IRzJhM2xPQksyOUpUcXJXQlFHN09DeFd1OFg5VmhENTJoTUYzdmgyVzM4dFVudEZfTk1MVWhHdGpsX3hkSXEwQVJ2dkNFN211TzVpTUJHU1NTR254encxci1aVUF3Sl9kZXc0UF8yNHlWX2c?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-26T17:19:17+00:00",
-   "summary": "Yemen's Houthi-held capital hit after group targets Riyadh The Hindu",
-   "body": "Yemen's Houthi-held capital hit after group targets Riyadh The Hindu",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
-   "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T17:18:24+00:00",
-   "summary": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.",
-   "body": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "France",
-    "European Union"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0859c77259-1795709383.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
    "title": "Steelers owner Art Rooney II backs coach Mike McCarthy and says ‘a change had to be made’ with Aaron Rodgers - Pittsburgh Post-Gazette",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOU1ValJVcHd1SDJuR2FEMnZxdS03M0RTeXcyTXc5UHJKUGNYMnk3UnVidWliMWt2NTNiZTZQZUNPd3RSSTNYYngwWVM1RUNrOEttb3I4Z2I2X0JOdE51WmVmbEJGWG1kN1lrRjVQb1VUZjNoeXh0cmJsRFNTS0M4U0xBZkZWSUdDNXZyUTY0SXZZM0VmeDJTVjB4STNkMFZXRC1MMWhkWlZfd2k5SktmZQ?oc=5",
    "source": "Google News",
    "published": "2026-11-26T17:17:00+00:00",
-   "summary": "Steelers owner Art Rooney II backs coach Mike McCarthy and says ‘a change had to be made’ with Aaron Rodgers Pittsburgh Post-Gazette Steelers owner Art Rooney II 'disappointed' in Rodgers outcome, backs McCarthy ESPN Terry Bradshaw, Russell Wilson and Michael Strahan call out Aar",
-   "body": "Steelers owner Art Rooney II backs coach Mike McCarthy and says ‘a change had to be made’ with Aaron Rodgers Pittsburgh Post-Gazette Steelers owner Art Rooney II 'disappointed' in Rodgers outcome, backs McCarthy ESPN Terry Bradshaw, Russell Wilson and Michael Strahan call out Aaron Rodgers for rant about Mike McCarthy Yahoo Sports Aaron Rodgers’ strange NFL trip may be over. The incendiary final act is a fitting last chapter CNN Aaron Rodgers Ripped by Ex-Packers Teammate in Video After Comments About Steelers HC Mike McCarthy Bleacher Report",
+   "summary": "Steelers owner Art Rooney II backs coach Mike McCarthy and says ‘a change had to be made’ with Aaron Rodgers Pittsburgh Post-Gazette The Aaron Rodgers-Steelers marriage was always bound to end this way ESPN Steelers owner backs coach after Rodgers accusations Yahoo Sports Aaron R",
+   "body": "Steelers owner Art Rooney II backs coach Mike McCarthy and says ‘a change had to be made’ with Aaron Rodgers Pittsburgh Post-Gazette The Aaron Rodgers-Steelers marriage was always bound to end this way ESPN Steelers owner backs coach after Rodgers accusations Yahoo Sports Aaron Rodgers’ strange NFL trip may be over. The incendiary final act is a fitting last chapter CNN James Jones: I’m on text threads with former Packers, none are on Aaron Rodgers’ side NBC Sports",
    "category": "Global",
    "is_war": false,
    "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Rubio angry after Nvidia CEO reinstated despite warning Trump officials about security risk: report",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQci1CbGFlbTF5eXA1LWtHMXQwRUNmdVNuWWI1ZVpucDE0YU13YlNnckEyV21ZU19CdG5JaC1vLTRfTjkwZEI2VU9FbUh4Y3hOREZ2Ym1mR0puc3FhUHo5S2dCUkxpWllWUVV2aGxlcGlFUlNRUmVnTGY0QmNIUDJzNDhOZkxlTGs2X3YydEdxdVo4X2ctQnVLaTlrcU0xeW1QQUdhSE54QW1Ta00?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T17:10:00+00:00",
+   "summary": "Rubio angry after Nvidia CEO reinstated despite warning Trump officials about security risk: report The Independent Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. ",
+   "body": "Rubio angry after Nvidia CEO reinstated despite warning Trump officials about security risk: report The Independent Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. The New York Times Cartoon: Donald Trump helps Jensen Huang retake the wheel at Nvidia The Economist Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang CBS News",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "United States"
+   ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -1758,18 +1887,18 @@
    "lang": "en"
   },
   {
-   "title": "Trump urges Putin to end Ukraine 'bloodbath' - ABC News & Headlines – Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk9zenE1Uzg0LW1VVV9DN2VaWnBqanZab2NRcUMtVW1mem96Z3RmUl8wOXdqd3QtckJiMV9SX1pVMXhkLWhmeUxScG5VUE4wellMUUtwVnh1ZWUxaEJGWHdDSmViS1ZhQ1pBUDJOYmxNV3pRcmZhZkpIa05nOUs1NmYtUGFiU3M3dXpZR2VIS2xiVzRFMjdxeGtEY3NjR1RQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T17:03:08+00:00",
-   "summary": "Trump urges Putin to end Ukraine 'bloodbath' ABC News & Headlines – Australian Broadcasting Corporation",
-   "body": "Trump urges Putin to end Ukraine 'bloodbath' ABC News & Headlines – Australian Broadcasting Corporation",
-   "category": "Ukraine / Russia",
+   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
+   "source": "Google News",
+   "published": "2026-11-26T17:03:31+00:00",
+   "summary": "Trump’s Latest Tariffs Revive Focus on Pressuring China The New York Times U.S. tariff-hike threats pile pressure on partners to sign trade deals CNBC Trump targets China, EU in new round of tariffs CNN Newly proposed tariffs raise chances of the Fed keeping interest rates higher",
+   "body": "Trump’s Latest Tariffs Revive Focus on Pressuring China The New York Times U.S. tariff-hike threats pile pressure on partners to sign trade deals CNBC Trump targets China, EU in new round of tariffs CNN Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance Trump's new tariffs aim to prise global trade from China's grip Reuters",
+   "category": "Asia-Pacific",
    "is_war": false,
    "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
+    "United States",
+    "China",
+    "European Union"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -1789,129 +1918,6 @@
     "European Union"
    ],
    "image": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=84f14e882009ea1089dadf849de52b55",
-   "lang": "en"
-  },
-  {
-   "title": "A month with the iPhone Duo has changed how I use my phone - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEVmUnN6Wk9MSVdJV0FtdDVQdGRfSFREd1lDckRNbHJiRDBMbzRMams0X0lrXzNWc05scXpXXzl0TVM3N3ZmYThWbzNWenRZb043T0tWMGdfaks5cXdnM2NRb1pfNUJBaVY1WktfbW1QLWI0MjVubkhaWHhXV2dRNEVhN20yTE42bUszaFlyZUM3Q012cGJUUw?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T17:00:00+00:00",
-   "summary": "A month with the iPhone Duo has changed how I use my phone TechCrunch Did Apple just save the iPhone Duo? Macworld iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable MacRumors iPhone Duo vs iPad mini: The BIG Comparison Mark Ellis Reviews Tech Advisor January 2027 digita",
-   "body": "A month with the iPhone Duo has changed how I use my phone TechCrunch Did Apple just save the iPhone Duo? Macworld iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable MacRumors iPhone Duo vs iPad mini: The BIG Comparison Mark Ellis Reviews Tech Advisor January 2027 digital magazine: iPhone Duo review, best Android tablets, plus much more Tech Advisor",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "France"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump says he urged Putin to 'pull back' military aggression in Europe",
-   "link": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-top-1022-xml-mrss",
-   "source": "DW",
-   "published": "2026-11-26T16:54:00+00:00",
-   "summary": "US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.",
-   "body": "US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://static.dw.com/image/79990968_6.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-   "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-26T16:49:59+00:00",
-   "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
-   "body": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9BM766__v1__HighRes__ColombiaConflictDrugs-1795137721.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "ICE detains man in Massachusetts after he picked up lottery winnings",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzRW9lNXZMd2wwTzBjblJDQmNNekFscTlEWFBtYnA0Z0pIdVFqakNVd25oM0dLUFdPQ3VCVl9yOF9uZVRET0NoTHFCYWhhYnF1Ykp4SWJpVU5NYXg0cVVCSjJ1Qy1nVGdVNUNzdVlycnhfWW1peTRsanVmQQ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T16:45:00+00:00",
-   "summary": "ICE detains man in Massachusetts after he picked up lottery winnings CBS News ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Boston man Ariel Velasquez-Morales arrested by ICE days after winning $1 million lottery jackpot ABC7 New York Ma",
-   "body": "ICE detains man in Massachusetts after he picked up lottery winnings CBS News ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Boston man Ariel Velasquez-Morales arrested by ICE days after winning $1 million lottery jackpot ABC7 New York Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe ICE nabs illegal immigrant $1M Mass Lottery winner in East Boston foot chase Boston Herald",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump, NATO chief urge Russia not to expand war in Ukraine - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEYzVzFDOTdtSmF3QkNsYzFUd0JEelNtOGlZcFgtaUFrWnBxSjQtTGtROGdqUW9iUUZJRGhTRUtXcXJPMkw3blJ2TTJFQmJaN3E5dmRaaXFkSFppbmo1ZS1KUXdXMWJpSUdmdmpWX2t1cmd2dVdWbnBoQjVmQTl3b0pmME1hS19QV2hCVjVpa3d1Zw?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T16:44:26+00:00",
-   "summary": "Trump, NATO chief urge Russia not to expand war in Ukraine Yahoo",
-   "body": "Trump, NATO chief urge Russia not to expand war in Ukraine Yahoo",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Texas band raises $350,000 to stay for delayed Macy's Thanksgiving parade: \"Outpouring of kindness\"",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2pRTlgzcUZkYU5FemF2MW5JZTU1a29yRVFlZE1FRXJpWUtpOUtnVHpKbmp5VTZXNzZEcW81SUVUQVpPVVdSR1haMl84N0tyRTRfbzdySlFnNXQ3ZzVrWEdSWlcxNElzY1dhUFh6ZlU0Z0hiRlN2dkdCNG9VejBTWngyVmZoYXdK?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T16:44:00+00:00",
-   "summary": "Texas band raises $350,000 to stay for delayed Macy's Thanksgiving parade: \"Outpouring of kindness\" CBS News New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain The New York Times Thanksgiving storm shifts Macy's parade plans for visitors ABC7 New York Storms a",
-   "body": "Texas band raises $350,000 to stay for delayed Macy's Thanksgiving parade: \"Outpouring of kindness\" CBS News New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain The New York Times Thanksgiving storm shifts Macy's parade plans for visitors ABC7 New York Storms across US disrupt travel and force Thanksgiving parade cancellations The Guardian For a Macy’s 100th Thanksgiving parade planner, ‘there’s only one shot’ The Washington Post",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war - Українська правда",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jcGpaWXRkZGdBdVVUaHYtN19Xbml0dnlvbjE0dFRBaDJrU1VrY0Vub2JrT1A2UnV5c2ZvQXhZWUc1YWlCTjVPOFRIcXl3cnpGZmZTQ1JYOW83cmZYdjB1N1NhUTPSAXBBVV95cUxPcVZHTE52T3RSUEg5dWZlbTN4d0c1Z1Q5SXFxdHp5enVzeHl3ZE1ibnZ3NWZJOGd6Qk0xbnZrblAzRnVERFBHRmh5czAzMkhZRHg5cm96Z09fYkRZeGFoNkpZeVVWcWJiZlQ2U05XTzVn?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-26T16:39:00+00:00",
-   "summary": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war Українська правда",
-   "body": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war Українська правда",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic Leg Hit Him During Finale - E! News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkcyWlh1WnNiM2ZZRi1PZkdmSm5DMC1ZMlFtam43YVVoS0tzQkJYRXJGNmw1SElETWlhM24tcGtEQ0poZjI2SXVIbFc4WDRJeUJVLXkxV1Y1c0RLSmZReXVMUXA4VVB3aWZWRGZEdEJPdnYyaUJ5ZHB0ZVFtTVk0RERoRDlyWUc2WG5yUXU4MEpKUVZHQkVUcHY2MGhaeVBhemZTUkFkZmc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-26T16:35:00+00:00",
-   "summary": "DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic Leg Hit Him During Finale E! News Ezra Frech Wins a Contentious Season of ‘Dancing With the Stars’ The New York Times The most shocking moment in the ‘Dancing With the Stars’ finale The Washington Post 'DWTS' ",
-   "body": "DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic Leg Hit Him During Finale E! News Ezra Frech Wins a Contentious Season of ‘Dancing With the Stars’ The New York Times The most shocking moment in the ‘Dancing With the Stars’ finale The Washington Post 'DWTS' star Brandon Armstrong reveals injury from Ezra Frech's prosthetic USA Today Dancing With the Stars’ Alan Bersten Speaks Out After Helping Ezra Frech When His Leg Fell Off E! News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
