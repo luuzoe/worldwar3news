@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T09:38:51.351853+00:00",
- "updated_yangon": "2026-11-28 16:08",
+ "updated": "2026-11-28T10:38:51.504079+00:00",
+ "updated_yangon": "2026-11-28 17:08",
  "count": 140,
  "sources": [
   "Al Jazeera",
@@ -9,6 +9,7 @@
   "CNA World",
   "DW",
   "Google News",
+  "Google News · China Taiwan",
   "Google News · Ukraine",
   "Google News · War",
   "Irrawaddy Burmese",
@@ -20,27 +21,35 @@
  "countries": [
   [
    "United States",
-   27
+   24
   ],
   [
    "Myanmar",
-   15
+   14
   ],
   [
    "Russia",
-   12
+   13
   ],
   [
    "Ukraine",
-   10
+   12
   ],
   [
    "Israel",
-   7
+   10
   ],
   [
    "Palestine",
+   10
+  ],
+  [
+   "China",
    6
+  ],
+  [
+   "Yemen",
+   5
   ],
   [
    "India",
@@ -48,14 +57,6 @@
   ],
   [
    "France",
-   5
-  ],
-  [
-   "China",
-   4
-  ],
-  [
-   "Iran",
    4
   ],
   [
@@ -67,16 +68,24 @@
    3
   ],
   [
-   "Yemen",
-   2
+   "Taiwan",
+   3
   ],
   [
    "Egypt",
    2
   ],
   [
-   "Taiwan",
+   "Iran",
    2
+  ],
+  [
+   "Iraq",
+   1
+  ],
+  [
+   "Syria",
+   1
   ],
   [
    "Lebanon",
@@ -106,17 +115,30 @@
   "USA / Americas",
   "Ukraine / Russia"
  ],
- "war_count": 28,
+ "war_count": 32,
  "languages": {
-  "my": 32,
-  "en": 108
+  "my": 31,
+  "en": 109
  },
  "items": [
+  {
+   "title": "5 community healthcare bodies launch SG Health Alliance to tackle chronic disease risks",
+   "link": "https://www.channelnewsasia.com/singapore/sg-health-alliance-healthcare-diabetes-stroke-heart-cancer-kidney-disease-chronic-6589296",
+   "source": "CNA World",
+   "published": "2026-11-28T17:44:51+08:00",
+   "summary": "The alliance - comprising Diabetes Singapore, National Kidney Foundation, Singapore Cancer Society, Singapore Heart Foundation and Stroke Support Station - aims to strengthen public education and encourage early detection, among other things.",
+   "body": "The alliance - comprising Diabetes Singapore, National Kidney Foundation, Singapore Cancer Society, Singapore Heart Foundation and Stroke Support Station - aims to strengthen public education and encourage early detection, among other things.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://dam.mediacorp.sg/image/upload/s--L7zLO6LN--/c_crop,h_1125,w_2000,x_0,y_132/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/28/whatsapp_image_2026-11-28_at_4.00.19_pm.jpeg?itok=KJJ7eY2G",
+   "lang": "en"
+  },
   {
    "title": "နေပြည်တော်သမ္မတ ဦးမင်းအောင်လှိုင် ဗီယက်နမ်ခရီးစဥ်စတင်",
    "link": "https://www.bbc.co.uk/burmese/live/cv98x7epxnglt?at_medium=RSS&at_campaign=rss",
    "source": "BBC Burmese",
-   "published": "2026-11-28T09:38:58+00:00",
+   "published": "2026-11-28T10:39:00+00:00",
    "summary": "ICJ စီရင်ချက်ချပြီးနောက် ဦးမင်းအောင်လှိုင်ရဲ့ ပထမဆုံးပြည်ပခရီးစဥ်အဖြစ် ဗီယက်နမ်ခရီးစဥ်စတင်တဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "body": "ICJ စီရင်ချက်ချပြီးနောက် ဦးမင်းအောင်လှိုင်ရဲ့ ပထမဆုံးပြည်ပခရီးစဥ်အဖြစ် ဗီယက်နမ်ခရီးစဥ်စတင်တဲ့သတင်းအပါအဝင် ကမ္ဘာနဲ့ မြန်မာက ထူးခြားသတင်းတွေကို တိုက်ရိုက်တင်ဆက်ပေးနေပါတယ်။",
    "category": "Global",
@@ -128,12 +150,41 @@
    "lang": "my"
   },
   {
+   "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+   "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T10:36:41+00:00",
+   "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+   "body": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T10:34:58+00:00",
+   "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+   "body": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+   "lang": "en"
+  },
+  {
    "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
    "source": "The Guardian",
-   "published": "2026-11-28T09:34:43+00:00",
-   "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Coalition projected to win Victorian election, ending 12 years of Labor government Victoria election live results: votes tracker, map ",
-   "body": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Coalition projected to win Victorian election, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
+   "published": "2026-11-28T10:34:08+00:00",
+   "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes trac",
+   "body": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -143,16 +194,223 @@
    "lang": "en"
   },
   {
-   "title": "Victorian election 2026: Coalition projected to win state poll, ending 12 years of Labor government",
+   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+   "link": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T10:32:42+00:00",
+   "summary": "Baghdad's push to seize control of smuggling routes, border crossings and oilfields has Washington's support.",
+   "body": "Baghdad's push to seize control of smuggling routes, border crossings and oilfields has Washington's support.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Iraq"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
    "link": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
    "source": "The Guardian",
-   "published": "2026-11-28T09:34:05+00:00",
-   "summary": "Liberal leader to become state’s first popularly elected female premier as Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian premier Ben Carroll has called Liber",
-   "body": "Liberal leader to become state’s first popularly elected female premier as Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian premier Ben Carroll has called Liberal leader Jess Wilson to concede defeat in the Victorian election, ending Labor’s 12-year run of government in the state. It came after the ABC’s election and data analyst, Casey Briggs, called the election for the Coalition at 7.40pm on Saturday evening. Continue reading...",
+   "published": "2026-11-28T10:29:43+00:00",
+   "summary": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian Labor has suffered an historic defe",
+   "body": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian Labor has suffered an historic defeat ending 12 years of government with the Coalition winning majority government and the Greens securing a record number of seats. At 36, Wilson will become Victoria’s youngest leader since federation and the first woman to be popularly elected as the state’s premier – a feat neither Jacinta Allan nor Joan Kirner achieved. Continue reading...",
    "category": "Global",
    "is_war": false,
    "countries": [],
-   "image": "https://i.guim.co.uk/img/media/ffde3156820fbe7fcc5d385bed07cc13e3fb9b2c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=07822f22fbb41b07e52ce9c273e7d1f1",
+   "image": "https://i.guim.co.uk/img/media/1b93983680d0a1dc4de11aa15c776cd06740ab16/247_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=d1026482a1e9daba2cdead90e35d366f",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine-Russia war latest: Kyiv uses laser to shoot down Russian drone after Zelensky hits out at Trump",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-28T10:23:54+00:00",
+   "summary": "Ukraine-Russia war latest: Kyiv uses laser to shoot down Russian drone after Zelensky hits out at Trump The Independent",
+   "body": "Ukraine-Russia war latest: Kyiv uses laser to shoot down Russian drone after Zelensky hits out at Trump The Independent",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Afghanistan: Several killed in blast near middle school",
+   "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-top-1022-xml-mrss",
+   "source": "DW",
+   "published": "2026-11-28T10:21:00+00:00",
+   "summary": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing.",
+   "body": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static.dw.com/image/80083824_6.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T10:14:37+00:00",
+   "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+   "body": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb14/live/1c031d10-eb16-11f1-90b9-a9d17de9c0bd.png",
+   "lang": "en"
+  },
+  {
+   "title": "Several students killed in blast beside Afghan school",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T10:05:26+00:00",
+   "summary": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+   "body": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Hurriyat_Radio_Pashto_-______________________________________________________________________UdX8dZ.mp4.00_00_01_02.Still001-1795860302.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+   "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+   "source": "NYT World",
+   "published": "2026-11-28T10:02:15+00:00",
+   "summary": "A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.",
+   "body": "A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.",
+   "category": "Ukraine / Russia",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+   "link": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+   "source": "NYT World",
+   "published": "2026-11-28T10:00:44+00:00",
+   "summary": "Canada relies on Inuit and First Nations Rangers’ traditional knowledge of the land to protect its most inhospitable corners. But that knowledge is disappearing.",
+   "body": "Canada relies on Inuit and First Nations Rangers’ traditional knowledge of the land to protect its most inhospitable corners. But that knowledge is disappearing.",
+   "category": "USA / Americas",
+   "is_war": false,
+   "countries": [],
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-Canada-rangers-01-kzlq-copy-promo/28int-Canada-rangers-01-kzlq-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+   "link": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+   "source": "The Guardian",
+   "published": "2026-11-28T10:00:36+00:00",
+   "summary": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using",
+   "body": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using facial recognition technology. Monia Indge, 58, was shopping with her husband in the Walters Yard branch of Sainsbury’s in Bromley on 7 November when she was suddenly told to leave by a member of staff who told her she was “banned for life” from the store. Continue reading...",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=140&quality=85&auto=format&fit=max&s=65dcfe1cfabe9857ba8e3ea415b6175e",
+   "lang": "en"
+  },
+  {
+   "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+   "link": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+   "source": "NYT World",
+   "published": "2026-11-28T10:00:23+00:00",
+   "summary": "Ahmed al-Shalh expected to perish in Sednaya prison. Abruptly released after a decade, he reveled in marriage and fatherhood but struggled to shake his ghosts.",
+   "body": "Ahmed al-Shalh expected to perish in Sednaya prison. Abruptly released after a decade, he reveled in marriage and fatherhood but struggled to shake his ghosts.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "Syria"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28syria-prisoner-01-bflz/28syria-prisoner-01-bflz-mediumSquareAt3X.jpg",
+   "lang": "en"
+  },
+  {
+   "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDlOd2FnNzhfOVg1QjFxM1dmUEJoSDI2YUdLVG5MUFl1VUYtWW9KdEJJTXJSekhnUjQwWlRRWHpQN1FtdTU0ekQ2M29tT25YeEhJSFdnS3BiRGM0YTNINGlKODYyc18wdWxKWFJCYW5LeS1vY3FlaW1OQjZxTGFlSzFvcnFDdFByLWc?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-28T10:00:00+00:00",
+   "summary": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays The Jerusalem Post",
+   "body": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays The Jerusalem Post",
+   "category": "USA / Americas",
+   "is_war": true,
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T09:59:11+00:00",
+   "summary": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers.",
+   "body": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers.",
+   "category": "Africa",
+   "is_war": false,
+   "countries": [],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795859745.jpg?resize=800%2C600&quality=80",
+   "lang": "en"
+  },
+  {
+   "title": "Gaza’s chess players survive a genocide and rebuild a community",
+   "link": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T09:41:45+00:00",
+   "summary": "Gaza's chess players are returning to the sport after three years of genocide.",
+   "body": "Gaza's chess players are returning to the sport after three years of genocide.",
+   "category": "Middle East",
+   "is_war": false,
+   "countries": [
+    "Palestine"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%B3%D8%AA%D9%84%D9%8A%D9%85%D8%AA-1795850701.jpg?resize=800%2C600",
+   "lang": "en"
+  },
+  {
+   "title": "Doctors Without Borders says two staff members killed in Israeli airstrike in Gaza - سانا",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUbFJCbjJwOGdTV2pDaU9QZ2QwOGhqY0pobUd3emZsamlIaUlJZkotaTNsQjFBQ20xVGtfaDVLNDZIenhWdjBxMWExRDA0TXczNHpJ?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-28T09:35:24+00:00",
+   "summary": "Doctors Without Borders says two staff members killed in Israeli airstrike in Gaza سانا",
+   "body": "Doctors Without Borders says two staff members killed in Israeli airstrike in Gaza سانا",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+   "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-28T09:35:15+00:00",
+   "summary": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+   "body": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Yemen"
+   ],
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T161010Z_1023982243_RC2OVOATOQZJ_RTRMADP_3_IRAN-CRISIS-YEMEN-AFTERMATH-1795854548.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -213,23 +471,6 @@
    "lang": "en"
   },
   {
-   "title": "Ukraine-Russia war latest: Zelensky frustrated by Trump’s stance towards Putin",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-28T08:53:54+00:00",
-   "summary": "Ukraine-Russia war latest: Zelensky frustrated by Trump’s stance towards Putin The Independent",
-   "body": "Ukraine-Russia war latest: Zelensky frustrated by Trump’s stance towards Putin The Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "အာဆီယံက ဖယ်ကြဉ်ထားသည့် စစ်ခေါင်းဆောင် မဲခေါင်ဒေသ ခေါင်းဆောင်များနှင့် တွေ့ဆုံ",
    "link": "https://myanmar-now.org/mm/news/82578/",
    "source": "Myanmar Now Burmese",
@@ -249,6 +490,40 @@
    "published": "2026-11-28T08:30:21+00:00",
    "summary": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Dayton Daily News",
    "body": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Dayton Daily News",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Yemen"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news - Henry Herald",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNa2V0S2Q1OE5Bd1J6WEtrVkJWZXNzSHZTLW93UEZGZi0yUS1Ta2xUWlljbmNnM3ljUzNPVmtISVdwRHhxdmYxUGVMTGZBVWRsZ3NUZ05iMXZwekRFOUZ4Rld0dmt1SjJOaVFPa3dKSm5pS3o3Nmp6a0VDTG1taGYxOEdpWEJEY2pac3VKZ25mSEFaWURPTGQ2RmMwbHBoamZ2MU5qNk1kNEVRQktLVzIyMURHWC1XQTlUOTRwMFlCSFRZUTBVckM3aGQtYldZSkNubUNwX1pVZFNJUi1MNVVUSXVTYzNmY1h1ejhEYWhUX3h1cHpYQ0J3bU1obFpzQjJ6NXFZYUJtYlpadnJKZWl6OHJUN2pmc3M?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-28T08:30:21+00:00",
+   "summary": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Henry Herald",
+   "body": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Henry Herald",
+   "category": "Middle East",
+   "is_war": true,
+   "countries": [
+    "Israel",
+    "Palestine",
+    "Yemen"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news - Daily Independent",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQblA0NmRwdTRIS0ZzdEE2SE1JZExPNTQ4VXJxWDkxa0xpY2p0a2EzaWRkVHVPTm96MmNDOXdhZ3FlNEFHLWhvRndZV1ZWSE53WG9iY21aMnYwV2dfSkE0aC12RUlsSmFNTkRoSDZURkswQkx3ZGdHeUpXMFRNd1ZOYjlwUVBWal9iYWUwVXFSX3Rwbi1GWmM4enhuM041YklPMkpRbS1mbEQyVE9ITG5mYnFFUmY0QnFRMklPZDB2Sm1WOWhqNE51Rm8yX0g2SmhiOUt1V1A3cWN5VDBjTzdSRXkzck1aSU9SZDYxd3NYR1hUaldXVGNPQ2NXVWxKd3JsS204cHBYTmREQnotX29lZ3B3?oc=5",
+   "source": "Google News · War",
+   "published": "2026-11-28T08:30:21+00:00",
+   "summary": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Daily Independent",
+   "body": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news Daily Independent",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -419,19 +694,6 @@
    "lang": "en"
   },
   {
-   "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYjVPS2ZpMFhtUThCTEpOYnFXeFRnVHNSWDFORkNQcHNiS3BIM0VZVVFDd1ROMDhqVTJqbUt6OHl4ZGpPX2gtcFhkVzdFd0dDcy1hTjJiM0JlNlhxUmFwUG5EUTRCelIxUC1oZnlxMjV6dlEtN01CUElhWUh0T1ZjeUpOQUt6a0VTU3lrZXQ3N3NJZms3aEFucXQyTDJZeWFmMHc?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T07:43:00+00:00",
-   "summary": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways The New York Times Catherine's emotional cancer documentary strips away the stiff upper lip BBC Princess Kate takes to the mountains to face mortality in film about cancer recovery The Boston Globe What we know about the Prin",
-   "body": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways The New York Times Catherine's emotional cancer documentary strips away the stiff upper lip BBC Princess Kate takes to the mountains to face mortality in film about cancer recovery The Boston Globe What we know about the Princess of Wales’ new documentary CNN Kate Middleton’s 9 Biggest Revelations in New Documentary ‘Heal’ People.com",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
    "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
    "source": "Al Jazeera",
@@ -493,11 +755,27 @@
    "source": "Google News",
    "published": "2026-11-28T07:00:00+00:00",
    "summary": "Where high tides set records on both coasts this week The Washington Post Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea The New York Times Marin officials absorb lessons from tidal defense before next torrent Marin Independent Journal As king",
-   "body": "Where high tides set records on both coasts this week The Washington Post Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea The New York Times Marin officials absorb lessons from tidal defense before next torrent Marin Independent Journal As king tides pummel California coast, leaders fear what's next ABC News - Breaking News, Latest News and Videos King tides batter US coasts as storms threaten Thanksgiving celebrations The Guardian",
+   "body": "Where high tides set records on both coasts this week The Washington Post Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea The New York Times Marin officials absorb lessons from tidal defense before next torrent Marin Independent Journal As king tides pummel California coast, leaders fear what's next ABC News - Breaking News, Latest News and Videos Pacifica Pier collapses amid heavy surf: video KRON4",
    "category": "Global",
    "is_war": false,
    "countries": [
     "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Ukraine planning to destroy Putin’s prized bridge entirely",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEp6UFZmdEtyZWQ2ZUVtZTlpazNQUWczOEs2c1RFeDltaWhJMWQ1N0s0OFVMOFIyaVV2WTczSF9QcnVIcUFtaHhoRVV4UzhyMmFzbC1nY3NrcURpRm5LV19FMGxyNWU2QklIQnZLRmVKMzBKMFdCV2hqQWN3a00wOUZXTWhYbnRkcDI5ZTZudkdaR3RwcG5WbGpEeWQwcFF5VjJxQi1lNDFyOXJxMUxv?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-28T07:00:00+00:00",
+   "summary": "Ukraine planning to destroy Putin’s prized bridge entirely The Telegraph",
+   "body": "Ukraine planning to destroy Putin’s prized bridge entirely The Telegraph",
+   "category": "Ukraine / Russia",
+   "is_war": false,
+   "countries": [
+    "Ukraine",
+    "Russia"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -572,10 +850,25 @@
    "lang": "en"
   },
   {
+   "title": "Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG5jZWlKQ2FhRnVqYjFlV1ZsZko1a1FtQmMwODl5aGtvdmFPOWs5eVRrMWdHb1F1cGF5T29aR204MEZWT0Jxc3pwTFQxYmktMUhpNllGcUhEaHBUVk92TEFKdmZUY3NtTE9FQk5RSEFMamFCZHkwWXdpcEVHamRTN2FUWk5lbllILWkzNTgxdzZFTXFzNmdXaVZ4MXVFZzhXNWdVR3ByZw?oc=5",
+   "source": "Google News",
+   "published": "2026-11-28T06:23:00+00:00",
+   "summary": "Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot ESPN Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game Fox News No. 3 Texas clinches spot in SEC title game vs. Georgia with ugly win over Texas A&M Yahoo Sport",
+   "body": "Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot ESPN Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game Fox News No. 3 Texas clinches spot in SEC title game vs. Georgia with ugly win over Texas A&M Yahoo Sports AGGIES LOSE: Texas A&M falls to No. 3 Texas after hard fought defensive battle KBTX News 3 Texas football vs Texas A&M game score: UT holds on for road win Austin American-Statesman",
+   "category": "Global",
+   "is_war": false,
+   "countries": [
+    "United States"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Israeli air strike on Doctors Without Borders Gaza office kills two - ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGs0cTg5TWJkUktrVlhIOGJNWTVuOGlsZEUtRktyTXEwb2VIY0VRMGV5NExrNlk2VzBtSHloY29Kdll1WlBIaFRLcDAzTmRaZ0tXbnBIcVpxN3p2czVHX24wSTBaR2dEX1J6MnhQaEtrQUozbmxRNno3b3BHdVlhQ1IxWmZ3dU53SXlVM3oyZXc?oc=5",
    "source": "Google News · War",
-   "published": "2026-11-28T06:22:37+00:00",
+   "published": "2026-11-28T06:20:19+00:00",
    "summary": "Israeli air strike on Doctors Without Borders Gaza office kills two ABC News & Headlines – Australian Broadcasting Corporation",
    "body": "Israeli air strike on Doctors Without Borders Gaza office kills two ABC News & Headlines – Australian Broadcasting Corporation",
    "category": "Middle East",
@@ -585,19 +878,6 @@
     "Palestine",
     "Australia"
    ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Horoscope for Saturday, 11/28/26 by Christopher Renstrom - SFGATE",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3VBNXZLME1MT19mTEh5RGhhT0lUSzZYQjV4X3pPaC1jalhJcGY1U1p0MEZWR1ZHSld1Y3FNc2EwdkRRMFNXWHVGZTBibF96cWVEZFY3MlJvS3lEVjdzM0JreVdBUk9YbGt2T3ZQSG1wWV9jaUlOUkNSckVfMDFlMFVjRGwzTkRiX0E3VVBBcEF0eDFOWExkWWFnamhDS3ZpR3h3OA?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T06:12:14+00:00",
-   "summary": "Horoscope for Saturday, 11/28/26 by Christopher Renstrom SFGATE Your Daily Horoscope by Madame Clairevoyant: November 27, 2026 The Cut Royal Stars Horoscope for Fri., Nov. 27, 2026 Dallas News Horoscope for Saturday, 11/28/26 by Georgia Nicols CT Insider Daily Horoscope for Novem",
-   "body": "Horoscope for Saturday, 11/28/26 by Christopher Renstrom SFGATE Your Daily Horoscope by Madame Clairevoyant: November 27, 2026 The Cut Royal Stars Horoscope for Fri., Nov. 27, 2026 Dallas News Horoscope for Saturday, 11/28/26 by Georgia Nicols CT Insider Daily Horoscope for November 27, 2026 Chicago Tribune",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -643,6 +923,34 @@
     "Ukraine",
     "Russia"
    ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "The Star Wars-style weapon designed to keep Ukrainians safe from drones - The i Paper",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3NPSzlyak5GbU9URjA4OUNvZURUQ3NmSUtPUkFCMDFJR0hnTk5lSFY4VVpYOEhDZ2pZbjRZTW1paHd4M0xkX2U5aF96R0dwWEIyWVNTd1ZSTWtCNWxRNmRfWFRWejduUXBJUjBBQkt4ck8wR285emJHVldOTEVtS2UyeXFFQWhyN0ZkTE9B?oc=5",
+   "source": "Google News · Ukraine",
+   "published": "2026-11-28T06:02:13+00:00",
+   "summary": "The Star Wars-style weapon designed to keep Ukrainians safe from drones The i Paper",
+   "body": "The Star Wars-style weapon designed to keep Ukrainians safe from drones The i Paper",
+   "category": "Global",
+   "is_war": true,
+   "countries": [
+    "Ukraine"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Horoscope for Saturday, November 28, 2026 - Chicago Sun-Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaElVckIxSkZrNElfX0dXVm9FY3lUTk5qMUVWN3NmVTRWalhiY0xGRHZDUW9STFo2c0pzZnIxMXdILUpTTjdsdnJzN29OVTFoc3dOTTc0T2x2d195amhQS2hNWk0tc1FHaEdkTFNLaFROd1BvbS1kODEtXzNVT19oXy1BM2NiYm9CRWFTY0pJeGRyRi1HVnZYdQ?oc=5",
+   "source": "Google News",
+   "published": "2026-11-28T06:01:00+00:00",
+   "summary": "Horoscope for Saturday, November 28, 2026 Chicago Sun-Times Horoscopes Today, November 28, 2026 USA Today Your Daily Horoscope for November 28, 2026 Boulder Daily Camera Your Daily Singles Horoscope for November 28, 2026 Yahoo Royal Stars Horoscope for Sat., Nov. 28, 2026 Dallas ",
+   "body": "Horoscope for Saturday, November 28, 2026 Chicago Sun-Times Horoscopes Today, November 28, 2026 USA Today Your Daily Horoscope for November 28, 2026 Boulder Daily Camera Your Daily Singles Horoscope for November 28, 2026 Yahoo Royal Stars Horoscope for Sat., Nov. 28, 2026 Dallas News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -705,6 +1013,19 @@
    "lang": "en"
   },
   {
+   "title": "James Harrison Wonders If Aaron Rodgers Was the 'Problem' After McCarthy, Steelers Upset Broncos - Bleacher Report",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYi1aUE45U0UwUmdJcVVOQk4zZTVRS2NfMjROcmdrdnV6S2pvZXNnYThGanhUZ3JuY3U3SzNZa0FZUGNuejRLdDFYNG4wc1k5YnYzdDVFeU9fY2phR2dpd0hxWkduT3E5alVXcXZ1SEN3S1VkbWNsLUJyU0RVdUFxTk93MkVnTk03dC1qejR4UVlqUm9OWGZ4RnRrYWR4VTRKMU4tdUc4ZXBvRlZYX01tY2tRbWJOWTRyNEhOYTF1MU1TR1pPVjdWZEFVeXRPRjA?oc=5",
+   "source": "Google News",
+   "published": "2026-11-28T05:54:09+00:00",
+   "summary": "James Harrison Wonders If Aaron Rodgers Was the 'Problem' After McCarthy, Steelers Upset Broncos Bleacher Report Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos ESPN Labriola on the win over the Broncos Steelers.com ‘Bo Nix Has Been Awful,’ ‘One",
+   "body": "James Harrison Wonders If Aaron Rodgers Was the 'Problem' After McCarthy, Steelers Upset Broncos Bleacher Report Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos ESPN Labriola on the win over the Broncos Steelers.com ‘Bo Nix Has Been Awful,’ ‘One of the Worst QBs Currently on a Winning Team’ — Shannon Sharpe Pulls No Punches After Broncos’ Loss to Steelers Yahoo Sports How to watch today's Pittsburgh Steelers vs. Denver Broncos game in Week 12 of the NFL schedule CBS News",
+   "category": "Global",
+   "is_war": false,
+   "countries": [],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
    "title": "Airstrikes Reported in Four Yemeni Provinces; Security Official Succumbs to Blast Injuries - Hindusthan Samachar English",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXRHdzZ6NVpZSkxvZ2g2UEZjaGlEb1pDcEhYUEVmU25scFZBcThGNi1pZE5RaVhvOFpKNVk3STJjMWc3TFIwaHNjckxoSGxYaHpGTFVyOGdvODVYSG5vVXRPQ3JXbW9nZmQyV3RFU0FjMHVwN1BvMXAyeWlCQVhCUzdvVGwyTHVMYi0yWWdiWXBKbHM?oc=5",
    "source": "Google News · War",
@@ -715,6 +1036,22 @@
    "is_war": true,
    "countries": [
     "Yemen"
+   ],
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+   "lang": "en"
+  },
+  {
+   "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmYxX1NoYkZUb0wzQjNfMXdKUWo4Sy1wZ2w5TjVIOXl0YUJ0OEx2dnFvb3JRclVmaFE4Tk9iRW9UY2tWLTdsemNPUkZTdjV5bWRCcGJldmV2VlVGdWJSNHQwUVp2MUo3QWxuR0RuU3Nob1NaV0Q5VGp2SURJWTExRlhCZHk?oc=5",
+   "source": "Google News",
+   "published": "2026-11-28T05:19:36+00:00",
+   "summary": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington The New York Times Trump Thinks He and Jensen Huang Are Indispensable. They Might Both Be in for a Rude Awakening. Politico The President Is Acting Like He Works for China The Atlantic Trump, dismissing Chinese esp",
+   "body": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington The New York Times Trump Thinks He and Jensen Huang Are Indispensable. They Might Both Be in for a Rude Awakening. Politico The President Is Acting Like He Works for China The Atlantic Trump, dismissing Chinese espionage, adds to national security concerns Los Angeles Times What Trump did is an insult to state capitalism ThinkChina",
+   "category": "Asia-Pacific",
+   "is_war": false,
+   "countries": [
+    "United States",
+    "China"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
@@ -755,7 +1092,7 @@
    "source": "Google News",
    "published": "2026-11-28T05:01:00+00:00",
    "summary": "Hundreds of thousands still without power after severe Thanksgiving weather NBC News Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast The New York Times Millions clean up after massive Thanksgiving storms on East Coast Yahoo Powerful Thanksgiving storm ",
-   "body": "Hundreds of thousands still without power after severe Thanksgiving weather NBC News Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast The New York Times Millions clean up after massive Thanksgiving storms on East Coast Yahoo Powerful Thanksgiving storm brings flooding, power outages to Northeast, Midwest CBS News Thanksgiving travel forecast 2026: storms on both coasts The Weather Channel",
+   "body": "Hundreds of thousands still without power after severe Thanksgiving weather NBC News Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast The New York Times Millions clean up after massive Thanksgiving storms on East Coast Yahoo Powerful Thanksgiving storm brings flooding, power outages to Northeast, Midwest CBS News Historic Thanksgiving storms leave lingering threats for millions into the weekend FOX Weather",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -869,8 +1206,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUJseGdhY09CbHQ3bW5LZG5OYlo1bDktdUk3X1gxVms3b0J3bGVJSy1lQnJLd3RwV1d4NXNyOW5uOURfYV9WcHhEYVFiQTJFM2EyTUhzUlNXRm9pelhrV211eDZqLUlfaTRGaE1ycndONTZiT2VyRGlILUJNQXo2Uzk4M0NGM2JSMDN3?oc=5",
    "source": "Google News",
    "published": "2026-11-28T04:36:00+00:00",
-   "summary": "Looking for affordable finds this Black Friday? These deals are all under $50 NBC News Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecutter The New York Times 175+ best Black Friday deals of 2026: Apple, Kindle, Lego on sale Mashable I tracked down the bigges",
-   "body": "Looking for affordable finds this Black Friday? These deals are all under $50 NBC News Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecutter The New York Times 175+ best Black Friday deals of 2026: Apple, Kindle, Lego on sale Mashable I tracked down the biggest price drops you can find this Black Friday CNN The best Black Friday fashion deals, from Hoka sneakers to Kate Spade bags and Hanes basics Yahoo",
+   "summary": "Looking for affordable finds this Black Friday? These deals are all under $50 NBC News Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecutter The New York Times 175+ best Black Friday deals of 2026: Apple, Kindle, Lego on sale Mashable Half-Off Rachel Comey and",
+   "body": "Looking for affordable finds this Black Friday? These deals are all under $50 NBC News Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecutter The New York Times 175+ best Black Friday deals of 2026: Apple, Kindle, Lego on sale Mashable Half-Off Rachel Comey and On-Sale Alex Mill: 135 Black Friday Fashion Deals New York Magazine I tracked down the biggest price drops you can find this Black Friday CNN",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -908,17 +1245,15 @@
    "lang": "en"
   },
   {
-   "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5",
+   "title": "WWE Star Bronson Reed Dies at 38 - Variety",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "source": "Google News",
-   "published": "2026-11-28T04:26:11+00:00",
-   "summary": "Trump officials to speed president’s projects with special meeting before new Congress The Washington Post Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction The New York Times Trump officials to speed president's projects with special meeting before",
-   "body": "Trump officials to speed president’s projects with special meeting before new Congress The Washington Post Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction The New York Times Trump officials to speed president's projects with special meeting before new Congress MSN Trump allies could speed approval for DC projects before Dems take Congress The Independent How Trump Could’ve Saved His Legacy The Dispatch",
-   "category": "USA / Americas",
+   "published": "2026-11-28T04:27:00+00:00",
+   "summary": "WWE Star Bronson Reed Dies at 38 Variety Jermaine Haley, also known as Bronson Reed, passes away WWE WWE star Bronson Reed dies at 38 due to ‘medical complications’ CNN Watch Kevin Owens honor Bronson Reed with in-ring tribute, speech at WWE Athens Yahoo Sports WWE's Bronson Reed",
+   "body": "WWE Star Bronson Reed Dies at 38 Variety Jermaine Haley, also known as Bronson Reed, passes away WWE WWE star Bronson Reed dies at 38 due to ‘medical complications’ CNN Watch Kevin Owens honor Bronson Reed with in-ring tribute, speech at WWE Athens Yahoo Sports WWE's Bronson Reed Dies at Age 38 'Due to Medical Complications' Following Crown Jewel Bleacher Report",
+   "category": "Global",
    "is_war": false,
-   "countries": [
-    "United States"
-   ],
+   "countries": [],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
@@ -964,36 +1299,6 @@
    "lang": "en"
   },
   {
-   "title": "No. 3 Texas at Texas A&M final score: Longhorns defense holds late in 16-6 win - Burnt Orange Nation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlRwRjE1U3pUdXY3d0N3cHRlYlVLVmV1ZE9kYVE3QXNRQzdoRmZtcTA0aUJfamRRS292VFZ3MXZZbmFBclZKenhqMFNzZGU5amdXd2ZPeDdvenh1c21yQmpxUG5MdTZKM0YwOEZvVXJkdVZJUlNFMTVvVnJGbGY1emh6ZlZCbzVnWjNWcUZhN0xuWWdmT2ZNS0k4Rkw1TnlnMmFwWFFmWGhjdTVlWGQ5b2RtODJFSlZYV1FlWk1ZLTItYVIwVGtJ?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T04:01:00+00:00",
-   "summary": "No. 3 Texas at Texas A&M final score: Longhorns defense holds late in 16-6 win Burnt Orange Nation Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot ESPN Texas football vs Texas A&M game score: UT holds on for road win Austin American-Statesman AGGIES LOS",
-   "body": "No. 3 Texas at Texas A&M final score: Longhorns defense holds late in 16-6 win Burnt Orange Nation Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot ESPN Texas football vs Texas A&M game score: UT holds on for road win Austin American-Statesman AGGIES LOSE: Texas A&M falls to No. 3 Texas after hard fought defensive battle KBTX News 3 Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game Fox News",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcGw0VXF4YWdET1hzbzZNMHRtRkM1VkxOMXNpQ003MnNnTlczRWJoMmRyWVc0Rll2LXFlOWVZX21lZEZkQnd2WFBuYTZyb3JTZG9rWVN0OGpzN0NZY2RQU3JIVlZFbjBYX0tGQWZSNTlJX0hWMWlhWmF2c09xM1ZqNXBUYkQ4QTNwRkNMRDd1WFpHVHZyZDl5WEtfa3g5d2xBaFE?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T03:55:00+00:00",
-   "summary": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike The Guardian MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2 Columbus Crew Lionel Messi, Inter Miami crash out of MLS playoffs in first round with 1-0 loss to Columbus Crew Yahoo Spor",
-   "body": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike The Guardian MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2 Columbus Crew Lionel Messi, Inter Miami crash out of MLS playoffs in first round with 1-0 loss to Columbus Crew Yahoo Sports Columbus Crew vs Inter Miami: Major League Soccer stats & head-to-head BBC Columbus Crew dream big after stunning Messi & Inter Miami MLSsoccer.com",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
    "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1014,21 +1319,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFpZdk93Vmh3R1JleFQ0eGdvaS1rZTMxNVNfRy1RbG93RGZhY2ozVktGc2ZuakNzZXZ0cDN5Y2ttdXVENlVJVmtoX0hNZGhQb3M5S1RNYkMwd0JrZXdLNXJiLUExNjFHS0lZLXRlYUYxX3VLYlhOZW9nazRhTHFEc000TnFLU0FQR2FJ?oc=5",
    "source": "Google News",
    "published": "2026-11-28T03:30:00+00:00",
-   "summary": "The M5 MacBook Air just got its biggest discount since Apple raised the price The Verge The Cheapest Black Friday MacBook Deals Are Back in Stock From $599 Business Insider The only MacBook I’d gladly pay full price for is $300 off for Black Friday Macworld Apple's M6 and PROLED ",
-   "body": "The M5 MacBook Air just got its biggest discount since Apple raised the price The Verge The Cheapest Black Friday MacBook Deals Are Back in Stock From $599 Business Insider The only MacBook I’d gladly pay full price for is $300 off for Black Friday Macworld Apple's M6 and PROLED MacBook Pro Reach New Low Prices for Black Friday MacRumors The best Black Friday MacBook Pro deals start at $1,749 with up to $500 off AppleInsider",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2JHNlVXUWhuTWtPSTF6bEVqSVE5YUl0WjlzZHV5elNBSENFUXljTnJHR19wdUU3TE5mTkIzUFg0dkE0QWtlNkdvbUdLWDFPMk51VWJ4bWRydjlOSE9HNGpxdkt4dFZxamEzenZPaE1CNEpkemFqWnRpaGhpZ3paWW9SZ1RMR01ZU0dlUjREU1lLTVlHTUlXWlo1VDU5UHM?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T03:30:00+00:00",
-   "summary": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos ESPN ‘Bo Nix Has Been Awful,’ ‘One of the Worst QBs Currently on a Winning Team’ — Shannon Sharpe Pulls No Punches After Broncos’ Loss to Steelers Yahoo Sports How to watch today's Pittsburgh Steel",
-   "body": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos ESPN ‘Bo Nix Has Been Awful,’ ‘One of the Worst QBs Currently on a Winning Team’ — Shannon Sharpe Pulls No Punches After Broncos’ Loss to Steelers Yahoo Sports How to watch today's Pittsburgh Steelers vs. Denver Broncos game in Week 12 of the NFL schedule CBS News Rudolph is Steelers Player of the Week Steelers.com “Has No Business Being a Starting QB”: NFL Fans React as Bo Nix Issues Apology After Disaster Outing vs Steelers Yahoo Sports",
+   "summary": "The M5 MacBook Air just got its biggest discount since Apple raised the price The Verge The Cheapest Black Friday MacBook Deals Are Back in Stock From $599 Business Insider The only MacBook I’d gladly pay full price for is $300 off for Black Friday Macworld Amazon Discounts All M",
+   "body": "The M5 MacBook Air just got its biggest discount since Apple raised the price The Verge The Cheapest Black Friday MacBook Deals Are Back in Stock From $599 Business Insider The only MacBook I’d gladly pay full price for is $300 off for Black Friday Macworld Amazon Discounts All MacBook Neo Models by $99 for Black Friday MacRumors The best Black Friday MacBook Pro deals start at $1,749 with up to $500 off AppleInsider",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1128,19 +1420,6 @@
    "lang": "en"
   },
   {
-   "title": "'At a loss for words': Wrestling world mourns Bronson Reed's shocking death at 38 - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzVBN2xLZDRHNWVJSWNSenQzVnc3UDVvOXYtTFhEeE9rbVF3LThvUGV0Sk1WVmwxUEQtWU1UNXk3ZE4tV0JmQkxvc1kxQjBNUVdYa3I1a1ZMdzhnTTNHVjBzQlQ2ZktOUWxWekR0UDhidDczQkRiNEtUOVpsc0J1dFZJYnFGaDFsa0J2ODdWem5MSmRLNTZzZ2p3VUF3Q3hKOUNDRC14NmpWbVdfd294QnRzUVlyRF9FZGNNRGpYQ2d4T1JWZTVqQmd6NDBVV2NH?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T02:12:00+00:00",
-   "summary": "'At a loss for words': Wrestling world mourns Bronson Reed's shocking death at 38 Yahoo Sports Jermaine Haley, also known as Bronson Reed, passes away WWE WWE star Bronson Reed dies at 38 due to ‘medical complications’ CNN Bronson Reed, WWE wrestling star, dies at 38 due to 'medi",
-   "body": "'At a loss for words': Wrestling world mourns Bronson Reed's shocking death at 38 Yahoo Sports Jermaine Haley, also known as Bronson Reed, passes away WWE WWE star Bronson Reed dies at 38 due to ‘medical complications’ CNN Bronson Reed, WWE wrestling star, dies at 38 due to 'medical complications' ABC7 Los Angeles WWE Star Bronson Reed Dies at 38 Variety",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
    "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1173,30 +1452,14 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0RESWZCNURwWGRtNHhIZTY0OXFScXNJYVk5TUJ2djBDWHVKNXVsZlVmRDZfUmFucEJqTUZBdkF0NkY4Y2JmQUJqZzRfazlhN0dWbnY0WTJCRXJ0X0NQTXAySXE3bGtKNnVWbWJhQ1czWGhJVk1qV1NBM01HMXE2S1J2S2VzTlBmT3VUa2pObFBGMHZzUUtRYkNsNnUzUzc5Ty16OQ?oc=5",
    "source": "Google News",
    "published": "2026-11-28T02:00:00+00:00",
-   "summary": "The High Political Cost of Trump’s Loyalty to Jensen Huang WSJ Trump says he talked Nvidia’s board into reinstating Jensen Huang. It’s not the first company he’s stepped into Fortune Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post",
-   "body": "The High Political Cost of Trump’s Loyalty to Jensen Huang WSJ Trump says he talked Nvidia’s board into reinstating Jensen Huang. It’s not the first company he’s stepped into Fortune Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post Jensen Huang’s bail-out will not be the AI boom’s last The Economist Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3? Yahoo Finance",
+   "summary": "The High Political Cost of Trump’s Loyalty to Jensen Huang WSJ Trump says he talked Nvidia’s board into reinstating Jensen Huang. It’s not the first company he’s stepped into Fortune Business The Economist Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia ",
+   "body": "The High Political Cost of Trump’s Loyalty to Jensen Huang WSJ Trump says he talked Nvidia’s board into reinstating Jensen Huang. It’s not the first company he’s stepped into Fortune Business The Economist Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington Post Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3? Yahoo Finance",
    "category": "USA / Americas",
    "is_war": false,
    "countries": [
     "United States"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-28T01:55:03+00:00",
-   "summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
-   "body": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "Israel",
-    "Palestine"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-israel-kills-msf-staff-2711-1795830840.png?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -1260,8 +1523,8 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkNXTVl5TndwZFpYcVRUVV92eUJ6N19wV3Z4UjJFZE03cnhxR3F0ZXM4VGMyZWJHd1ZIb1k3WnVYNkpkVnpiejdBSnJMWTB2RUlrelJzYlNGb2lOYndia1A4OV9BZjJOeHNRWkxBaXFJRDlxeVB3eDhaLXB6RUpteEs1VHphRVp6aGNHOWVfMnc1QkozM1gxVHNB0gGfAUFVX3lxTE1icFF1Unc4aFN0Zk9aRW8wdFpsMkp1V3h3Ujh6SDJxaW5TWEVPamllNWFnYXRkZkRYRFM1YXRFY1MtNFJVNmhEdmxBTzhXWHNvYjktckhQOERJLWI1emNxTnA3dlNna3AxdnhKcV9Fd2RGU1EycXRfdjk3MjRhZHNLU01FUDdxNjhiNnFLVE9JMXgtN21pWG53LW43dmhjdw?oc=5",
    "source": "Google News",
    "published": "2026-11-28T01:28:02+00:00",
-   "summary": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 ABC7 New York New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76 NBC New York Trailblazing NY Senate majority leader dies at 76 Politico State Senate Majority Leader Andrea Stewart-Cousins has died Gothamis",
-   "body": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 ABC7 New York New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76 NBC New York Trailblazing NY Senate majority leader dies at 76 Politico State Senate Majority Leader Andrea Stewart-Cousins has died Gothamist Andrea Stewart-Cousins dies at 76: NY lawmakers react ABC7 New York",
+   "summary": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 ABC7 New York New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76 NBC New York State Senate Majority Leader Andrea Stewart-Cousins has died Gothamist State Senate succession, Westchester special election aft",
+   "body": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 ABC7 New York New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76 NBC New York State Senate Majority Leader Andrea Stewart-Cousins has died Gothamist State Senate succession, Westchester special election after Andrea Stewart-Cousins’ death NEWS10 ABC Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies The New York Times",
    "category": "USA / Americas",
    "is_war": true,
    "countries": [],
@@ -1273,8 +1536,8 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeC1wZnNnelN2SjMyN0M3c1ByRU13Vmlsd2NlLWlxdzlDY04tRE5HRGZaNjhPNkFpSGNfa0VXdXp2em1maDdwb1huWjJrRlh5RGV5RG5JSy1icWUydXFlZ3V4U2hYM0JEeC1UVS04WEFmOEhROW8tRnkwTnE1cmpzYkMzTFhPVU10bktPZ05jS2luZ210SDVmRWNMSXJma2tMU2Z3?oc=5",
    "source": "Google News",
    "published": "2026-11-28T01:28:00+00:00",
-   "summary": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor AP News Macy's Thanksgiving Day Parade: What to know about Saturday's celebration ABC7 New York Nampa teen unable to perform in Macy's Thanksgiving Parade due to weather KTVB 'We ",
-   "body": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor AP News Macy's Thanksgiving Day Parade: What to know about Saturday's celebration ABC7 New York Nampa teen unable to perform in Macy's Thanksgiving Parade due to weather KTVB 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged BBC They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead CNN",
+   "summary": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor AP News Macy's Thanksgiving Day Parade: What to know about Saturday's celebration ABC7 New York Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and",
+   "body": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor AP News Macy's Thanksgiving Day Parade: What to know about Saturday's celebration ABC7 New York Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns AP News 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged BBC 100th Macy’s Thanksgiving Day Parade cleared for Saturday morning after historic weather-related postponement FOX Weather",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1282,7 +1545,7 @@
    "lang": "en"
   },
   {
-   "title": "Nigeria's acting legend was loved across Africa and beyond",
+   "title": "Nigeria's acting legend who was loved across Africa and beyond",
    "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-28T01:20:35+00:00",
@@ -1292,19 +1555,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Tad Stryker: Hawkeye QB Outplays Colandrea on Another Bleak Friday for Nebraska - Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRQZmh4M0M4eEgxN2h4cHItUEptdVlNd3gzRlBRcTFudEUwNWFtcUNsSjNlb01rekZuaWREZk5CV2dONnZfUVRRVV9ULURTOUZjMFFqc21RS1ZYbzNMMVRIbTJVVFQxSlNvamlqcHZmY093MEFUVnNWT1hLQ2xmVFNWdFJ3WTIyRURabld3U2dJUVY3VzNlS0l6dW0zWFJ3MHhNZ3RXWlhub1U?oc=5",
-   "source": "Google News",
-   "published": "2026-11-28T01:17:19+00:00",
-   "summary": "Tad Stryker: Hawkeye QB Outplays Colandrea on Another Bleak Friday for Nebraska Sports Illustrated Iowa 31-7 Nebraska (Nov 27, 2026) Game Recap ESPN Iowa fans chant ‘CFP’ as dominant win over Nebraska keeps Hawkeyes in mix for Playoff The New York Times Huskers Fall to No. 13 Iow",
-   "body": "Tad Stryker: Hawkeye QB Outplays Colandrea on Another Bleak Friday for Nebraska Sports Illustrated Iowa 31-7 Nebraska (Nov 27, 2026) Game Recap ESPN Iowa fans chant ‘CFP’ as dominant win over Nebraska keeps Hawkeyes in mix for Playoff The New York Times Huskers Fall to No. 13 Iowa - University of Nebraska - Official Athletics Website huskers.com No. 13 Iowa beats No. 25 Nebraska to keep Big Ten and College Football Playoff hopes alive Yahoo Sports",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1327,8 +1577,8 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
    "source": "Google News",
    "published": "2026-11-28T01:10:00+00:00",
-   "summary": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports CBS News U.S. Strikes Vessel Attempting Blockade Run Near Iran WSJ U.S. military jet disables commercial vessel in Gulf of Oman The Washington Post US disables ship tryi",
-   "body": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports CBS News U.S. Strikes Vessel Attempting Blockade Run Near Iran WSJ U.S. military jet disables commercial vessel in Gulf of Oman The Washington Post US disables ship trying to leave Iran, as Tehran vows to confront blockade Reuters US disables ship in Gulf of Oman under Iran blockade DW.com",
+   "summary": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports CBS News U.S. Strikes Vessel Attempting Blockade Run Near Iran WSJ US military says it fired on ship violating Iran blockade RTE.ie US disables ship trying to leave Iran",
+   "body": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports CBS News U.S. Strikes Vessel Attempting Blockade Run Near Iran WSJ US military says it fired on ship violating Iran blockade RTE.ie US disables ship trying to leave Iran, as Tehran vows to confront blockade Reuters US disables ship in Gulf of Oman under Iran blockade DW.com",
    "category": "Middle East",
    "is_war": true,
    "countries": [
@@ -1336,19 +1586,6 @@
     "Iran"
    ],
    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-   "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-28T01:00:00+00:00",
-   "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-   "body": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=800%2C600",
    "lang": "en"
   },
   {
@@ -1369,8 +1606,8 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHZ4TkgzX0pQREY4em9GUUgyMlFZSFdYZWtXY0hXZjNBM3B0VjRTWGYxbVpETnZ4WnJ2UmswQXV1blVkM1lqb1lMRGlKV09Iaml1bi1aQ3ZGNzRlcTcwS3F6U05PLXhScHdxeHgyQlZCQXpWM1FQTzhQTTZRcUlreENqQVpxUGU2b2NjU0pIV3Bxc1A3OFlr0gGXAUFVX3lxTE5sRWNDZUZBcVZ4T0JYSG9mUG5JTXFNeFNsb0Fib0FlSkFxZDliRHpWWktjejJLWjBfRmhibGJfazRPVmtlbGJSZFZzbS1ZRC1HaGtHOUtqZWZMc29NWXVaX1FzbWdFSE5UVk5QQVJmRndiS0l5dzNWeXFvLVhrU1RBSFRuT3N3eWpjU3lSZ2VnNm5qQktUVkU?oc=5",
    "source": "Google News",
    "published": "2026-11-28T00:56:12+00:00",
-   "summary": "Spain's Sanchez makes final appeal to voters before election DW.com Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down CNN Spanish PM and rivals rally supporters in final pitch for votes BBC Abroad, Spain’s Leader Is a Left-Wing Hero. Wi",
-   "body": "Spain's Sanchez makes final appeal to voters before election DW.com Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down CNN Spanish PM and rivals rally supporters in final pitch for votes BBC Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home? The New York Times Spain’s election could pull Madrid closer to Trump’s Washington CNBC",
+   "summary": "Spain's Sanchez makes final appeal to voters before election DW.com Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down CNN ‘Spanish MAGA’ Is Poised To Win Big—but Will It Be a Victory for Trump? Newsweek Abroad, Spain’s Leader Is a Left-",
+   "body": "Spain's Sanchez makes final appeal to voters before election DW.com Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down CNN ‘Spanish MAGA’ Is Poised To Win Big—but Will It Be a Victory for Trump? Newsweek Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home? The New York Times Spanish PM and rivals rally supporters in final pitch for votes BBC",
    "category": "Global",
    "is_war": false,
    "countries": [
@@ -1408,22 +1645,6 @@
    "lang": "en"
   },
   {
-   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports - The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0tMUjVQQTVCSk9wTXN0Y0Jxc01GcXkxRXQ2R3h5a1NTbTR2NE9qWEFWNFZoYnVib25tSUpiSkY5QmNaaE5yem9LTmNkVUM1b0JTTUlyaHF0Y0dKUFV4b0JRakxIclFBSlV5N2ZnLTVTbzdCQVV6YTJvLUM0RFdfU1hBRVJ1dldzOWc1c1VxV3BXM3dZOGhFenN6V05FNmd0ZEpITUZRNkN3ZDZ4d0lNUG0xVUdyblhKX3c?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-28T00:23:30+00:00",
-   "summary": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports The Kyiv Independent",
-   "body": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports The Kyiv Independent",
-   "category": "Ukraine / Russia",
-   "is_war": true,
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
    "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
    "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
    "source": "NYT World",
@@ -1439,22 +1660,7 @@
    "lang": "en"
   },
   {
-   "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-28T00:12:20+00:00",
-   "summary": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
-   "body": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
-   "category": "Europe / NATO",
-   "is_war": false,
-   "countries": [
-    "France"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-francesca-1795824697.png?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+   "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
    "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-28T00:05:17+00:00",
@@ -1464,52 +1670,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Iran war live: Iran’s army ready to respond to any attack ‘from anywhere’",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-28T00:00:00+00:00",
-   "summary": "Deputy chief of Iran's armed forces says military in a state of absolute readiness to respond to any 'misstep by enemy'.",
-   "body": "Deputy chief of Iran's armed forces says military in a state of absolute readiness to respond to any 'misstep by enemy'.",
-   "category": "Middle East",
-   "is_war": true,
-   "countries": [
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=800%2C600&quality=80",
-   "lang": "en"
-  },
-  {
-   "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
-   "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T23:57:03+00:00",
-   "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
-   "body": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=800%2C600",
-   "lang": "en"
-  },
-  {
-   "title": "US disables ship attempting to breach Iran blockade",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T23:55:16+00:00",
-   "summary": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
-   "body": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
-   "category": "Middle East",
-   "is_war": false,
-   "countries": [
-    "United States",
-    "Iran"
-   ],
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=800%2C600&quality=80",
    "lang": "en"
   },
   {
@@ -1525,19 +1685,6 @@
     "United States"
    ],
    "image": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc",
-   "lang": "en"
-  },
-  {
-   "title": "Schools in England must set aside time for pupils to read for pleasure",
-   "link": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-   "source": "The Guardian",
-   "published": "2026-11-27T23:34:55+00:00",
-   "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed reforms of the national curriculum. The education secretary, Lucy Powe",
-   "body": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed reforms of the national curriculum. The education secretary, Lucy Powell, is expected to announce to parliament on Monday that primary schools must earmark time each day for children to read. Continue reading...",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944",
    "lang": "en"
   },
   {
@@ -1643,8 +1790,8 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEtsS1YwcDgtVVVXazRBODJkcW5aZWNDTWRLYTA1YTI4VDhPLWVoYnFZX1BManJaRjFKMGRDZjM3WFBtZUZBTGUwYXhQR3M5UE1TVWtYRVRBbW0xckNDemsyV1hmejI1MnIzNjRYcUNiNGFscVl0ZUdnVnltVFpZWVBwQ2pBaFdGUWxIQ0paaDZJOXRNV2NCWmU3YjNRajU0WmfSAZ4BQVVfeXFMUENGeUgyalJVYXhJU0h2b3RmNndjQ1pkWERtTl9ueEpFTVV6Y0c2WGpBMzR5eDl4UXlCOHZqWklTZFBIWUxHWTFVUGFtQ3JZb1hSdkNKckpMSXlDUV9ZUW0wdnp4aEFqX2RyV0tRN2tqNDgtdEVkTDVVTXUtTWUyY2tMamR2cnprbDctOG4zSTZpMVhEMTd4NW03VndjWkE?oc=5",
    "source": "Google News",
    "published": "2026-11-27T22:39:02+00:00",
-   "summary": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news GSMArena.com The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming MacRumors 6 New iPhones Coming Out In 2027 SlashGear Three new iPhones will launch early next year, here’s what’s coming 9to5Mac",
-   "body": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news GSMArena.com The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming MacRumors 6 New iPhones Coming Out In 2027 SlashGear Three new iPhones will launch early next year, here’s what’s coming 9to5Mac 2027 product launches and beyond on the AppleInsider Podcast AppleInsider",
+   "summary": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news GSMArena.com Three new iPhones will launch early next year, here’s what’s coming 9to5Mac The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming MacRumors 6 New iPhones Coming Out In 2027 SlashGear",
+   "body": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news GSMArena.com Three new iPhones will launch early next year, here’s what’s coming 9to5Mac The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming MacRumors 6 New iPhones Coming Out In 2027 SlashGear 2027 product launches and beyond on the AppleInsider Podcast AppleInsider",
    "category": "Global",
    "is_war": false,
    "countries": [],
@@ -1697,31 +1844,19 @@
    "lang": "en"
   },
   {
-   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-   "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-27T21:55:53+00:00",
-   "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-   "body": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
-   "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
-   "source": "NYT World",
-   "published": "2026-11-27T21:41:12+00:00",
-   "summary": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back.",
-   "body": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back.",
-   "category": "Ukraine / Russia",
+   "title": "Taiwan is expanding its military draft. Will those troops make a difference? - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUJod1hpUmFBbjh6MWFMckVCYUhMM29LU1Q1bkVnQmdaMThfNzJ0VkZBd3RTNGEtTjNzUFB0bXFmWklfNzBrWVNFNDFVeWZ2N3Y3clBLN1FaSjdyaGtjMjlsYmZyNUM5M3A3NklhOUFOLVNtMkdJcEJ0bGpDU0lfZkF3UHNmYmlOUDd5cDJkTllZaGpsXzc1VXRsdXk4VUpVNk5SZWczaU12eFpGZGZlOVVfUVRnRlBVS2sxUnVjOFN4ODB10gHEAUFVX3lxTE0tMnRDTk10NDdqV2FiQ3BwV1BoRVRPRDc1NEF2TVpvNjdnbm1SUzF3dS1jdkRqalNONTNLendwSHlZTWZDbnZKYnY4WXpEaTJVX3VSN3hxd2RzLTV0N2FUR2ZnUS1jY0JPckNMN014V2ZZMHMteDhVTzVaSWpOTTlLcHdRTWNyNk5lN3FsREMtQUQ3bElRekgyc3lnVVhIb0lld2V1bm1hMVdKZFp2WDhic1Q2M3RSZjFhRGRaUHVsMlNMU3k?oc=5",
+   "source": "Google News · China Taiwan",
+   "published": "2026-11-27T22:00:15+00:00",
+   "summary": "Taiwan is expanding its military draft. Will those troops make a difference? South China Morning Post",
+   "body": "Taiwan is expanding its military draft. Will those troops make a difference? South China Morning Post",
+   "category": "Asia-Pacific",
    "is_war": true,
    "countries": [
-    "Russia"
+    "China",
+    "Taiwan"
    ],
-   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
+   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
    "lang": "en"
   },
   {
@@ -1738,107 +1873,6 @@
    ],
    "image": "https://www.rfa.org/resizer/v2/H6XSNIGHORFUFGDNDPBMQGSELI.jpg?auth=a5f2c95d5634cbe555a622931c18408f3a057713c3f1a7980ae917dcbbe02ec3&smart=true&width=1500",
    "lang": "my"
-  },
-  {
-   "title": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news - WTOP News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3U2ZHZhMDBFRzJUVEpVbTJ4VGVLQ0VkVFhfTUFmU0RqWkxLVkI0UDhFd0x5NWRKU3ZISUZNbGoydGJvaFpIYmNRYjd4WEdXSXdnMGYzYkxkdUJrckRGS1lWN21xODUzX1JtTHdFRUp0Vl8wbW1vejlxd3J4RDlhUDJlSWhmOThSYnpiVTdtZ3pFQnYxRERvc2JUQU5BbjZqLVBNMGV5dVpGWlRObHhLbnJRUW5pbnNR?oc=5",
-   "source": "Google News · War",
-   "published": "2026-11-27T21:26:28+00:00",
-   "summary": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news WTOP News",
-   "body": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news WTOP News",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-   "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-   "source": "The Guardian",
-   "published": "2026-11-27T21:24:10+00:00",
-   "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursd",
-   "body": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in July 2026 after a woman from Calgary sponsored it. The petition requests that the Canadian government declare Hoekstra “persona non grata” due to his “US” diplomatic interference in Canadian domestic affairs”. Continue reading...",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f9e753676a68320c2d147c2a5561d6a1",
-   "lang": "en"
-  },
-  {
-   "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
-   "source": "Google News · Ukraine",
-   "published": "2026-11-27T21:17:40+00:00",
-   "summary": "Kyiv offers Black Sea ceasefire to protect grain exports Al Jazeera",
-   "body": "Kyiv offers Black Sea ceasefire to protect grain exports Al Jazeera",
-   "category": "Global",
-   "is_war": true,
-   "countries": [
-    "Ukraine"
-   ],
-   "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-   "lang": "en"
-  },
-  {
-   "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
-   "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-   "source": "NYT World",
-   "published": "2026-11-27T21:17:12+00:00",
-   "summary": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
-   "body": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
-   "lang": "en"
-  },
-  {
-   "title": "Private tutor pleads guilty to committing various sexual offences on 16 girls, including his niece",
-   "link": "https://www.channelnewsasia.com/singapore/private-tutor-guilty-sexual-offence-niece-young-female-victims-6587631",
-   "source": "CNA World",
-   "published": "2026-11-27T21:16:00+08:00",
-   "summary": "A former school teacher and father of two, the man was arrested on Sep 24, 2025, after a victim's parent filed a police report.",
-   "body": "A former school teacher and father of two, the man was arrested on Sep 24, 2025, after a victim's parent filed a police report.",
-   "category": "USA / Americas",
-   "is_war": false,
-   "countries": [
-    "United States"
-   ],
-   "image": "https://dam.mediacorp.sg/image/upload/s--jAkum78S--/c_crop,h_900,w_1600,x_0,y_143/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=4EzRFnY8",
-   "lang": "en"
-  },
-  {
-   "title": "ASEAN unity, deeper integration key measures of successful 2027 chairmanship: Vivian Balakrishnan",
-   "link": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-singapore-asean-success-6587056",
-   "source": "CNA World",
-   "published": "2026-11-27T21:10:00+08:00",
-   "summary": "ASEAN must deepen economic integration and remain open to all major powers amid geopolitical uncertainties, says the Foreign Affairs Minister as Singapore takes over as chair of the bloc in 2027.",
-   "body": "ASEAN must deepen economic integration and remain open to all major powers amid geopolitical uncertainties, says the Foreign Affairs Minister as Singapore takes over as chair of the bloc in 2027.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://dam.mediacorp.sg/image/upload/s--pm-qRT9K--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/27/img_6969.jpg?itok=96i3_tFZ",
-   "lang": "en"
-  },
-  {
-   "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
-   "link": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
-   "source": "NYT World",
-   "published": "2026-11-27T20:51:21+00:00",
-   "summary": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
-   "body": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
-   "category": "Global",
-   "is_war": false,
-   "countries": [],
-   "image": "https://static01.nyt.com/images/2026/11/27/world/27int-safrica-joburg-mayor/27int-safrica-joburg-mayor-mediumSquareAt3X.jpg",
-   "lang": "en"
   },
   {
    "title": "မဲဆောက်အပါအဝင် နယ်စပ်ဂိတ် ၁၇ ခုကို ထိုင်းဘက်က ပိတ်သိမ်း",
@@ -2108,21 +2142,6 @@
    "is_war": false,
    "countries": [],
    "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/scam-2-900x506.jpg",
-   "lang": "my"
-  },
-  {
-   "title": "တိုင်းပြည်ကို ကင်ဆာလို လှိုက်စားနေတဲ့ မင်းအောင်လှိုင်",
-   "link": "https://burma.irrawaddy.com/video/2026/11/27/417889.html",
-   "source": "Irrawaddy Burmese",
-   "published": "2026-11-27T00:38:08+00:00",
-   "summary": "မြန်မာနိုင်ငံရဲ့ စီးပွားရေး၊ နိုင်ငံရေး၊ လူမှုဘဝနဲ့ ပြည်သူတွေရဲ့ အနာဂတ်ကိုပါ ဘက်စုံဖျက်ဆီးနေတဲ့ စစ်ခေါင်းဆောင်နဲ့ဗိုလ်ချုပ်တွေရဲ့ ဇာတိရုပ်နဲ့ လုပ်ရပ်တွေကို နှစ်ချုပ်သုံးသပ်ပြီး သူတို့ရဲ့ အာဏာရှင်စနစ်ကို ဘယ်လိုဖယ်ရှားကြမလဲဆိုတာ ဒီတစ်ပတ် Opinion Talk မှာ အယ်ဒီတာ ကျော်စွာမိုးက ဆွေးန",
-   "body": "မြန်မာနိုင်ငံရဲ့ စီးပွားရေး၊ နိုင်ငံရေး၊ လူမှုဘဝနဲ့ ပြည်သူတွေရဲ့ အနာဂတ်ကိုပါ ဘက်စုံဖျက်ဆီးနေတဲ့ စစ်ခေါင်းဆောင်နဲ့ဗိုလ်ချုပ်တွေရဲ့ ဇာတိရုပ်နဲ့ လုပ်ရပ်တွေကို နှစ်ချုပ်သုံးသပ်ပြီး သူတို့ရဲ့ အာဏာရှင်စနစ်ကို ဘယ်လိုဖယ်ရှားကြမလဲဆိုတာ ဒီတစ်ပတ် Opinion Talk မှာ အယ်ဒီတာ ကျော်စွာမိုးက ဆွေးနွေးထားပါတယ်။\n\nဧရာဝတီရဲ့ YouTube membership ကို Support လုပ်ချင်တဲ့ပရိတ်သတ်တွေအနေနဲ့ ဒီ https://www.youtube.com/@irrawaddynews1993 Link လေးမှ join button ကို နှိပ်ပြီးတော့ ပါဝင်နိုင်ပါပြီ။\n\nစာဖတ်သူများ၏ ပံ့ပိုးမှုက ပြည်သူများ လိုအပ်နေသည့် အကောင်းဆုံး နှင့် အရည်အသွေးမီ သတင်းများကို ဖော်ပြစေနိုင်မည်။\n\nSupport The Irrawaddy: https://www.irrawaddy.com/donation",
-   "category": "Global",
-   "is_war": false,
-   "countries": [
-    "Myanmar"
-   ],
-   "image": "https://burma.irrawaddy.com/wp-content/uploads/2026/11/Opinion-Talk1-900x506.jpg",
    "lang": "my"
   }
  ]
